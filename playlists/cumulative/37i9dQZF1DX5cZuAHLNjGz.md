@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Diljit Dosanjh
 
-263 songs - 13 hr 42 min
+264 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Do You Know](https://open.spotify.com/track/3kKfPlamJ5CO6j9tA4RdyS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [In Love With Diljit Dosanjh](https://open.spotify.com/album/29DT4MsLF2eLJxyJwivlnD) | 3:32 | 2023-08-24 | 2023-08-31 |
 | [Dream](https://open.spotify.com/track/1qbD2xTTBGif2ki4D5Po7P) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Dream](https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n) | 3:35 | 2022-05-29 | 2022-06-21 |
 | [Drunk Arjan](https://open.spotify.com/track/71rQJuk3u0Hqjsx4Hunnjo) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 3:16 | 2022-10-17 | 2022-11-16 |
-| [Dunia](https://open.spotify.com/track/191UibAfAOKYeA8vKv7MI9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:05 | 2023-08-03 |  |
+| [Dunia](https://open.spotify.com/track/191UibAfAOKYeA8vKv7MI9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:05 | 2023-08-03 | 2023-10-28 |
 | [Elevated](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Elevated](https://open.spotify.com/album/1XNS0VIWnEKteOv1fa0okk) | 3:20 | 2022-08-22 |  |
 | [ELEVATED](https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [ELEVATED](https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t) | 3:20 | 2022-05-29 | 2022-09-03 |
 | [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2022-06-01 |  |
@@ -96,6 +96,7 @@
 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 | 2022-05-29 |  |
 | [Gutt](https://open.spotify.com/track/6Y8r5v3lwWX80fr7oRNK9V) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Gutt](https://open.spotify.com/album/1Rw1ZFDTs08NyLop4Vz9ck) | 3:38 | 2022-05-29 | 2022-11-26 |
 | [Gutt Ch Paranda](https://open.spotify.com/track/4NyKTeLnNmWuwrYYUkak6d) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Sobha](https://open.spotify.com/artist/6Bc0kRRn7KUriyBrtzSV6z), [Deep Sandhu](https://open.spotify.com/artist/3zBJTgsnovcVTircnCf9tr) | [Gutt Ch Paranda](https://open.spotify.com/album/6Ef3ZkklKfluDkj1mBv6Li) | 3:49 | 2022-07-21 | 2022-07-23 |
+| [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2023-10-27 |  |
 | [Heart Attack](https://open.spotify.com/track/2Ycj9XXWp6cASuSA5UJ2Wo) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Heart Attack](https://open.spotify.com/album/7tM1PlNCbtd1a24fiNPH9y) | 2:42 | 2022-05-29 | 2022-06-01 |
 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 | 2022-11-02 | 2022-11-19 |
 | [Her](https://open.spotify.com/track/6biqkuWq069vByAEeGxZlr) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Her](https://open.spotify.com/album/17kCYpIx9cO6WEt3B7795R) | 2:34 | 2022-11-30 |  |

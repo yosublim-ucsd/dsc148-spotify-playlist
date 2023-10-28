@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,543 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,626 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 70 | [Ya Te la Cypress](https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:07 |
 | 71 | [Mi Religión](https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 |
 | 72 | [Fantasía Espacial](https://open.spotify.com/track/7sw0eBhRmEDTvU22MYEjoG) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Fantasía Espacial](https://open.spotify.com/album/1LABMIShNILlvmaGh8SwJh) | 3:15 |
-| 73 | [Toretto](https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Toretto \(FAST X / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1) | 2:30 |
+| 73 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 |
 | 74 | [Ni Muy Muy Ni Tan Tan](https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:08 |
 | 75 | [Gran Vida](https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:27 |
-| 76 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 |
+| 76 | [Toretto](https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Toretto \(FAST X / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1) | 2:30 |
 | 77 | [A la puta orden](https://open.spotify.com/track/7EcW65aV9P6IVNCH9OM4ad) | [Capotes](https://open.spotify.com/artist/5UO8LWE2yyh4f6Xp1hUmev), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5) | [A la puta orden](https://open.spotify.com/album/2LjM09NO3Y96chQjYDgGP6) | 2:36 |
 | 78 | [EL TAMBORRR](https://open.spotify.com/track/3h54tgQexhhDd7NcNQDNXe) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [EL TAMBORRR](https://open.spotify.com/album/4rP62gJhxZ4MgmJXFM6PPR) | 3:01 |
 | 79 | [Llévame](https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mundo](https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [Sabadrugs](https://open.spotify.com/track/5RuBHhtREoVI9t1YpdsJJ5) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [B\-RASTER](https://open.spotify.com/artist/4TH5DHRtzUUijYshUgKdby), [Sonik 420](https://open.spotify.com/artist/21TpgyDPXfEFa21Hgaj9Ed) | [Sabadrugs](https://open.spotify.com/album/4DjsNnuINp4iwMarVMSvJC) | 3:49 |
 | 100 | [My Name](https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [My Name](https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji) | 3:02 |
 
-Snapshot ID: `MCw0MTJiMjUxN2YwNWZhNDMxMDFmNWIyMTYxNmM1OTZlOTQwYzlhZjNm`
+Snapshot ID: `MCxhMmVlZWM2NjIxNjdiZmYzMDQzNmI1MGI4MGRkNTNlOGViMWRkZmZh`

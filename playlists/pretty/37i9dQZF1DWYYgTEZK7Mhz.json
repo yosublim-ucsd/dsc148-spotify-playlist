@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 23562,
+  "num_followers": 23606,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmIxZDI1ZmYwMGQyODQ0M2JmYTQ1ZmI4MDViMTY4YTRlMmQ5ZWJi",
+  "snapshot_id": "MCw4NmJlYmI0YmU4NDc1YWVhM2JjMGVjYTI1YTE4OGQwZjJjZGRiOTli",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Nell'aria",
+        "url": "https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA"
+      },
+      "artists": [
+        {
+          "name": "Marcella Bella",
+          "url": "https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Nell'aria",
+      "url": "https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Righeira The 80's Hit Songs",
         "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 268080,
       "name": "Fotoromanza",
       "url": "https://open.spotify.com/track/58KPUv9L8rmAosHctUoaJr"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Nell'aria",
-        "url": "https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA"
-      },
-      "artists": [
-        {
-          "name": "Marcella Bella",
-          "url": "https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Nell'aria",
-      "url": "https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0"
     },
     {
       "added_at": "2023-06-05 07:42:38",

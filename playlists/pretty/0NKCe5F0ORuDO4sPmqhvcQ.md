@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,907 likes - 122 songs - 6 hr 58 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,907 likes - 126 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,9 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 120 | [All About You](https://open.spotify.com/track/0Lc22wJyPHTKF8mEoOOGzT) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [All About You](https://open.spotify.com/album/0UPEviguYBkCVLWVTwXx2y) | 2:45 |
 | 121 | [Haunted](https://open.spotify.com/track/6OhmXq1u2nB8Wrm5wuPrqs) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Haunted](https://open.spotify.com/album/25az9xpMDxpmAzCTCwX7hf) | 2:35 |
 | 122 | [cold showers](https://open.spotify.com/track/4N4M6MYPCpgJxKyv5fpgzg) | [BARDZ](https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk), [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [cold showers](https://open.spotify.com/album/1REUjAHkHYFLSuXP2rgrrb) | 2:48 |
+| 123 | [Gradient](https://open.spotify.com/track/3lyF43hdw1AULXQyvrfRpa) | [Starya](https://open.spotify.com/artist/0vbBnL6lV4Gn3PA11vmKjX) | [Gradient](https://open.spotify.com/album/3WJrVYaL23cnjReefwIBWs) | 3:40 |
+| 124 | [MACH 10](https://open.spotify.com/track/1lBkr90r5ayibZw92Be7RJ) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [MACH 10](https://open.spotify.com/album/3Uj5FjcVPVhC8UHUt1wfhV) | 3:19 |
+| 125 | [Carbonceramics](https://open.spotify.com/track/7ERuaaH2MUZ6W4tPt7SfEG) | [Re:abel](https://open.spotify.com/artist/15iuCconBCNg86K2nVPNkd) | [Carbonceramics](https://open.spotify.com/album/5gHTMLQLOaWiDT1navoLut) | 4:40 |
+| 126 | [Runaway](https://open.spotify.com/track/1mZTaOUyj9f1NqBuD85Gti) | [Jantoje](https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx), [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Runaway](https://open.spotify.com/album/7tkgjZAdCf4dqqAY80V5D5) | 3:10 |
 
-Snapshot ID: `MTA1NDEsYjNmZTdkNDkwM2MyMGU2ODFlZjQzMzNlNWNmOTM4MzRhZDU3ODBhMA==`
+Snapshot ID: `MTA1NDUsYWRlYWI3YTFiNjg5YmI5Y2NkYmNmOWM1NGZkNjU3NDhiMGI2ZmQ0MA==`

@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 105013,
       "name": "Before He Cheats",
       "url": "https://open.spotify.com/track/4xBmdY8IqVypz6M63YdiBN"
@@ -1262,6 +1262,24 @@
       "duration_ms": 162800,
       "name": "How Far I'll Go",
       "url": "https://open.spotify.com/track/5TRugjx4cKvypzIe4QRk1c"
+    },
+    {
+      "album": {
+        "name": "bloom.",
+        "url": "https://open.spotify.com/album/1XzgUg7lAUwMHc3CbE8ITx"
+      },
+      "artists": [
+        {
+          "name": "AcaBelles",
+          "url": "https://open.spotify.com/artist/4tvkKHsjiEdmDvpMZhKNQ8"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "I Did Something Bad - 2023 Version",
+      "url": "https://open.spotify.com/track/5UptwdTRgaolwiHCV9UsDw"
     },
     {
       "album": {
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 196360,
       "name": "Right Round",
       "url": "https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ"
@@ -3100,6 +3118,24 @@
       "duration_ms": 221030,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/5k8OhvOHnnkesuWHSZx3EQ"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/7tCvGnaLWIhBYuUzrULOIC"
+      },
+      "artists": [
+        {
+          "name": "The Trills",
+          "url": "https://open.spotify.com/artist/1ndCTkNbTXQmLkuRZsh5qI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159602,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/0EUHkl8KfFzsru3TqyokPV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3HYlktiFpE6"

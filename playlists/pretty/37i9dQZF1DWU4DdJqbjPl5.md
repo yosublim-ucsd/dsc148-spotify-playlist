@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=4kObJXppQlCsi5YUDN7V6Q"> Xenia Manasseh </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,531 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,188 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 74 | [Hero](https://open.spotify.com/track/31iNSE9TF3ehPE7cX8OSek) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Journey to Idan](https://open.spotify.com/album/2U6DR87NV7jBoc2d5cHRxt) | 3:47 |
 | 75 | [AMINA](https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [AMINA](https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5) | 2:52 |
 
-Snapshot ID: `MCw4MWNlZGZjOGE1ZDc1NmFkMWMyODFlMTI2YjE0MTQ3MzNlM2Y2MmEx`
+Snapshot ID: `MCw4MGZlOThiMDczYTBlNmEwMjA2NzUzZjVkZWFiOWE0OWVkNjJmZGVh`

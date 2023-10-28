@@ -4,7 +4,7 @@
 
 > Snuggling in for the evening with a nice soundtrack
 
-195 songs - 11 hr 52 min
+197 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Long Time](https://open.spotify.com/track/5fJRHZyjnb6891ny5IOkL6) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V) | 3:41 | 2022-10-21 | 2023-04-20 |
 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 | 2022-05-25 |  |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/32pVUCXOGXGaRey5i03owa) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/1t12ZzaOf2r1v47MlqzOEM) | 3:25 | 2022-05-26 | 2022-07-29 |
+| [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-27 |  |
 | [a song from yesterday](https://open.spotify.com/track/1rIvV3vogPZDoEz4Ra0bei) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [a song from yesterday](https://open.spotify.com/album/6t3KlKXyY2FBWz3gKwcOx8) | 3:18 | 2022-11-18 | 2022-12-03 |
 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 | 2022-07-21 | 2023-04-29 |
 | [Adorn](https://open.spotify.com/track/7e4FBeBBfOOQsZosZVA7Af) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream: The Water Preview](https://open.spotify.com/album/6vgPmXpCwKpPjV6fLynFtH) | 3:14 | 2022-05-25 | 2022-05-30 |
@@ -42,7 +43,7 @@
 | [Bring It On Home To Me](https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:45 | 2022-05-25 |  |
 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 | 2022-05-25 |  |
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2022-05-27 | 2022-07-29 |
-| [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2022-05-25 |  |
+| [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2022-05-25 | 2023-10-28 |
 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 | 2023-06-16 | 2023-08-12 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 | 2022-05-25 |  |
 | [City Of Stars \- From "La La Land" Soundtrack](https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Emma Stone](https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 2:29 | 2022-07-21 | 2022-12-29 |
@@ -93,7 +94,7 @@
 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 | 2022-05-26 | 2022-10-08 |
 | [I Can't Make You Love Me](https://open.spotify.com/track/6ZDGNoguJ64rxp0dfm60y0) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [I Can't Make You Love Me / Immigrant Song](https://open.spotify.com/album/6zYzeVQ573REqkd2sqodBv) | 4:51 | 2022-05-25 | 2022-05-27 |
 | [I'm Not In Love](https://open.spotify.com/track/79uTMlc8BJYCw8VGfosNO6) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [I'm Not In Love](https://open.spotify.com/album/3ZiNT1O7TFH3tj6gRPxeob) | 6:54 | 2022-05-25 | 2022-05-28 |
-| [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 | 2022-07-21 |  |
+| [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 | 2022-07-21 | 2023-10-28 |
 | [I'm Ready to Move On / Wild Heart Reprise](https://open.spotify.com/track/1PpztPgGhKciEqfjjvL4Ld) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [Terrible Thrills, Vol\. 2](https://open.spotify.com/album/3dDJdCf37ggndgAng53yHC) | 4:18 | 2022-05-25 | 2022-06-12 |
 | [I'm with You](https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:59 | 2022-05-25 |  |
 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 | 2023-07-24 |  |
@@ -149,6 +150,7 @@
 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 | 2022-05-25 |  |
 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 | 2023-05-29 | 2023-09-17 |
 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 | 2022-05-25 | 2022-07-29 |
+| [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 | 2023-10-27 |  |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2022-07-21 |  |
 | [Remember That Night?](https://open.spotify.com/track/6EvnqbpVdenQUZUDAqpbeo) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Backseat Rider](https://open.spotify.com/album/0yYRGNZ8VyyBcUTZyCpyvf) | 3:47 | 2022-05-25 | 2022-07-29 |
 | [Sad Song](https://open.spotify.com/track/4BV9IIHko41sTgPyiMJ6Dv) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Sad Song](https://open.spotify.com/album/7iMGLgoSXFjEqvP8AQH09F) | 3:02 | 2022-06-24 | 2022-07-29 |

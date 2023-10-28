@@ -3785,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "My Foolishness",
+        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166187,
+      "name": "My Foolishness",
+      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
+    },
+    {
+      "album": {
         "name": "My Funny Valentine",
         "url": "https://open.spotify.com/album/4PyUkpWF5RXco0nsjQH0DW"
       },
@@ -5438,7 +5456,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 203439,
       "name": "Sudden Light",
       "url": "https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6"

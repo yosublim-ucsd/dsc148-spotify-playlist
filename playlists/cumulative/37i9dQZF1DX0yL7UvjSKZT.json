@@ -3313,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Every Bright Penny",
+        "url": "https://open.spotify.com/album/0kKqzflBXUOq1IahBXzwB2"
+      },
+      "artists": [
+        {
+          "name": "Liv Greene",
+          "url": "https://open.spotify.com/artist/2UltodJ8HNFM8hNpVyD5Ae"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214337,
+      "name": "New York's Arms",
+      "url": "https://open.spotify.com/track/2VVXIOwidW4efrECnpajdU"
+    },
+    {
+      "album": {
         "name": "City of Gold",
         "url": "https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK"
       },

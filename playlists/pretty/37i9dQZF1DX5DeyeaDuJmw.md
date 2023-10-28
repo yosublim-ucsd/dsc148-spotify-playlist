@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: AK4:20.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,481 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,527 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 41 | [La Mentira \- Remix](https://open.spotify.com/track/4jBpZsZ9qx3cZhoEfuKElF) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [La Mentira \(Remix\)](https://open.spotify.com/album/1wFqv2q07zfETMmB1NMDyC) | 6:28 |
 | 42 | [Don Don](https://open.spotify.com/track/3kml9ZdpT7UYk1ugkjqOzt) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS) | [Don Don](https://open.spotify.com/album/5xBO97P4jYEn69VzV06503) | 4:35 |
 | 43 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 |
-| 44 | [Sola & Vacía](https://open.spotify.com/track/46V4kseB66GjFGklCgynGX) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Sola & Vacía](https://open.spotify.com/album/4J8ZqzL9bOmjkcmxVqqouk) | 3:02 |
+| 44 | [Bandolera](https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bandolera](https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8) | 3:21 |
 | 45 | [Armao 100pre Andamos](https://open.spotify.com/track/127Q567KlWtlo1pLsiXr3h) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Armao 100pre Andamos](https://open.spotify.com/album/2yfbawGIIVrP491lqNQG1y) | 3:08 |
-| 46 | [Bandolera](https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bandolera](https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8) | 3:21 |
+| 46 | [Sola & Vacía](https://open.spotify.com/track/46V4kseB66GjFGklCgynGX) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Sola & Vacía](https://open.spotify.com/album/4J8ZqzL9bOmjkcmxVqqouk) | 3:02 |
 | 47 | [La Jeepeta](https://open.spotify.com/track/4RaWbMItxVbuUExNkFsITP) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Jeepeta](https://open.spotify.com/album/0pUFniwv3FndU1FlNN3apc) | 3:24 |
 | 48 | [Skyline](https://open.spotify.com/track/3ymRYcYHxXMmyvCaKcJ46k) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Skyline](https://open.spotify.com/album/2oLEG1I4AcvA630m0wSuZH) | 2:53 |
 | 49 | [Guayo](https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Guayo](https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 74 | [Parcera](https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Parcera](https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j) | 3:33 |
 | 75 | [Mala Influencia](https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mala Influencia](https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA) | 3:14 |
 
-Snapshot ID: `MCwwMDAyYmI0Y2ZjZWE3ZGI4MmEzMzYwYzBjN2ViOGYxYzk3YzlmNDkw`
+Snapshot ID: `MCxjMzMwYWZiZGRjYzc3MTlmN2FkZjUzMmI0ZWJlODYzMTdkMjgwOGVh`

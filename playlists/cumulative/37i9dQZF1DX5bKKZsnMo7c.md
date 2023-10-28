@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Mad Tsai
 
-291 songs - 15 hr 48 min
+292 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A TV Show Called Earth](https://open.spotify.com/track/0htdbSx3Z3dRU6GcaQrNBD) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [A TV Show Called Earth](https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7) | 3:22 | 2023-05-05 |  |
 | [Against the Kitchen Floor \- Live in Charlotte, NC](https://open.spotify.com/track/5iSHEe6K8pmrcWWy2kPvZE) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [IN CASE I DIE \(Live\)](https://open.spotify.com/album/7jGDcKK1aVh9vxDXV6RGmb) | 5:20 | 2023-01-13 | 2023-01-19 |
 | [Ain't No Crying](https://open.spotify.com/track/18wSH9W51fEBd9qrUAb9aW) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Songs of the SMP](https://open.spotify.com/album/6ks45W8ykLFRr1lgoUj9mW) | 2:36 | 2022-05-17 | 2022-12-10 |
+| [ALICE](https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ALICE](https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z) | 2:33 | 2023-10-27 |  |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2023-05-26 |  |
 | [All Eyes On Me](https://open.spotify.com/track/2Q6RiCAKOrxRYtvl9pcpjY) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 5:02 | 2022-06-07 | 2022-08-06 |
 | [All Eyes On Me](https://open.spotify.com/track/3rV5y8rcQrwRt9fWGLmjOQ) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 5:02 | 2022-05-17 | 2022-07-29 |
@@ -182,7 +183,7 @@
 | [Mawce](https://open.spotify.com/track/2cy5F36NoF5DihBkx0S3G7) | [Everybody's Worried About Owen](https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx) | [Mawce](https://open.spotify.com/album/3oFi7F2V5tfDvhd07ixnNc) | 3:02 | 2022-05-17 | 2022-07-29 |
 | [Mawce](https://open.spotify.com/track/5zdhuWhl2JAGmfJ8lhaKzY) | [Everybody's Worried About Owen](https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx) | [Mawce](https://open.spotify.com/album/4T4HBzxpLymOrndGcgwNC7) | 3:02 | 2022-06-07 | 2022-12-10 |
 | [Meant to Be Yours](https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Michelle Duffy](https://open.spotify.com/artist/4KyX6IwYaHVTz4KSHtMJw0) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:25 | 2022-05-17 |  |
-| [MESS](https://open.spotify.com/track/21yX9e6vaRE8dfsptqFqKf) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [MESS](https://open.spotify.com/album/3onqYrRIrhwsE9reWrFtlH) | 2:25 | 2023-09-22 |  |
+| [MESS](https://open.spotify.com/track/21yX9e6vaRE8dfsptqFqKf) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [MESS](https://open.spotify.com/album/3onqYrRIrhwsE9reWrFtlH) | 2:25 | 2023-09-22 | 2023-10-28 |
 | [Michael in the Bathroom](https://open.spotify.com/track/1L3wn1FJHmnv9OpjVbkMzY) | [George Salazar](https://open.spotify.com/artist/4VluulYWhcwWaD1pV7CtKB) | [Be More Chill \(Original Cast Recording\)](https://open.spotify.com/album/0758cp4h8LSZeLRzrKx2XM) | 4:57 | 2023-05-26 |  |
 | [Misery Meat](https://open.spotify.com/track/56sNhxLlrFYCbR0JFaK6w0) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/1GuNa6xVjgJIPS0VNll8TR) | 1:04 | 2022-05-17 | 2023-09-07 |
 | [Misery Meat](https://open.spotify.com/track/7EZWdBiXeyqE0digwKa3k0) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/7MVwT9ho5LaOBu5X4lk4De) | 1:04 | 2023-04-17 |  |

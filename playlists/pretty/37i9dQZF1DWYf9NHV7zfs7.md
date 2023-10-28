@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,547 likes - 79 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,625 likes - 79 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 67 | [Cada Vez](https://open.spotify.com/track/6mRxU581UjFtZpsjPJJdbQ) | [Daniela Herrero](https://open.spotify.com/artist/4DnisEwhpsBmBcyGvxRske) | [No Voy A Mentirte](https://open.spotify.com/album/4wlEeF8UKTZPcV0uxegEpx) | 2:48 |
 | 68 | [Sola En Los Bares](https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [En Vivo En El Opera](https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG) | 3:18 |
 | 69 | [Figurita](https://open.spotify.com/track/2u6ZHI2hEGwnXhUbzlQmOc) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Popular](https://open.spotify.com/album/0aTeekOTa8qn059GhDrm0r) | 3:01 |
-| 70 | [Te odio](https://open.spotify.com/track/1csfEev85ozpIotuiYixPe) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 3:33 |
+| 70 | [A punto \(feat\. Delfina Campos\)](https://open.spotify.com/track/7sBDv4kLo2GVucy5VGh7GX) | [Amigos Raros](https://open.spotify.com/artist/56PatIE4fUjuP4gPlyWVRf), [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [A punto \(feat\. Delfina Campos\)](https://open.spotify.com/album/0z8ck6llq2aHAfJ5NjDQ6t) | 3:22 |
 | 71 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 |
-| 72 | [A punto \(feat\. Delfina Campos\)](https://open.spotify.com/track/7sBDv4kLo2GVucy5VGh7GX) | [Amigos Raros](https://open.spotify.com/artist/56PatIE4fUjuP4gPlyWVRf), [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [A punto \(feat\. Delfina Campos\)](https://open.spotify.com/album/0z8ck6llq2aHAfJ5NjDQ6t) | 3:22 |
+| 72 | [Te odio](https://open.spotify.com/track/1csfEev85ozpIotuiYixPe) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 3:33 |
 | 73 | [La Despedida](https://open.spotify.com/track/3BzanHA52wCdFTkfB0ZYDJ) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [La Despedida](https://open.spotify.com/album/3gWVb2bUlxVyKWJxaxVgnZ) | 3:06 |
 | 74 | [Llega la Noche](https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3) | [Bandana](https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k) | [Bandana La Vuelta](https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE) | 3:14 |
 | 75 | [Otro Lado](https://open.spotify.com/track/7MIvQKZ714X6urIoeZP77O) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:57 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 78 | [Hace frío ya](https://open.spotify.com/track/7l2pUd2jBCYxSBLwqzOrfk) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Hormonal](https://open.spotify.com/album/56DSf4tGPPYKHl1LExWwKl) | 2:33 |
 | 79 | [Cambiar El Mundo](https://open.spotify.com/track/2k2xtMvEvDMs3e14CIteDp) | [El Purre](https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel) | [Cambiar El Mundo](https://open.spotify.com/album/6pI0aOVKei9UgFn2kw0KSX) | 3:16 |
 
-Snapshot ID: `MCwyYjc1OGUyODNmMTA5NmQzZGUwZGM0YTA3NDRmODRkOWZlNDllMWQ2`
+Snapshot ID: `MCw1Y2I4NzFmYzgwNTE2YTcwYmE5MTMwNTIzZjdkYjRkNzZhY2U2NTA5`

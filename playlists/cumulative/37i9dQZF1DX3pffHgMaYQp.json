@@ -2153,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "The American Dream Is Killing Me",
+        "url": "https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186270,
+      "name": "The American Dream Is Killing Me",
+      "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
+    },
+    {
+      "album": {
         "name": "The First Party On Mars",
         "url": "https://open.spotify.com/album/2oejdiZunfLbKSGrOswfFm"
       },

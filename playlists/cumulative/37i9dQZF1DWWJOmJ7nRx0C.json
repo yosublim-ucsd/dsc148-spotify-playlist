@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Oxymorrons",
+  "description": "The hardest songs, loud. Very loud. Cover: Metallica",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 235835,
       "name": "A Crooked Melody",
       "url": "https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI"
@@ -1619,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Bite Down",
+        "url": "https://open.spotify.com/album/1s6oKlpalFHFjjVFOi5GU1"
+      },
+      "artists": [
+        {
+          "name": "Mike's Dead",
+          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179640,
+      "name": "Bite Down",
+      "url": "https://open.spotify.com/track/3T5EUWsjUTsOUIPXJLbnUU"
+    },
+    {
+      "album": {
         "name": "SKIN",
         "url": "https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO"
       },
@@ -2424,6 +2442,24 @@
       "duration_ms": 194238,
       "name": "Burn With You",
       "url": "https://open.spotify.com/track/59HNDyS0NSPoPU1BjvVebk"
+    },
+    {
+      "album": {
+        "name": "Bury Me",
+        "url": "https://open.spotify.com/album/473EymkgPRlNPrNULlRcau"
+      },
+      "artists": [
+        {
+          "name": "Lansdowne",
+          "url": "https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202258,
+      "name": "Bury Me",
+      "url": "https://open.spotify.com/track/1NSYXbAScmN0YlfrA7wTuS"
     },
     {
       "album": {
@@ -4106,7 +4142,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 180624,
       "name": "Degrade Me",
       "url": "https://open.spotify.com/track/4Prj9fsFBVEGEpokBWz6nI"
@@ -6922,6 +6958,24 @@
       "duration_ms": 310026,
       "name": "Happier?",
       "url": "https://open.spotify.com/track/12Tb8eKhcPMoVMkhzeJwdr"
+    },
+    {
+      "album": {
+        "name": "Zig",
+        "url": "https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146364,
+      "name": "Hard",
+      "url": "https://open.spotify.com/track/1gaGSdNSAWyxdMYdRcM9T5"
     },
     {
       "album": {
@@ -9834,7 +9888,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184374,
       "name": "Mad Punks",
       "url": "https://open.spotify.com/track/61oZ1PntdHLFj2LfJE1ojv"
@@ -10090,6 +10144,24 @@
       "duration_ms": 206648,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/3c9kVsKF68xMzlS0NikVn3"
+    },
+    {
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330386,
+      "name": "Mattel",
+      "url": "https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3"
     },
     {
       "album": {
@@ -12149,6 +12221,24 @@
     },
     {
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2NkmRreOcXWwPvoVhFlIZP"
+      },
+      "artists": [
+        {
+          "name": "Art Of Dying",
+          "url": "https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217005,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/6USNJOAnAwBkbU1OXBCObI"
+    },
+    {
+      "album": {
         "name": "Piggy",
         "url": "https://open.spotify.com/album/5YQD1h6JKgfcVIYUGjChDW"
       },
@@ -13774,7 +13864,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 210567,
       "name": "Shake Your City",
       "url": "https://open.spotify.com/track/5tVcVrv04rJlQxrbZ5sDzK"
@@ -14490,6 +14580,24 @@
       "duration_ms": 246000,
       "name": "Spit You Out",
       "url": "https://open.spotify.com/track/7Jj9ygPtg5IzRzX9cfeI80"
+    },
+    {
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263266,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk"
     },
     {
       "album": {
@@ -15438,6 +15546,24 @@
       "duration_ms": 210772,
       "name": "Terrible Things (feat. Ashley McBryde)",
       "url": "https://open.spotify.com/track/0WxnOLr3M8kI7eRdVKuZm3"
+    },
+    {
+      "album": {
+        "name": "The American Dream Is Killing Me",
+        "url": "https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186270,
+      "name": "The American Dream Is Killing Me",
+      "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
     },
     {
       "album": {
@@ -17479,6 +17605,24 @@
     },
     {
       "album": {
+        "name": "War Machine",
+        "url": "https://open.spotify.com/album/69gV3gtOzI0kudt8F68tWB"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239904,
+      "name": "War Machine",
+      "url": "https://open.spotify.com/track/5HrNebS0Z8YJq2xz4zZ9zl"
+    },
+    {
+      "album": {
         "name": "War of Change",
         "url": "https://open.spotify.com/album/7Jl5wUb5M6nQ8Fmyee3czI"
       },
@@ -17640,6 +17784,24 @@
       "duration_ms": 203948,
       "name": "Watch The World Burn",
       "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
+    },
+    {
+      "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/2JRlZBhDTb5SZxjn7u878j"
+      },
+      "artists": [
+        {
+          "name": "Colorblind",
+          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158108,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/5LPNaJeIk7BzvaRKLXrgZe"
     },
     {
       "album": {
@@ -18284,6 +18446,24 @@
       "duration_ms": 281380,
       "name": "Wireless",
       "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+    },
+    {
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/7jtLgmvH6nnulQ3mPZKzq6"
+      },
+      "artists": [
+        {
+          "name": "Islander",
+          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219947,
+      "name": "Witch",
+      "url": "https://open.spotify.com/track/5MSdmihYEiWhtegR9Ji6mA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Jillian Mercado
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,916 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,882 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 25 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 |
 | 26 | [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 |
 | 27 | [Loba](https://open.spotify.com/track/1fPCGREltHJuV3axEPydLp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:09 |
-| 28 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 |
-| 29 | [I'm a Slave 4 U](https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:23 |
+| 28 | [I'm a Slave 4 U](https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:23 |
+| 29 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 |
 | 30 | [Pardonne\-moi](https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pardonne\-moi](https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9) | 3:07 |
 | 31 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 32 | [Stand Up \(From Harriet\)](https://open.spotify.com/track/3wNNbf63xkxw9rIVWtFy7a) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Stand Up \(From Harriet\)](https://open.spotify.com/album/2csFa6zpizG4hDUqQgj95C) | 5:03 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [Todo Todo](https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Todo Todo](https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD) | 3:14 |
 | 49 | [Progress \(Crying Like a Bitch\)](https://open.spotify.com/track/5npAZagCfIDH7RMD5mt3HR) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Progress \(Crying Like a Bitch\)](https://open.spotify.com/album/1eYodAbPuOak3f6LkKFLBz) | 2:48 |
 | 50 | [DEJA VU](https://open.spotify.com/track/7v7nrrYMIdugbGRAseawG9) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [DEJA VU](https://open.spotify.com/album/6RyQ5WoUUyokV0X5hboeAY) | 3:09 |
-| 51 | [查無此心 \- 《查無此心》電影主題曲](https://open.spotify.com/track/0QMtpUJcjt7IEl7FFSd8AJ) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [查無此心 \(《查無此心》電影主題曲\)](https://open.spotify.com/album/3humwzw4eBD7wuyX9qtLjl) | 4:38 |
-| 52 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 |
+| 51 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 |
+| 52 | [查無此心 \- 《查無此心》電影主題曲](https://open.spotify.com/track/0QMtpUJcjt7IEl7FFSd8AJ) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [查無此心 \(《查無此心》電影主題曲\)](https://open.spotify.com/album/3humwzw4eBD7wuyX9qtLjl) | 4:38 |
 | 53 | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/track/3yKzLSeR9NTwCTg9HvQkcJ) | [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/album/4gdijoRorJWWUUYlWcb5oJ) | 5:02 |
 | 54 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 |
 | 55 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 65 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 66 | [berlin U5](https://open.spotify.com/track/6S3oslrDkG9vyTDrtyjokA) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [PUTA](https://open.spotify.com/album/2ctwMRxRCZabremU4pGcz4) | 3:39 |
 | 67 | [Miami \- From Miami Bici 2 The Movie](https://open.spotify.com/track/6zssQJs1w0wOFuyVBU8VB2) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Miami \(From Miami Bici 2 The Movie\)](https://open.spotify.com/album/0r81zGM7H4gVVz2YpvLbzT) | 2:20 |
-| 68 | [imposter syndrome](https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears](https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn) | 3:15 |
-| 69 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 |
+| 68 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 |
+| 69 | [imposter syndrome](https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears](https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn) | 3:15 |
 | 70 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 |
 | 71 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 |
 | 72 | [m00d](https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [m00d](https://open.spotify.com/album/5zFqEhDGip3zPPvLshFeDk) | 3:04 |
 | 73 | [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdiği Şarkılar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:16 |
-| 74 | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/track/7GcPP6XnsvwJzJ7GMem62o) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/album/5aVa3UtePEKd3BBLmHWYdc) | 3:46 |
-| 75 | [Tem Dendê/Figa de Guiné \- Ao Vivo](https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Tem Dendê/Figa de Guiné \(Ao Vivo\)](https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp) | 3:32 |
+| 74 | [Tem Dendê/Figa de Guiné \- Ao Vivo](https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Tem Dendê/Figa de Guiné \(Ao Vivo\)](https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp) | 3:32 |
+| 75 | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/track/7GcPP6XnsvwJzJ7GMem62o) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/album/5aVa3UtePEKd3BBLmHWYdc) | 3:46 |
 
-Snapshot ID: `MCxjNmFhZmU3ZjY4NTRhZWI0YmZlYzc4YmVhNDA2N2I1ZGNiN2I0OWI3`
+Snapshot ID: `MCwzZDZjOTlmZjQwNTQ5MWNkZmEwMGJiNGMwODBiNzVjYjhkNjA4NWI3`

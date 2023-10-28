@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "blink-182 along with the best alternative songs of today.",
+  "description": "Noah Kahan along with the best alternative songs of today.",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 146440,
       "name": "All Eyes on Me (feat. BENEE, Chad Hugo & Pusha T)",
       "url": "https://open.spotify.com/track/4r48NKo5H3NHpe5nmxDFvv"
@@ -602,6 +602,24 @@
       "duration_ms": 210842,
       "name": "Atomic City",
       "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
+    },
+    {
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "album": {
@@ -2587,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "Pour It Out Into The Night",
+        "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262066,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8"
       },
@@ -3598,7 +3634,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 264120,
       "name": "Laugh Track (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z"
@@ -4372,7 +4408,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -5210,7 +5246,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202776,
       "name": "Paper Machete",
       "url": "https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W"

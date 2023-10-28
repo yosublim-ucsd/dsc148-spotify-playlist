@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-536 songs - 1 day 6 hr 10 min
+540 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Calle De Silva 6](https://open.spotify.com/track/4bzvRGIfL83G3RzasLgUH3) | [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Calle De Silva 6](https://open.spotify.com/album/5OpqN5kyrLcxsyJMwwYGP5) | 2:29 | 2022-07-07 | 2022-11-12 |
 | [Can't Say No](https://open.spotify.com/track/1q8w7j7ukxaHGAWsAgotEa) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:20 | 2021-12-07 | 2022-01-08 |
 | [Capsize \(feat\. Sarah de Warren\)](https://open.spotify.com/track/6FxILeOa0DIDHq5oD05zpI) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [HER](https://open.spotify.com/album/00YaZIXwhtyUVAQW1XSNZH) | 2:53 | 2023-03-06 | 2023-04-01 |
+| [Carbonceramics](https://open.spotify.com/track/7ERuaaH2MUZ6W4tPt7SfEG) | [Re:abel](https://open.spotify.com/artist/15iuCconBCNg86K2nVPNkd) | [Carbonceramics](https://open.spotify.com/album/5gHTMLQLOaWiDT1navoLut) | 4:40 | 2023-10-27 |  |
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2021-12-07 | 2022-01-08 |
 | [CATALYST](https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [CATALYST](https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU) | 3:26 | 2023-02-22 | 2023-06-23 |
 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-01-21 | 2022-03-10 |
@@ -202,6 +203,7 @@
 | [Going Home](https://open.spotify.com/track/5AH62IT62TEek7uigczBeR) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Going Home](https://open.spotify.com/album/03idXsvqv5OVZa8srntnH9) | 3:13 | 2022-03-09 | 2022-03-31 |
 | [Good Vibe](https://open.spotify.com/track/4AmHxLSkut2l0Fyv54fjuZ) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Good Vibe](https://open.spotify.com/album/3K15Io1pcbWvhDxaD5YNz1) | 3:49 | 2022-04-13 | 2023-01-30 |
 | [Gorgeous \(with Reo Cragun\)](https://open.spotify.com/track/4inDHMhS9nxqOygYurJH2Q) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Gorgeous \(with Reo Cragun\)](https://open.spotify.com/album/2kNtLpsLRH3s2b74ZinmNs) | 2:48 | 2022-09-02 |  |
+| [Gradient](https://open.spotify.com/track/3lyF43hdw1AULXQyvrfRpa) | [Starya](https://open.spotify.com/artist/0vbBnL6lV4Gn3PA11vmKjX) | [Gradient](https://open.spotify.com/album/3WJrVYaL23cnjReefwIBWs) | 3:40 | 2023-10-27 |  |
 | [Great Big Warm House](https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Great Big Warm House](https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm) | 2:22 | 2023-06-29 | 2023-10-06 |
 | [Grid Lines](https://open.spotify.com/track/7i4HvCVazy9piUZwumS44x) | [Shae District](https://open.spotify.com/artist/7h9Pbr7lcfxk8TyOXe8uCX) | [Grid Lines](https://open.spotify.com/album/2145oDTM1FqcH51ieqtfSd) | 6:17 | 2023-01-19 | 2023-07-20 |
 | [Haircut](https://open.spotify.com/track/3vJ7IorxIUTETdUYc8Wmif) | [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Haircut](https://open.spotify.com/album/6MpnYFXkjVgmzpDwlvofou) | 2:58 | 2022-03-30 | 2022-04-19 |
@@ -295,6 +297,7 @@
 | [LUKEY TY TY](https://open.spotify.com/track/3dJ2rRiGeXRmK3df5EoQfq) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [LUKEY TY TY](https://open.spotify.com/album/7i7IMaZAe5IamfpScpotin) | 1:53 | 2023-08-23 |  |
 | [Luminous \- gishfang Remix](https://open.spotify.com/track/1d9AeaczLLIZ1w28k8fRAn) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv) | [Luminous \(gishfang Remix\)](https://open.spotify.com/album/3lMhNcUS3WqDwhJ1HS6LYJ) | 2:16 | 2022-03-29 | 2022-04-19 |
 | [m box](https://open.spotify.com/track/2iZf5y9Ce6smoZiGkC0aAg) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl) | 2:32 | 2021-11-19 | 2022-01-08 |
+| [MACH 10](https://open.spotify.com/track/1lBkr90r5ayibZw92Be7RJ) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [MACH 10](https://open.spotify.com/album/3Uj5FjcVPVhC8UHUt1wfhV) | 3:19 | 2023-10-27 |  |
 | [Mad](https://open.spotify.com/track/7IUtD2X4mt2PMotBFM6uoL) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [AFFIRMATIONS](https://open.spotify.com/album/6qrsaSHCzscquJnDmEhs3m) | 2:44 | 2022-07-15 | 2023-07-20 |
 | [Make It Happen](https://open.spotify.com/track/7K1TsEgLCoNxr7tvPRJgrL) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:12 | 2021-10-22 | 2022-01-08 |
 | [MAKE ME BELIEVE](https://open.spotify.com/track/6Y15YurjpxSUQT2hAlW6Tz) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [MAKE ME BELIEVE](https://open.spotify.com/album/0LBFJdxLkwyZ9woZzh5M4W) | 3:55 | 2023-02-03 | 2023-07-20 |
@@ -396,6 +399,7 @@
 | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/album/0quSSIvZNfb6kxR8JcMRgM) | 3:03 | 2023-10-18 |  |
 | [RUN IT](https://open.spotify.com/track/7FM239I0HJpFFw7VFevY2Z) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [FUTURE SHOCK](https://open.spotify.com/album/52AomiipSkezQWqHY1bx4t) | 3:02 | 2023-08-16 | 2023-09-26 |
 | [RUN IT](https://open.spotify.com/track/0kn18ll6yY25PIx2TMXnlX) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [RUN IT](https://open.spotify.com/album/7cxNAaXTPIRRwwIPRYeFGS) | 3:02 | 2023-07-10 |  |
+| [Runaway](https://open.spotify.com/track/1mZTaOUyj9f1NqBuD85Gti) | [Jantoje](https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx), [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Runaway](https://open.spotify.com/album/7tkgjZAdCf4dqqAY80V5D5) | 3:10 | 2023-10-27 |  |
 | [Running \(in my mind\)](https://open.spotify.com/track/5gqb9NkwpxZtm8Zxi6BBLX) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [Running \(in my mind\)](https://open.spotify.com/album/5voibYsjdA4piZu58wTbkC) | 3:03 | 2023-10-05 |  |
 | [running back v2](https://open.spotify.com/track/35ux9cbSiFQvCMKF7v8J1z) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [running back v2](https://open.spotify.com/album/3UiLBW5hlvxEDAolwoWJUq) | 2:05 | 2022-02-28 | 2022-03-31 |
 | [Running Up That Hill \- Dance Version](https://open.spotify.com/track/4dM5RiuTAMqpxMXUymNvom) | [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Running up That Hill \(Dance Version\)](https://open.spotify.com/album/4GZnxEVMdliCIS4fKUcYWa) | 2:38 | 2022-07-08 | 2022-09-19 |

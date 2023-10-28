@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13571,
+  "num_followers": 13570,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmMzOTgyNWU2ZjdkZDZhOTRhMWMyMzRkYzZiYjYyNTk0MDY2YWM4",
+  "snapshot_id": "MCw3ODVhNzQ0MzQ5NmU0ZThlNzFjZDJhZmIzNGFhZGJjOTlmNGY2Mzc3",
   "tracks": [
     {
       "added_at": "2023-09-15 14:04:28",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "Same Soul",
-        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
-      },
-      "artists": [
-        {
-          "name": "Karen Rosenberg",
-          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
-        }
-      ],
-      "duration_ms": 240651,
-      "name": "Who Needs Paris",
-      "url": "https://open.spotify.com/track/5yA1ltXjiTkCaEvYi9nG8y"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "Music from the Front Room",
         "url": "https://open.spotify.com/album/6Pz9Wt7PD6YTkw4D4LQSDO"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 231502,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/7zI3nF4mahUbVKjxRjhmEt"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "Same Soul",
+        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
+      },
+      "artists": [
+        {
+          "name": "Karen Rosenberg",
+          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
+        }
+      ],
+      "duration_ms": 240651,
+      "name": "Who Needs Paris",
+      "url": "https://open.spotify.com/track/5yA1ltXjiTkCaEvYi9nG8y"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
         "name": "Cad\u00eancia Verde e Amarela",
         "url": "https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 237013,
       "name": "Cad\u00eancia",
       "url": "https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
-        "name": "Easy Does It",
-        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 179906,
-      "name": "I Can't Be Bothered Now",
-      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "The Art Of Elegance",
         "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 174813,
       "name": "I\u2019ve Got A Crush On You",
       "url": "https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "I Can't Be Bothered Now",
+      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
+        "name": "Let's Sail Away",
+        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rupert",
+          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
+        },
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
         "name": "Live at Unity",
         "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 364626,
       "name": "Only Love Can Break Your Heart - Live",
       "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
-        "name": "Let's Sail Away",
-        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
-      },
-      "artists": [
-        {
-          "name": "Jeff Rupert",
-          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
-        },
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Pennies from Heaven",
-      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
     },
     {
       "added_at": "2023-09-15 14:04:28",

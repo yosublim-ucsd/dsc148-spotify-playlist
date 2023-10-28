@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Green Day
 
-735 songs - 1 day 18 hr 34 min
+736 songs - 1 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-03-16 | 2023-07-16 |
 | [After The Flash](https://open.spotify.com/track/4eJ8NYk3p9lx5I0q9xt3rI) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [O Monolith](https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI) | 5:34 | 2023-06-08 | 2023-06-16 |
 | [Algorithms](https://open.spotify.com/track/0kac7CtVs9A8AZF8FHK2UE) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Algorithms](https://open.spotify.com/album/4RXegfKZ1n5kUOrAE3QuE0) | 3:09 | 2023-06-15 | 2023-06-23 |
-| [Alien](https://open.spotify.com/track/2XLWJHl3eO09dY4tnNiiGL) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Alien](https://open.spotify.com/album/6sKbU9Jkma2DoErZ15kWTp) | 2:32 | 2023-10-26 |  |
+| [Alien](https://open.spotify.com/track/2XLWJHl3eO09dY4tnNiiGL) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Alien](https://open.spotify.com/album/6sKbU9Jkma2DoErZ15kWTp) | 2:32 | 2023-10-26 | 2023-10-28 |
+| [Alien](https://open.spotify.com/track/4v0pjmWjw2xgqUIwM4mKmC) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Alien](https://open.spotify.com/album/76zAavyPia7SSF8tF69kZE) | 2:32 | 2023-10-26 |  |
 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 | 2023-08-10 | 2023-08-18 |
 | [alife](https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [alife](https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm) | 4:33 | 2023-08-31 | 2023-09-08 |
 | [All Eyes on Me \(feat\. BENEE, Chad Hugo & Pusha T\)](https://open.spotify.com/track/4r48NKo5H3NHpe5nmxDFvv) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Chad Hugo](https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp) | [All Eyes On Me \(feat\. BENEE, Chad Hugo & Pusha T\)](https://open.spotify.com/album/1WQFkEZ6ebRQ7ty6Ygbujl) | 2:26 | 2023-10-12 | 2023-10-20 |

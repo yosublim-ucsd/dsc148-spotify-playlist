@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 158591,
+  "num_followers": 158740,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWRlYWFmZjFkMmM5OTI5OTVmNWNlYTAyMzI2MmFmNjgzMzc5N2Jj",
+  "snapshot_id": "MCw4MGMyYTBkYjYwMzIyZTVhZWZiZjFlNzEzNTI4Yzc3NmRmZWM3NDZm",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Amor Palabra Poder",
-        "url": "https://open.spotify.com/album/0QmZYNcLZ9Vh3QM4fZWLY6"
-      },
-      "artists": [
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        }
-      ],
-      "duration_ms": 346933,
-      "name": "La Cruz",
-      "url": "https://open.spotify.com/track/64YUdJTdhkXJgvbKZpQtJa"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Gente Comun Sue\u00f1os Extraordinarios",
         "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 279457,
       "name": "Exagerado Amor",
       "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Amor Palabra Poder",
+        "url": "https://open.spotify.com/album/0QmZYNcLZ9Vh3QM4fZWLY6"
+      },
+      "artists": [
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        }
+      ],
+      "duration_ms": 346933,
+      "name": "La Cruz",
+      "url": "https://open.spotify.com/track/64YUdJTdhkXJgvbKZpQtJa"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1651,34 +1651,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Barra Libre",
-        "url": "https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ"
-      },
-      "artists": [
-        {
-          "name": "Nueva Raza",
-          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
-        },
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        },
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        },
-        {
-          "name": "Mariana Michelle",
-          "url": "https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU"
-        }
-      ],
-      "duration_ms": 206875,
-      "name": "Barra Libre",
-      "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Mi Coraz\u00f3n Te Anhela",
         "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
       },
@@ -1707,6 +1679,34 @@
       "duration_ms": 302146,
       "name": "Tengo Sed de Ti",
       "url": "https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Barra Libre",
+        "url": "https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ"
+      },
+      "artists": [
+        {
+          "name": "Nueva Raza",
+          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
+        },
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        },
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        },
+        {
+          "name": "Mariana Michelle",
+          "url": "https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU"
+        }
+      ],
+      "duration_ms": 206875,
+      "name": "Barra Libre",
+      "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
     },
     {
       "added_at": "2023-10-13 04:59:00",

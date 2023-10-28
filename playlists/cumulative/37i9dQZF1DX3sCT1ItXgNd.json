@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 163615,
       "name": "A Mi Lao",
       "url": "https://open.spotify.com/track/2zWsvszAYDfq9sOJ0yjCfm"
@@ -995,6 +995,28 @@
     },
     {
       "album": {
+        "name": "Con Solo una Sonrisa",
+        "url": "https://open.spotify.com/album/5PsdC4KHAN21WOZN0sW8zP"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234611,
+      "name": "Con Solo una Sonrisa",
+      "url": "https://open.spotify.com/track/6mu9zsveVti5Tf4gVs0LLR"
+    },
+    {
+      "album": {
         "name": "Converse Blancas",
         "url": "https://open.spotify.com/album/4dVOUUzGo6w2dgUXxFtLVi"
       },
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 206351,
       "name": "de mi pa ti",
       "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
@@ -1402,10 +1424,28 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 167191,
       "name": "Dem Time Deh",
       "url": "https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf"
+    },
+    {
+      "album": {
+        "name": "Demasiado Lejos",
+        "url": "https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179123,
+      "name": "Demasiado Lejos",
+      "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
     },
     {
       "album": {
@@ -2327,6 +2367,28 @@
     },
     {
       "album": {
+        "name": "GOOD DAY (feat. Camidoh)",
+        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164765,
+      "name": "GOOD DAY (feat. Camidoh)",
+      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
+    },
+    {
+      "album": {
         "name": "GTA.mp3",
         "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
       },
@@ -2538,7 +2600,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 169000,
       "name": "iPHONE AZUL",
       "url": "https://open.spotify.com/track/5zLDQe46BgMWYeACNvW4Pv"
@@ -2814,7 +2876,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 151214,
       "name": "La Tortura - Spotify Singles",
       "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: Ben Aler",
+  "description": "Fresh Latin Indie. Cover: Pink Pablo",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 200174,
       "name": "Diamante y L\u00e1grima",
       "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
@@ -2601,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "album": {
         "name": "Everlasting",
         "url": "https://open.spotify.com/album/2PQOF8sJwxJODZ4MZ97mYn"
       },
@@ -2634,6 +2652,24 @@
       "duration_ms": 238946,
       "name": "Everybody Wants to Rule the World",
       "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
+    },
+    {
+      "album": {
+        "name": "road 2 neverland",
+        "url": "https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "falco",
+      "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
     },
     {
       "album": {
@@ -2804,7 +2840,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 196310,
       "name": "Fuiste",
       "url": "https://open.spotify.com/track/43E9DTi6w0KDcVlMUQJZ3G"
@@ -5830,7 +5866,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 194048,
       "name": "odio esta casa (cuando te vas)",
       "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
@@ -7084,7 +7120,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 161840,
       "name": "SE DESVANECI\u00d3",
       "url": "https://open.spotify.com/track/4q0AvJnUh3y2ADKcaIUYgi"
@@ -7272,7 +7308,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 191924,
       "name": "Si Volviera A Conocerte",
       "url": "https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49"
@@ -7966,6 +8002,24 @@
       "duration_ms": 213563,
       "name": "Tenemos que hablar",
       "url": "https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N"
+    },
+    {
+      "album": {
+        "name": "LOBA Vol. I",
+        "url": "https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173642,
+      "name": "Tengo Sed",
+      "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
     },
     {
       "album": {

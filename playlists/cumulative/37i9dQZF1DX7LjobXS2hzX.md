@@ -2,7 +2,7 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Bad Bunny
+> Voici les hits du moment\. Photo: Tyla
 
 322 songs - 17 hr 5 min
 

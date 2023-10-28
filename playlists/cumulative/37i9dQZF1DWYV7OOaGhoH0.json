@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today. Cover: Sarah Jarosz",
+  "description": "The best in folk & acoustic today. Cover: Angie McMahon",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -854,7 +854,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 226146,
       "name": "Better Part of Me",
       "url": "https://open.spotify.com/track/2Qf6BPJNeyKk4O6kUeoAbU"
@@ -1910,6 +1910,24 @@
       "duration_ms": 146573,
       "name": "cigarette holes",
       "url": "https://open.spotify.com/track/4clKLUGYpnYvcFmgtYXxVH"
+    },
+    {
+      "album": {
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
     },
     {
       "album": {
@@ -3618,7 +3636,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 224893,
       "name": "How (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
@@ -4725,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249825,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V"
+    },
+    {
+      "album": {
         "name": "Lost Myself",
         "url": "https://open.spotify.com/album/2vVvuWTJhzW4DKinQ4upL0"
       },
@@ -4816,6 +4852,24 @@
       "duration_ms": 183360,
       "name": "Make It Out (feat. Maisie Peters)",
       "url": "https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt"
+    },
+    {
+      "album": {
+        "name": "Making It Through",
+        "url": "https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282366,
+      "name": "Making It Through",
+      "url": "https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV"
     },
     {
       "album": {
@@ -5220,6 +5274,24 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
+    },
+    {
+      "album": {
+        "name": "my friend's toyota",
+        "url": "https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "my friend's toyota",
+      "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
     },
     {
       "album": {
@@ -8414,7 +8486,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 221571,
       "name": "Willows",
       "url": "https://open.spotify.com/track/0skYZXWfbJtGlmRRRvQI4A"

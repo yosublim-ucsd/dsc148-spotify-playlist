@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Q",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Ojerime",
   "name": "Vanguard",
   "tracks": [
     {
@@ -578,6 +578,24 @@
       "duration_ms": 188667,
       "name": "advantages",
       "url": "https://open.spotify.com/track/67GD5DfgXGSGfnUaOOjd6u"
+    },
+    {
+      "album": {
+        "name": "AFTER HOURS",
+        "url": "https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "AFTER HOURS",
+      "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
     },
     {
       "album": {
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 169687,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/7sUg1ro2GwaN2uvo0Pp1qm"
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 231740,
       "name": "Bend, Don't Break",
       "url": "https://open.spotify.com/track/1aOMBiw2qKg5uyQ8CQdeDr"
@@ -6324,7 +6342,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 101333,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/4lgaAcJuVx9HpAq86PA41J"
@@ -11890,7 +11908,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 212289,
       "name": "Off the Wall",
       "url": "https://open.spotify.com/track/2pkDvFyDw9J0GxAta8spSb"
@@ -12804,6 +12822,24 @@
       "duration_ms": 205854,
       "name": "Pissed Black Girl",
       "url": "https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c"
+    },
+    {
+      "album": {
+        "name": "The Interludes",
+        "url": "https://open.spotify.com/album/3o2o7mFiio6QAAvgYPgrx7"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125258,
+      "name": "Pissed Off (Interlude)",
+      "url": "https://open.spotify.com/track/7pPaaQ7PGpKG3HJfUO0wam"
     },
     {
       "album": {
@@ -16375,6 +16411,24 @@
     },
     {
       "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148181,
+      "name": "TANTRUM!",
+      "url": "https://open.spotify.com/track/2qOKYK813gVCIENtN27Ndv"
+    },
+    {
+      "album": {
         "name": "b l u r r",
         "url": "https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0"
       },
@@ -17806,6 +17860,32 @@
       "duration_ms": 182226,
       "name": "up at night (feat. justin bieber)",
       "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
+    },
+    {
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        },
+        {
+          "name": "FELIX!",
+          "url": "https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177899,
+      "name": "Upset (feat. Tommy Richman & FELIX!)",
+      "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl"
     },
     {
       "album": {

@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Amerikakoffert",
+        "url": "https://open.spotify.com/album/2oi19N452zDFw7zbsnRiac"
+      },
+      "artists": [
+        {
+          "name": "Hayde Bluegrass Orchestra",
+          "url": "https://open.spotify.com/artist/5L3ac0hlDxpbLBj3oQq3Ly"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258801,
+      "name": "Girl From the North Country (Bob Dylan Cover)",
+      "url": "https://open.spotify.com/track/2wQLflu5Z6WQE5LVEfQTQD"
+    },
+    {
+      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },

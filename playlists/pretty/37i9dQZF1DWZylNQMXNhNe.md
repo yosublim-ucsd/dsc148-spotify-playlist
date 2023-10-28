@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Gloria Groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,938 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,032 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 32 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |
 | 33 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu) | 3:01 |
 | 34 | [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7j3doxjvebuL0ESuTIHFlA) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [After](https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R) | 2:30 |
-| 35 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 |
+| 35 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 |
 | 36 | [MAU](https://open.spotify.com/track/4yle1g6x5ZvZAGFTPcIM42) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [MAU](https://open.spotify.com/album/2piVGhoJU97oTfBEDeuVa9) | 2:55 |
 | 37 | [Que Passa](https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Que Passa](https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR) | 3:13 |
 | 38 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
 | 39 | [Difícil De Esquecer](https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE) | [Difícil De Esquecer](https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA) | 2:29 |
-| 40 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 |
+| 40 | [O Tempo Não Pára](https://open.spotify.com/track/6WQLbzNkOgCuRd5jCZ2qfv) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [O Tempo Não Pára](https://open.spotify.com/album/5FuERvnBsAuB0iBk99uANR) | 2:54 |
 | 41 | [TAQUEI](https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P) | [TAQUEI](https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv) | 2:00 |
-| 42 | [O Tempo Não Pára](https://open.spotify.com/track/6WQLbzNkOgCuRd5jCZ2qfv) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [O Tempo Não Pára](https://open.spotify.com/album/5FuERvnBsAuB0iBk99uANR) | 2:54 |
-| 43 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 |
+| 42 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 |
+| 43 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 |
 | 44 | [MIL GRAU](https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:25 |
 | 45 | [GRETA](https://open.spotify.com/track/6Li2optWeB4GobWGCzN4wf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |
 | 46 | [Cadeado](https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 | 50 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 |
 
-Snapshot ID: `MCwwYjc4ZDY0Y2E5YjA3YTc0ODZhYzljODI4ZWE2OGIwZjM3MDQ5MTFl`
+Snapshot ID: `MCw3ZGVlZGIzNDAzM2Q4MGExMDcyZTMzYzVhYWI0ODc3ZDZjNThmYjc4`

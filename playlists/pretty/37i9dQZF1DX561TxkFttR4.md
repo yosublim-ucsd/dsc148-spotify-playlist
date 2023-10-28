@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,588 likes - 80 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,635 likes - 80 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 22 | [Astray](https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Astray](https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2) | 2:00 |
 | 23 | [TOKYO](https://open.spotify.com/track/0XQYuH1sNtP8oiQfmnqlW9) | [Kobayashi L](https://open.spotify.com/artist/3La1u054fKQKcYEh5wcPzq) | [TOKYO](https://open.spotify.com/album/2PXNIV5RKAn1u9zDg03DA9) | 2:32 |
 | 24 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 |
-| 25 | [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 |
-| 26 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 |
+| 25 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 |
+| 26 | [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 |
 | 27 | [To Bring Rest](https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [To Bring Rest](https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5) | 2:17 |
 | 28 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
 | 29 | [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 43 | [Sun sinking at dusk](https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Sun sinking at dusk](https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI) | 2:33 |
 | 44 | [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 |
 | 45 | [Natural Light](https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 5:35 |
-| 46 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
+| 46 | [The Meadows 草地](https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The Meadows 草地](https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE) | 2:50 |
 | 47 | [Missing You](https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Missing You](https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c) | 2:28 |
-| 48 | [The Meadows 草地](https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The Meadows 草地](https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE) | 2:50 |
+| 48 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
 | 49 | [Nightfall](https://open.spotify.com/track/3hy3BLtI2pYAGZOjNvg8Hy) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Nightfall](https://open.spotify.com/album/5z98Le17wsSnniPu0n3a0P) | 2:22 |
 | 50 | [Tromsø](https://open.spotify.com/track/09jdC5o254s2seWBMMHco7) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Tromsø](https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX) | 2:11 |
 | 51 | [Azul](https://open.spotify.com/track/1cTCSy4aSPecGDDx3wqUjD) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Azul](https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc) | 2:00 |
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 66 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
 | 67 | [Emergence](https://open.spotify.com/track/31euvr3EhfWo8GbsVVsQjy) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Emergence](https://open.spotify.com/album/1PDA8OAoJh0JIuVmuoxWuC) | 2:06 |
 | 68 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 |
-| 69 | [Romanzo](https://open.spotify.com/track/61TS7LURuPHVDdVsuWvxfC) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Romanzo](https://open.spotify.com/album/3hV54JZiq0la65AY4KXB4J) | 2:03 |
-| 70 | [Grazioso](https://open.spotify.com/track/2tSwBrSAM5A2LyIOl3hNTq) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Grazioso](https://open.spotify.com/album/5cTMO1rsT03oLH3955ErvZ) | 2:13 |
-| 71 | [New Dawn](https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK) | 2:54 |
-| 72 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 |
+| 69 | [Grazioso](https://open.spotify.com/track/2tSwBrSAM5A2LyIOl3hNTq) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Grazioso](https://open.spotify.com/album/5cTMO1rsT03oLH3955ErvZ) | 2:13 |
+| 70 | [Romanzo](https://open.spotify.com/track/61TS7LURuPHVDdVsuWvxfC) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Romanzo](https://open.spotify.com/album/3hV54JZiq0la65AY4KXB4J) | 2:03 |
+| 71 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 |
+| 72 | [New Dawn](https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK) | 2:54 |
 | 73 | [Nebula](https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Nebula](https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub) | 2:41 |
 | 74 | [Floating](https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Floating](https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY) | 4:14 |
 | 75 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 |
 | 76 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 |
-| 77 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 |
-| 78 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 |
+| 77 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 |
+| 78 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 |
 | 79 | [In The End](https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [In The End](https://open.spotify.com/album/0LiQNUF6t6gTO3PTaD7XDb) | 2:46 |
 | 80 | [Open Window](https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Open Window](https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES) | 2:06 |
 
-Snapshot ID: `MCw4ZjFhZWRjZmRhYzE3YzU2Y2UwYmU5MjNiYjFlYTk5NTRlMGEyMzE1`
+Snapshot ID: `MCw0ODgzNjZiODhlNGM4ZGQ4NDMzMWFkYjAzZmUzNzU1MDg3MjkwZjU5`

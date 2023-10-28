@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ghost",
-  "num_followers": 55074,
+  "num_followers": 55111,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTM0ZTA5NTgyY2U5ODgxNzMwYzA2YzM1MjFlNzVmYTI4YzUzMDEx",
+  "snapshot_id": "MCw0NzU2YzUyODE2YzZkMmYzYmU5MGNjMWYwNjJjZjViOGI4NTcyYmNh",
   "tracks": [
     {
       "added_at": "2023-10-18 05:00:00",
@@ -77,6 +77,26 @@
       "url": "https://open.spotify.com/track/3LDvqJXBZPbzcQACtexfTv"
     },
     {
+      "added_at": "2023-10-27 10:45:27",
+      "album": {
+        "name": "Bairagi Aadiyogi Shankara (From \"Inamdar\")",
+        "url": "https://open.spotify.com/album/5F1qIZOSQqT8B82bp6LDTK"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Acharya",
+          "url": "https://open.spotify.com/artist/6AueyJq6aqbvnRw0zpTSVD"
+        },
+        {
+          "name": "Siddharth Belmannu",
+          "url": "https://open.spotify.com/artist/79LdQ8oCiYU93qEqWMEUCj"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Bairagi Aadiyogi Shankara (From \"Inamdar\")",
+      "url": "https://open.spotify.com/track/4ZvZmGwztSaeMg5ggJLjaw"
+    },
+    {
       "added_at": "2023-10-04 05:39:45",
       "album": {
         "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
@@ -95,6 +115,30 @@
       "duration_ms": 233413,
       "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
       "url": "https://open.spotify.com/track/3JPqLECC7amVkYrxUsMDpK"
+    },
+    {
+      "added_at": "2023-10-27 08:46:58",
+      "album": {
+        "name": "Naa Bere Nee Bere (From \"ANIMAL\") [Kannada]",
+        "url": "https://open.spotify.com/album/1cKzuuGvcfBNvXvKGk1rla"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 271322,
+      "name": "Naa Bere Nee Bere (From \"ANIMAL\") [Kannada]",
+      "url": "https://open.spotify.com/track/7Kx9DZYzvw0sQYV93Z6tgH"
     },
     {
       "added_at": "2023-10-25 08:04:34",
@@ -1469,30 +1513,6 @@
       "url": "https://open.spotify.com/track/6zSZvXv7W17mtIA4yZdvDD"
     },
     {
-      "added_at": "2023-08-30 12:19:27",
-      "album": {
-        "name": "Yedeya Daniya Haadu (From \" Jalapaatha \")",
-        "url": "https://open.spotify.com/album/2z8d9uqVAL35bynabXJaNx"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Sadwini Koppa",
-          "url": "https://open.spotify.com/artist/2U4OMgHh4QWreQsizx9Jdn"
-        },
-        {
-          "name": "RAMESH BEGAR",
-          "url": "https://open.spotify.com/artist/7l2j74FcsNfSRzDDMG1s0X"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Yedeya Daniya Haadu - From \" Jalapaatha \"",
-      "url": "https://open.spotify.com/track/1ygvbhLXCvAc9vDSFjUXvZ"
-    },
-    {
       "added_at": "2023-08-10 11:59:55",
       "album": {
         "name": "Hukum (From \"Jailer\")",
@@ -1539,30 +1559,6 @@
       "duration_ms": 221052,
       "name": "Onti Payaniga (From \"ABHIRAMACHANDRA\")",
       "url": "https://open.spotify.com/track/0yHzqW7WqWiLI7kSq3Bc6x"
-    },
-    {
-      "added_at": "2023-08-17 11:39:57",
-      "album": {
-        "name": "Kushi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7efzbJBGvg9BoToMpkEVAz"
-      },
-      "artists": [
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Bhavana Isvi",
-          "url": "https://open.spotify.com/artist/4nQarXr83H5tWPyWepz9k5"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        }
-      ],
-      "duration_ms": 230076,
-      "name": "Hrudayavidu Maounaa",
-      "url": "https://open.spotify.com/track/6Iytxv6u8UCuGavZUIyM63"
     },
     {
       "added_at": "2023-08-29 09:40:26",

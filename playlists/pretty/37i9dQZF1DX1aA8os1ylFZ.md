@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,587 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,646 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 40 | [Words of Affirmation](https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Words of Affirmation](https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7) | 3:06 |
 | 41 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 |
 | 42 | [Another Life](https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 4:30 |
-| 43 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 |
-| 44 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 |
+| 43 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 |
+| 44 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 |
 | 45 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 |
 | 46 | [Crash & Burn](https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Crash & Burn](https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2) | 2:27 |
 | 47 | [Look My Way](https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Look My Way](https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq) | 2:54 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 59 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 |
 | 60 | [Celebrate](https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Mood Swings](https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1) | 3:13 |
 | 61 | [white rice déjà vu](https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:50 |
-| 62 | [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 |
-| 63 | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS) | 2:34 |
+| 62 | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS) | 2:34 |
+| 63 | [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 |
 | 64 | [Rise](https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [Rise](https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU) | 2:50 |
 | 65 | [On Mine](https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [On Mine](https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5) | 2:23 |
 | 66 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Do They Know](https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Do They Know](https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM) | 2:02 |
 | 100 | [Whatever I Guess?](https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz) | [Ashia Vu](https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4) | [Whatever I Guess?](https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu) | 3:33 |
 
-Snapshot ID: `MCw0ZjJlOGMxNmEyODAxYjI4ODIwMGUzNThkOGFiODJiMjg4NDFmMGM5`
+Snapshot ID: `MCwzYmJkZjg0OWRlNTFlNTFjZDcwYzBlYTAyNWRmZmY1N2UyZmVjN2Fi`

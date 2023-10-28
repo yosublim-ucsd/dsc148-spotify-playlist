@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Kraantje Pappie
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,973 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,993 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 3 | [Stay \(Never Leave\)](https://open.spotify.com/track/6zDitZRQadPCyaVl4u6OJy) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Stay \(Never Leave\)](https://open.spotify.com/album/3ShZxa7ntVznDhTLISXLY9) | 2:32 |
 | 4 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 |
 | 5 | [Dreaming](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Dreaming](https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK) | 2:50 |
-| 6 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 |
+| 6 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 |
 | 7 | [Het Kost Wat](https://open.spotify.com/track/1JgVMnVVOhPBmUDD7SYva3) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Het Kost Wat](https://open.spotify.com/album/4UzcY48Xn0Aulqk3nfjqQ8) | 2:06 |
 | 8 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
 | 9 | [Ik Kijk Soms Naar Jou](https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Kijk Soms Naar Jou](https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx) | 3:02 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 | 40 | [Cuff It](https://open.spotify.com/track/4aklcHyOrgB2t4iXNgpvk9) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Cuff It](https://open.spotify.com/album/3ujSj1tKnkjg9V3d7WREoD) | 3:31 |
 
-Snapshot ID: `MCw0N2IzMTI0NzY2OWE4Y2YwODllODFiZjlhNjUyMjJkZGM5ZDY4ZTZh`
+Snapshot ID: `MCw0YjQ3MjE4YmM4NWJkNDhlNGE4Y2U0ZDI5MTIyYjM2MWIyMTBmZjBh`

@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Spiral EP",
+        "url": "https://open.spotify.com/album/6NvUxfE2On0Dr3GSjYTQlc"
+      },
+      "artists": [
+        {
+          "name": "Ovadia",
+          "url": "https://open.spotify.com/artist/4si1CRQee3VJsckWrIkO7y"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359024,
+      "name": "ADSR - Extended Mix",
+      "url": "https://open.spotify.com/track/62sKCTw9PDCX5nr7yWzd8h"
+    },
+    {
+      "album": {
         "name": "Past \u00d8 Phuture Vol.1",
         "url": "https://open.spotify.com/album/1r7tNk9183DyrCg7QmZHA3"
       },
@@ -262,6 +280,28 @@
       "duration_ms": 440625,
       "name": "Barfuss",
       "url": "https://open.spotify.com/track/6ydgdQ1R6XMMJLbBLvL28f"
+    },
+    {
+      "album": {
+        "name": "Tapes",
+        "url": "https://open.spotify.com/album/1CIUO7SftEAYrEmSCSrOG1"
+      },
+      "artists": [
+        {
+          "name": "Julio Bashmore",
+          "url": "https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG"
+        },
+        {
+          "name": "Maurice Donovan",
+          "url": "https://open.spotify.com/artist/2LPSMKTtFBgzdVnOQ3PvYh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414773,
+      "name": "Battle For Middle You - Maurice Donovan Dub",
+      "url": "https://open.spotify.com/track/5OpDFyqbtDcWzLtakZhocn"
     },
     {
       "album": {
@@ -770,7 +810,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 387302,
       "name": "Diving Into Minds - Club Mix",
       "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
@@ -941,6 +981,28 @@
     },
     {
       "album": {
+        "name": "International Confusion",
+        "url": "https://open.spotify.com/album/1MsoGxqvVIikO2HzXJ8SAi"
+      },
+      "artists": [
+        {
+          "name": "Airrica",
+          "url": "https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW"
+        },
+        {
+          "name": "Ashee",
+          "url": "https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Elsa's Scream",
+      "url": "https://open.spotify.com/track/5hW6jSqtuAFKVrgsG9u1qQ"
+    },
+    {
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
       },
@@ -1034,6 +1096,24 @@
       "duration_ms": 372080,
       "name": "Encounters - SOHMI Fantasy Extended Remix",
       "url": "https://open.spotify.com/track/7JmUuXLWxna6TC1ZqIL1kZ"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1PEzmLRkyQKoerHtO6xRdz"
+      },
+      "artists": [
+        {
+          "name": "Dark Heart",
+          "url": "https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/0oO8senyNdYxs075cnTTL2"
     },
     {
       "album": {
@@ -1260,7 +1340,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 194525,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1y6Xi4BDKnjZ2jbLXkVeyu"
@@ -1304,6 +1384,24 @@
       "duration_ms": 264698,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl"
+    },
+    {
+      "album": {
+        "name": "Flashing Lights",
+        "url": "https://open.spotify.com/album/3zIrS2eX7kroF2Nr1uhvxY"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284823,
+      "name": "Flashing Lights - Extended Mix",
+      "url": "https://open.spotify.com/track/3RJyaa0999jHaage1AgOQp"
     },
     {
       "album": {
@@ -1514,7 +1612,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 269360,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn"
@@ -1888,6 +1986,28 @@
       "duration_ms": 318560,
       "name": "Joan",
       "url": "https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz"
+    },
+    {
+      "album": {
+        "name": "JOY (Back on 74)",
+        "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271395,
+      "name": "JOY (Back On 74)",
+      "url": "https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82"
     },
     {
       "album": {
@@ -3242,7 +3362,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 365806,
       "name": "Snabeln",
       "url": "https://open.spotify.com/track/6Dmdyn9x5EfAnbk7O9rUn2"
@@ -3358,7 +3478,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 167619,
       "name": "Space Invader",
       "url": "https://open.spotify.com/track/6Qog1jVmV4qSXWGIa0nNDS"
@@ -3518,6 +3638,24 @@
       "duration_ms": 201412,
       "name": "Submission",
       "url": "https://open.spotify.com/track/2IrodvaY9StrKS02EfC2S0"
+    },
+    {
+      "album": {
+        "name": "Before One EP",
+        "url": "https://open.spotify.com/album/6nDabvimKikHWteZsybtEd"
+      },
+      "artists": [
+        {
+          "name": "Ben Klock",
+          "url": "https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383972,
+      "name": "Subzero - Original Mix",
+      "url": "https://open.spotify.com/track/7p6oXzBSPAXXz8Xb8gBPki"
     },
     {
       "album": {
@@ -3786,7 +3924,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 180057,
       "name": "To The Ground",
       "url": "https://open.spotify.com/track/2wEW81bVSkvqqNHDnSPPl9"
@@ -4134,7 +4272,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 212903,
       "name": "We You",
       "url": "https://open.spotify.com/track/3WQ2ZSaSvkU6cmf6vZZb7Q"

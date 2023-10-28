@@ -7241,6 +7241,24 @@
     },
     {
       "album": {
+        "name": "Cheminement",
+        "url": "https://open.spotify.com/album/5L5y6SteAN2DImbrBJMd2O"
+      },
+      "artists": [
+        {
+          "name": "L (Rapha\u00eble Lannad\u00e8re)",
+          "url": "https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237373,
+      "name": "Je t'attends",
+      "url": "https://open.spotify.com/track/1H7fub0sVefmxSybba0PES"
+    },
+    {
+      "album": {
         "name": "Je te pardonne",
         "url": "https://open.spotify.com/album/3MGdkQB5t67iC9jV4A1vo5"
       },
@@ -11780,7 +11798,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 220346,
       "name": "Nu",
       "url": "https://open.spotify.com/track/3sFSvsSxwOIIIqcXp7jGsW"

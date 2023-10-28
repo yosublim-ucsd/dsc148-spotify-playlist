@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,980 likes - 117 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,014 likes - 117 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 12 | [SUPERCAR](https://open.spotify.com/track/49OWLslwYgeMZlTflhmgzR) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:42 |
 | 13 | [Endless dream, good night](https://open.spotify.com/track/1Tn3BfNkoQio5yL0ZbO2z8) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SAILING](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) | 3:00 |
 | 14 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
-| 15 | [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 |
+| 15 | [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [4BOUT](https://open.spotify.com/artist/7KrgKa6NylGrkmWKm9ZlRC) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 |
 | 16 | [I just miss you](https://open.spotify.com/track/6RMOoOvtoOL4bunthGqA9x) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [I just miss you](https://open.spotify.com/album/7tn5xTjttuaRYO2XnPiAQJ) | 3:38 |
 | 17 | [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 |
 | 18 | [Fade Away](https://open.spotify.com/track/6D24uCuTJOhirnmRDtyB0m) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:51 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 116 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 117 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MCw4YzVhZTM1YmNjMThlOTYyM2RmODhjOTI5ZmNmYWIxYzY0NWM4YzIx`
+Snapshot ID: `MCwzZTA1YTllMmZhOGMwMmYzYmJhODE2ODkyYzZkYjAxYzU0NGMzMzJj`

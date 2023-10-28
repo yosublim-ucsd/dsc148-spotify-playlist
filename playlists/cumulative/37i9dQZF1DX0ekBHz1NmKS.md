@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-845 songs - 1 day 20 hr 43 min
+846 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Get Real](https://open.spotify.com/track/1Eg6JkuIMYJzgbLOwV0e79) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Get Real](https://open.spotify.com/album/6Kzdksle0ZbkKrC5EKIFmJ) | 2:24 | 2023-10-19 | 2023-10-27 |
 | [Ghost Killer](https://open.spotify.com/track/04l6PAC8SUtEPTY3IdRuT7) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [VIRGO](https://open.spotify.com/album/1u0nScxOJfm43X7wN2wOW0) | 3:17 | 2021-12-16 | 2022-03-06 |
 | [Give It Up](https://open.spotify.com/track/0cfa6feWmBpltHW6vKjTTt) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Give It Up](https://open.spotify.com/album/44uVGm0rxxL1y4ooq1fVJ6) | 2:41 | 2021-12-16 | 2022-01-31 |
-| [Give Me A New Role](https://open.spotify.com/track/4yJnHyxIVWCoLs8owPwiJp) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Give Me A New Role](https://open.spotify.com/album/2L2yn8l4FLstmFXm2o79v3) | 4:14 | 2023-10-19 |  |
+| [Give Me A New Role](https://open.spotify.com/track/4yJnHyxIVWCoLs8owPwiJp) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Give Me A New Role](https://open.spotify.com/album/2L2yn8l4FLstmFXm2o79v3) | 4:14 | 2023-10-19 | 2023-10-28 |
 | [Glitter](https://open.spotify.com/track/22pR21715Xw2yB2uQrcdIr) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Glitter](https://open.spotify.com/album/6k49rwllp13RrGFHYw6Eik) | 2:06 | 2023-09-28 |  |
 | [Glittret](https://open.spotify.com/track/1flHUFk0tmQxAgCFcgg5NK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Glittret](https://open.spotify.com/album/03xYeyaQWSy9HD9Zw8uqO5) | 4:36 | 2022-04-28 | 2022-07-14 |
 | [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 | 2023-04-13 | 2023-07-07 |
@@ -716,6 +716,7 @@
 | [Säg Nåt](https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Säg Nåt](https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY) | 2:46 | 2022-11-04 | 2023-07-22 |
 | [Säg vad du vill](https://open.spotify.com/track/6YpOcenS6bCTx7JG1OBY7X) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Säg vad du vill](https://open.spotify.com/album/09JUZALuWvwAN7No7W4lj7) | 3:28 | 2022-05-26 | 2022-07-28 |
 | [Ta på mig](https://open.spotify.com/track/3DFOoe2J49z0ZD1o74fq5x) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Ta på mig](https://open.spotify.com/album/79TfkDuxlL9r42jGcj2AL4) | 3:22 | 2021-12-16 | 2022-03-09 |
+| [Tack & Förlåt](https://open.spotify.com/track/77EB8QJSuJ0oCrxsohpOMs) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Tack & Förlåt](https://open.spotify.com/album/7nuGipqlw2WLeXdIW1qm4m) | 2:58 | 2023-10-26 |  |
 | [Tack vare dig](https://open.spotify.com/track/72COIJY2DM001e9tLVtYaX) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [Tack vare dig](https://open.spotify.com/album/6MdYecbKxByYEUQqH8Lzkp) | 3:13 | 2023-08-03 |  |
 | [Tagit över himlen](https://open.spotify.com/track/2faoTKw5aY77tacZthwcCd) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Joanné Nugas](https://open.spotify.com/artist/7ArfjsEANVFT6WSDiJ7i8T) | [Tagit över himlen](https://open.spotify.com/album/1RlI6eLWlON8W9EOUJS1qT) | 2:27 | 2023-08-26 |  |
 | [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-10-05 |  |

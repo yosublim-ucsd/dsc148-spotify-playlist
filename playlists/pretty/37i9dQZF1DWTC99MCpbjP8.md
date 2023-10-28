@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and soothe anxiety with soft, relaxing piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,915 likes - 244 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,989 likes - 244 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 71 | [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 |
 | 72 | [A Dream of Tomorrow](https://open.spotify.com/track/4nZCJzRoJqcItuc81ZnCBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Dream of Tomorrow](https://open.spotify.com/album/3Qojrn9xWLkfIbwL9Shrly) | 2:13 |
 | 73 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 |
-| 74 | [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 |
+| 74 | [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 |
 | 75 | [the fishermans daughter](https://open.spotify.com/track/4zGivzfk4ZSzwALLylGAMc) | [Delaney & Delaney](https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW) | [The Fishermans daughter](https://open.spotify.com/album/4MBVnPAKIiOY0iL5XiqTuu) | 2:51 |
 | 76 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 |
 | 77 | [What We Hope For](https://open.spotify.com/track/7onCPDRFcCglFj03sdUhf9) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [What We Hope For](https://open.spotify.com/album/7t0oZryHJJnYR2lwQCLDiY) | 3:16 |
@@ -253,4 +253,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 243 | [Overcome](https://open.spotify.com/track/6a29Wq1AQWAGVdJGwYDXJs) | [Thad Caoimhe](https://open.spotify.com/artist/5yf4zjHyDTrEX2STRfIV3C) | [Overcome](https://open.spotify.com/album/3r50b0k1FpdZfmoPg8FVQY) | 2:24 |
 | 244 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
 
-Snapshot ID: `MCw1NTQwZmVlOGYwOTcyNDY3Yzc5YTFjYTdkYTVjYWVmYWNhYzZkNzZm`
+Snapshot ID: `MCw0MGEwN2E2MjZiMjlmMWE3ZmJhNTUzNDQzOTA4MDczOTdlODU5MmI2`

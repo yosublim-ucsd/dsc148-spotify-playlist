@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,392 likes - 98 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,405 likes - 98 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 4 | [New Dawn](https://open.spotify.com/track/35vLmAqKYb2R9KwKP2aKOV) | [Jeff Coffin](https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D), [Johnny Vidacovich](https://open.spotify.com/artist/33yKP7Dqn5kkMNcxUoJwWA), [James Singleton](https://open.spotify.com/artist/3A07LOMMmRbj9cFQ7xAqQt), [Tony Dagradi](https://open.spotify.com/artist/7jY3IF3mLOfmkuTMZr5d70) | [Look For Water](https://open.spotify.com/album/2fFPASABUYoAT64T6KSbCZ) | 6:45 |
 | 5 | [Melt All the Guns](https://open.spotify.com/track/4zpN6HASOz9T15MhpBvM4A) | [Devin Gray](https://open.spotify.com/artist/4Ivo3FWLlLMJLnscn6Z6Ha), [Ralph Alessi](https://open.spotify.com/artist/2yHcAgHAPUdUhVuiIWWcba), [Angelica Sanchez](https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi) | [Melt All the Guns](https://open.spotify.com/album/6Bpgr7virRwtyK3stIIb4R) | 4:31 |
 | 6 | [Rush](https://open.spotify.com/track/4dzF4kL1JEodFrKIB98CkX) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Rush](https://open.spotify.com/album/1Ziua7CFzE6Aoho1nu6rey) | 5:35 |
-| 7 | [6 & 8 II](https://open.spotify.com/track/3AnMq4SPj1OIroah0XlwlK) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [6 & 8 II](https://open.spotify.com/album/1zVFPZB3pwdDmbZDULYnHj) | 22:02 |
+| 7 | [6 & 8 II](https://open.spotify.com/track/0j2BbmfOWXof5831bYq5eM) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [Wooden Music II](https://open.spotify.com/album/6ZjFabpgSwAIlAdUWAZeSN) | 22:02 |
 | 8 | [EICNSCS para 6 músicos](https://open.spotify.com/track/22AcQY05lWhnW85VXoAkrn) | [Maurício Tagliari](https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml), [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3), [Christiano Lemgruber](https://open.spotify.com/artist/14ILd6QBfP5q0CE7ncyDR8), [Regis Damasceno](https://open.spotify.com/artist/2ogn0YEfeS21uvSrIwLNGu), [Andre Édipo](https://open.spotify.com/artist/41JRPt1CSTWaIkZZ7VUBxu), [Missionário José](https://open.spotify.com/artist/5GDpjPajWynDqA6NqjunGj) | [EICNSCS \(Experiência de Improvisação Coletiva Não Sincrônica Cumulativa Sequencial\)](https://open.spotify.com/album/6K0Vy8CuicDPa5uck0XPUU) | 8:03 |
 | 9 | [Song for the Snake Man](https://open.spotify.com/track/1PyppsTQBbIkefIUGyyI9O) | [Will Glaser](https://open.spotify.com/artist/1AQl7L8PIcnQredglUoiQV), [Matthew Herd](https://open.spotify.com/artist/2nQ8ZFNjgaUG34nWbUlkSC), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N) | [Song for the Snake Man](https://open.spotify.com/album/5Gohh6O8VQ2FPFoPMUF49b) | 4:57 |
 | 10 | [Safety Shoes](https://open.spotify.com/track/5z0fXBlI6jsmUVdgRg9yIg) | [Kirk Knuffke](https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor) | [Arms & Hands](https://open.spotify.com/album/0Z0dUTd0016S6bI132kL50) | 2:33 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 97 | [Breaking Point](https://open.spotify.com/track/08didpMJM0vsICBS3uu2Xd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Essential Blue Note Collection](https://open.spotify.com/album/7dDZGuJMNFpIHa2J2jSdJT) | 10:19 |
 | 98 | [Conduction No.186 \- Live](https://open.spotify.com/track/10oUh9vQB9J36UmsGuWxRl) | [Nublu Orchestra](https://open.spotify.com/artist/3kir4KuUljdyYGWpQ3tPX9), [Butch Morris](https://open.spotify.com/artist/180iBifQGB9dLM5dSelaAK) | [Live in Lisbon](https://open.spotify.com/album/5WnPY79tkeyhrRcInkUjMp) | 43:14 |
 
-Snapshot ID: `MCwyNDQwZTIzYjk1NTQ2ZDQwYWU0NmEwYzg2MGRhMDUxZjk4ODU2OGMy`
+Snapshot ID: `MCxkMzY3YzI4MTliYmQ0MzIyOWNlOWVjMzVhMGNkOGI4NDVmZjYxY2Zj`

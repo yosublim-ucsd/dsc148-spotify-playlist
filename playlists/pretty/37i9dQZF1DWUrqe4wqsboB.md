@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Buscabulla
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,765 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,781 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 13 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
 | 14 | [La Estrella del Show](https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [La Estrella del Show](https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf) | 2:57 |
 | 15 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
-| 16 | [Problema](https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Problema](https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR) | 3:45 |
+| 16 | [\(Escapándome\) de mí](https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 2:54 |
 | 17 | [Caracoles](https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 4:40 |
-| 18 | [\(Escapándome\) de mí](https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 2:54 |
+| 18 | [Problema](https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Problema](https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR) | 3:45 |
 | 19 | [Calma](https://open.spotify.com/track/0SPr1VZrc4sQ0IWz3iXkr6) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Caramelo](https://open.spotify.com/album/43ouDVkgCx8hfZ7UbSYpoB) | 4:24 |
 | 20 | [Llévame](https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe), [Gabo Lugo](https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo) | [Llévame](https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM) | 4:18 |
 | 21 | [Tu Mundo](https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tu Mundo](https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6) | 3:54 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 28 | [Hasta el final](https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Hasta el final](https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd) | 3:28 |
 | 29 | [Duermo con frío](https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA) | [Cita](https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC) | [El Cuento de Cita](https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX) | 3:14 |
 | 30 | [Live This One](https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Letra Pa' tu Coco](https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE) | 3:32 |
-| 31 | [Circuito por Milán](https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Circuito por Milán](https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG) | 3:14 |
-| 32 | [Vibra](https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [Vibra](https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g) | 2:54 |
-| 33 | [Diamante y Lágrima](https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Diamante y Lágrima](https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY) | 3:20 |
+| 31 | [Diamante y Lágrima](https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Diamante y Lágrima](https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY) | 3:20 |
+| 32 | [Circuito por Milán](https://open.spotify.com/track/6zLtJnwoiiNJ6vAF4a0KYF) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Circuito por Milán](https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG) | 3:14 |
+| 33 | [Vibra](https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [Vibra](https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g) | 2:54 |
 | 34 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 |
 | 35 | [Guarapo y Flor](https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Guarapo y Flor](https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ) | 2:59 |
 | 36 | [Me Saben a Miel](https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Me Saben a Miel](https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb) | 3:43 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 38 | [Tu Nunca Has Sentido](https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6) | [Los Rarxs](https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR) | [La Rareza](https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh) | 2:41 |
 | 39 | [La Espina](https://open.spotify.com/track/2K1PJYuqulzmR5zf6VqnmP) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4), [Taiguerz](https://open.spotify.com/artist/2Yi5LaK2meRKaZ7oUUFHPu) | [La Espina](https://open.spotify.com/album/31E2WkAxbbxIthqROYkvWp) | 2:30 |
 | 40 | [Toco Madera](https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Toco Madera](https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8) | 3:48 |
-| 41 | [Pirámide](https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Pirámide](https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18) | 3:24 |
-| 42 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
+| 41 | [Maresía](https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Maresía](https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV) | 3:31 |
+| 42 | [Pirámide](https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Pirámide](https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18) | 3:24 |
 | 43 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 |
 | 44 | [Miel y Mantequilla](https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i) | [Miel y Mantequilla](https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b) | 3:47 |
 | 45 | [Dulce Estar](https://open.spotify.com/track/3EZciZlYPvhbF0IpPC6EoB) | [Polem](https://open.spotify.com/artist/1omEowkpCo5RWWaWj6l6aw) | [Lo Sencillo](https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Dime Juan](https://open.spotify.com/track/7fgCxatCNdVd1zmQfzlJ0b) | [Dogos](https://open.spotify.com/artist/2DDsbJ39joV9Jx75Tb2aqc) | [Algo X Dentro](https://open.spotify.com/album/6PcvdxnAeRkgyqriORyrrN) | 3:18 |
 | 50 | [TQD](https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:20 |
 
-Snapshot ID: `MCxhZGZmZWU2NjYwNDA4MTAzZTU5MDYwMGQ1Nzg0Y2M4ZjljMWQ3ZmM2`
+Snapshot ID: `MCxjNjU3MTRiZDlhNWY4YWE5ODRjYTIzYzc5MjFhN2ViNjk1YzllMTdi`

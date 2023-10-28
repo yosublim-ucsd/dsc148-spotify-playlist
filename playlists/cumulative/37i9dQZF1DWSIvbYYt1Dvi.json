@@ -629,7 +629,7 @@
     },
     {
       "album": {
-        "name": "Atlanta",
+        "name": "Atlanta - Spotify Singles",
         "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
       },
       "artists": [
@@ -642,7 +642,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 121031,
-      "name": "Atlanta",
+      "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
@@ -986,7 +986,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 207437,
       "name": "Casinha",
       "url": "https://open.spotify.com/track/7bZR2XV6u4lDOZ7PXkaXmn"
@@ -1408,6 +1408,32 @@
       "duration_ms": 217777,
       "name": "De 90 pra C\u00e1",
       "url": "https://open.spotify.com/track/4u47lJWoqhJi8zWkZ13l7L"
+    },
+    {
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "album": {
@@ -3035,6 +3061,36 @@
     },
     {
       "album": {
+        "name": "MIXTAPE EU MERMO",
+        "url": "https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Pior Vers\u00e3o de Mim",
+          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178407,
+      "name": "Menorz\u00e3o",
+      "url": "https://open.spotify.com/track/54cMvqyAt0IbPaPHoIW1dc"
+    },
+    {
+      "album": {
         "name": "Mensagem 2",
         "url": "https://open.spotify.com/album/1Onvt9GCYQ46aruicT8QLM"
       },
@@ -4186,7 +4242,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 169156,
       "name": "Press\u00e1gio",
       "url": "https://open.spotify.com/track/6im25vvIbuQDoDMM9nM60o"
@@ -5371,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "Teletubbies",
+        "url": "https://open.spotify.com/album/4RyAf3Wm273V4HD58YSCEF"
+      },
+      "artists": [
+        {
+          "name": "Heli\u00e3o",
+          "url": "https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149015,
+      "name": "Teletubbies",
+      "url": "https://open.spotify.com/track/13e9MnBxT56dSznQcb4wFf"
+    },
+    {
+      "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
       },
@@ -5678,7 +5752,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 161666,
       "name": "Vem F\u00e1cil",
       "url": "https://open.spotify.com/track/1yo1X1hXegVB46w7CJxk9A"

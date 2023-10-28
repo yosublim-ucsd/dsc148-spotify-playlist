@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,915 likes - 35 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,022 likes - 35 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 20 | [Sara Smile](https://open.spotify.com/track/0aqVhoenCvorCVcEZEfiLS) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:32 |
 | 21 | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld) | 5:17 |
 | 22 | [This Is for the Lover In You \(feat\. LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels\)](https://open.spotify.com/track/1blZP5x1XQSqQFpTy12rFh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Howard Hewett](https://open.spotify.com/artist/3S78Gzhp1D01i1x2KGXrnh), [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Jeffrey Daniels](https://open.spotify.com/artist/4LJ9G2mHQIu6z4NFvg5EhJ) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 3:59 |
-| 23 | [Ribbon in the Sky](https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI) | [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [INTRO](https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY) | 6:22 |
-| 24 | [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 |
+| 23 | [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 |
+| 24 | [Ribbon in the Sky](https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI) | [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [INTRO](https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY) | 6:22 |
 | 25 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 |
 | 26 | [So Amazing](https://open.spotify.com/track/4dIlsObD9oacRCF9hJloyA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 4:10 |
 | 27 | [You And I](https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap) | [O'Bryan](https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31) | [The Best Of O'Bryan](https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1) | 3:58 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Love Me in a Special Way](https://open.spotify.com/track/4tQXXFad6eReU2jDjE9UuP) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [A Nu Day](https://open.spotify.com/album/4cYOUdfGAj9E2IOCWTo3ZM) | 4:50 |
 | 35 | [Song For You](https://open.spotify.com/track/3v5YKvxegZyG6TJwK1loMA) | [Avery Wilson](https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3) | [Song For You](https://open.spotify.com/album/04Qos9tg4OsBifMkV1SQY1) | 5:29 |
 
-Snapshot ID: `MCwzMDEwNjA3MzJiYjI3ZjhlZmVlMDYzNTczNmZjYzlmMjFlMDg3YjZi`
+Snapshot ID: `MCxiYjBlNWQyODIyNjdjZjUyYmNiYzExNWE1M2Q4MzYzZDlhYTA1M2M2`

@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 16222,
+  "num_followers": 16276,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzMwZWFmZTQ4ZWY1ZGM5YTdmZWQ2MzM1NmZhOTVmYzRlODBmZTQ4",
+  "snapshot_id": "MCwwYWI2YmUzMmQ0MjA0MWRlMGQwOTk4ZjAyNTJiMzg1NTg3ZmJkYzI2",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -359,6 +359,30 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "PALMWINE DIARIES VOL.1",
         "url": "https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N"
       },
@@ -383,30 +407,6 @@
       "duration_ms": 240000,
       "name": "Unfortunately",
       "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i"
-      },
-      "artists": [
-        {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
-        },
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "NESTA",
-          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Fine Pass",
+        "url": "https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k"
+      },
+      "artists": [
+        {
+          "name": "TOME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "duration_ms": 163154,
+      "name": "Fine Pass",
+      "url": "https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
         "url": "https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Ouu Ahh",
-        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 165274,
-      "name": "Ouu Ahh",
-      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Push (feat. Omah Lay)",
         "url": "https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Ouu Ahh",
+        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 165274,
+      "name": "Ouu Ahh",
+      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -651,22 +667,6 @@
       "duration_ms": 219181,
       "name": "Room (with Adekunle Gold & 2 Chainz)",
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Fine Pass",
-        "url": "https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k"
-      },
-      "artists": [
-        {
-          "name": "TOME",
-          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
-        }
-      ],
-      "duration_ms": 163154,
-      "name": "Fine Pass",
-      "url": "https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "FACETS",
+        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 192278,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "TROUBLE - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q"
       },
@@ -895,18 +911,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "FACETS",
-        "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
+        "name": "All the Noise",
+        "url": "https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D"
       },
       "artists": [
         {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
         }
       ],
-      "duration_ms": 192278,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
+      "duration_ms": 249520,
+      "name": "All the Noise",
+      "url": "https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -935,22 +951,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "All the Noise",
-        "url": "https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D"
-      },
-      "artists": [
-        {
-          "name": "Manana",
-          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "All the Noise",
-      "url": "https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "In The Light (Stripped Version)",
         "url": "https://open.spotify.com/album/4eu6KcMa6TG59Uidtcx2Z6"
       },
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0yMD9zrKIky3GRSNn2VC25"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 130679,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4O4jWAcIvbEDF6lOoW1LT5"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf"
-      },
-      "artists": [
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        }
-      ],
-      "duration_ms": 184166,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Lock Up",
-        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
+        "name": "For Keeps - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Lisa Oduor-Noah",
+          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
         }
       ],
-      "duration_ms": 223005,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+      "duration_ms": 254726,
+      "name": "For Keeps - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1083,18 +1079,42 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "For Keeps - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
       "artists": [
         {
-          "name": "Lisa Oduor-Noah",
-          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 254726,
-      "name": "For Keeps - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "L.I.T.A",
+        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 228470,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1127,26 +1147,6 @@
       "duration_ms": 174964,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "L.I.T.A",
-        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 228470,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Sail",
         "url": "https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 148695,
       "name": "Sail",
       "url": "https://open.spotify.com/track/26mrUHchbcgiCahub27gZY"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 156771,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Moneybag",
+        "url": "https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "duration_ms": 134526,
+      "name": "Touch\u00e9",
+      "url": "https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Moneybag",
-        "url": "https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 134526,
-      "name": "Touch\u00e9",
-      "url": "https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1399,42 +1399,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Not My Concern / Different",
-        "url": "https://open.spotify.com/album/6sgnWlAAGZI5p1FHoWTXFE"
-      },
-      "artists": [
-        {
-          "name": "ginius",
-          "url": "https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw"
-        }
-      ],
-      "duration_ms": 131525,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7BaPu3b5wbBtQ6Z09XL05O"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 204608,
-      "name": "Pieces (with Tay Iwar)",
-      "url": "https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Asali (Sweeter)",
         "url": "https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R"
       },
@@ -1447,6 +1411,22 @@
       "duration_ms": 181903,
       "name": "Wildin'",
       "url": "https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Not My Concern / Different",
+        "url": "https://open.spotify.com/album/6sgnWlAAGZI5p1FHoWTXFE"
+      },
+      "artists": [
+        {
+          "name": "ginius",
+          "url": "https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw"
+        }
+      ],
+      "duration_ms": 131525,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7BaPu3b5wbBtQ6Z09XL05O"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1467,6 +1447,26 @@
       "duration_ms": 181978,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3EduKNInzbDCPYjIDw5SG4"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 204608,
+      "name": "Pieces (with Tay Iwar)",
+      "url": "https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz"
     },
     {
       "added_at": "2023-10-27 00:01:00",

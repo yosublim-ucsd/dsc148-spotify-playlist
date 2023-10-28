@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Blitz",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Meu Funeral",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 185729,
       "name": "Atear",
       "url": "https://open.spotify.com/track/5p3BNHtia2EnxbKPtJKWzv"
@@ -1142,6 +1142,24 @@
       "duration_ms": 192458,
       "name": "Chama De Amor",
       "url": "https://open.spotify.com/track/7FENXy3cRC1nkwerVvxgCI"
+    },
+    {
+      "album": {
+        "name": "RIO",
+        "url": "https://open.spotify.com/album/2Sjxdn2OLpidqMDYE59Oxa"
+      },
+      "artists": [
+        {
+          "name": "Meu Funeral",
+          "url": "https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Chiclete",
+      "url": "https://open.spotify.com/track/7GjRbh1cG6x7VMn626Q3Y3"
     },
     {
       "album": {
@@ -3960,7 +3978,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 179933,
       "name": "Musketeer - Live",
       "url": "https://open.spotify.com/track/2IU774DbOINGPQHfNavI0I"
@@ -7438,6 +7456,24 @@
       "duration_ms": 173375,
       "name": "\u00daltima Chamada",
       "url": "https://open.spotify.com/track/6FH9aolGr0wmaFbSjGgdJ6"
+    },
+    {
+      "album": {
+        "name": "\u00daltimo Clich\u00ea",
+        "url": "https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE"
+      },
+      "artists": [
+        {
+          "name": "Cine",
+          "url": "https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "\u00daltimo Clich\u00ea",
+      "url": "https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT"

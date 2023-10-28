@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "O melhor do trance feito na Am\u00e9rica Latina / Lo mejor del trance latino. Foto: Henrique Camacho",
+  "description": "O melhor do trance feito na Am\u00e9rica Latina / Lo mejor del trance latino. Foto: Delta Species, Middle-D",
   "name": "Trance Latino",
   "tracks": [
     {
@@ -1684,6 +1684,28 @@
       "duration_ms": 422127,
       "name": "The Answer - Original mix",
       "url": "https://open.spotify.com/track/1Ihgvz6cEsutxYzz8IXePE"
+    },
+    {
+      "album": {
+        "name": "The Hell (That You Want)",
+        "url": "https://open.spotify.com/album/5iWh1b787En1vAjNISJ8Iz"
+      },
+      "artists": [
+        {
+          "name": "Delta Species",
+          "url": "https://open.spotify.com/artist/6XHNTLKZijuqf1N7Frab5Y"
+        },
+        {
+          "name": "Middle-D",
+          "url": "https://open.spotify.com/artist/6oIjHF0fYF8U4cJ0x21ojF"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535500,
+      "name": "The Hell (That You Want)",
+      "url": "https://open.spotify.com/track/2m1SfeXdbxcI9VmUKTGc92"
     },
     {
       "album": {

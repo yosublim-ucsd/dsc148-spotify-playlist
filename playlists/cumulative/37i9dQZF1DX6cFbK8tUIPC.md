@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-286 songs - 18 hr 5 min
+287 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Mortals](https://open.spotify.com/track/05ysa8MWYb7MvixPonb1Fp) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Mortals](https://open.spotify.com/album/3H7MViLKyTi0IjwbJY1pwm) | 3:08 | 2021-12-03 | 2022-07-29 |
 | [Mortals](https://open.spotify.com/track/3pa1oaOXwmoxLoDTn2oFVq) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 3:08 | 2022-06-22 | 2022-08-27 |
 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 | 2021-12-03 | 2022-09-17 |
+| [My God](https://open.spotify.com/track/2reLCImNfQB4CkMUI6CicE) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [My God](https://open.spotify.com/album/7IzBRSEdgPZCgAsz3yhN75) | 3:21 | 2023-10-27 |  |
 | [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 | 2023-08-08 |  |
 | [Nashville](https://open.spotify.com/track/1V0sMfByC4KMT7S6Twnvjg) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 5:16 | 2022-06-22 | 2022-08-16 |
 | [Necklace](https://open.spotify.com/track/2uW2mr7xyFXwxG0cHNq87B) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Necklace](https://open.spotify.com/album/1YaEANXHSIKzuHEcClw2eY) | 3:31 | 2023-09-28 |  |

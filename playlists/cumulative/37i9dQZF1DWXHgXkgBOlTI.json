@@ -218,10 +218,28 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 255213,
       "name": "Bright Life",
       "url": "https://open.spotify.com/track/25zdJ8RT8SNYECanlVfIxS"
+    },
+    {
+      "album": {
+        "name": "M.R.I_Mirai",
+        "url": "https://open.spotify.com/album/1JlDJeBXxJqxAcbL5Sp7Vw"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u3064\u3057\u304b\u30c8\u30ea\u30aa",
+          "url": "https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255213,
+      "name": "Bright Life",
+      "url": "https://open.spotify.com/track/6nboMcA31FtNfe2QBYaqZ4"
     },
     {
       "album": {

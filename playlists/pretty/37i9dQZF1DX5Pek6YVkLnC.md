@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: YOVNGCHIMI & Dei V
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,850 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,873 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 30 | [Anfetamina](https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Anfetamina](https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n) | 3:56 |
 | 31 | [CHIQUITA](https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [MIDNIGHT](https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu) | 2:57 |
 | 32 | [Maybach](https://open.spotify.com/track/3uDP8Rf3ddTO04d069A8pH) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Santurcinos](https://open.spotify.com/album/0kwhdyfH85kj8FxQM0K0ux) | 3:22 |
-| 33 | [Imprudencia](https://open.spotify.com/track/3Cd4tTkxEGTnxWddyxWgDK) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [Imprudencia](https://open.spotify.com/album/5X5UnBgIVpuoSeOrs0Xd09) | 3:19 |
-| 34 | [4 Palos](https://open.spotify.com/track/6Mh7481h4oyU49ukULwRtf) | [Michael Flores](https://open.spotify.com/artist/2gATjk9j2u50i0HmXZySZY), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [4 Palos](https://open.spotify.com/album/1QoaG39dqeQ6iHpHwLX0wK) | 2:52 |
+| 33 | [4 Palos](https://open.spotify.com/track/6Mh7481h4oyU49ukULwRtf) | [Michael Flores](https://open.spotify.com/artist/2gATjk9j2u50i0HmXZySZY), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [4 Palos](https://open.spotify.com/album/1QoaG39dqeQ6iHpHwLX0wK) | 2:52 |
+| 34 | [Imprudencia](https://open.spotify.com/track/3Cd4tTkxEGTnxWddyxWgDK) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [Imprudencia](https://open.spotify.com/album/5X5UnBgIVpuoSeOrs0Xd09) | 3:19 |
 | 35 | [Delirando](https://open.spotify.com/track/1BrsRp6scfbwfV9U6cg3wr) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [JS Beatz](https://open.spotify.com/artist/5fuJxgduTyRWQzpX2ANfsK) | [Delirando](https://open.spotify.com/album/1XfwYTtr8YYbY4DZp1Dgvf) | 2:36 |
 | 36 | [Bonnie and Clyde](https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Bonnie and Clyde](https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7) | 3:29 |
-| 37 | [Ultima Lagrima](https://open.spotify.com/track/6NjRDmrDRJjEBAluGAlL5P) | [Vale Mendoza](https://open.spotify.com/artist/09GD1QFN0LUiosit4WYX9p) | [Ultima Lagrima](https://open.spotify.com/album/6VgtsJjlNJBEm0ZCANGPRu) | 2:29 |
-| 38 | [WYA](https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [WYA](https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O) | 3:16 |
+| 37 | [WYA](https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [WYA](https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O) | 3:16 |
+| 38 | [Ultima Lagrima](https://open.spotify.com/track/6NjRDmrDRJjEBAluGAlL5P) | [Vale Mendoza](https://open.spotify.com/artist/09GD1QFN0LUiosit4WYX9p) | [Ultima Lagrima](https://open.spotify.com/album/6VgtsJjlNJBEm0ZCANGPRu) | 2:29 |
 | 39 | [Magz de 30](https://open.spotify.com/track/5r1aBFDq86wy1FsnaTOsll) | [YOVNGFELO](https://open.spotify.com/artist/70Ztp892l2f9U1MoOSnUMv) | [Magz de 30](https://open.spotify.com/album/2hghiaijcKqYA8jImJRZhS) | 2:43 |
 | 40 | [Blancos & Rojos](https://open.spotify.com/track/4FRMNJTazpo6vhHnfnG2qy) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Blancos & Rojos](https://open.spotify.com/album/6dLcpS5nJkKsDy78PQakRP) | 2:42 |
 | 41 | [Otra](https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [Otra](https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [D.N.D \(feat\. Nio Garcia\)](https://open.spotify.com/track/49zTA53lttr65mA6Z99S6O) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [CERTIFIED](https://open.spotify.com/album/6BO3l1rv04Juyf1DMwq6zp) | 4:00 |
 | 50 | [TRIPLE H \- REMIX](https://open.spotify.com/track/5ozjtYSB1mlLviwOHHQGS6) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BOOEEE](https://open.spotify.com/album/1tI9Dw2LF6n2Dd1PCTkc8p) | 4:45 |
 
-Snapshot ID: `MCw2ZDZiMmJlNDMxMWYxNTY5NGExMTU5ZTIwYWY2Njk1NGQzZTlkYTU0`
+Snapshot ID: `MCw5OWU5YmM3NjI3OGZhMjU1OWIwZWJiNDAzZWZlNTVjN2YwOTViMDNk`

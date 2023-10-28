@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "Lo Que No Quieres Saber",
+        "url": "https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153109,
+      "name": "Lo Que No Quieres Saber",
+      "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
+    },
+    {
+      "album": {
         "name": "Haashtag",
         "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
       },

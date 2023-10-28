@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Whee In(\ud718\uc778))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: HaSeul(\ud558\uc2ac))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 132040,
       "name": "BAD TRIP",
       "url": "https://open.spotify.com/track/3jdtoXjgDfPtyKBxrEiM6P"
@@ -2483,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "Jimmy Choo",
+        "url": "https://open.spotify.com/album/4ykEEw06qDPMb6Tdsu1w2Z"
+      },
+      "artists": [
+        {
+          "name": "nynas",
+          "url": "https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197106,
+      "name": "Jimmy Choo",
+      "url": "https://open.spotify.com/track/3gut085BLA8hSaWQU6UTaP"
+    },
+    {
+      "album": {
         "name": "karaoke love",
         "url": "https://open.spotify.com/album/1VaTPAvkL829cceEPOOrUM"
       },
@@ -2670,6 +2688,28 @@
       "duration_ms": 229097,
       "name": "Light (Feat. Junguk)",
       "url": "https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp"
+    },
+    {
+      "album": {
+        "name": "Like Heaven",
+        "url": "https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "Like Heaven (Feat. Paul Blanco)",
+      "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
     },
     {
       "album": {
@@ -3427,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "Plastic Candy",
+        "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
+      },
+      "artists": [
+        {
+          "name": "HaSeul",
+          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214106,
+      "name": "Plastic Candy",
+      "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
+    },
+    {
+      "album": {
         "name": "Plus n Minus",
         "url": "https://open.spotify.com/album/2ZJoZrfVVAKpt798ti3Qdc"
       },
@@ -3845,6 +3903,32 @@
     },
     {
       "album": {
+        "name": "Autumn Night",
+        "url": "https://open.spotify.com/album/6OS1NCPPhr5GgQKBXipGCs"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        },
+        {
+          "name": "J.O.Y",
+          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Stupid (feat. Ashley Alisha & J.O.Y)",
+      "url": "https://open.spotify.com/track/1XuzCsFFgxgv2v21pmFZia"
+    },
+    {
+      "album": {
         "name": "SummerSweet",
         "url": "https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp"
       },
@@ -4012,7 +4096,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 173500,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH"
@@ -4432,7 +4516,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 170679,
       "name": "What i can't forget is",
       "url": "https://open.spotify.com/track/1LRGV6MpzodcHHw6CTIcLR"
@@ -4544,7 +4628,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 244546,
       "name": "Why",
       "url": "https://open.spotify.com/track/0tbDP39a9Z8XPhAD8WfsBp"

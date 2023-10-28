@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,702 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,719 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 27 | [아마두 \(feat\. 우원재, 김효은, 넉살 & 허클베리피\)](https://open.spotify.com/track/7z4TxEA4mXG1ChgxXp7Mj3) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Huckleberry P](https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS) | [Dingo X DAMOIM Pt\. 2](https://open.spotify.com/album/7u4kbKGYSYvRcdfSlkHPAB) | 5:45 |
 | 28 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 |
 | 29 | [NoNo \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Show Me the Money 777 Semi Final](https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up) | 5:29 |
-| 30 | [If I Die Tomorrow](https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [2 4 : 2 6](https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV) | 4:17 |
-| 31 | [INTRO \(Feat\. Jay Park\)](https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [School Rapper4 Final](https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR) | 3:33 |
+| 30 | [INTRO \(Feat\. Jay Park\)](https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [School Rapper4 Final](https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR) | 3:33 |
+| 31 | [If I Die Tomorrow](https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [2 4 : 2 6](https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV) | 4:17 |
 | 32 | [I Hated Myself \(Tablo's Word\)](https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:15 |
 | 33 | [FLOWER \(Prod\. by AVIN\)](https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [FLOWER](https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ) | 4:07 |
 | 34 | [See you ! \(Feat\. SOLE\) \(Prod\. R.Tee\)](https://open.spotify.com/track/0XVzQQ8m7CHmc58TDMJuRj) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
 | 50 | [iii \(Feat\. Basick, Kid Milli & Paloalto\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 3:55 |
 
-Snapshot ID: `MCw2ZDYyYjYzMWIwMzkzYzAwMDJmNGM3ZjY1NGM1NzZkMmY5MjE3ZjZm`
+Snapshot ID: `MCwyNWVlMzQxZmQyOGE5NjUxYWU1NzY0MjVhZWExMmZmY2FhMGQxMjFi`

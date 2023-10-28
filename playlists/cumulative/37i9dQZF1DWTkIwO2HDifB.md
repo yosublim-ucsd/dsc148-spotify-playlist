@@ -2,9 +2,9 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Calma Amor, Calma Bb e os funks mais 🔑 do Brasil\. Foto: dj Bruninho Pzs, Dj Mano Lost, MC MENOR KAUAN
+> Vem Quebrando e os funks mais 🔑 do Brasil\. Foto: MC Danone, DJ THG, DJ Hm Oliveira
 
-208 songs - 11 hr 14 min
+209 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Coração amoleceu \- Radio Edit](https://open.spotify.com/track/7G6eb3AY2UAQBcAtITps4V) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Um Pôr do Sol Na Praia \- Sucessos de Verão](https://open.spotify.com/album/4qP08CaJgrs9AYUZGqwIY7) | 2:41 | 2023-03-17 | 2023-10-02 |
 | [Coração na Geladeira 2](https://open.spotify.com/track/4AKsSRxe6z6woOAsXr5gVA) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [O Menino Ainda Encanta a Quebrada](https://open.spotify.com/album/0ZYbCunZV39UwLahPHMc5O) | 2:24 | 2023-07-28 |  |
 | [DANÇARINA](https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 1:50 | 2022-02-18 | 2022-08-06 |
+| [De Lala \- Spotify Singles](https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Dj Binho](https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk), [Dj Geh](https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh) | [De Lala \- Spotify Singles](https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX) | 2:40 | 2023-10-27 |  |
 | [Deboche](https://open.spotify.com/track/1ZW2jCyFX0WrZfIJjkWq3j) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Deboche](https://open.spotify.com/album/6CFOhd35STC89wMsezSIvR) | 3:56 | 2021-12-31 | 2022-02-05 |
 | [Deixa Eu Sarrar](https://open.spotify.com/track/05m1SD5y6Og9gnjIUU8Ho7) | [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Deixa Eu Sarrar](https://open.spotify.com/album/3ZUola3zxGHfecAO5AIOlv) | 2:10 | 2022-04-11 | 2022-04-29 |
 | [DENTRO DA HILUX](https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [DENTRO DA HILUX](https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU) | 2:43 | 2023-09-01 |  |
@@ -202,7 +203,7 @@
 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 | 2023-05-26 |  |
 | [Um Sabadão Desse Uma Lua Dessa](https://open.spotify.com/track/3KfyRuNdcCGsZb15sqrXDA) | [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG), [MC 3L](https://open.spotify.com/artist/4BbsSamQy6XSByO4O4Nymt) | [Um Sabadão Desse Uma Lua Dessa](https://open.spotify.com/album/7ls4HmTtzhFIIlDj73TTA0) | 2:52 | 2021-12-31 | 2022-01-29 |
 | [Vai Fofoqueira](https://open.spotify.com/track/346Ck3YbEHUdA3p4hOVsDJ) | [Dj Henrique de Ferraz](https://open.spotify.com/artist/5crFHCCb7j1zkIiIUpN2In), [DJ P7](https://open.spotify.com/artist/6mACLfkeOp2ZwZWyrbLIMM), [Mc Marofa](https://open.spotify.com/artist/1ZFKFuRNWGcRL4bHEmWVAe) | [Vai Fofoqueira](https://open.spotify.com/album/43s8nRw5GvZhbBXfB1yGGb) | 3:00 | 2021-12-31 | 2022-02-19 |
-| [Vai Novinha Ah Ah Ah](https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC) | [Dyamante DJ](https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu) | [Ritmo dos Crias](https://open.spotify.com/album/1rpZ5lbh30fimLCZvcyh0f) | 2:03 | 2023-06-23 |  |
+| [Vai Novinha Ah Ah Ah](https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC) | [Dyamante DJ](https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu) | [Ritmo dos Crias](https://open.spotify.com/album/1rpZ5lbh30fimLCZvcyh0f) | 2:03 | 2023-06-23 | 2023-10-28 |
 | [Vem Quebrando](https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Vem Quebrando](https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF) | 2:28 | 2023-10-18 |  |
 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 | 2022-07-22 | 2023-08-19 |
 | [Videozin pra Tiktok](https://open.spotify.com/track/0IU0HtCAk6AXO5BqWW4lwy) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [MC Roger](https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj) | [Videozin pra Tiktok](https://open.spotify.com/album/7eypky4JCgx0P4T2Oka3ce) | 2:21 | 2022-04-11 | 2022-10-01 |

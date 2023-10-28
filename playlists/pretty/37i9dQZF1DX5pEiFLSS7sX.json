@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 186889,
+  "num_followers": 186980,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmFjMTk5Yjg5OTdlOGViOWVkYTAyNjI0MzMwNDdhMDQ2Y2JmYzA0",
+  "snapshot_id": "MCxmNzE2NmEwNDg5ZTgxMWY1ZjA1NGY2ZmEwOWM1YWQxYTkxYTQ1MDc1",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "We Say Yes",
+        "url": "https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        }
+      ],
+      "duration_ms": 425184,
+      "name": "The Way (New Horizon)",
+      "url": "https://open.spotify.com/track/5KrewqDNRC9lNe3Aj9ameN"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Miracle or Not",
         "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 296365,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/54rJa67IrktOcXKYw7wGTR"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "We Say Yes",
-        "url": "https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        }
-      ],
-      "duration_ms": 425184,
-      "name": "The Way (New Horizon)",
-      "url": "https://open.spotify.com/track/5KrewqDNRC9lNe3Aj9ameN"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS"
+        "name": "SEU Worship (Live)",
+        "url": "https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx"
       },
       "artists": [
         {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
         }
       ],
-      "duration_ms": 293986,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6"
+      "duration_ms": 569320,
+      "name": "Sanctuary - Live",
+      "url": "https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1775,22 +1779,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "SEU Worship (Live)",
-        "url": "https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx"
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 569320,
-      "name": "Sanctuary - Live",
-      "url": "https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI"
+      "duration_ms": 293986,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6"
     },
     {
       "added_at": "2020-09-04 04:02:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Supercombo, Tuyo",
+  "description": "Novidades e destaques do indie nacional. Foto: Papisa",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 186063,
       "name": "20 Anos e Meio",
       "url": "https://open.spotify.com/track/3QMQqmpesGqVcHuV0vMv2m"
+    },
+    {
+      "album": {
+        "name": "30+",
+        "url": "https://open.spotify.com/album/3pFDfRC5whVvNQsTnOa1Ej"
+      },
+      "artists": [
+        {
+          "name": "perdido",
+          "url": "https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197884,
+      "name": "30+",
+      "url": "https://open.spotify.com/track/2ViNQ8PzS2X6TZdmzxhvQX"
     },
     {
       "album": {
@@ -4770,7 +4788,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202403,
       "name": "Me Fa\u00e7a Bem",
       "url": "https://open.spotify.com/track/4R8XqARC4exOYsilfwkoyC"
@@ -4810,6 +4828,24 @@
       "duration_ms": 154223,
       "name": "Medo de Ser",
       "url": "https://open.spotify.com/track/4X2etbLfAFMwedJBQVTjK1"
+    },
+    {
+      "album": {
+        "name": "Melhor Assim",
+        "url": "https://open.spotify.com/album/2YK1qx4izgB5Wpij68Ig7c"
+      },
+      "artists": [
+        {
+          "name": "Papisa",
+          "url": "https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160464,
+      "name": "Melhor Assim",
+      "url": "https://open.spotify.com/track/6Hs1FeGfpsSvgoMKyS7Ggx"
     },
     {
       "album": {
@@ -6500,7 +6536,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 238807,
       "name": "Poca",
       "url": "https://open.spotify.com/track/3QV57sbqvd8ekL3qhvuUkp"
@@ -8047,6 +8083,24 @@
     },
     {
       "album": {
+        "name": "Sons de Ressaca",
+        "url": "https://open.spotify.com/album/4cNYdRqB7KPs0xmlo9onet"
+      },
+      "artists": [
+        {
+          "name": "Sergiop\u00ed",
+          "url": "https://open.spotify.com/artist/1AJbMS0MpfiNzTu0Kf4fOF"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169055,
+      "name": "Sons de Ressaca",
+      "url": "https://open.spotify.com/track/09XaMGIkBWLHcT3XyebY2l"
+    },
+    {
+      "album": {
         "name": "G\u00eameos",
         "url": "https://open.spotify.com/album/0ChE7T4gcw48AEt6cMmaBx"
       },
@@ -8300,7 +8354,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 147881,
       "name": "Tema Para Marisa Monte",
       "url": "https://open.spotify.com/track/0rpqWmRWBswnIHUG0pYWMC"

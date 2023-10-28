@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Junior H en portada. ",
+  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Jasiel Nu\u00f1ez & DannyLux en portada. ",
   "name": "sad sierre\u00f1o",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 208898,
       "name": "$AD BOYZ II",
       "url": "https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL"
+    },
+    {
+      "album": {
+        "name": "100 Millas (En Vivo)",
+        "url": "https://open.spotify.com/album/003vc3E77TtvcjWX6oVa8F"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218024,
+      "name": "100 Millas (En Vivo)",
+      "url": "https://open.spotify.com/track/6EcLxxKgtYaTcrHwCw8fcd"
     },
     {
       "album": {
@@ -874,7 +892,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 197365,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
@@ -2536,7 +2554,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 182706,
       "name": "Normal",
       "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
@@ -3042,7 +3060,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 185341,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/7i7CIvRUCMtHiB2EtvXgcv"
@@ -3563,6 +3581,24 @@
     },
     {
       "album": {
+        "name": "Sue\u00f1o Lucido",
+        "url": "https://open.spotify.com/album/3GadQKd7mqLM3ugvfY9SqO"
+      },
+      "artists": [
+        {
+          "name": "Hermanos De La Vibra",
+          "url": "https://open.spotify.com/artist/24iikwybit4U9z1Jv1pzNm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185913,
+      "name": "Sue\u00f1o Lucido",
+      "url": "https://open.spotify.com/track/3U48aBGPmYVfxnJrT820mS"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os Encontrados",
         "url": "https://open.spotify.com/album/7dTwMNd9TJrsx4zjpKwKmt"
       },
@@ -3614,6 +3650,28 @@
       "duration_ms": 260364,
       "name": "Superando",
       "url": "https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB"
+    },
+    {
+      "album": {
+        "name": "De Norte a Sur",
+        "url": "https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213926,
+      "name": "Tal Vez Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 132340,
+  "num_followers": 132387,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWI0YjBiNTMwMWM1MWI2ZjAzMzg5Nzc3YjE4NjBkYmI4NDkyY2Fk",
+  "snapshot_id": "MCxlZjEzMzlhNmQ1ZmM4YzRjNTg1NmUzMzJjYmVlZTMxNjhiOGIyMjc2",
   "tracks": [
     {
       "added_at": "2023-09-22 04:01:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "It Never Entered My Mind",
+        "url": "https://open.spotify.com/album/6jT03zRg4WfbOjYGYVoXl5"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "duration_ms": 201448,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/7sB8c1y2VLN92mw6q3gWGu"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "I Always Fall for You",
@@ -73,6 +89,22 @@
       "url": "https://open.spotify.com/track/5LQmaC0A1qnm4ad8MuONcG"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 260918,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo"
+    },
+    {
       "added_at": "2023-10-06 04:01:00",
       "album": {
         "name": "If You Go Away / Ne me quitte pas",
@@ -87,6 +119,38 @@
       "duration_ms": 295148,
       "name": "If You Go Away",
       "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Tormento",
+        "url": "https://open.spotify.com/album/1i8k3JoTDSJwcwSbmQGmJ0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        },
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 231349,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/5hUQiYplc53Z5zqW7OMQdn"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -315,38 +379,6 @@
       "duration_ms": 248862,
       "name": "September In The Rain",
       "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Walking",
-        "url": "https://open.spotify.com/album/32TQtrXkhHJDN1LKaIYRlr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Sean Mason",
-          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
-        },
-        {
-          "name": "Jonathan Michel",
-          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 311917,
-      "name": "Walking",
-      "url": "https://open.spotify.com/track/1xGKhNKnV4mBoFBdQ5XlnI"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -845,26 +877,6 @@
       "url": "https://open.spotify.com/track/4l9mGZ2grEUj4EPsONVKml"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Don't Dream It's Over",
-        "url": "https://open.spotify.com/album/29DZZXyb7UbuBByWemVZAK"
-      },
-      "artists": [
-        {
-          "name": "Anthony Strong",
-          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
-        },
-        {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/1vlEpTUKHga9wAxpQYcrvR"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "It Could Happen To You",
@@ -895,26 +907,6 @@
       "duration_ms": 273266,
       "name": "I Want To Talk About You",
       "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "DEUX AMIES",
-        "url": "https://open.spotify.com/album/1xrqHfRFnrFSnntJTUaqA0"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        },
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 236319,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/6WPm9arPzfEBqlPo1gtMzb"
     },
     {
       "added_at": "2023-04-28 04:01:00",

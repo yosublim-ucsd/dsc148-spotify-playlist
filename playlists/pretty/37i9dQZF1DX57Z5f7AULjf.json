@@ -1,12 +1,12 @@
 {
   "description": "HoCo 2023 edition.",
-  "num_followers": 3732,
+  "num_followers": 3865,
   "original_name": "We Outside!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzMxYWRiMmUyNmQ1ZWExMWNjYjJmNzlkY2MxN2VhMzg2NTFjMGQ3",
+  "snapshot_id": "MCwzZDZhMmJkZDBhZWZiZTllODY3OWM3NmU0ZDIyNTE2NTY3OTE5MWZk",
   "tracks": [
     {
       "added_at": "2023-10-20 21:28:28",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
     },
     {
-      "added_at": "2023-10-21 17:22:38",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
-    },
-    {
       "added_at": "2023-10-20 21:28:28",
       "album": {
         "name": "SET IT OFF",
@@ -667,6 +651,22 @@
       "duration_ms": 188333,
       "name": "WORTH IT (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
+    },
+    {
+      "added_at": "2023-10-21 17:22:38",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
     },
     {
       "added_at": "2023-10-21 17:22:38",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
     },
     {
-      "added_at": "2023-06-16 05:16:25",
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "Ocean Spray",
-      "url": "https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt"
-    },
-    {
       "added_at": "2023-10-20 21:28:28",
       "album": {
         "name": "Hood Hottest Princess",
@@ -871,6 +855,22 @@
       "duration_ms": 130707,
       "name": "Looking For The Hoes (Ain\u2019t My Fault)",
       "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
+    },
+    {
+      "added_at": "2023-06-16 05:16:25",
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Ocean Spray",
+      "url": "https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt"
     },
     {
       "added_at": "2023-10-21 17:22:38",

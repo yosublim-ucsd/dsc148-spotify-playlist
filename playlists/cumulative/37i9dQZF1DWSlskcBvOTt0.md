@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-520 songs - 2 day 2 hr 26 min
+521 songs - 2 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Marimba](https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Marimba](https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx) | 5:59 | 2021-04-21 | 2023-04-01 |
 | [Mariposa](https://open.spotify.com/track/4vBoDgmhEeGd8mNBS9gTso) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Mariposa](https://open.spotify.com/album/7c431xYw1mJqGslm1DkQ3g) | 7:31 | 2021-07-09 | 2022-07-10 |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2021-12-10 | 2022-07-29 |
+| [Medieval \- LP Giobbi Remix](https://open.spotify.com/track/3PglnB18NqXPMiDGDHO0t1) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Temple Of Dreams \(Remixes Part 3\)](https://open.spotify.com/album/06hdt6bc2zFnFccUCa4GCR) | 3:41 | 2023-10-27 |  |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-01-21 | 2023-03-19 |
 | [Melt](https://open.spotify.com/track/6PXLUDOUGRlvQU5ZX8sncU) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Land Of Heroes](https://open.spotify.com/album/4PEEAEwfRHYm6G623lwyhC) | 6:37 | 2022-04-11 | 2023-06-22 |
 | [Menq \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/4uWFK5qbPLrwuoTZipEPmz) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO), [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Armat](https://open.spotify.com/album/207uRcfNbu0k7zd2zdXsEy) | 8:34 | 2021-04-21 | 2022-06-16 |
@@ -523,7 +524,7 @@
 | [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 | 2022-11-11 | 2023-07-16 |
 | [Your Inner Workings](https://open.spotify.com/track/3nEHRDu0SiBcMYg5WuHsN0) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Your Inner Workings](https://open.spotify.com/album/4ABZUaxjI2R19wvLzXgNHC) | 5:33 | 2022-05-24 | 2022-10-15 |
 | [Your Love \- Agents of Time Remix](https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Your Love \(Agents of Time Remix\)](https://open.spotify.com/album/7yud1MBi2dNt3mqzfVXgXT) | 6:50 | 2022-10-28 | 2023-10-14 |
-| [YOUR NAME](https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SILVERLAKE 03](https://open.spotify.com/album/3EHHWKU0W1jIsFcmpaXqas) | 5:11 | 2023-10-06 |  |
+| [YOUR NAME](https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SILVERLAKE 03](https://open.spotify.com/album/3EHHWKU0W1jIsFcmpaXqas) | 5:11 | 2023-10-06 | 2023-10-28 |
 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 | 2022-08-19 |  |
 | [Your Way](https://open.spotify.com/track/2V64rudkFZ9gciglMM0t5S) | [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Your Way](https://open.spotify.com/album/0QZrG85ir88fpUnbxzgFe6) | 6:18 | 2022-09-30 | 2022-10-29 |
 | [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 | 2023-05-12 |  |

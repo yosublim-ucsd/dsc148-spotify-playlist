@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance hits. Cover: Sam Feldt",
+  "description": "The world's biggest dance hits. Cover: David Guetta, Ayra Starr, Lil Durk",
   "name": "mint",
   "tracks": [
     {
@@ -1533,6 +1533,32 @@
     },
     {
       "album": {
+        "name": "Big FU",
+        "url": "https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161770,
+      "name": "Big FU",
+      "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
+    },
+    {
+      "album": {
         "name": "Billie (Loving Arms)",
         "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
       },
@@ -2591,6 +2617,28 @@
     },
     {
       "album": {
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192900,
+      "name": "Cruel Summer - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
+    },
+    {
+      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct"
       },
@@ -3182,7 +3230,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 168529,
       "name": "Diamonds On My Mind",
       "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
@@ -3348,6 +3396,28 @@
       "duration_ms": 177213,
       "name": "DNA",
       "url": "https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ"
+    },
+    {
+      "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164919,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
     },
     {
       "album": {
@@ -3804,6 +3874,28 @@
       "duration_ms": 235785,
       "name": "Drugs From Amsterdam",
       "url": "https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4"
+    },
+    {
+      "album": {
+        "name": "Drums (Feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "Drums (Feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
     },
     {
       "album": {
@@ -4588,7 +4680,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 193690,
       "name": "Fine Day Anthem",
       "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
@@ -4628,6 +4720,28 @@
       "duration_ms": 264698,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl"
+    },
+    {
+      "album": {
+        "name": "Flip It",
+        "url": "https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Dem Jointz",
+          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Flip It",
+      "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
     },
     {
       "album": {
@@ -4888,7 +5002,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 198095,
       "name": "Free",
       "url": "https://open.spotify.com/track/5Y4L2jaSYxvPlhz6T8HRAl"
@@ -5198,7 +5312,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 169534,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
@@ -5432,6 +5546,28 @@
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+    },
+    {
+      "album": {
+        "name": "Heart Still Beating",
+        "url": "https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149163,
+      "name": "Heart Still Beating",
+      "url": "https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT"
     },
     {
       "album": {
@@ -6285,6 +6421,32 @@
     },
     {
       "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198805,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
+    },
+    {
+      "album": {
         "name": "I Wanna Run Away",
         "url": "https://open.spotify.com/album/33N30g1JmlblkIJ9fVr4aY"
       },
@@ -6396,7 +6558,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 240975,
       "name": "I Will Leave a Light On",
       "url": "https://open.spotify.com/track/2xlSM0k9SCoG6UMaZWWRiC"
@@ -7731,6 +7893,32 @@
     },
     {
       "album": {
+        "name": "Like A Prayer",
+        "url": "https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87"
+      },
+      "artists": [
+        {
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+        },
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229337,
+      "name": "Like A Prayer",
+      "url": "https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN"
+    },
+    {
+      "album": {
         "name": "Like Wooh Wooh",
         "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
       },
@@ -8932,7 +9120,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 128024,
       "name": "Million Dollar Bill",
       "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
@@ -10180,7 +10368,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 160529,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
@@ -11960,7 +12148,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189783,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
@@ -13074,7 +13262,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 167362,
       "name": "Stick Your Tongue Out",
       "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
@@ -13597,6 +13785,24 @@
     },
     {
       "album": {
+        "name": "Take My Chance",
+        "url": "https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198603,
+      "name": "Take My Chance",
+      "url": "https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR"
+    },
+    {
+      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/7eyBGIi1aKKeSpEaDJGlWf"
       },
@@ -13832,6 +14038,32 @@
       "duration_ms": 489480,
       "name": "The Age Of Love - Charlotte de Witte & Enrico Sangiuliano Remix",
       "url": "https://open.spotify.com/track/6X6Ow0iioCrYQSK1QDHQbC"
+    },
+    {
+      "album": {
+        "name": "The Boy Is Mine",
+        "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
+      },
+      "artists": [
+        {
+          "name": "James Mac",
+          "url": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
+        },
+        {
+          "name": "Vall",
+          "url": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
+        },
+        {
+          "name": "Rosalie",
+          "url": "https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201713,
+      "name": "The Boy Is Mine",
+      "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
     },
     {
       "album": {
@@ -14350,7 +14582,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 204359,
       "name": "Time Expands",
       "url": "https://open.spotify.com/track/22nmVMHu9jWcoRwNvtQuSE"

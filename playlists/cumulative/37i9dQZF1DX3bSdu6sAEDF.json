@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184905,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/0PNijikiRzvpXqY6bpyrfZ"
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 173045,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/5oP725PoN0QHZ0T8kDt8I4"
@@ -2620,6 +2620,24 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "album": {
+        "name": "Holding on to Us",
+        "url": "https://open.spotify.com/album/5SwqkXIOm7AbNgMxnB1FSh"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204119,
+      "name": "Holding on to Us",
+      "url": "https://open.spotify.com/track/7pgjXQqGqzUi0Wp3ySvhTc"
     },
     {
       "album": {

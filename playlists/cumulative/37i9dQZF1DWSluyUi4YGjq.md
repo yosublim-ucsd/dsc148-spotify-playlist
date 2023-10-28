@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Duster
 
-475 songs - 1 day 7 hr 5 min
+476 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-12 |  |
 | [A Heavy Abacus](https://open.spotify.com/track/18bMfoScYmenFKMristSDI) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 3:40 | 2021-10-19 | 2022-12-16 |
 | [A Rising Sun](https://open.spotify.com/track/3ABSF4lV3ENRWjwKbHWQTF) | [Mint Julep](https://open.spotify.com/artist/60xrFrkTS0lvRRpbS1cpnr) | [In a Deep and Dreamless Sleep](https://open.spotify.com/album/2TYJIVtnQigi7lMTBEKD3L) | 3:48 | 2021-10-19 | 2022-07-26 |
-| [ABOUTYOU](https://open.spotify.com/track/7FkqDr0d8OSXfRT8vVjKEk) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh), [betterluckmason](https://open.spotify.com/artist/3n50HiEZZUPpdSO14AZxXz) | [ABOUTYOU](https://open.spotify.com/album/41cisIqeCEVTKl3jJgXzd6) | 2:03 | 2023-09-01 |  |
+| [ABOUTYOU](https://open.spotify.com/track/7FkqDr0d8OSXfRT8vVjKEk) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh), [betterluckmason](https://open.spotify.com/artist/3n50HiEZZUPpdSO14AZxXz) | [ABOUTYOU](https://open.spotify.com/album/41cisIqeCEVTKl3jJgXzd6) | 2:03 | 2023-09-01 | 2023-10-28 |
 | [afraid](https://open.spotify.com/track/481A0KvGKhzGsQHM1RlODQ) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [afraid](https://open.spotify.com/album/5athKnedDAj44OMlwx4L2Y) | 2:41 | 2023-08-04 |  |
 | [Air Supply](https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 4:41 | 2022-09-21 | 2023-06-17 |
 | [Akira](https://open.spotify.com/track/5etys3p3H0qRDscHy7eWKc) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Deafcult](https://open.spotify.com/album/6dPwwV3dTTa7P4isGGBXvy) | 3:09 | 2021-10-19 | 2023-01-14 |
@@ -418,6 +418,7 @@
 | [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:14 | 2022-04-22 | 2023-06-08 |
 | [The Luck You Had](https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [The Luck You Had](https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2) | 4:24 | 2023-06-23 |  |
 | [The One You Need](https://open.spotify.com/track/5WFLb3UkZ0ojXkj4B4RjzF) | [Pizza Daddy](https://open.spotify.com/artist/31inVyE27qKCD4w0Kt32q4) | [The One You Need](https://open.spotify.com/album/6WLlEcM5oGTFOtuw7hHgUF) | 4:21 | 2023-09-08 |  |
+| [The Price Was High](https://open.spotify.com/track/3L8WehfgTSv0AOqEAT49rn) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [The Price Was High](https://open.spotify.com/album/6NHPOOMH3RdG079U5Rk0Us) | 3:34 | 2023-10-28 |  |
 | [The Rhythm](https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:30 | 2022-04-22 | 2023-01-20 |
 | [The Run I\. & II\. \- Extended single edit](https://open.spotify.com/track/2jmt8JiT7IPRzdWf4Diz6N) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn), [Alcest](https://open.spotify.com/artist/7FqjTmfXMXDYDAvRX5KYZd), [JK Flesh](https://open.spotify.com/artist/0JP4tVwUQtzOtmtn4ktQB3) | [The Run I\. & II.](https://open.spotify.com/album/3NybIjX2h7PO0kc6cjiqm6) | 6:47 | 2022-12-15 | 2023-01-13 |
 | [The Skin And The Glove](https://open.spotify.com/track/27P3WtpJnHreSOmwAOH29O) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Skin And The Glove](https://open.spotify.com/album/4cS5ytj8t6O9hYJHQPi9QQ) | 6:02 | 2023-07-17 | 2023-08-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 17096,
+  "num_followers": 17106,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjU2YzI5MTBkYTZiNmYxMDE2NTk1OTk3MTgwZjc2YTNlNDAzNWJh",
+  "snapshot_id": "MCxkNGY4M2E1ZWE0NTMzM2MyZjA4YjI0YTc1OWNjMjlmMjMwYTQ4NTEw",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 230360,
       "name": "Red House",
       "url": "https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH"
     },
     {
       "added_at": "2020-05-03 08:57:28",

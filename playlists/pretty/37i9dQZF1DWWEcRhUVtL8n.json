@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: hemlocke springs ",
-  "num_followers": 1698049,
+  "num_followers": 1698048,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDA4MWM2OWYxMTU1ZDU1MWI3OWY5ZDlhNjhjZmEwOTFiMTZiZmQz",
+  "snapshot_id": "MCw2M2ZmYzkyNjMxODkxNGIyMGY1ZTlhNzdkNzk5NjE0NTVhZDdmZDBh",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -285,7 +285,7 @@
         }
       ],
       "duration_ms": 136250,
-      "name": "Eulogy for Nobody",
+      "name": "Eulogy For Nobody",
       "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
     },
     {
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
-      "added_at": "2023-04-21 04:19:11",
-      "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Op Shop Lover",
@@ -579,6 +563,22 @@
       "duration_ms": 232625,
       "name": "Welcome To My Island",
       "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
+    },
+    {
+      "added_at": "2023-04-21 04:19:11",
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Boy Toy",
-        "url": "https://open.spotify.com/album/4Fu86wa5adwAw8xEcnUnT7"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 176474,
-      "name": "Boy Toy",
-      "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
-    },
-    {
       "added_at": "2023-06-30 04:21:00",
       "album": {
         "name": "19",
@@ -863,6 +847,22 @@
       "duration_ms": 136800,
       "name": "19",
       "url": "https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Boy Toy",
+        "url": "https://open.spotify.com/album/4Fu86wa5adwAw8xEcnUnT7"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 176474,
+      "name": "Boy Toy",
+      "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "James Dean",
-        "url": "https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "James Dean",
-      "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "HATELOVE",
         "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 171925,
       "name": "HATELOVE",
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "James Dean",
+        "url": "https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "James Dean",
+      "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
     },
     {
       "added_at": "2023-06-30 04:21:00",
@@ -965,38 +965,6 @@
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Me & Me",
-        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 147596,
-      "name": "Me & Me",
-      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
-    },
-    {
       "added_at": "2023-08-14 19:08:31",
       "album": {
         "name": "Happiest Girl",
@@ -1015,6 +983,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Perspective",
         "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 163050,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
     },
     {
-      "added_at": "2023-08-14 19:08:31",
-      "album": {
-        "name": "All The Things",
-        "url": "https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 202389,
-      "name": "All The Things",
-      "url": "https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj"
-    },
-    {
       "added_at": "2023-04-18 18:49:21",
       "album": {
         "name": "Til U Hate Me",
@@ -1295,6 +1279,22 @@
       "duration_ms": 199042,
       "name": "Til U Hate Me",
       "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
+    },
+    {
+      "added_at": "2023-08-14 19:08:31",
+      "album": {
+        "name": "All The Things",
+        "url": "https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 202389,
+      "name": "All The Things",
+      "url": "https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1345,20 +1345,24 @@
       "url": "https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA"
     },
     {
-      "added_at": "2023-07-07 18:51:45",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Hello Hi / Un Deux Trois",
-        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
       "artists": [
         {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
+      "duration_ms": 215986,
+      "name": "Diving - feat. Holly Humberstone",
+      "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1375,6 +1379,22 @@
       "duration_ms": 164196,
       "name": "Give A Little Kindness",
       "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
+    },
+    {
+      "added_at": "2023-07-07 18:51:45",
+      "album": {
+        "name": "Hello Hi / Un Deux Trois",
+        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1443,26 +1463,6 @@
       "duration_ms": 159514,
       "name": "play pretenses",
       "url": "https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Diving - feat. Holly Humberstone",
-      "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Water Pistol",
+        "url": "https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 219582,
+      "name": "Water Pistol",
+      "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
+    },
+    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "It's Euphoric",
@@ -1577,38 +1593,6 @@
       "url": "https://open.spotify.com/track/7sm7RkEXLx4IFvvbw8h5rC"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Water Pistol",
-        "url": "https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 219582,
-      "name": "Water Pistol",
-      "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Drop Cherries",
-        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 206427,
-      "name": "I Can't Get My Head Around You",
-      "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "MOVIES! WORLDWIDE: PART I",
@@ -1627,6 +1611,22 @@
       "duration_ms": 98042,
       "name": "Gave U My Love",
       "url": "https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 206427,
+      "name": "I Can't Get My Head Around You",
+      "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
     },
     {
       "added_at": "2023-07-14 18:19:08",

@@ -4,7 +4,7 @@
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-154 songs - 9 hr 47 min
+155 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Angels Among Us](https://open.spotify.com/track/5RfGLT4G5YeY5niIYc5GnI) | [Jenna Rae](https://open.spotify.com/artist/6osWFsdfO9F5O82CoyUYE5) | [Workin' Woman](https://open.spotify.com/album/7bBq1QuARjBme4nclMsr5T) | 4:51 | 2021-12-15 | 2022-07-28 |
 | [Anyway](https://open.spotify.com/track/1OTB8tW3bEPoJ4LzYtOyG2) | [Jimmy Carter and Dallas County Green](https://open.spotify.com/artist/2RWgO3s8UmCP8tG1kTFFzF) | [Summer Brings the Sunshine](https://open.spotify.com/album/6QDNz5r99z7iJpkHjnldW7) | 4:13 | 2021-12-15 | 2022-07-29 |
 | [Anyway](https://open.spotify.com/track/2iUSOATtt6Y0Mm9zpJrq5G) | [Jimmy Carter and Dallas County Green](https://open.spotify.com/artist/2RWgO3s8UmCP8tG1kTFFzF) | [Summer Brings the Sunshine](https://open.spotify.com/album/6yligzKEGqNHxMWUF6zPiA) | 4:13 | 2021-12-15 | 2023-05-04 |
-| [Are You Listening?](https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Are You Listening?](https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O) | 3:18 | 2021-12-15 |  |
+| [Are You Listening?](https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Are You Listening?](https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O) | 3:18 | 2021-12-15 | 2023-10-28 |
 | [Aw Heck](https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 2:20 | 2021-12-15 |  |
 | [Before That Final Bell](https://open.spotify.com/track/0LtjFdoO1QDNBWBGVmun8l) | [Western Centuries](https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp) | [Before That Final Bell](https://open.spotify.com/album/7ulqwLvVfi1LF3NfXddkQO) | 3:42 | 2021-12-15 | 2022-07-29 |
 | [Betwixt and Between](https://open.spotify.com/track/0tdimMLnn1H7BflkGgYD1R) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Spencer Cullum's Coin Collection 2](https://open.spotify.com/album/0NVFSSo2o8suCMKJJhqual) | 3:09 | 2023-03-28 | 2023-05-08 |
@@ -132,6 +132,7 @@
 | [The Golden Sky](https://open.spotify.com/track/4rq928bInvxoDlfWr6nstY) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 3:55 | 2021-12-15 |  |
 | [The Golden Sky](https://open.spotify.com/track/6WvhkRzCJGtIVGnaYXbOS8) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Every Once In A While](https://open.spotify.com/album/3MDfSodOC8B0eF6HFrySvH) | 3:55 | 2021-12-15 | 2022-07-29 |
 | [The Wolf](https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg) | [Gill Landry](https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh) | [Skeleton at the Banquet](https://open.spotify.com/album/6sbJZndXlSLENEZDP9h6yV) | 4:54 | 2021-12-15 | 2022-07-19 |
+| [Things to Burn](https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Southern Galactic](https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy) | 3:18 | 2023-10-27 |  |
 | [Thunderbird](https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:28 | 2022-10-28 |  |
 | [Toshiba Sky](https://open.spotify.com/track/0BAmbyXYoRTP0Pf9SkPUjr) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/54g5o5xaRVed25fqwz7QEO) | 3:16 | 2021-12-15 | 2023-04-30 |
 | [Toshiba Sky](https://open.spotify.com/track/2xmNUTjFh6DeZIXgc6CfU1) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/1THPaJ3KhIRPBpAvCaG163) | 3:16 | 2021-12-15 | 2022-07-29 |

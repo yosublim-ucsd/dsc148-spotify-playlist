@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Juliana Gattas
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,418 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,423 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 3 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 |
 | 4 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
 | 5 | [TU SI K TA LOKO](https://open.spotify.com/track/147SiJnBgxPKsuEYY5kMZT) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:50 |
-| 6 | [Olvidarte nunca](https://open.spotify.com/track/7ctPbxkeGmXUqq85ZJ4kwD) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Olvidarte nunca](https://open.spotify.com/album/1joVpTnFL8za0eR9pGqHfk) | 2:53 |
-| 7 | [Que poco saben de mí](https://open.spotify.com/track/7DJnS2omEQOjU1hbLCPUH7) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Que poco saben de mí](https://open.spotify.com/album/1aqUCKeSXnMeAQnrAxq6SM) | 3:44 |
+| 6 | [Que poco saben de mí](https://open.spotify.com/track/7DJnS2omEQOjU1hbLCPUH7) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Que poco saben de mí](https://open.spotify.com/album/1aqUCKeSXnMeAQnrAxq6SM) | 3:44 |
+| 7 | [Olvidarte nunca](https://open.spotify.com/track/7ctPbxkeGmXUqq85ZJ4kwD) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Olvidarte nunca](https://open.spotify.com/album/1joVpTnFL8za0eR9pGqHfk) | 2:53 |
 | 8 | [La Historia Sin Final](https://open.spotify.com/track/2vK2Q4Evlb7VYwZ3FCweSb) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [La Historia Sin Final](https://open.spotify.com/album/1de1EluzPrCYRh7BlEQPtv) | 2:52 |
 | 9 | [Ya No](https://open.spotify.com/track/26qmCEncx9paaaIQro9K8A) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:29 |
 | 10 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
 | 11 | [PINCHÓ](https://open.spotify.com/track/6Xvkvbjdk920JEBQfYUqAm) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [PINCHÓ](https://open.spotify.com/album/18Xynx3lXf0c3mNqEV4ngD) | 3:05 |
 | 12 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 |
 | 13 | [Acaramelao / Endúlzame los Oídos \- Headphone Mix](https://open.spotify.com/track/4nbDc7f97uUIno916znqQM) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Endúlzame los Oídos / Acaramelao \(Headphone Mix\)](https://open.spotify.com/album/7C6WY8UbWT2ny3Oogkpu8E) | 2:47 |
-| 14 | [Fin del Mundo](https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 5:19 |
-| 15 | [Reina](https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Cardo o Ceniza](https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl) | 3:03 |
+| 14 | [Reina](https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Cardo o Ceniza](https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl) | 3:03 |
+| 15 | [Fin del Mundo](https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 5:19 |
 | 16 | [Caca en la Cabeza](https://open.spotify.com/track/4p2wKzOAsHJ0QJ8jo7orWE) | [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Munanakunanchej en el Camino Kurmi](https://open.spotify.com/album/2kk6T2HCYPDoUcAqBry7zT) | 3:21 |
 | 17 | [Viento Helado](https://open.spotify.com/track/2bWQKPzPvyxKZLvf69gXEK) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Estaciones](https://open.spotify.com/album/3FBhxKF1Q9a5dYT7UCznrH) | 2:58 |
 | 18 | [Bolero](https://open.spotify.com/track/1VIQQvSf2kZJhMkUQ8QTqv) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:40 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 23 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
 | 24 | [Ninja](https://open.spotify.com/track/3e4r36iC4TErf0yjSq4Ulh) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Labio Inferior](https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M) | 2:55 |
 | 25 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
-| 26 | [sola otra vez](https://open.spotify.com/track/65tHJ2o2hFDyBPghXWLYtv) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Llorar en un baño público](https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA) | 2:47 |
-| 27 | [mejor me voy :\)](https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [mejor me voy: \)](https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs) | 3:02 |
+| 26 | [mejor me voy :\)](https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [mejor me voy: \)](https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs) | 3:02 |
+| 27 | [sola otra vez](https://open.spotify.com/track/65tHJ2o2hFDyBPghXWLYtv) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Llorar en un baño público](https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA) | 2:47 |
 | 28 | [La Cascada de Tu Pelo Enredado](https://open.spotify.com/track/3NsRU4E09BC9qlWS7Pn2wY) | [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [En vivo en El Xirgu](https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ) | 2:45 |
 | 29 | [CARIÑO](https://open.spotify.com/track/2eCh5kiWU5HKTyIHJkGLHR) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [CARIÑO](https://open.spotify.com/album/48GiVnfJoDeVyBj7KhbXzK) | 2:09 |
 | 30 | [Cuando Sea Grande](https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Cuando Sea Grande](https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL) | 2:27 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 43 | [Canción Uno](https://open.spotify.com/track/3kMzTW1gBjzQ99oX1EzTpC) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk) | [Kawaii](https://open.spotify.com/album/3WMSVaZA9laNCvCbRK1aic) | 4:00 |
 | 44 | [A Berisso](https://open.spotify.com/track/6iulOMwuf00k2yA4Hmw85h) | [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF), [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Salve](https://open.spotify.com/album/2QJdf3e2En6DGh99jd3ZlJ) | 3:18 |
 | 45 | [POR TRES MONEDAS](https://open.spotify.com/track/56cCFw8FHk7W5Sj6kLYseJ) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [POR TRES MONEDAS](https://open.spotify.com/album/2HZRPWMv3X3yVv1QnIyZlT) | 3:53 |
-| 46 | [Festejar](https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh) | [Emme](https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW) | [Festejar](https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY) | 3:48 |
-| 47 | [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 |
+| 46 | [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 |
+| 47 | [Festejar](https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh) | [Emme](https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW) | [Festejar](https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY) | 3:48 |
 | 48 | [Libre](https://open.spotify.com/track/7iiErQtUNjJgpKlMlAIEsF) | [Nina Vais](https://open.spotify.com/artist/0qVAQKgjUfw82KTe43p1tF) | [Libre](https://open.spotify.com/album/4etlu4cg4TYpsjpbFEht1e) | 3:57 |
 | 49 | [Invencible](https://open.spotify.com/track/57ZD0rQSin2Tg28Bx1jUxp) | [Jimena Lopez Chaplin](https://open.spotify.com/artist/08aspKTy15p0uOx8hOokKY) | [El Ruido de la Piara](https://open.spotify.com/album/1kDa9uU0TtQ8vjofZQpVeP) | 2:34 |
 | 50 | [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 |
 
-Snapshot ID: `MCxiZGJiMjQwOWY5ZmQ4NDc2NzNjOGY2ZDY4YmNhYzk3NjkyNGNjNjBh`
+Snapshot ID: `MCwyMGJmNzRhYjI5Mzc5MDI1ZTllYTVhN2Q1N2U3YjQzNWNmOWVlYTAy`

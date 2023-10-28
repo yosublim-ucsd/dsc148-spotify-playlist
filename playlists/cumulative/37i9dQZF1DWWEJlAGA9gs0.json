@@ -3048,10 +3048,40 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 766212,
       "name": "Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato",
       "url": "https://open.spotify.com/track/0QTaXZRWdzfPdssiQThdCL"
+    },
+    {
+      "album": {
+        "name": "Grieg: Piano Works",
+        "url": "https://open.spotify.com/album/4ROg06WrDUoGxZiw6Hgj6Q"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Denis Kozhukhin",
+          "url": "https://open.spotify.com/artist/5iRBqpTEOgggnri1awdnNZ"
+        },
+        {
+          "name": "Rundfunk-Sinfonieorchester Berlin",
+          "url": "https://open.spotify.com/artist/15QTSK7NBFJawaoxQALt9s"
+        },
+        {
+          "name": "Vassily Sinaisky",
+          "url": "https://open.spotify.com/artist/5ieRNtQmVhIhCkQA4ZkK6L"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 766212,
+      "name": "Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato",
+      "url": "https://open.spotify.com/track/62yRch6aOnrQ44oftphdDq"
     },
     {
       "album": {

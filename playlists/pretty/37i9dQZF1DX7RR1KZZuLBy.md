@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,964 likes - 136 songs - 12 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,991 likes - 136 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 135 | [Love On The Cross](https://open.spotify.com/track/0PMWpJxA80NhC0SiGRAthQ) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love On The Cross](https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh) | 5:50 |
 | 136 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
 
-Snapshot ID: `MCw3YWUxMzQxMzI2OGY4MWZiNzMxNDc1OTUyNzIxMmExMzNkNmNiOGI5`
+Snapshot ID: `MCwzOGQ0ZDhiZTFkYmUwZDU4MTdhMzM3NWQyZTkxMmJmYzM1NWM5OWRk`

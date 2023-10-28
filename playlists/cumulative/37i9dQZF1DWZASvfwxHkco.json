@@ -300,7 +300,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
@@ -2436,7 +2436,7 @@
     {
       "album": {
         "name": "Heart Still Beating",
-        "url": "https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp"
+        "url": "https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m"
       },
       "artists": [
         {
@@ -2451,6 +2451,28 @@
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149163,
+      "name": "Heart Still Beating",
+      "url": "https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT"
+    },
+    {
+      "album": {
+        "name": "Heart Still Beating",
+        "url": "https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-28",
       "duration_ms": 149163,
       "name": "Heart Still Beating",
       "url": "https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU"
@@ -5186,7 +5208,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"

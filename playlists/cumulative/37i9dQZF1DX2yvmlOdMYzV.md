@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-550 songs - 1 day 6 hr 13 min
+551 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Me & Mrs\. Wong](https://open.spotify.com/track/0v0iiy4gktlrDWb6P0w1Xx) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Me & Mrs\. Wong](https://open.spotify.com/album/416QmA6TRGNkxjKp4i9b8b) | 3:50 | 2021-12-15 | 2022-07-29 |
 | [Me & Ur Maker](https://open.spotify.com/track/1OpyuYYkGIv87DdHXmZVfC) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl) | [Luna](https://open.spotify.com/album/4fhfwiNZaMuMrVst1cY7d4) | 2:26 | 2023-08-25 |  |
 | [Medicate for You](https://open.spotify.com/track/3UBd89AndwOYzfi2mTM0Ne) | [Aolani](https://open.spotify.com/artist/0AAwRFgXtxXhHbiMS9W9DL) | [Aolani](https://open.spotify.com/album/3DtWGgnwO3D0wXBnpHDtWw) | 3:26 | 2021-12-15 | 2022-04-21 |
+| [MERCY](https://open.spotify.com/track/1WFCxAriOtoD8cQvChkllv) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [MERCY](https://open.spotify.com/album/7wyTJUF7oPfDYABCxqZH4P) | 4:26 | 2023-10-27 |  |
 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 | 2023-09-08 |  |
 | [MHS](https://open.spotify.com/track/7w1cWV6RG3EqHD33qR2ARj) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [MHS](https://open.spotify.com/album/70bf7jpi0uG2p3fZYWa5SC) | 2:50 | 2021-12-15 | 2022-07-28 |
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-12-15 | 2022-08-08 |
@@ -553,7 +554,7 @@
 | [You](https://open.spotify.com/track/75ZoDBdTAO9e896PtMsbnG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced Mcgee](https://open.spotify.com/album/03HsVVsJiYkq3pbGJYOAPr) | 5:10 | 2021-12-15 | 2022-07-29 |
 | [You](https://open.spotify.com/track/0iRStxrY5NmQYzuSYnuoGg) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Alone](https://open.spotify.com/album/1ubh8g3vXgxNP5RGfSlO6d) | 2:09 | 2022-06-30 | 2023-01-28 |
 | [You](https://open.spotify.com/track/68Q8gyJ6Jy9yGJ0h99hfuM) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Alone](https://open.spotify.com/album/439j1V3GK4ef3Ou2dzp9Xa) | 2:09 | 2021-12-15 | 2022-07-17 |
-| [You and I](https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [You and I](https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj) | 3:06 | 2023-10-06 |  |
+| [You and I](https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [You and I](https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj) | 3:06 | 2023-10-06 | 2023-10-28 |
 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 | 2022-03-29 | 2023-06-17 |
 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2021-12-15 | 2023-01-28 |
 | [YOURS \(ft\. India Shawn\)](https://open.spotify.com/track/62jDisCcICzlm1hwrU2rxl) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DARLING](https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb) | 4:20 | 2022-09-02 | 2023-09-17 |

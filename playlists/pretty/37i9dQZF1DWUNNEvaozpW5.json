@@ -1,13 +1,29 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como El \u00daltimo de la Fila.",
-  "num_followers": 566831,
+  "num_followers": 567026,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWY4ZjNiNmJkYzYwZTNjZWE0ZWM1NDk5NGMyM2ZhN2JhMzE4ZWNm",
+  "snapshot_id": "MCxhYjg3MDVkZTk4MTg3NjFhMDA5MWYwYWJjZmY5ZDJlYzExMWU2MGIy",
   "tracks": [
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Astronom\u00eda Razonable",
+        "url": "https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "L\u00e1piz y tinta",
+      "url": "https://open.spotify.com/track/32tarmPzTWgTZj0NAZz2DH"
+    },
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
       },
@@ -75,18 +75,18 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Astronom\u00eda Razonable",
-        "url": "https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS"
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
       "artists": [
         {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 226533,
-      "name": "L\u00e1piz y tinta",
-      "url": "https://open.spotify.com/track/32tarmPzTWgTZj0NAZz2DH"
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Poes\u00eda B\u00e1sica",
-        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
-      },
-      "artists": [
-        {
-          "name": "Extrechinato y Tu",
-          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Rojitas",
-      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "El sombrerero loco",
         "url": "https://open.spotify.com/album/64KmxosC8CmHppBI2leRdl"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 270666,
       "name": "El sombrerero loco",
       "url": "https://open.spotify.com/track/5W6B8o2GIICi43uDMNIFHT"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Poes\u00eda B\u00e1sica",
+        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
+      },
+      "artists": [
+        {
+          "name": "Extrechinato y Tu",
+          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Rojitas",
+      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Ese d\u00eda piensa en m\u00ed",
-        "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
       },
       "artists": [
         {
-          "name": "Los Suaves",
-          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
         }
       ],
-      "duration_ms": 311866,
-      "name": "Dolores se llamaba Lola",
-      "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
+      "duration_ms": 400480,
+      "name": "Por verte sonre\u00edr",
+      "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
+        "name": "Ese d\u00eda piensa en m\u00ed",
+        "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
       },
       "artists": [
         {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
         }
       ],
-      "duration_ms": 400480,
-      "name": "Por verte sonre\u00edr",
-      "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
+      "duration_ms": 311866,
+      "name": "Dolores se llamaba Lola",
+      "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Un Encuentro",
-        "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
-      },
-      "artists": [
-        {
-          "name": "Triana",
-          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Tu frialdad",
-      "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Rock and Roll Actitud (1978-2018)",
         "url": "https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 249066,
       "name": "Rock and Roll Star - 2017 Remaster",
       "url": "https://open.spotify.com/track/6UJZUMcCgKHi4uGozQc8EE"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Un Encuentro",
+        "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
+      },
+      "artists": [
+        {
+          "name": "Triana",
+          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Tu frialdad",
+      "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
     },
     {
       "added_at": "2023-10-26 22:00:00",

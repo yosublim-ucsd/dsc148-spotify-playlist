@@ -4,7 +4,7 @@
 
 > Relax with these timeless tunes\. Cover: Yusuf / Cat Stevens
 
-151 songs - 9 hr 24 min
+152 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 | 2022-02-28 |  |
 | [Long Haired Lady \- Remastered 2012](https://open.spotify.com/track/6WLcfx5k7piKZWUm1SwFco) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Linda McCartney](https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco) | [Ram \(Archive Collection\)](https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v) | 6:05 | 2022-09-13 |  |
 | [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Silk Purse](https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G) | 4:23 | 2023-01-30 |  |
+| [Longer](https://open.spotify.com/track/56ilrbKJF2bph5W6eZaM5E) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Phoenix](https://open.spotify.com/album/7GnMeBxDvE6wJ4Iu6Xdb2a) | 3:15 | 2023-10-27 |  |
 | [Love Has No Pride \- 2008 Remaster](https://open.spotify.com/track/5IaEafAl7QJbxu9DG1usyb) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:48 | 2022-09-13 |  |
 | [Lullabye \(Goodnight, My Angel\)](https://open.spotify.com/track/4cURHmiuYii52BVbhrGbv0) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [River Of Dreams](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) | 3:34 | 2019-05-26\* | 2023-10-21 |
 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 | 2019-05-26\* |  |
@@ -149,7 +150,7 @@
 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 | 2019-05-26\* |  |
 | [Where Have All the Flowers Gone \- 2004 Remaster](https://open.spotify.com/track/1V8BSBe2fB5Np30sXmUCNU) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 3:56 | 2022-04-25 |  |
 | [Wholy Holy](https://open.spotify.com/track/1d9XimiMXrllkSb4BIq5W0) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/6qX4eoPWGteMdJMqGOwPTs) | 3:07 | 2019-05-26\* | 2022-04-21 |
-| [Wholy Holy](https://open.spotify.com/track/4KyyKvKDgVYiwoGJOa0xVd) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:07 | 2021-09-30 |  |
+| [Wholy Holy](https://open.spotify.com/track/4KyyKvKDgVYiwoGJOa0xVd) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:07 | 2021-09-30 | 2023-10-28 |
 | [Wild Horses](https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 5:42 | 2021-09-30 |  |
 | [Wild World](https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:20 | 2019-05-26\* | 2022-07-29 |
 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 | 2021-09-30 |  |

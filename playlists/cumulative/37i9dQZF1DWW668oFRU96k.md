@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Ayra Starr x David Guetta x Lil Durk
 
-623 songs - 1 day 7 hr 4 min
+624 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [Haven](https://open.spotify.com/track/33jPsnwa0CfBBNYzm6wPvb) | [Criss Antof](https://open.spotify.com/artist/3fxxT8cio6JkI5dH4Dy4Y4), [Rayz](https://open.spotify.com/artist/0RNfSDtiquYCmP3PjPj9eL), [Aiden Somerville](https://open.spotify.com/artist/72tzyOHDBEzJYmsgJLKaqK) | [Haven](https://open.spotify.com/album/5ywM2m1U4qJy9t75dz99Ym) | 2:53 | 2023-03-30 | 2023-06-09 |
 | [Haven \- feat\. Hana Hope](https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Haven \(feat\. Hana Hope\)](https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9) | 3:16 | 2023-02-02 | 2023-02-10 |
 | [Heart of Mine](https://open.spotify.com/track/6vqHbooVnSkuAkPdWljmko) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9), [bad narrator](https://open.spotify.com/artist/47GNF7Kf5NvKu7diVeHmCh) | [Blue](https://open.spotify.com/album/2yOsOQFGEI7Va1WYdm53J8) | 2:17 | 2023-05-04 | 2023-06-09 |
-| [Heart Still Beating](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp) | 2:29 | 2023-10-26 |  |
+| [Heart Still Beating](https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m) | 2:29 | 2023-10-26 |  |
+| [Heart Still Beating](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp) | 2:29 | 2023-10-26 | 2023-10-28 |
 | [Heartbreak](https://open.spotify.com/track/732Hvlg6djtZxyStVjmr29) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Heartbreak](https://open.spotify.com/album/4c5sBt3wSeoCiXWnVPW62B) | 2:26 | 2023-03-16 | 2023-04-21 |
 | [Heartless](https://open.spotify.com/track/1tgTXZWWLE1VM7GffiWhVa) | [Moudelica](https://open.spotify.com/artist/2NDG16gAyWdj1lzCBzaYfi), [StarlingEDM](https://open.spotify.com/artist/0a93wqFVaAkoKU1GqG7hvF) | [Heartless](https://open.spotify.com/album/7bxS2O7NI7DXw6NSevMRSE) | 2:17 | 2023-08-10 | 2023-09-15 |
 | [Heat It Up \(feat\. Nani Castle\)](https://open.spotify.com/track/09xkthX2DdGjq0k6erGlIn) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Nani Castle](https://open.spotify.com/artist/58VohCvHiSeXBts6vBbGca) | [Heat It Up \(feat\. Nani Castle\)](https://open.spotify.com/album/6gQnK1ckFDzyLP4l71qBgR) | 3:27 | 2023-10-26 |  |

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-355 songs - 21 hr 33 min
+357 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2022-11-11 | 2023-02-18 |
 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 | 2022-02-04 |  |
 | [Fire](https://open.spotify.com/track/18Hq4xHyecxySkoUPQyYV2) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/54SlWgNocRPhlZEFTYjOfW) | 4:06 | 2021-07-09 | 2022-07-29 |
-| [Fire](https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 | 2021-07-09 |  |
+| [Fire](https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 | 2021-07-09 | 2023-10-28 |
 | [Fire](https://open.spotify.com/track/5LWQ5zef4xx39dIcOOeqUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Fire](https://open.spotify.com/album/36CwJiqhcAgsrtnqWZizkV) | 4:29 | 2022-07-01 | 2023-03-18 |
 | [first, last and always](https://open.spotify.com/track/4yR51vo6LmS17yGoN6Xyre) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [first, last and always](https://open.spotify.com/album/3Ez9IEN1H4hxwomUthlwaj) | 3:26 | 2023-07-28 |  |
 | [Float](https://open.spotify.com/track/2r3r7fxm0wRScSrZ34CbIy) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/2vO9jJeWEJ4NN65qzE5EHn) | 4:00 | 2023-02-10 |  |
@@ -145,6 +145,7 @@
 | [I'm Comin' Home To You](https://open.spotify.com/track/2RHV6ehfb8JnyXugVy7D4E) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Stella Angelico](https://open.spotify.com/artist/3qZl6vkduvtusEc6dnSwGz) | [I'm Comin' Home To You](https://open.spotify.com/album/1J5DfEBCaIxpDRBZl0Slwm) | 3:31 | 2023-08-25 |  |
 | [I'm Curious](https://open.spotify.com/track/5wl4ycUNQn2SWhW9nDh3Oe) | [Wilson Meadows](https://open.spotify.com/artist/1kJpdoVAFnAbIywNd5JVro) | [I'm Curious](https://open.spotify.com/album/6ZEX1dLRi1PfRkLmrbS44l) | 3:10 | 2022-04-15 |  |
 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 | 2023-06-16 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-27 |  |
 | [If My Love Was Enough](https://open.spotify.com/track/5aXJA4672geISfKvJYMvP2) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Natalie Slade](https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ) | [If My Love Was Enough](https://open.spotify.com/album/5nj8FfDsjGKC3WMPIG900C) | 3:41 | 2021-07-09 | 2022-07-21 |
 | [If You Don't Want My Love](https://open.spotify.com/track/2364WrvPTUHobDNURudCbM) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N) | 2:26 | 2023-03-24 | 2023-04-30 |
 | [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 | 2023-03-24 | 2023-09-09 |
@@ -229,7 +230,7 @@
 | [Only Want You](https://open.spotify.com/track/24BE8f0DdJxgtHDjsN9FA7) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Only Want You](https://open.spotify.com/album/5jdmLkQQ1fX8cC0du4H8Va) | 3:50 | 2022-07-01 |  |
 | [Oo Baby](https://open.spotify.com/track/4EBy3nzmqlfnnbhxCESldy) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Oo Baby](https://open.spotify.com/album/5KmiOydl3O3vGKR5OrfLlF) | 4:08 | 2022-09-02 | 2023-04-29 |
 | [Oo Baby](https://open.spotify.com/track/5nu4tzBw8B0EutFSqkgExx) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Oo Baby](https://open.spotify.com/album/3uCgGKgPoZC6IlnAmtSUgJ) | 4:08 | 2022-09-02 | 2023-04-21 |
-| [Oporto\-Madrid Blvd](https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw) | 3:29 | 2023-04-21 |  |
+| [Oporto\-Madrid Blvd](https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw) | 3:29 | 2023-04-21 | 2023-10-28 |
 | [Ordinary Lives](https://open.spotify.com/track/4MU7yhKkOpVVDCWfxTGfxk) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Ordinary Lives](https://open.spotify.com/album/0z87IQzrtDMve4JMe8LZjO) | 3:16 | 2022-01-21 | 2022-07-29 |
 | [Our Love \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:38 | 2021-12-13 | 2023-01-28 |
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-11-05 | 2022-07-29 |
@@ -268,6 +269,7 @@
 | [Seasons of Trouble](https://open.spotify.com/track/2J4arL11h4pQBCi4HvzcNY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Operator, Please / Seasons of Trouble](https://open.spotify.com/album/78iOU4PyWExwlwiTrvzyJF) | 4:52 | 2022-09-09 |  |
 | [Seasons of Trouble](https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Seasons of Trouble](https://open.spotify.com/album/3Aveciplay1UjQenjdI1HF) | 4:52 | 2022-09-09 | 2022-09-17 |
 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 | 2023-05-05 |  |
+| [Self Revolution](https://open.spotify.com/track/6xq246xhPP6sxsXrMyB8en) | [Gary Beals](https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes) | [The Melody Within](https://open.spotify.com/album/0lNVrrcLt81D6u8G6Jn3EV) | 3:14 | 2023-10-27 |  |
 | [Sentimental Fool](https://open.spotify.com/track/04JYB3xkI99dosFBeP6W5Z) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/1mvLDGAm4xagW3SX03mCNq) | 3:05 | 2022-08-19 | 2022-08-27 |
 | [Shake Shake](https://open.spotify.com/track/0RVIk3IbkIzOL9LcsMgMXs) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Voli Contra](https://open.spotify.com/artist/6zEQ2TDkDYbJbFE4agNhFM) | [Shake Shake](https://open.spotify.com/album/7JjuXRPWiVUMZ7xudOro8B) | 2:25 | 2023-06-30 | 2023-08-26 |
 | [Shinin'](https://open.spotify.com/track/7pyLO6s46ahQ7Mgl4krzU5) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Shinin'](https://open.spotify.com/album/3apdYMNCak4rL88AHYxbP4) | 2:57 | 2023-06-02 |  |

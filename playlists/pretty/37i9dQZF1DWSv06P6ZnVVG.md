@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > ¡Pa' toda la raza carnavalera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,083 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,193 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 8 | [Flor de Piña](https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Carnavaleando con la Tierra Mojada](https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ) | 3:44 |
 | 9 | [Oye Traicionera](https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [La Trayectoria! \(De Arturo Camarillo\)](https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir) | 2:44 |
 | 10 | [Micaela](https://open.spotify.com/track/0bqEZKCvN08vkoFYHZFIs0) | [Banda Saucillos](https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK) | [A Bailar a la Quebradita](https://open.spotify.com/album/7zvrBGuNn6N0iLqYLFtsqe) | 2:42 |
-| 11 | [El Son De La Rabia \(En Vivo\)](https://open.spotify.com/track/1vJCOsDg9LZRIZImi0oBb6) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 2:59 |
-| 12 | [El Son de la Tambora](https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [Puras Pa'levantar la Polvadera](https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F) | 2:51 |
+| 11 | [El Son de la Tambora](https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [Puras Pa'levantar la Polvadera](https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F) | 2:51 |
+| 12 | [El Son De La Rabia \(En Vivo\)](https://open.spotify.com/track/1vJCOsDg9LZRIZImi0oBb6) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 2:59 |
 | 13 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 |
 | 14 | [La Mujer del Pelotero](https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:28 |
 | 15 | [La Chucha](https://open.spotify.com/track/4D0nMy6ertx5YXsmBWux5p) | [Los 3 Del Norteño](https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT) | [La Chucha](https://open.spotify.com/album/1PPUm7GpAdJ2HOMgXsYRNo) | 2:10 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 53 | [Son de la Raza](https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac) | [Banda La Mera Mera](https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c) | [Son de la Raza](https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk) | 3:37 |
 | 54 | [El Chavo del Ocho \(The Elephant Never Forgets\)](https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02) | [Banda Perla De Michoacán](https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84) | [El Chavo del Ocho \(The Elephant Never Forgets\)](https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9) | 2:46 |
 | 55 | [Popurrí Mexicano: Son de la Negra / Pelea de Gallos](https://open.spotify.com/track/0gi7rXrTRTmQqsoVrVW3X8) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [La Trayectoria! \(De Arturo Camarillo\)](https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir) | 4:03 |
-| 56 | [El Pato Asado, El Ahualulco \(En Vivo\)](https://open.spotify.com/track/2Nat0Cc2ddJVkkRqKlRN0M) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 5:25 |
-| 57 | [Popurrí Costeño: Pinotepa / San Marqueña / Son Costeño](https://open.spotify.com/track/4eVPp8bC3VqBbLklGJzkYZ) | [La Picosa Hernández Banda](https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2) | [Una Leyenda](https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf) | 5:25 |
+| 56 | [Popurrí Costeño: Pinotepa / San Marqueña / Son Costeño](https://open.spotify.com/track/4eVPp8bC3VqBbLklGJzkYZ) | [La Picosa Hernández Banda](https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2) | [Una Leyenda](https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf) | 5:25 |
+| 57 | [El Pato Asado, El Ahualulco \(En Vivo\)](https://open.spotify.com/track/2Nat0Cc2ddJVkkRqKlRN0M) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 5:25 |
 | 58 | [El Ahualoca](https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 3:34 |
 | 59 | [Carnavaleando](https://open.spotify.com/track/2J0zZ1yfeibAX3LCdJe8j9) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [¡La Mera Mera! \(10 Aniversario\) \[La Historia Continúa\]](https://open.spotify.com/album/5rsRnvD5GXtK6IjyaHWexK) | 5:45 |
 | 60 | [Zapateando Con La Banda](https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [Mas Zacatecano Que Nunca](https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 74 | [La Chiclanera](https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:11 |
 | 75 | [Palillos Chinos \(En Vivo\)](https://open.spotify.com/track/4INNovqJJ4umIRINUqQTRJ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento](https://open.spotify.com/album/4i1HRGH3hUbUN80Yj8ACif) | 2:32 |
 
-Snapshot ID: `MCxlYTUwZjU4YmY0MTIzYmMwMDk5ZmM0NTZlNTNkMDFiNGU0MWQ5ZjJk`
+Snapshot ID: `MCxmZjNmYTQ1YjNjZDcyZGQzNzc2NTIwNGZmYzhlNGM0ZmI1MTA1NTA1`

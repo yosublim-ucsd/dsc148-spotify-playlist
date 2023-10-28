@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-22",
-  "description": "Certified R&B Hits. Cover: Jorja Smith",
+  "description": "Certified R&B Hits. Cover: Brent Fayaiz",
   "name": "Certi: R&B",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 247079,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 215000,
       "name": "go",
       "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "LOML",
+        "url": "https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf"
+      },
+      "artists": [
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177760,
+      "name": "LOML",
+      "url": "https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd"
+    },
+    {
+      "album": {
         "name": "Give Or Take",
         "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
@@ -488,6 +506,24 @@
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "album": {
+        "name": "Lova",
+        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173810,
+      "name": "Lova",
+      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
     },
     {
       "album": {
@@ -553,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/0UZ64CPmniIULvZDBrM4iI"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/2n7RgVuhj9oT6iaAZN0Oa2"
+    },
+    {
+      "album": {
         "name": "On My Mama",
         "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
       },
@@ -615,6 +669,28 @@
     },
     {
       "album": {
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181063,
+      "name": "Perfect Combi (feat. Gabzy)",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "album": {
         "name": "R e s e n t m e n t",
         "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
       },
@@ -626,7 +702,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 224187,
       "name": "R e s e n t m e n t",
       "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
@@ -644,10 +720,36 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 144026,
       "name": "Rhythm & Blues",
       "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
+    },
+    {
+      "album": {
+        "name": "Sensational (feat. Davido & Lojay)",
+        "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231109,
+      "name": "Sensational (feat. Davido & Lojay)",
+      "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
     },
     {
       "album": {
@@ -688,7 +790,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 203122,
       "name": "Skate",
       "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
@@ -761,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161529,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
+    },
+    {
+      "album": {
         "name": "Buckles Laboratories Presents: The Intermission",
         "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
       },
@@ -808,7 +928,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 188504,
       "name": "Summer Too Hot",
       "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
@@ -844,7 +964,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 234024,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
@@ -866,6 +986,32 @@
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        },
+        {
+          "name": "FELIX!",
+          "url": "https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177899,
+      "name": "Upset (feat. Tommy Richman & FELIX!)",
+      "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl"
     },
     {
       "album": {

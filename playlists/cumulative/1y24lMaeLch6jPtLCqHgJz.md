@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-234 songs - 12 hr 7 min
+235 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Fly Apart](https://open.spotify.com/track/6RXPW7XKoR4SqSogstTzsY) | [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS), [Sam Noton](https://open.spotify.com/artist/1Ma2cokH15saLZiU2eKrdj) | [Fly Apart](https://open.spotify.com/album/6Wba9nMjwQqkSCDsCcpDb2) | 2:47 | 2023-09-21 |  |
 | [Forever](https://open.spotify.com/track/2ZuyWj6ageq2TqvHdx5WFm) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Forever \(feat\. Crooked Bangs\)](https://open.spotify.com/album/12GplONMUz7ZXOumsh2FWc) | 2:23 | 2023-02-06 | 2023-07-29 |
 | [Glorious](https://open.spotify.com/track/6DdkUAGaMcisWOsA4J4cUi) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Skylights](https://open.spotify.com/artist/0VPaO0vsoT2SrBFGTkvZOd), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Glorious](https://open.spotify.com/album/3DUSZj2NTr3M0J6DhTyjLw) | 2:51 | 2023-08-11 |  |
+| [Heart To Break](https://open.spotify.com/track/7atMbgCHuRqcC5IlzJ1ZCs) | [PRATAMA](https://open.spotify.com/artist/7bts4mZSgz00gAAyL8Kb6M), [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [Heart To Break](https://open.spotify.com/album/6RWa7xGVC3i21oEpbScePa) | 3:23 | 2023-10-27 |  |
 | [Heartbeat](https://open.spotify.com/track/39TcT0lUnag46B6eukkLlM) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Heartbeat](https://open.spotify.com/album/1aWLROPBF29zW8hahI43J0) | 2:59 | 2023-07-20 | 2023-08-05 |
 | [Heartbeat \- BLK RSE Remix](https://open.spotify.com/track/1f3XYvmKK8Qc9APKlJ15zC) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [Heartbeat \(BLK RSE Remix\)](https://open.spotify.com/album/5K78j7QvCOzOyTu6hqWQTw) | 3:01 | 2023-08-02 |  |
 | [Hello](https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hello](https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh) | 2:21 | 2023-07-06 |  |

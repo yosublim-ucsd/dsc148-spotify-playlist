@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Confused 133",
+        "url": "https://open.spotify.com/album/318k5epPI1tchtYBglX5kM"
+      },
+      "artists": [
+        {
+          "name": "Ninezz",
+          "url": "https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162410,
+      "name": "Confused 133",
+      "url": "https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr"
+    },
+    {
+      "album": {
         "name": "Crazy Away from You",
         "url": "https://open.spotify.com/album/7tvOzRz76z6tutmdsuhF0w"
       },
@@ -3238,6 +3256,28 @@
       "duration_ms": 170568,
       "name": "Love",
       "url": "https://open.spotify.com/track/2JCFm7pOuEP0cItCq6t3bd"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5S5JLPWD3TcdpJ6EUKY5Qr"
+      },
+      "artists": [
+        {
+          "name": "Longo",
+          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
+        },
+        {
+          "name": "Marco Lollis",
+          "url": "https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179115,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6tjRkYHGxEHqlS4eOrRQpX"
     },
     {
       "album": {

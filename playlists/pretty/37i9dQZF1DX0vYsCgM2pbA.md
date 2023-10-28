@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,711 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,750 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 40 | [Perfect World](https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:38 |
 | 41 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
 | 42 | [Love Language](https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:18 |
-| 43 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
-| 44 | [Touch](https://open.spotify.com/track/35va3avWAmS4HMKANASOEp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 3:26 |
+| 43 | [Touch](https://open.spotify.com/track/35va3avWAmS4HMKANASOEp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 3:26 |
+| 44 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
 | 45 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
 | 46 | [Changes \- Timmy Trumpet Remix](https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Changes \(Timmy Trumpet Remix\)](https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J) | 2:26 |
 | 47 | [Reflex \- from Le Palace, Paris](https://open.spotify.com/track/0TzACnLtCopbsE7A8cSq3O) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Reflex \- from Le Palace, Paris](https://open.spotify.com/album/4OLmlFr1RLVRDWBVB9hu4H) | 5:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
 | 60 | [OoooH](https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [OoooH](https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa) | 3:22 |
 
-Snapshot ID: `MCxhZWIyYzg0NzdiNDVjNWNkMTQ4YzJmMGRhMjM2Yzc4MzcxZmIzMTk1`
+Snapshot ID: `MCwwMWZjMTE0NzE0YWRhZjBmOTEyMTM4NzE1YzI2YWZlYTlmMDY1Y2Nl`

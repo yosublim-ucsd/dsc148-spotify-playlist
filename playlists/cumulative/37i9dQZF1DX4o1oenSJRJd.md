@@ -2,9 +2,9 @@
 
 ### [All Out 2000s](https://open.spotify.com/playlist/37i9dQZF1DX4o1oenSJRJd)
 
-> The biggest songs of the 2000s.
+> The biggest songs of the 2000s\. Cover: Lady Gaga.
 
-649 songs - 1 day 18 hr 41 min
+650 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 | 2020-06-17 | 2021-06-16 |
 | [Pack Up](https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb) | [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [Eliza Doolittle](https://open.spotify.com/album/0brOx4BkI3TmEqWcXRExUe) | 3:11 | 2019-07-17 | 2019-08-05 |
 | [Paparazzi](https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 3:28 | 2022-06-04 | 2022-07-29 |
+| [Paparazzi](https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:28 | 2022-12-22 |  |
 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 | 2019-05-26\* | 2022-07-29 |
 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2022-06-04 |  |
 | [Perfect Gentleman](https://open.spotify.com/track/7bVeIwMoakhx9SzB0NMn98) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Greatest Hits](https://open.spotify.com/album/4Ip2M1LyOpNT4JDxZnc6u3) | 4:10 | 2019-07-16 | 2019-08-10 |
@@ -602,7 +603,7 @@
 | [Warwick Avenue](https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:46 | 2019-07-17 | 2019-08-27 |
 | [Warwick Avenue](https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:46 | 2020-06-17 | 2021-05-28 |
 | [Wasting My Time](https://open.spotify.com/track/3nlT74t8h4XlV1D72pErhj) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [The Fallout](https://open.spotify.com/album/4PU32EhEtbuqvCmOfR5OMz) | 4:28 | 2019-07-17 | 2019-08-27 |
-| [We Are Never Ever Getting Back Together](https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:13 | 2022-06-04 |  |
+| [We Are Never Ever Getting Back Together](https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:13 | 2022-06-04 | 2023-10-28 |
 | [We Are Never Ever Getting Back Together](https://open.spotify.com/track/1F6oGPF75u9RuHH4BGx9Bf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red](https://open.spotify.com/album/5FerdPFXSHSnCVq4OBy4Ey) | 3:13 | 2019-05-26\* | 2022-07-29 |
 | [We Belong Together](https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:21 | 2022-06-04 | 2022-07-09 |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 5:18 | 2019-07-20 | 2019-08-01 |

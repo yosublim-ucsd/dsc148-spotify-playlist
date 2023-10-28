@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 53480,
+  "num_followers": 53500,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDA4NjI3MTYwM2YzYjg0ZDFiYjUwNTQ2MGNmNjExYTQzZjIyYTdl",
+  "snapshot_id": "MCwxMzk0NzQxNzNlM2FlY2JhYzNmNjcwOWJkYTlhYjZhMzc4MzAxYWQ1",
   "tracks": [
     {
       "added_at": "2023-10-26 20:40:56",
@@ -563,6 +563,30 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
+        "name": "Home Alone (with Marnik)",
+        "url": "https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        }
+      ],
+      "duration_ms": 128031,
+      "name": "Home Alone (with Marnik)",
+      "url": "https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP"
+    },
+    {
+      "added_at": "2023-10-26 20:40:56",
+      "album": {
         "name": "Christmas Days",
         "url": "https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo"
       },
@@ -723,22 +747,6 @@
       "duration_ms": 157972,
       "name": "Jingle Bells X Deck the Halls",
       "url": "https://open.spotify.com/track/4w1maTceOzURZYKqDzninf"
-    },
-    {
-      "added_at": "2023-10-26 20:40:56",
-      "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 233900,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC"
     }
   ],
   "unique_name": "Electronic Christmas",

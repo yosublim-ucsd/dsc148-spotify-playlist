@@ -1,29 +1,13 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: City Girls",
-  "num_followers": 2963244,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Baby Tate",
+  "num_followers": 2964164,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWE5ZTdiMDY1MmFhNjI5YTZkYTVkMjA1Yzc4MzgyYmQ2YjYzNDQ0",
+  "snapshot_id": "MCwyYTRlNTYzYzZkMmE2ZGFhZTU2Y2UwZmM1NWE3NGRmM2ZkZTc1NDQy",
   "tracks": [
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 106153,
-      "name": "Work For It",
-      "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"
-    },
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
@@ -39,6 +23,114 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Bongos (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 175099,
+      "name": "Bongos (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "DILEMMA",
+        "url": "https://open.spotify.com/album/1wOUp25BDqFPJrC8fgImy1"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 127560,
+      "name": "DILEMMA",
+      "url": "https://open.spotify.com/track/6NWFWNjsFTQVno7hwkKqFh"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
+        "url": "https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 157508,
+      "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
+      "url": "https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -79,6 +171,22 @@
       "duration_ms": 167066,
       "name": "Pit Stop (feat. French Montana)",
       "url": "https://open.spotify.com/track/51fqkA2jYEfXiUkcQYpCyB"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 106153,
+      "name": "Work For It",
+      "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -135,42 +243,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Bongos (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 175099,
-      "name": "Bongos (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 127559,
-      "name": "Wigs",
-      "url": "https://open.spotify.com/track/2XdeL4FRkc6ADX4XTcpa0s"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "IT GIRL",
         "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
       },
@@ -201,20 +273,20 @@
       "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
     },
     {
-      "added_at": "2023-10-20 04:00:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 126857,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+      "duration_ms": 162492,
+      "name": "Wig",
+      "url": "https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -235,22 +307,6 @@
       "duration_ms": 176133,
       "name": "ISSA PARTY (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 130707,
-      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
-      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -283,30 +339,6 @@
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
-        "url": "https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 157508,
-      "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
-      "url": "https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -403,26 +435,6 @@
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Pretty Girl (with Rema)",
-        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 137907,
-      "name": "Pretty Girl (with Rema)",
-      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -691,6 +703,46 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
+        "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
+      "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "SHOT O' CLOCK",
         "url": "https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ"
       },
@@ -719,30 +771,6 @@
       "duration_ms": 181402,
       "name": "Not My N*gga - Extended",
       "url": "https://open.spotify.com/track/63bY2syFfehnI3Po2TaXL7"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Champagne Shit (feat. Latto & Quavo) [Remix]",
-        "url": "https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Champagne Shit (feat. Latto & Quavo) - Remix",
-      "url": "https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -895,22 +923,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Red Ruby Da Sleeze",
-        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 214445,
-      "name": "Red Ruby Da Sleeze",
-      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Bops",
         "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
       },
@@ -923,30 +935,6 @@
       "duration_ms": 128666,
       "name": "Bops",
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
-        "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
-      },
-      "artists": [
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
-      "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
     }
   ],
   "unique_name": "Feelin' Myself",

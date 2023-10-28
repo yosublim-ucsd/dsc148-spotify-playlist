@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 205944,
       "name": "Machete",
       "url": "https://open.spotify.com/track/0CJgHCFLmdeMMZzFCf6wU2"
@@ -1770,6 +1770,28 @@
       "duration_ms": 176000,
       "name": "Sancocho en Le\u00f1a",
       "url": "https://open.spotify.com/track/1Z85Y8DVbysMc853oocVt8"
+    },
+    {
+      "album": {
+        "name": "Serio",
+        "url": "https://open.spotify.com/album/0SMiYEDMX3hjIzCXg01rAD"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Nicolai Fella",
+          "url": "https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177859,
+      "name": "Serio",
+      "url": "https://open.spotify.com/track/4yVbrHSbzkPPPpvjpJFaj7"
     },
     {
       "album": {

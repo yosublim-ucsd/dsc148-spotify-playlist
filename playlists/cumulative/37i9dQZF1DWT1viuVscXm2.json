@@ -1083,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "El Asiento De Atr\u00e1s",
+        "url": "https://open.spotify.com/album/080PWyerdsFMdOLphtNcre"
+      },
+      "artists": [
+        {
+          "name": "Noche de Brujas",
+          "url": "https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl"
+        },
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195121,
+      "name": "El Asiento De Atr\u00e1s",
+      "url": "https://open.spotify.com/track/1atlbW6f4bBwWPXBEoY8a1"
+    },
+    {
+      "album": {
         "name": "Un Sentimiento",
         "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
       },
@@ -1592,7 +1614,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 256021,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz"
@@ -1724,6 +1746,28 @@
       "duration_ms": 159034,
       "name": "Fue Solo Piel",
       "url": "https://open.spotify.com/track/1wGlvLMghlLuI0JS0CcpDF"
+    },
+    {
+      "album": {
+        "name": "Fuego de Noche, Nieve de D\u00eda / Vuelve",
+        "url": "https://open.spotify.com/album/6Jo0hkCbLXT05ynSrLeSyQ"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Bruno",
+          "url": "https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2"
+        },
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194172,
+      "name": "Fuego de Noche, Nieve de D\u00eda / Vuelve",
+      "url": "https://open.spotify.com/track/3aM3fwqcKK5pttsl8C0ELB"
     },
     {
       "album": {
@@ -3963,6 +4007,24 @@
     },
     {
       "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/5aAGGc9lOlSEIrP4rw3N2Q"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144266,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/1h6schi75f6LmCp7OzwfeF"
+    },
+    {
+      "album": {
         "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
         "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
       },
@@ -4362,7 +4424,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 150101,
       "name": "Tu Despertador",
       "url": "https://open.spotify.com/track/30GjEhGOgIcZwqMUi0x9sW"
@@ -4402,7 +4464,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 210236,
       "name": "Tu Marca",
       "url": "https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH"

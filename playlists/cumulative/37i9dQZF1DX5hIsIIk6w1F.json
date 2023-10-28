@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Pailita.",
+  "description": "Este Flow tiene otro Flow. Foto: El Jordan 23.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 159101,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz"
@@ -3014,6 +3014,24 @@
       "duration_ms": 176413,
       "name": "Empezamos de 0",
       "url": "https://open.spotify.com/track/6Rd7wO0b2eG2YOO3yVlvsX"
+    },
+    {
+      "album": {
+        "name": "En 4",
+        "url": "https://open.spotify.com/album/4jRue9Ub0QsHVjbEJiwgSt"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141843,
+      "name": "En 4",
+      "url": "https://open.spotify.com/track/5eBVwJIJQY5amfYluJ8FF0"
     },
     {
       "album": {
@@ -8628,7 +8646,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 180112,
       "name": "Placer",
       "url": "https://open.spotify.com/track/5Uxw51GW6G8MtzUmmV1b6P"
@@ -8760,7 +8778,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 200620,
       "name": "Ponte de Espalda",
       "url": "https://open.spotify.com/track/0ANwt3bp7HC1wnWEeavWEq"
@@ -9791,6 +9809,28 @@
     },
     {
       "album": {
+        "name": "Se Prepar\u00f3",
+        "url": "https://open.spotify.com/album/4JTkeIMIRGbaeL0LVP5r75"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Abraham Wayne",
+          "url": "https://open.spotify.com/artist/72mrMoRnOdPYVJfcoBdV8Z"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192571,
+      "name": "Se Prepar\u00f3",
+      "url": "https://open.spotify.com/track/0rKjSZGak5unyPhqt3bCPz"
+    },
+    {
+      "album": {
         "name": "Se Puso Mas Bella",
         "url": "https://open.spotify.com/album/7cVglVlM5tvmJisbn3PeO7"
       },
@@ -10714,7 +10754,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 157422,
       "name": "Te cargo la 9",
       "url": "https://open.spotify.com/track/1JGYOhkZMOh1qZgAiCayX1"

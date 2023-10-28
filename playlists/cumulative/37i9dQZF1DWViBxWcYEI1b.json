@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: Zach Bryan",
+  "description": "For those with a taste for both the new and the classic. Cover: Allison Russell",
   "name": "Contemporary Blend",
   "tracks": [
     {
@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Bloodsucker",
+        "url": "https://open.spotify.com/album/59boJCTqevkvToAoVm9c9y"
+      },
+      "artists": [
+        {
+          "name": "CIL",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157050,
+      "name": "Bloodsucker",
+      "url": "https://open.spotify.com/track/3Vjz4qxSB8k2UGjJPR6JGd"
+    },
+    {
+      "album": {
         "name": "Kellyoke",
         "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
       },
@@ -2769,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183566,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
+    },
+    {
+      "album": {
         "name": "Closure (feat. BIRDY and Mishaal)",
         "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
       },
@@ -3034,6 +3070,24 @@
     {
       "album": {
         "name": "Crazy",
+        "url": "https://open.spotify.com/album/2nPU9yXkRsrmPVxxmdsZ0i"
+      },
+      "artists": [
+        {
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4MrHylaApgwWavJtwf38bK"
+    },
+    {
+      "album": {
+        "name": "Crazy",
         "url": "https://open.spotify.com/album/0an4YYgGk5jWXvEgU4XZ1C"
       },
       "artists": [
@@ -3206,7 +3260,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 243750,
       "name": "Cry For You - Spotify Singles",
       "url": "https://open.spotify.com/track/0UocNxAJoWwto8gJTAX9Wb"
@@ -3701,6 +3755,24 @@
     },
     {
       "album": {
+        "name": "Different Kind Of Beautiful",
+        "url": "https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201007,
+      "name": "Different Kind Of Beautiful",
+      "url": "https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw"
+    },
+    {
+      "album": {
         "name": "dna (with Jordin Sparks)",
         "url": "https://open.spotify.com/album/202BJY2BNtYYglnUa6uJBT"
       },
@@ -3922,6 +3994,24 @@
       "duration_ms": 202666,
       "name": "Don't Mess With Love",
       "url": "https://open.spotify.com/track/5b5QTqakCuGZhVhPBBBqrA"
+    },
+    {
+      "album": {
+        "name": "Dream Boy",
+        "url": "https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204376,
+      "name": "Dream Boy",
+      "url": "https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N"
     },
     {
       "album": {
@@ -5834,7 +5924,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189786,
       "name": "Guilt Trip",
       "url": "https://open.spotify.com/track/4HJVEuX0FP2BbRM9NbEBUC"
@@ -6260,6 +6350,24 @@
       "duration_ms": 246527,
       "name": "Hello \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
+    },
+    {
+      "album": {
+        "name": "Here and Now",
+        "url": "https://open.spotify.com/album/4M0F46mBr3ZNvE660SCBiC"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211549,
+      "name": "Here and Now",
+      "url": "https://open.spotify.com/track/5mx8Ka1gIGwIS4VIaCYRtR"
     },
     {
       "album": {
@@ -6726,6 +6834,24 @@
       "duration_ms": 198801,
       "name": "How We Used To Be",
       "url": "https://open.spotify.com/track/7Dgr1rg9XOdgyZ5EnRg8CK"
+    },
+    {
+      "album": {
+        "name": "Just Another Day (Deluxe)",
+        "url": "https://open.spotify.com/album/4vTQcHiArRW7Wy2h3iepfv"
+      },
+      "artists": [
+        {
+          "name": "Royal Wood",
+          "url": "https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201614,
+      "name": "Howling At The Moon",
+      "url": "https://open.spotify.com/track/3j1ImEmb1m5qI03UO7c8yV"
     },
     {
       "album": {
@@ -7372,7 +7498,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 190626,
       "name": "i wish you cheated",
       "url": "https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP"
@@ -7408,7 +7534,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 183400,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/0Ke17Xm0lk1flqdkFW3bqs"
@@ -7636,6 +7762,24 @@
       "duration_ms": 151631,
       "name": "If I Weren't Me",
       "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
+    },
+    {
+      "album": {
+        "name": "If It's Time",
+        "url": "https://open.spotify.com/album/2PgVfs8f6XAgI5AAdvirWW"
+      },
+      "artists": [
+        {
+          "name": "Simu Liu",
+          "url": "https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167845,
+      "name": "If It's Time",
+      "url": "https://open.spotify.com/track/6tl3V3Br8AFYE6q9khDdR6"
     },
     {
       "album": {
@@ -8988,7 +9132,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 195277,
       "name": "Little Runaway",
       "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
@@ -9190,7 +9334,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 209021,
       "name": "Long Time Ago",
       "url": "https://open.spotify.com/track/5iUDSqLNmNZGMPmRPiUzB1"
@@ -9266,7 +9410,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 163229,
       "name": "LOOK AT YOU NOW",
       "url": "https://open.spotify.com/track/64N5LnrPAt4o012wuhNGEH"
@@ -9630,7 +9774,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 194529,
       "name": "Lovers in a Crowded Room",
       "url": "https://open.spotify.com/track/1tBK324bQxGL98PeDpvep6"
@@ -10624,7 +10768,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202266,
       "name": "Natural Tendency",
       "url": "https://open.spotify.com/track/5RhxxIUt6PpeqDjJln2H0E"
@@ -10682,6 +10826,28 @@
       "duration_ms": 200855,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/4DBYy2nBww42YBH13NRquK"
+    },
+    {
+      "album": {
+        "name": "Never Get Enough",
+        "url": "https://open.spotify.com/album/4AtPTZNc6lEMelJJEsGvMD"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260163,
+      "name": "Never Get Enough",
+      "url": "https://open.spotify.com/track/1v20BOUbOcMGKujbMQj3Li"
     },
     {
       "album": {
@@ -10848,7 +11014,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 166694,
       "name": "No Evil",
       "url": "https://open.spotify.com/track/2idCxFUGXvdJQpZNFmBHnX"
@@ -13416,7 +13582,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 161891,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/3DmTImHsU4OXFeJpoUWyYd"
@@ -14608,7 +14774,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 191207,
       "name": "The Show",
       "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"
@@ -15001,6 +15167,24 @@
     },
     {
       "album": {
+        "name": "Too Strange for the Circus",
+        "url": "https://open.spotify.com/album/2xVPAd6OHyGna11gtdo8S4"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191048,
+      "name": "Too Strange for the Circus",
+      "url": "https://open.spotify.com/track/3EraWxocoFkg6PTjxII85U"
+    },
+    {
+      "album": {
         "name": "Top of the World",
         "url": "https://open.spotify.com/album/7zhvHFalV8RxLw6MWYvyLB"
       },
@@ -15016,6 +15200,24 @@
       "duration_ms": 157602,
       "name": "Top of the World",
       "url": "https://open.spotify.com/track/4h8IM6C1V5qpwGH06HoCLx"
+    },
+    {
+      "album": {
+        "name": "Trash Can",
+        "url": "https://open.spotify.com/album/17iGRF0zmObmYu2BseX8Oy"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233408,
+      "name": "Trash Can",
+      "url": "https://open.spotify.com/track/2wBFARKyNwkL7f1Fjsl1Zh"
     },
     {
       "album": {
@@ -15424,10 +15626,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 151916,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/4Z5fidWlpKqb6GgsfxFz0w"
+    },
+    {
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/3HUWH7rKToMqZDBuX2ECAa"
+      },
+      "artists": [
+        {
+          "name": "Alfie Sharp",
+          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242732,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/3dpCarDMIp7RFxdUQ45Ccm"
     },
     {
       "album": {
@@ -15716,7 +15936,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 170173,
       "name": "What About Hiding",
       "url": "https://open.spotify.com/track/4ZeyxFIpDLHBBxxPjQY4YU"
@@ -16604,6 +16824,28 @@
       "duration_ms": 180640,
       "name": "You & I",
       "url": "https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y"
+    },
+    {
+      "album": {
+        "name": "You Could Start A Cult (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194869,
+      "name": "You Could Start A Cult (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
     },
     {
       "album": {

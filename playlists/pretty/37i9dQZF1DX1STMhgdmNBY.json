@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 64123,
+  "num_followers": 64211,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDM1OWU2NGZkNzBhZGY3NDYxNjNjNzMwZGJjNjcwMjc2ZDFkODc1",
+  "snapshot_id": "MCw5MDNlZWJmMmEyNjVkYmYxMDJmYzI3NDliZDAwYWJlZTRkMWNiZjkw",
   "tracks": [
     {
       "added_at": "2023-10-05 13:06:44",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Soul Queen",
-        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 198560,
-      "name": "Dr. Feelgood (Love Is Serious Business)",
-      "url": "https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "You Don't Know Me",
         "url": "https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 210851,
       "name": "Love & Devotion",
       "url": "https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 198560,
+      "name": "Dr. Feelgood (Love Is Serious Business)",
+      "url": "https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe"
     },
     {
       "added_at": "2023-10-05 13:06:44",

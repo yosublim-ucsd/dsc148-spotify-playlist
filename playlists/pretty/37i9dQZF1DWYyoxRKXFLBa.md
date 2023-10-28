@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Conoce a puras morras rifadas en La Marketa\. ¡Súbele al volumen, te esperamos el 6 de Agosto en Jardín Juárez! En portada: Now Girls Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,317 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,323 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 53 | [Muérete Tú](https://open.spotify.com/track/3pOdUPiHJaCS9liEjpiIWc) | [Muérete Tú](https://open.spotify.com/artist/7jku55nhXim5pUBmriM2Vo) | [Muérete Tú](https://open.spotify.com/album/6gNvQwVQRwSG4cQ5GLYmgI) | 2:52 |
 | 54 | [No Me Impulses a Ser Así](https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [No Me Impulses a Ser Así](https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4) | 2:32 |
 | 55 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4b3ZcXUbkJu32F5xKJaXTz) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Deep Cuts](https://open.spotify.com/album/7eZIU8RLDwDpHTEYwlbxyb) | 3:10 |
-| 56 | [Romantinski](https://open.spotify.com/track/3Wy7M9W8QqwyNQwovhHNw4) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Romantinski](https://open.spotify.com/album/2q6MDcpS342VSGIxCrOg6e) | 2:50 |
-| 57 | [somos flores](https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [somos flores](https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd) | 3:26 |
+| 56 | [somos flores](https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [somos flores](https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd) | 3:26 |
+| 57 | [Romantinski](https://open.spotify.com/track/3Wy7M9W8QqwyNQwovhHNw4) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Romantinski](https://open.spotify.com/album/2q6MDcpS342VSGIxCrOg6e) | 2:50 |
 | 58 | [Art Collective](https://open.spotify.com/track/5j5WM5gbUoSMY1gOIytv2T) | [Rosk](https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN) | [Art Collective](https://open.spotify.com/album/41jKiqVGALvP1u9L8VDGdu) | 2:52 |
 | 59 | [Kill V\. Maim](https://open.spotify.com/track/3HPi0ghN9BErsKwlTlFz31) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Kill V\. Maim](https://open.spotify.com/album/2VKbyz0lCi3tw7DBGAY5g6) | 4:14 |
 | 60 | [P3da](https://open.spotify.com/track/4rxg8aTQOGGL7LV1yqqhHy) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ), [Roberta Pardo](https://open.spotify.com/artist/5SDCXW3v93K8R58xRLeV0b), [Isabela Costero](https://open.spotify.com/artist/3Jes9MS3tLqPDrCDxdUGQx), [Maria Villanueva](https://open.spotify.com/artist/10LgSuLJnpj2wkOxOQW1hF), [Valentina Reyes](https://open.spotify.com/artist/7gFOLjST0TuyozYrZUQWtw) | [P3da](https://open.spotify.com/album/5s7W0XNdHN2Sz3JviG3Rv8) | 1:21 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 66 | [Frente al Mar](https://open.spotify.com/track/5FfoOol6bSXoO1FnnkhjeI) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 6:07 |
 | 67 | [Contradicktion](https://open.spotify.com/track/4ZRT63eSHEA1NmeyNzTliU) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Contradicktion](https://open.spotify.com/album/7H75c5aOTznuxDg2fEt7wt) | 2:05 |
 | 68 | [Caer](https://open.spotify.com/track/4ISBnFzh1VdY0lybDzFQxK) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 5:11 |
-| 69 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 |
+| 69 | [Tu Color](https://open.spotify.com/track/5F5iYSIvNIZTfr2xInIz99) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [CLAR%SCURO](https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL) | 3:46 |
 | 70 | [Animal](https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Animal](https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5) | 4:15 |
-| 71 | [Prisma Lunar](https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re) | [The Centellas](https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD) | [Espécimen Surf](https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT) | 2:29 |
-| 72 | [Tu Color](https://open.spotify.com/track/5F5iYSIvNIZTfr2xInIz99) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [CLAR%SCURO](https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL) | 3:46 |
+| 71 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 |
+| 72 | [Prisma Lunar](https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re) | [The Centellas](https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD) | [Espécimen Surf](https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT) | 2:29 |
 | 73 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:13 |
 | 74 | [Fea](https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Fea](https://open.spotify.com/album/1XpjWRnp8kQoB2uRV2WvZl) | 3:33 |
 | 75 | [Volver a Ser](https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Volver a Ser](https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 79 | [Ikite Iru](https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Ikite Iru](https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF) | 3:20 |
 | 80 | [surrealismo.](https://open.spotify.com/track/6MtkCUkLfo9lxnbofkQbjC) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [surrealismo.](https://open.spotify.com/album/24gpp8Y3ggwerd9gUKNnre) | 3:11 |
 
-Snapshot ID: `MCw0NjlhMDhhOTIzNzM4MjYwZDE4ZTFjMzBjOTMyNGJmMjVmMTA0MDAw`
+Snapshot ID: `MCwyMjdiZWM3MTk2NjJiNzEwM2Q3OGY5ZDBhYzU5ZmY2MTMyZDJjOTc5`

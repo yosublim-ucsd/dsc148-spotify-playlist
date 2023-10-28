@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Tayko
 
-98 songs - 5 hr 18 min
+99 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Los Míos](https://open.spotify.com/track/4DSmk48N3Sq7VHwUGIiXNd) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Timeless](https://open.spotify.com/artist/2mdGS5s5gsHF3GPIxonulh) | [Los Míos](https://open.spotify.com/album/6ntGxUtgP9DseUBoHTQuZH) | 3:30 | 2023-08-11 |  |
 | [Los Verbos](https://open.spotify.com/track/72LpgXEUlfjT0twa1YlJGs) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Formas para Perderse o I.D.E.A.S](https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R) | 5:32 | 2023-08-04 | 2023-08-12 |
 | [LUCHA](https://open.spotify.com/track/6fcOmo8XaZnmkFDyytAQ7u) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Doktor Rheal](https://open.spotify.com/artist/6RLtMINjyT15TfS3enUhFF), [Mic Zoldiah](https://open.spotify.com/artist/6ufNwbpcn8olcjpYl2I61f) | [EL BLOKE](https://open.spotify.com/album/0gGEc0IvXmdXaXUtOosEYh) | 3:02 | 2023-05-26 | 2023-09-09 |
-| [Machete](https://open.spotify.com/track/0CJgHCFLmdeMMZzFCf6wU2) | [Homie !](https://open.spotify.com/artist/4c1BgObTgQqoxgky79mgQB), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Slay Fox](https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j) | [Machete](https://open.spotify.com/album/7JTbLrRG346Ipxx2PZTy4d) | 3:25 | 2023-10-06 |  |
+| [Machete](https://open.spotify.com/track/0CJgHCFLmdeMMZzFCf6wU2) | [Homie !](https://open.spotify.com/artist/4c1BgObTgQqoxgky79mgQB), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Slay Fox](https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j) | [Machete](https://open.spotify.com/album/7JTbLrRG346Ipxx2PZTy4d) | 3:25 | 2023-10-06 | 2023-10-28 |
 | [Mal Ejemplo](https://open.spotify.com/track/1IwdJy0egbXlhmY6dmTU9j) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mal Ejemplo](https://open.spotify.com/album/26dgbqThI76gzXN2lTAcfK) | 3:11 | 2023-05-26 |  |
 | [Mala Fe](https://open.spotify.com/track/6YIPZSCLIGU44X4ksMfSsM) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Hocho](https://open.spotify.com/artist/7AqAhkwNkdfelG651nTnQP) | [Mala Fe](https://open.spotify.com/album/7oiopTpNdJOD3TBJOsi981) | 3:20 | 2023-05-26 | 2023-08-05 |
 | [Mermelada](https://open.spotify.com/track/4D8gHiFn0dK0Mbo8hxVAGF) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Mermelada](https://open.spotify.com/album/4Sn8VeNEIyRsY4LIOM2WJp) | 2:42 | 2023-05-26 | 2023-08-05 |
@@ -86,6 +86,7 @@
 | [Sadman \(feat\. El ultimo del tren\)](https://open.spotify.com/track/7bzSsAidhv6KtPwn09CmcY) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [El ultimo del tren](https://open.spotify.com/artist/35TK53cUM9MH1GYCOVDK0n) | [Niño Caos](https://open.spotify.com/album/1al5KY3S4Ik2DM5j8Hw1yt) | 2:44 | 2023-10-06 |  |
 | [Sancochito](https://open.spotify.com/track/3pbkD8odeOPNdMJj2tkyWE) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Sancochito](https://open.spotify.com/album/2H9Ze7JCqDxQB8SUcHadbU) | 2:23 | 2023-07-14 | 2023-09-09 |
 | [Sancocho en Leña](https://open.spotify.com/track/1Z85Y8DVbysMc853oocVt8) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Sancocho en Leña](https://open.spotify.com/album/0dKNHwPd4OMcsHsrW61Gm7) | 2:56 | 2023-05-26 |  |
+| [Serio](https://open.spotify.com/track/4yVbrHSbzkPPPpvjpJFaj7) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Serio](https://open.spotify.com/album/0SMiYEDMX3hjIzCXg01rAD) | 2:57 | 2023-10-27 |  |
 | [sin afinar mucho](https://open.spotify.com/track/7God0mEVammBaAoIKrfTGc) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Valentino Thompson](https://open.spotify.com/artist/5hzL70RIN1PZ7G17dQ5rsa) | [sin afinar mucho](https://open.spotify.com/album/4a4mHhGgm1SCAe20gYfDTM) | 2:00 | 2023-05-26 | 2023-07-08 |
 | [Sueños](https://open.spotify.com/track/3FNwVWTL8yuT7AuL875x4i) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Sueños](https://open.spotify.com/album/6Z5f0NA36ooIM67hv3WtdZ) | 3:34 | 2023-05-26 |  |
 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 | 2023-05-26 |  |

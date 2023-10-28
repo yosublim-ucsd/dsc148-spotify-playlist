@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-119 songs - 8 hr 18 min
+120 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Agrim Agadez](https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL) | [Etran de L'AÏr](https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg) | [No\. 1](https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC) | 5:51 | 2022-02-23 |  |
 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 | 2021-10-20 |  |
 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 | 2021-10-20 |  |
-| [Arnaq](https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 3:25 | 2023-07-19 |  |
+| [Arnaq](https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 3:25 | 2023-07-19 | 2023-10-28 |
 | [Atomic Bomb](https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 7:59 | 2021-10-20 |  |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-20 |  |
 | [Automation](https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 3:29 | 2021-10-20 |  |
@@ -116,6 +116,7 @@
 | [Under No Nation \- Radio Edit](https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Under No Nation \(Radio Edit\)](https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm) | 3:04 | 2022-08-31 |  |
 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 | 2022-04-22 |  |
 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ) | 3:58 | 2023-07-19 |  |
+| [W Boru Kalinka](https://open.spotify.com/track/1qW9yHYYXwPXCw58qjLqJN) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie) | [Wykorzenienie](https://open.spotify.com/album/1NGak9Mv3q20g05HXik7fq) | 3:29 | 2021-10-20 |  |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-07-28 |  |
 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 | 2021-10-20 |  |
 | [Yak Sher](https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt) | [Kabul Fire Vol\. 2](https://open.spotify.com/album/0xye43RFZ3KDSFI5OqLZm1) | 3:25 | 2021-10-20 |  |

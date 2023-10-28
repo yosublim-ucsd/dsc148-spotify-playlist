@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Jay de la Cueva en Portada.
 
-369 songs - 22 hr 21 min
+372 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 | 2023-03-31 | 2023-06-24 |
 | [Agua Bendita](https://open.spotify.com/track/1ypw0w1I3jJNlQfcg6CP0y) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Agua Bendita](https://open.spotify.com/album/1uoSSfoTMTOr3TrsrPQXZV) | 4:23 | 2022-04-23 | 2022-07-05 |
 | [Agua Santa](https://open.spotify.com/track/0arH8qrtmayVDnxuySM798) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Agua Santa](https://open.spotify.com/album/0ZPPC5qJzigZ6X7k3dyZ4d) | 4:07 | 2022-04-20 | 2022-08-20 |
-| [Almas Rotas](https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Almas Rotas](https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz) | 3:45 | 2023-02-24 |  |
+| [Almas Rotas](https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Almas Rotas](https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz) | 3:45 | 2023-02-24 | 2023-10-28 |
 | [Amarre](https://open.spotify.com/track/5ebt2wLWEvMmKZ2i1V1ngz) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Amarre](https://open.spotify.com/album/2Ek3QgFbhya9DxNPwQnX3F) | 2:36 | 2023-07-07 | 2023-07-15 |
 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 | 2021-12-17 |  |
 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 | 2022-08-13 | 2023-03-04 |
@@ -128,6 +128,7 @@
 | [Estrés](https://open.spotify.com/track/3LuEubnZA02nAjYPZYOKMW) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Morro](https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE) | 2:44 | 2023-03-10 | 2023-06-19 |
 | [Está Bien](https://open.spotify.com/track/7nNJjT0i00WGlpp4ELLEky) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Está Bien](https://open.spotify.com/album/14IWJB0UvZlZ6oePf1nrJ5) | 3:10 | 2022-08-13 | 2022-11-26 |
 | [Estática](https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estática](https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ) | 3:53 | 2023-10-20 |  |
+| [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 | 2023-10-27 |  |
 | [Fantasma](https://open.spotify.com/track/6asMMsmhA6YXxu7YrYI8vr) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Fantasma](https://open.spotify.com/album/02PKUPTxOOUw2aPJtvBHPo) | 3:20 | 2023-09-01 | 2023-09-30 |
 | [FILA 14](https://open.spotify.com/track/3bzhWqjLW4YWUqC3hPLFJ8) | [Los Dynamite](https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9) | [FILA 14](https://open.spotify.com/album/5utuRSmD6b2yBYHO5iDiTC) | 2:29 | 2023-04-14 | 2023-04-22 |
 | [Filosa](https://open.spotify.com/track/4It3yolMmTWgrhQx4S0a4x) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Filosa](https://open.spotify.com/album/2P2nyPyDLuIjt2ED3WBIMP) | 4:19 | 2023-04-07 | 2023-04-15 |
@@ -175,12 +176,13 @@
 | [La Mochila del Mundo](https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:06 | 2023-05-19 | 2023-06-24 |
 | [La Persiana](https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Persiana](https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU) | 2:06 | 2023-06-16 | 2023-06-24 |
 | [La sangre en el cuerpo \- En Vivo](https://open.spotify.com/track/6AnVTLDZWEiY7zu3JnpNQe) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La sangre en el cuerpo \(En Vivo\)](https://open.spotify.com/album/1VwqVC3ohbh3Xtxtwu3z5J) | 4:50 | 2023-04-14 | 2023-05-18 |
+| [La Sombra del Amanecer](https://open.spotify.com/track/6Rtf7VGfor2jIfkLkLula0) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [La Sombra del Amanecer](https://open.spotify.com/album/25i71egTd0RdShae3PQcve) | 6:16 | 2023-10-27 |  |
 | [La Tregua](https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [La Tregua](https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE) | 3:52 | 2022-02-24 |  |
 | [La Última Llamada](https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [La Última Llamada](https://open.spotify.com/album/5SFEcLOtKOTjlI1q72TbnL) | 3:14 | 2022-09-02 | 2022-12-17 |
 | [La Última Vez](https://open.spotify.com/track/521P7D3Rg0qIddJYHEtYrm) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [La Última Vez](https://open.spotify.com/album/0ChN0eEv5QQ312SZdNwLIz) | 3:37 | 2022-02-25 | 2022-08-19 |
 | [Lastímame](https://open.spotify.com/track/6bFrs6WlBhAXEk5vt9Me7f) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [Lastímame](https://open.spotify.com/album/1vQ73pnVX7bZqlsOstIr1h) | 3:34 | 2022-09-30 |  |
 | [Lattice](https://open.spotify.com/track/4MNPF36soeinIWw2D5QbmM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Lattice](https://open.spotify.com/album/47Z38eMy7Ggl15Xmlhz6QM) | 4:24 | 2023-03-10 | 2023-06-17 |
-| [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 | 2023-09-22 |  |
+| [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 | 2023-09-22 | 2023-10-28 |
 | [Lejos de Mí](https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Lejos de Mí](https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk) | 3:16 | 2021-12-17 |  |
 | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/track/67D1DphJpan1hFNs7H5O8i) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/album/0DkVX02cJFDAvuovLNz16Y) | 3:06 | 2023-10-20 |  |
 | [Libertad](https://open.spotify.com/track/1MMoSzv2oTgPNpsy54DKUR) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Libertad](https://open.spotify.com/album/0dq3J0IKSXF3wDPbmrWSz8) | 5:05 | 2022-09-28 | 2022-11-26 |
@@ -297,6 +299,7 @@
 | [Realidad Aparente](https://open.spotify.com/track/7JJ8lSAxz7NaVTNiTcYwBc) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Realidad Aparente](https://open.spotify.com/album/7qgEurNldCzTbsDCy8FxDA) | 1:41 | 2023-03-31 | 2023-07-22 |
 | [Recovered Files](https://open.spotify.com/track/2iheT0GXVpykVzVsPWjaVn) | [Neuman](https://open.spotify.com/artist/2ApGJ6o1AkNPjkFrnJQLKM) | [Recovered Files](https://open.spotify.com/album/4JuXQGRqNVORHmI968HBkv) | 7:12 | 2023-01-27 | 2023-02-18 |
 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 | 2021-12-17 |  |
+| [Respuesta Sensorial](https://open.spotify.com/track/2A7JX4Cu4UtwCMazGBS2YN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Respuesta Sensorial](https://open.spotify.com/album/4pT7vS03zzAfG9gNQ4chNR) | 3:40 | 2023-10-27 |  |
 | [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 | 2022-08-09 | 2022-11-17 |
 | [Rock rápido](https://open.spotify.com/track/0yCnKUP85AQ91lu93B3wTb) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [Rock rápido](https://open.spotify.com/album/3bRANklVDUxYslTWJu1egh) | 2:54 | 2023-09-08 | 2023-09-30 |
 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 | 2023-06-16 | 2023-09-02 |
@@ -368,7 +371,7 @@
 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 | 2023-05-19 | 2023-06-24 |
 | [Vueltas](https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Vueltas](https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx) | 3:32 | 2023-07-07 |  |
 | [Vuelve A Empezar Sin Mí](https://open.spotify.com/track/7DWdZdw7Rshp7b8LqRB9x4) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Vuelve A Empezar Sin Mí](https://open.spotify.com/album/2IFmsvDIWtDE9e7lCUT7bi) | 4:01 | 2023-03-10 | 2023-05-19 |
-| [Víctimas](https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Víctimas](https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON) | 3:58 | 2023-10-06 |  |
+| [Víctimas](https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Víctimas](https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON) | 3:58 | 2023-10-06 | 2023-10-28 |
 | [Ya nada es igual](https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [lo haría todo de nuevo](https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3) | 3:33 | 2023-03-24 | 2023-04-01 |
 | [ya no puedo más](https://open.spotify.com/track/6Bq6MB7zpKO9OrvgTHipi5) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [ya no puedo más](https://open.spotify.com/album/0U8ACZXlWMYNIdIzAy8Gzb) | 4:30 | 2022-08-09 | 2022-08-19 |
 | [Ya No Te Esperaré](https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ya No Te Esperaré](https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy) | 3:28 | 2023-09-29 |  |

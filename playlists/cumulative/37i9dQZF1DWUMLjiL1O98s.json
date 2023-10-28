@@ -475,6 +475,32 @@
     },
     {
       "album": {
+        "name": "CARACAS EN EL 2000",
+        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227784,
+      "name": "CARACAS EN EL 2000",
+      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -531,6 +557,28 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/4FmOBs7bppWNLRLaGgABL6"
+      },
+      "artists": [
+        {
+          "name": "Golden Ganga",
+          "url": "https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0"
+        },
+        {
+          "name": "Tugstar",
+          "url": "https://open.spotify.com/artist/3uVSsj0dsZdV18CWW46Ouf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206979,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5geN0UVy7Q0VMkJie2Nlt2"
+    },
+    {
+      "album": {
         "name": "Cool and Deadly",
         "url": "https://open.spotify.com/album/5zfYXAcZKjM9YFBTlOOW79"
       },
@@ -572,6 +620,28 @@
       "duration_ms": 203300,
       "name": "Cosita Bonita",
       "url": "https://open.spotify.com/track/6NBmug537PZ7Ya2mzWvoRY"
+    },
+    {
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
     },
     {
       "album": {
@@ -966,7 +1036,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 231959,
       "name": "Horas",
       "url": "https://open.spotify.com/track/5CCCk6rRJS0wTPHFY6vWR9"
@@ -988,7 +1058,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 232040,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/7H895ehRhFjhsikLfhGIui"
@@ -2422,7 +2492,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 283878,
       "name": "Sola Se Va",
       "url": "https://open.spotify.com/track/0KaNmAoeaxKPjJaCZEQNx8"

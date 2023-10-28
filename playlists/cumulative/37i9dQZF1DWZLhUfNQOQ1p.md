@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un Negroni in mano\. 🍹
 
-292 songs - 19 hr 10 min
+293 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,8 +283,9 @@
 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 | 2021-08-05 | 2023-05-31 |
 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 | 2021-08-05 | 2023-05-31 |
 | [Várias Queixas \- Radio Edit](https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Várias Queixas \(Radio Edit\)](https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz) | 2:35 | 2023-05-30 |  |
+| [Walking On A Dream](https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/3qFui1PcteHFky44CeUflG) | 3:18 | 2023-10-20 |  |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2023-06-22 | 2023-10-27 |
-| [Wespennest \- Edit](https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Wespennest](https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz) | 3:30 | 2023-07-21 |  |
+| [Wespennest \- Edit](https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Wespennest](https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz) | 3:30 | 2023-07-21 | 2023-10-28 |
 | [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 | 2023-05-30 |  |
 | [What You Won't Do for Love](https://open.spotify.com/track/1Qe42XGSUtjDgJJgCsYwkh) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [What You Won't Do for Love](https://open.spotify.com/album/3r90h4IKPw9pXl4NPtrhus) | 4:42 | 2021-08-05 | 2022-07-29 |
 | [When I'm Gone](https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x) | [Julia Bergwall](https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD) | [When I'm Gone](https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI) | 3:12 | 2021-08-05 | 2023-03-19 |

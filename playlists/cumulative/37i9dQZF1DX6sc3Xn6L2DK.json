@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 198120,
       "name": "Are You Listening?",
       "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
@@ -2290,6 +2290,24 @@
       "duration_ms": 294286,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg"
+    },
+    {
+      "album": {
+        "name": "Southern Galactic",
+        "url": "https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy"
+      },
+      "artists": [
+        {
+          "name": "Caleb Lee Hutchinson",
+          "url": "https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Things to Burn",
+      "url": "https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG"
     },
     {
       "album": {

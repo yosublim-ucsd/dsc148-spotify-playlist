@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 213154,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0isQofkWN5jjRmWVvBPk0d"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/6PnKRAtOuYQzXl96Fk8ggA"
+      },
+      "artists": [
+        {
+          "name": "Saive",
+          "url": "https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226273,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/2Jbux7OvBzPTa7NxwUhsTA"
+    },
+    {
+      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
@@ -970,6 +988,24 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
+    },
+    {
+      "album": {
+        "name": "Shining",
+        "url": "https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd"
+      },
+      "artists": [
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214117,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF"
     },
     {
       "album": {
@@ -1032,6 +1068,28 @@
       "duration_ms": 209178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+    },
+    {
+      "album": {
+        "name": "ten",
+        "url": "https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181545,
+      "name": "ten",
+      "url": "https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB"
     },
     {
       "album": {
@@ -1226,7 +1284,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 168398,
       "name": "With You",
       "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"

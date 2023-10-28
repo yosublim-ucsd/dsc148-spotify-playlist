@@ -1241,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2kyx0UWOT8Do0F5T0oBHo7"
+      },
+      "artists": [
+        {
+          "name": "John Skyfield",
+          "url": "https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp"
+        },
+        {
+          "name": "ODBLU",
+          "url": "https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3mBjzlVEwUj2ipUciMJf0l"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/4NPyGmVSGAqow9SoaQssXF"
       },
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 215000,
       "name": "Feel Like Makin' Love (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
@@ -3349,6 +3371,36 @@
     },
     {
       "album": {
+        "name": "Mama Thula",
+        "url": "https://open.spotify.com/album/6YMpRJfQ3fnI2v0NPJVwEJ"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Skye Wanda",
+          "url": "https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Suffocate SA",
+          "url": "https://open.spotify.com/artist/424Tqq4kwbnQ4197BuEdTS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361493,
+      "name": "Mama Thula",
+      "url": "https://open.spotify.com/track/5lyU83MdLTyJpnmCl3NjOi"
+    },
+    {
+      "album": {
         "name": "Matter of Time",
         "url": "https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI"
       },
@@ -5002,7 +5054,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 144834,
       "name": "Taste like Summertime",
       "url": "https://open.spotify.com/track/3bpBlfNm5nZgH8m2imm1dA"

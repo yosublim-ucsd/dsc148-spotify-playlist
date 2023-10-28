@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 42772,
+  "num_followers": 42816,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjZjZTBlNmNlMWM4MTdmMTFjYjU2MjAzNDE5OTBhY2QzNDJjNDBi",
+  "snapshot_id": "MCw4YWU2MWU5YTJiNWYwY2FiMWYwYjg0MmM3ZDY4OWI0MmFjOTkyZjM4",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Chamam\u00e9 para las Bailantas (En Vivo)",
+        "url": "https://open.spotify.com/album/69uqtQKovnsA0EbUkcp9vc"
+      },
+      "artists": [
+        {
+          "name": "El Angel De Las 2 Hileras",
+          "url": "https://open.spotify.com/artist/7DTPEQlrd18ycCOpiVG3a5"
+        }
+      ],
+      "duration_ms": 445173,
+      "name": "Estaci\u00f3n Solari / La Mal Peinada / El Curuzucuate\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/7ua5qCQZyy2LrZELAJxSlF"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 146320,
       "name": "Neique Chamigo",
       "url": "https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Chamam\u00e9 para las Bailantas (En Vivo)",
-        "url": "https://open.spotify.com/album/69uqtQKovnsA0EbUkcp9vc"
-      },
-      "artists": [
-        {
-          "name": "El Angel De Las 2 Hileras",
-          "url": "https://open.spotify.com/artist/7DTPEQlrd18ycCOpiVG3a5"
-        }
-      ],
-      "duration_ms": 445173,
-      "name": "Estaci\u00f3n Solari / La Mal Peinada / El Curuzucuate\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/7ua5qCQZyy2LrZELAJxSlF"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Los Enganchados del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/4WiLEMQHo7KNDKDKbXO2vK"
+      },
+      "artists": [
+        {
+          "name": "La Barra Chamamecera",
+          "url": "https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d"
+        }
+      ],
+      "duration_ms": 131613,
+      "name": "Camino a Tres Cruces",
+      "url": "https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 140040,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Los Enganchados del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/4WiLEMQHo7KNDKDKbXO2vK"
-      },
-      "artists": [
-        {
-          "name": "La Barra Chamamecera",
-          "url": "https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d"
-        }
-      ],
-      "duration_ms": 131613,
-      "name": "Camino a Tres Cruces",
-      "url": "https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Baile de Campo",
-        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
-      },
-      "artists": [
-        {
-          "name": "Los Taitas del Chamame",
-          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Baile de Campo",
-      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Mi Estrella Perdida",
         "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
       },
@@ -959,22 +943,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
+        "name": "Baile de Campo",
+        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
       },
       "artists": [
         {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
-        },
-        {
-          "name": "Los Hermanos Aquino",
-          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
+          "name": "Los Taitas del Chamame",
+          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Esclavo de Tus Besos",
-      "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
+      "duration_ms": 165120,
+      "name": "Baile de Campo",
+      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1039,6 +1019,26 @@
       "duration_ms": 170893,
       "name": "A villa Guillermina",
       "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        },
+        {
+          "name": "Los Hermanos Aquino",
+          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Esclavo de Tus Besos",
+      "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "A Puro Sapucay",
-        "url": "https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ"
-      },
-      "artists": [
-        {
-          "name": "Los Tatas del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
-        }
-      ],
-      "duration_ms": 169506,
-      "name": "Creciendo el Gualeguay",
-      "url": "https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "La Diferencia",
         "url": "https://open.spotify.com/album/2L7t3aR7OIj7YdRiYmEd9O"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 298893,
       "name": "L\u00e1zaro Blanco/Como Zapato en la Tapera/Por Llegar de Madrugada/Como Calandria Pal Cebo/barrio Uni\u00f3n/devuelta a Mi Ranchito/a Cachencho Federal",
       "url": "https://open.spotify.com/track/26Q2T1D7kFDDPs7aoJcgpQ"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "A Puro Sapucay",
+        "url": "https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ"
+      },
+      "artists": [
+        {
+          "name": "Los Tatas del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "Creciendo el Gualeguay",
+      "url": "https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc"
     },
     {
       "added_at": "2023-06-09 03:00:00",

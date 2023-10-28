@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,247 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,389 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 46 | [Mas Altas Que Bajadas](https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:13 |
 | 47 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 |
 | 48 | [Y Yo Me Le Pego](https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA) | [Y Yo Me Le Pego](https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu) | 2:52 |
-| 49 | [Solitario \- En Vivo](https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Solitario \(En Vivo\)](https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi) | 3:28 |
-| 50 | [La Fresa](https://open.spotify.com/track/1PexKCGqX41T01rtTH08YN) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Fresa](https://open.spotify.com/album/1TW0GzpdhiBK6dZxI4yGV4) | 2:54 |
+| 49 | [La Fresa](https://open.spotify.com/track/1PexKCGqX41T01rtTH08YN) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Fresa](https://open.spotify.com/album/1TW0GzpdhiBK6dZxI4yGV4) | 2:54 |
+| 50 | [Solitario \- En Vivo](https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Solitario \(En Vivo\)](https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi) | 3:28 |
 | 51 | [cómo dormiste?](https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [cómo dormiste?](https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8) | 3:03 |
 | 52 | [El Patrocinador](https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Patrocinador](https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne) | 3:26 |
 | 53 | [La Pelinegra](https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Pelinegra](https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO) | 2:35 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 62 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 |
 | 63 | [G Low Kitty](https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [G Low Kitty](https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN) | 3:34 |
 | 64 | [Para Ti](https://open.spotify.com/track/3gqeGUaXzYsmG6VzfQfagw) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Para Ti](https://open.spotify.com/album/6RS6DlDaxFzbOSdBpNBOPk) | 3:16 |
-| 65 | [Solo Que Lo Dudes](https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Solo Que Lo Dudes](https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP) | 2:39 |
-| 66 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 |
+| 65 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 |
+| 66 | [Solo Que Lo Dudes](https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Solo Que Lo Dudes](https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP) | 2:39 |
 | 67 | [Mujeres Divinas](https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [México en Mi Voz](https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE) | 3:19 |
 | 68 | [Te Acuerdas](https://open.spotify.com/track/4Oy75mbculFYO26JYtc8DN) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Te Acuerdas](https://open.spotify.com/album/2Txo9Wjv50Xxg8m9fgc5h1) | 3:25 |
 | 69 | [Malamente](https://open.spotify.com/track/6hz7lasdrLrRF7foBVVHbi) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Malamente](https://open.spotify.com/album/043NQRYJMoTeqqMQpvXYh4) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 74 | [dEsANiMaO :\(](https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [dEsANiMaO :\(](https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ) | 3:07 |
 | 75 | [Difícil Tu Caso](https://open.spotify.com/track/6QAQyyDoacQPvSm1BfJtv2) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Difícil Tu Caso](https://open.spotify.com/album/4toyhAt9fgtGec8ZacJerj) | 2:40 |
 
-Snapshot ID: `MCw3MDJjYzZkOTIyZWM5MDMwYmVkMDQzZGU1YzUzZTczNjM2ZTA0Y2Uz`
+Snapshot ID: `MCw0MzRhYjdjMTIzNDMxMDNkZDVhYWRmNGRkMmFkN2UxMGQ1M2RhYTIy`

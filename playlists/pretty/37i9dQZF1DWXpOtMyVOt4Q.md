@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,776 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,881 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 43 | [livin](https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ) | [yassprodd](https://open.spotify.com/artist/0WZLL9XHd4QId3RNI2kZ6Y) | [livin](https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq) | 1:31 |
 | 44 | [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 |
 | 45 | [空蝉](https://open.spotify.com/track/512AumOSEWMM6zQXgohm0P) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:55 |
-| 46 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 |
-| 47 | [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 |
-| 48 | [i watch the moon](https://open.spotify.com/track/7yyO5lmOGN4l5TNl8AwDpV) | [Flemish Bond](https://open.spotify.com/artist/4DAPVs6oobdlMxB54nt0Ik) | [i watch the moon](https://open.spotify.com/album/2pe0JZv3mO7GYLnfv86QMM) | 1:42 |
+| 46 | [i watch the moon](https://open.spotify.com/track/7yyO5lmOGN4l5TNl8AwDpV) | [Flemish Bond](https://open.spotify.com/artist/4DAPVs6oobdlMxB54nt0Ik) | [i watch the moon](https://open.spotify.com/album/2pe0JZv3mO7GYLnfv86QMM) | 1:42 |
+| 47 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 |
+| 48 | [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 |
 | 49 | [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 |
 | 50 | [for B.](https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [for B.](https://open.spotify.com/album/3l3JcGx513fCNPY6nGarLk) | 1:29 |
 
-Snapshot ID: `MCw3NjZkM2YyMDY2NzQ5ZjhhNTI2NTA3YzllNzRhZGU2YjYyNDBjZDRh`
+Snapshot ID: `MCxkYTUwYmNiODJjMzA1MTM0NmVjZjYwYmIwNWRmODYxYzhmYTYxYjYz`

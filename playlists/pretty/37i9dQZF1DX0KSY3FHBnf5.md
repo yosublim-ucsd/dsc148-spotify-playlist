@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,705 likes - 132 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,857 likes - 132 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 60 | [3am](https://open.spotify.com/track/75RxE9EAPP1bfGP4Qh1Nb7) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [analog](https://open.spotify.com/album/3wcz6SGuGPDAktWQc20uBc) | 1:55 |
 | 61 | [SIREN SONG](https://open.spotify.com/track/6xwkHbaxRq9xukxgRMKFM2) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [I LOVE YOU, PLEASE WAKE UP](https://open.spotify.com/album/2KebKPSTq5aehoq98Q04fz) | 1:36 |
 | 62 | [Dreamer](https://open.spotify.com/track/5fMWvdAhmCR1PhTvfPhQN8) | [monoway](https://open.spotify.com/artist/24ntr9mCwBZI4P5rIg2qtR), [Lesfm](https://open.spotify.com/artist/3cjxUpsyr916tEX0DBBSGH) | [Dreamer](https://open.spotify.com/album/3wbz4Q37Xjr0slSb6Jjmdd) | 1:58 |
-| 63 | [haunted, but it's ambient \- deep version](https://open.spotify.com/track/3LqM0DFhsMZMEM1fM0w0ha) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted \(ambient version\)](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 3:02 |
+| 63 | [haunted, but it's ambient \- deep version](https://open.spotify.com/track/3LqM0DFhsMZMEM1fM0w0ha) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 3:02 |
 | 64 | [Voice in my mind](https://open.spotify.com/track/6pya4kPIUBIBvxXE7g0I1t) | [L0WS](https://open.spotify.com/artist/40Eeh79VT5l36HSPs4aUku) | [Voice in my mind](https://open.spotify.com/album/63i2rcJtSWbZV028CneG7T) | 2:33 |
 | 65 | [as the light fades](https://open.spotify.com/track/6s7er3gM3Zd11AtrkhCSeZ) | [a vow](https://open.spotify.com/artist/03vWQx7x09Nqiv7Ks0HC7C) | [as the light fades](https://open.spotify.com/album/20AnYi5oKiEkJm0uPilxAb) | 2:18 |
 | 66 | [green to blue](https://open.spotify.com/track/0dklsYpLfomHpNcKNCZOSP) | [Aurenth](https://open.spotify.com/artist/7CM5sCDVQcnURPRMnASkBb) | [green to blue](https://open.spotify.com/album/4miOB6VeF95TgH4UeFKTmc) | 3:03 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 131 | [overthinking \- slowed + reverb](https://open.spotify.com/track/55ksh3dybC2OPCILeeGaIg) | [coldlakes](https://open.spotify.com/artist/3jxJQ1JkYdqHNGnvIoW0nI) | [overthinking \(slowed + reverb\)](https://open.spotify.com/album/5OGZhclLbyQXjGs8y9v2Ei) | 2:51 |
 | 132 | [lost](https://open.spotify.com/track/7sTqjmUu3ju7Dbcth2TjgU) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [lost](https://open.spotify.com/album/4juhd8RDQF4ixb0T2cIVNM) | 2:02 |
 
-Snapshot ID: `MCw1YjNjYjI1M2FiYjQxOWI1ZTBkOGRmMDBmYzRhYmVkNzA1YmM2NWYz`
+Snapshot ID: `MCxmZjUxYWQzYzUxNWZjOWUwMjRjYTUwZDcxMWU4OWFjNTVkOTMxZjE2`

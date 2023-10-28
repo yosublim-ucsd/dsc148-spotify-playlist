@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 ### [Portal](https://open.spotify.com/playlist/37i9dQZF1DWZaNRXtvIrDt)
 
-> a new world of alternative electronic music\. Cover: Logic1000
+> a new world of alternative electronic music\. Cover: RONA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,242 likes - 90 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,273 likes - 90 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 89 | [Long Ago](https://open.spotify.com/track/3Sv8Txb3DxbalXwe5TlLAq) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Set The Roof](https://open.spotify.com/album/5QXXTODvdjHMUUTrMvS8lD) | 4:54 |
 | 90 | [You Need Somebody](https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [You Need Somebody](https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi) | 3:20 |
 
-Snapshot ID: `MCxmYTk1N2E4NGVlM2RmMzExMTliZjcyNGM5MGFiN2YyOWU4MTEwODAz`
+Snapshot ID: `MCw1ZGM0ZWE5YTJlNGRmYWQyYWQ0MjBiYWU0OWE3MDg4ZjE0NWRiYTdh`

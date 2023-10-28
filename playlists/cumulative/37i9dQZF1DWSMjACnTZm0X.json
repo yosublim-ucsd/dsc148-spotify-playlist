@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=iZajCHhnT7KuDd4bxPG1bg\">Shallipoppi</a>",
+  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=NyJZ8avxT-Cu-4SHH1wD6g\">DBN Gogo</a>",
   "name": "Piano to the World",
   "tracks": [
     {
@@ -2263,6 +2263,28 @@
     },
     {
       "album": {
+        "name": "International Arrivals Vol. 4",
+        "url": "https://open.spotify.com/album/3tHQfZUCQf5rZML0h0uFHn"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "D3an",
+          "url": "https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383998,
+      "name": "Nairobi",
+      "url": "https://open.spotify.com/track/64ZjngztTdU3j6G1ekJh0D"
+    },
+    {
+      "album": {
         "name": "Narcos",
         "url": "https://open.spotify.com/album/1QhZ3sBP8SEGIcYcO5Af5C"
       },
@@ -2812,6 +2834,32 @@
       "duration_ms": 336842,
       "name": "SAD GIRLZ LUV MONEY (feat. Moliy & Kali Uchis) - Vigro Deep Amapiano Remix",
       "url": "https://open.spotify.com/track/3BmxwS8SAdpVMi4dqMK0xG"
+    },
+    {
+      "album": {
+        "name": "SAdesFakSHen",
+        "url": "https://open.spotify.com/album/43FLqZlKpEvMbm9MbW2qxf"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Thuto The Human",
+          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418445,
+      "name": "SAdesFakSHen",
+      "url": "https://open.spotify.com/track/4KVx0ec8CzTHFKYYgmrQbo"
     },
     {
       "album": {
@@ -3502,6 +3550,24 @@
       "duration_ms": 158812,
       "name": "Wetin No Good",
       "url": "https://open.spotify.com/track/23Fh73OaYgY5cisouEybte"
+    },
+    {
+      "album": {
+        "name": "What It Do Baby",
+        "url": "https://open.spotify.com/album/2BNJwGkYA8mmSLAnVQQ2Cu"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176637,
+      "name": "What It Do Baby",
+      "url": "https://open.spotify.com/track/2cSlM8aBaXFNoj7QBSXLmZ"
     },
     {
       "album": {

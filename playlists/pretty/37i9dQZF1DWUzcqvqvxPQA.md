@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,937 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,934 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 41 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
 | 42 | [Pray It Up](https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:19 |
 | 43 | [He Still Does \(Miracles\)](https://open.spotify.com/track/6TcXTbYh4mHq994p3oOibU) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Miracles](https://open.spotify.com/album/7BLdYEQPbahBMFF2E4ZUgU) | 3:34 |
-| 44 | [Every Little Thing](https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:22 |
-| 45 | [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
+| 44 | [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
+| 45 | [Every Little Thing](https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:22 |
 | 46 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
 | 47 | [All Good](https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [All Good](https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq) | 3:24 |
 | 48 | [Never Gonna Let Me Go](https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:02 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 65 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
 | 66 | [Shining Down](https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 5:11 |
 | 67 | [Love \(Remix\)](https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Love \(Remix\)](https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W) | 3:30 |
-| 68 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
-| 69 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
-| 70 | [I'm Up](https://open.spotify.com/track/777iKLDmmPiMAAB7OUW8bf) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [I'm Up](https://open.spotify.com/album/2b2JwJcO7m5Xk047jIu9jW) | 2:57 |
+| 68 | [I'm Up](https://open.spotify.com/track/777iKLDmmPiMAAB7OUW8bf) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [I'm Up](https://open.spotify.com/album/2b2JwJcO7m5Xk047jIu9jW) | 2:57 |
+| 69 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
+| 70 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
 | 71 | [Born Ready](https://open.spotify.com/track/5RBlhuY6iXpnc4De5nDOvO) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [Homesick](https://open.spotify.com/album/7LXqxH6bSaN395nIDyYPPl) | 2:54 |
 | 72 | [Never Have I Ever](https://open.spotify.com/track/0maqaTZLFWYs7Wj31XXtr2) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Never Have I Ever](https://open.spotify.com/album/4DAI16o6397wZrDloQqLYT) | 3:05 |
 | 73 | [Surprise](https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Surprise](https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Give It All](https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:04 |
 | 100 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 
-Snapshot ID: `MCwxNzYxMDQ2MzllNDZlM2M1MTNmNGRiNmZhNDIzOTgwODQ0ODdiYWU4`
+Snapshot ID: `MCw4OWJmNzJhZWU0ZGVhNzc3ZGI1NTBkODQyNjk3ODM0OWYyYmNmYTZm`

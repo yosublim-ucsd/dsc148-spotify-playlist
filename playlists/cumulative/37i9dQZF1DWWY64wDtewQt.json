@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "A MILLION WAYS TO MURDER",
+        "url": "https://open.spotify.com/album/6Z2SO35cQqwmSsNe5Bj5nM"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119608,
+      "name": "A MILLION WAYS TO MURDER",
+      "url": "https://open.spotify.com/track/4O19jxR62IRuXW0g5kuegM"
+    },
+    {
+      "album": {
         "name": "ADRENALIN",
         "url": "https://open.spotify.com/album/6nX4WB8Aw5KovtyZE55kRw"
       },
@@ -588,7 +606,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 153240,
       "name": "AUTOMOTIVO ANGELICAL V4",
       "url": "https://open.spotify.com/track/1vyg1TIfJK409mLL6LaxeG"
@@ -6750,10 +6768,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 145080,
       "name": "Montagem Coral",
       "url": "https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix"
+    },
+    {
+      "album": {
+        "name": "Montagem Coral (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/7bITNZFQVcVzUCESciDyFJ"
+      },
+      "artists": [
+        {
+          "name": "flux.beats",
+          "url": "https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143759,
+      "name": "Montagem Coral",
+      "url": "https://open.spotify.com/track/1IluQAUAhRumwIYsBuYqFQ"
     },
     {
       "album": {

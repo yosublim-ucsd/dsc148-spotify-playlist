@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 129915,
+  "num_followers": 129931,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGFlMGIyYWM4OTc5MzJlYzhiYjBiNDYxNmExYzRhYjVmYTA3NTUw",
+  "snapshot_id": "MCw0ZjQ2ZjNmMWFlYjliNDMxOWQzZWI2OTk4MWJhY2M1MWFkMTcyYTQ3",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 185482,
-      "name": "Sue\u00f1o (con Pablo Albor\u00e1n)",
-      "url": "https://open.spotify.com/track/71M1szVbVYZM5M6QlIm6aC"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 188086,
       "name": "Imposible Amor",
       "url": "https://open.spotify.com/track/5zRusJsWuFeLu2sICWvVDF"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 185482,
+      "name": "Sue\u00f1o (con Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/71M1szVbVYZM5M6QlIm6aC"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -939,18 +939,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Si por mi fuera",
-        "url": "https://open.spotify.com/album/10Biiwr7Gd6dsEd4VgvFaZ"
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 208824,
-      "name": "Si por mi fuera",
-      "url": "https://open.spotify.com/track/3c7U2Kj8YL8BquVmEhybCR"
+      "duration_ms": 197879,
+      "name": "La L\u00e1",
+      "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -991,22 +995,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+        "name": "Si por mi fuera",
+        "url": "https://open.spotify.com/album/10Biiwr7Gd6dsEd4VgvFaZ"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 197879,
-      "name": "La L\u00e1",
-      "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
+      "duration_ms": 208824,
+      "name": "Si por mi fuera",
+      "url": "https://open.spotify.com/track/3c7U2Kj8YL8BquVmEhybCR"
     },
     {
       "added_at": "2020-12-01 05:03:00",

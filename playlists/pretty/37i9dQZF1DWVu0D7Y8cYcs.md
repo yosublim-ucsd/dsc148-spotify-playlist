@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 
 > Come on, man\. Just smile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,489 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,558 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 30 | [Iron Lion Zion \- 7" Mix](https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Iron Lion Zion](https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK) | 3:22 |
 | 31 | [I Got You](https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [From Here To Now To You](https://open.spotify.com/album/61427AKV7p3p30uvrniI4L) | 2:59 |
 | 32 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
-| 33 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
+| 33 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 |
 | 34 | [Hey Now Now](https://open.spotify.com/track/1drYKDGEhW39HP3emCSiFF) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Yell Fire!](https://open.spotify.com/album/50ErftNBsKknqcgWGZIEVF) | 5:36 |
 | 35 | [Thy Will](https://open.spotify.com/track/57r0b2RzN5wsslQygPQSpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Thy Will](https://open.spotify.com/album/6fni7JqR3wJqmz75SEeHI6) | 2:55 |
 | 36 | [Funky Kingston](https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 4:50 |
 | 37 | [It Must Be True Love](https://open.spotify.com/track/7HwXZSIKEqVEkVRarpUELt) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Trojan Lovers Collection](https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG) | 3:24 |
 | 38 | [Feeling Irie](https://open.spotify.com/track/1P5GpSSraTkxFOYVwsxMXw) | [General Degree](https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO) | [Feeling Irie](https://open.spotify.com/album/5wZuvylSpV0QEwV52Zz5jH) | 3:11 |
-| 39 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 |
+| 39 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
 | 40 | [100 Pound a Kali](https://open.spotify.com/track/4ueCKMfynKI8B2SzoPJaTr) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Cut Stone](https://open.spotify.com/artist/2n90OvLEoTFhRC0AT0bS48), [Kali Blaxx](https://open.spotify.com/artist/6847AhFVSj1r1KknNDt6uz) | [100 Pound a Kali \(feat\. Kali Blaxx\) \- Single](https://open.spotify.com/album/2gpLJUMuesqNvhRWastDjC) | 2:39 |
 | 41 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 | 42 | [King Tubby's](https://open.spotify.com/track/2gkLKPNT5YO4O8K0JJwVf6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [King Tubby's](https://open.spotify.com/album/23ZnXnDhsyrNoKO9R8MLyw) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 49 | [Warm & Easy](https://open.spotify.com/track/2K02J8shfay33u49WhlaZg) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Warm & Easy](https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl) | 4:55 |
 | 50 | [Grateful](https://open.spotify.com/track/1wslSV8ppr83jS3fWHHYQT) | [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Grateful](https://open.spotify.com/album/5tU3ADncFHfdDScnuzWTXa) | 4:33 |
 
-Snapshot ID: `MCw5NDNiZjYyNDlhZjYzNjAzNmVjNjYwYjQ5NmMzMzVkYTAyNWEzNjA4`
+Snapshot ID: `MCxmY2FkOTY4OTg2YjkyY2JlN2MwZDc3MjlkNGQ1YTdkNjg4NWFiNGQ0`

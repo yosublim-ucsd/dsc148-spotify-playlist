@@ -5002,7 +5002,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 254555,
       "name": "Give Me A New Role",
       "url": "https://open.spotify.com/track/4yJnHyxIVWCoLs8owPwiJp"
@@ -13262,6 +13262,24 @@
       "duration_ms": 202909,
       "name": "Ta p\u00e5 mig",
       "url": "https://open.spotify.com/track/3DFOoe2J49z0ZD1o74fq5x"
+    },
+    {
+      "album": {
+        "name": "Tack & F\u00f6rl\u00e5t",
+        "url": "https://open.spotify.com/album/7nuGipqlw2WLeXdIW1qm4m"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178020,
+      "name": "Tack & F\u00f6rl\u00e5t",
+      "url": "https://open.spotify.com/track/77EB8QJSuJ0oCrxsohpOMs"
     },
     {
       "album": {

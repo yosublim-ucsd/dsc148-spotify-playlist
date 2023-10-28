@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 6866005,
+  "num_followers": 6873994,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjBiMmY2NGZmNzA4N2E5N2RkYjc0Yzc2NDkzZmZmMWFhMjFiYzkz",
+  "snapshot_id": "MCw0ZTM4ZWEzNWZlZTgxNWIyOTc3YzFjMGI4ZmM5MjQ4MmZiYzExZTE4",
   "tracks": [
     {
       "added_at": "2023-09-08 15:16:54",
@@ -323,6 +323,22 @@
       "duration_ms": 120593,
       "name": "DEMONS IN MY SOUL",
       "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "A MILLION WAYS TO MURDER",
+        "url": "https://open.spotify.com/album/6Z2SO35cQqwmSsNe5Bj5nM"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 119608,
+      "name": "A MILLION WAYS TO MURDER",
+      "url": "https://open.spotify.com/track/4O19jxR62IRuXW0g5kuegM"
     },
     {
       "added_at": "2022-12-30 05:01:00",
@@ -975,30 +991,18 @@
     {
       "added_at": "2023-09-22 18:14:49",
       "album": {
-        "name": "Montagem Coral",
-        "url": "https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu"
+        "name": "Montagem Coral (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/7bITNZFQVcVzUCESciDyFJ"
       },
       "artists": [
         {
-          "name": "DJ Holanda",
-          "url": "https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "MC Cyclope",
-          "url": "https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N"
+          "name": "flux.beats",
+          "url": "https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL"
         }
       ],
-      "duration_ms": 145080,
+      "duration_ms": 143759,
       "name": "Montagem Coral",
-      "url": "https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix"
+      "url": "https://open.spotify.com/track/1IluQAUAhRumwIYsBuYqFQ"
     },
     {
       "added_at": "2023-10-13 15:24:44",
@@ -1723,22 +1727,6 @@
       "duration_ms": 135826,
       "name": "North Memphis",
       "url": "https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr"
-    },
-    {
-      "added_at": "2023-09-22 18:14:49",
-      "album": {
-        "name": "AUTOMOTIVO ANGELICAL V4",
-        "url": "https://open.spotify.com/album/3eGmRNMoxVKxkDqyrRbnMP"
-      },
-      "artists": [
-        {
-          "name": "DJ ZK3",
-          "url": "https://open.spotify.com/artist/0Z3ZL2hmP2xyr3AyEx7kg2"
-        }
-      ],
-      "duration_ms": 153240,
-      "name": "AUTOMOTIVO ANGELICAL V4",
-      "url": "https://open.spotify.com/track/1vyg1TIfJK409mLL6LaxeG"
     },
     {
       "added_at": "2021-09-24 18:31:55",

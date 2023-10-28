@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Mustafa",
+  "description": "A laid-back trip in the folk scene. Cover: Jonah Kagen",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1591,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Beneath Oak Trees",
+        "url": "https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/2M6MUNGK2VZEb7WQWt8tUY"
+    },
+    {
+      "album": {
         "name": "Cocoon",
         "url": "https://open.spotify.com/album/7MODNKHR8XR73kkh0BWITu"
       },
@@ -1606,6 +1624,24 @@
       "duration_ms": 211999,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/02S4BqhislMrIaDBl8lsKP"
+    },
+    {
+      "album": {
+        "name": "Come on By",
+        "url": "https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205093,
+      "name": "Come on By",
+      "url": "https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy"
     },
     {
       "album": {
@@ -3086,7 +3122,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 317747,
       "name": "False Start",
       "url": "https://open.spotify.com/track/4A1Nvp5QT3ImzRVEfZzxc5"
@@ -3274,7 +3310,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 209614,
       "name": "Fireball Whiskey",
       "url": "https://open.spotify.com/track/4G2EXo1ZY5ql0XcViRrXF6"
@@ -3530,7 +3566,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 193182,
       "name": "Free",
       "url": "https://open.spotify.com/track/6I3Ns61Hy5xBwlakoVodA8"
@@ -8157,6 +8193,24 @@
     },
     {
       "album": {
+        "name": "Saturn Returning",
+        "url": "https://open.spotify.com/album/5E9UzV7YXUl3q92jy2aEwA"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167016,
+      "name": "Saturn Returning",
+      "url": "https://open.spotify.com/track/0y6DngD7Bw9BMnAHAksK3K"
+    },
+    {
+      "album": {
         "name": "Save Your Lonely",
         "url": "https://open.spotify.com/album/3H2n7oxs7ULMZmjCu1mPQT"
       },
@@ -9063,6 +9117,24 @@
     },
     {
       "album": {
+        "name": "T-Shirt",
+        "url": "https://open.spotify.com/album/6CLtAgfVmWfGR4IK58kKf7"
+      },
+      "artists": [
+        {
+          "name": "Cinzia & The Eclipse",
+          "url": "https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204840,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/2WNuuwAIoVY7Gaicrp5Qa5"
+    },
+    {
+      "album": {
         "name": "Taimangalimaaq (Time After Time)",
         "url": "https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52"
       },
@@ -9962,7 +10034,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 237562,
       "name": "Touch the Void",
       "url": "https://open.spotify.com/track/5PXpRaVbb7WsUrAzkdgWct"
@@ -10962,7 +11034,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 236173,
       "name": "When You Lose Her",
       "url": "https://open.spotify.com/track/2RX2B72whvpTmrMjKadHoQ"
@@ -11280,6 +11352,28 @@
       "duration_ms": 187360,
       "name": "You Could Be Free",
       "url": "https://open.spotify.com/track/2bnia5glTFaCJMbRenC0U3"
+    },
+    {
+      "album": {
+        "name": "You Could Start A Cult (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194869,
+      "name": "You Could Start A Cult (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
     },
     {
       "album": {

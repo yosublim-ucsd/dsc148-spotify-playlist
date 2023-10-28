@@ -1247,6 +1247,32 @@
     },
     {
       "album": {
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "album": {
         "name": "Otra Era",
         "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
       },
@@ -1262,6 +1288,24 @@
       "duration_ms": 244979,
       "name": "Otra Era",
       "url": "https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl"
+    },
+    {
+      "album": {
+        "name": "Ozone Scraper",
+        "url": "https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211299,
+      "name": "Ozone Scraper",
+      "url": "https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV"
     },
     {
       "album": {
@@ -1390,7 +1434,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 226986,
       "name": "Ready or Not",
       "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
@@ -1524,7 +1568,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 259333,
       "name": "Sky Walker (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"

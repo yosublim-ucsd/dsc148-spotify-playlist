@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Aaj Rang Hai",
+        "url": "https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W"
+      },
+      "artists": [
+        {
+          "name": "Amaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
+        },
+        {
+          "name": "Amrita Kak",
+          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
+        },
+        {
+          "name": "Ayaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205943,
+      "name": "Aaj Rang Hai",
+      "url": "https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z"
+    },
+    {
+      "album": {
         "name": "Carmonies - Thumri",
         "url": "https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs"
       },
@@ -608,7 +634,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 243750,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"

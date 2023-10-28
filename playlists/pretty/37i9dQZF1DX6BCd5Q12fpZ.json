@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65629,
+  "num_followers": 65645,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTRlZDBhYzYwMDAyZGJhOTc1MjNmNjczNDI4ZTRkZThkNzViNmI4",
+  "snapshot_id": "MCw4NjhkYmY1YzZkOGZmNWFjNjFkMjMyMjUyNGQzNzhlNDE5ZmI5YjA4",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Rhythm Inside",
-        "url": "https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx"
-      },
-      "artists": [
-        {
-          "name": "Lo\u00efc Nottet",
-          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
-        }
-      ],
-      "duration_ms": 172152,
-      "name": "Rhythm Inside",
-      "url": "https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Love Me, Please Love Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 143000,
       "name": "Puppet On A String",
       "url": "https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Rhythm Inside",
+        "url": "https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Nottet",
+          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
+        }
+      ],
+      "duration_ms": 172152,
+      "name": "Rhythm Inside",
+      "url": "https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Presenting Brotherhood of Man",
-        "url": "https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7"
-      },
-      "artists": [
-        {
-          "name": "Brotherhood of Man",
-          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
-        }
-      ],
-      "duration_ms": 178568,
-      "name": "Save Your Kisses for Me - Alternate Take",
-      "url": "https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 173812,
       "name": "Replay",
       "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Presenting Brotherhood of Man",
+        "url": "https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7"
+      },
+      "artists": [
+        {
+          "name": "Brotherhood of Man",
+          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
+        }
+      ],
+      "duration_ms": 178568,
+      "name": "Save Your Kisses for Me - Alternate Take",
+      "url": "https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Cliche Love Song",
-        "url": "https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq"
-      },
-      "artists": [
-        {
-          "name": "Basim",
-          "url": "https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Cliche Love Song - Another Version",
-      "url": "https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Vive la vie (Edition sp\u00e9ciale)",
         "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 169181,
       "name": "Moustache",
       "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Cliche Love Song",
+        "url": "https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq"
+      },
+      "artists": [
+        {
+          "name": "Basim",
+          "url": "https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "Cliche Love Song - Another Version",
+      "url": "https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B"
     },
     {
       "added_at": "2023-05-05 17:20:54",

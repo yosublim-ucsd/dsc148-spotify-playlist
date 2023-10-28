@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 
 > Timeless Latin pop hits through the decades! Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,972,385 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,972,563 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 | 99 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a) | 3:40 |
 | 100 | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA) | 3:47 |
 
-Snapshot ID: `MCxiNjdjYjA3YzI5NmIzNmZhNjJkODQ1MDQ0NzhkNTE1ZmQ3MDgxYTNm`
+Snapshot ID: `MCwwZWNhM2RkMzY1NTIwOWU1NzRjNmRjNTY0OWE1NjhlNDYwMjZhZTBj`

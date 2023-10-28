@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Lee Seol Ah\(이설아\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Won Tae Rim\(원태림\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.\)
 
-470 songs - 1 day 3 hr 58 min
+471 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Chilly Weather](https://open.spotify.com/track/7JWODJwvHmmTUsvr0YypZS) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Chilly Weather](https://open.spotify.com/album/3QAqYe4w6LlWJBg1svzIhG) | 3:39 | 2022-03-31 | 2022-04-02 |
 | [Close Your Eyes](https://open.spotify.com/track/7Lf3MxufBeAg6ZSKlut8wZ) | [Bam Soo Sung](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [Close Your Eyes](https://open.spotify.com/album/5D8tcWOfpWfIoLG075ptmG) | 3:32 | 2022-03-31 | 2022-04-14 |
 | [Cloud](https://open.spotify.com/track/2C8ISWwVLF8t2b55GJrikc) | [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [Cloud](https://open.spotify.com/album/2sBqBMbztnyHxhDHI8JbCP) | 2:47 | 2022-03-31 | 2022-04-21 |
+| [Clover](https://open.spotify.com/track/6KboAbHVBi95z5UAkeaJV6) | [Won Tae Rim](https://open.spotify.com/artist/4d6JLYUpsguDgSmUSmbi50) | [Clover](https://open.spotify.com/album/7F0h3aAEjQdQIZrLO4Lz95) | 3:46 | 2023-10-27 |  |
 | [Coffee Song \- Korean Version](https://open.spotify.com/track/0aWNMpUMgsy6erqUlft9Pw) | [임백천](https://open.spotify.com/artist/6LqtnFuXA9qt2dVmxHckoa) | [New Way](https://open.spotify.com/album/3v5zdvdUOz1sRYxN2fYSPL) | 2:52 | 2022-03-31 | 2022-04-21 |
 | [come as you are](https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:28 | 2021-12-10 | 2022-07-25 |
 | [Come With Me](https://open.spotify.com/track/61TR2Po5oS5cd5G0EUZ15n) | [INTHEPACK](https://open.spotify.com/artist/2jJa2tYxYmNtGYlxOqI0Il) | [Come With Me](https://open.spotify.com/album/5YV0DJWurTmtcKASwb6WH2) | 3:31 | 2022-03-31 | 2022-04-19 |
@@ -474,7 +475,7 @@
 | [오지 않을 너에게 Don\`t Say Goodbye](https://open.spotify.com/track/49hDsEZITRSiMpDj3DG2xu) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jooyeahin](https://open.spotify.com/artist/26N01XaKDXpRwspCsxM82w) | [새봄, 03 소품집 \`겨울 우리\` How I Love You](https://open.spotify.com/album/450lHoZWkYEPoVAAMygbgB) | 3:40 | 2022-03-31 | 2022-04-20 |
 | [일기예보](https://open.spotify.com/track/0L0fkd5rNncIy3PWKe4OW9) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [명다원](https://open.spotify.com/artist/62PadTYQecttv7r6Gc2L77) | [weather forecast](https://open.spotify.com/album/1y0mXaR9Zo3nIKUdxldpnF) | 3:13 | 2022-03-31 | 2022-06-06 |
 | [천천히 할래](https://open.spotify.com/track/5pm95XFWs26bl9jqTjHCJZ) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [로봇이 아니야 Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6FNX2xmB4DiuFQZgDyB0t1) | 4:03 | 2022-03-31 | 2022-04-20 |
-| [친구야 My Friend \(feat\. Kim Sawol\)](https://open.spotify.com/track/6GYfwuyeSLiNIbG8twrg40) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [작은 마을 Tiny Village](https://open.spotify.com/album/4qcORqrwArG9CxHYEN3x8d) | 4:24 | 2023-10-09 |  |
+| [친구야 My Friend \(feat\. Kim Sawol\)](https://open.spotify.com/track/6GYfwuyeSLiNIbG8twrg40) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [작은 마을 Tiny Village](https://open.spotify.com/album/4qcORqrwArG9CxHYEN3x8d) | 4:24 | 2023-10-09 | 2023-10-28 |
 | [커피를 마시고 Coffee \- Reprise](https://open.spotify.com/track/3PX5Hkkhh4da6Sntk3LwYo) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [01](https://open.spotify.com/album/7gUFQ9ulk9EbbSz8U52xTp) | 3:48 | 2021-12-10 | 2022-05-14 |
 | [품](https://open.spotify.com/track/7nWbh316VrzihN6Rra5Feh) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [품](https://open.spotify.com/album/6EmW3bgRZ3HDBlDekp0azZ) | 3:44 | 2021-12-10 | 2022-07-28 |
 | [피어난다](https://open.spotify.com/track/2x8TFrNKeWituI3X0e4Nxs) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA), [morning coffee](https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4) | [피어난다](https://open.spotify.com/album/3DkOw95ZwK8Kx0r83YT9HX) | 3:03 | 2022-03-31 | 2022-04-16 |

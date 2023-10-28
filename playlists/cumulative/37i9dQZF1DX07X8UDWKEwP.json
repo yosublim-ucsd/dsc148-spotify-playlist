@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Zhamira Zambrano",
+  "description": "Lo nuevo del mundo tropical. Cover: Lenny Tav\u00e1rez",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 173329,
       "name": "Bienvenidos a Mi Barrio",
       "url": "https://open.spotify.com/track/4uRBz2dXQnwi0GyZzvijyM"
@@ -2074,6 +2074,28 @@
       "duration_ms": 169207,
       "name": "El Que Ama Sufre",
       "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "album": {
+        "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
+        "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193046,
+      "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
     },
     {
       "album": {
@@ -3760,7 +3782,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 176000,
       "name": "Mucho Flow",
       "url": "https://open.spotify.com/track/1y6irl8tnTXw8pvaIfRoTp"
@@ -3906,6 +3928,24 @@
       "duration_ms": 237080,
       "name": "No Comprendo",
       "url": "https://open.spotify.com/track/3piI3idxf7NBiItHAYicyN"
+    },
+    {
+      "album": {
+        "name": "No es lo que toca",
+        "url": "https://open.spotify.com/album/1swSU1LUZjh5tj9Qe9u7s5"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152342,
+      "name": "No es lo que toca",
+      "url": "https://open.spotify.com/track/67gsCMp4LRQAq9Bd3KYm2x"
     },
     {
       "album": {

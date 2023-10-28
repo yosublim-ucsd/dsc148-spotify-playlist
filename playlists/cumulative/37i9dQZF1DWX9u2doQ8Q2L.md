@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,059 songs - 2 day 17 hr 23 min
+1,060 songs - 2 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -772,7 +772,8 @@
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-09-27 | 2023-05-13 |
 | [U.F.O](https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0) | 3:50 | 2022-09-27 | 2022-09-29 |
 | [U.F.O](https://open.spotify.com/track/19EJa9xsAVtkpsTnynNQpN) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 3:50 | 2023-05-23 |  |
-| [UFO\-mie \- original mix](https://open.spotify.com/track/5jhjAMLOA86d3KviOuF0Lz) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [The Hair Kid](https://open.spotify.com/artist/0VFeaq5HusM9WgvSkRIBZi) | [For The Aliens EP](https://open.spotify.com/album/2MNj6Y8pkeTUXUwJAsA9j0) | 3:17 | 2023-10-26 |  |
+| [UFO\-mie \- original mix](https://open.spotify.com/track/1hZDFYtwanbh2POvN2EFN4) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [The Hair Kid](https://open.spotify.com/artist/0VFeaq5HusM9WgvSkRIBZi) | [For The Aliens EP](https://open.spotify.com/album/65lk8xT7iVwQJD42pwZPRI) | 3:17 | 2023-10-26 |  |
+| [UFO\-mie \- original mix](https://open.spotify.com/track/5jhjAMLOA86d3KviOuF0Lz) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [The Hair Kid](https://open.spotify.com/artist/0VFeaq5HusM9WgvSkRIBZi) | [For The Aliens EP](https://open.spotify.com/album/2MNj6Y8pkeTUXUwJAsA9j0) | 3:17 | 2023-10-26 | 2023-10-28 |
 | [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 | 2023-10-24 |  |
 | [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/4bxgzMlcoQ21W7hcWr6v7k) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup), [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [umi tsuki \(feat\. iri\) \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/23EkcKAnLu6wUqEeCUe9sa) | 4:29 | 2023-08-22 |  |
 | [Unmellow](https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Unmellow](https://open.spotify.com/album/3BaxIQ05k9jCiYsks7kLqZ) | 2:37 | 2023-08-24 |  |

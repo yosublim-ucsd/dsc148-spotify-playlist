@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Shemekia Copeland",
+  "description": "The best in blues right now. Cover: Robert Finley",
   "name": "Got Blues",
   "tracks": [
     {
@@ -714,7 +714,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 260497,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 231885,
       "name": "I'll Be Moving On",
       "url": "https://open.spotify.com/track/3q53EOS9boS1UYg7et96KC"
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 193844,
       "name": "Nobody Wants To Be Lonely",
       "url": "https://open.spotify.com/track/04AyFkLrP4bbrDjcXGPhfz"
@@ -4977,6 +4977,28 @@
     },
     {
       "album": {
+        "name": "Joyful Sky",
+        "url": "https://open.spotify.com/album/082aBhB5n3cwYW7wLoudGo"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        },
+        {
+          "name": "Sari Schorr",
+          "url": "https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176549,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/4aZEjenUO0PzdCPtMUSZIe"
+    },
+    {
+      "album": {
         "name": "The Future Ain't What It Used to Be",
         "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
       },
@@ -5654,6 +5676,24 @@
       "duration_ms": 227539,
       "name": "Warm Me Up",
       "url": "https://open.spotify.com/track/5FfUJfRvU5qQ7xxjzJJjQ6"
+    },
+    {
+      "album": {
+        "name": "Black Bayou",
+        "url": "https://open.spotify.com/album/642WUw47i5QRd5iN0l4rho"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214572,
+      "name": "Waste Of Time",
+      "url": "https://open.spotify.com/track/6hN0tXlbsFFPJ3rADk48hk"
     },
     {
       "album": {

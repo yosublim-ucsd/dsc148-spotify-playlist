@@ -2,9 +2,9 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> indie tunes with country experimentation Cover: Arcy Drive
+> indie tunes with country experimentation Cover: Faye Webster
 
-178 songs - 11 hr 46 min
+179 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Difficult](https://open.spotify.com/track/6TV5YIX27b0ewliqXo5gWx) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/5V68mtjh04q5DvhyYnmmBw) | 2:56 | 2023-02-23 |  |
 | [Do You Understand \(What Has Happened to You\)](https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [At the Moonbase](https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA) | 4:43 | 2023-02-23 |  |
 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2023-02-23 |  |
+| [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 | 2023-10-27 |  |
 | [Drivin \(Runnner Remix\)](https://open.spotify.com/track/0ufgQYjEOPqqy0yn2JRehB) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Drivin \(Runnner Remix\)](https://open.spotify.com/album/0avZ2Sdc0HpKSc6JWtWPOw) | 3:26 | 2023-08-11 |  |
 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 | 2023-05-04 |  |
 | [El Paso](https://open.spotify.com/track/19um4IgOQ8eV3XUTjYZlCJ) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [El Paso](https://open.spotify.com/album/6sreMfL2MuL7GRlNPbiTxw) | 2:04 | 2023-02-23 |  |

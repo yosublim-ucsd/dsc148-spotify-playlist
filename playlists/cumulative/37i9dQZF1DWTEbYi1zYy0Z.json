@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 224237,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
@@ -4964,7 +4964,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 227369,
       "name": "One More Night - Single Edit",
       "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
@@ -5831,6 +5831,24 @@
     },
     {
       "album": {
+        "name": "Smoothin'",
+        "url": "https://open.spotify.com/album/0JmnQpoXh1lL4y7FlDRjN0"
+      },
+      "artists": [
+        {
+          "name": "Christophe Goze",
+          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283602,
+      "name": "Smoothin'",
+      "url": "https://open.spotify.com/track/50ZmHXALKOhouCsYXXH9ps"
+    },
+    {
+      "album": {
         "name": "So Many Ways",
         "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
       },
@@ -6346,6 +6364,24 @@
       "duration_ms": 238887,
       "name": "Summer Feelin'",
       "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
+    },
+    {
+      "album": {
+        "name": "The Best of Tim Bowman",
+        "url": "https://open.spotify.com/album/5wRMa0KJ8fa7U8TxhEPvVI"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 706580,
+      "name": "Summer Groove",
+      "url": "https://open.spotify.com/track/1WeSHCWNKRixmn9tLNmvKH"
     },
     {
       "album": {

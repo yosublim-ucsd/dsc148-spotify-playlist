@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 
 > Music by our 2023 Artists To Watch\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,624 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,635 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 | 22 | [La Curiosidad \- Deluxe](https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 3:36 |
 | 23 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
 | 24 | [LQTQH](https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [LQTQH](https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59) | 2:41 |
-| 25 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
-| 26 | [te kiero ver](https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [te kiero ver](https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg) | 2:27 |
+| 25 | [te kiero ver](https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [te kiero ver](https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg) | 2:27 |
+| 26 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
 | 27 | [Milano Town \(with DJ Drama, Shiva & Murda Beatz\)](https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 3:51 |
 | 28 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 |
 | 29 | [Yo Tengo un Novio](https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:37 |
 | 30 | [noches largas, faldas cortas](https://open.spotify.com/track/3So3rUrTEA5PT5lJCNXFe4) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 |
 
-Snapshot ID: `MCxlOThjMGUwMTAwNjVjZmFjN2U5OTE0M2ZiMGUzMjk2NzIyY2NhMmM1`
+Snapshot ID: `MCw1MmRlYWY1ZGM5NGNjYjcwNGE4MmNiYTYzODRkZjBhODVlODNmNjI3`

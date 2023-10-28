@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Blitz
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Meu Funeral
 
-386 songs - 21 hr 41 min
+388 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [arão](https://open.spotify.com/track/2xNMHYgUHDjLzo5ipgeTt9) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [zera](https://open.spotify.com/album/5hKzinFoIFHtvIK8EeWUVU) | 4:21 | 2022-06-17 | 2022-08-06 |
 | [As coisas que te lembram de mim](https://open.spotify.com/track/4wP5yTolLwqx7l8C6cvOMQ) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw) | [As coisas que te lembram de mim](https://open.spotify.com/album/71JEKgbshTiS2YDnUEHQXB) | 3:13 | 2022-02-04 | 2022-03-18 |
 | [Ascendentes](https://open.spotify.com/track/0qJ70E2ggIb6A8uDlEC74z) | [F.SNIPES](https://open.spotify.com/artist/2zkkcqSOV93FZWByPXib5Z), [Letícia Pires](https://open.spotify.com/artist/7H0bBsLZADZFnW56qV4lJh) | [Ascendentes](https://open.spotify.com/album/2wTH6v5nCl286AfNLeLQZn) | 4:01 | 2022-01-14 | 2022-02-19 |
-| [Atear](https://open.spotify.com/track/5p3BNHtia2EnxbKPtJKWzv) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Atear](https://open.spotify.com/album/1In7NJ5IIh6DkwHqGsDdVd) | 3:05 | 2023-07-14 |  |
+| [Atear](https://open.spotify.com/track/5p3BNHtia2EnxbKPtJKWzv) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Atear](https://open.spotify.com/album/1In7NJ5IIh6DkwHqGsDdVd) | 3:05 | 2023-07-14 | 2023-10-28 |
 | [Ato Lisérgico](https://open.spotify.com/track/3N4fv2Q2ZTjqq3EzN50Ew1) | [Casa Das Máquinas](https://open.spotify.com/artist/1PymZfgPOAECGxEWeGMVhU) | [Brilho nos Olhos](https://open.spotify.com/album/4LIHCsVlCpZI63SjkCFMaZ) | 3:20 | 2022-04-15 | 2022-04-29 |
 | [Até Logo](https://open.spotify.com/track/7x4TWQ3JjclapCLi6pWoK8) | [Skarno](https://open.spotify.com/artist/0S5CzwLcxLkVECtBom3VUt) | [Até Logo](https://open.spotify.com/album/2epcjn2UFpoOEXqUXvGJjl) | 3:35 | 2023-07-21 |  |
 | [Até o Fim](https://open.spotify.com/track/7AAuFdDAEhvCXmmebu9mDQ) | [Romulo Carvalho](https://open.spotify.com/artist/2XdI20Vo2AXhYWhBskPGUM) | [Até o Fim](https://open.spotify.com/album/3S02qnCrBAmmF7dv6AQH9l) | 2:47 | 2022-01-14 | 2022-01-22 |
@@ -68,6 +68,7 @@
 | [caso sério](https://open.spotify.com/track/4pYAk484VaJNKTW3QET7nw) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [caso sério](https://open.spotify.com/album/7Abz7lBZpBs0raAaltfK49) | 4:00 | 2023-01-27 | 2023-08-12 |
 | [CECI](https://open.spotify.com/track/5sofnKyROetFfcVNm5Ztm8) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [CECI \(Deluxe\)](https://open.spotify.com/album/7bo4M7e5HEnTtD03eAWLxc) | 2:44 | 2023-01-20 | 2023-04-01 |
 | [Chama De Amor](https://open.spotify.com/track/7FENXy3cRC1nkwerVvxgCI) | [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Amor É A Lei](https://open.spotify.com/album/2Q9MleGD9sn4WnOO51KPix) | 3:12 | 2023-09-15 | 2023-09-30 |
+| [Chiclete](https://open.spotify.com/track/7GjRbh1cG6x7VMn626Q3Y3) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X) | [RIO](https://open.spotify.com/album/2Sjxdn2OLpidqMDYE59Oxa) | 2:39 | 2023-10-27 |  |
 | [Chá](https://open.spotify.com/track/4GaUS9fESqZsMdk7aqnexu) | [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [iceboy999](https://open.spotify.com/artist/1PK0jb0W4nrxZItuuCUwXK), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Chá](https://open.spotify.com/album/4gSJ0HsE10n2Ci2nDfg9kg) | 3:17 | 2022-01-14 | 2022-09-24 |
 | [Cicatrizes](https://open.spotify.com/track/24I2J5wbWmy25ftfgsOLGh) | [Forte Norte](https://open.spotify.com/artist/5BnsBwbTCpt3f37fQerMux) | [Cicatrizes](https://open.spotify.com/album/1KuS8PL0K7I22EXIvOw29n) | 3:49 | 2022-05-27 | 2023-02-25 |
 | [Ciclos](https://open.spotify.com/track/4MSY2abyzFULkXnHGOCN4v) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Caracol.A](https://open.spotify.com/artist/7kcH00HHM8BkhfySXoQfUo) | [Ciclos](https://open.spotify.com/album/1de4pIwXgTDs0YWu1jAwAr) | 3:13 | 2022-10-07 | 2022-11-12 |
@@ -214,7 +215,7 @@
 | [Minha Essência é Essa](https://open.spotify.com/track/1nfY3lPdBRWKpcUD0IIes8) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN) | [Minha Essência é Essa](https://open.spotify.com/album/7BhRjF9uhRpzx6qgpXVeRm) | 3:49 | 2022-01-14 | 2022-10-01 |
 | [Muito Além](https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Muito Além](https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo) | 2:48 | 2022-11-04 |  |
 | [Musica Urbana](https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Capital Inicial 4.0 \(Deluxe\)](https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv) | 6:10 | 2022-11-11 |  |
-| [Musketeer \- Live](https://open.spotify.com/track/2IU774DbOINGPQHfNavI0I) | [Forgotten Boys](https://open.spotify.com/artist/3iXovebRefBCpxdCw7x7Ms) | [Gimme More and More](https://open.spotify.com/album/6PHUhrrhq7VQHf3cVMK0ax) | 2:59 | 2023-08-04 |  |
+| [Musketeer \- Live](https://open.spotify.com/track/2IU774DbOINGPQHfNavI0I) | [Forgotten Boys](https://open.spotify.com/artist/3iXovebRefBCpxdCw7x7Ms) | [Gimme More and More](https://open.spotify.com/album/6PHUhrrhq7VQHf3cVMK0ax) | 2:59 | 2023-08-04 | 2023-10-28 |
 | [Mãe](https://open.spotify.com/track/4p7tg4WcsnDWxl4IGIBxKR) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Mãe](https://open.spotify.com/album/161ge9q4WPISTLr51Gmg6U) | 3:26 | 2023-05-12 | 2023-07-01 |
 | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/track/5dyQxt1zLby3puYbTNFXAu) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/album/1uaqQnmLsxvhnrhNZ2fG7l) | 3:23 | 2023-09-29 |  |
 | [Mísseis Democráticos](https://open.spotify.com/track/4mNJF5gd4XRfJQrjrDevgd) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Mísseis Democráticos](https://open.spotify.com/album/15tJAU7yaz4lUqDyi56TUB) | 2:38 | 2022-07-01 | 2022-07-30 |
@@ -394,5 +395,6 @@
 | [White Rabbit](https://open.spotify.com/track/54pB8OIuoBTo0zb7PnM562) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [White Rabbit](https://open.spotify.com/album/6CGbvVdgtohBklk6hpUOjr) | 2:46 | 2022-08-12 | 2023-08-26 |
 | [Órfãos Bastardos](https://open.spotify.com/track/5j6CanT7G1iq45F9kqnBhz) | [Surr](https://open.spotify.com/artist/6ne9xIUEUyKEmhbhPbWFAZ) | [Órfãos Bastardos](https://open.spotify.com/album/5F2J20m1i5S4sAUq21Ms5J) | 2:37 | 2022-11-11 | 2023-07-08 |
 | [Última Chamada](https://open.spotify.com/track/6FH9aolGr0wmaFbSjGgdJ6) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G), [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p) | [Última Chamada](https://open.spotify.com/album/2tX9KoW6xtGzNRECNJJ0RY) | 2:53 | 2022-05-06 | 2022-05-28 |
+| [Último Clichê](https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin) | [Cine](https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr) | [Último Clichê](https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE) | 2:49 | 2023-10-27 |  |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

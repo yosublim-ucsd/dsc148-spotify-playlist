@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila con los mejores \u00e9xitos de los 90! Ricky Martin en portada.",
-  "num_followers": 1085162,
+  "num_followers": 1085447,
   "original_name": "Fiesta 90era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDgwNDQyOWEyMDNhNWQ0OWY1NGI0NjNjNDcxZDZiZjk3Mzc4OWU1",
+  "snapshot_id": "MCw4ODkwYmRkYWMwYjNiNTRhOGNjYTg2NzkzYWUxYzEwZGMzNmU3MjI0",
   "tracks": [
     {
       "added_at": "2023-10-24 19:18:22",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-24 19:18:22",
       "album": {
-        "name": "Siente El Amor",
-        "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "Es Mentiroso",
-      "url": "https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ"
-    },
-    {
-      "added_at": "2023-10-24 19:18:22",
-      "album": {
         "name": "Atado A Tu Amor",
         "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 253133,
       "name": "Salom\u00e9",
       "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
+    },
+    {
+      "added_at": "2023-10-24 19:18:22",
+      "album": {
+        "name": "Siente El Amor",
+        "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "Es Mentiroso",
+      "url": "https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ"
     },
     {
       "added_at": "2023-10-24 19:18:22",

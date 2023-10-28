@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,604 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,619 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 55 | [Drankin N Smokin](https://open.spotify.com/track/0k7wmahjkn389wAZdz19Cv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto](https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt) | 3:33 |
 | 56 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 |
 | 57 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 |
-| 58 | [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 |
-| 59 | [Spicy \(feat\. Post Malone\)](https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:23 |
-| 60 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
+| 58 | [Spicy \(feat\. Post Malone\)](https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:23 |
+| 59 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
+| 60 | [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 |
 | 61 | [Attentat](https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:14 |
 | 62 | [Cookies N' Cream \(feat\. ANNA & Sfera Ebbasta\)](https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:21 |
 | 63 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 79 | [Body \(Remix\) \[feat\. Capo Plaza & Rondodasosa\]](https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Body \(Remix\) \[feat\. Capo Plaza & Rondodasosa\]](https://open.spotify.com/album/6DiEWYk79JFILIgUd6SrTA) | 3:25 |
 | 80 | [CRAZY LOVE](https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:12 |
 
-Snapshot ID: `MCw3OTFmZDU2ZWUwMmUwNjA1ZTY3ODMwZDI3OGVkZmZlOTM0ZjliMGU1`
+Snapshot ID: `MCwyYmIxNjc3MDc2ZGMyNmQ2MmE2MTAwZDA1NTliODEyZWYwNzE5OTll`

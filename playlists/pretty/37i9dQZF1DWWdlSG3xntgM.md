@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,601 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,616 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 12 | [Lại Nhớ Người Yêu](https://open.spotify.com/track/6zJMd6pK2dPB5wFkWRh8Rl) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Ngày Em Đi](https://open.spotify.com/album/2aeAcs0wd9gHfmRbwmZZRS) | 4:49 |
 | 13 | [Người Ngoài Phố](https://open.spotify.com/track/5tCyOXDeo8eQNqpJQ6zgse) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Áo Hoa: Best of Như Quỳnh 2](https://open.spotify.com/album/0EnFGB1E7NMO9vwm9GJqh1) | 4:36 |
 | 14 | [Nói Với Người Tình](https://open.spotify.com/track/09gYyhwSGWH5agBqRGPYsG) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo), [Mai Thiên Vân](https://open.spotify.com/artist/6DKJX322RvZsWhz0Xn2myz) | [Nhật Ký Đời Tôi](https://open.spotify.com/album/6VNm9Szdku6nagVbX6ADtR) | 4:07 |
-| 15 | [Cho Người Tình Lỡ](https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ) | [Phương Phương Thảo](https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v) | [Cho Người Tình Lỡ](https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk) | 5:56 |
-| 16 | [Thành Phố Buồn](https://open.spotify.com/track/3Mj0vd5trSMH7hdH8NVIOO) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad) | [Qua Cơn Mê](https://open.spotify.com/album/4kbT3PLXiKQ6IGcIDeeDSf) | 5:43 |
+| 15 | [Thành Phố Buồn](https://open.spotify.com/track/3Mj0vd5trSMH7hdH8NVIOO) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad) | [Qua Cơn Mê](https://open.spotify.com/album/4kbT3PLXiKQ6IGcIDeeDSf) | 5:43 |
+| 16 | [Cho Người Tình Lỡ](https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ) | [Phương Phương Thảo](https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v) | [Cho Người Tình Lỡ](https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk) | 5:56 |
 | 17 | [Qua cơn mê](https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH) | [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Phận tơ tằm](https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig) | 4:11 |
 | 18 | [Xuân Này Con Về Mẹ Ở Đâu?](https://open.spotify.com/track/4WTxlwgBTqJ5dilU8zhfbj) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [7000 Đêm Góp Lại](https://open.spotify.com/album/04O1fXXjgeAolM0IrG9Bq8) | 4:48 |
 | 19 | [Không Giờ Rồi](https://open.spotify.com/track/4hCo5F8lu2qeVYEUgOX9Ba) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Không Giờ Rồi](https://open.spotify.com/album/5kWpxGSD5nHD9hKN1dMFtN) | 5:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Giọt buồn không tên](https://open.spotify.com/track/6fvfC6QXhLput4cLYtxz6n) | [Phương Hồng Quế](https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap), [Giang Tử](https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW) | [Liên Khúc Đêm Buồn Tỉnh Lẻ, Những Đồi Hoa Sim \(Asia 283\)](https://open.spotify.com/album/3dA8DbhPvOiIIgKgGDZXVP) | 4:46 |
 | 50 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q) | 5:00 |
 
-Snapshot ID: `MCxhYmE0NDY5NTYxODUzMWJhYjVhMDAwYzlmOTY3NThiZTM1YTg3NTQ5`
+Snapshot ID: `MCxjOTgyOWNhMmMzMTc1MGUzZDgzYzg3MmViYmQxZTk4ZTQ3NTgyYTdh`

@@ -1,12 +1,12 @@
 {
   "description": "El soundtrack oficial de la Liga Mexicana de Beisbol \u26be\ufe0f\ud83c\udfdf\ud83e\udde2",
-  "num_followers": 10341,
+  "num_followers": 10360,
   "original_name": "Liga Mexicana de Beisbol - Playlist Oficial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2Q5ZmJlNjVjZWY2MjhiY2ZkYzkzMmUzOGU4ODVkMDFjYmRkMGFj",
+  "snapshot_id": "MCwyNjQ0ZTY5MmQxZTc1MjFlYTUzMWI2YWJmMGI0MmNhNThkZDc1Yzcz",
   "tracks": [
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Bandido de Amores",
-        "url": "https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 182559,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "Qu\u00e9 Maldici\u00f3n",
         "url": "https://open.spotify.com/album/6oRHxFUQKBLocEBeWw24gb"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 253880,
       "name": "Si Se\u00f1or",
       "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "Bandido de Amores",
+        "url": "https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 182559,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
     },
     {
       "added_at": "2022-09-07 17:15:21",

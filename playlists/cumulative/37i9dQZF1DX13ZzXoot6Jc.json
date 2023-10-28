@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-31",
-  "description": "Country hits that will have you singing every word. Cover: Kane Brown",
+  "description": "Country hits that will have you singing every word. Cover: Tenille Arts",
   "name": "Country Favourites",
   "tracks": [
     {
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "TWENTY SOMETHING",
+        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189253,
+      "name": "amen",
+      "url": "https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y"
+    },
+    {
+      "album": {
         "name": "Angels (Don\u2019t Always Have Wings)",
         "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 174846,
       "name": "Back To Drinkin' Whiskey",
       "url": "https://open.spotify.com/track/6Ut5qwtHlVBrLd9t6MVzAM"
@@ -552,6 +570,24 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE"
+    },
+    {
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/5Zs6as6dChgeVIYpGopcdE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209109,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/4k6zSLCDhm0pjLAVbLrF5P"
     },
     {
       "album": {
@@ -1648,7 +1684,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 234848,
       "name": "High Time",
       "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 219960,
       "name": "Same Car",
       "url": "https://open.spotify.com/track/6yCW8qaDobbzDQS4qjTfJO"
@@ -3306,6 +3342,24 @@
       "duration_ms": 189782,
       "name": "Second Guessing",
       "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"
+    },
+    {
+      "album": {
+        "name": "See You Next Summer",
+        "url": "https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y"
+      },
+      "artists": [
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "See You Next Summer",
+      "url": "https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc"
     },
     {
       "album": {

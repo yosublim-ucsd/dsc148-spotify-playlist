@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 568128,
+  "num_followers": 568262,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmNlYzc1NDhmZDI2ZmY3NjUyOTZjYzA5YTA3OTg1YWRlM2UzYjQ0",
+  "snapshot_id": "MCxmZjNiNTRlZjZiMTA4OTQ1NmRjYTlmMzM3NGJlZjc2NTg0YWNkOTA0",
   "tracks": [
     {
       "added_at": "2023-10-11 04:25:38",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-10-11 04:25:38",
       "album": {
-        "name": "I Just Couldn't Save You Tonight (Story of Kale - Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1AgPsLxdjTamc8dapjpdom"
+        "name": "MARKERS AND SUCH",
+        "url": "https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE"
       },
       "artists": [
         {
-          "name": "Ardhito Pramono",
-          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
-        },
-        {
-          "name": "Aur\u00e9lie",
-          "url": "https://open.spotify.com/artist/2wGBQNmrYOrruN58zNdSuH"
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
         }
       ],
-      "duration_ms": 219600,
-      "name": "I Just Couldn't Save You Tonight - Story of Kale - Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/5AkV53fo1u01mi8r22JNeF"
+      "duration_ms": 211244,
+      "name": "Kita usahakan rumah itu",
+      "url": "https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl"
     },
     {
       "added_at": "2023-10-11 04:25:38",
@@ -859,18 +855,22 @@
     {
       "added_at": "2023-10-11 04:25:38",
       "album": {
-        "name": "MARKERS AND SUCH",
-        "url": "https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE"
+        "name": "I Just Couldn't Save You Tonight (Story of Kale - Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1AgPsLxdjTamc8dapjpdom"
       },
       "artists": [
         {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
+        },
+        {
+          "name": "Aur\u00e9lie",
+          "url": "https://open.spotify.com/artist/2wGBQNmrYOrruN58zNdSuH"
         }
       ],
-      "duration_ms": 211244,
-      "name": "Kita usahakan rumah itu",
-      "url": "https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl"
+      "duration_ms": 219600,
+      "name": "I Just Couldn't Save You Tonight - Story of Kale - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/5AkV53fo1u01mi8r22JNeF"
     },
     {
       "added_at": "2023-10-11 04:25:38",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-10-11 04:25:38",
       "album": {
-        "name": "Cek Toko Sebelah (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe"
-      },
-      "artists": [
-        {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        }
-      ],
-      "duration_ms": 286313,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA"
-    },
-    {
-      "added_at": "2023-10-11 04:25:38",
-      "album": {
         "name": "The 2000's Greatest",
         "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 279289,
       "name": "Selimut Hati",
       "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
+    },
+    {
+      "added_at": "2023-10-11 04:25:38",
+      "album": {
+        "name": "Cek Toko Sebelah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe"
+      },
+      "artists": [
+        {
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        }
+      ],
+      "duration_ms": 286313,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA"
     },
     {
       "added_at": "2023-10-11 04:25:38",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2023-10-11 04:25:38",
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
+      },
+      "artists": [
+        {
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        },
+        {
+          "name": "Monita Tahalea",
+          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Bicara (feat. Monita Tahalea)",
+      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
+    },
+    {
+      "added_at": "2023-10-11 04:25:38",
+      "album": {
         "name": "Menghapus Jejakmu",
         "url": "https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 182414,
       "name": "Menghapus Jejakmu",
       "url": "https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2"
-    },
-    {
-      "added_at": "2023-10-11 04:25:38",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
-      },
-      "artists": [
-        {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        },
-        {
-          "name": "Monita Tahalea",
-          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Bicara (feat. Monita Tahalea)",
-      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
     },
     {
       "added_at": "2023-10-11 04:25:38",

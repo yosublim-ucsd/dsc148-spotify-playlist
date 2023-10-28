@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Nej
 
-1,019 songs - 2 day 4 hr 52 min
+1,020 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Je t'a\(b\)ime](https://open.spotify.com/track/6dQxt4s7dHHAEnbhaJrpIp) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 2\)](https://open.spotify.com/album/2C9m59BGKQdNXNy1j59s4H) | 3:48 | 2022-11-30 | 2023-01-04 |
 | [Je t'ai eu](https://open.spotify.com/track/0gEloWZB6fIbC67Ogf25Tl) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [Je t'ai eu](https://open.spotify.com/album/7Hst6Z1XCkFEb3I59NPCGz) | 3:02 | 2022-11-08 | 2022-12-01 |
 | [Je t'aime à l'algérienne](https://open.spotify.com/track/7JtzNuaglZuxafRNfoAiG8) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je t'aime à l'algérienne](https://open.spotify.com/album/2SGmlK2zKgBTfTuZ9mRkny) | 3:32 | 2022-07-05 | 2022-08-03 |
+| [Je t'attends](https://open.spotify.com/track/1H7fub0sVefmxSybba0PES) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Cheminement](https://open.spotify.com/album/5L5y6SteAN2DImbrBJMd2O) | 3:57 | 2023-10-27 |  |
 | [Je te pardonne](https://open.spotify.com/track/22N377asZRTo4cs8E6V5f7) | [CLEM](https://open.spotify.com/artist/5LbSBkKKMb5it8AqwDDa4R) | [Je te pardonne](https://open.spotify.com/album/3MGdkQB5t67iC9jV4A1vo5) | 3:14 | 2023-09-05 | 2023-10-04 |
 | [Je te suis](https://open.spotify.com/track/2DmBSeEJb5w4tbRBbeMUtX) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Je te suis](https://open.spotify.com/album/0bE8mQcuz25d7HS1cR2fck) | 3:51 | 2022-11-08 | 2022-12-01 |
 | [Je te veux](https://open.spotify.com/track/2AMXaV36JR0t7FcCtaoazs) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Je te veux](https://open.spotify.com/album/1lY3QKTdcbn2aapjtjNR9q) | 2:34 | 2022-04-05 | 2022-05-04 |
@@ -656,7 +657,7 @@
 | [Nous](https://open.spotify.com/track/2zHTKPHqtAxOnp7xumMjx9) | [Anne Sila](https://open.spotify.com/artist/0GejADUuCXsh3pOsfTqHv5) | [Nous](https://open.spotify.com/album/0L86XWocBu0m2YNPRHcO6c) | 3:40 | 2022-11-08 | 2022-12-01 |
 | [Nouvelle vie](https://open.spotify.com/track/1UfjsSzs4kzCHRRHT758Eg) | [Marghe](https://open.spotify.com/artist/0fmiJKQkjcX69wVNArGZtk) | [Nouvelle vie](https://open.spotify.com/album/51x8dG46CFeBCVDPdK3SOG) | 3:03 | 2022-03-07 | 2022-04-06 |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2023-01-03 | 2023-02-01 |
-| [Nu](https://open.spotify.com/track/3sFSvsSxwOIIIqcXp7jGsW) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Nu](https://open.spotify.com/album/4COp4YzjgmasK8SJGNRAkJ) | 3:40 | 2023-10-03 |  |
+| [Nu](https://open.spotify.com/track/3sFSvsSxwOIIIqcXp7jGsW) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Nu](https://open.spotify.com/album/4COp4YzjgmasK8SJGNRAkJ) | 3:40 | 2023-10-03 | 2023-10-28 |
 | [Nuit Blanche](https://open.spotify.com/track/2sE4anGl3n6H8a6zsGWveP) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Nuit Blanche](https://open.spotify.com/album/3yXGHd4YPnoWJRnN5iIgYs) | 3:04 | 2023-02-28 | 2023-04-05 |
 | [Nuit Pauline \(Radio Edit\)](https://open.spotify.com/track/0EDYchsw6BQaz3Ty9fmN4f) | [Pauline Chagne](https://open.spotify.com/artist/0baTQziTUHJH7fOT48eQAr) | [Nuit Pauline \(Radio Edit\)](https://open.spotify.com/album/77xAGEXXogiLOjiJwdpUXX) | 2:54 | 2022-03-07 | 2022-04-06 |
 | [Nuits](https://open.spotify.com/track/7sva1gh8IsgAokZOQrerZw) | [Adela Jens](https://open.spotify.com/artist/3n2VXz6FfVZJp30KywlrRL) | [Nuits](https://open.spotify.com/album/17V6v99TVIumqSHlnkAv7h) | 3:10 | 2023-02-28 | 2023-04-05 |

@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 7644,
+  "num_followers": 7684,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzE2MGI0MGRlMDViYmEzYjU4NmMzZTcwODZhNjVmNTVjOWI2MTY4",
+  "snapshot_id": "MCw1MWI3YTAzNGQwZjJhYjA1NDU2MzcwMDMzOTI1ZTBkMGRiMDg5Mjgz",
   "tracks": [
     {
       "added_at": "2023-10-20 00:01:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "RADICAL",
+        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 188540,
+      "name": "Greatest",
+      "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Big God",
         "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 150000,
       "name": "Big God",
       "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "RADICAL",
-        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 188540,
-      "name": "Greatest",
-      "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Praises",
         "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 244300,
       "name": "Praises",
       "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -627,22 +627,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Halle",
-        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
+        "name": "S. W. A. G (Saved with Amazing Grace)",
+        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
       },
       "artists": [
         {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+          "name": "Sammie Okposo",
+          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
         },
         {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+          "name": "Kike Mudiaga",
+          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
         }
       ],
-      "duration_ms": 140198,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
+      "duration_ms": 242704,
+      "name": "Oluwa E Tobi",
+      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -667,22 +667,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "S. W. A. G (Saved with Amazing Grace)",
-        "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
       },
       "artists": [
         {
-          "name": "Sammie Okposo",
-          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
         },
         {
-          "name": "Kike Mudiaga",
-          "url": "https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF"
+          "name": "yoyo michael",
+          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
         }
       ],
-      "duration_ms": 242704,
-      "name": "Oluwa E Tobi",
-      "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
+      "duration_ms": 140198,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -731,6 +731,30 @@
       "duration_ms": 195428,
       "name": "Daily - Remix",
       "url": "https://open.spotify.com/track/3dtD6RxBNau20iIsowaKVu"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Never Ending Love",
+        "url": "https://open.spotify.com/album/6Pj4CUUtQXon0qZ7aFtQc1"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "The Excentric",
+          "url": "https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 174995,
+      "name": "Never Ending Love",
+      "url": "https://open.spotify.com/track/6PTdosZg7sMabnr47NGdVE"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -815,22 +839,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 812470,
-      "name": "When I See You",
-      "url": "https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Bianule",
         "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
       },
@@ -843,6 +851,22 @@
       "duration_ms": 284080,
       "name": "Bianule",
       "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 812470,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -863,26 +887,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Edwards",
-          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
-        },
-        {
-          "name": "Rushawn",
-          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
-        }
-      ],
-      "duration_ms": 154218,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Selense",
         "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
       },
@@ -899,26 +903,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Never Ending Love",
-        "url": "https://open.spotify.com/album/6Pj4CUUtQXon0qZ7aFtQc1"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
       },
       "artists": [
         {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
         },
         {
-          "name": "The Excentric",
-          "url": "https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
         }
       ],
-      "duration_ms": 174995,
-      "name": "Never Ending Love",
-      "url": "https://open.spotify.com/track/6PTdosZg7sMabnr47NGdVE"
+      "duration_ms": 154218,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "This Far by Grace",
+        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
+      },
+      "artists": [
+        {
+          "name": "Pastor Edwin Dadson",
+          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
+        }
+      ],
+      "duration_ms": 293500,
+      "name": "This Far by Grace",
+      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Confam",
         "url": "https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 157826,
       "name": "Confam",
       "url": "https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "This Far by Grace",
-        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
-      },
-      "artists": [
-        {
-          "name": "Pastor Edwin Dadson",
-          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
-        }
-      ],
-      "duration_ms": 293500,
-      "name": "This Far by Grace",
-      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
     },
     {
       "added_at": "2023-10-20 00:01:00",

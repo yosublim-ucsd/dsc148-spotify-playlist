@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,391 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,567 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 13 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 |
 | 14 | [Raabta](https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Agent Vinod](https://open.spotify.com/album/2DqQ34i4uuuZWTScsGIgHr) | 4:03 |
 | 15 | [Aise Kyun \- Ghazal Version](https://open.spotify.com/track/02wf1NAQdIpe5S1NJYPwvB) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 5:29 |
-| 16 | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/album/2wNtwIrKPDj6uOV6VlM8pJ) | 3:13 |
-| 17 | [Kyun Dhunde \- 1 Min Music](https://open.spotify.com/track/0WUUFBKX2vlagsbYm3KUG2) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde \(1 Min Music\)](https://open.spotify.com/album/62RPhN80MlD2EUAj2aHyfV) | 1:10 |
+| 16 | [Kyun Dhunde \- 1 Min Music](https://open.spotify.com/track/0WUUFBKX2vlagsbYm3KUG2) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde \(1 Min Music\)](https://open.spotify.com/album/62RPhN80MlD2EUAj2aHyfV) | 1:10 |
+| 17 | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/album/2wNtwIrKPDj6uOV6VlM8pJ) | 3:13 |
 | 18 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 |
 | 19 | [Aziyat 2.0 \- Reprise Version](https://open.spotify.com/track/3fwyItGexa88kR8j76dIqv) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat 2.0 \(Reprise Version\)](https://open.spotify.com/album/6Pe9mPc7ynVPgtBWwLVXgL) | 3:14 |
 | 20 | [Jhoom \- R&B Mix](https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Jhoom](https://open.spotify.com/album/7gITB9pwcGy6027YxnAHsM) | 4:58 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 64 | [Aaj Kal Zindagi](https://open.spotify.com/track/4MnDLNhqL6HuSzFO4b4rvJ) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:14 |
 | 65 | [Tu Kahaan \- 1 Min Music](https://open.spotify.com/track/1CPhllOfBgOtTTDe05tSEw) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Tu Kahaan \(1 Min Music\)](https://open.spotify.com/album/5QdhLeikSse9wFEokUM2Gw) | 1:00 |
 | 66 | [Lagan Laagi Re](https://open.spotify.com/track/3bM0sCyyhglscs8EvsBZ36) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Songs of Love](https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o) | 4:38 |
-| 67 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
-| 68 | [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 |
+| 67 | [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 |
+| 68 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
 | 69 | [Na Sata \(From "Highway Love"\)](https://open.spotify.com/track/4zqSM3FthOw4OhabVdOPvr) | [Saudur](https://open.spotify.com/artist/2mg1YLOST3mNhhkP60Ni4I) | [Na Sata \(From "Highway Love"\)](https://open.spotify.com/album/6rIeU5F1D0nB0LRZ41xKma) | 3:31 |
 | 70 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 |
 | 71 | [Aao Chalein](https://open.spotify.com/track/7ADt3F5qdx8qPYdy6ODCar) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU) | 3:05 |
 | 72 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |
-| 73 | [Nazdeek Aa](https://open.spotify.com/track/6HGYF23ssfitIgMvewmXFM) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Nazdeek Aa](https://open.spotify.com/album/0oc9nXJMTafqGDrbAHcboy) | 3:24 |
-| 74 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 |
+| 73 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 |
+| 74 | [Nazdeek Aa](https://open.spotify.com/track/6HGYF23ssfitIgMvewmXFM) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Nazdeek Aa](https://open.spotify.com/album/0oc9nXJMTafqGDrbAHcboy) | 3:24 |
 | 75 | [Joy of Little Things](https://open.spotify.com/track/6osLH2yLhpwuESclKx84sg) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Joy of Little Things](https://open.spotify.com/album/0xCqFIlyDXXxganfCHM8yV) | 3:59 |
 
-Snapshot ID: `MCxkNzU5MDVmNTg4NWRjZGI3MDhiNjg3OWVkNTBiZjhkZDIxMzE0OWRi`
+Snapshot ID: `MCxiZTBlMzE1NDE0MDUxNDc1MjdlNDBkMjU5MGE1MDVlNDQwYjE3ODhl`

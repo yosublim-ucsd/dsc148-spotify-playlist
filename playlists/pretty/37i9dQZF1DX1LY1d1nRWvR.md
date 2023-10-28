@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,283 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,318 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 45 | [Umama \- A COLORS SHOW](https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umama \- A COLORS SHOW](https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw) | 4:04 |
 | 46 | [Night Of Desirable Objects](https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 6:56 |
 | 47 | [All My Troubles](https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [All My Troubles](https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN) | 5:08 |
-| 48 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
-| 49 | [Piña Colada](https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie Seivwright](https://open.spotify.com/artist/1iyQnonWJYO8XSOkWQITUH) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:59 |
+| 48 | [Piña Colada](https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie Seivwright](https://open.spotify.com/artist/1iyQnonWJYO8XSOkWQITUH) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:59 |
+| 49 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
 | 50 | [Frog Fractions](https://open.spotify.com/track/5IrQwd8F9oTkDNxSPrkJSy) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [New Tab](https://open.spotify.com/album/4sSEUm4dCycVP7EXTmd4SP) | 4:40 |
 
-Snapshot ID: `MCxmNmU1OGUyMjRiODEzZTE4ODI0YWYyNDI0M2NhYjYyY2RmMjU3ZmUy`
+Snapshot ID: `MCw3YWMxYzNhM2I4OTU0MTA5Yjc3MDI1NjEyYTg2Mjg1ZTlhMzU0Mzhi`

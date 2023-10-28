@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Shay Lia \ud83c\udde9\ud83c\uddef ",
+  "description": "Inspired by African drums. Cover: EverythingOShauN, ODUMODUBLVCK \ud83c\uddf3\ud83c\uddec \ud83c\uddef\ud83c\uddf2 \ud83c\uddf3\ud83c\uddec ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -290,6 +290,24 @@
       "duration_ms": 165995,
       "name": "Advice",
       "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
+    },
+    {
+      "album": {
+        "name": "ALA BEKE 2 (feat. ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG"
+      },
+      "artists": [
+        {
+          "name": "EverythingOShauN",
+          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179571,
+      "name": "ALA BEKE 2 (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN"
     },
     {
       "album": {
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 186067,
       "name": "Bring It Good",
       "url": "https://open.spotify.com/track/6tvHXsB0nqA6A6ylngdFNZ"
@@ -2536,7 +2554,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
@@ -3260,6 +3278,24 @@
       "duration_ms": 147840,
       "name": "Doggie - Remix",
       "url": "https://open.spotify.com/track/556R8sj2EQvhqkUdGI2Czg"
+    },
+    {
+      "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
     },
     {
       "album": {
@@ -5617,6 +5653,32 @@
     },
     {
       "album": {
+        "name": "James Bond (King Doudou Remix)",
+        "url": "https://open.spotify.com/album/1FzOPp8T1jWUNceqSqu6EC"
+      },
+      "artists": [
+        {
+          "name": "Jujuboy",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186448,
+      "name": "James Bond - King Doudou Remix",
+      "url": "https://open.spotify.com/track/5dVVnvIl96krM2WYcq0FGJ"
+    },
+    {
+      "album": {
         "name": "Jane",
         "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
       },
@@ -5928,6 +5990,28 @@
       "duration_ms": 213600,
       "name": "Kenkele",
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
+    },
+    {
+      "album": {
+        "name": "Khartoum (with Adekunle Gold)",
+        "url": "https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142719,
+      "name": "Khartoum (with Adekunle Gold)",
+      "url": "https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk"
     },
     {
       "album": {
@@ -6346,7 +6430,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 168874,
       "name": "LEMON AND LIME",
       "url": "https://open.spotify.com/track/2BJTNiugSpTGTbesQL4FL9"
@@ -8966,7 +9050,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 164551,
       "name": "Passport Bros (with J. Cole)",
       "url": "https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,722 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,907 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 21 | [Photograph](https://open.spotify.com/track/2XDNzwJkyFfqqnc1FP8UJg) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream: The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/02o5Ry59Ocv0UskowTlrlZ) | 6:09 |
 | 22 | [Loving You](https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Move On: A Sondheim Adventure](https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs) | 2:51 |
 | 23 | [A Kiss To Build A Dream On](https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Signature](https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i) | 3:05 |
-| 24 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
-| 25 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 |
+| 24 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 |
+| 25 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
 | 26 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 |
 | 27 | [Taking a Chance on Love](https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:30 |
 | 28 | [A Sunday Kind Of Love](https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 4:52 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 67 | [Bewitched](https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [For You](https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL) | 3:49 |
 | 68 | [A Song For You](https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Here's To You \- Songs For Shirley Horn](https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3) | 5:01 |
 | 69 | [Deep in a Dream](https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB) | 4:05 |
-| 70 | [Hours Of Ours](https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP) | [Waiting For Dawn](https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd) | 5:47 |
+| 70 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 |
 | 71 | [It's Always You](https://open.spotify.com/track/0rWS1OheLM9jpGznNwyrEj) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 2:52 |
-| 72 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 |
-| 73 | [My Romance](https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:42 |
-| 74 | [Midnight Sun](https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Blame It On My Youth](https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un) | 4:35 |
+| 72 | [Hours Of Ours](https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP) | [Waiting For Dawn](https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd) | 5:47 |
+| 73 | [Midnight Sun](https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Blame It On My Youth](https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un) | 4:35 |
+| 74 | [My Romance](https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:42 |
 | 75 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 |
 | 76 | [Cheek to Cheek](https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Cheek to Cheek](https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot) | 7:03 |
 | 77 | [Sweet Pumpkin](https://open.spotify.com/track/7xINpy0rVreuzLsNMFaC4P) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Pasquale Grasso](https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY) | [Sweet Pumpkin](https://open.spotify.com/album/0POEh5608y0eem6LXKOG76) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [Keep Me From The Cold](https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J) | 4:43 |
 | 100 | [These Things You Are To Me](https://open.spotify.com/track/22rek75QknVrI85tEIUF7a) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz) | 4:23 |
 
-Snapshot ID: `MCwyMDE2NGI3M2Q2N2ViM2JkMmI5ZDZhNWVmY2I0ZmVkNTY0OGY5YjVh`
+Snapshot ID: `MCw1NDI3MjdiZDU4MzI3YTczNWM1NjM3OTMyNWI2MDM2ODdhNzc5ZjFi`

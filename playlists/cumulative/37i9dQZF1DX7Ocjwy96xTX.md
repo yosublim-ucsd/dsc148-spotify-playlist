@@ -4,7 +4,7 @@
 
 > dark & dreamy for night creatures
 
-222 songs - 13 hr 24 min
+224 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 | 2022-11-10 | 2023-05-25 |
 | [canine teeth](https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [canine teeth](https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9) | 1:20 | 2023-07-13 | 2023-08-19 |
 | [Carpop](https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Daydream Twins](https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO) | 6:02 | 2023-08-25 |  |
-| [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 | 2023-09-29 |  |
+| [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 | 2023-09-29 | 2023-10-28 |
 | [Catch The Waves](https://open.spotify.com/track/4i3zTyBJaFV6AosZzzL0cj) | [T\. Rexico](https://open.spotify.com/artist/6Trc447dn0TAUcOfVWdex4) | [Catch The Waves](https://open.spotify.com/album/3nUOd3hYpLCDfgLLRI69oS) | 3:10 | 2022-10-07 | 2022-10-29 |
 | [Caught In Time, So Far Away](https://open.spotify.com/track/1dj44gqRjWmPtoj495glKe) | [You'll Never Get to Heaven](https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7) | [Adorn](https://open.spotify.com/album/47TWRNJhxMuIBOOc9RJ5LQ) | 3:48 | 2022-09-02 | 2023-01-23 |
 | [Caught In Time, So Far Away](https://open.spotify.com/track/4D60K4ihRiUeS9u7fq7QGV) | [You'll Never Get to Heaven](https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7) | [Adorn](https://open.spotify.com/album/0olVkojSwGHBomfzv5zgTi) | 3:48 | 2023-01-19 |  |
@@ -70,6 +70,7 @@
 | [easy](https://open.spotify.com/track/5pvMXnhRKSAvO8qmfKU4Ys) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [re: rainbow music](https://open.spotify.com/album/7HHq6FVBQZx8LeURMNY5V7) | 2:40 | 2023-08-18 | 2023-09-30 |
 | [Edging](https://open.spotify.com/track/4lgm7ozhyI1ImFpY8RScHA) | [Collarbones](https://open.spotify.com/artist/6y9lvZaKtNLru9bQyLajy9) | [Filth](https://open.spotify.com/album/2OoPSwutdW62NIhE9W53Hc) | 4:20 | 2023-07-13 | 2023-07-22 |
 | [empty](https://open.spotify.com/track/0nx0l4QmVFV7BdNuUELVg2) | [Human Barbie](https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv) | [empty](https://open.spotify.com/album/4DqyPkbIaL3uQU5D0S55rv) | 4:30 | 2022-11-10 | 2023-05-25 |
+| [EPHEMERAL](https://open.spotify.com/track/7x3dssNFWZtubSlXqRYGxl) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [EPHEMERAL](https://open.spotify.com/album/6Fdahq7wVU3h4NuukBRAIx) | 2:29 | 2023-10-27 |  |
 | [Euphoria \(where were you?\)](https://open.spotify.com/track/0ydapNPxo7yMHrM1AeRu4j) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria \(where were you?\)](https://open.spotify.com/album/3DOTGWg00u63y5nXz5TEaG) | 5:28 | 2022-10-07 | 2023-05-25 |
 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 | 2022-09-02 | 2022-10-29 |
 | [f my haterz anthem](https://open.spotify.com/track/6N0mSXLOh1j3agMiCxQlCo) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ), [Loverboyrando](https://open.spotify.com/artist/4mnSgKEkGtu1IBN2r2bM77), [Sweatcult](https://open.spotify.com/artist/31412uPiG5Il6jKLs4u2C4) | [f my haterz anthem](https://open.spotify.com/album/0s3ocpYpZlUtQmfnL6t1u2) | 3:56 | 2023-10-13 |  |
@@ -192,6 +193,7 @@
 | [softscars](https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr) | 3:26 | 2023-09-29 |  |
 | [Solitude \- Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/5SOA0gaKMMp9cgwn3nuwk7) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Solitude \(Felsmann + Tiley Reinterpretation\)](https://open.spotify.com/album/7mCzA6gqtv4ZtfInpJXm52) | 3:42 | 2022-10-14 |  |
 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 | 2022-09-02 | 2022-12-02 |
+| [South](https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [South](https://open.spotify.com/album/1CfNY3GnYDN6P2yoLFOdGd) | 3:31 | 2023-10-27 |  |
 | [Spell](https://open.spotify.com/track/7sOxhseYdvaCJgaINgQY94) | [Taraneh](https://open.spotify.com/artist/7IoTiUNmwPOdUCPlNtezaO), [Elusin](https://open.spotify.com/artist/3QpY0PpAVZmG1hTD6tu7FN) | [Spell](https://open.spotify.com/album/7eJeXWCxTTuGA5fSW2y9Wy) | 3:19 | 2023-07-21 | 2023-08-19 |
 | [spiral](https://open.spotify.com/track/7M0dr4u7mOvBXZchosvilZ) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [spiral](https://open.spotify.com/album/7B5kjHvuXhUU54QdVuA1ry) | 2:15 | 2023-08-25 |  |
 | [Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Capsule Losing Contact](https://open.spotify.com/album/0PQKxvYXBokFo7oxsKmwXq) | 1:58 | 2023-07-21 |  |

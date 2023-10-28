@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 424370,
+  "num_followers": 424422,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTEzNTlhY2RjN2Q5MzJiNzdmMjFlNGU5MDlmZWE3YWIyMDJmYWQw",
+  "snapshot_id": "MCxlZGU3Mzk5MGEwYzUyNTY2OWE4ODRlZDBkYmMyOWYzZGMzMTdlOGM4",
   "tracks": [
     {
       "added_at": "2023-10-24 14:41:04",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 218577,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
-    },
-    {
-      "added_at": "2023-10-24 14:41:04",
-      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "added_at": "2023-10-24 14:41:04",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
     },
     {
       "added_at": "2023-10-24 14:41:04",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2023-10-24 14:41:04",
-      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "added_at": "2023-10-24 14:41:04",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-10-24 14:41:04",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
+        "name": "live more & love more",
+        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 158259,
+      "name": "live more & love more",
+      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
+    },
+    {
+      "added_at": "2023-10-24 14:41:04",
+      "album": {
         "name": "UNHEALTHY (Deluxe)",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 205613,
       "name": "YOU & I (feat. Khalid)",
       "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
-    },
-    {
-      "added_at": "2023-10-24 14:41:04",
-      "album": {
-        "name": "live more & love more",
-        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 158259,
-      "name": "live more & love more",
-      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
     },
     {
       "added_at": "2023-10-24 14:41:04",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
-    },
-    {
-      "added_at": "2023-10-24 14:41:04",
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
+    },
+    {
+      "added_at": "2023-10-24 14:41:04",
+      "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2023-10-24 14:41:04",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+    },
+    {
+      "added_at": "2023-10-24 14:41:04",
+      "album": {
         "name": "3 Boys",
         "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
-    },
-    {
-      "added_at": "2023-10-24 14:41:04",
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
-        "name": "Superbloodmoon (feat. d4vd)",
-        "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
+        "name": "closure",
+        "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        },
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 151792,
-      "name": "Superbloodmoon (feat. d4vd)",
-      "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
+      "duration_ms": 183566,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
     },
     {
       "added_at": "2023-10-24 14:41:04",
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
-        "name": "closure",
-        "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
+        "name": "Superbloodmoon (feat. d4vd)",
+        "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 183566,
-      "name": "closure",
-      "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
+      "duration_ms": 151792,
+      "name": "Superbloodmoon (feat. d4vd)",
+      "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
     },
     {
       "added_at": "2023-10-24 14:41:04",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
-        "name": "Ice Slippin",
-        "url": "https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 255920,
-      "name": "Ice Slippin",
-      "url": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
-    },
-    {
-      "added_at": "2023-10-24 14:41:04",
-      "album": {
         "name": "Lose It All",
         "url": "https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 205493,
       "name": "Lose It All",
       "url": "https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ"
+    },
+    {
+      "added_at": "2023-10-24 14:41:04",
+      "album": {
+        "name": "Ice Slippin",
+        "url": "https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 255920,
+      "name": "Ice Slippin",
+      "url": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
     },
     {
       "added_at": "2023-10-24 14:41:04",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
-        "name": "Columbo",
-        "url": "https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS"
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 204325,
-      "name": "We Were Never Really Friends",
-      "url": "https://open.spotify.com/track/2QZzngN7hEFac2yC6zxOGy"
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "added_at": "2023-10-24 14:41:04",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
-        "name": "Into Your Room",
-        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
+        "name": "Columbo",
+        "url": "https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
         }
       ],
-      "duration_ms": 209787,
-      "name": "Into Your Room",
-      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
+      "duration_ms": 204325,
+      "name": "We Were Never Really Friends",
+      "url": "https://open.spotify.com/track/2QZzngN7hEFac2yC6zxOGy"
     },
     {
       "added_at": "2023-10-24 14:41:04",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
+    },
+    {
+      "added_at": "2023-10-24 14:41:04",
+      "album": {
         "name": "Fall In Love With A Girl (feat. Orla Gartland)",
         "url": "https://open.spotify.com/album/4rhuxHJsNJdATS6PHxMvQ6"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
-    },
-    {
-      "added_at": "2023-10-24 14:41:04",
-      "album": {
         "name": "When I Get There",
         "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 240277,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
-    },
-    {
-      "added_at": "2023-10-24 14:41:04",
-      "album": {
         "name": "Coffee Shop",
         "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2023-10-24 14:41:04",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 240277,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
+    },
+    {
+      "added_at": "2023-10-24 14:41:04",
+      "album": {
         "name": "Matters of the Heart",
         "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 175492,
       "name": "The Vow",
       "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
+    },
+    {
+      "added_at": "2023-10-24 14:41:04",
+      "album": {
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2023-10-24 14:41:04",
@@ -1535,22 +1551,6 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
-    },
-    {
-      "added_at": "2023-10-24 14:41:04",
-      "album": {
-        "name": "London Is Lonely",
-        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "London Is Lonely",
-      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2023-10-24 14:41:04",

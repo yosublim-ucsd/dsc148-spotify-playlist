@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,667 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,701 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 29 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
 | 30 | [Golden Choice](https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 3:48 |
 | 31 | [Cuando Regreses a Mí](https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Cuando Regreses a Mí](https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE) | 3:12 |
-| 32 | [In My Bones](https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [In My Bones](https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp) | 3:37 |
-| 33 | [Lentes Negros](https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK) | [Primavera Club](https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG) | [Dorama](https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm) | 4:50 |
+| 32 | [Lentes Negros](https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK) | [Primavera Club](https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG) | [Dorama](https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm) | 4:50 |
+| 33 | [In My Bones](https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [In My Bones](https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp) | 3:37 |
 | 34 | [Ultra\-Funk](https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [The New Sound of the Venezuelan Gozadera](https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh) | 3:38 |
 | 35 | [NQP \(No Quiero Parar\)](https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2) | [Danco](https://open.spotify.com/artist/1XrvBYbWw1e7xyoBC0bp5X) | [NQP \(No Quiero Parar\)](https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW) | 3:02 |
-| 36 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 |
+| 36 | [Tú](https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG) | [Orquesta Discotheque](https://open.spotify.com/artist/6U0G8Mkq8QEE2bJfbWPlGC), [Beto Montes](https://open.spotify.com/artist/4TKMEtRCcbQcVkARsD4beC) | [Música Moderna](https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm) | 3:57 |
 | 37 | [Trágame Tierra](https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:26 |
-| 38 | [Tú](https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG) | [Orquesta Discotheque](https://open.spotify.com/artist/6U0G8Mkq8QEE2bJfbWPlGC), [Beto Montes](https://open.spotify.com/artist/4TKMEtRCcbQcVkARsD4beC) | [Música Moderna](https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm) | 3:57 |
+| 38 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 |
 | 39 | [Asturión](https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ) | [Cocofunka](https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD) | [CAMALOVE](https://open.spotify.com/album/7jJijowxod92mie0y9XAj7) | 4:14 |
-| 40 | [Pequeñines](https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W), [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w) | [Pequeñines](https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX) | 3:47 |
-| 41 | [Tu y Yo](https://open.spotify.com/track/7JyK2pz85N5xDu9N8pdv5S) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Tu y Yo](https://open.spotify.com/album/50h6fCnNHIHPOsxoT8o58H) | 4:14 |
-| 42 | [Dicen](https://open.spotify.com/track/7vXrkuRXeIT87UXQhjtznW) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Dicen](https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6) | 3:45 |
+| 40 | [Dicen](https://open.spotify.com/track/7vXrkuRXeIT87UXQhjtznW) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Dicen](https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6) | 3:45 |
+| 41 | [Pequeñines](https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W), [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w) | [Pequeñines](https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX) | 3:47 |
+| 42 | [Tu y Yo](https://open.spotify.com/track/7JyK2pz85N5xDu9N8pdv5S) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Tu y Yo](https://open.spotify.com/album/50h6fCnNHIHPOsxoT8o58H) | 4:14 |
 | 43 | [Gobiérname](https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:31 |
 | 44 | [Holy Hell](https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 3:12 |
 | 45 | [Rompecabezas](https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH) | 5:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 59 | [Terciopelo](https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Terciopelo](https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t) | 2:58 |
 | 60 | [Latin Boogie](https://open.spotify.com/track/7xk1G9o26AhKlqsaGpQYnn) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Latin Boogie](https://open.spotify.com/album/2hVem4tCpldixCXBUM5ECo) | 3:25 |
 
-Snapshot ID: `MCwzYmYxMjY5M2ZkZDc2ZWU3NTI5MWM0NGZhMDg1ZjJkOWRiZGQ2ZmVj`
+Snapshot ID: `MCxhY2JiYjA1NzQ2NWE0MGRiYmYyMGJlNDY5YjhkNWExOTJiNWY5N2M2`

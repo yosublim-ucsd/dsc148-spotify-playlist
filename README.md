@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6934\)
+## Playlists \(6936\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -430,6 +430,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [After Work](/playlists/pretty/37i9dQZF1DWSKtEVXBdAHi.md)
 - [Afterhours](/playlists/pretty/37i9dQZF1DX0AZ24QB6TCx.md)
 - [Afternoon Acoustic](/playlists/pretty/37i9dQZF1DX4E3UdUs7fUx.md)
+- [Afternoon Nap](/playlists/pretty/37i9dQZF1DX7FUaCNVd2fs.md)
 - [Agent Elvis Official Playlist](/playlists/pretty/37i9dQZF1DX3KVUsNUmJc2.md)
 - [Aguas Frescas](/playlists/pretty/37i9dQZF1DXa8DuxYig0Rl.md)
 - [Ainsi font font font](/playlists/pretty/37i9dQZF1DWUVvyzVe2A3W.md)
@@ -1096,6 +1097,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Chicago Blues](/playlists/pretty/37i9dQZF1DX4rGCw5bMNp1.md)
 - [Chicha Royale](/playlists/pretty/37i9dQZF1DX32nf7PAbnUl.md)
 - [Chill + Atmospheric](/playlists/pretty/37i9dQZF1DX79Y9Kr2M2tM.md)
+- [Chill Acoustic Covers](/playlists/pretty/37i9dQZF1DWY8U6Zq7nvbE.md)
 - [Chill Beats](/playlists/pretty/37i9dQZF1DWZa8CSUr0hCY.md)
 - [Chill Bops](/playlists/pretty/37i9dQZF1DX2YOadVouRc8.md)
 - [Chill Covers](/playlists/pretty/37i9dQZF1DWXnscMH24yOc.md)
@@ -2497,7 +2499,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Hora de Yoga Familiar](/playlists/pretty/37i9dQZF1DWSjkhfyRmxay.md)
 - [Hora de la Comida](/playlists/pretty/37i9dQZF1DXa0xldXwsLda.md)
 - [Hora de la Lloración](/playlists/pretty/37i9dQZF1DX9235ICuUcIM.md)
-- [Hot Acoustics](/playlists/pretty/37i9dQZF1DWY8U6Zq7nvbE.md)
 - [Hot Alternative](/playlists/pretty/37i9dQZF1DWUa8WMYIRY8Y.md)
 - [Hot Club Swing](/playlists/pretty/37i9dQZF1DXdDe8IDhRIo5.md)
 - [Hot Country](/playlists/pretty/37i9dQZF1DX1lVhptIYRda.md)
@@ -4359,7 +4360,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Ruido Blanco para Dormir](/playlists/pretty/37i9dQZF1DXaYM2TpfSdxV.md)
 - [Ruidosas](/playlists/pretty/37i9dQZF1DWYyoxRKXFLBa.md)
 - [Ruleteando](/playlists/pretty/37i9dQZF1DWYP6zmGbwfYH.md)
-- [Rumba Colombiana](/playlists/pretty/37i9dQZF1DWSIJCwMOQ10E.md)
+- [Rumba Colombiana en Halloween](/playlists/pretty/37i9dQZF1DWSIJCwMOQ10E.md)
 - [Run 'N' Bass](/playlists/pretty/37i9dQZF1DX8jnAPF7Iiqp.md)
 - [Run It Back](/playlists/pretty/37i9dQZF1DXaAXb45NEVkE.md)
 - [Run This Town](/playlists/pretty/37i9dQZF1DWWPcvnOpPG3x.md)
@@ -6584,6 +6585,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [comer, dormir, perrear, repetir](/playlists/pretty/37i9dQZF1DWWtigbJs8KAv.md)
 - [cosmic phonk](/playlists/pretty/37i9dQZF1DX1qNZsqIInBz.md)
 - [cottagecore](/playlists/pretty/37i9dQZF1DXcJC2hrJxL4F.md)
+- [cozied up](/playlists/pretty/37i9dQZF1DX2ePRxHPWPfx.md)
 - [creamy](/playlists/pretty/37i9dQZF1DXdgz8ZB7c2CP.md)
 - [creme](/playlists/pretty/37i9dQZF1DX7f8PyAQL3rz.md)
 - [crushed velvet](/playlists/pretty/37i9dQZF1DXcPiubrCbXxp.md)

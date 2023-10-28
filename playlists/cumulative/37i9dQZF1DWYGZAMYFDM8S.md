@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-338 songs - 21 hr 5 min
+340 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 | 2022-07-22 | 2023-04-30 |
 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:13 | 2023-05-05 |  |
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2021-11-05 | 2022-07-29 |
-| [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 | 2022-08-02 |  |
+| [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 | 2022-08-02 | 2023-10-28 |
 | [Angela \(Single Version\)](https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Angela \(Single Version\)](https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0) | 2:58 | 2021-11-05 |  |
 | [Answers \(Acoustic\)](https://open.spotify.com/track/28peZbGhHydhLLeZb1FUbz) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/7dUwxuMBTGEprZv2i06YyN) | 3:10 | 2021-11-05 | 2022-07-29 |
 | [Apple Tree Blues](https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Apple Tree Blues](https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g) | 3:32 | 2022-05-13 |  |
@@ -38,6 +38,7 @@
 | [Avalanche](https://open.spotify.com/track/6jBGH36Ue2beiIFrjakDkX) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Miles and Miles](https://open.spotify.com/album/2aGQYE2YiaM44GKTBTOFLc) | 4:25 | 2021-11-05 | 2022-07-28 |
 | [Back to Tennessee](https://open.spotify.com/track/6yVZtPADFaHeYpeAS45Gz2) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Back to Tennessee](https://open.spotify.com/album/6wXcYqIiXETdVMD0GwnI4G) | 3:36 | 2022-02-21 | 2022-07-28 |
 | [Be So Cruel \- Stripped](https://open.spotify.com/track/4VN1iJu8OWnh2yY6QNoKOj) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Be So Cruel \(Stripped\)](https://open.spotify.com/album/0uypCQZERlewPD7jjHhZVU) | 2:42 | 2023-01-03 | 2023-01-25 |
+| [Bed Song 1](https://open.spotify.com/track/4h7d4UJBGJmBuRX1AgVfKx) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:59 | 2023-10-27 |  |
 | [Bed Song 1](https://open.spotify.com/track/5XnQnpRRXZQbJ2PcvvuWp2) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Bed Song 1](https://open.spotify.com/album/1vpdtDIoL0jW47H7gYfp9n) | 3:59 | 2021-11-08 | 2022-07-29 |
 | [Before You](https://open.spotify.com/track/60GSDg8mVq5lIwBdQ8Fdgv) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Before You](https://open.spotify.com/album/3Cm5kXIKNv7VmgvYcotCQC) | 2:47 | 2021-11-05 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/68XQwuLFhzaV0ThuDv2I54) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Berlin](https://open.spotify.com/album/4yQ3lsX2CZRbukZ6QHs1eX) | 4:29 | 2021-11-05 | 2022-07-29 |
@@ -173,8 +174,9 @@
 | [Love Flew Away](https://open.spotify.com/track/5uAtnvrLOUDcTp9sfpxaQt) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/7yNnjSXqGCF3H1hEwJMwa5) | 2:27 | 2021-11-05 | 2022-07-28 |
 | [Love Flew Away](https://open.spotify.com/track/6FwkV9baY3ERqmxPsBLzYf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/3WvXQcV3BhJqued0PYn23U) | 2:27 | 2022-07-22 | 2022-10-13 |
 | [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 | 2022-12-16 | 2023-05-16 |
+| [Masterpiece \- solo](https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD) | 4:00 | 2023-10-27 |  |
 | [May](https://open.spotify.com/track/3kfXRPnEqfAEOeKKX4UszE) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Still Life](https://open.spotify.com/album/69bmzUtPRFNdCMjsiD11kJ) | 3:58 | 2021-11-05 | 2022-07-29 |
-| [Me, Myself and Lunacy](https://open.spotify.com/track/1JzJbtG6UOv4sICVA8IX4H) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | ["WHAT THEN?"](https://open.spotify.com/album/1Yx2bNjkNd8bWZ9uM5Aexu) | 3:42 | 2022-07-22 | 2022-07-29 |
+| [Me, Myself and Lunacy](https://open.spotify.com/track/1JzJbtG6UOv4sICVA8IX4H) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | ["WHAT THEN?"](https://open.spotify.com/album/1Yx2bNjkNd8bWZ9uM5Aexu) | 3:42 | 2022-07-22 |  |
 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-05-13 |  |
 | [Mind on Fire](https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Mind on Fire](https://open.spotify.com/album/1Ms5teyYCQM0bHa2aSKfod) | 3:14 | 2022-02-07 | 2022-05-14 |
 | [Mockingbird](https://open.spotify.com/track/2CaLpacfbqCPvcLmX4ZN8e) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mockingbird](https://open.spotify.com/album/6Nk8Q2py4XcHpOGtwlADXE) | 4:37 | 2021-11-05 | 2022-07-29 |
@@ -223,7 +225,7 @@
 | [Pale November Dew](https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:50 | 2022-07-22 |  |
 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 | 2021-11-05 | 2022-07-29 |
 | [Phoenix](https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Phoenix](https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj) | 3:30 | 2021-11-05 | 2022-08-03 |
-| [Phoenix](https://open.spotify.com/track/33O3akLJROZIzHaYbujfUY) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:30 | 2023-08-18 |  |
+| [Phoenix](https://open.spotify.com/track/33O3akLJROZIzHaYbujfUY) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:30 | 2023-08-18 | 2023-10-28 |
 | [Portland](https://open.spotify.com/track/52EUFsBXu1FG5iTnTE9W2M) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Portland](https://open.spotify.com/album/0F1lJ6QmJUMcIMiTE3fBZP) | 3:48 | 2021-11-05 | 2022-05-14 |
 | [Purple](https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Purple](https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE) | 4:25 | 2022-07-22 |  |
 | [Purple](https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Purple](https://open.spotify.com/album/4V1aYX6FrcKWr2rBuIIlOM) | 4:25 | 2021-11-08 | 2022-07-29 |
@@ -247,7 +249,7 @@
 | [River](https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa) | [Soll](https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1) | [River](https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux) | 4:03 | 2021-11-05 | 2022-07-29 |
 | [Rivers](https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Rivers](https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc) | 3:56 | 2022-07-22 |  |
 | [ROLLERCOASTER](https://open.spotify.com/track/5jwgqsTNFsKQIMrwhGZ5et) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 3:48 | 2022-02-07 | 2022-07-29 |
-| [ROLLERCOASTER](https://open.spotify.com/track/6rEHgFrezCmpYhkckeXw10) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:48 | 2022-07-22 |  |
+| [ROLLERCOASTER](https://open.spotify.com/track/6rEHgFrezCmpYhkckeXw10) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:48 | 2022-07-22 | 2023-10-28 |
 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 | 2021-11-05 | 2022-07-23 |
 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 | 2021-11-05 |  |
 | [Rust](https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U) | [Sam Moss](https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j) | [Neon](https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ) | 2:31 | 2021-11-05 | 2022-07-29 |

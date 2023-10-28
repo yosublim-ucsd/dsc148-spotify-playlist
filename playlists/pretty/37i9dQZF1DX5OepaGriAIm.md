@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,609 likes - 128 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,666 likes - 128 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 127 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 128 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |
 
-Snapshot ID: `MCw0NTRhY2U5MDk1OTk2YWMyMDEwZTRhOWQ0Mzg2ZDIxNjZiYjA1ODJm`
+Snapshot ID: `MCw3NTEyYzc5NzY5OGFmYTExOTY1ZjBmMDc3ODU2MjBjZTljYTQ4NWNl`

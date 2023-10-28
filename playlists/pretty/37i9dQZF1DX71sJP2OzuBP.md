@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,533 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,538 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 80 | [尋光而來 \(電視劇《照亮你》片尾曲\)](https://open.spotify.com/track/3aJPpo62uoNsrWgwvm7FD6) | [許靖韻](https://open.spotify.com/artist/70XRdb848u15UedRaqzOyy) | [尋光而來 \(電視劇《照亮你》片尾曲\)](https://open.spotify.com/album/2sDoBYcxYMov98rg2gPMWn) | 3:57 |
 | 81 | [小孩](https://open.spotify.com/track/6DH0SJ7bx5ug3PClhWvS5U) | [Hubert Wu](https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5) | [小孩](https://open.spotify.com/album/1qxoqmhMCQVrDi9MeMaUSp) | 4:07 |
 | 82 | [Never Again](https://open.spotify.com/track/1fO6vB1z06Bc5bOTlTfojs) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [Changing Room](https://open.spotify.com/album/2E6ZEER6A4CmmQEvlgj5CK) | 4:00 |
-| 83 | [Aloof](https://open.spotify.com/track/5aOOgEY5f1G85ULVE98YfM) | [Edward Chen](https://open.spotify.com/artist/0dfSUAJNqVKUe9Zqs2gQoY) | [Aloof](https://open.spotify.com/album/7rqzZMGibEuh28R7TgHRQv) | 4:18 |
+| 83 | [Aloof](https://open.spotify.com/track/5aOOgEY5f1G85ULVE98YfM) | [陳昊森](https://open.spotify.com/artist/3caZxmZkahlga1xtnOtahu) | [Aloof](https://open.spotify.com/album/7rqzZMGibEuh28R7TgHRQv) | 4:18 |
 | 84 | [親愛的你不醜](https://open.spotify.com/track/5nKsX7p5Wn1jJPqiqqvYs9) | [施語庭](https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql) | [親愛的你不醜](https://open.spotify.com/album/76vCPRM8vJVGYqmQWd2ftp) | 4:06 |
 | 85 | [月如歌](https://open.spotify.com/track/6B5xNpQbGIBMJKaS7erROe) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [月如歌](https://open.spotify.com/album/2lLXEiCqKdgk3EVPt1HkJZ) | 3:55 |
 | 86 | [cos idk how](https://open.spotify.com/track/1DozwzMwdx5ovfQfRs6dtb) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [cos idk how](https://open.spotify.com/album/4vkYp8TEchsqjKSuCR0oHt) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [在一切終將消逝以前\(誠品信義2023年創作主題曲\)](https://open.spotify.com/track/4rfhG4R0rcLTQ129FeNjvf) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [在一切終將消逝以前\(誠品信義2023年創作主題曲\)](https://open.spotify.com/album/4l90f8WXgy65YjiykhM1E7) | 4:58 |
 | 100 | [答應我以後都會陪著我](https://open.spotify.com/track/4kxHvp0jMNgk6W2mDeMOtc) | [絕命青年](https://open.spotify.com/artist/0bghT9sR5oyjqmdpUfSvrU) | [答應我以後都會陪著我](https://open.spotify.com/album/25KOVMq6TOu888ZObySJiT) | 3:16 |
 
-Snapshot ID: `MCw2MjgxZGY1MmIyMmRiYjlmMWNjMTEyZWJiYTA2N2Y1NWIxYzQwNDQ0`
+Snapshot ID: `MCxmYjJmZDZhZDIyMjgwNzhhMzE0MjU3MWExZjc4YTRmODQ5ODc2MDQ2`

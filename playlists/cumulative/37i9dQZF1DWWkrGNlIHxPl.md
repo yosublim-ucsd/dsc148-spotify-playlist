@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Faouzia
+> Global crossovers by/with Arab artists\. Cover: Majid Jordan
 
-310 songs - 17 hr 11 min
+311 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Nails](https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nails](https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT) | 2:55 | 2023-06-02 |  |
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-02-22 |  |
 | [Nasty Remix ft Saint Levant](https://open.spotify.com/track/6ONNprntoihbrQMFkNUPlO) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nasty Remix ft Saint Levant](https://open.spotify.com/album/0RtZh2OWBGwidoGGZ221GM) | 2:50 | 2023-04-27 |  |
-| [Needless](https://open.spotify.com/track/0jg7Ae67TGs8uDFhsW6Xri) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Needless](https://open.spotify.com/album/2VwLQ9E20MkOMiPFY7DruA) | 2:16 | 2023-09-19 |  |
+| [Needless](https://open.spotify.com/track/0jg7Ae67TGs8uDFhsW6Xri) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Needless](https://open.spotify.com/album/2VwLQ9E20MkOMiPFY7DruA) | 2:16 | 2023-09-19 | 2023-10-28 |
 | [Neighborhood](https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Neighborhood](https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf) | 2:48 | 2022-02-03 | 2022-12-08 |
 | [Never Last](https://open.spotify.com/track/7Aoqpwlh9Sgc0bQDx5R1U4) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [A'Y](https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj) | [Never Last](https://open.spotify.com/album/4EX4DGxYcU5nlDUPvlitUx) | 2:46 | 2023-09-06 |  |
 | [New Era](https://open.spotify.com/track/0V5wxdRtOGkvTDV8r6aUnq) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [New Era](https://open.spotify.com/album/1KkYvkaccUSlh19UBjfkRJ) | 2:43 | 2023-02-25 | 2023-05-27 |
@@ -293,6 +293,7 @@
 | [Us Against the World](https://open.spotify.com/track/4kic2zBTI9CWmtEfYsyOf6) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Us Against the World](https://open.spotify.com/album/3HEULxDbM2NTlTKZwogrpP) | 3:41 | 2021-12-16 | 2022-11-20 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-11-19 | 2023-03-09 |
 | [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 | 2023-03-07 | 2023-06-03 |
+| [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 | 2023-10-27 |  |
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2022-06-06 | 2022-06-24 |
 | [wait for you](https://open.spotify.com/track/1akQuVQVB4rPIjL6rs9fGb) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2), [Elena Hinnawi](https://open.spotify.com/artist/1ePydjBu3VYrPFNsUtOdoM) | [wait for you](https://open.spotify.com/album/5g079RFaVNf5fN2kn4wh2X) | 3:24 | 2022-10-27 | 2022-12-08 |
 | [Want You Back](https://open.spotify.com/track/5EqLtvftHcTbsmoPW2EmX0) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Want You Back](https://open.spotify.com/album/3KbBdkPsUi15Sp9C929MdP) | 2:15 | 2022-05-26 | 2022-12-08 |

@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Buarque",
-  "num_followers": 345339,
+  "num_followers": 345401,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzYwZDdmYzQxZWQ3ZjFjMGI5ZjgxMTQwMTYxZmJiOTk1YTA0ZjRj",
+  "snapshot_id": "MCxiYTc2NTBkOWI1NGFhNGU2MTMxMDNmNmJhYjA3YmEwNWMxZDRjYzFl",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Sonhos & Ilus\u00f5es (acoustic)",
+        "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Sonhos & Ilus\u00f5es - acoustic",
+      "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -787,26 +807,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Sonhos & Ilus\u00f5es (acoustic)",
-        "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Sonhos & Ilus\u00f5es - acoustic",
-      "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Caravana Sair\u00e9",
         "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 240834,
       "name": "Lembran\u00e7a de um Beijo",
       "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "alma doce",
-        "url": "https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 169915,
-      "name": "o sabi\u00e1 e a lua",
-      "url": "https://open.spotify.com/track/0dEaMNjKjyLxY17M4lG1b9"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -855,6 +839,22 @@
       "duration_ms": 163426,
       "name": "Faz Parte Do Meu Show",
       "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "alma doce",
+        "url": "https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 169915,
+      "name": "o sabi\u00e1 e a lua",
+      "url": "https://open.spotify.com/track/0dEaMNjKjyLxY17M4lG1b9"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "coisa mais bonita",
+        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 176103,
+      "name": "coisa mais bonita",
+      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
@@ -1099,6 +1115,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Esse Amor Chegou",
+        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 152801,
+      "name": "Esse Amor Chegou",
+      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Nascedouro",
         "url": "https://open.spotify.com/album/5zY0QtFtAAxBlulHW7cadg"
       },
@@ -1115,22 +1147,6 @@
       "duration_ms": 200707,
       "name": "Nascedouro",
       "url": "https://open.spotify.com/track/0zYLUIY3Snbs5NveQwsZzr"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Esse Amor Chegou",
-        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 152801,
-      "name": "Esse Amor Chegou",
-      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1235,22 +1251,6 @@
       "duration_ms": 249411,
       "name": "Carnavil\u00e3",
       "url": "https://open.spotify.com/track/3ZwxCLm9NO4DHraGWleIpc"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "coisa mais bonita",
-        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 176103,
-      "name": "coisa mais bonita",
-      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Lusco-Fusco",
-        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
-      },
-      "artists": [
-        {
-          "name": "Assucena",
-          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
-        }
-      ],
-      "duration_ms": 272842,
-      "name": "Reluzente",
-      "url": "https://open.spotify.com/track/2UeumKHIIwlHuZS09znv0P"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Pra lhe Dizer",
         "url": "https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 290141,
       "name": "Pra lhe Dizer",
       "url": "https://open.spotify.com/track/2wmLzpkFjqwVNXrAck7i5D"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Lusco-Fusco",
+        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        }
+      ],
+      "duration_ms": 272842,
+      "name": "Reluzente",
+      "url": "https://open.spotify.com/track/2UeumKHIIwlHuZS09znv0P"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Um Pescador",
-        "url": "https://open.spotify.com/album/0wWTuO6mnmsc1vhol4Gugn"
-      },
-      "artists": [
-        {
-          "name": "Os Fugitivos",
-          "url": "https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Um Pescador",
-      "url": "https://open.spotify.com/track/5DBVaJ9xCQ5cyRV02s0IF9"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "PEDRO PASCUAL",
         "url": "https://open.spotify.com/album/7ERxJxap9tA4xBAQhmiKs5"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 191043,
       "name": "Ontem, Hoje e Amanh\u00e3",
       "url": "https://open.spotify.com/track/29Ecov9FcydQR4VDr6GYso"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Um Pescador",
+        "url": "https://open.spotify.com/album/0wWTuO6mnmsc1vhol4Gugn"
+      },
+      "artists": [
+        {
+          "name": "Os Fugitivos",
+          "url": "https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Um Pescador",
+      "url": "https://open.spotify.com/track/5DBVaJ9xCQ5cyRV02s0IF9"
     },
     {
       "added_at": "2023-10-20 03:00:00",

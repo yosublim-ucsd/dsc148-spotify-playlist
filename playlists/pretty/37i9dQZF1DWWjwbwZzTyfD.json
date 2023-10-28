@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack of Nike's NYvsNY, curated by the players. We Outside!",
-  "num_followers": 11354,
+  "num_followers": 11357,
   "original_name": "NYvsNY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWZhODBlNzZmNDA2OWM1M2YzNzczZGFiYWIxY2YyMDkzNmI2MmQ1",
+  "snapshot_id": "MCwzM2ViMWRmZGViYjhkZGM5MDI2ZjRmYWMxZGEwZDFlNjI4OWYzNjlk",
   "tracks": [
     {
       "added_at": "2023-07-10 21:55:04",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "i am > i was",
         "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 288624,
       "name": "a lot",
       "url": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Artist 2.0 (Deluxe)",
-        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 133331,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 299613,
       "name": "All Of The Lights",
       "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 133331,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 143226,
+      "name": "Playing Games (with Bryson Tiller) - Extended Version",
+      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 241160,
       "name": "Power Trip (feat. Miguel)",
       "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 143226,
-      "name": "Playing Games (with Bryson Tiller) - Extended Version",
-      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s"
     },
     {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 179449,
-      "name": "Look Back at It",
-      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
-    },
-    {
       "added_at": "2023-07-10 21:55:04",
       "album": {
         "name": "Who Told You (feat. Drake)",
@@ -899,22 +883,6 @@
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 211496,
-      "name": "Love Yourz",
-      "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -939,6 +907,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 179449,
+      "name": "Look Back at It",
+      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "The D.O.A. Tape",
         "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
       },
@@ -951,6 +935,38 @@
       "duration_ms": 113600,
       "name": "PSA",
       "url": "https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "AI YoungBoy 2",
+        "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 148629,
+      "name": "Make No Sense",
+      "url": "https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 211496,
+      "name": "Love Yourz",
+      "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -971,22 +987,6 @@
       "duration_ms": 203813,
       "name": "Peaches & Eggplants (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "AI YoungBoy 2",
-        "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 148629,
-      "name": "Make No Sense",
-      "url": "https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Artist",
-        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 174192,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/5uZm7EFtP5aoTJvx5gv9Xf"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 196204,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 174192,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/5uZm7EFtP5aoTJvx5gv9Xf"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "CALL DA FIREMAN",
-        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN",
-      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Drama (feat. Drake) [Sped Up]",
         "url": "https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 251859,
       "name": "Drama (feat. Drake)",
       "url": "https://open.spotify.com/track/232jKM7OzWMfuwHyf9r3dX"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN",
+      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 209811,
-      "name": "Tomorrow 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 157619,
       "name": "Weight On Me",
       "url": "https://open.spotify.com/track/6A4hgJdwriera4WSUl4moW"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt"
     },
     {
-      "added_at": "2023-07-10 21:55:04",
-      "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
-      },
-      "artists": [
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Talibans",
-      "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
-    },
-    {
       "added_at": "2023-06-27 06:48:40",
       "album": {
         "name": "Richest Opp",
@@ -1583,6 +1567,22 @@
       "duration_ms": 185117,
       "name": "Bitch Let's Do It",
       "url": "https://open.spotify.com/track/3EN9CgupFLmuwmHYUPq0ny"
+    },
+    {
+      "added_at": "2023-07-10 21:55:04",
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Talibans",
+      "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
     },
     {
       "added_at": "2023-06-27 06:48:40",

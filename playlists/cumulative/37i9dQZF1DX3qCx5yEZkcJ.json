@@ -4696,7 +4696,7 @@
     {
       "album": {
         "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/5ZsS71c790zjzt30CeDCOQ"
+        "url": "https://open.spotify.com/album/0xVnErhgvvQcM49B27Gccc"
       },
       "artists": [
         {
@@ -4707,6 +4707,24 @@
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 132743,
+      "name": "Lazy Days",
+      "url": "https://open.spotify.com/track/4YHYqslCkAXAe0a8AfEBUc"
+    },
+    {
+      "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/5ZsS71c790zjzt30CeDCOQ"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-28",
       "duration_ms": 132743,
       "name": "Lazy Days",
       "url": "https://open.spotify.com/track/6LtIELSxjBVXOCPJwicGvP"

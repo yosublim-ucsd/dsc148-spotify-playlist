@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: NOVELISTS",
-  "num_followers": 649301,
+  "num_followers": 649348,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2Q5N2EyODhmYzRjNjZiMTMyNjZmMDAyNTA3NDkzMmYwZDQ0MWZk",
+  "snapshot_id": "MCwwZmUwZmQwYzFmYjRjOWY0ZGNlN2Y5NGMxOGViMjI1ODQ2NWM4M2E0",
   "tracks": [
     {
       "added_at": "2023-09-15 12:26:41",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "Bang Ya Head",
         "url": "https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 216280,
       "name": "Bang Ya Head (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "I Wish A Bitch Would",
-        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
-      },
-      "artists": [
-        {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
-        }
-      ],
-      "duration_ms": 206617,
-      "name": "I Wish A Bitch Would",
-      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Do It So Good",
-        "url": "https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Do It So Good",
-      "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "welcome2paradise",
         "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 286941,
       "name": "welcome2paradise",
       "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Do It So Good",
+        "url": "https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Do It So Good",
+      "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "weapon",
         "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 197209,
       "name": "weapon",
       "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Handshake with Hell",
-        "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 338960,
-      "name": "Handshake with Hell",
-      "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -803,34 +803,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+        "name": "Handshake with Hell",
+        "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
       },
       "artists": [
         {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Bottom of a Bottle",
-        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "Bottom of a Bottle",
-      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
+      "duration_ms": 338960,
+      "name": "Handshake with Hell",
+      "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -847,6 +831,22 @@
       "duration_ms": 127383,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Bottom of a Bottle",
+        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 237115,
+      "name": "Atonement",
+      "url": "https://open.spotify.com/track/1IcUvKPxQSbGCL4fhf0oaK"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 192919,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 237115,
-      "name": "Atonement",
-      "url": "https://open.spotify.com/track/1IcUvKPxQSbGCL4fhf0oaK"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Sunset over the Empire",
-        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 243080,
-      "name": "Sunset over the Empire",
-      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Stigmata Itch",
         "url": "https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 217173,
       "name": "Colossvs",
       "url": "https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Sunset over the Empire",
+        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Brat",
-        "url": "https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3"
-      },
-      "artists": [
-        {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
-        }
-      ],
-      "duration_ms": 186601,
-      "name": "Brat",
-      "url": "https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Reeling",
         "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Brat",
+        "url": "https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 186601,
+      "name": "Brat",
+      "url": "https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "EAT IT UP SPIT IT OUT",
         "url": "https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 165282,
       "name": "21ST CENTURY BITCH",
       "url": "https://open.spotify.com/track/2car32KMDF9AbUTbRYq5q4"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "BEAVER CAGE",
-        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 218487,
-      "name": "BEAVER CAGE",
-      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "BEAVER CAGE",
+        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 218487,
+      "name": "BEAVER CAGE",
+      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "Ghost Myself",
         "url": "https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Sleeping with the Enemy",
-        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 212927,
-      "name": "Sleeping with the Enemy",
-      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Salma Hayek",
         "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 351354,
       "name": "METAL KINGDOM",
       "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 136156,
+      "name": "molotov [OK]",
+      "url": "https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO"
     }
   ],
   "unique_name": "Heavy Queens",

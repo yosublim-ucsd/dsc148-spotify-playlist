@@ -1,12 +1,12 @@
 {
   "description": "Se prendi\u00f3 la fiesta, featuring Marc Anthony.",
-  "num_followers": 78618,
+  "num_followers": 78678,
   "original_name": "SABOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmQ5YzA2ZTk5OGU1NTdlZDUxMDJmMzdlMmRhZDZmZWU3Y2MxYTZi",
+  "snapshot_id": "MCxiZTZhMmVhNTE0YjAyYzEwM2FlZGM0YzkyMTI2ZjE4MjIzNmQyNDY2",
   "tracks": [
     {
       "added_at": "2023-10-19 19:26:06",
@@ -671,22 +671,18 @@
     {
       "added_at": "2023-10-19 19:26:06",
       "album": {
-        "name": "Lo Mato",
-        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 328786,
-      "name": "El D\u00eda De Mi Suerte",
-      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
+      "duration_ms": 289466,
+      "name": "Vali\u00f3 la Pena - Salsa Version",
+      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
     },
     {
       "added_at": "2023-10-19 19:26:06",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-10-19 19:26:06",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 289466,
-      "name": "Vali\u00f3 la Pena - Salsa Version",
-      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
+      "duration_ms": 328786,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
     },
     {
       "added_at": "2023-10-19 19:26:06",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-10-19 19:26:06",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "DJ Conds",
-          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
-        }
-      ],
-      "duration_ms": 237900,
-      "name": "La Historia",
-      "url": "https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ"
-    },
-    {
-      "added_at": "2023-10-19 19:26:06",
-      "album": {
         "name": "Los Vaqueros: La Trilog\u00eda",
         "url": "https://open.spotify.com/album/7vUJAdvDYXhjf1p0P2yIxh"
       },
@@ -799,18 +779,22 @@
     {
       "added_at": "2023-10-19 19:26:06",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
         }
       ],
-      "duration_ms": 309586,
-      "name": "Ahora Quien - Salsa Version",
-      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
+      "duration_ms": 237900,
+      "name": "La Historia",
+      "url": "https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ"
     },
     {
       "added_at": "2023-10-19 19:26:06",
@@ -827,6 +811,22 @@
       "duration_ms": 230186,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy"
+    },
+    {
+      "added_at": "2023-10-19 19:26:06",
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 309586,
+      "name": "Ahora Quien - Salsa Version",
+      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
     },
     {
       "added_at": "2023-10-19 19:26:06",

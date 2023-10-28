@@ -1,12 +1,12 @@
 {
   "description": "Revive los incre\u00edbles momentos que presenciaste en el festival mientras escuchas esta playlist.",
-  "num_followers": 149973,
+  "num_followers": 149987,
   "original_name": "Corona Capital Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjY4M2VlYTY2MmEzZjgyZGQ4ZDUwNWVkM2JhZWZjY2FhMTNlNGZj",
+  "snapshot_id": "MCwxZThiOGEwYjFlOTc3Zjc0M2Q3YjA1ODQ3MzYzZTMwODE0YjhmOTk2",
   "tracks": [
     {
       "added_at": "2021-11-17 20:37:43",
@@ -583,8 +583,8 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "added_at": "2021-11-17 20:37:43",
@@ -747,8 +747,8 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
       "added_at": "2021-11-17 20:37:43",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
         "name": "Escapology",
         "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 263866,
       "name": "Feel",
       "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
     },
     {
       "added_at": "2021-11-17 20:37:43",

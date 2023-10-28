@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 178714,
       "name": "El Barto",
       "url": "https://open.spotify.com/track/5HiMjc8jz0OeTnUQgp15FP"
@@ -5580,6 +5580,24 @@
       "duration_ms": 200000,
       "name": "F\u00dcGG\u0150",
       "url": "https://open.spotify.com/track/2zzQFIe6kZ53LffgplVLSd"
+    },
+    {
+      "album": {
+        "name": "Gang John Lennon",
+        "url": "https://open.spotify.com/album/5eSw3gDhm21MWhUHE1ffM8"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161176,
+      "name": "Gang John Lennon",
+      "url": "https://open.spotify.com/track/1IP0VEcQ1FC4ruwDR9OK15"
     },
     {
       "album": {
@@ -11964,7 +11982,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 198817,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP"
@@ -16560,6 +16578,24 @@
       "duration_ms": 255377,
       "name": "United In Grief",
       "url": "https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx"
+    },
+    {
+      "album": {
+        "name": "unom (\u00c9l\u0151)",
+        "url": "https://open.spotify.com/album/5I0hrfHM6eBpVFHeJDgipc"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337651,
+      "name": "unom - \u00c9l\u0151",
+      "url": "https://open.spotify.com/track/5iJMWfIWcL4fiYbK0SvkXg"
     },
     {
       "album": {

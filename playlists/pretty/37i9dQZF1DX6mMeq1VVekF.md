@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Sainte & Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,824 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,875 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 36 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 | 37 | [I Heard](https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 3:03 |
 | 38 | [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 |
-| 39 | [Lotto](https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Lotto](https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ) | 3:05 |
-| 40 | [Right Hand](https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Right Hand](https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq) | 2:45 |
+| 39 | [Right Hand](https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Right Hand](https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq) | 2:45 |
+| 40 | [Lotto](https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Lotto](https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ) | 3:05 |
 | 41 | [24's](https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [24's](https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP) | 2:46 |
 | 42 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 |
 | 43 | [Celine](https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Celine](https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc) | 3:13 |
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 45 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 |
 | 46 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
 | 47 | [Impeccable Timing](https://open.spotify.com/track/3Kac9sBRWeroIIYJvam3Nr) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Impeccable Timing](https://open.spotify.com/album/4aLSpyp3qEYQ7DhqGkLpq0) | 3:44 |
-| 48 | [SIMMER DOWN](https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 2:58 |
-| 49 | [Rainforest](https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3) | 2:42 |
+| 48 | [Rainforest](https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3) | 2:42 |
+| 49 | [SIMMER DOWN](https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 2:58 |
 | 50 | [SUMO](https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [SUMO](https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM) | 3:00 |
 | 51 | [Leon the Professional](https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Leon the Professional](https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l) | 3:01 |
 | 52 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
 | 53 | [terms \(feat\. Dominic Fike & Denzel Curry\)](https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 3:12 |
 | 54 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
-| 55 | [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 |
-| 56 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
+| 55 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
+| 56 | [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 |
 | 57 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 |
 | 58 | [Eye for an Eye](https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk) | [Benny Banks](https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg) | [Eye for an Eye](https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7) | 4:10 |
 | 59 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
 | 60 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 |
 
-Snapshot ID: `MCwxN2FlMmNhM2Y1YjUxNTdiZmRiZGZiYWU5NzQ4YzRlNTYyOTk4NGMz`
+Snapshot ID: `MCwzNGY5MjBjYWJiMGMzMGY5MzkxZWQwYjJhMjM1NjU4ZTdlNzdlMjNk`

@@ -4,7 +4,7 @@
 
 > Get the drinks on ice, this one is on us
 
-181 songs - 9 hr 6 min
+182 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [HISTORY](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [HISTORY](https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78) | 2:56 | 2023-04-18 | 2023-07-19 |
 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 | 2023-08-22 | 2023-09-06 |
 | [Hold This](https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0) | [HStikkytokky](https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Hold This](https://open.spotify.com/album/242dSF54Qx1DKFwmHLGUGA) | 2:25 | 2023-04-18 | 2023-05-31 |
-| [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2023-04-18 |  |
+| [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2023-04-18 | 2023-10-28 |
+| [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 | 2023-09-08 |  |
 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 | 2023-04-18 | 2023-07-01 |
 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 | 2023-05-30 |  |
 | [I Remember \- John Summit Remix](https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [I Remember \(John Summit Remix\)](https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a) | 4:00 | 2023-08-22 | 2023-09-06 |

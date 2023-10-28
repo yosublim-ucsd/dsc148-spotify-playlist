@@ -1380,6 +1380,32 @@
     {
       "album": {
         "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/0sMsffrWHZtGjJxqddnYYk"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        },
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192602,
+      "name": "I\u2019ll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/6FDpC7jYsfAxQsccFr3dDI"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
       },
       "artists": [
@@ -1398,7 +1424,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 192602,
       "name": "I\u2019ll Be Home For Christmas [Feat. Chris Botti]",
       "url": "https://open.spotify.com/track/12lRZiKVMZr9e5xgX66U8w"
@@ -1424,6 +1450,28 @@
     {
       "album": {
         "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/0sMsffrWHZtGjJxqddnYYk"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140765,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/05HTtoqncuXTnj0CyYPLSH"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
       },
       "artists": [
@@ -1438,7 +1486,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 140765,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/2Txst52kJxfvQjVgbCcE2N"
@@ -2630,6 +2678,28 @@
       "duration_ms": 229853,
       "name": "We Wish You A Merry Christmas",
       "url": "https://open.spotify.com/track/7ymP6bi2ufhArxKbxUkGkf"
+    },
+    {
+      "album": {
+        "name": "We Wish You The Merriest",
+        "url": "https://open.spotify.com/album/4ysE4YdybaD1lNHcPBSCkY"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Liz Gillies",
+          "url": "https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146191,
+      "name": "We Wish You The Merriest",
+      "url": "https://open.spotify.com/track/6ImuFqEAZf9dkpuYahSr0K"
     },
     {
       "album": {

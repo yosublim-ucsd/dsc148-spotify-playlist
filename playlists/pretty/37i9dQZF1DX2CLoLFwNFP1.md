@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,540 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,570 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 88 | [Yacht \(feat\. Vic Mensa\)](https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:18 |
 | 89 | [RUN IT](https://open.spotify.com/track/3sznlAy0sce8la6GVzhnKU) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [RUN IT](https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c) | 3:11 |
 | 90 | [REBORN](https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [REBORN](https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq) | 3:55 |
-| 91 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
-| 92 | [World Domination](https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [H1GHR : RED TAPE](https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT) | 3:42 |
+| 91 | [World Domination](https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [H1GHR : RED TAPE](https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT) | 3:42 |
+| 92 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
 | 93 | [I Got This](https://open.spotify.com/track/5IQhpdzUUxk3WngtnrXv2P) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:46 |
 | 94 | [Feng Shui \(Prod\. by Cha Cha Malone\)](https://open.spotify.com/track/5aZPGYGzyrVyy9oYAE9dPZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [The Road Less Traveled](https://open.spotify.com/album/0CgsDZhPdu4n0TMkTFcCLl) | 3:13 |
 | 95 | [Yummy \(Prod\. by Cha Cha Malone\)](https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Nothing Matters](https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Alone Tonight \(Feat\. Sik\-K\)](https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:11 |
 | 100 | [WORLDWIDE](https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 6:02 |
 
-Snapshot ID: `MCxiNGM1NTM1MDdjZGVmMjM0OWNkNDc5ZmI0YzdiNDhkM2NiMzI3M2Vl`
+Snapshot ID: `MCwzYmJiZmQ3N2I5NWQ2NTA4ZjAyYzlhZTBhNTZkNWE5NmI2MGQzZjdh`

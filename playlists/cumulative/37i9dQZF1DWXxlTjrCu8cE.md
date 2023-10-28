@@ -4,7 +4,7 @@
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2022
 
-149 songs - 8 hr 11 min
+150 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Pacote Completo \- Ao Vivo](https://open.spotify.com/track/24jcjW1en6iWOIRPysbbD3) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Close Friends \(Ao Vivo\)](https://open.spotify.com/album/0JDiWK0YzOeg45K86BLY8S) | 2:35 | 2022-11-30 |  |
 | [Pede Pra God \- Ao Vivo](https://open.spotify.com/track/0WLtJoVhlPPZ9zdFBgjWiI) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Pede Pra God \(Ao Vivo\)](https://open.spotify.com/album/2BKGmONs2ezQ8eYS8KJJn1) | 2:46 | 2022-11-30 |  |
 | [Pela Última Vez \- Ao Vivo](https://open.spotify.com/track/2oXJFYMQZKRU3CdWHV2fHN) | [Davizinho](https://open.spotify.com/artist/0leY58CMUMTPeBsj4wT74R) | [Pela Última Vez \(Ao Vivo\)](https://open.spotify.com/album/693gdgaYRDFttiYA3WHuue) | 3:15 | 2022-11-30 |  |
-| [Pensando Em Nós Dois](https://open.spotify.com/track/1kak3tKcHTQGqV5IaV7dup) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Pensando Em Nós Dois](https://open.spotify.com/album/1S83eAHHYicWwgzJ4EKYQ0) | 2:59 | 2022-11-30 |  |
+| [Pensando Em Nós Dois](https://open.spotify.com/track/1kak3tKcHTQGqV5IaV7dup) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Pensando Em Nós Dois](https://open.spotify.com/album/1S83eAHHYicWwgzJ4EKYQ0) | 2:59 | 2022-11-30 | 2023-10-28 |
+| [Pensando em Nós Dois \- Ao Vivo](https://open.spotify.com/track/53sYs716ml8mbGzFkmayNy) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Pensando em Nós Dois \(Ao Vivo\)](https://open.spotify.com/album/6kx0St9LB89PCuB2saQ4e2) | 2:59 | 2022-11-30 |  |
 | [Play Date](https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 2:59 | 2021-11-30 | 2022-05-31 |
 | [Posturada \- Ao Vivo](https://open.spotify.com/track/7EaVareROxLwkLAsQ5iqrt) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Posturada \(Ao Vivo\)](https://open.spotify.com/album/51llvmVtkWl0frJYq2vvjz) | 3:34 | 2022-11-30 |  |
 | [Preciso Te Beijar](https://open.spotify.com/track/0ARV75EygrKJStPLGJ4Y5b) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0) | [Preciso Te Beijar](https://open.spotify.com/album/3wUvmwrDEwcNZ1qHzun5KU) | 2:48 | 2022-11-30 |  |

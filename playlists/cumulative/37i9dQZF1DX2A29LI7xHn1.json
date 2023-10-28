@@ -1768,7 +1768,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 175099,
       "name": "Bongos (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
@@ -2700,7 +2700,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 232800,
       "name": "Creepin' (feat. 21 Savage) - Remix",
       "url": "https://open.spotify.com/track/5Ee4IyhPaOVRMc15fUOeG9"
@@ -4342,7 +4342,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 165517,
       "name": "Flashy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
@@ -4528,7 +4528,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 199666,
       "name": "FREAKY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk"
@@ -5093,6 +5093,32 @@
     },
     {
       "album": {
+        "name": "Gorgeous Remix (feat. City Girls)",
+        "url": "https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214468,
+      "name": "Gorgeous Remix (feat. City Girls)",
+      "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
+    },
+    {
+      "album": {
         "name": "Gotta Move On (feat. Bryson Tiller)",
         "url": "https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ"
       },
@@ -5576,7 +5602,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 227184,
       "name": "Hope You Know",
       "url": "https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql"
@@ -7069,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167833,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
+    },
+    {
+      "album": {
         "name": "LONDON (feat. J. Cole)",
         "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
       },
@@ -7150,6 +7194,24 @@
       "duration_ms": 189760,
       "name": "Look At Me (feat. Eli Fross)",
       "url": "https://open.spotify.com/track/7CeYVvF20e0yCImB9SHq1x"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
       "album": {
@@ -7330,6 +7392,24 @@
       "duration_ms": 243189,
       "name": "Loyal To A Fault (feat. Bryson Tiller, Lil Durk)",
       "url": "https://open.spotify.com/track/6QTTPp4rzMqcbWWzgrGf9c"
+    },
+    {
+      "album": {
+        "name": "LUKAKU",
+        "url": "https://open.spotify.com/album/7lpuhgbGLM74uXB0Wt1tUg"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136267,
+      "name": "LUKAKU",
+      "url": "https://open.spotify.com/track/6SyxWg5jvCZe5brD3dNL1q"
     },
     {
       "album": {
@@ -7650,6 +7730,24 @@
       "duration_ms": 119015,
       "name": "Mmhmm",
       "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "album": {
@@ -9540,7 +9638,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 137907,
       "name": "Pretty Girl (with Rema)",
       "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
@@ -10038,7 +10136,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
@@ -10486,6 +10584,28 @@
       "duration_ms": 186122,
       "name": "Say Lady",
       "url": "https://open.spotify.com/track/0DxmOT2FElosMIw0LHerwC"
+    },
+    {
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "SAY MY GRACE (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
     },
     {
       "album": {
@@ -10998,6 +11118,24 @@
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
+    {
+      "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5FoMKRPTtYoi072HZqy88d"
+      },
+      "artists": [
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134325,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/0jRiVMnGBnuyXQsIVwbDSK"
     },
     {
       "album": {
@@ -13381,6 +13519,24 @@
     },
     {
       "album": {
+        "name": "WE SEE YOU",
+        "url": "https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "WE SEE YOU",
+      "url": "https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ"
+    },
+    {
+      "album": {
         "name": "West Coast Weekend",
         "url": "https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25"
       },
@@ -13856,7 +14012,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184206,
       "name": "You (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Vt0NNEPzWCVwEkNYF2HQn"

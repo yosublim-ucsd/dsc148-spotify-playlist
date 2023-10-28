@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Leo
 
-156 songs - 10 hr 28 min
+157 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 | 2021-11-29 | 2023-02-22 |
 | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/6rJhjykEkCqm3H64uALhhf) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Bujji \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3jTx8LYOYIO0cRZDlS1uPx) | 4:27 | 2021-11-29 | 2022-06-21 |
 | [Bullet Song](https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/6Q5BlmKZZMqkilmi40Sta2) | 3:57 | 2022-04-22 |  |
+| [Chella Kalliye \- From "Parking"](https://open.spotify.com/track/6KctZtJFvoYChGiMhi1Ieu) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Chella Kalliye \(From "Parking"\)](https://open.spotify.com/album/2lWqcLb1MK8zPxaoxrNHd1) | 3:28 | 2023-10-27 |  |
 | [Cute Ponnu](https://open.spotify.com/track/1Bpvh9xYlcxHkWJMQuiNiA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD) | [Cute Ponnu \(From "Enna Solla Pogirai"\)](https://open.spotify.com/album/7fVDf5Unepx5UYSruu3xWw) | 4:35 | 2021-11-29 | 2023-02-22 |
 | [Dhada Dhada](https://open.spotify.com/track/0hvh7UTvtucrG3GE7Hz2AF) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/6T16NSY4Djby3ggU3zd2vE) | 4:06 | 2022-06-04 | 2022-08-08 |
 | [Edho Solla \(From "Murungakkai Chips"\)](https://open.spotify.com/track/61cO5mTOB2RQ5Kp03sNm3E) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Edho Solla \(From "Murungakkai Chips"\)](https://open.spotify.com/album/6IY7I0TUaDMbrGxlm55Vpf) | 5:02 | 2021-11-29 | 2022-06-21 |

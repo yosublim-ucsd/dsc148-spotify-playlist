@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Orodembow & 0-600 en la casa del Trap Argentino.",
+  "description": "Rei & YSY A en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 170787,
       "name": "Coron\u00e9",
       "url": "https://open.spotify.com/track/6h22JGTLtV29j7sXmtB2ii"
@@ -1803,6 +1803,28 @@
     },
     {
       "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145449,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/7CaBbXaR1sTf5OJKRQFRj6"
+    },
+    {
+      "album": {
         "name": "HECHO A MANO",
         "url": "https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU"
       },
@@ -1902,6 +1924,24 @@
       "duration_ms": 210937,
       "name": "GELATO",
       "url": "https://open.spotify.com/track/7Go3Ftz3ogFCeuy7PIO6Su"
+    },
+    {
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Gitano y Sincero",
+      "url": "https://open.spotify.com/track/0ShZK7fs8W5O1NqgzB1kBQ"
     },
     {
       "album": {
@@ -4254,6 +4294,28 @@
       "duration_ms": 120058,
       "name": "Si Viene",
       "url": "https://open.spotify.com/track/1zgsPCOjI8mo5ppsYRwgLO"
+    },
+    {
+      "album": {
+        "name": "Sin Berret\u00edn",
+        "url": "https://open.spotify.com/album/1JCKngBmpkr0FJ1AJ8zHXf"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142344,
+      "name": "Sin Berret\u00edn",
+      "url": "https://open.spotify.com/track/2Lc0gZjqHoK3dWYdxExKoL"
     },
     {
       "album": {

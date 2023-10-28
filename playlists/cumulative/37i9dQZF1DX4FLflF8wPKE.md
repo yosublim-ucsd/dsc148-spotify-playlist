@@ -4,7 +4,7 @@
 
 > Relax and escape with these tranquil tracks.
 
-112 songs - 7 hr 17 min
+113 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Dappled Light](https://open.spotify.com/track/5bhbv1xIbk0SbfQ2MEXe8F) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [Howard: Dappled Light](https://open.spotify.com/album/7GuRclIncpIaFUj7MZJGlF) | 4:11 | 2021-07-07 |  |
 | [De Visée / Transcr\. Garcia: Pièces de théorbe et de luth, Suite en la mineur: IV\. Sarabande](https://open.spotify.com/track/5SFdpYdc4uDqkQqW7UzSqB) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Thibaut García](https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t) | [Aranjuez](https://open.spotify.com/album/2K6XjvDKO2HTCDqGZkph9e) | 2:14 | 2021-07-07 |  |
 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 | 2021-07-07 |  |
-| [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 | 2023-01-30 |  |
+| [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 | 2023-01-30 | 2023-10-28 |
+| [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 | 2023-03-20 |  |
 | [Eight Part Songs, Op\. 115: III\. The Blue Bird](https://open.spotify.com/track/3OueD83BFjh2lCyhuEpXVF) | [Charles Villiers Stanford](https://open.spotify.com/artist/1g5nZfwrmjGs2wLKi3XHk2), [National Youth Choir Of Great Britain](https://open.spotify.com/artist/3G9OQrxIMNUgdBqb8NtkWG), [Bethany Partridge](https://open.spotify.com/artist/3TueBQ9Z69MBAVVkEgFJV9), [Christopher Hann](https://open.spotify.com/artist/45j3L11zEidMvunNXClvHi) | [The Blue Bird](https://open.spotify.com/album/4CHtvI2IRAiyD0BZDRaB6m) | 3:56 | 2021-07-07 |  |
 | [El cant dels ocells \(Song of the Birds\) \(version for cello and orchestra\)](https://open.spotify.com/track/5k4Eagqnz3YKdMLjSSi0DD) | [Pablo Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Harriet Krijgh](https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP), [Deutsche Staatsphilharmonie Rheinland\-Pfalz](https://open.spotify.com/artist/2WFslyxlAJwH2al4xZztFW), [Gustavo Gimeno](https://open.spotify.com/artist/4neZeAHXeNMscSVJqEG7wY) | [Elegy](https://open.spotify.com/album/6ui6clzZVh0hYGcklqLBdy) | 3:49 | 2021-07-07 |  |
 | [En nacelle](https://open.spotify.com/track/0OG8MAiXcyIZd4Ol92zmk7) | [Henrique Oswald](https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW), [Sergio Monteiro](https://open.spotify.com/artist/5lDFX0OjZ7Ss9lFYn0J3G0) | [Oswald: Works for Piano](https://open.spotify.com/album/05lkyoohP6mkaYWtQRLfq1) | 2:45 | 2021-07-07 | 2022-07-29 |

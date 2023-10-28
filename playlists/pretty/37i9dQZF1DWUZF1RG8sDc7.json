@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 97710,
+  "num_followers": 97828,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmZjYmZkNmIyZGZkOGNkZjEzZWYyNjBlMTNjNzIzZjlhOTA5YWE4",
+  "snapshot_id": "MCxlMTJjNjdkZjZhNmNlNDFhYmVkODk0NzVjMmNiNGI4OTFjZTdkNTM4",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -791,22 +791,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Titulo De Amor",
-        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
+        "name": "Ave Libre",
+        "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "Jean Carlos Centeno",
+          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
         }
       ],
-      "duration_ms": 257373,
-      "name": "Mi Primera Cana",
-      "url": "https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI"
+      "duration_ms": 293440,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -851,18 +847,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Ave Libre",
-        "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
+        "name": "Titulo De Amor",
+        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
       },
       "artists": [
         {
-          "name": "Jean Carlos Centeno",
-          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 293440,
-      "name": "Lo Busqu\u00e9",
-      "url": "https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA"
+      "duration_ms": 257373,
+      "name": "Mi Primera Cana",
+      "url": "https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI"
     },
     {
       "added_at": "2022-12-16 20:17:47",

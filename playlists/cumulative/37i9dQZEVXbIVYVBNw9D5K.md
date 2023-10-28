@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-775 songs - 1 day 14 hr 55 min
+776 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Aferin](https://open.spotify.com/track/316cvDPqqrdY6P2hkaqaBl) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Aferin](https://open.spotify.com/album/0krm0Ax3FjSsNEfCSgSuWa) | 3:45 | 2023-04-22 | 2023-06-11 |
 | [Aferin](https://open.spotify.com/track/5SOegak5XOC2zNsKpq95Vb) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 3:45 | 2023-07-22 | 2023-07-25 |
 | [Affet Beni Sevgilim](https://open.spotify.com/track/7iPURFHXYLPT7vb5p3wLiz) | [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H), [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Affet Beni Sevgilim](https://open.spotify.com/album/4rhcrFJdCm5z8YnEO0Iqyp) | 2:46 | 2021-08-25 | 2022-04-03 |
-| [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 | 2023-01-15 |  |
+| [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 | 2023-01-15 | 2023-10-28 |
 | [Affettim](https://open.spotify.com/track/3lSuzS3jEkys1ZXw4tAcRR) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Affettim](https://open.spotify.com/album/5i6lQ4n7Fk4TgmXivjXc5Q) | 3:19 | 2022-01-15 | 2022-09-10 |
 | [Ah Canım Sevgilim \- Demo](https://open.spotify.com/track/5kpkEb0M49YM516trGUSWS) | [Rei 6](https://open.spotify.com/artist/2hiKZUSxd7c4Ab57KAQ3SW) | [Dibe İniyorum \(Demo\)](https://open.spotify.com/album/0rFC7uGCJIBQFnEBP5W2jd) | 3:10 | 2021-12-01 | 2023-03-05 |
 | [Ah Ellerim Kırılaydı](https://open.spotify.com/track/4D36ZNHfLE3joglWbDLn5X) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Ah Ellerim Kırılaydı](https://open.spotify.com/album/3MRK2TWYUJkpNZM8LmTIN5) | 3:00 | 2021-03-27\* | 2021-07-14 |
@@ -78,6 +78,7 @@
 | [Avaz Avaz](https://open.spotify.com/track/1bYbiK0GZbRoCw8S2nq4pw) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 2:22 | 2021-05-30 | 2021-05-31 |
 | [Aynen](https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Hermano](https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4) | 3:06 | 2023-05-07 | 2023-09-24 |
 | [Aynen Öyle](https://open.spotify.com/track/2AwLtOEK3qqZlYTPdBFhke) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Aynen Öyle](https://open.spotify.com/album/1Lp0ckfAeugrkLWr3zde68) | 2:33 | 2021-09-10 | 2022-01-23 |
+| [Ağlama ben ağlarım](https://open.spotify.com/track/0JU2QfhTrgFsVq5yQ4YQlu) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Ağlama ben ağlarım](https://open.spotify.com/album/3rgbFg9EMtHdzwrxibL6ha) | 3:11 | 2023-10-27 |  |
 | [Ağlattın](https://open.spotify.com/track/0MH7sKCOu2bk8RSbC6GAP7) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağlattın](https://open.spotify.com/album/4sruFA5F7yG1sYAs5lcI9z) | 3:00 | 2022-02-12 | 2022-04-13 |
 | [Ağlaya Ağlaya](https://open.spotify.com/track/6TnN1PLNMaIBvnUB8mdVT1) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ağlaya Ağlaya](https://open.spotify.com/album/7fm45WtDtRH4ucgurU9BW0) | 3:24 | 2022-11-08 | 2023-03-18 |
 | [AĞZI BOZUK](https://open.spotify.com/track/2Y2D4vvx4SMOYfQaxSZEQz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [AĞZI BOZUK](https://open.spotify.com/album/3v13HnGtldjB9MeHt9nwEN) | 2:06 | 2023-07-29 | 2023-08-06 |

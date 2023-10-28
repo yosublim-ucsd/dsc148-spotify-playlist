@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,253 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,296 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 11 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 |
 | 12 | [Brazos de Sol](https://open.spotify.com/track/60swUBt5uEqO1ix3kCQa7e) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Caín](https://open.spotify.com/album/2jgeDWVTL7oog1cn4QmWNM) | 3:50 |
 | 13 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
-| 14 | [No Soy De Aqui, Ni Soy De Alla](https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq) | [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx) | [Serie De Oro](https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy) | 3:44 |
-| 15 | [Entre Pairos y Derivas](https://open.spotify.com/track/4LJbG3BeyCXfFReENFdgq6) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Entre Pairos y Derivas](https://open.spotify.com/album/69ahm7UJ1KeryMY2yqhVGR) | 4:15 |
+| 14 | [Entre Pairos y Derivas](https://open.spotify.com/track/4LJbG3BeyCXfFReENFdgq6) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Entre Pairos y Derivas](https://open.spotify.com/album/69ahm7UJ1KeryMY2yqhVGR) | 4:15 |
+| 15 | [No Soy De Aqui, Ni Soy De Alla](https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq) | [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx) | [Serie De Oro](https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy) | 3:44 |
 | 16 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 |
 | 17 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
 | 18 | [Lo Niego Todo](https://open.spotify.com/track/6oV8HazS5rJB3jU3oPhYep) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp) | 4:41 |
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 73 | [Coincidir](https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P) | [Alberto Escobar](https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM) | [Coincidir](https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf) | 4:06 |
 | 74 | [De Vez en Cuando \- Acústica](https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Pavel Nuñez](https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN) | [De Vez en Cuando](https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc) | 4:13 |
 | 75 | [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 |
-| 76 | [Hasta Donde tu vayas](https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI) | [Tres de Copas](https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY) | [Tres De Copas](https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i) | 4:14 |
-| 77 | [Como la Nube Se Impone al Sol \(feat\. Pablo Milanés\)](https://open.spotify.com/track/75vEpGK92zNmo0wTsYgODZ) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Vamos a Bailar un Son \(Special Edition\)](https://open.spotify.com/album/0fJHl8bN8rprMMTLQkppdo) | 3:09 |
+| 76 | [Como la Nube Se Impone al Sol \(feat\. Pablo Milanés\)](https://open.spotify.com/track/75vEpGK92zNmo0wTsYgODZ) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Vamos a Bailar un Son \(Special Edition\)](https://open.spotify.com/album/0fJHl8bN8rprMMTLQkppdo) | 3:09 |
+| 77 | [Hasta Donde tu vayas](https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI) | [Tres de Copas](https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY) | [Tres De Copas](https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i) | 4:14 |
 | 78 | [Todo El Año](https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 4:00 |
 | 79 | [Encanto](https://open.spotify.com/track/0hJcXk3AyYjXzT88BsgNlP) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D) | [Encanto](https://open.spotify.com/album/0smFumIxHdTArp6Tsm0rhi) | 4:12 |
-| 80 | [Esther homenaje](https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO) | [Vicente Feliú](https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT) | [Vicente Feliú](https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX) | 3:21 |
-| 81 | [Márgenes](https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Arde Estocolmo](https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE) | 3:13 |
+| 80 | [Márgenes](https://open.spotify.com/track/0QSE0jxcnhvp0yfxCmAz6r) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Arde Estocolmo](https://open.spotify.com/album/2wj1Bn2fDfq5o7aQadrFPE) | 3:13 |
+| 81 | [Esther homenaje](https://open.spotify.com/track/2PAG1xqCniDbKzXhO0f2yO) | [Vicente Feliú](https://open.spotify.com/artist/0Z8Ef59XkEf7jnRvRIpshT) | [Vicente Feliú](https://open.spotify.com/album/4RxfaSazhSz83FbGHVvDaX) | 3:21 |
 | 82 | [Quizás una Flor](https://open.spotify.com/track/7H1ED0sczqO7nfmy9sGHEe) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [1978/1988](https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f) | 4:02 |
 | 83 | [Dentro de Mi](https://open.spotify.com/track/2qWT4vvbFcgsjWSmbMY4qX) | [Enrique Quezadas](https://open.spotify.com/artist/1MkyRRV3u7M1vb7LfkWiUP) | [Dentro de Mi](https://open.spotify.com/album/2j6jUidNIwLsbsZQVbf2Tw) | 4:55 |
 | 84 | [Noche Sin Fin y Mar](https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Noche Sin Fin y Mar](https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 99 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 100 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MCwwMTVmNTdlNmRmM2NiZDk5NDIzOTY1ZDUxNTA2MzI4MzQyYzAxZTJk`
+Snapshot ID: `MCxjMWNlYTc0OGYxOWUxMDVkNTkyMjUxM2JiMTJiNGU3MGNhY2FlMmU5`

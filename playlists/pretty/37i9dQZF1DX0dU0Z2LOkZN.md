@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,551 likes - 217 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,573 likes - 217 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 43 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 |
 | 44 | [Higher](https://open.spotify.com/track/646uaJeMJuuwKA5u769awi) | [Nuble](https://open.spotify.com/artist/2zBqV404liOJKn4DW0rYAa) | [Higher](https://open.spotify.com/album/4OJYXTQoqln2MHOuL91WCC) | 3:37 |
 | 45 | [Before Summer](https://open.spotify.com/track/1jnWjDA9rRION0bHhA6N51) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF) | [Last Summer](https://open.spotify.com/album/5YFuPF7T8Qf1Mln3HJydpX) | 2:47 |
-| 46 | [Well](https://open.spotify.com/track/5WzRXholxaxwcH3v1bpCTu) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) | [Well](https://open.spotify.com/album/6tSUcBr3i85gAHGCmDSpbC) | 2:41 |
+| 46 | [Well](https://open.spotify.com/track/5WzRXholxaxwcH3v1bpCTu) | [Christopher Jackson](https://open.spotify.com/artist/7BviJNSMMXwqqeMtzuO5mw) | [Well](https://open.spotify.com/album/6tSUcBr3i85gAHGCmDSpbC) | 2:41 |
 | 47 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 |
 | 48 | [Tea For Three](https://open.spotify.com/track/7yemMdaZ7y9HS5vOkKBlUO) | [French Connection](https://open.spotify.com/artist/65psUobejSe9ZkjPgtCtZW) | [Lo\-fi Addiction](https://open.spotify.com/album/2C0wFz5gPDjgQQIw0f6wuo) | 2:17 |
 | 49 | [Watch Your Back](https://open.spotify.com/track/2sVVZJS9andmMIl1zg7EOj) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Watch Your Back](https://open.spotify.com/album/4PTaa4d2ehxeXGLWfXRfE5) | 2:12 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 216 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 |
 | 217 | [money planet](https://open.spotify.com/track/5t13y5FjGJtfhbQzgitlgD) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [money planet](https://open.spotify.com/album/1r95Feyxpoia1LvkPy5Tvc) | 1:44 |
 
-Snapshot ID: `MCw4MTc0MGUxMDA0Y2I2NDE3ZGJiYjcxNzA0MmYzZjQ3YWYzODU0NGJj`
+Snapshot ID: `MCw5MjY1ODlkOWFhMWUxMzA3NjhjNTk1MzMzNTk5NWVjNmM5MDBkYzBl`

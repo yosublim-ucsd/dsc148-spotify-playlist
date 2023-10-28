@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Francisco Victoria
+> Todo el sonido indie de Chile\. Foto: Rubio
 
-421 songs - 1 day 1 hr 22 min
+423 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Devorarte](https://open.spotify.com/track/66JRlkCDrKxJo25iBqO2Co) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Vida Mía ♡](https://open.spotify.com/album/0lodGLPms9cyzlTtnuuHno) | 3:45 | 2022-04-15 | 2022-12-10 |
 | [diamantes \(lorelei remix\)](https://open.spotify.com/track/4gaFr7Df75y4fkp0lbHOCZ) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN), [Lorelei](https://open.spotify.com/artist/3whh4zpCGGs2fAhqeJ18qI) | [arde lento \(remixes\)](https://open.spotify.com/album/6cv8EMykDbV7tMt3B4ifh8) | 6:31 | 2022-04-15 | 2023-05-27 |
 | [diamantes ✧✧](https://open.spotify.com/track/02uy9ONTBAMXMisKRUeaoD) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [arde lento](https://open.spotify.com/album/63YKlDj4D6jtajVwKwoxJ8) | 3:39 | 2022-04-15 | 2022-12-10 |
-| [Dilema](https://open.spotify.com/track/7x9zDbwDr9jHzh5RwBhViJ) | [Eli](https://open.spotify.com/artist/5cUSmEvX8UAhepFmStBXc7), [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Dilema](https://open.spotify.com/album/6wfLmxoovY4zVbuIEZBoFq) | 2:51 | 2023-08-04 |  |
+| [Dilema](https://open.spotify.com/track/7x9zDbwDr9jHzh5RwBhViJ) | [Eli](https://open.spotify.com/artist/5cUSmEvX8UAhepFmStBXc7), [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Dilema](https://open.spotify.com/album/6wfLmxoovY4zVbuIEZBoFq) | 2:51 | 2023-08-04 | 2023-10-28 |
 | [Donde Mueren Todos](https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Donde Mueren Todos](https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM) | 3:09 | 2022-12-16 |  |
 | [DULCE BESO](https://open.spotify.com/track/7mH047VdrRvKcHkyUiAeYH) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [DULCE BESO](https://open.spotify.com/album/5YLKO3Krg4pK7zZUKqpnXC) | 2:05 | 2022-12-23 |  |
 | [Déjame](https://open.spotify.com/track/5M6tbiFcXlmUsExGACcB2W) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Déjame](https://open.spotify.com/album/0bMqqQFF8RH3HF44FLcsde) | 3:46 | 2022-04-15 | 2022-12-10 |
@@ -208,6 +208,7 @@
 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 | 2022-07-15 | 2023-01-28 |
 | [Like](https://open.spotify.com/track/7hB9FRqaIGGIxtz1615Z8A) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Like](https://open.spotify.com/album/1Ts5Ro0AlGvQsUqRRM3z90) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [Lisbeth](https://open.spotify.com/track/6S5z8N2yTM8Ofm2b72K6Ji) | [Trama](https://open.spotify.com/artist/50MfaRBfrDJIFOKwdigjy4) | [De Pequeñas Luces y Recuerdos Que Se Lleva el Mar](https://open.spotify.com/album/0pOo6JBybWLsmcWWO3bPrW) | 4:10 | 2022-04-15 | 2022-07-27 |
+| [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 | 2023-10-27 |  |
 | [Llovizna](https://open.spotify.com/track/1z9gbqGknAXo9eQCdbMETM) | [El Árbol Que Contiene Todos Los Tiempos](https://open.spotify.com/artist/0pgl5ZmedAKmgrz6JgDZYG) | [Llovizna](https://open.spotify.com/album/7fx6mtCSveKTpn2zMDrIEc) | 4:17 | 2022-04-15 | 2022-07-26 |
 | [Lluvia Para el Sol](https://open.spotify.com/track/6y8kBITLyzVN9RGpMBc4iH) | [Pequita](https://open.spotify.com/artist/55ZHeNiYo1WAYjW5kEoZiG) | [Lluvia Para el Sol](https://open.spotify.com/album/3nFS2QursFzce6naclOfBS) | 2:42 | 2022-04-15 | 2022-07-23 |
 | [Lo Nuestro](https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Lo Nuestro](https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz) | 1:53 | 2022-10-14 |  |
@@ -255,7 +256,7 @@
 | [no quiero verte más u.u](https://open.spotify.com/track/4IsqxBuyMlvpFjZG3KJIsm) | [Poder Fantasma](https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w) | [no quiero verte más u.u](https://open.spotify.com/album/1bKKhG4tlKWSc1xSb5jHru) | 3:03 | 2022-04-15 | 2022-07-27 |
 | [No se detendrá](https://open.spotify.com/track/7xEeFbpbv23s25kzo9AWhY) | [Matías Ávila](https://open.spotify.com/artist/29yxbIzxVyIPcCENpwzSQ5), [Luca Fabiano](https://open.spotify.com/artist/7vzFXvmqpr4kAmZkcUbKdk) | [El Destino de las Hormigas](https://open.spotify.com/album/4teXqZ3ASoOfJ3RtR0W8Jf) | 5:19 | 2022-04-15 | 2022-07-26 |
 | [No Somos](https://open.spotify.com/track/1tfY7N4vOPKTX4zNWXgGxY) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [No Somos](https://open.spotify.com/album/5nVtq8um3R7pjoMO7euLu7) | 3:21 | 2022-04-15 | 2022-07-28 |
-| [No Tendré Poder \(Pero Tengo Energía\)](https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [No Tendré Poder \(Pero Tengo Energía\)](https://open.spotify.com/album/3MvdAyZT7mGMrPFi9OgD2y) | 3:13 | 2022-08-26 |  |
+| [No Tendré Poder \(Pero Tengo Energía\)](https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [No Tendré Poder \(Pero Tengo Energía\)](https://open.spotify.com/album/3MvdAyZT7mGMrPFi9OgD2y) | 3:13 | 2022-08-26 | 2023-10-28 |
 | [Nochecita en B.A](https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Nochecita en B.A](https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc) | 2:34 | 2023-09-22 |  |
 | [Noches Perdidas](https://open.spotify.com/track/6v7yCYhjRSZjyLjO9yjEJI) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Noches Perdidas](https://open.spotify.com/album/2sGMCd4mkocvnD1DwlbWCR) | 3:08 | 2022-08-05 | 2023-01-28 |
 | [nopidomucho \(feat Francisco Victoria\)](https://open.spotify.com/track/32iqQUezUp37J8bjUY5SFm) | [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM), [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [nopidomucho \(feat\. Francisco Victoria\)](https://open.spotify.com/album/7sfenIXF6Q5TTEDXnBae2q) | 3:07 | 2022-04-15 | 2022-12-10 |
@@ -267,6 +268,7 @@
 | [Obsesión \- Remix](https://open.spotify.com/track/6KJxt62PFos3WanS2aaVfN) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [Dani Ride](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Obsesión \(Remix\)](https://open.spotify.com/album/3ll55HS0aY0jnK3UYrQRI9) | 3:30 | 2023-04-13 | 2023-08-05 |
 | [Oler A Ti](https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Oler A Ti](https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5) | 3:45 | 2023-09-08 |  |
 | [Pajarito](https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Pajarito](https://open.spotify.com/album/24g6fF66JD00LheckA50yw) | 3:29 | 2022-09-23 | 2023-01-28 |
+| [Pantallas y Desiertos](https://open.spotify.com/track/5TooZOGWPmbP8aS2ISwTKA) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Pantallas y Desiertos](https://open.spotify.com/album/40qq0w8Z2vP1qqXVMQJ5jb) | 3:32 | 2023-10-27 |  |
 | [Papel](https://open.spotify.com/track/4rE16lTqf0Itc1jcpnyDYx) | [May Villalobos](https://open.spotify.com/artist/2v6dIFNgGkqAwvSdeR6D8D), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Papel](https://open.spotify.com/album/1qmqSiUdglS1nHtMpGDFAt) | 3:06 | 2022-04-15 | 2023-01-28 |
 | [Para la Patada y el Combo](https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Palabritas y Palabrotas](https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM) | 3:06 | 2022-10-07 |  |
 | [Para Que Tu Vueles](https://open.spotify.com/track/4sHs89sw3qckQlbzglgZaN) | [Paz Quintana](https://open.spotify.com/artist/6KqJXtmKvduINRUUk74bBT), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Para Que Tu Vueles](https://open.spotify.com/album/1mxMpECZWf2YrFhdoD8dH3) | 3:53 | 2022-04-15 | 2022-12-10 |

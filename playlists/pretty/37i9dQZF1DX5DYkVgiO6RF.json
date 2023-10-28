@@ -1,12 +1,12 @@
 {
   "description": "all cruise, no breaks ",
-  "num_followers": 155170,
+  "num_followers": 156848,
   "original_name": "Night Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTdhNGI0NzA0YzlhMzg0ZDIwMWQzYWQxMTJiMTdiMGI5M2MxNzBm",
+  "snapshot_id": "MCxjOWQ2N2ViMGM1NzMxMGMyNzMwZmEyOTBhNzgwZDE0OTE2ZDhiMzc1",
   "tracks": [
     {
       "added_at": "2023-09-29 21:41:43",
@@ -157,6 +157,82 @@
       "url": "https://open.spotify.com/track/2ncLdwTd8qzkxiJjlbiOgC"
     },
     {
+      "added_at": "2023-10-27 23:44:11",
+      "album": {
+        "name": "Ozone Scraper",
+        "url": "https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 211299,
+      "name": "Ozone Scraper",
+      "url": "https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV"
+    },
+    {
+      "added_at": "2023-09-29 21:41:43",
+      "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "added_at": "2023-09-29 21:41:43",
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+    },
+    {
       "added_at": "2023-09-29 21:41:43",
       "album": {
         "name": "I NEVER LIKED YOU",
@@ -183,74 +259,6 @@
     {
       "added_at": "2023-09-29 21:41:43",
       "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
-      },
-      "artists": [
-        {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
-    },
-    {
-      "added_at": "2023-09-29 21:41:43",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 361026,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
-    },
-    {
-      "added_at": "2023-09-29 21:41:43",
-      "album": {
-        "name": "Black Panther The Album Music From And Inspired By",
-        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "All The Stars (with SZA)",
-      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
-    },
-    {
-      "added_at": "2023-09-29 21:41:43",
-      "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
-    },
-    {
-      "added_at": "2023-09-29 21:41:43",
-      "album": {
         "name": "ye",
         "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
       },
@@ -267,18 +275,18 @@
     {
       "added_at": "2023-09-29 21:41:43",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
       },
       "artists": [
         {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 259146,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
     },
     {
       "added_at": "2023-09-29 21:41:43",
@@ -331,18 +339,18 @@
     {
       "added_at": "2023-09-29 21:41:43",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
         }
       ],
-      "duration_ms": 191600,
-      "name": "Needed Me",
-      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
+      "duration_ms": 259146,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
     },
     {
       "added_at": "2023-09-29 21:41:43",
@@ -363,18 +371,18 @@
     {
       "added_at": "2023-09-29 21:41:43",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 219692,
-      "name": "Teenage Fever",
-      "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
+      "duration_ms": 361026,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
     },
     {
       "added_at": "2023-09-29 21:41:43",
@@ -395,18 +403,18 @@
     {
       "added_at": "2023-09-29 21:41:43",
       "album": {
-        "name": "DIE FOR MY BITCH",
-        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 172672,
-      "name": "HONEST",
-      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
       "added_at": "2023-09-29 21:41:43",
@@ -423,6 +431,38 @@
       "duration_ms": 299960,
       "name": "Little Dark Age",
       "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
+    },
+    {
+      "added_at": "2023-09-29 21:41:43",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Teenage Fever",
+      "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
+    },
+    {
+      "added_at": "2023-09-29 21:41:43",
+      "album": {
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 172672,
+      "name": "HONEST",
+      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     },
     {
       "added_at": "2023-09-29 21:41:43",
@@ -459,26 +499,6 @@
     {
       "added_at": "2023-09-29 21:41:43",
       "album": {
-        "name": "Dark Lane Demo Tapes",
-        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 220487,
-      "name": "Chicago Freestyle (feat. Giveon)",
-      "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
-    },
-    {
-      "added_at": "2023-09-29 21:41:43",
-      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
@@ -507,6 +527,26 @@
       "duration_ms": 265480,
       "name": "ARE WE STILL FRIENDS?",
       "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai"
+    },
+    {
+      "added_at": "2023-09-29 21:41:43",
+      "album": {
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 220487,
+      "name": "Chicago Freestyle (feat. Giveon)",
+      "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
     },
     {
       "added_at": "2023-09-29 21:41:43",
@@ -847,54 +887,6 @@
       "duration_ms": 165853,
       "name": "What They Want",
       "url": "https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv"
-    },
-    {
-      "added_at": "2023-09-29 21:41:43",
-      "album": {
-        "name": "The Score (Expanded Edition)",
-        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
-      },
-      "artists": [
-        {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pras",
-          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Ready or Not",
-      "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
-    },
-    {
-      "added_at": "2023-09-29 21:41:43",
-      "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Sky Walker (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     }
   ],
   "unique_name": "Night Drive",

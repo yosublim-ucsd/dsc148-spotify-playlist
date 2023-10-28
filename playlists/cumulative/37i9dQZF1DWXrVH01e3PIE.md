@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> Orodembow & 0\-600 en la casa del Trap Argentino.
+> Rei & YSY A en la casa del Trap Argentino.
 
-246 songs - 11 hr 50 min
+249 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 | 2022-01-21 |  |
 | [Coroné](https://open.spotify.com/track/0BcheiZV7WuB5M9yGAFtwB) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/16NCoucptRbqb2VoMbmt3V) | 2:50 | 2023-06-08 | 2023-06-14 |
 | [Coroné](https://open.spotify.com/track/386NSsUV8EaZe1xFea64cw) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/0qR3J5yY7BMDQOlgFyVgQ0) | 2:50 | 2023-06-09 | 2023-09-11 |
-| [Coroné](https://open.spotify.com/track/6h22JGTLtV29j7sXmtB2ii) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/3LvQoppyYo1QSEISDUsg8T) | 2:50 | 2023-09-08 |  |
+| [Coroné](https://open.spotify.com/track/6h22JGTLtV29j7sXmtB2ii) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/3LvQoppyYo1QSEISDUsg8T) | 2:50 | 2023-09-08 | 2023-10-28 |
 | [Corta](https://open.spotify.com/track/2Eien2rGtpBP8z8kBZszmZ) | [Bize 4r](https://open.spotify.com/artist/1BOreb2HnMed0s1z68eD4c), [Andrés Da Mommio](https://open.spotify.com/artist/39EpNL9a9HRBI9ffgOyVXe) | [Corta](https://open.spotify.com/album/5sx95OKsbaJiqeC1YOtDJr) | 2:56 | 2022-01-21 | 2022-07-06 |
 | [Criminal Mood](https://open.spotify.com/track/5HWiWcpQ2zcPA0TVip4kyA) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Rulits TMB](https://open.spotify.com/artist/0yS7QAEchrBFgVTQogvntW) | [Criminal Mood](https://open.spotify.com/album/62pIIvltFPUnUCEUsxLW2a) | 2:21 | 2022-03-04 | 2022-07-21 |
 | [Cuantas Veces Ma'](https://open.spotify.com/track/3gbxCU5idEzgq5VyH5O8FS) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Cuantas Veces Ma'](https://open.spotify.com/album/1w8j2WNLhVXaVTczEIPQb5) | 2:04 | 2022-05-20 | 2022-06-18 |
@@ -87,11 +87,13 @@
 | [Free Kmd 3](https://open.spotify.com/track/0hL1DyMRnCGJ5uNykhiQxo) | [Kmd Label](https://open.spotify.com/artist/1U7FXZ7fdz0YqYzs4nRd1v), [Negro Santo](https://open.spotify.com/artist/6ACwnsKT5y9KATqH7tTajE), [Mike Southside](https://open.spotify.com/artist/4jIPjVHNkAKmqfWjfwg960), [Coqeéin Montana](https://open.spotify.com/artist/4StQh17zinsbJ4r5ekmPj7) | [Free Kmd 3](https://open.spotify.com/album/7bN0o5SsLLbUQGKmEjvatj) | 3:22 | 2022-01-21 | 2022-03-12 |
 | [Frixen](https://open.spotify.com/track/38aRvHQWv2qFBY4BAucb8C) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Frixen](https://open.spotify.com/album/0lTLmQt4g3QIvV4Chz3eT6) | 2:35 | 2023-02-10 | 2023-09-16 |
 | [Fruto](https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:12 | 2023-10-09 |  |
+| [Frío](https://open.spotify.com/track/7CaBbXaR1sTf5OJKRQFRj6) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 2:25 | 2023-10-27 |  |
 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 | 2022-01-21 |  |
 | [G\-Class](https://open.spotify.com/track/6NyMkv98F7Em4dDkhmMPXm) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Ess](https://open.spotify.com/artist/0nRYnTumOGj5qnhPKjV4Es) | [G\-Class](https://open.spotify.com/album/4x8c78mU51FjjpI2A1Tdc0) | 2:15 | 2022-07-05 | 2023-05-27 |
 | [GASTO](https://open.spotify.com/track/2jyYVoMNlve7wpsg5C8yuK) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [GASTO](https://open.spotify.com/album/7sRkTyNbRWzWVKLDXpzfPy) | 2:04 | 2023-04-07 | 2023-07-07 |
 | [GASTO](https://open.spotify.com/track/5ULCGfNrYTwyRnHrGzkBDF) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:04 | 2023-06-23 |  |
 | [GELATO](https://open.spotify.com/track/7Go3Ftz3ogFCeuy7PIO6Su) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3) | [GELATO](https://open.spotify.com/album/0xbDePSBrKFaoYUsTCEjKq) | 3:30 | 2023-03-31 | 2023-05-05 |
+| [Gitano y Sincero](https://open.spotify.com/track/0ShZK7fs8W5O1NqgzB1kBQ) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 3:05 | 2023-10-27 |  |
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 |  |
 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 | 2022-01-21 |  |
 | [Gran Turismo](https://open.spotify.com/track/0Lln3dJk5bcRKaXLWJ5V7O) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX) | [Gran Turismo](https://open.spotify.com/album/2jjHYr5DAaYVUdAC3hnI4Y) | 1:52 | 2023-01-27 |  |
@@ -196,6 +198,7 @@
 | [Si Me Sobrara el Tiempo](https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Si Me Sobrara el Tiempo](https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB) | 2:48 | 2023-02-17 |  |
 | [Si Supieras](https://open.spotify.com/track/3bb2XfPK0AvSuztY9kJzW9) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:45 | 2022-01-21 | 2022-11-12 |
 | [Si Viene](https://open.spotify.com/track/1zgsPCOjI8mo5ppsYRwgLO) | [Bize 4r](https://open.spotify.com/artist/1BOreb2HnMed0s1z68eD4c), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Si Viene](https://open.spotify.com/album/2FVxQkFqXOjdqDXv35hmaT) | 2:00 | 2022-01-21 | 2022-04-02 |
+| [Sin Berretín](https://open.spotify.com/track/2Lc0gZjqHoK3dWYdxExKoL) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Sin Berretín](https://open.spotify.com/album/1JCKngBmpkr0FJ1AJ8zHXf) | 2:22 | 2023-10-27 |  |
 | [Sin Dudar](https://open.spotify.com/track/0Ngq1ZDzAZERsiBfmbacgL) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Sin Dudar](https://open.spotify.com/album/73OkatcQIyfZ51l6gxzFyw) | 3:12 | 2022-07-29 | 2023-01-14 |
 | [Sin Seguro](https://open.spotify.com/track/1UdeNGfkn5EpXjyEHJAwO0) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Sin Seguro](https://open.spotify.com/album/6kLqLQ54MsqhTirkuDZfu8) | 2:33 | 2023-08-18 |  |
 | [Slow](https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Slow](https://open.spotify.com/album/63Evq6spRulb51uVevqui3) | 2:15 | 2023-02-24 |  |

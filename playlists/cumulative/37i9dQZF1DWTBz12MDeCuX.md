@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Amaru
 
-1,361 songs - 2 day 16 hr 23 min
+1,362 songs - 2 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Blau](https://open.spotify.com/track/6BcgFkMhsE8ybTgQZXCj5h) | [OMG](https://open.spotify.com/artist/2gSIgsQWEHbWvOiFvhvx3g), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Blau](https://open.spotify.com/album/037jVpRWntGpBS7EwsFWkq) | 1:49 | 2022-07-07 | 2022-07-29 |
 | [Blick Von Dir](https://open.spotify.com/track/7BKG0RkQHjjDYekwQ0Z5ct) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Blick Von Dir](https://open.spotify.com/album/2cSPrx75blbsrQfPYZ7lbV) | 2:08 | 2022-09-01 | 2022-10-14 |
 | [Blind](https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:30 | 2022-12-22 | 2023-01-24 |
+| [Block In Der Brust](https://open.spotify.com/track/4kdCsDQpeoUh12tY5xwZvD) | [DuZiN](https://open.spotify.com/artist/4Ym2JmF0xLcZ2htTrAWn3z), [Eight Λ Eleven](https://open.spotify.com/artist/14piLP687bcwtQTCOg6D6l) | [Block In Der Brust](https://open.spotify.com/album/1xCqi0g3kNJFW3y6pyBzgs) | 2:53 | 2023-10-27 |  |
 | [blogg](https://open.spotify.com/track/5xy9zM5B3QwGGL3TswojM6) | [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [blogg](https://open.spotify.com/album/37BiPMLdhD282Eg1gcK76i) | 2:28 | 2023-04-20 | 2023-04-28 |
 | [Blonde Chaya \- Sped up](https://open.spotify.com/track/30vcuzW3d8goJci3OBUNt9) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped up\)](https://open.spotify.com/album/1AEkNrupHvnPkit7mBJUKY) | 3:01 | 2023-10-09 |  |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-01 | 2023-01-10 |
@@ -208,7 +209,7 @@
 | [Burn \(Techno\)](https://open.spotify.com/track/0ZHaZDUAydUirse0ZBHmCb) | [Hyper Kenzo](https://open.spotify.com/artist/5ysdqRrER8PGoMGUafUIIr), [Way 2 Fast](https://open.spotify.com/artist/57Hj2cFlZMIv0KAxHZX4hT) | [Burn \(Techno\)](https://open.spotify.com/album/1EcebHi56BdXF18gjY6YDG) | 2:30 | 2023-08-22 |  |
 | [Butterflies \(feat\. lityway, NOK1D, yungfijay\)](https://open.spotify.com/track/3sNt9m05GSYtBe54cRq5H2) | [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq), [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [NOK1D](https://open.spotify.com/artist/3aiVrUEKRgBLXMGsh2IIJ5), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [Butterflies \(feat\. lityway, NOK1D, yungfijay\)](https://open.spotify.com/album/38LPOdHU8M07c4KFayHNpW) | 2:23 | 2022-08-25 | 2022-09-30 |
 | [butterflies \(From Barbie The Album\)](https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [butterflies \(From Barbie The Album\)](https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg) | 2:16 | 2023-08-07 | 2023-08-18 |
-| [Butterflies auf Speed](https://open.spotify.com/track/0CDYYuzI8bqXIGaIAtpeTi) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Butterflies auf Speed](https://open.spotify.com/album/1bEJPSgunws1aEWxIv3Mir) | 2:25 | 2023-09-28 |  |
+| [Butterflies auf Speed](https://open.spotify.com/track/0CDYYuzI8bqXIGaIAtpeTi) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Butterflies auf Speed](https://open.spotify.com/album/1bEJPSgunws1aEWxIv3Mir) | 2:25 | 2023-09-28 | 2023-10-28 |
 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 | 2022-10-13 | 2022-11-04 |
 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2022-10-14 | 2022-10-21 |
 | [California Glow](https://open.spotify.com/track/5coiygbl1xGLz1DnVGzvw9) | [Lyno Nine8](https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh) | [California Glow](https://open.spotify.com/album/0tR7dA9xawWevxnAWzaX2x) | 2:52 | 2023-05-18 | 2023-08-25 |

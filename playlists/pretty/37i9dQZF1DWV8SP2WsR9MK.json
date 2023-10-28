@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 76694,
+  "num_followers": 76761,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjZkNGJkZGE1NGVmM2Q2ODEwMDY1NzQxNjkwMzk3NTUzMDQ1Mzlh",
+  "snapshot_id": "MCw2YmNiMzZkODM0OWRiOGYxMzBiYmQ1NjQ2NjBmNWFjM2E4NTYyYTdi",
   "tracks": [
     {
       "added_at": "2023-10-26 08:55:04",
@@ -323,42 +323,6 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 341360,
-      "name": "Stairway To The Stars",
-      "url": "https://open.spotify.com/track/4qW1WqsyYBi0mPjhzP2XpN"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
-        "name": "Boss Guitar",
-        "url": "https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
         "name": "Kessel Plays Standards",
         "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
       },
@@ -379,6 +343,42 @@
       "duration_ms": 188333,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
+        "name": "Boss Guitar",
+        "url": "https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 341360,
+      "name": "Stairway To The Stars",
+      "url": "https://open.spotify.com/track/4qW1WqsyYBi0mPjhzP2XpN"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -463,22 +463,18 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
-        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
+        "name": "Cream",
+        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        },
-        {
-          "name": "Ray Blair",
-          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
         }
       ],
-      "duration_ms": 658333,
-      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
-      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
+      "duration_ms": 628186,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -519,18 +515,22 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "Cream",
-        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
+        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
+        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
       },
       "artists": [
         {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        },
+        {
+          "name": "Ray Blair",
+          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
         }
       ],
-      "duration_ms": 628186,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk"
+      "duration_ms": 658333,
+      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
+      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "The Best Of Grant Green",
-        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 897626,
-      "name": "Idle Moments",
-      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD"
       },
@@ -635,6 +619,30 @@
       "duration_ms": 311000,
       "name": "Canto De Ossanha",
       "url": "https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
+        "name": "Travel Guide",
+        "url": "https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua"
+      },
+      "artists": [
+        {
+          "name": "Ralph Towner",
+          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
+        },
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Slava Grigoryan",
+          "url": "https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "Father Time",
+      "url": "https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -671,26 +679,18 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "Travel Guide",
-        "url": "https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua"
+        "name": "The Best Of Grant Green",
+        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
       },
       "artists": [
         {
-          "name": "Ralph Towner",
-          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
-        },
-        {
-          "name": "Wolfgang Muthspiel",
-          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
-        },
-        {
-          "name": "Slava Grigoryan",
-          "url": "https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         }
       ],
-      "duration_ms": 277560,
-      "name": "Father Time",
-      "url": "https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL"
+      "duration_ms": 897626,
+      "name": "Idle Moments",
+      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
-        "name": "Hand-Crafted Swing",
-        "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
-      },
-      "artists": [
-        {
-          "name": "George Van Eps",
-          "url": "https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps"
-        },
-        {
-          "name": "Howard Alden",
-          "url": "https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR"
-        }
-      ],
-      "duration_ms": 370866,
-      "name": "The Nearness Of You - Instrumental",
-      "url": "https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
         "name": "At the Garden Party",
         "url": "https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 394560,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
+        "name": "Hand-Crafted Swing",
+        "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
+      },
+      "artists": [
+        {
+          "name": "George Van Eps",
+          "url": "https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps"
+        },
+        {
+          "name": "Howard Alden",
+          "url": "https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR"
+        }
+      ],
+      "duration_ms": 370866,
+      "name": "The Nearness Of You - Instrumental",
+      "url": "https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr"
     },
     {
       "added_at": "2023-10-26 08:55:04",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-10-26 08:55:04",
       "album": {
+        "name": "The Artistry Of Tal Farlow",
+        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
+      },
+      "artists": [
+        {
+          "name": "Tal Farlow",
+          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
+    },
+    {
+      "added_at": "2023-10-26 08:55:04",
+      "album": {
         "name": "Kenny Burrell & John Coltrane",
         "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 422680,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL"
-    },
-    {
-      "added_at": "2023-10-26 08:55:04",
-      "album": {
-        "name": "The Artistry Of Tal Farlow",
-        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
-      },
-      "artists": [
-        {
-          "name": "Tal Farlow",
-          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
-        }
-      ],
-      "duration_ms": 296613,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
     },
     {
       "added_at": "2023-10-26 08:55:04",

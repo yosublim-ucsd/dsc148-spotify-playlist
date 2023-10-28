@@ -4,7 +4,7 @@
 
 > 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover： Gordon Flanders
 
-149 songs - 8 hr 33 min
+150 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 | 2023-04-13 |  |
 | [Mask Off](https://open.spotify.com/track/5DWa1yu3YyOooCNOCP88M0) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [Mask Off](https://open.spotify.com/album/7lPukklXy0yedXd8j68rnW) | 3:28 | 2023-04-13 |  |
 | [Never Meant to Hurt You](https://open.spotify.com/track/0ouOoGE1snaFzozJwFwokn) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [Never Meant to Hurt You](https://open.spotify.com/album/2CPfE2n9b4XbtLUQXT7HJs) | 3:16 | 2023-04-13 |  |
+| [Never Say Never](https://open.spotify.com/track/2WhmAUL2A1alXac2uCTBau) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [Never Say Never](https://open.spotify.com/album/54jacCNqvBtQIAgBM6LtKe) | 3:36 | 2023-10-27 |  |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-05-26 | 2023-04-14 |
 | [NOISY](https://open.spotify.com/track/6Rt1Bc95ecZQZPdOGtY7fK) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [NOISY](https://open.spotify.com/album/6cl9qpMSPUljRaiAicAQgm) | 3:25 | 2023-05-11 |  |
 | [November 12](https://open.spotify.com/track/5tiZ8wO38MV7XnEnnpylli) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [November 12](https://open.spotify.com/album/18Pk2bESF2TOLTEdHaBIIb) | 3:22 | 2023-02-16 | 2023-05-12 |

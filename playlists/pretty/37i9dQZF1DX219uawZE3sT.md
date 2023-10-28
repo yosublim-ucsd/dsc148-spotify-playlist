@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,141 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,253 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 29 | [Enloquéceme](https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Lo Mejor De OV7](https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0) | 4:09 |
 | 30 | [Alucinado](https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Yahir](https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6) | 5:04 |
 | 31 | [Nunca Te Olvidaré](https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Cosas Del Amor](https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB) | 4:24 |
-| 32 | [Porque El Amor Manda](https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [El Amor Manda](https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y) | 3:16 |
-| 33 | [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 |
+| 32 | [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 |
+| 33 | [Porque El Amor Manda](https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [El Amor Manda](https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y) | 3:16 |
 | 34 | [Nada Personal](https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT), [Lisset](https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW) | [Te Amo Tv \- Exitos Originales de las Telenovelas](https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG) | 3:11 |
 | 35 | [Otra Vez](https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:41 |
 | 36 | [Señora](https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:24 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 61 | [A Dónde Va Nuestro Amor \- Versión Telenovela](https://open.spotify.com/track/0zA1PzaGYhJSdOFcsFOyUS) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [De Días y de Noches \(En Vivo\) \(Centro Cultural Roberto Cantoral\)](https://open.spotify.com/album/1M80e2cT0RjwiumdKlk4aw) | 3:31 |
 | 62 | [Día De Suerte](https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Mejor De...](https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR) | 3:33 |
 | 63 | [Dime](https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB) | [Aranza](https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB) | [Mirada de Mujer](https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3) | 2:59 |
-| 64 | [Alegrijes y rebujos](https://open.spotify.com/track/2U0eZH4CmdPMcfUPqsMqae) | [Soundtrack Alegrijes y Rebujos](https://open.spotify.com/artist/78Gki9mhnVIJYJdogQyno5) | [Alegrije](https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR) | 2:43 |
-| 65 | [Amor Real](https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:05 |
+| 64 | [Amor Real](https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:05 |
+| 65 | [Alegrijes y rebujos](https://open.spotify.com/track/2U0eZH4CmdPMcfUPqsMqae) | [Soundtrack Alegrijes y Rebujos](https://open.spotify.com/artist/78Gki9mhnVIJYJdogQyno5) | [Alegrije](https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR) | 2:43 |
 | 66 | [La Usurpadora](https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [1985\-1998](https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP) | 3:25 |
 | 67 | [Un Alma en Pena](https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Mis Íntimas Razones](https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr) | 3:40 |
 | 68 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
 | 69 | [Contra Viento Y Marea](https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:40 |
 | 70 | [Te Quiero Tanto, Tanto \- Versión de la Telenovela Mi Pequeña Traviesa](https://open.spotify.com/track/1ycO3Iw4g67JBasAGdYVb7) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
 
-Snapshot ID: `MCwzOGVhYTAyNDk2MTRhMDk1YjNmMTg3N2MzODk4MmNmN2FjZTEzYjU2`
+Snapshot ID: `MCxjMTBlYjA5OWM5YTNlZjhkMGVhM2ViYzA1Nzg1M2IwODNhYjMyZjcz`

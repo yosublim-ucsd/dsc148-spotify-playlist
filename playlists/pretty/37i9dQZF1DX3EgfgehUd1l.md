@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,618 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,727 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 3 | [Fever](https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 3:19 |
 | 4 | [When I Fall In Love](https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:10 |
 | 5 | [Tequila](https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Greatest Hits / Tequila](https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R) | 2:15 |
-| 6 | [Papa Loves Mambo](https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Pure Gold](https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8) | 2:42 |
-| 7 | [Folsom Prison Blues](https://open.spotify.com/track/121sjkub4p4zcFNozkKnQD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Sings Hank Williams](https://open.spotify.com/album/0X7AlTPtEDf0Kv1QqYQwlU) | 2:48 |
+| 6 | [Folsom Prison Blues](https://open.spotify.com/track/121sjkub4p4zcFNozkKnQD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Sings Hank Williams](https://open.spotify.com/album/0X7AlTPtEDf0Kv1QqYQwlU) | 2:48 |
+| 7 | [Papa Loves Mambo](https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Pure Gold](https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8) | 2:42 |
 | 8 | [That's Amore](https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:10 |
 | 9 | [Dream Lover](https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:30 |
 | 10 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 71 | [No One but You](https://open.spotify.com/track/1EryH4ZJhQxhq2OZFv1MwQ) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:09 |
 | 72 | [Outside of Heaven](https://open.spotify.com/track/5TPvEyuAu8QVDpp3Zf4g3k) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 2:38 |
 | 73 | [The Black Hills of Dakota \(with Paul Weston & His Orchestra\) \- Version 1](https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:59 |
-| 74 | [I'm Sorry I Made You Cry](https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:27 |
-| 75 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
+| 74 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
+| 75 | [I'm Sorry I Made You Cry](https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:27 |
 | 76 | [Softly Softly](https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [The Magic Of Ruby Murray](https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue) | 2:29 |
-| 77 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
-| 78 | [Young Love](https://open.spotify.com/track/5i2vPavoa6l4Qq9yV8Z1Na) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [Presenting Tab Hunter](https://open.spotify.com/album/3lOuKdCgV2FN2v2iY00LZw) | 2:26 |
+| 77 | [Young Love](https://open.spotify.com/track/5i2vPavoa6l4Qq9yV8Z1Na) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [Presenting Tab Hunter](https://open.spotify.com/album/3lOuKdCgV2FN2v2iY00LZw) | 2:26 |
+| 78 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
 | 79 | [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 |
 | 80 | [Rose Marie](https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Country Style](https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal) | 2:24 |
 
-Snapshot ID: `MCxkNzA0MWRjY2E5MDUyZWVkMjZkNDE3OWQ4MmQ1NDU1OTZjZTFjOGEw`
+Snapshot ID: `MCxmNjhjMGM0MGZhNjVkYjM1ZDJmMGUyY2E3ZjQ1ZGQwNjYwMTU0NjY2`

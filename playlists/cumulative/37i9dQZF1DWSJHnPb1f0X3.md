@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-614 songs - 1 day 6 hr 41 min
+615 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/album/17S4c0rf1RXLZ0u4ez15E5) | 3:05 | 2021-12-17 | 2022-05-04 |
 | [Holiday](https://open.spotify.com/track/5p23tD2akeZYiDZHE1r4yi) | [ILY](https://open.spotify.com/artist/6CVPDt9FXmWEaq3jCoKAZb) | [Holiday](https://open.spotify.com/album/1VKV62S8RLZcEeQPZojj1V) | 3:36 | 2022-03-25 | 2022-04-19 |
 | [Home](https://open.spotify.com/track/388KEbT8ZXJBwtbw3ZS7s1) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Home](https://open.spotify.com/album/3x6AIVoG1mHw3ay0BzDN8Y) | 3:16 | 2022-04-01 | 2022-04-21 |
-| [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-28 |  |
+| [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-28 | 2023-10-28 |
+| [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 | 2023-10-27 |  |
 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 | 2021-12-17 |  |
 | [Human Touch](https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Human Touch](https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm) | 2:25 | 2022-03-11 | 2022-07-23 |
 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 | 2021-12-17 | 2023-08-06 |

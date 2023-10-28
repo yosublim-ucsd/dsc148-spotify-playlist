@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,021 likes - 40 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,026 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 2 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
 | 3 | [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 |
 | 4 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 |
-| 5 | [St\. James Infirmary](https://open.spotify.com/track/6FKasUNG1KT4r9TR9rKdll) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [The Bright Mississippi](https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy) | 3:51 |
-| 6 | [The Things That I Used To Do](https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 3:00 |
+| 5 | [The Things That I Used To Do](https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 3:00 |
+| 6 | [St\. James Infirmary](https://open.spotify.com/track/6FKasUNG1KT4r9TR9rKdll) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [The Bright Mississippi](https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy) | 3:51 |
 | 7 | [Mama Roux](https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 3:00 |
 | 8 | [Medicine](https://open.spotify.com/track/3OvV9R4RIoXwUi7UcuXwkU) | [Tab Benoit](https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB) | [Medicine](https://open.spotify.com/album/1heK7tmUTRLA2jwrRG4LiB) | 5:47 |
 | 9 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 39 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
 | 40 | [Dark Clouds Rollin'](https://open.spotify.com/track/4VU7zTodGQKwJh5295pflB) | [Silas Hogan](https://open.spotify.com/artist/6BVFYkEx0EB1HOW2ST8j3d) | [Louisiana Swamp Blues Vol\. 6](https://open.spotify.com/album/14nEVobg09hiQy9tY1cFFa) | 2:55 |
 
-Snapshot ID: `MCxiZGZkMDM2MjFmMWE0ZjA4MGRjN2I3NjE4ZGEzNDVmMDJkY2E4MTA1`
+Snapshot ID: `MCw0NTc2MjQzNTJhZDNkY2RjZWM2YzI2NzNmNGE1NDNlZjdlYWI5MDNj`

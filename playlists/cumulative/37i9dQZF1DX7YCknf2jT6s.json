@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Terrace Martin",
+  "description": "New jazz for open minds. Cover: Myele Manzanza",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 254960,
       "name": "Beat Hopper - The 3rd Session",
       "url": "https://open.spotify.com/track/1x6POqThB0hnrwry79YTPD"
@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 266500,
       "name": "Beg, Borrow, Play",
       "url": "https://open.spotify.com/track/0IrxzInuw0Er7sBOcEJfkL"
@@ -5703,6 +5703,32 @@
     },
     {
       "album": {
+        "name": "Don't Believe The Dancers (Mophono Remix)",
+        "url": "https://open.spotify.com/album/4uLnZNggcGP2WrUOU9YcHM"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Mophono",
+          "url": "https://open.spotify.com/artist/5jMONVJ1q335buxCmXAo00"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315492,
+      "name": "Don't Believe The Dancers - Mophono Remix",
+      "url": "https://open.spotify.com/track/7mt3MXHKqlXGwRwNL9tbAs"
+    },
+    {
+      "album": {
         "name": "The 7th Hand",
         "url": "https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD"
       },
@@ -6457,6 +6483,40 @@
     },
     {
       "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/0tGUQcOzvj7r8rPxkuth7f"
+      },
+      "artists": [
+        {
+          "name": "Mareike Wiening",
+          "url": "https://open.spotify.com/artist/5n2ZOxo4Dw6CcurZPIYlG9"
+        },
+        {
+          "name": "Rich Perry",
+          "url": "https://open.spotify.com/artist/1TaMCGjRuinPW6jdc5sguu"
+        },
+        {
+          "name": "Glenn Zaleski",
+          "url": "https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W"
+        },
+        {
+          "name": "Alex Goodman",
+          "url": "https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3"
+        },
+        {
+          "name": "Johannes Felscher",
+          "url": "https://open.spotify.com/artist/2RYXsAepfcxTMiShkD42pd"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367440,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0SliE11kP22MO6GZyZKJ92"
+    },
+    {
+      "album": {
         "name": "Envy",
         "url": "https://open.spotify.com/album/07Ehnt6vUeLzcL6tjAMs67"
       },
@@ -6934,7 +6994,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 228534,
       "name": "Faltando um Peda\u00e7o",
       "url": "https://open.spotify.com/track/2jW2agJpOIJjX4tbmDTIai"
@@ -7124,6 +7184,24 @@
       "duration_ms": 206759,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/2plfAIuHMBynfACQUmtVgQ"
+    },
+    {
+      "album": {
+        "name": "The Southern Suite",
+        "url": "https://open.spotify.com/album/6s49yqVpAtx05F2J16ciYr"
+      },
+      "artists": [
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378422,
+      "name": "Final Voyage",
+      "url": "https://open.spotify.com/track/6pBaX9CnZJ4KBkojIQ325L"
     },
     {
       "album": {
@@ -8214,7 +8292,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 140000,
       "name": "Gone Bowling",
       "url": "https://open.spotify.com/track/67wFGvo3gRo4x9VK4wezWR"
@@ -10166,6 +10244,28 @@
       "duration_ms": 340290,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5T3n7Ft1W7HhdEyr5fAFKM"
+    },
+    {
+      "album": {
+        "name": "Intraterrestrial",
+        "url": "https://open.spotify.com/album/53xjDCWo2MVvkGdn9d4eYJ"
+      },
+      "artists": [
+        {
+          "name": "New Age Doom",
+          "url": "https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni"
+        },
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458218,
+      "name": "Intraterrestrial",
+      "url": "https://open.spotify.com/track/2D12H3i8oIh0EKwQMJEjlO"
     },
     {
       "album": {
@@ -12986,6 +13086,24 @@
       "duration_ms": 181130,
       "name": "Means The World",
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
+    },
+    {
+      "album": {
+        "name": "Meditations",
+        "url": "https://open.spotify.com/album/3I63JmX1Yud9Yuj6Zy3Vkm"
+      },
+      "artists": [
+        {
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474560,
+      "name": "Meditations",
+      "url": "https://open.spotify.com/track/28w36tSx14PJdKiruyLInl"
     },
     {
       "album": {
@@ -15910,7 +16028,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 459360,
       "name": "Peresina",
       "url": "https://open.spotify.com/track/3UJDnJUuX80lpqJt0kw61a"
@@ -16470,7 +16588,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202040,
       "name": "Protect Your Light",
       "url": "https://open.spotify.com/track/2wEWmnM1xmnRh1cZccHOdl"
@@ -16646,7 +16764,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 166288,
       "name": "QR",
       "url": "https://open.spotify.com/track/394dE7wi1Y9YKtP5KzcAcp"
@@ -17086,7 +17204,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 173826,
       "name": "Republic",
       "url": "https://open.spotify.com/track/61pLnej65GTj3Rex1NHTYU"
@@ -17206,6 +17324,28 @@
       "duration_ms": 195777,
       "name": "Reste un oiseau",
       "url": "https://open.spotify.com/track/4miACj3Pi7Pox3ylFNFZ9s"
+    },
+    {
+      "album": {
+        "name": "Reste un Oiseau (Piers Faccini Remix)",
+        "url": "https://open.spotify.com/album/7nCa2XRydsksH3gLVEEEWM"
+      },
+      "artists": [
+        {
+          "name": "Anne Paceo",
+          "url": "https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL"
+        },
+        {
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "Reste un Oiseau - Piers Faccini Remix",
+      "url": "https://open.spotify.com/track/52g21WkPWgf96mrch0h7Rk"
     },
     {
       "album": {
@@ -17436,6 +17576,28 @@
       "duration_ms": 331040,
       "name": "River Styx",
       "url": "https://open.spotify.com/track/0X0SbHR8uwKq0cW5zrdiCU"
+    },
+    {
+      "album": {
+        "name": "River that runs forever",
+        "url": "https://open.spotify.com/album/7he7IqO9spia7ir8jnlwpS"
+      },
+      "artists": [
+        {
+          "name": "Nicole Brady",
+          "url": "https://open.spotify.com/artist/57clVZKVIdtfcIn5MTMF0o"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282669,
+      "name": "River that runs forever",
+      "url": "https://open.spotify.com/track/4U4cW7s3iOiSJXFvzY9tiZ"
     },
     {
       "album": {
@@ -18625,6 +18787,28 @@
     },
     {
       "album": {
+        "name": "Simple #2",
+        "url": "https://open.spotify.com/album/0n1T5OqYYhkHxlDJposTdI"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Geri Allen",
+          "url": "https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472142,
+      "name": "Simple #2",
+      "url": "https://open.spotify.com/track/6E9jT8mDX12gvcBLK76hKh"
+    },
+    {
+      "album": {
         "name": "Sincerity",
         "url": "https://open.spotify.com/album/2rL4QchZYhoHgIWPTHvHZp"
       },
@@ -19484,6 +19668,10 @@
         {
           "name": "Oli Howe",
           "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        },
+        {
+          "name": "HOWES3",
+          "url": "https://open.spotify.com/artist/5kAArX8MAwHcmpsbdKhsuE"
         }
       ],
       "date_added": "2023-09-29",

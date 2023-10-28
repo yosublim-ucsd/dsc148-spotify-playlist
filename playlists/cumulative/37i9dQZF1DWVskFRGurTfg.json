@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica con Bellakath.",
+  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica con Eladio Carrion.",
   "name": "Hits Urbanos",
   "tracks": [
     {
@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 176727,
       "name": "Antes de Perderte",
       "url": "https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm"
@@ -852,6 +852,28 @@
       "duration_ms": 176470,
       "name": "BABY OTAKU",
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
+    },
+    {
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/5WN8wOXN4VxKVTxXlYfjXh"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159101,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz"
     },
     {
       "album": {
@@ -1566,7 +1588,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 178836,
       "name": "Caba\u00f1a",
       "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
@@ -2061,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Chimbiando",
+        "url": "https://open.spotify.com/album/7crWoBYWALhKVmqFF3Bx22"
+      },
+      "artists": [
+        {
+          "name": "El Clooy",
+          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157597,
+      "name": "Chimbiando",
+      "url": "https://open.spotify.com/track/2JuzL1lCVol7VJaKn8WnCn"
+    },
+    {
+      "album": {
         "name": "Chimbo",
         "url": "https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn"
       },
@@ -2160,6 +2200,40 @@
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
+    },
+    {
+      "album": {
+        "name": "Chup\u00f3n",
+        "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
+      },
+      "artists": [
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201084,
+      "name": "Chup\u00f3n",
+      "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
     },
     {
       "album": {
@@ -2498,6 +2572,28 @@
       "duration_ms": 246216,
       "name": "COMPLICES",
       "url": "https://open.spotify.com/track/6s980QxDECNvU8pp1SoSwP"
+    },
+    {
+      "album": {
+        "name": "El Hombre",
+        "url": "https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174853,
+      "name": "Con Silenciador",
+      "url": "https://open.spotify.com/track/0CcQ48Vvf92W69agjplFmf"
     },
     {
       "album": {
@@ -3216,6 +3312,28 @@
       "duration_ms": 226490,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
+    },
+    {
+      "album": {
+        "name": "Dem Time Deh",
+        "url": "https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167191,
+      "name": "Dem Time Deh",
+      "url": "https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf"
     },
     {
       "album": {
@@ -4912,6 +5030,28 @@
       "duration_ms": 191020,
       "name": "Fashion Girl - Remix",
       "url": "https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP"
+    },
+    {
+      "album": {
+        "name": "FATAL FANTASSY",
+        "url": "https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "FATAL FANTASSY",
+      "url": "https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh"
     },
     {
       "album": {
@@ -7437,6 +7577,28 @@
     },
     {
       "album": {
+        "name": "LET'S GO",
+        "url": "https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196880,
+      "name": "LET'S GO",
+      "url": "https://open.spotify.com/track/2dRwRtYFH95QcMcRhUVWBB"
+    },
+    {
+      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/00Ts4S6rOgvh41hUjrrA4T"
       },
@@ -7844,7 +8006,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 338000,
       "name": "Los del Espacio",
       "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"
@@ -10317,6 +10479,36 @@
     },
     {
       "album": {
+        "name": "OCASO",
+        "url": "https://open.spotify.com/album/4aGeeKBhCMXmnGerGbGGcI"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233273,
+      "name": "OCASO",
+      "url": "https://open.spotify.com/track/2KibbfI1tM4ofl4f3ojVBF"
+    },
+    {
+      "album": {
         "name": "Oh Na Na",
         "url": "https://open.spotify.com/album/4BHwvzeYB8EY1stGUBUlFg"
       },
@@ -10332,7 +10524,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 240377,
       "name": "Oh Na Na",
       "url": "https://open.spotify.com/track/2EtOOnd0tseAvHcm3WzACQ"
@@ -11316,7 +11508,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 215172,
       "name": "PICARD\u00cdA",
       "url": "https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF"
@@ -11522,7 +11714,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 288000,
       "name": "POLARIS - Remix",
       "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
@@ -15008,7 +15200,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 175662,
       "name": "Tus Labios",
       "url": "https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY"
@@ -15499,6 +15691,32 @@
     },
     {
       "album": {
+        "name": "Vem Quebrando",
+        "url": "https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF"
+      },
+      "artists": [
+        {
+          "name": "Mc Danone",
+          "url": "https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ"
+        },
+        {
+          "name": "DJ THG",
+          "url": "https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc"
+        },
+        {
+          "name": "Dj Hm Oliveira",
+          "url": "https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "Vem Quebrando",
+      "url": "https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1"
+    },
+    {
+      "album": {
         "name": "Venga Pa' Ac\u00e1",
         "url": "https://open.spotify.com/album/7L8D9kACIqQuMZfYRSICLu"
       },
@@ -15554,7 +15772,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 186000,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
@@ -15932,7 +16150,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 193835,
       "name": "X ESO BB",
       "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"

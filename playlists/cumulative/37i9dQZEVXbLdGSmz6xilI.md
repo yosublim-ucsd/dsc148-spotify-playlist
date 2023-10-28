@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-888 songs - 2 day 3 hr 42 min
+889 songs - 2 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -800,6 +800,7 @@
 | [từ chối nhẹ nhàng thôi](https://open.spotify.com/track/6B1Io9VDzMAmwFjrplDJw8) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/0JoA8Z6TWI31c6uWXldxyU) | 4:06 | 2021-03-27\* | 2021-07-04 |
 | [từ thích thích thành thương thương](https://open.spotify.com/track/1fh5Sf3fFESFOS8D82RQiI) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [dreAMEE \(acoustic\)](https://open.spotify.com/album/7Aifj5a3xjW2k9E3sEREtV) | 3:24 | 2021-03-27\* | 2021-07-04 |
 | [Từng Là Của Nhau](https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Từng Là Của Nhau](https://open.spotify.com/album/59xrACzg1Ip2ellb2JSzCN) | 4:29 | 2022-09-01 | 2022-10-23 |
+| [Từng Quen](https://open.spotify.com/track/3un8UkiPHJjlsrTHQnisXH) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Từng Quen](https://open.spotify.com/album/2M0vYJZddXn6qRpeVtGvDZ) | 2:55 | 2023-10-27 |  |
 | [Tự Tình 2](https://open.spotify.com/track/4AT7ZRCPu3jDxA4Y22IO22) | [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Tự Tình 2](https://open.spotify.com/album/644Tj4OPFEO8PtpgWhbvug) | 4:50 | 2022-10-04 | 2022-11-10 |
 | [uhgood](https://open.spotify.com/track/5vI1exL3zFhqFWDSL9fq5H) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 3:14 | 2022-05-09 | 2022-05-11 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-03 | 2023-05-06 |
@@ -864,7 +865,7 @@
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-08 | 2022-05-16 |
 | [À Lôi](https://open.spotify.com/track/3kxFvcB92qQg9wl52CQ7aV) | [Double2T](https://open.spotify.com/artist/1NM99SQTX93oCkzvNXWJCf), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [À Lôi](https://open.spotify.com/album/5DUBKdrQ7CsTblmHQXh4ae) | 3:17 | 2023-07-19 | 2023-09-23 |
 | [ái](https://open.spotify.com/track/3Gr6ucPp3qJbBZ3yrGmZTt) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 1:07 | 2023-08-18 | 2023-08-20 |
-| [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 | 2022-05-09 |  |
+| [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 | 2022-05-09 | 2023-10-28 |
 | [Âm Thầm Bên Em](https://open.spotify.com/track/1Huy9G87D6pbIveFulsH0P) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [m\-tp M\-TP](https://open.spotify.com/album/5hxm3ulOLVvjFdZNFO3n4M) | 4:53 | 2021-09-02 | 2023-07-09 |
 | [Ði Trong Mùa Hè](https://open.spotify.com/track/5ZblwtW67ZlZp8gXCcrGzn) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Trần Tiến](https://open.spotify.com/artist/5Def8ubFOWsEcchedgMnnG) | [Ði Trong Mùa Hè](https://open.spotify.com/album/7hj23eziHPiLaooEpxDhfm) | 4:31 | 2022-05-11 | 2022-05-13 |
 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-02-19 | 2022-05-30 |

@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-504 songs - 1 day 5 hr 57 min
+505 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Home](https://open.spotify.com/track/6zxurTaIpnxtpMQeb5gvua) | [Mia LJ](https://open.spotify.com/artist/6pDxZqoS1BAtgXbKaUGLSt) | [Home](https://open.spotify.com/album/0Y6AXld0XCPUsfJNE3GqJq) | 3:26 | 2021-11-12 | 2022-05-14 |
 | [Hometown Hero](https://open.spotify.com/track/4poofyrRe5Dh8p175GU0hz) | [Aaron Veal](https://open.spotify.com/artist/2zKQC2yK8SzmHcWhfrFnWL), [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt) | [Hometown Hero](https://open.spotify.com/album/1kUgbESxxgFkW9gu19RDoB) | 3:48 | 2023-09-15 |  |
 | [How it is](https://open.spotify.com/track/6WBKYXKT4elChnyfrBStOM) | [Nicole Brady](https://open.spotify.com/artist/57clVZKVIdtfcIn5MTMF0o), [Lydia Ainsworth](https://open.spotify.com/artist/7niNF3K2RlyrucFH7iZjWk), [Miles Mosley](https://open.spotify.com/artist/61s1uLqt9FobVIJirJo2gA), [Royal Scottish National Orchestra](https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf) | [How it is](https://open.spotify.com/album/22UxtvbRqaJx2SbjbzF7CB) | 2:41 | 2023-10-13 |  |
+| [how u feel](https://open.spotify.com/track/4iMNys9dTJ1DTAamO8IV53) | [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb), [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [how u feel](https://open.spotify.com/album/6EmduoDGQ6FhaYfPmm0TQl) | 2:27 | 2023-10-27 |  |
 | [Humble](https://open.spotify.com/track/1AEJnI5jtpGxCMM9Ulbc3m) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Somebody's Gotta Do It](https://open.spotify.com/album/4vfnCyWAhcBMQ6w8dY8dO4) | 3:39 | 2022-11-18 | 2023-05-27 |
 | [Humble](https://open.spotify.com/track/684Emdg5WsDqirI7XQPQkE) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Somebody's Gotta Do It](https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH) | 3:39 | 2022-10-21 | 2023-04-30 |
 | [Hybrid](https://open.spotify.com/track/6zxpIfvQumUZatd79TlI2q) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Matthew Progress](https://open.spotify.com/artist/68BrcwaCZg1OQGSPEBIucW), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Tabula Rasa](https://open.spotify.com/album/2zRT3RmIBeoFVuAOA2TnKL) | 2:53 | 2021-11-12 | 2022-05-14 |
@@ -391,7 +392,7 @@
 | [Sometimes](https://open.spotify.com/track/277g8X8E2Fc2gaSx73FWNs) | [Rudi Creswick](https://open.spotify.com/artist/1u238rg67yiJYzLpylTeCG), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Sometimes](https://open.spotify.com/album/7En3z14aTEDt7hEeyOu05y) | 2:54 | 2022-07-22 | 2023-02-25 |
 | [Soul Caliber](https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Quintin Gulledge](https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf) | [The Seed](https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE) | 5:12 | 2022-11-11 |  |
 | [SOULFOOD](https://open.spotify.com/track/20RhQuUdD8ZTQktuHfwa0t) | [Diz](https://open.spotify.com/artist/1mz96NTqUI57Au0t28JyBK), [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [SOULFOOD](https://open.spotify.com/album/3pYuQGNuTIl3qydMJHBE5v) | 2:42 | 2022-07-29 | 2023-01-14 |
-| [Southend Baby](https://open.spotify.com/track/1iK6Dp1SL31xpaJ9VDrHrB) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [SOUTHEND LEGEND](https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A) | 2:05 | 2023-01-06 |  |
+| [Southend Baby](https://open.spotify.com/track/1iK6Dp1SL31xpaJ9VDrHrB) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [SOUTHEND LEGEND](https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A) | 2:05 | 2023-01-06 | 2023-10-28 |
 | [Southend Baby](https://open.spotify.com/track/1sSRZpBy7XIXip9HyiQwSD) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/0S6XMnrUgP8RsJlmBp0akp) | 2:05 | 2023-01-06 | 2023-07-07 |
 | [Southend Baby](https://open.spotify.com/track/1ve2lB4TYaLEqNnkjZlewo) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/22mpXTrMJEfIsdPxVlq3k8) | 2:05 | 2023-01-06 | 2023-07-31 |
 | [Spirit Speak](https://open.spotify.com/track/1d5iBVkBll0xhKH0jk9qaj) | [The Merk](https://open.spotify.com/artist/6ne0qgRZ2nlQMQssYhi6uE) | [Spirit Speak](https://open.spotify.com/album/3YVEw99qlwubma2ysL1rFL) | 3:26 | 2022-01-21 | 2022-02-19 |

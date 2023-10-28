@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "3ple X (Radio Edit)",
+        "url": "https://open.spotify.com/album/1Ah1jnwVoENBApJqSargQd"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211084,
+      "name": "3ple X - Radio Edit",
+      "url": "https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND"
+    },
+    {
+      "album": {
         "name": "45 GRADOS",
         "url": "https://open.spotify.com/album/3Rrng36wX7sHHYemRlNoap"
       },
@@ -834,7 +856,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 216827,
       "name": "BOXXITA",
       "url": "https://open.spotify.com/track/1lLbuH3Iw2wBea0rFpNSHq"
@@ -1336,7 +1358,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 150093,
       "name": "Contenta",
       "url": "https://open.spotify.com/track/3kDeZkH9kk9VEHlEZBy49v"
@@ -2270,7 +2292,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 172946,
       "name": "Enredao",
       "url": "https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m"
@@ -2354,6 +2376,40 @@
       "duration_ms": 151020,
       "name": "Esos D\u00edas - Spotify Singles",
       "url": "https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY"
+    },
+    {
+      "album": {
+        "name": "Espantan (Remix)",
+        "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218019,
+      "name": "Espantan - Remix",
+      "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
     },
     {
       "album": {
@@ -3634,7 +3690,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 192500,
       "name": "La Fruta",
       "url": "https://open.spotify.com/track/3OOyciu3J4atd45FNoS9Kf"
@@ -3783,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "Le Mete",
+        "url": "https://open.spotify.com/album/5u7LRnrAU0iWKQdO0XyOqO"
+      },
+      "artists": [
+        {
+          "name": "Chikis RA",
+          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168680,
+      "name": "Le Mete",
+      "url": "https://open.spotify.com/track/5ZMz7ZUtLXfRChCR9Y3FFw"
+    },
+    {
+      "album": {
         "name": "Lejos de Casa",
         "url": "https://open.spotify.com/album/60PhM04kmMLGRNINi5PkFh"
       },
@@ -3798,6 +3872,28 @@
       "duration_ms": 169000,
       "name": "Lejos de Casa",
       "url": "https://open.spotify.com/track/4j1iA7ryEvbfHlbh9G6rTH"
+    },
+    {
+      "album": {
+        "name": "Ley Anti Perreo",
+        "url": "https://open.spotify.com/album/5QHkwAKmaO5SLVQptAuxRC"
+      },
+      "artists": [
+        {
+          "name": "EDGAR MIX",
+          "url": "https://open.spotify.com/artist/2RH2SlqVJ07lcpBb68bSxI"
+        },
+        {
+          "name": "El Habano",
+          "url": "https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170044,
+      "name": "Ley Anti Perreo",
+      "url": "https://open.spotify.com/track/2Uu3nR9OVgH59eUawX2qRs"
     },
     {
       "album": {
@@ -4058,6 +4154,24 @@
       "duration_ms": 201496,
       "name": "Mal Acompa\u00f1ada",
       "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
+    },
+    {
+      "album": {
+        "name": "Mal Hombre",
+        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162061,
+      "name": "Mal Hombre",
+      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
     },
     {
       "album": {
@@ -5288,6 +5402,32 @@
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
+    },
+    {
+      "album": {
+        "name": "Pa Cali",
+        "url": "https://open.spotify.com/album/60dNSK0QObOLMcYo3ZLRq5"
+      },
+      "artists": [
+        {
+          "name": "Josezo",
+          "url": "https://open.spotify.com/artist/1X5BDWwXmqw2TD79jQdzsc"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        },
+        {
+          "name": "Manni Martinez",
+          "url": "https://open.spotify.com/artist/3ofYRHc7Ceggkp7CqLAsLK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176322,
+      "name": "Pa Cali",
+      "url": "https://open.spotify.com/track/6zC1X5dmpUvr8xkJ2rLTvn"
     },
     {
       "album": {
@@ -6628,7 +6768,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202000,
       "name": "Sateo",
       "url": "https://open.spotify.com/track/1PFDTC4pDagLY7bSy0Htzp"
@@ -7026,7 +7166,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 199654,
       "name": "SQ LITO",
       "url": "https://open.spotify.com/track/6xGn94pu3u5xDpEDbrbDbn"

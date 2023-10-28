@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-294 songs - 16 hr 16 min
+295 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Keep Me Up](https://open.spotify.com/track/44Cqn7kPJ7ZdTIrgG7EFqE) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Keep Me Up](https://open.spotify.com/album/27CHocZopHED9uvae877j3) | 3:18 | 2022-07-25 | 2022-11-13 |
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-07-25 |  |
 | [Late \(Again\)](https://open.spotify.com/track/0aj8PtJlkBz7Dbp1Yx0w9f) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Late \(Again\)](https://open.spotify.com/album/5sXWRGyWQL7kMXbqYl2ltR) | 1:55 | 2022-06-06 | 2022-07-27 |
+| [Late \(Again\)](https://open.spotify.com/track/2hSjqnEeGoOQvCOnoMtXWE) | [vito.](https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0) | [Late \(Again\)](https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz) | 1:55 | 2023-10-23 |  |
 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 | 2022-07-25 |  |
 | [leave before u do](https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [leave before u do](https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh) | 3:02 | 2022-06-06 | 2022-07-29 |
 | [Leave You Alone](https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:29 | 2022-07-25 |  |
@@ -273,7 +274,7 @@
 | [Traps](https://open.spotify.com/track/1sxgNMOBtQqAjliBB6oxeR) | [Abigail](https://open.spotify.com/artist/11yfGLGb5HMw3iGo0MN1rB), [Lil J](https://open.spotify.com/artist/6OPGYD3Cz0UCffp09wFa4B) | [Traps](https://open.spotify.com/album/2Txz3W5EfuNmEmC8iLmm4t) | 3:15 | 2022-06-06 | 2022-07-29 |
 | [Traumatized](https://open.spotify.com/track/2BEiZgGUo7qGqWjEUwiOn7) | [Page Music](https://open.spotify.com/artist/4sEcV3dkrZEurn0zsE46jK), [Ova Libenovo](https://open.spotify.com/artist/7nFa4wz5RZILHGVtXPfAUj), [Fhasyyati](https://open.spotify.com/artist/55kDUI5YRbkhishN3Xz1Li) | [Traumatized](https://open.spotify.com/album/3QdiAl3ar3nt0WjzWFB9Gf) | 3:18 | 2022-06-06 | 2022-07-25 |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-28 |  |
-| [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-07-25 |  |
+| [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-07-25 | 2023-10-28 |
 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 | 2022-07-25 |  |
 | [Two Sides](https://open.spotify.com/track/0HN3K1Y4sRJIHZmI2s5pU1) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Two Sides](https://open.spotify.com/album/03ir5ImoetQFACvTPTn4sK) | 3:46 | 2022-06-06 | 2023-06-10 |
 | [Ugly](https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:33 | 2022-07-25 | 2023-09-13 |

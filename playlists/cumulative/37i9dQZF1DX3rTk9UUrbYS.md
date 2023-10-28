@@ -4,11 +4,12 @@
 
 > Avant\-garde, experimental and free jazz.
 
-133 songs - 17 hr 41 min
+134 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [6 & 8 II](https://open.spotify.com/track/3AnMq4SPj1OIroah0XlwlK) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [6 & 8 II](https://open.spotify.com/album/1zVFPZB3pwdDmbZDULYnHj) | 22:02 | 2023-09-29 |  |
+| [6 & 8 II](https://open.spotify.com/track/0j2BbmfOWXof5831bYq5eM) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [Wooden Music II](https://open.spotify.com/album/6ZjFabpgSwAIlAdUWAZeSN) | 22:02 | 2023-09-29 |  |
+| [6 & 8 II](https://open.spotify.com/track/3AnMq4SPj1OIroah0XlwlK) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [6 & 8 II](https://open.spotify.com/album/1zVFPZB3pwdDmbZDULYnHj) | 22:02 | 2023-09-29 | 2023-10-28 |
 | [A Very Long Letter](https://open.spotify.com/track/3t0OZ1WS8Pw3xhrzAG3J7d) | [Aki Takase](https://open.spotify.com/artist/09yacWNQY2fYjP3ubsmWTM), [David Murray](https://open.spotify.com/artist/00SOiqZ0YGY2JhjSPxZMZg) | [Cherry \- Sakura](https://open.spotify.com/album/1TMo9GiQZZq88JfjDvVq4L) | 5:44 | 2020-08-25 |  |
 | [A Very Long Letter](https://open.spotify.com/track/6yoWyTB5nxXtcnWSFJNlpy) | [David Murray](https://open.spotify.com/artist/00SOiqZ0YGY2JhjSPxZMZg), [Aki Takase](https://open.spotify.com/artist/09yacWNQY2fYjP3ubsmWTM) | [Cherry / Sakura](https://open.spotify.com/album/7mrEPRwxiNMU1cO9EsMrjm) | 5:44 | 2020-08-25 | 2022-07-27 |
 | [Active\-Multiple\-Fetish\-Overlord](https://open.spotify.com/track/33zPcLxJskorIH1fENf81I) | [Binker and Moses](https://open.spotify.com/artist/7mKZJ0SITREZQovQF6Qeb4), [Max Luthert](https://open.spotify.com/artist/0SY44UCwBAxIo3mrKixXRB) | [Feeding the Machine](https://open.spotify.com/album/5ea09DMYFAHgWj88zLYuNm) | 3:33 | 2022-03-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Clio
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,877 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,930 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 8 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 |
 | 9 | [Laisse courir](https://open.spotify.com/track/1dxCI4KuVhWHxbqeYMomSf) | [Lou de la Falaise](https://open.spotify.com/artist/5Hm0bxvHlfSILH2LY4pvnK) | [Sans espoir ni desespoir](https://open.spotify.com/album/4uT1OZcV64iPYm024ApCL3) | 2:59 |
 | 10 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 |
-| 11 | [DON'T YOU THINK IT'D BE NICE](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 |
+| 11 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 |
 | 12 | [L'an prochain](https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Jules Jaconelli](https://open.spotify.com/artist/5vQd9dKRdEZFKuMjtF4qoJ) | [L'an prochain](https://open.spotify.com/album/6kExkDePwNliVyZfXLRscx) | 3:20 |
 | 13 | [The Devil I Know](https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [The Devil I Know](https://open.spotify.com/album/0hJR4tbsE32LpjbdD8km3d) | 2:40 |
 | 14 | [The Secret \(The Promise Version\)](https://open.spotify.com/track/5QjzQ7asp6pyZ3vA5hdJdH) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [The Secret \(The Promise Version\)](https://open.spotify.com/album/5WljcXBf72wU7zEVumjKiT) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [SOS Love Story](https://open.spotify.com/track/023iDDLtk8OU4Jb11rfARY) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [SOS Love Story](https://open.spotify.com/album/4c45lSdFers0FLrmOeOijG) | 3:05 |
 | 50 | [Polka \(feat\. Mathieu Boogaerts\)](https://open.spotify.com/track/5bDAWKeNJbEpIMqaUx5GfR) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj), [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Polka \(feat\. Mathieu Boogaerts\)](https://open.spotify.com/album/1VuQsHuRsr1KMPjysZuDs8) | 2:56 |
 
-Snapshot ID: `MCw4MjA3MGZjOTU2MzY0ZDZkODcxYTJkYzk2NTdiOGUxZTFkZDIzOWRi`
+Snapshot ID: `MCw3MThkMzc4OTc0YmY4ZjQ0MmM3YWI2MjVmZTA2NzA4ODJlNWRlMGI4`

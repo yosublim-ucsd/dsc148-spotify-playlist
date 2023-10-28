@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUajed02NzWR.md) - [plain]
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,235 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,289 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUajed02NzWR.md) - [plain]
 | 48 | [The Gadfly Suite, Op\. 97a: VIII\. Romance](https://open.spotify.com/track/6VDHdry8ytOL2WWbePDxSD) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Piers Lane](https://open.spotify.com/artist/1x1BXaOZgIvaHnafQhuPYB), [Tasmin Little](https://open.spotify.com/artist/0yB2SgzCCYb9uhjd4BG4pP) | [Soft Classical Music for Sleeping](https://open.spotify.com/album/0m8zvPL66y78Hpt2ynfdA8) | 3:15 |
 | 49 | [Overture \(Suite\) in B\-Flat Major, TWV 55:B2: Aria IV: Sarabande](https://open.spotify.com/track/6AZjRiwv72j61akjhPTMo3) | [Georg Philipp Telemann](https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj), [La Stagione Frankfurt](https://open.spotify.com/artist/532c5jnFC6nNn3fOK1DunO), [Michael Schneider](https://open.spotify.com/artist/4Hup4S0xDEIz2uLdEyjXuc) | [Telemann: 6 Orchestral Suites](https://open.spotify.com/album/6NSryoWHUhVmaf3xU1vGxD) | 2:32 |
 | 50 | [Quartet in G major / Sol majeur / G\-dur: I\. Largo \- Allegro \- Largo](https://open.spotify.com/track/2HDDWLNltnJLPN2xUsMjOE) | [Georg Philipp Telemann](https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj), [Petra Mullejans](https://open.spotify.com/artist/0JGI98ag3YDbM9SCHcnKXg), [Gottfried Von Der Goltz](https://open.spotify.com/artist/4Jq1SP0L2atkSMv5wNOU66), [Freiburger Barockorchester](https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai) | [Telemann: Complete Tafelmusik](https://open.spotify.com/album/5D10EAjaasKfPLtnKV6qAn) | 3:38 |
-| 51 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/5ESGW72VURk7fyX3cXrZcd) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh) | [Bach: Cello Suites, BWVV 1007\-1012](https://open.spotify.com/album/6LNSpqwdSSJ9cZH2uAJGsi) | 2:38 |
+| 51 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prelude](https://open.spotify.com/track/7rbdIc1G5PjmLtQJiG8NSI) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh) | [Bach: Cello Suites](https://open.spotify.com/album/2CAPFGnqtqzx5LjuWILaC9) | 2:38 |
 
-Snapshot ID: `MCxlZGEyMWRkODg5NWIxMzFmNGJiOTUwZGEzMzE1M2FhMmY3YmE3NmE3`
+Snapshot ID: `MCw0MmIzYzg4ZmY1YWYyZDM1OTRjMzczOTY1NTFiMWYwZjg4MTRlNjI3`

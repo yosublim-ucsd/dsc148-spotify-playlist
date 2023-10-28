@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,266 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,318 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 32 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
 | 33 | [El Club de Mujeres Engañadas](https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [La Reina](https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6) | 4:08 |
 | 34 | [No Te das Cuenta](https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Te das Cuenta](https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC) | 4:04 |
-| 35 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
-| 36 | [La Muy Muy \- \(Album Version\)](https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:18 |
+| 35 | [La Muy Muy \- \(Album Version\)](https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:18 |
+| 36 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
 | 37 | [Cumbia de los Dos](https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Cumbia de los Dos](https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi) | 4:24 |
 | 38 | [No Te Creas Tan Importante](https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 4:10 |
 | 39 | [Karma](https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Karma](https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC) | 2:56 |
-| 40 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 |
+| 40 | [Metrosexual](https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:16 |
 | 41 | [La Cantaleta](https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [20 TropiExitos](https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm) | 3:38 |
-| 42 | [Si Tu Te Vas](https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Si hay alguien en tu vida](https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs) | 3:51 |
-| 43 | [Metrosexual](https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:16 |
+| 42 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 |
+| 43 | [Si Tu Te Vas](https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Si hay alguien en tu vida](https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs) | 3:51 |
 | 44 | [Que no se entere](https://open.spotify.com/track/0PtHJn4KCLVoFI5gR4nBRU) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No te confundas](https://open.spotify.com/album/6Sp9EMuyxQtWwDri5dRji4) | 3:18 |
 | 45 | [Chau Chau](https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Chau Chau](https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie) | 2:44 |
 | 46 | [Bien Warrior \(feat\. DJ Krass\)](https://open.spotify.com/track/5n1NGn7RHU30QxQHk0onlZ) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [DJ Krass](https://open.spotify.com/artist/0Ft52aTdmeD5N2ncuniI0d) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:42 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 64 | [Sigo Aquí](https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Sigo Aquí](https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX) | 4:00 |
 | 65 | [Placer y Olvido](https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Placer y Olvido \(En Vivo\)](https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP) | 1:22 |
 
-Snapshot ID: `MCxmZGVkMTcwMTQ4YWE3MWVjZTJlMjJmNzZmNTY2NDhkYzg4NWMwMmJh`
+Snapshot ID: `MCw1Y2ZlZWRiMDdmOWIzODA5NzkyNjM3NDliMWEyNTg3YmRkNzYyMThj`

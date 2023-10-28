@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Los de afuera son de palo",
+        "url": "https://open.spotify.com/album/69NJYg8iCMWraa7Pkw9fh3"
+      },
+      "artists": [
+        {
+          "name": "Girless",
+          "url": "https://open.spotify.com/artist/0I43z1XvY83Y2gdmT4ZSHk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Badabum",
+      "url": "https://open.spotify.com/track/2PEwvgXfaQpa6bY749iqfm"
+    },
+    {
+      "album": {
         "name": "Bar Adriana",
         "url": "https://open.spotify.com/album/3st9TXc0K7h8TU3hlghgEw"
       },
@@ -4038,7 +4056,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 188437,
       "name": "Giovane Distratta",
       "url": "https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ"

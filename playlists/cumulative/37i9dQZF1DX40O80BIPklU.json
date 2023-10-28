@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. M\u00e9tricas Fr\u00edas en portada. ",
+  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Yoss Bones y Dharius en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -1319,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "De Oro",
+        "url": "https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk"
+      },
+      "artists": [
+        {
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "De Oro",
+      "url": "https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB"
+    },
+    {
+      "album": {
         "name": "De Todo Un Poco",
         "url": "https://open.spotify.com/album/6IMPQbEBdoWF3xzKfd2NFC"
       },
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 190000,
       "name": "El Ayer",
       "url": "https://open.spotify.com/track/3vxpy2vOzLtCjx82CoWte6"
@@ -1662,6 +1680,28 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "album": {
+        "name": "En La Calle",
+        "url": "https://open.spotify.com/album/1sdlYzUj8vYzzVuheawjqe"
+      },
+      "artists": [
+        {
+          "name": "Pedro Peligro",
+          "url": "https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237183,
+      "name": "En La Calle",
+      "url": "https://open.spotify.com/track/10hrydo6Lzikx92sQI025W"
     },
     {
       "album": {
@@ -3087,6 +3127,36 @@
     },
     {
       "album": {
+        "name": "Melanc\u00f3licos",
+        "url": "https://open.spotify.com/album/4CkNFb3361xzBBnlCh6TY0"
+      },
+      "artists": [
+        {
+          "name": "Abram",
+          "url": "https://open.spotify.com/artist/77JcIMJmNJpBchsYdXyeae"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "SIRIAN",
+          "url": "https://open.spotify.com/artist/2VdT0FWo6kAW0UdNGSB9eF"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Melanc\u00f3licos",
+      "url": "https://open.spotify.com/track/08oK0PA2snKyuURSJq8cnP"
+    },
+    {
+      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
       },
@@ -3922,7 +3992,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 342142,
       "name": "Quiero Ser Baladista",
       "url": "https://open.spotify.com/track/5vn7LJgmLIy8Xxg7359eO6"
@@ -4072,6 +4142,28 @@
       "duration_ms": 519289,
       "name": "Residente: Bzrp Music Sessions, Vol. 49",
       "url": "https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i"
+    },
+    {
+      "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
     },
     {
       "album": {
@@ -4874,7 +4966,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 227702,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
@@ -4984,7 +5076,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 180348,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/42EDLkzqnTmw2xZZ9bkfYT"

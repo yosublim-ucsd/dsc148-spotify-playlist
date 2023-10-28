@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=8eFI3bZKQg6\-tCSQCFaw2A">Mercy Chinwo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,891 likes - 97 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,003 likes - 97 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 96 | [Celebrate](https://open.spotify.com/track/023XtDo25wzIeY6an6toIG) | [Ndlovu Youth Choir](https://open.spotify.com/artist/5Wj12iPc23dZqX3K67PwE6) | [Celebrate](https://open.spotify.com/album/5mddCYEjhXEb6muZB4SsS2) | 2:54 |
 | 97 | [High Calling](https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [High Calling](https://open.spotify.com/album/3A3N6gYhQUFK48zRkg5o63) | 3:08 |
 
-Snapshot ID: `MCw4ZTRjNzU3YjIyZWE2MDQ2YzY4ZTc0YmU3NmMwY2FlNzYwODhmZDFh`
+Snapshot ID: `MCwxODJkM2M0ZWQyOTNjM2NkMzM3M2QyOTIwMmI4MTQ3NzcwOWVlZDE2`

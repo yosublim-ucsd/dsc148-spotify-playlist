@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,062 likes - 48 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,135 likes - 48 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [El Negro Esta Cocinando](https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 5:28 |
 | 48 | [Besito Con Lengua](https://open.spotify.com/track/4jVEcFzRACgZm5gpkhXigP) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Yakarta](https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG) | [Party Full Nasty \(Deluxe Edition\)](https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw) | 3:28 |
 
-Snapshot ID: `MCw0NDRlMjNmOTBjMDFkM2M5YzJjZWJlYTQzOGU5NDhlY2QxOTRjNzc0`
+Snapshot ID: `MCw4ZDc4NDJjOTBiMjExNWYyYTAxOWMzODY5ODJlZDQ1NTU0MTRiZTRk`

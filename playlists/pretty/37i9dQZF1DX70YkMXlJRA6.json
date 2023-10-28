@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47143,
+  "num_followers": 47171,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzQ0NzU4YjM1MzIyZDBmOTYzYmUxM2RjZDQwYjMzMzM3OTIwMDVm",
+  "snapshot_id": "MCw0Yjk4OTMyODZjY2QzNDg0Y2JmMmE4OTQxNDBkNWFjYTdkMWI5ODlm",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -397,30 +397,6 @@
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
-      "added_at": "2023-05-24 02:19:29",
-      "album": {
-        "name": "El Tiempo (Captain Planet Remix)",
-        "url": "https://open.spotify.com/album/4wlMcrq2ebIypk1FPwm94l"
-      },
-      "artists": [
-        {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        },
-        {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 223888,
-      "name": "El Tiempo (Captain Planet Remix)",
-      "url": "https://open.spotify.com/track/4c5nygEjIwHZSgAFPVXfiJ"
-    },
-    {
       "added_at": "2023-03-23 21:34:53",
       "album": {
         "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
@@ -443,6 +419,30 @@
       "duration_ms": 395632,
       "name": "Gato Negro - Daniel Hokum & okuma Remix",
       "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
+    },
+    {
+      "added_at": "2023-05-24 02:19:29",
+      "album": {
+        "name": "El Tiempo (Captain Planet Remix)",
+        "url": "https://open.spotify.com/album/4wlMcrq2ebIypk1FPwm94l"
+      },
+      "artists": [
+        {
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        },
+        {
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 223888,
+      "name": "El Tiempo (Captain Planet Remix)",
+      "url": "https://open.spotify.com/track/4c5nygEjIwHZSgAFPVXfiJ"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Que Me Siga (Malo)",
         "url": "https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 195946,
       "name": "Que Me Siga (Malo)",
       "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -541,6 +541,22 @@
       "url": "https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S"
     },
     {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Beat Cari",
+        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 332142,
+      "name": "Beat Cari",
+      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
+    },
+    {
       "added_at": "2022-11-12 17:24:45",
       "album": {
         "name": "Piedras del Sol",
@@ -559,22 +575,6 @@
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Beat Cari",
-        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 332142,
-      "name": "Beat Cari",
-      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Beach Planet Vol. 1",
-        "url": "https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp"
-      },
-      "artists": [
-        {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Each Time I Think of You",
-      "url": "https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "La Tercera Vision",
         "url": "https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 235418,
       "name": "Mano de Fatima",
       "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Beach Planet Vol. 1",
+        "url": "https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp"
+      },
+      "artists": [
+        {
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Each Time I Think of You",
+      "url": "https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
-      "added_at": "2023-05-12 15:56:59",
-      "album": {
-        "name": "Mala Crianza",
-        "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
-      },
-      "artists": [
-        {
-          "name": "Macha Kiddo",
-          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Fuleamelo",
-      "url": "https://open.spotify.com/track/7cGW3OvX5ERF8KUwrAEDP2"
-    },
-    {
       "added_at": "2022-06-07 16:47:23",
       "album": {
         "name": "L\u00e1zaro",
@@ -931,6 +915,22 @@
       "duration_ms": 256551,
       "name": "Pandemia",
       "url": "https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8"
+    },
+    {
+      "added_at": "2023-05-12 15:56:59",
+      "album": {
+        "name": "Mala Crianza",
+        "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
+      },
+      "artists": [
+        {
+          "name": "Macha Kiddo",
+          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Fuleamelo",
+      "url": "https://open.spotify.com/track/7cGW3OvX5ERF8KUwrAEDP2"
     },
     {
       "added_at": "2022-06-07 16:47:23",

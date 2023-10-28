@@ -4,7 +4,7 @@
 
 > Un paseo por la ciudad pintada de violeta.
 
-63 songs - 4 hr 0 min
+64 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Lemonade Lake](https://open.spotify.com/track/37c5Zy0vJIGvtW03cDamUo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 4:19 | 2022-03-13 |  |
 | [Liquid Sunshine](https://open.spotify.com/track/5rXMjn480P9q0aomXjmj0Q) | [John Cameron](https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk) | [Kpm 1000 Series: Voices in Harmony](https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o) | 2:59 | 2022-03-13 |  |
 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 | 2022-03-13 |  |
+| [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-10-28 |  |
 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 | 2022-03-13 |  |
 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-03-31 |  |
 | [Passionfruit](https://open.spotify.com/track/5wt77SLNpmmrwhjcITgcaz) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Passionfruit](https://open.spotify.com/album/4o0ARuL2D7jQMXUiLxPUmQ) | 3:13 | 2022-03-13 |  |

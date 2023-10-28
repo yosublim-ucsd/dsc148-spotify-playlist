@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: David Guetta, Ayra Starr, Lil Durk
 
-394 songs - 20 hr 31 min
+395 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Grown On Me](https://open.spotify.com/track/77EwsTh7jz9khxVQK7gFBW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Grown On Me](https://open.spotify.com/album/6MPLE8JVSX61qji1B6vocH) | 3:56 | 2023-09-28 |  |
 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 | 2023-03-16 | 2023-05-19 |
 | [HARD](https://open.spotify.com/track/4tuWS8iuaCr0o7rH81bVIo) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [HARD](https://open.spotify.com/album/4pzInYiRaiDt8v7N5pRohl) | 3:40 | 2022-12-08 | 2023-02-17 |
-| [Heart Still Beating](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp) | 2:29 | 2023-10-26 |  |
+| [Heart Still Beating](https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m) | 2:29 | 2023-10-26 |  |
+| [Heart Still Beating](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp) | 2:29 | 2023-10-26 | 2023-10-28 |
 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 | 2023-03-03 | 2023-06-30 |
 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 | 2023-05-04 | 2023-08-25 |
 | [Hey DJ](https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ](https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi) | 2:37 | 2023-10-05 |  |

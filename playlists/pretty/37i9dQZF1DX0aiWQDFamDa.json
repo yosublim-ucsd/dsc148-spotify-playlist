@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 44188,
+  "num_followers": 44247,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWUxMzY3MmY4M2I0Y2RmNDk3MjMwMDhmNGI3MjA0YjZjNjFiYjFh",
+  "snapshot_id": "MCw4MTU3Mzc2ZTgyMDMzN2FhOTkyZDU5OThkNDIyODEzMjc5MTUxZjJh",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -291,6 +291,30 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        }
+      ],
+      "duration_ms": 323184,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee"
       },
@@ -319,30 +343,6 @@
       "duration_ms": 177520,
       "name": "Brother Rabbit",
       "url": "https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG"
-      },
-      "artists": [
-        {
-          "name": "Copenhagen Jazzexperience",
-          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        }
-      ],
-      "duration_ms": 323184,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 311560,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "the point above",
         "url": "https://open.spotify.com/album/7EeqlvrMoFYDZjWh1jDyuu"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 168615,
       "name": "the point above",
       "url": "https://open.spotify.com/track/27j2QBudHBt7AYWjCpcnEa"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 311560,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Same As Ever",
-        "url": "https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc"
-      },
-      "artists": [
-        {
-          "name": "The Collective",
-          "url": "https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP"
-        }
-      ],
-      "duration_ms": 310450,
-      "name": "The ballad of sad young men",
-      "url": "https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Mindful in Solitude",
         "url": "https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+        "name": "Same As Ever",
+        "url": "https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc"
       },
       "artists": [
         {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+          "name": "The Collective",
+          "url": "https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP"
         }
       ],
-      "duration_ms": 264920,
-      "name": "Alba",
-      "url": "https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB"
+      "duration_ms": 310450,
+      "name": "The ballad of sad young men",
+      "url": "https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -735,6 +719,22 @@
       "duration_ms": 255734,
       "name": "Blueberry Street",
       "url": "https://open.spotify.com/track/6YeUTstb4pY8jUE3xWhX0d"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 264920,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Think about that",
+        "url": "https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 166057,
+      "name": "Think about that",
+      "url": "https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Madrigal",
         "url": "https://open.spotify.com/album/3g7XP0N3nxkDmmKfvRYEo7"
       },
@@ -831,34 +847,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Think about that",
-        "url": "https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9"
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
       },
       "artists": [
         {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
         }
       ],
-      "duration_ms": 166057,
-      "name": "Think about that",
-      "url": "https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
-      },
-      "artists": [
-        {
-          "name": "Ben & Katsy",
-          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
-        }
-      ],
-      "duration_ms": 244879,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
+      "duration_ms": 155786,
+      "name": "The Longing",
+      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
       },
       "artists": [
         {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+          "name": "Ben & Katsy",
+          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
         }
       ],
-      "duration_ms": 155786,
-      "name": "The Longing",
-      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
+      "duration_ms": 244879,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Lazy Steps",
-        "url": "https://open.spotify.com/album/2nyieRloloSNbpfwfAoHAj"
-      },
-      "artists": [
-        {
-          "name": "Tadd Norman",
-          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
-        }
-      ],
-      "duration_ms": 228740,
-      "name": "Lazy Steps",
-      "url": "https://open.spotify.com/track/5fhQ6woeIt71IEPs9q0Zd5"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Gnostic",
         "url": "https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 216614,
       "name": "Gnostic",
       "url": "https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Lazy Steps",
+        "url": "https://open.spotify.com/album/2nyieRloloSNbpfwfAoHAj"
+      },
+      "artists": [
+        {
+          "name": "Tadd Norman",
+          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
+        }
+      ],
+      "duration_ms": 228740,
+      "name": "Lazy Steps",
+      "url": "https://open.spotify.com/track/5fhQ6woeIt71IEPs9q0Zd5"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "I wish I did",
-        "url": "https://open.spotify.com/album/1TO02dKaeGtMBXDHlUiwjA"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 203175,
-      "name": "I wish I did",
-      "url": "https://open.spotify.com/track/44AchFNfZR9RsnGz76s05b"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Songbook",
         "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Hidden Beauty",
-        "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
+        "name": "I wish I did",
+        "url": "https://open.spotify.com/album/1TO02dKaeGtMBXDHlUiwjA"
       },
       "artists": [
         {
-          "name": "Triosence",
-          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
         }
       ],
-      "duration_ms": 243013,
-      "name": "Leave Me Here",
-      "url": "https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v"
+      "duration_ms": 203175,
+      "name": "I wish I did",
+      "url": "https://open.spotify.com/track/44AchFNfZR9RsnGz76s05b"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 329920,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/2FRxAg2NEodIJdCoFqVzv0"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Hidden Beauty",
+        "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "duration_ms": 243013,
+      "name": "Leave Me Here",
+      "url": "https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Colour Yes (Special Edition)",
-        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 790920,
-      "name": "I've Been Here Before - Special Edition",
-      "url": "https://open.spotify.com/track/2Guj4HKiwv4P9F2N1rpeWL"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Powell to the People",
         "url": "https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 314763,
       "name": "I'll Keep Loving You",
       "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Colour Yes (Special Edition)",
+        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 790920,
+      "name": "I've Been Here Before - Special Edition",
+      "url": "https://open.spotify.com/track/2Guj4HKiwv4P9F2N1rpeWL"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1443,26 +1443,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Some Love Songs",
-        "url": "https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB"
+        "name": "Contra La Indecisi\u00f3n",
+        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
       },
       "artists": [
         {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
-        },
-        {
-          "name": "Drew Gress",
-          "url": "https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK"
-        },
-        {
-          "name": "Jochen Rueckert",
-          "url": "https://open.spotify.com/artist/63u4hpQvFiSrFUdrd6g2eV"
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
         }
       ],
-      "duration_ms": 473680,
-      "name": "Spartacus Love Theme",
-      "url": "https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA"
+      "duration_ms": 314573,
+      "name": "Canci\u00f3n Y Danza VI",
+      "url": "https://open.spotify.com/track/1iNE14jpYWtLoeQitCoYaG"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1483,18 +1475,26 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Contra La Indecisi\u00f3n",
-        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
+        "name": "Some Love Songs",
+        "url": "https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB"
       },
       "artists": [
         {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        },
+        {
+          "name": "Drew Gress",
+          "url": "https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK"
+        },
+        {
+          "name": "Jochen Rueckert",
+          "url": "https://open.spotify.com/artist/63u4hpQvFiSrFUdrd6g2eV"
         }
       ],
-      "duration_ms": 314573,
-      "name": "Canci\u00f3n Y Danza VI",
-      "url": "https://open.spotify.com/track/1iNE14jpYWtLoeQitCoYaG"
+      "duration_ms": 473680,
+      "name": "Spartacus Love Theme",
+      "url": "https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA"
     },
     {
       "added_at": "2023-10-13 00:01:00",

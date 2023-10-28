@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Meernaa <3",
-  "num_followers": 191933,
+  "num_followers": 191963,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2Y4YjA2MTdjMjg4ZDhhMzFjOWVhODZkNGRjN2ZjY2ZjYWIzMzFj",
+  "snapshot_id": "MCxkMGM2ZGIxMzljMzdkN2EyNmRkYjg4NzAyMDMwYmEyMDVhYTc4OGJk",
   "tracks": [
     {
       "added_at": "2023-10-18 16:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 186923,
       "name": "So Dramatic!",
       "url": "https://open.spotify.com/track/3pIKohnj7oA5ufPNLn8g52"
+    },
+    {
+      "added_at": "2023-10-27 16:25:24",
+      "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "duration_ms": 226188,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH"
     },
     {
       "added_at": "2023-10-25 14:00:00",

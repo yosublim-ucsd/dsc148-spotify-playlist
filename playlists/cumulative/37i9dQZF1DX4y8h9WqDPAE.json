@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Drake",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Mariah The Scientist",
   "name": "Channel-X",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
@@ -278,6 +278,50 @@
       "duration_ms": 160426,
       "name": "4 Me (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7H08E8B32OZ1vJE7AtCwaG"
+    },
+    {
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159477,
+      "name": "6 BUSINESS DAYS (feat. Projexx)",
+      "url": "https://open.spotify.com/track/2KbFskDFrgLGKBKIVDrzbh"
+    },
+    {
+      "album": {
+        "name": "To Be Eaten Alive",
+        "url": "https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166272,
+      "name": "77 Degrees (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/10MebW3TqVEc8jVLeUBb0U"
     },
     {
       "album": {
@@ -601,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Angels in Tibet",
+      "url": "https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u"
+    },
+    {
+      "album": {
         "name": "Angles (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/1j97eqxFc3mF43hZ60NmnS"
       },
@@ -784,7 +846,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
@@ -1109,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82508,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
+    },
+    {
+      "album": {
         "name": "Bestie",
         "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
       },
@@ -1376,7 +1456,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 226740,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
@@ -2791,6 +2871,24 @@
     },
     {
       "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
+    },
+    {
+      "album": {
         "name": "Don't make me beg (With Lil Baby)",
         "url": "https://open.spotify.com/album/0dqOkuoshzqQfuBzureBuj"
       },
@@ -3355,6 +3453,28 @@
     },
     {
       "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183346,
+      "name": "Favorite Girl (feat. Offset)",
+      "url": "https://open.spotify.com/track/1FLoO1AlfxAqJ84FIeJrKZ"
+    },
+    {
+      "album": {
         "name": "Favorite Song (Versions 2.0)",
         "url": "https://open.spotify.com/album/78SgKMzF5mUAcleqzdJkAx"
       },
@@ -3454,7 +3574,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 121283,
       "name": "Fell In Love",
       "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
@@ -5182,7 +5302,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 162351,
       "name": "Incoming",
       "url": "https://open.spotify.com/track/56amD1DaOooWn1RwbJiJnq"
@@ -7487,6 +7607,32 @@
     },
     {
       "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "N3WYRKLA",
+          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202841,
+      "name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
+      "url": "https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK"
+    },
+    {
+      "album": {
         "name": "Oxford Circus",
         "url": "https://open.spotify.com/album/5qmqQfXZ4qTu6HqZ9PMyLC"
       },
@@ -7598,6 +7744,32 @@
       "duration_ms": 199550,
       "name": "Party Girls (feat. Buju Banton) - Micha\u00ebl Brun Dancehall Remix",
       "url": "https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88"
+    },
+    {
+      "album": {
+        "name": "Party No Dey Stop (JayO & Byron Messia Remix)",
+        "url": "https://open.spotify.com/album/0wg0yuzwpRpdRwKNzDd7Wk"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152109,
+      "name": "Party No Dey Stop (with JayO & Byron Messia) - JayO & Byron Messia Remix",
+      "url": "https://open.spotify.com/track/6qOGmElVBG9ERlgN88TxjQ"
     },
     {
       "album": {
@@ -7954,7 +8126,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189440,
       "name": "Princess Going Digital",
       "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
@@ -8332,6 +8504,28 @@
       "duration_ms": 319191,
       "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
+    },
+    {
+      "album": {
+        "name": "To Be Eaten Alive",
+        "url": "https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180568,
+      "name": "Ride (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/2H5bVnyhhffT7pKFvY04TB"
     },
     {
       "album": {
@@ -11115,6 +11309,24 @@
     },
     {
       "album": {
+        "name": "Whip It Up",
+        "url": "https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130959,
+      "name": "Whip It Up",
+      "url": "https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl"
+    },
+    {
+      "album": {
         "name": "YOUNG PREACHER",
         "url": "https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV"
       },
@@ -11698,6 +11910,24 @@
       "duration_ms": 161400,
       "name": "You (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau"
+    },
+    {
+      "album": {
+        "name": "You Don't Know Nothin'",
+        "url": "https://open.spotify.com/album/7MiRknQQ1NCBI2M3XhQ4SK"
+      },
+      "artists": [
+        {
+          "name": "H3rizon",
+          "url": "https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151867,
+      "name": "You Don't Know Nothin'",
+      "url": "https://open.spotify.com/track/5lX927qU58yRuSSOYfyITD"
     },
     {
       "album": {

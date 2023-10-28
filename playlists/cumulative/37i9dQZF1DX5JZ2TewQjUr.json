@@ -2807,6 +2807,28 @@
     },
     {
       "album": {
+        "name": "Goodbye (While I Still Remember You)",
+        "url": "https://open.spotify.com/album/1sVlWhnJ3YcvPu2Huv026Y"
+      },
+      "artists": [
+        {
+          "name": "Walter Kwan",
+          "url": "https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot"
+        },
+        {
+          "name": "Cy Leo",
+          "url": "https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Goodbye (While I Still Remember You)",
+      "url": "https://open.spotify.com/track/4UxRLxVCveG0DrPm8tgqk1"
+    },
+    {
+      "album": {
         "name": "Guaranteed",
         "url": "https://open.spotify.com/album/4bjBunt43qGNuRyhGysUaV"
       },
@@ -4596,6 +4618,24 @@
       "duration_ms": 279893,
       "name": "Lurch",
       "url": "https://open.spotify.com/track/23UHhRbTmYijznf3RTbO9O"
+    },
+    {
+      "album": {
+        "name": "M.O.B (My Own Biz)",
+        "url": "https://open.spotify.com/album/2olCQySy1I4q9w0C47fGq1"
+      },
+      "artists": [
+        {
+          "name": "Big Sammy",
+          "url": "https://open.spotify.com/artist/1JsfjzT0JNGa8neELgJBhX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197607,
+      "name": "M.O.B (My Own Boss)",
+      "url": "https://open.spotify.com/track/7iNtZTnk5iXHYjQTZKZ4M3"
     },
     {
       "album": {

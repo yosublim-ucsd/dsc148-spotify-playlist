@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-390 songs - 1 day 3 hr 29 min
+392 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Catalina](https://open.spotify.com/track/5IbGa32pL7TZ1Li1zuQZ54) | [Janice Lacy Project](https://open.spotify.com/artist/679zUkqiBcLkRjhP7LS554), [Eden Perez](https://open.spotify.com/artist/4JIqntGdsQ6BkhBZaASc3b) | [Catalina](https://open.spotify.com/album/49MBE4YM7T1q4FmxJQstQk) | 4:43 | 2021-06-18 | 2022-09-17 |
 | [Catalina Nights](https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Catalina Nights](https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97) | 4:04 | 2022-04-08 | 2023-05-13 |
 | [Champagne Sky](https://open.spotify.com/track/1Nl85nf0Q9JNUVOxSa86k4) | [Ilya Serov](https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G) | [Champagne Sky](https://open.spotify.com/album/7813D7cYBLXzJAxmGeTtd9) | 4:08 | 2023-09-15 |  |
-| [Change the World](https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Simple Things](https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X) | 3:44 | 2022-05-20 |  |
+| [Change the World](https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Simple Things](https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X) | 3:44 | 2022-05-20 | 2023-10-28 |
 | [Chasing the Dream](https://open.spotify.com/track/7DoHYeSKTtlvvu0bjybY2f) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q), [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Sexy Somethin](https://open.spotify.com/album/3bmCfOCQF2wsR7L7XwvMwa) | 4:34 | 2021-01-22 | 2022-03-18 |
 | [Chicago Morning](https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb) | [Spontaneous Groovin' Combustion](https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5) | [Chicago Morning](https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N) | 4:20 | 2022-03-18 | 2023-07-01 |
 | [Chill@Will](https://open.spotify.com/track/0rPQtEYEBPRzjdwqg9UIjH) | [Gabriel Mark Hasselbach](https://open.spotify.com/artist/4YCL2MVhmQLfNMDXz2of4L), [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Chill@Will](https://open.spotify.com/album/6HZKfoekNmLbY2KuxQxTzD) | 4:29 | 2021-05-07 | 2022-03-18 |
@@ -258,7 +258,7 @@
 | [On the Money](https://open.spotify.com/track/2afEubhliVkGKvfwFcXDsA) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Smoke and Mirrors](https://open.spotify.com/album/5lSBlPnPALAylceUuFyI4z) | 3:51 | 2021-06-18 | 2022-07-28 |
 | [On The Move](https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [On The Move](https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS) | 4:10 | 2021-08-13 | 2022-09-17 |
 | [On the Up and Up](https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [On the Up and Up](https://open.spotify.com/album/0fendbHIfxrBOViSQahezC) | 4:08 | 2023-10-13 |  |
-| [One More Night \- Single Edit](https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [One More Night](https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve) | 3:47 | 2022-09-23 |  |
+| [One More Night \- Single Edit](https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [One More Night](https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve) | 3:47 | 2022-09-23 | 2023-10-28 |
 | [Open Portals](https://open.spotify.com/track/5DR5fiDRQmHIGJfzTnqaLM) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Open Portals](https://open.spotify.com/album/5tnH3LQps0UMpgKmETCZ1I) | 4:23 | 2021-07-12 | 2022-09-17 |
 | [Open Portals](https://open.spotify.com/track/6eqt7TkFU0a3gShpGFXyFn) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Open Portals](https://open.spotify.com/album/3XTAVcAJaGSN47yrAWK5N9) | 4:23 | 2021-07-12 | 2022-07-29 |
 | [Ordinary Days](https://open.spotify.com/track/5c7YEUJ3RB5yzD7WLZK7H0) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Ordinary Days](https://open.spotify.com/album/2iVU9lIpXfu1LCZUnvLs93) | 3:40 | 2021-04-02 | 2022-03-18 |
@@ -303,6 +303,7 @@
 | [Slo Jam](https://open.spotify.com/track/2YjGlENEEurq5Pd6mCl1tJ) | [kcvibes](https://open.spotify.com/artist/08jmaxbo2cTgTqQgBN7MQZ) | [Slo Jam](https://open.spotify.com/album/4SAoXnz4DCmySmIL3zdUy6) | 3:21 | 2023-06-30 |  |
 | [Smile On](https://open.spotify.com/track/3E5R4LsArWWhWOQ74XN9Pz) | [Isaiah Katumwa](https://open.spotify.com/artist/6OPe0VU4tE6WsIyYZatf1l) | [Smile On](https://open.spotify.com/album/6codHNBSOUzn7aXVb45ohX) | 3:56 | 2020-10-30 | 2022-03-18 |
 | [Smooth Talk](https://open.spotify.com/track/3DyEzqcRDZho9dTQEN7Qx4) | [Anders Paulsson](https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Smooth Talk](https://open.spotify.com/album/65ZyOsyXo3fEz5XcArYCgd) | 5:38 | 2020-10-30 | 2022-02-24 |
+| [Smoothin'](https://open.spotify.com/track/50ZmHXALKOhouCsYXXH9ps) | [Christophe Goze](https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H) | [Smoothin'](https://open.spotify.com/album/0JmnQpoXh1lL4y7FlDRjN0) | 4:43 | 2023-10-27 |  |
 | [So Many Ways](https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [So Many Ways](https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw) | 4:07 | 2021-06-18 | 2022-09-17 |
 | [Soho](https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Gratitude](https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO) | 4:18 | 2020-10-30 | 2022-03-18 |
 | [Solag](https://open.spotify.com/track/6NR43oOqDquzfkAVdldWJ7) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Solag](https://open.spotify.com/album/27L1aYTKh0rNNnOTt9fp9t) | 2:59 | 2023-07-21 |  |
@@ -330,6 +331,7 @@
 | [Style and Elegance](https://open.spotify.com/track/28ShD9XejF8Eaxauf6pNkM) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [Style and Elegance](https://open.spotify.com/album/66IorYIoY6dmiJLbJfBfGx) | 4:11 | 2020-10-30 | 2022-03-14 |
 | [Summer Cool](https://open.spotify.com/track/6NNomm02RjhU5I87qcegN1) | [Gary Honor](https://open.spotify.com/artist/3aqXxbZKJl9CRFZABtpXdp) | [Summer Cool](https://open.spotify.com/album/4CEKyxig8BDRyuMz2DOJks) | 4:10 | 2021-08-06 | 2022-07-28 |
 | [Summer Feelin'](https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Summer Feelin'](https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45) | 3:58 | 2020-10-30 | 2022-03-16 |
+| [Summer Groove](https://open.spotify.com/track/1WeSHCWNKRixmn9tLNmvKH) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Best of Tim Bowman](https://open.spotify.com/album/5wRMa0KJ8fa7U8TxhEPvVI) | 11:46 | 2023-10-27 |  |
 | [Summer In Blue](https://open.spotify.com/track/1X9xJud9FozGpsPYbkfkG2) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Summer in Blue](https://open.spotify.com/album/3GiuAKDTRdfBVHwBEBnVAU) | 4:29 | 2022-03-25 | 2022-07-29 |
 | [Summer In Blue](https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Summer in Blue](https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o) | 4:29 | 2022-03-25 | 2023-09-09 |
 | [Summer Solstice](https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY) | [Anthony Island](https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v), [Pete Dingon](https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC) | [Summer Solstice](https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz) | 3:20 | 2022-04-15 | 2023-08-12 |

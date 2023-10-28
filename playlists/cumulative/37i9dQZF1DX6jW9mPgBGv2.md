@@ -4,7 +4,7 @@
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Bad Bunny plantando cara.
 
-99 songs - 6 hr 11 min
+100 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 | 2021-12-01 |  |
 | [Caso Bugatti](https://open.spotify.com/track/55hvx2D6b0xar5U66kl4MG) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Caso Bugatti](https://open.spotify.com/album/42TnzSeAzEeda2PPMs4U63) | 3:17 | 2021-12-01 | 2022-07-29 |
 | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 | 2021-12-01 |  |
+| [Cloniao](https://open.spotify.com/track/4SThCZl3NDMjRiuS57P6EN) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Cloniao](https://open.spotify.com/album/3LJewxppDnhU0Iqm6EERR6) | 3:14 | 2023-10-27 |  |
 | [Día De Pago](https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Día De Pago](https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe) | 3:07 | 2021-12-01 |  |
 | [En Mi Coro](https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Eiden y Hacky](https://open.spotify.com/artist/2GZsR7HeNCAH0GeChpQto8) | [En Mi Coro](https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA) | 3:55 | 2023-06-02 |  |
 | [ENCHULETIAO](https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:09 | 2022-03-26 |  |

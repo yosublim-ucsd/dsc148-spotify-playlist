@@ -4,7 +4,7 @@
 
 > ¡mueve ese booty! 🍑🔥
 
-258 songs - 14 hr 35 min
+259 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Esclavo de Tus Besos](https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Esclavo de Tus Besos](https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai) | 3:39 | 2020-07-02 | 2023-03-23 |
 | [Está Rico](https://open.spotify.com/track/2wRkBumdItthjYP9XknImg) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Está Rico](https://open.spotify.com/album/3ztJAikTd2AHTixfSPG185) | 3:35 | 2020-07-02 | 2023-03-16 |
 | [Fantasias](https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias](https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL) | 3:19 | 2020-07-02 |  |
+| [FATAL FANTASSY](https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [FATAL FANTASSY](https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn) | 2:29 | 2023-10-27 |  |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:35 | 2023-04-18 |  |
 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 | 2023-08-25 |  |
 | [Follow](https://open.spotify.com/track/2w1rq80FIrbxeJy9WYURxw) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Follow](https://open.spotify.com/album/4c7J8cbXIdLAiTX7PFYdDi) | 3:23 | 2020-07-02 | 2023-03-16 |
@@ -195,7 +196,7 @@
 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 | 2023-03-15 |  |
 | [Ramayama](https://open.spotify.com/track/6gokadtiVvFO0nuAoOLX98) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Ramayama](https://open.spotify.com/album/4HtvEbNQ4esvgvSuBO6JnM) | 3:15 | 2020-07-02 | 2022-11-13 |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-03-22 |  |
-| [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 | 2020-07-02 |  |
+| [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 | 2020-07-02 | 2023-10-28 |
 | [Reggaetonera](https://open.spotify.com/track/6yVkakCN460KOVol9ZazjH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:32 | 2020-07-02 | 2023-03-16 |
 | [Relación](https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:04 | 2020-07-02 |  |
 | [Relación](https://open.spotify.com/track/4lMOQR1rRW5hJgJXOtKraL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Relación](https://open.spotify.com/album/378KGomt21mlfxD786uF7c) | 3:04 | 2020-07-02 | 2022-07-29 |

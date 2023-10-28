@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,889 likes - 100 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,980 likes - 100 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 43 | [Hidden \(Live\) \[feat\. Will Reagan\]](https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 6:34 |
 | 44 | [Isn't He \(This Jesus\)](https://open.spotify.com/track/3ehg0c0FEpEA2lxc8R4j6N) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Isn't He \(This Jesus\)](https://open.spotify.com/album/6RjmjrxlN18E8vR04zwfMu) | 9:50 |
 | 45 | [Surrounded \(Fight My Battles\) \- Live](https://open.spotify.com/track/3RvSbCWVuW24rqpNYb8KEf) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Moments \(Live\)](https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp) | 5:49 |
-| 46 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
-| 47 | [Miracle](https://open.spotify.com/track/54rJa67IrktOcXKYw7wGTR) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Miracle](https://open.spotify.com/album/2xcM934KYzqGv2gQTtm5CH) | 4:56 |
-| 48 | [The Way \(New Horizon\)](https://open.spotify.com/track/5KrewqDNRC9lNe3Aj9ameN) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 7:05 |
+| 46 | [The Way \(New Horizon\)](https://open.spotify.com/track/5KrewqDNRC9lNe3Aj9ameN) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 7:05 |
+| 47 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
+| 48 | [Miracle](https://open.spotify.com/track/54rJa67IrktOcXKYw7wGTR) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Miracle](https://open.spotify.com/album/2xcM934KYzqGv2gQTtm5CH) | 4:56 |
 | 49 | [Behold \(Then Sings My Soul\) \- Live](https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 6:46 |
 | 50 | [No Fear in Love](https://open.spotify.com/track/1L7hLhmNgsQ9eMc5C5ej6l) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Undoing](https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA) | 3:14 |
 | 51 | [We Will Not Be Shaken \- Live](https://open.spotify.com/track/1eZYPovTvmxk3QlVD2VpCX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 5:32 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 91 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 92 | [Prophesy Your Promise](https://open.spotify.com/track/4X0WNlQtcoGOf4mWlUIeD7) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 5:41 |
 | 93 | [Goodness](https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 5:35 |
-| 94 | [Only Jesus](https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [After All These Years](https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS) | 4:53 |
+| 94 | [Sanctuary \- Live](https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [SEU Worship \(Live\)](https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx) | 9:29 |
 | 95 | [Move \- Live](https://open.spotify.com/track/4SsE5oHM1nOEH8XEbEpugm) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 6:50 |
 | 96 | [Find Me](https://open.spotify.com/track/5JN3NqUutLCUf1zN5cEMLF) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [Beautiful Surrender](https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd) | 4:25 |
 | 97 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |
-| 98 | [Sanctuary \- Live](https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [SEU Worship \(Live\)](https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx) | 9:29 |
+| 98 | [Only Jesus](https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [After All These Years](https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS) | 4:53 |
 | 99 | [Sing My Way Back](https://open.spotify.com/track/6h5pFZKZMvobTx6UVceeyX) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Blackout](https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8) | 3:47 |
 | 100 | [Heart Wide Open](https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 4:42 |
 
-Snapshot ID: `MCxkYmFjMTk5Yjg5OTdlOGViOWVkYTAyNjI0MzMwNDdhMDQ2Y2JmYzA0`
+Snapshot ID: `MCxmNzE2NmEwNDg5ZTgxMWY1ZjA1NGY2ZmEwOWM1YWQxYTkxYTQ1MDc1`

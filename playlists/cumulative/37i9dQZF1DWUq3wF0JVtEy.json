@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 166363,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
@@ -1349,6 +1349,28 @@
     },
     {
       "album": {
+        "name": "Dance No More (with Kaleena Zanders)",
+        "url": "https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202657,
+      "name": "Dance No More (with Kaleena Zanders)",
+      "url": "https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t"
+    },
+    {
+      "album": {
         "name": "dashstar*",
         "url": "https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG"
       },
@@ -1688,6 +1710,24 @@
       "duration_ms": 130125,
       "name": "Downtown (with Kelvin Jones)",
       "url": "https://open.spotify.com/track/3d7SAAfRMZzuYNqfJhR3bI"
+    },
+    {
+      "album": {
+        "name": "Dress Code",
+        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203437,
+      "name": "Dress Code",
+      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
     },
     {
       "album": {
@@ -2380,6 +2420,24 @@
       "duration_ms": 139921,
       "name": "Funky Sound",
       "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
+    },
+    {
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "album": {
@@ -3118,7 +3176,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 181935,
       "name": "How it is",
       "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
@@ -5031,6 +5089,24 @@
     },
     {
       "album": {
+        "name": "The Maidens",
+        "url": "https://open.spotify.com/album/0wKZbLiKg9WRHYaEMyQRMM"
+      },
+      "artists": [
+        {
+          "name": "Heyson",
+          "url": "https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200804,
+      "name": "No Mid",
+      "url": "https://open.spotify.com/track/12wU5O1IklAMcoi6rp3T5r"
+    },
+    {
+      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
       },
@@ -5186,7 +5262,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 195268,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
@@ -6536,10 +6612,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 173437,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
+    },
+    {
+      "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167362,
+      "name": "Stick Your Tongue Out",
+      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
     },
     {
       "album": {
@@ -7366,7 +7460,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 242343,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"

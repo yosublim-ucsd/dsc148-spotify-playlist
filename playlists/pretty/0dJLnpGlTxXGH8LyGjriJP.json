@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "ODU4LGFkZTNkNmZlNjQ0ZTMzODM0Y2E0ZjRlMzI2MmFlNjQ2MWIzYTg1MWY=",
+  "snapshot_id": "ODYwLDk0OWNlNjdiNDM2YWQwMTAzYzcwNDNlYzY0NzhhNTVmNGYwNDRmOTg=",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -13155,6 +13155,46 @@
       "duration_ms": 132023,
       "name": "Broke In A Minute",
       "url": "https://open.spotify.com/track/2ZrAjMSmlbDIil0JaVgTHh"
+    },
+    {
+      "added_at": "2023-10-27 22:07:05",
+      "album": {
+        "name": "Rich Off Pints 3",
+        "url": "https://open.spotify.com/album/71AUiEqMJuQFGUzFmYYACn"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Know The Difference (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7jMjA7MmHeKcDH4MnSp5YF"
+    },
+    {
+      "added_at": "2023-10-27 22:07:26",
+      "album": {
+        "name": "Family Freestyle",
+        "url": "https://open.spotify.com/album/1QkPatRtkzJahrvBV56gJe"
+      },
+      "artists": [
+        {
+          "name": "Lil Dann",
+          "url": "https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 215121,
+      "name": "Family Freestyle",
+      "url": "https://open.spotify.com/track/5u8m1YQAVoyu5k81b5DWvr"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

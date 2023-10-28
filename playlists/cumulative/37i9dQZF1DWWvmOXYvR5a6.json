@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Bryn(\ube0c\ub9b0)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Leellamarz(\ub9b4\ub7ec\ub9d0\uc988)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 180813,
       "name": "2AM (Feat. CAMO)",
       "url": "https://open.spotify.com/track/1C1quK9LCCHeUjrTONTH9C"
@@ -712,6 +712,28 @@
       "duration_ms": 185866,
       "name": "Awesome!",
       "url": "https://open.spotify.com/track/0qPAksIZUGLbj1y2nhdVD8"
+    },
+    {
+      "album": {
+        "name": "Life is Once",
+        "url": "https://open.spotify.com/album/0P9J5KQksLJqjdwBlqVUP6"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202653,
+      "name": "B**ch (Feat. CHANGMO)",
+      "url": "https://open.spotify.com/track/2ueLsqwiIflzdH8STALWRV"
     },
     {
       "album": {
@@ -3412,7 +3434,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 214640,
       "name": "End of the World (Feat. GSoul)",
       "url": "https://open.spotify.com/track/5ZO2kMfYHuKXoAShKuXjZn"
@@ -4122,7 +4144,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 153729,
       "name": "Friendzone (Feat. DAMINI)",
       "url": "https://open.spotify.com/track/4vbN9vwbAW2uMj5Lq4cnmu"
@@ -9342,7 +9364,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 185729,
       "name": "Pick up your phone (Feat. MOON)",
       "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
@@ -10990,7 +11012,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 156991,
       "name": "So What",
       "url": "https://open.spotify.com/track/1uWC5OG9GBYNjEWLIvpirZ"
@@ -12109,6 +12131,24 @@
     },
     {
       "album": {
+        "name": "Till I Live",
+        "url": "https://open.spotify.com/album/7uZSZnFHoZIGYA5eN9nLbH"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268733,
+      "name": "Till I Live",
+      "url": "https://open.spotify.com/track/41QtqULXM34zXfPkM88Rwm"
+    },
+    {
+      "album": {
         "name": "BUT FOR NOW LEAVE ME ALONE",
         "url": "https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn"
       },
@@ -12990,6 +13030,24 @@
       "duration_ms": 226000,
       "name": "Weather report",
       "url": "https://open.spotify.com/track/5d3gS49jJRainBEemo7OF3"
+    },
+    {
+      "album": {
+        "name": "Novel",
+        "url": "https://open.spotify.com/album/6O08w4c7AzjXzfhQbG8zz9"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222293,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY"
     },
     {
       "album": {

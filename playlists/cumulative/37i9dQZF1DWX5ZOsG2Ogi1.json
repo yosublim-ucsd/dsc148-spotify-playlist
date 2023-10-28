@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1Perreo del bueno! Cover: Bellakath",
+  "description": "\u00a1Perreo del bueno! Cover: Wisin y Chencho Corleone",
   "name": "Puro Perreo",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 270740,
       "name": "Adicto",
       "url": "https://open.spotify.com/track/2ZlsfKWTkYUT9kj4glLvWu"
@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Bandidona",
+        "url": "https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Bandidona",
+      "url": "https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi"
+    },
+    {
+      "album": {
         "name": "Bandidos",
         "url": "https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt"
       },
@@ -804,7 +822,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 149021,
       "name": "Bella - Koso",
       "url": "https://open.spotify.com/track/1BtxrI8KXtyH61pdQAsv9U"
@@ -968,7 +986,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 175907,
       "name": "Blam Blam",
       "url": "https://open.spotify.com/track/6Yi0H0gVNT3fGPWn3ZVZ3a"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 194989,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/2WSLiFW6zmSsPWWDmG8IOi"
@@ -2415,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/1sdFqrDsuVDKVaRPw64rpC"
+      },
+      "artists": [
+        {
+          "name": "Matt Paris",
+          "url": "https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132072,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/5OVZiVzvQ4thVjTR6hB8hK"
+    },
+    {
+      "album": {
         "name": "The Gold Series \"The Last Don\"",
         "url": "https://open.spotify.com/album/3hKDEHUzH1GmdohemezsEw"
       },
@@ -2686,7 +2722,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 186601,
       "name": "Doxxis",
       "url": "https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX"
@@ -2772,7 +2808,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 287813,
       "name": "El Cel",
       "url": "https://open.spotify.com/track/07oas8KpAMIkwuetf81Zen"
@@ -4804,7 +4840,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/2m2EUNDxXmFceJpyPaSfmA"
@@ -5509,6 +5545,28 @@
     },
     {
       "album": {
+        "name": "LOCO X PERREARTE",
+        "url": "https://open.spotify.com/album/1EKXvsbN9F0aBxigrLRXnc"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212024,
+      "name": "LOCO X PERREARTE",
+      "url": "https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux"
+    },
+    {
+      "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
       },
@@ -5650,6 +5708,24 @@
       "duration_ms": 198569,
       "name": "Madrid (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
+    },
+    {
+      "album": {
+        "name": "Mal Hombre",
+        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162061,
+      "name": "Mal Hombre",
+      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
     },
     {
       "album": {
@@ -6191,6 +6267,32 @@
     },
     {
       "album": {
+        "name": "Mentira (Remix)",
+        "url": "https://open.spotify.com/album/27uI53du6q8LeFNV9eybu8"
+      },
+      "artists": [
+        {
+          "name": "Leo Bash",
+          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "DJ PEREIRA",
+          "url": "https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175578,
+      "name": "Mentira (Remix)",
+      "url": "https://open.spotify.com/track/7vj3hzsLyaaVPzmMWehDrN"
+    },
+    {
+      "album": {
         "name": "MI EXXX",
         "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
       },
@@ -6504,6 +6606,28 @@
       "duration_ms": 266835,
       "name": "M\u00e1s de Ti",
       "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
+    },
+    {
+      "album": {
+        "name": "M\u00eda Na M\u00e1s",
+        "url": "https://open.spotify.com/album/5KWhkEXVzNOkiW1lM8Ua50"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188179,
+      "name": "M\u00eda Na M\u00e1s",
+      "url": "https://open.spotify.com/track/0mCmKErptp47nPUmeLqILq"
     },
     {
       "album": {
@@ -9006,7 +9130,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 226500,
       "name": "Sal y Perrea - Remix",
       "url": "https://open.spotify.com/track/1mG8VynhqySA52bALfYrvO"
@@ -9172,6 +9296,24 @@
       "duration_ms": 190880,
       "name": "Se Menea",
       "url": "https://open.spotify.com/track/6nrK3vUz8RWU8kbQsulsck"
+    },
+    {
+      "album": {
+        "name": "Se Va",
+        "url": "https://open.spotify.com/album/3niJjxTeQfaP0j86bDksq6"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167445,
+      "name": "Se Va",
+      "url": "https://open.spotify.com/track/6ccKcHU9zglIBSop0tkKhs"
     },
     {
       "album": {
@@ -11186,6 +11328,24 @@
       "duration_ms": 195300,
       "name": "Verano",
       "url": "https://open.spotify.com/track/1wf5TOiS5FniiUFoXG98zd"
+    },
+    {
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2tUAy9j3TNHkKYYqoZGuyH"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155280,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/653ESdAvavD920r3LEYmzd"
     },
     {
       "album": {

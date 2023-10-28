@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Mad Tsai
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,952 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,181 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [mad's world](https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [mad's world](https://open.spotify.com/album/0tR2hMv1kGNWZpqbk7a3D5) | 3:14 |
 | 2 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
-| 3 | [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 |
+| 3 | [ALICE](https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ALICE](https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z) | 2:33 |
 | 4 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Le Monde \(From Talk to Me\)](https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir) | 2:14 |
-| 5 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
-| 6 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
-| 7 | [RECOVER](https://open.spotify.com/track/1xM16w1mELJud010Pu69Vw) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER](https://open.spotify.com/album/3erra5YLQlS35zS8U3BNr1) | 2:41 |
-| 8 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
-| 9 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 |
-| 10 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 |
-| 11 | [play pretenses](https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL) | [play pretenses](https://open.spotify.com/album/55rXo1YEHY71sI2DaNF5r7) | 2:39 |
-| 12 | [MESS](https://open.spotify.com/track/21yX9e6vaRE8dfsptqFqKf) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [MESS](https://open.spotify.com/album/3onqYrRIrhwsE9reWrFtlH) | 2:25 |
+| 5 | [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 |
+| 6 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
+| 7 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
+| 8 | [RECOVER](https://open.spotify.com/track/1xM16w1mELJud010Pu69Vw) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER](https://open.spotify.com/album/3erra5YLQlS35zS8U3BNr1) | 2:41 |
+| 9 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
+| 10 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 |
+| 11 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 |
+| 12 | [play pretenses](https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL) | [play pretenses](https://open.spotify.com/album/55rXo1YEHY71sI2DaNF5r7) | 2:39 |
 | 13 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
 | 14 | [Everyday is the Best Day of My Life](https://open.spotify.com/track/4vB1VyZYSSdZYH9QNaSJIa) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Everyday is the Best Day of My Life](https://open.spotify.com/album/7jlVqJqJBJ7yewZ31whhjQ) | 2:12 |
 | 15 | [I FORGOT](https://open.spotify.com/track/7qIXBakmmkg9c4W1BuXZHj) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 2:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 79 | [feral canadian scaredy cat](https://open.spotify.com/track/1ew1R0vY1hqwYQQTHXCiQX) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [feral canadian scaredy cat](https://open.spotify.com/album/5sMayuz5wi235vdum4wpj1) | 3:04 |
 | 80 | [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:27 |
 
-Snapshot ID: `MCxkN2M0OWNiNGFiMzRjMjM1ODI2NGM2MzVkZmJjOGU1OWY3ZGM4NWM0`
+Snapshot ID: `MCw3ODM1ZmQ0YWYxMTBkZGRlNDA5MzgyZDJhNmE4MDFlODQ2MTBmNTlh`

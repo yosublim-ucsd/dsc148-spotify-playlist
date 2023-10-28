@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: David Kushner
 
-318 songs - 18 hr 21 min
+319 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Crazy World \(Judgement Day\)](https://open.spotify.com/track/3Iwy2ykCDExY2Z50JZtcxe) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Crazy World \(Judgement Day\)](https://open.spotify.com/album/5T3DJdl6IBDiVFpHtOJRt0) | 4:40 | 2021-11-12 | 2022-07-27 |
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2022-08-19 |  |
 | [DANDELION](https://open.spotify.com/track/5eMzR6D1oiZd6uPbYijJVs) | [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [DANDELION](https://open.spotify.com/album/4C3Okl0eCT7wBlHWHB6ett) | 3:03 | 2021-11-12 | 2022-07-29 |
+| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-10-27 |  |
 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 | 2023-09-22 |  |
 | [Devastating](https://open.spotify.com/track/6ZCrjDxawDuN5CA2Wv5lQw) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Devastating](https://open.spotify.com/album/0Um7o0i84H6WIdYJPbMSAQ) | 4:23 | 2021-11-12 | 2022-07-29 |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-16 | 2023-07-29 |
@@ -177,7 +178,7 @@
 | [Keep Me Going](https://open.spotify.com/track/1Gn1Yzgdk0RFq3H0lePlMB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Keep Me Going](https://open.spotify.com/album/6z5T17mfAG7wqGjF63DuPv) | 3:28 | 2021-11-12 | 2022-01-17 |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-08-19 | 2023-08-19 |
 | [Keeps Me Coming Back](https://open.spotify.com/track/2HmXg75yywpcLWh11fstsZ) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Keeps Me Coming Back](https://open.spotify.com/album/5e3cG72M66MSeLQ2QaWeHw) | 2:49 | 2021-11-12 | 2022-07-29 |
-| [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 | 2022-08-19 |  |
+| [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 | 2022-08-19 | 2023-10-28 |
 | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V) | [Parsonsfield](https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR) | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm) | 3:11 | 2022-03-12 | 2023-03-22 |
 | [Kick Out the Windows \- Radio Edit](https://open.spotify.com/track/6Q04NQKyB5x3Ge5TRyfZT1) | [Parsonsfield](https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR) | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/album/7msqHdpzdvApMcWNrBG4iG) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [Kinda Wild](https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Kinda Wild](https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy) | 4:57 | 2023-06-23 | 2023-10-21 |

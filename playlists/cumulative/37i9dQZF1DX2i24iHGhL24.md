@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-409 songs - 23 hr 28 min
+410 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Thousand Miles](https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM) | [SADBOii](https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN) | [A Thousand Miles](https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs) | 3:10 | 2021-12-17 | 2022-12-30 |
 | [abcdefu](https://open.spotify.com/track/0n4BamNwncSge7XWIcQjOO) | [The Butterfly Effect](https://open.spotify.com/artist/0uzyX6Q7XPMpRaqBNg8IEY) | [abcdefu](https://open.spotify.com/album/5lum6LKlkNtnB5jpuqKZNv) | 3:09 | 2022-04-01 | 2022-12-30 |
 | [Adore You \- Recorded at Parr Street Studios](https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:55 | 2021-12-17 | 2022-05-02 |
+| [Africa](https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [Africa](https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu) | 3:40 | 2023-10-27 |  |
 | [Afterglow](https://open.spotify.com/track/32MX9K3PwpcUtdhiSx6sef) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Afterglow](https://open.spotify.com/album/3wErxE6WjMSWYHpJUrNzXX) | 3:18 | 2021-12-17 | 2022-05-02 |
 | [Against All Odds](https://open.spotify.com/track/1xN885vrS6dd9xfKXAgg4F) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division \(Deluxe\)](https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq) | 3:21 | 2022-05-01 |  |
 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-12-17 | 2022-12-30 |
@@ -364,7 +365,7 @@
 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [The One That Got Away \(Acoustic\)](https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3) | 3:37 | 2022-01-21 | 2022-12-30 |
 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 | 2023-10-16 |  |
 | [The Only Exception](https://open.spotify.com/track/6E1RZSFubdubakeTubBwtq) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [The Only Exception](https://open.spotify.com/album/25Gq8GQj2uYdWWRwfvuqbW) | 3:52 | 2021-12-17 | 2023-10-17 |
-| [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 | 2021-12-17 |  |
+| [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 | 2021-12-17 | 2023-10-28 |
 | [The Way You Make Me Feel](https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [The Way You Make Me Feel](https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp) | 3:52 | 2021-12-17 | 2022-05-02 |
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-12-17 | 2022-12-30 |
 | [Time After Time \- From The McDonald’s Christmas Advert 2021](https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Time After Time \(From The McDonald’s Christmas Advert 2021\)](https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm) | 2:43 | 2021-12-17 | 2023-10-17 |

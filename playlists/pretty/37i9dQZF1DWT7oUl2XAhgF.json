@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 203113,
+  "num_followers": 203154,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzM0NjkyZmRmNGEyYzQyMTVmNTJiNzg3ZTgyMWIzZTRjYmZmNmU5",
+  "snapshot_id": "MCwzNWIwOWI1MTE4NjE4M2M0MzgxNGNmMTA0N2YyZjM4Zjk1MzFiYjM5",
   "tracks": [
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Ice Cream (Pay Phone)",
+        "url": "https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Ice Cream (Pay Phone)",
+      "url": "https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT"
+    },
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
@@ -99,6 +115,22 @@
       "duration_ms": 167658,
       "name": "I\u2019ll Be Loving You",
       "url": "https://open.spotify.com/track/1L2ynW4tupwphXv7z7aOgL"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Melody Within",
+        "url": "https://open.spotify.com/album/0lNVrrcLt81D6u8G6Jn3EV"
+      },
+      "artists": [
+        {
+          "name": "Gary Beals",
+          "url": "https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes"
+        }
+      ],
+      "duration_ms": 194832,
+      "name": "Self Revolution",
+      "url": "https://open.spotify.com/track/6xq246xhPP6sxsXrMyB8en"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1067,22 +1099,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246120,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "That's How Love Is Made",
         "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 173905,
       "name": "Jean Leon",
       "url": "https://open.spotify.com/track/4UvTu4SIHtRQl173OZbFRj"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Oporto-Madrid Blvd",
-        "url": "https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209198,
-      "name": "Oporto-Madrid Blvd",
-      "url": "https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT"
     },
     {
       "added_at": "2023-09-01 04:00:00",

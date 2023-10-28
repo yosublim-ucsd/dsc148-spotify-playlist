@@ -4,7 +4,7 @@
 
 > Un suave trasfondo musical para mantener el foco en tus tareas.
 
-406 songs - 17 hr 46 min
+407 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Growth](https://open.spotify.com/track/0qLSBrPZWS7vq9nYo6tcIe) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Growth](https://open.spotify.com/album/680N4M21R3aq1pcyKmJ7Mt) | 2:43 | 2023-10-09 |  |
 | [Halcyon](https://open.spotify.com/track/2PEiFFvNyMykLb2wxnvBfv) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Halcyon & Safe Havens](https://open.spotify.com/album/0nl8ijx6L3t2QVaA05GLCp) | 3:02 | 2023-10-09 |  |
 | [Half Asleep](https://open.spotify.com/track/7adjz8f5Qdi7jSbMWoXRNi) | [John Ozbay](https://open.spotify.com/artist/4QGD7gprTIdWcIIKW6lXtI) | [Half Asleep](https://open.spotify.com/album/22OS3qemADHwtzUmj62RuW) | 2:34 | 2023-10-09 |  |
-| [Hamnøy](https://open.spotify.com/track/0RCnGXv4S7tOsheate4Jag) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Hamnøy](https://open.spotify.com/album/0yHy34WGmXsRmUb0vnmf3l) | 3:01 | 2023-10-09 |  |
+| [Hamnøy](https://open.spotify.com/track/0RCnGXv4S7tOsheate4Jag) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Hamnøy](https://open.spotify.com/album/0yHy34WGmXsRmUb0vnmf3l) | 3:01 | 2023-10-09 | 2023-10-28 |
 | [Hansa](https://open.spotify.com/track/71WIo1goJLTt41X5CuxxOd) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Hansa](https://open.spotify.com/album/1jyTlVuLLPVtmCYGXfBsj7) | 2:43 | 2023-10-09 |  |
 | [Healing](https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Healing](https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP) | 2:06 | 2023-10-09 |  |
 | [Heart of the River of the Sun](https://open.spotify.com/track/2YIC6Cp33wgMVEYruivCuH) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Heart of the River of the Sun](https://open.spotify.com/album/1wrDM0xtWqoTWtJ1mYuDny) | 2:31 | 2023-10-09 |  |
@@ -242,6 +242,7 @@
 | [Ouroboros](https://open.spotify.com/track/5HakEOiwgnYFz0LCuFtYx5) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Winter Sessions By The Lake](https://open.spotify.com/album/4pwxYdiYntZbLCuyJQnadA) | 2:05 | 2023-10-09 |  |
 | [Paisible](https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Paisible](https://open.spotify.com/album/2bYxwhnFN7tyW3FKu4BWWu) | 2:33 | 2023-10-09 |  |
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2023-10-09 | 2023-10-26 |
+| [Passage sombre](https://open.spotify.com/track/4w4Q3SAYzhKrHgfht808pu) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:14 | 2023-10-23 |  |
 | [Passing Time](https://open.spotify.com/track/4dVCVkwJFhuLlY3mNia5uk) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Passing Time](https://open.spotify.com/album/0vHNtvr3HDKoi3lfPMiujH) | 2:17 | 2023-10-09 |  |
 | [Passion and Fire](https://open.spotify.com/track/5tTv0eBtH62dVailpRZ46C) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Passion and Fire](https://open.spotify.com/album/55AHv4KY3jolnloSltgAou) | 2:24 | 2023-10-09 |  |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2023-10-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 7311,
+  "num_followers": 7340,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmQ5ODVjYTQ2M2FlNzZkMGYyNWM2NzRiNTg5YmJmNTQzZTE2OTY2",
+  "snapshot_id": "MCw5YWU1YzY4MGY4NWI2NzY2MjJjNDU4YTEzNmU2OTM0MGMzYzNhZDdh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -511,26 +511,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Pluto x Baby Pluto",
-        "url": "https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 228796,
-      "name": "That\u2019s It",
-      "url": "https://open.spotify.com/track/5n6gBhdEjCuj3obgCoTEFD"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Hit Bout It",
         "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 177158,
       "name": "Hit Bout It",
       "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Pluto x Baby Pluto",
+        "url": "https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 228796,
+      "name": "That\u2019s It",
+      "url": "https://open.spotify.com/track/5n6gBhdEjCuj3obgCoTEFD"
     },
     {
       "added_at": "2022-10-01 16:09:56",

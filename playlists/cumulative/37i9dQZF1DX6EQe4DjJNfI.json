@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Kynnie",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: YO\u00daN",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 163201,
       "name": "1001 Motivos",
       "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 135525,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/1whJBnBLwZcpMl9II6rOfB"
@@ -1067,6 +1067,28 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218048,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
+    },
+    {
+      "album": {
         "name": "Fuder e Dormir Juntin",
         "url": "https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA"
       },
@@ -1118,6 +1140,32 @@
       "duration_ms": 170628,
       "name": "Gosto de Voc\u00ea",
       "url": "https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx"
+    },
+    {
+      "album": {
+        "name": "GUAPA",
+        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
+      },
+      "artists": [
+        {
+          "name": "Matheus Queiroz",
+          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139270,
+      "name": "GUAPA",
+      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
     },
     {
       "album": {

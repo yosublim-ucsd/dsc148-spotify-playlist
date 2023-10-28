@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,740 likes - 95 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,783 likes - 95 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 77 | [Rockin' In Rhythm](https://open.spotify.com/track/66OY61byAl0G6vOXHzFKzB) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [The Happy Horns Of Clark Terry](https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU) | 4:39 |
 | 78 | [Faith](https://open.spotify.com/track/32MKpR61rfKGivn5K7V7wG) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | ['S Make It](https://open.spotify.com/album/7tKo11GyBLe0Zbbi72pFFU) | 3:43 |
 | 79 | [Around the World](https://open.spotify.com/track/72dRQ0TXjgpKfSL5MXYXnj) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Around the World](https://open.spotify.com/album/5aAAWjKyIFCxAgU43bdgXP) | 7:49 |
-| 80 | [Anything Goes](https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 3:39 |
+| 80 | [Anything Goes](https://open.spotify.com/track/1VGjnaotsGHOoYBgPkfskN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 3:39 |
 | 81 | [Stolen Sweets](https://open.spotify.com/track/377ALnPexo1VGmD8dqHRXl) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Comin' Your Way](https://open.spotify.com/album/18C4w4Di2mjHHYTDQyuwUX) | 6:12 |
 | 82 | [The Preacher](https://open.spotify.com/track/2ezZJ2KVatSh0m0ioXwtcv) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t), [The Jazz Messengers](https://open.spotify.com/artist/4oMI5jKhAOEg3T8HIY3HxI) | [BD Music & Cabu Present Art Blakey](https://open.spotify.com/album/7d7kA2hUa51ZzAwiKfZJbc) | 4:18 |
 | 83 | [Amanecer Contigo](https://open.spotify.com/track/2MYRUIraCra1ZrIqQRL8GY) | [Dafnis Prieto Sextet](https://open.spotify.com/artist/1IxYKYyHFmwGIqdI0zkcze) | [Amanecer Contigo](https://open.spotify.com/album/4L3hp7B19QX8YGFjcxBwqJ) | 6:21 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 94 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 |
 | 95 | [Feeling](https://open.spotify.com/track/6mLWHZHMceU8qX8uQx8k8M) | [Hegge](https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G) | [Feeling](https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u) | 6:46 |
 
-Snapshot ID: `MCwxNmExMGJlMGI1ZmQxZjEzMjc1ZmFjMWM4ZTMyOWIzYTI4ZWJlYmI3`
+Snapshot ID: `MCwyNGQyMmIzYmU4YzUzNWNjYjM2ZDA2NTc3ODExOTMwNmVmODUwOTA1`

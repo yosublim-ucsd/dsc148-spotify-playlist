@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 11196,
+  "num_followers": 11224,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjJjMTQ3ZTgzMjM2ODI4NTMyMDI5ZDJlNTk1NDBmNmIzZDE4NmRm",
+  "snapshot_id": "MCxiMjA2NzljM2NmNmIzNWI3NDQ1NmNlZmUyODViNTU5Zjc5OWE1MWQ3",
   "tracks": [
     {
       "added_at": "2023-10-16 07:47:53",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-16 07:47:53",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
-    },
-    {
-      "added_at": "2023-10-16 07:47:53",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 254000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
+    },
+    {
+      "added_at": "2023-10-16 07:47:53",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
     },
     {
       "added_at": "2023-10-16 07:47:53",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-16 07:47:53",
       "album": {
-        "name": "Beautiful GunbarI OST",
-        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "a story to tell (Original Ver.)",
-      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2023-10-16 07:47:53",
-      "album": {
         "name": "You don't have to say anything (I already know)",
         "url": "https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
+    },
+    {
+      "added_at": "2023-10-16 07:47:53",
+      "album": {
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
     },
     {
       "added_at": "2023-10-16 07:47:53",

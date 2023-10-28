@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno. Foto: King Savagge & Il Nene De Oro.",
+  "description": "La casa del trap chileno. Foto: ITHAN NY.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189602,
       "name": "Alerta",
       "url": "https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 223750,
       "name": "Brokeboi",
       "url": "https://open.spotify.com/track/0EoolsXtSPPpapygXOv9BU"
@@ -1964,10 +1964,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 144014,
       "name": "LoveDrip",
       "url": "https://open.spotify.com/track/31xSuB5yF3w8ZIrdK1TWtt"
+    },
+    {
+      "album": {
+        "name": "Mafia Chilena: LOS CHICHOS",
+        "url": "https://open.spotify.com/album/3gkPtGCboYoObv0k0dvw06"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122386,
+      "name": "Mafia Chilena: LOS CHICHOS",
+      "url": "https://open.spotify.com/track/1xbTJhhQ0zE9qsf4pAtxCe"
     },
     {
       "album": {
@@ -3834,7 +3852,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 163318,
       "name": "Tu No Eres Trap",
       "url": "https://open.spotify.com/track/3pDVwA9qF4TwmysETmgw01"
@@ -3860,6 +3878,32 @@
       "duration_ms": 161383,
       "name": "Tu No Saben",
       "url": "https://open.spotify.com/track/4P2RAk00C46M6qXvZtlSBX"
+    },
+    {
+      "album": {
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/125cPaJttlTGvJ0n5PAJ1c"
+      },
+      "artists": [
+        {
+          "name": "Punto40",
+          "url": "https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO"
+        },
+        {
+          "name": "RF Music",
+          "url": "https://open.spotify.com/artist/3e2dC479m26OChgDRd25Z3"
+        },
+        {
+          "name": "Andrehbred",
+          "url": "https://open.spotify.com/artist/3XpIrqVeY0I0kItCCUMuY1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/6DAdZaknWDwaJdC5HyCpfL"
     },
     {
       "album": {
@@ -3896,7 +3940,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 183063,
       "name": "Un Par",
       "url": "https://open.spotify.com/track/1P6XcdMFWrFkjyr9DmCerA"

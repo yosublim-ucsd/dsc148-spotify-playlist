@@ -4,7 +4,7 @@
 
 > Slow down and soothe anxiety with soft, relaxing piano music.
 
-507 songs - 22 hr 0 min
+508 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-04-22 |  |
 | [Down The Line](https://open.spotify.com/track/25DsngbeW7QvMTuPJBy8ww) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Down The Line](https://open.spotify.com/album/5dx9rLR3Lqfx8zh6XWklKw) | 2:26 | 2023-05-03 |  |
 | [Dream Until the First Rays of Dawn](https://open.spotify.com/track/1YrmdTAZdNa2uzxKttTXq6) | [Dravde](https://open.spotify.com/artist/48hcGoeqRficiqH0Egd2Kc) | [Dream Until the First Rays of Dawn](https://open.spotify.com/album/3XlmyE8Y0HKjOHAG4qXLrl) | 2:35 | 2022-04-22 | 2023-01-27 |
-| [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 | 2023-01-26 |  |
+| [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 | 2023-01-26 | 2023-10-28 |
+| [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 | 2023-10-23 |  |
 | [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2022-04-22 |  |
 | [Drifting Sand](https://open.spotify.com/track/2ElVZ4JztgEiG6vfb0ZdB2) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Drifting Sand](https://open.spotify.com/album/1HAAeEBz6Y80NLYiroxewn) | 2:20 | 2022-04-22 | 2023-01-27 |
 | [Drøm](https://open.spotify.com/track/2wD4uaLNl9DZrBmRC87a3W) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Drøm](https://open.spotify.com/album/2KOmdQ7vwCdf8An8sKO7ex) | 1:49 | 2022-09-15 | 2023-07-19 |

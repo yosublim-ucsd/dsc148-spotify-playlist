@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189295,
       "name": "Lulu Santos",
       "url": "https://open.spotify.com/track/5GwnZRiw7DdrWASBuWAHy9"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 186666,
       "name": "Minha Vida \u00e9 um Filme",
       "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
@@ -2764,6 +2764,28 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
+    },
+    {
+      "album": {
+        "name": "Puro Suco Stronda",
+        "url": "https://open.spotify.com/album/3uihtsjHXuNvtqM30f4UIa"
+      },
+      "artists": [
+        {
+          "name": "Diego Thug",
+          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
+        },
+        {
+          "name": "YoungAlxn",
+          "url": "https://open.spotify.com/artist/5efPHAUTNMCmlrD4viZ0w4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205906,
+      "name": "Puro Suco Stronda",
+      "url": "https://open.spotify.com/track/3CIBwDCGbrYAyUIT9Gt7Bc"
     },
     {
       "album": {
@@ -3502,6 +3524,36 @@
       "duration_ms": 149168,
       "name": "Vida Que Pedi a Deus",
       "url": "https://open.spotify.com/track/0L9FmabEOyVAng0ozLIFqW"
+    },
+    {
+      "album": {
+        "name": "Vit\u00f3ria Brindar",
+        "url": "https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O"
+      },
+      "artists": [
+        {
+          "name": "BADZILLA",
+          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        },
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197558,
+      "name": "Vit\u00f3ria Brindar",
+      "url": "https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57"
     },
     {
       "album": {

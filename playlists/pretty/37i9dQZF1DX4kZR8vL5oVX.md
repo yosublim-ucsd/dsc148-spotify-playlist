@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,293 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,290 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 26 | [Tu m'aimes](https://open.spotify.com/track/1tUDGMd4dsqF8cFE3Z7UQq) | [Maheva Ony](https://open.spotify.com/artist/2Qrsf6B7PrwRq27zlCdS49) | [Tu m'aimes](https://open.spotify.com/album/2PpHuRVgWli4YFpDObnmNc) | 2:35 |
 | 27 | [Panique mondiale](https://open.spotify.com/track/5Tuf8yzSBE8akDObvz1wED) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Panique mondiale](https://open.spotify.com/album/1jdOwLoGllULTL5ZPENc0b) | 2:26 |
 | 28 | [Pensées violentes](https://open.spotify.com/track/7LZeI9vSZQCOVQHGsblPNi) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Pensées violentes](https://open.spotify.com/album/0m67K9xL80XNzIc4jtlBgB) | 2:10 |
-| 29 | [Nu](https://open.spotify.com/track/3sFSvsSxwOIIIqcXp7jGsW) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Nu](https://open.spotify.com/album/4COp4YzjgmasK8SJGNRAkJ) | 3:40 |
+| 29 | [Je t'attends](https://open.spotify.com/track/1H7fub0sVefmxSybba0PES) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Cheminement](https://open.spotify.com/album/5L5y6SteAN2DImbrBJMd2O) | 3:57 |
 | 30 | [Plus de problèmes](https://open.spotify.com/track/0pulUhI0fMLZIcPNClwjhL) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Plus de problèmes](https://open.spotify.com/album/5z52r8m9gHlX3NWOW6SdpH) | 3:04 |
 | 31 | [LIGNE D'ARRIVÉE](https://open.spotify.com/track/7apnTW8c5llW1ERH033ETy) | [TESSÆ](https://open.spotify.com/artist/4Rc4ZjE8dK1b794tfc3BIt) | [LIGNE D'ARRIVÉE](https://open.spotify.com/album/7LAKsgH2czlD90MDrUXEf2) | 2:58 |
 | 32 | [disque d'or](https://open.spotify.com/track/1IvtkbHxD3PrVIbPLWgCh0) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [nuits blanches](https://open.spotify.com/album/7arBB1SwCHupWvkQsOTvFu) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Une litanie](https://open.spotify.com/track/1fcX3CNUvS5Cp8HmLZBauT) | [Henriette](https://open.spotify.com/artist/1CHMc2krpqB5toZizl1QY7) | [Aux portes de l'excès](https://open.spotify.com/album/5r3N9iz53VaRo75Pic0VkN) | 5:26 |
 | 50 | [Loin de nous](https://open.spotify.com/track/2cz8MUPiByy5JZF3hmb4I2) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Loin de nous](https://open.spotify.com/album/3p1WZSWqTmSjLtsHo1QqYc) | 3:11 |
 
-Snapshot ID: `MCwyNTg1Y2UwYTQ5Yjk1NWU3OTQ0MGM2ZmZjNmY3YTYxNzkwZTNhZjQ5`
+Snapshot ID: `MCxkMzA0NTUxN2UzNTU1YWM0NjNmYzhjOWJlOTFhNTU1YzI4Y2ZlNjUx`

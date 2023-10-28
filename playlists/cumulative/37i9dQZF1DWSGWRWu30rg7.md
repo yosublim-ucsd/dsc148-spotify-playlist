@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Faren Yokung
 
-2,692 songs - 6 day 21 hr 13 min
+2,696 songs - 6 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,6 +811,7 @@
 | [GHOST](https://open.spotify.com/track/5aqmAwTDUN1KlZICCg7hKO) | [CRVZY](https://open.spotify.com/artist/0V6tNG0yrbG3iyGJu6E9Jl), [AVL](https://open.spotify.com/artist/6x2IxKOm9gZJldwQmE0mXf), [OBI NICK](https://open.spotify.com/artist/248gsbZNNCmZAAhNJIxt4E) | [GHOST](https://open.spotify.com/album/6aRoTfemmy0xrI5f8fc0cY) | 4:36 | 2022-11-17 | 2022-12-01 |
 | [GHOST \- Icebox Remix](https://open.spotify.com/track/5pRQ3bj2D23fMxDCAuayLg) | [CRVZY](https://open.spotify.com/artist/0V6tNG0yrbG3iyGJu6E9Jl), [ICEBOX ID](https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze) | [GHOST \(Icebox Remix\)](https://open.spotify.com/album/3XAAsNIdN8rKJW7HNW5pyM) | 3:26 | 2023-03-30 | 2023-04-14 |
 | [Ghosting](https://open.spotify.com/track/4pLnUAk7etyZt8btGsjVQX) | [Freakyfriday](https://open.spotify.com/artist/19KVIyQMP3iAUOO9x58ydG) | [When You Leave](https://open.spotify.com/album/0PMicsL5aUTeUEKnNiSXtC) | 4:14 | 2023-10-05 | 2023-10-27 |
+| [Ghosting](https://open.spotify.com/track/36f2wJZzlJP4GPuM7Xejs1) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc), [GLOXINIA](https://open.spotify.com/artist/3dAIRNpFDRZlgUg2oAwrB5) | [Ghosting](https://open.spotify.com/album/0hU1WTKf3P66Tk2ob5yYtu) | 3:00 | 2023-10-27 |  |
 | [Giants Among The Elders](https://open.spotify.com/track/3t7B77fPzG4zwt7XFocKpK) | [G.A.T.E.](https://open.spotify.com/artist/27MsV4sxGbLMXXo3DPsGEm) | [Giants Among The Elders](https://open.spotify.com/album/2hDLKNfKeQpUz2OvghRtZP) | 3:48 | 2023-03-30 | 2023-04-14 |
 | [Gimme U](https://open.spotify.com/track/0J7xalpmTBtSXLg655ooXt) | [Syeqy](https://open.spotify.com/artist/4z5jmISKhWSg24Wk6s0U0p) | [Gimme U](https://open.spotify.com/album/5tQ99YdE2gsaZMZ5H8o7to) | 2:56 | 2023-10-12 |  |
 | [Gimme Ur Love](https://open.spotify.com/track/0WBkrxAwXkZvalrnC0iTON) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu), [Justinian](https://open.spotify.com/artist/4Ly46bJaa902GQRlCUBcUp) | [Gimme Ur Love](https://open.spotify.com/album/7pCaYs5Go5YRkASf4vNDHy) | 3:14 | 2022-01-13 | 2022-01-28 |
@@ -1432,6 +1433,7 @@
 | [Lovin' You](https://open.spotify.com/track/5H2cfqqCRBeMN6RibW8a74) | [Ichon Badguitar](https://open.spotify.com/artist/5uNkPDANmnBKbYCmK8wnWA) | [Lovin' You](https://open.spotify.com/album/51Q2lF0plg75F8gvAoJzG5) | 3:43 | 2023-10-27 |  |
 | [Luapkan Ceritakan](https://open.spotify.com/track/71YQA0rj2O3Zr7zmL7ccZ0) | [Fia](https://open.spotify.com/artist/7skuGUZSr7cVapTcRWPbXo) | [Luapkan Ceritakan](https://open.spotify.com/album/7fakCuPLm7M8Dcxpn9krpA) | 3:56 | 2023-05-11 | 2023-05-26 |
 | [Lucky](https://open.spotify.com/track/6JGmoom5WymUbRdISG2Rg5) | [Jascha Ririhena](https://open.spotify.com/artist/1k6MajoWOgLgeZQLFs40Li) | [Lucky](https://open.spotify.com/album/2hLqHJAHb3fuVz24z70n7Z) | 5:17 | 2023-01-12 | 2023-01-27 |
+| [Lucky Star](https://open.spotify.com/track/3S6NgdMJPS7uevl5wLFvcA) | [Dimaz Andrean](https://open.spotify.com/artist/5NYz9mnqCSAdoTj9K5REYj), [Jocaso](https://open.spotify.com/artist/62fuw7TfFRh51DpQHppm0e), [Laura Theux](https://open.spotify.com/artist/1ZnfXdOzLIHjiAWGldkHdt) | [Lucky Star](https://open.spotify.com/album/5d4qsSTqJAc7MpXRop5OnQ) | 3:26 | 2023-10-27 |  |
 | [Lucy](https://open.spotify.com/track/0c2P6BNxDXsppXD0bpvIuq) | [Weirdudes](https://open.spotify.com/artist/1YS6RZ5arE88gpede5wLxc), [Cakka Nuraga](https://open.spotify.com/artist/5Ua0C8IdcZmmJ4A4lAkiS2) | [Lucy](https://open.spotify.com/album/1U2V18nH2MnW2fv2G5zJzk) | 3:29 | 2022-09-22 | 2022-10-14 |
 | [Luka](https://open.spotify.com/track/26cKYqfWEmAstuuJCMWBr7) | [Something From Better](https://open.spotify.com/artist/2EXKzdJ0tWh0QeNmeimcOc) | [Luka](https://open.spotify.com/album/6mwvvEf0adOFqJEABXSuRu) | 4:29 | 2022-01-27 | 2022-02-11 |
 | [Luka](https://open.spotify.com/track/7jiuKXT3uoWEQvifkxZ0J7) | [Tenri Abeng](https://open.spotify.com/artist/1wCBn39k2epiBOZs59KBCa) | [Luka](https://open.spotify.com/album/61LjoDc2WUrglN0dlS9bFT) | 4:22 | 2023-07-06 | 2023-07-21 |
@@ -1825,6 +1827,7 @@
 | [Petty](https://open.spotify.com/track/2gIa008gier4zcGUXJSYmA) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Fathan Maulana](https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4) | [Petty](https://open.spotify.com/album/0LULZRiDyS0si9FoxZTwvS) | 2:13 | 2023-06-08 | 2023-06-23 |
 | [Phases of the Moon](https://open.spotify.com/track/0XyoNtGd1AVECZy8lPzK9Z) | [Dustrck](https://open.spotify.com/artist/0tbvGfLG4DHpTUzYEjz4ep) | [Phases of the Moon](https://open.spotify.com/album/79VhVdaXgcX0GOLCEuoKSL) | 3:16 | 2022-10-27 | 2022-11-25 |
 | [Phobia Pagi](https://open.spotify.com/track/2oCCzhjaly3BSPLfDNGPRu) | [Frame of Mind](https://open.spotify.com/artist/3vFY3wM30tNi2WFLy6Oot7) | [Phobia Pagi](https://open.spotify.com/album/5FDCpIF7o6OzHSVYnENVv4) | 5:01 | 2023-08-17 | 2023-09-01 |
+| [PICKUPTHEPHONE](https://open.spotify.com/track/5Y6cOWoJk0uaagpcCFAG35) | [entropy.](https://open.spotify.com/artist/1ouz8o9Gw4yH6u3RkO3LZf) | [PICKUPTHEPHONE](https://open.spotify.com/album/65WIDzRuAuNAFBkgDvAtQa) | 3:14 | 2023-10-27 |  |
 | [Picture, You.](https://open.spotify.com/track/4N4lh3JSrz7jdPtFv9D3Jr) | [Ravi Andika](https://open.spotify.com/artist/2Nvkc0Qs0ErmxRzhL3bqNl) | [Picture, You.](https://open.spotify.com/album/4jFrGUf3jJCYuhHEXcpwbE) | 3:37 | 2022-05-19 | 2022-06-03 |
 | [pigeons on the block](https://open.spotify.com/track/51zYRE5MgEBJy8CtzZPT7K) | [Cito Gakso](https://open.spotify.com/artist/7N3quq8Eg4bBzq3Jo53zJP) | [pigeons on the block](https://open.spotify.com/album/5o33LbToteY45DoqvS2nVz) | 3:19 | 2022-02-17 | 2022-03-05 |
 | [PIGS](https://open.spotify.com/track/6pM85l0QxkfLQkJG4SebFh) | [Zeeko](https://open.spotify.com/artist/0kGY3Vs9NYFts4xBrYnIF0), [Ner](https://open.spotify.com/artist/6hdwdZKs8POVLICsXFkul6) | [PIGS](https://open.spotify.com/album/0VOv4O9fiwA2a1QvRrSc6P) | 3:44 | 2023-10-27 |  |
@@ -2374,6 +2377,7 @@
 | [Temu Bertamu](https://open.spotify.com/track/7rnzOCOjTnN1FCwSh73HhM) | [Gia Sabila](https://open.spotify.com/artist/3AjstTWb3CAW74fTTi7Yuh) | [Temu Bertamu](https://open.spotify.com/album/1lWkxijBdx6Hi7GG7tWfO3) | 4:31 | 2023-09-07 | 2023-09-23 |
 | [Temui](https://open.spotify.com/track/1fSKHP6P3pKMspdXqpe7CK) | [Claudia Iva](https://open.spotify.com/artist/6B6oRQo1mro02JxIkHEocy) | [Temui](https://open.spotify.com/album/7AgPkIPrpxQVTO5zMkuAdI) | 3:12 | 2023-10-27 |  |
 | [Tenang](https://open.spotify.com/track/0hoHH6LJcXy9goayxpcM09) | [Yola Theodora](https://open.spotify.com/artist/1OldQfamiwXDIFZEWuFZCC) | [Tenang](https://open.spotify.com/album/4z7n12JEiy3oCikvBrW05v) | 4:16 | 2022-03-10 | 2022-03-25 |
+| [Tenanglah](https://open.spotify.com/track/33hUawIkikaoMUD7fYn6MG) | [Faren Yokung](https://open.spotify.com/artist/3gkRoefXYjmsXoi58XgVuq) | [Tenanglah](https://open.spotify.com/album/0mBgNS9Fwlx3HPPwxKAc6M) | 4:49 | 2023-10-27 |  |
 | [Tentang aku](https://open.spotify.com/track/0XKXF8r4Wj5adqBlKYch29) | [Bhanu Marais](https://open.spotify.com/artist/0lNHnWpu3fCw1Hb2y0QOSj) | [Unknown Discovery](https://open.spotify.com/album/5GvdlTxJsNvR7dHvAuq9y4) | 4:03 | 2023-08-17 | 2023-09-01 |
 | [Tentang Hari Ini](https://open.spotify.com/track/255pUBzSXuACcoOY0DpOsz) | [Musik Hari Ini](https://open.spotify.com/artist/2wuh6dQgIeW78IFY5AWKXa) | [Tentang Hari Ini](https://open.spotify.com/album/5h8wThd28iZyOq0nFmuNCW) | 3:19 | 2022-02-10 | 2022-02-25 |
 | [Tentang Kita Malam Itu](https://open.spotify.com/track/5oYDSaoR8dNZtScveDPZ2q) | [Shakila Anjani](https://open.spotify.com/artist/0b7ktdXIZGmEH06i40rDek) | [Tentang Kita Malam Itu](https://open.spotify.com/album/6sQpF89mMBnEcew41WpLnD) | 4:20 | 2022-09-09 | 2022-09-23 |

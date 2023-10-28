@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Quevedo, Ovy On The Drums & Yandel.",
+  "description": "Perreando toda la noche con Wisin y Chencho Corleone.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -1036,6 +1036,24 @@
       "duration_ms": 195237,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1xUd3t6zmrAC08LrWKEBrC"
+    },
+    {
+      "album": {
+        "name": "Bandidona",
+        "url": "https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Bandidona",
+      "url": "https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi"
     },
     {
       "album": {
@@ -6929,6 +6947,28 @@
     },
     {
       "album": {
+        "name": "LOCO X PERREARTE",
+        "url": "https://open.spotify.com/album/1EKXvsbN9F0aBxigrLRXnc"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212024,
+      "name": "LOCO X PERREARTE",
+      "url": "https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux"
+    },
+    {
+      "album": {
         "name": "Locura y Maldad",
         "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
       },
@@ -7732,7 +7772,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 194470,
       "name": "MI EXXX",
       "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
@@ -9374,7 +9414,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 227096,
       "name": "Para Ti (feat. Maikel Delacalle & Omar Varela)",
       "url": "https://open.spotify.com/track/1PHY05RmHPBs3SASIjXcYl"

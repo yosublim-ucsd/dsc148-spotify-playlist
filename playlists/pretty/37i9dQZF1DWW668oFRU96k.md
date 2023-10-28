@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Ayra Starr x David Guetta x Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,761 likes - 79 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,808 likes - 79 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 6 | [LET'S GO](https://open.spotify.com/track/2dRwRtYFH95QcMcRhUVWBB) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LET'S GO](https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan) | 3:16 |
 | 7 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 |
 | 8 | [Death Note](https://open.spotify.com/track/4Twa0rvJUloTw6itYfJpiU) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Stellar](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) | [Death Note](https://open.spotify.com/album/3MLkGnQoSApnfPULnBYypR) | 2:38 |
-| 9 | [Heart Still Beating](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp) | 2:29 |
+| 9 | [Heart Still Beating](https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m) | 2:29 |
 | 10 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 |
 | 11 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 |
 | 12 | [IRL](https://open.spotify.com/track/1TWo3biVjxcOMoJpG1u7TG) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [IRL](https://open.spotify.com/album/26OLnXoPybuXQIqWXWBCbz) | 3:01 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 78 | [Don't Step On My Nikes](https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Don't Step On My Nikes](https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d) | 2:36 |
 | 79 | [The One](https://open.spotify.com/track/2h5CVxnbUUM2g3VdcXjCuT) | [Small ToK](https://open.spotify.com/artist/6hV8ewHG3ztpkuoZATWO3I), [R\-CHY](https://open.spotify.com/artist/4VaW6tpYOl0ld3X54wRZsd) | [The One](https://open.spotify.com/album/58LXm6XbKUp4SNSy83B2qM) | 2:23 |
 
-Snapshot ID: `MCw3Y2FkNjBhNWFhOGZhYzg0OGQxYjJlNGEwMjllMWY5OGU5NTZmNDk1`
+Snapshot ID: `MCxjOTg5Nzk0Y2QzZWVjYTAwMjRjYTBkMDQzMjU5OTNmNGUwMWIxNTI5`

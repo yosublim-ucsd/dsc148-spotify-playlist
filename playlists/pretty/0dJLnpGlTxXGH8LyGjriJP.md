@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 695 songs - 1 day 11 hr 13 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 697 songs - 1 day 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -703,5 +703,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 693 | [Lithuania \(feat\. Travis Scott\)](https://open.spotify.com/track/4VLTxHOyFX5FRtkpsFm5Pc) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 |
 | 694 | [Go Legend \(& Metro Boomin\)](https://open.spotify.com/track/3wAI7MIQtTgwcRmwchPZBc) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Double Or Nothing \(& Metro Boomin\)](https://open.spotify.com/album/0llyIxX3nDC3hobbGibVZl) | 4:28 |
 | 695 | [Broke In A Minute](https://open.spotify.com/track/2ZrAjMSmlbDIil0JaVgTHh) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Broke In A Minute](https://open.spotify.com/album/0UWsJ8Z4BRe740txEt4IM6) | 2:12 |
+| 696 | [Know The Difference \(feat\. Lil Baby\)](https://open.spotify.com/track/7jMjA7MmHeKcDH4MnSp5YF) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Rich Off Pints 3](https://open.spotify.com/album/71AUiEqMJuQFGUzFmYYACn) | 2:51 |
+| 697 | [Family Freestyle](https://open.spotify.com/track/5u8m1YQAVoyu5k81b5DWvr) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Family Freestyle](https://open.spotify.com/album/1QkPatRtkzJahrvBV56gJe) | 3:35 |
 
-Snapshot ID: `ODU4LGFkZTNkNmZlNjQ0ZTMzODM0Y2E0ZjRlMzI2MmFlNjQ2MWIzYTg1MWY=`
+Snapshot ID: `ODYwLDk0OWNlNjdiNDM2YWQwMTAzYzcwNDNlYzY0NzhhNTVmNGYwNDRmOTg=`

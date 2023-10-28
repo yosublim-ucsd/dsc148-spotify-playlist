@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: VillaBanks
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,058 likes - 55 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,449 likes - 55 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 17 | [Polvere](https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Polvere](https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM) | 2:46 |
 | 18 | [Piango In Discoteca](https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Piango In Discoteca](https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD) | 3:19 |
 | 19 | [ORIGAMI ALL'ALBA \- CLARA](https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [ORIGAMI ALL'ALBA](https://open.spotify.com/album/282p191UnQOp3i5NREMfYL) | 2:33 |
-| 20 | [Bella \(ft\. Boro\)](https://open.spotify.com/track/1yBBuN8zzSXkew8qe12Xlt) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [VILLABANKS](https://open.spotify.com/album/1v4ennAZieVxb71tEgpjnZ) | 2:06 |
+| 20 | [Bella \(ft\. Boro\)](https://open.spotify.com/track/1yBBuN8zzSXkew8qe12Xlt) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [VILLABANKS](https://open.spotify.com/album/1v4ennAZieVxb71tEgpjnZ) | 2:06 |
 | 21 | [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 |
 | 22 | [Tutto con te](https://open.spotify.com/track/7CPbIZIGKE8tPLUuLMVujK) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Tutto con te](https://open.spotify.com/album/1kcuGFGOcoGsWi2GUTdwFJ) | 2:38 |
 | 23 | [IL MIO MIGLIOR NEMICO](https://open.spotify.com/track/727b2Tqk054VaqdizPo2in) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [IL MIO MIGLIOR NEMICO](https://open.spotify.com/album/0BEUay4OiO1kmxSfhqREQQ) | 2:32 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [Sogni più grandi](https://open.spotify.com/track/66iaIDwL6Ud7g30xcdjGcY) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Sitcom triste](https://open.spotify.com/album/4s536NBIBRn8q829pTkzn6) | 2:43 |
 | 55 | [Strappami](https://open.spotify.com/track/2hwhhzr8w5BDJVYYLWINTV) | [FirkLøver](https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R) | [Strappami](https://open.spotify.com/album/1g68iPAK1qMQaC0uRHj98w) | 2:29 |
 
-Snapshot ID: `MCxjNDc3ZDA0NWE3ZTg5NDBkNGE5NjZlMWRmZjRiNTY3NmJmNmUyN2Nh`
+Snapshot ID: `MCw2ZjIxY2Y2NjM3NTNiMDJlODg1ZGRhNDU3M2MzMGM1ODUxMjJhZWUy`

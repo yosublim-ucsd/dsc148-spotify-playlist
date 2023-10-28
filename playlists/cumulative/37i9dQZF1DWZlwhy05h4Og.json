@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-23",
-  "description": "The sweetest bops. Cover: aespa",
+  "description": "The sweetest bops. Cover: LE SSERAFIM",
   "name": "SUGAR",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
@@ -302,6 +302,28 @@
       "duration_ms": 161366,
       "name": "Cardboard Box",
       "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
+    },
+    {
+      "album": {
+        "name": "Cheeky But Charming (feat. KUROMI)",
+        "url": "https://open.spotify.com/album/3By2H5WNB4ZpLN5Llmwrr8"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        },
+        {
+          "name": "KUROMI",
+          "url": "https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128849,
+      "name": "Cheeky But Charming (feat. KUROMI)",
+      "url": "https://open.spotify.com/track/2VqXiJCKjkEKbI1SChyG4m"
     },
     {
       "album": {
@@ -758,6 +780,24 @@
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
+    },
+    {
+      "album": {
+        "name": "Gone Girl",
+        "url": "https://open.spotify.com/album/3Dso0eUbQmuZFgLX5rN2sd"
+      },
+      "artists": [
+        {
+          "name": "Boys World",
+          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152852,
+      "name": "Gone Girl",
+      "url": "https://open.spotify.com/track/2VUXv03kwwet6EXIFn9ykA"
     },
     {
       "album": {
@@ -1310,7 +1350,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 149512,
       "name": "me, my girls & i",
       "url": "https://open.spotify.com/track/2K7CqNeCpbO0RoD4bAZ5tU"
@@ -1350,7 +1390,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 167035,
       "name": "Mr Right (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
@@ -1534,6 +1574,24 @@
       "duration_ms": 183546,
       "name": "Party O'Clock",
       "url": "https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH"
+    },
+    {
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
       "album": {

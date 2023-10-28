@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : The Kid LAROI x Jung Kook x Central Cee",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Taylor Swift",
   "name": "Nouveaut\u00e9s Pop",
   "tracks": [
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
     {
       "album": {
         "name": "16",
@@ -546,10 +564,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 207611,
       "name": "Children of the Sky (a Starfield song)",
       "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
+    },
+    {
+      "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183566,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
     },
     {
       "album": {
@@ -756,6 +792,24 @@
       "duration_ms": 192857,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e"
+    },
+    {
+      "album": {
+        "name": "Different Kind Of Beautiful",
+        "url": "https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201007,
+      "name": "Different Kind Of Beautiful",
+      "url": "https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw"
     },
     {
       "album": {
@@ -1616,7 +1670,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 174222,
       "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
       "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
@@ -2741,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "PHOENIX",
+        "url": "https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "TALK!",
+      "url": "https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW"
+    },
+    {
+      "album": {
         "name": "The California shine",
         "url": "https://open.spotify.com/album/2FwgsCGpAkFaoY076IZMw1"
       },
@@ -2806,7 +2878,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189386,
       "name": "the grudge",
       "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
@@ -2926,7 +2998,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
@@ -3002,7 +3074,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 191185,
       "name": "Used To Be Young",
       "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
@@ -3038,10 +3110,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "album": {
+        "name": "WHAT JUST HAPPENED",
+        "url": "https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162191,
+      "name": "WHAT JUST HAPPENED",
+      "url": "https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J"
     },
     {
       "album": {

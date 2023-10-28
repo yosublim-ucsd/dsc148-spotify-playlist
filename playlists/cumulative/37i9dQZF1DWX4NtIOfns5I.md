@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> where folk flowers bloom\. cover: Mitski <3
+> where folk flowers bloom\. cover: Chance Peña <3
 
-108 songs - 6 hr 15 min
+110 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Dream Dating](https://open.spotify.com/track/0ikubwVXWkOeYH3HFhXMfK) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:47 | 2023-10-06 |  |
 | [Dream Song](https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Dream Song](https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb) | 2:43 | 2023-10-06 |  |
 | [Eidolon](https://open.spotify.com/track/5ttu0jY3rOQuaW3D2AN6OU) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Act 2 \(Their God\)](https://open.spotify.com/album/20tEagJfooo80QqJND3FMR) | 3:30 | 2023-10-06 |  |
+| [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-10-27 |  |
 | [Euphor](https://open.spotify.com/track/4CiqKccFFYGmFPz7HVTjfW) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 4:03 | 2023-10-17 |  |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-10-06 |  |
 | [Everything We Need](https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Everything We Need](https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M) | 3:33 | 2023-10-06 |  |
@@ -114,6 +115,7 @@
 | [Whole](https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 3:19 | 2023-10-06 |  |
 | [Willows](https://open.spotify.com/track/0skYZXWfbJtGlmRRRvQI4A) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Willows](https://open.spotify.com/album/1a1XOILeamqVZsPpUL2D6P) | 3:41 | 2023-10-06 |  |
 | [Yeehoo!](https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Yeehoo!](https://open.spotify.com/album/425NhcK8beUulJGrT4duTL) | 3:28 | 2023-10-06 |  |
+| [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-27 |  |
 | [You'd Like Me More](https://open.spotify.com/track/5AoZ4uqkpRvUgBclqxBbxc) | [Axel & Lolo](https://open.spotify.com/artist/66uREfgVhvjUiK3RXcTAdq) | [You'd Like Me More](https://open.spotify.com/album/2SJZIS9MFmKiIKZVNFFOqD) | 3:44 | 2023-10-06 |  |
 | [Zinnias](https://open.spotify.com/track/67bSS4aLrasUNp3EQjdHTT) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 2:54 | 2023-10-06 |  |
 

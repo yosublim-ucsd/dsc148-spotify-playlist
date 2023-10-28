@@ -4,7 +4,7 @@
 
 > Current Pakistani hits under one roof\. Cover: AUR
 
-79 songs - 4 hr 50 min
+81 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Mangan Aiyaan](https://open.spotify.com/track/1A27G1hOLRBA0nKvakRZHI) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Mangan Aiyaan](https://open.spotify.com/album/3mgsIaswVoF08xKiZuiLgn) | 3:53 | 2023-05-24 |  |
 | [Mansoob](https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Mansoob](https://open.spotify.com/album/0ru0ZZ8qTufVPvEIB7GbFd) | 2:43 | 2023-06-08 |  |
 | [Marjaniey](https://open.spotify.com/track/3wpQ6qv3QiEVujhvwW40nY) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd) | [Marjaniey \(1\)](https://open.spotify.com/album/5AEBVGeMey0FryxyiSlPma) | 3:20 | 2023-06-20 |  |
+| [Me & You](https://open.spotify.com/track/5PlvEOKEO40fwk1qHXGuH0) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Therapy](https://open.spotify.com/album/5yRj8G5V3b8t5cIDS3VJZH) | 4:57 | 2023-10-27 |  |
 | [Mera Sawera](https://open.spotify.com/track/6MYdDETIIxZmbwlWYofhNJ) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Mera Sawera](https://open.spotify.com/album/72RLlXLJPNfjAygCfLPSRN) | 4:00 | 2023-08-23 | 2023-09-30 |
 | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/track/4BoFJMLSO3ZoD48KgnslSe) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/album/1xT6hChxAkSLclY5Jvl65M) | 5:51 | 2023-05-04 |  |
 | [Moonrise](https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise](https://open.spotify.com/album/1Q48FsRM9uF3VvGYaji5bE) | 2:49 | 2023-05-04 |  |
@@ -77,6 +78,7 @@
 | [Secrets](https://open.spotify.com/track/0v8UhUalYhCuq6fDEe9ijE) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 4:38 | 2023-05-04 |  |
 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 | 2023-05-04 |  |
 | [Sukoon](https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:15 | 2023-05-04 |  |
+| [Tasweer](https://open.spotify.com/track/2CMMyIYdieC1RDpxnIPeMG) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Therapy](https://open.spotify.com/album/5yRj8G5V3b8t5cIDS3VJZH) | 4:36 | 2023-10-27 |  |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-10-16 |  |
 | [Tu hai kahan](https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/5V2IsZkQDhgRrgNhyCOJHf) | 4:23 | 2023-10-11 | 2023-10-21 |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2023-05-04 | 2023-05-23 |

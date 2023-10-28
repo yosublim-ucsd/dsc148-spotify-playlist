@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,881 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,920 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 7 | [Holm](https://open.spotify.com/track/18VTWGLJxaRMFdQ6NDIGKk) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [The Tunis Diaries](https://open.spotify.com/album/4BULdO9TRA4UfgfANxrGJN) | 4:46 |
 | 8 | [Mafi Mennik](https://open.spotify.com/track/7KpMGvnrttA4zqqRm7cx4a) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Mafi Mennik](https://open.spotify.com/album/7cUCcWvtL3Z0S2JWIGIR93) | 4:03 |
 | 9 | [Kahlete Laayoune](https://open.spotify.com/track/0Vk0PhvVKhXbMj75eaLbu3) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 4:20 |
-| 10 | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8) | 2:53 |
-| 11 | [Warda Ala Warda](https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD) | [Fayçal Azizi](https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ), [Sakina Lafdaili](https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl) | [K'lma](https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81) | 5:10 |
-| 12 | [El Kess Yaddour](https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm) | [Labess](https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y) | [Identité](https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR) | 3:36 |
+| 10 | [Warda Ala Warda](https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD) | [Fayçal Azizi](https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ), [Sakina Lafdaili](https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl) | [K'lma](https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81) | 5:10 |
+| 11 | [El Kess Yaddour](https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm) | [Labess](https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y) | [Identité](https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR) | 3:36 |
+| 12 | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8) | 2:53 |
 | 13 | [بدي احكيك](https://open.spotify.com/track/4LcxmnNWYr9EUeEJWwKT5e) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [بدي احكيك](https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q) | 2:51 |
 | 14 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
 | 15 | [Smek](https://open.spotify.com/track/1w6PwIPjMOA2FZ2Dq9HGIV) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Chura](https://open.spotify.com/album/1Gs4HM1Ra5HzuGyUJkxtmQ) | 2:40 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 35 | [صباح الخير](https://open.spotify.com/track/6BgqI86Dtk0YLUkLnSJk14) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 3:19 |
 | 36 | [Shahrazad](https://open.spotify.com/track/0HpTrjuy3daY46IpCRZPf0) | [Yazan Ibrahim](https://open.spotify.com/artist/2IUQX6kIJhBuJaL7UYkHkG), [Terez Sliman](https://open.spotify.com/artist/2iFhXkgGLdF1mLQKvWVbm4) | [Almond Blossom](https://open.spotify.com/album/5Mp4ZyBwspNMtls451hr9w) | 3:44 |
 | 37 | [Weilak Acoustik](https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0) | 3:32 |
-| 38 | [La corrida \(with Francis Cabrel\)](https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc), [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Ici et ailleurs](https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd) | 5:33 |
+| 38 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
 | 39 | [Fuqaati \(My Bubble\)](https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka) | [Ruba Shamshoum](https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM) | [Fuqaati \(My Bubble\)](https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r) | 4:28 |
-| 40 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
+| 40 | [La corrida \(with Francis Cabrel\)](https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc), [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Ici et ailleurs](https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd) | 5:33 |
 | 41 | [Albi](https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw), [Norah Shaqur](https://open.spotify.com/artist/357LwT1uF798pX9P418HhS) | [Ya Zalamez](https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo) | 3:53 |
 | 42 | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk), [Frankly Jazz](https://open.spotify.com/artist/5K8Wf8G8YMy9EJ8w857rm9) | [يامّه مويل الهوى \(feat\. Frankly Jazz\)](https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J) | 3:08 |
 | 43 | [Manakir](https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Manakir](https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY) | 3:04 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 62 | [Warda 7amra \- Live](https://open.spotify.com/track/4abds4zgaIK15x9B3PtWLn) | [Amin Kamal](https://open.spotify.com/artist/0vOIeTt1kAxXxomH6N77os) | [Skizosocial Live](https://open.spotify.com/album/4anbKuPvH0XWqUWCbxvGMf) | 6:50 |
 | 63 | [Erjaa Shoufak](https://open.spotify.com/track/6mbo7f6VsjsgxQBkgGA9mv) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Erjaa Shoufak](https://open.spotify.com/album/4pGrKvclUJW5QbzY80hU3a) | 3:47 |
 | 64 | [درر](https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY) | [Roxs9](https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru) | [دُرَرْ](https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD) | 4:28 |
-| 65 | [Oully Ya Sahbi](https://open.spotify.com/track/3KujYyygA5owoZZ3o8iyAE) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y), [Sofiane Saidi](https://open.spotify.com/artist/6VnkIRZde53ai5TtkMulr4) | [Mish Maoul](https://open.spotify.com/album/00oemMx6T4Jdd86Q29vmuW) | 5:33 |
+| 65 | [Dayman Bekheir](https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Dayman Bekheir](https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc) | 4:06 |
 | 66 | [Habibi Ta'al](https://open.spotify.com/track/19oH7VGiIr2dBr8tOQxE9Q) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Alsahraa](https://open.spotify.com/album/08aS2e6UrwEoq6BPGyNHe2) | 6:10 |
-| 67 | [Dayman Bekheir](https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Dayman Bekheir](https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc) | 4:06 |
+| 67 | [Oully Ya Sahbi](https://open.spotify.com/track/3KujYyygA5owoZZ3o8iyAE) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y), [Sofiane Saidi](https://open.spotify.com/artist/6VnkIRZde53ai5TtkMulr4) | [Mish Maoul](https://open.spotify.com/album/00oemMx6T4Jdd86Q29vmuW) | 5:33 |
 | 68 | [Keber Al Alb](https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 2:53 |
 | 69 | [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 |
 | 70 | [Estihala \- Live Acoustic](https://open.spotify.com/track/65FeLB4ilmJRzMBzSzKJXJ) | [Sherif Abdelmeged](https://open.spotify.com/artist/6jjt4meb4Y0U7MbzYDjMrQ) | [Estihala \(Live Acoustic\)](https://open.spotify.com/album/2al5I60LV1UgE4lZUSm9WY) | 3:18 |
 
-Snapshot ID: `MCw2NWJiMDc3ZDY4YjY1NmQzMjZmMTUwYWNlY2YwOTJjNWQ0YTFkMjg0`
+Snapshot ID: `MCwxYWE3M2EyZjcxMzAwYzE4ODhmMDYyNWY2NDg4ZWI3Y2YwOWZlMWZj`

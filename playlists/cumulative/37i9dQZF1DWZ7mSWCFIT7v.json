@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 263750,
       "name": "Emergence in Nature",
       "url": "https://open.spotify.com/track/6tRS5HuyInWuZJNcTHPOSK"
@@ -6046,6 +6046,24 @@
       "duration_ms": 411886,
       "name": "Whipping Spree",
       "url": "https://open.spotify.com/track/200545IqOHWYOBYYWWf7ro"
+    },
+    {
+      "album": {
+        "name": "Wiegenmusik / Constant Structure",
+        "url": "https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ"
+      },
+      "artists": [
+        {
+          "name": "Simon Lovermann",
+          "url": "https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152827,
+      "name": "Wiegenmusik",
+      "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"
     },
     {
       "album": {

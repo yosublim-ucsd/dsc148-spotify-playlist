@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 188795,
       "name": "3D (feat. Jack Harlow) (A. G. Cook Remix)",
       "url": "https://open.spotify.com/track/7fQKDpB4i0hiQacjVCXVU2"
@@ -1473,6 +1473,28 @@
     },
     {
       "album": {
+        "name": "Better Things (Dance Remix)",
+        "url": "https://open.spotify.com/album/2P8trIADhHx8fJAdC7ud40"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "LDN NOISE",
+          "url": "https://open.spotify.com/artist/5sdRcz0BjbZdTbeT4mJ2xs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Better Things - Dance Remix",
+      "url": "https://open.spotify.com/track/62Q8xON11csaJlfmRF7Y5O"
+    },
+    {
+      "album": {
         "name": "Better Things (RAYE Remix)",
         "url": "https://open.spotify.com/album/3ukWjsUrP70en9dcpt01Hs"
       },
@@ -1662,7 +1684,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 158880,
       "name": "Bite Me - Japanese Ver.",
       "url": "https://open.spotify.com/track/0INxaaPlo9DnT0OYEzHdsk"
@@ -1952,7 +1974,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 212333,
       "name": "BONVOYAGE (Farewell Ver.)",
       "url": "https://open.spotify.com/track/4xiuarCywWiw9qESd8Y7ng"
@@ -3522,7 +3544,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 216320,
       "name": "Dirty Dancing (feat. Joshua, DK & Dino of SEVENTEEN) - Dem Jointz Remix",
       "url": "https://open.spotify.com/track/6KfYVOicblNB8CaDZwbxiT"
@@ -3798,7 +3820,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 204880,
       "name": "Don't Go Insane",
       "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
@@ -3870,7 +3892,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 183160,
       "name": "Don\u02bct Be Jealous",
       "url": "https://open.spotify.com/track/23ZmdTxdwyKu6t4VBkzZSc"
@@ -5334,7 +5356,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 218106,
       "name": "Girls\u2019 Capitalism",
       "url": "https://open.spotify.com/track/2ivVS2ageitCQqnmmMaWoH"
@@ -6640,7 +6662,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 171056,
       "name": "Jacuzzi",
       "url": "https://open.spotify.com/track/3WS8Wul8jTZg9jvmN8556Q"
@@ -9273,6 +9295,42 @@
     },
     {
       "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/6s5By8sGoiYLpQmtYYvmGO"
+      },
+      "artists": [
+        {
+          "name": "VANNER",
+          "url": "https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "PERFORMER",
+      "url": "https://open.spotify.com/track/2arrxX2BubTq86E4N067WY"
+    },
+    {
+      "album": {
         "name": "Perfume - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
       },
@@ -10346,7 +10404,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 177773,
       "name": "Sara Sara",
       "url": "https://open.spotify.com/track/0aLkYYO8w7T0U2Vhb0pe2O"
@@ -12059,6 +12117,24 @@
     },
     {
       "album": {
+        "name": "Talk Saxy",
+        "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190941,
+      "name": "Talk Saxy",
+      "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
+    },
+    {
+      "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },
@@ -13040,7 +13116,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 182933,
       "name": "UNFORGIVEN - Japanese ver.",
       "url": "https://open.spotify.com/track/07Kq5cRJkYNieu1rge3PZX"
@@ -13362,7 +13438,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 145026,
       "name": "Vision Getting Blurred (SIDE A)",
       "url": "https://open.spotify.com/track/3vok71DdgrvusXlNopJF8U"

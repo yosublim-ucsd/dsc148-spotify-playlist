@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 20406,
+  "num_followers": 20426,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzkzMmRhNjgxOWYwMjIyNzY4Y2NjMWZiODdlZGViZjZmZTU0OWI4",
+  "snapshot_id": "MCxkMzZiZDk5ZWFhMmY2NzA3NTVjODE3NTlhMGEyY2Y4NWE0YzVmMWEx",
   "tracks": [
     {
       "added_at": "2023-08-31 12:17:23",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
+        "name": "Coop! The Music Of Bob Cooper",
+        "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
+      },
+      "artists": [
+        {
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 251933,
       "name": "Steve Allen Theme",
       "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
-        "name": "Coop! The Music Of Bob Cooper",
-        "url": "https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5"
-      },
-      "artists": [
-        {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Gettin' Together!",
-        "url": "https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 416866,
-      "name": "Gettin' Together [Original Take]",
-      "url": "https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
         "name": "Take Me Along",
         "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 304093,
       "name": "Sid, Ol' Kid",
       "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
+        "name": "Gettin' Together!",
+        "url": "https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 416866,
+      "name": "Gettin' Together [Original Take]",
+      "url": "https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Monterey Concerts",
-        "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/02O3WhAMDqv4kL7tvdzXQt"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+          "name": "The Chet Baker Sextet",
+          "url": "https://open.spotify.com/artist/1q1geiLRhQOQRtPijlG2wi"
         }
       ],
-      "duration_ms": 605400,
-      "name": "Walkin' With Wally - live",
-      "url": "https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ"
+      "duration_ms": 285620,
+      "name": "Little Man You've Had a Busy Day",
+      "url": "https://open.spotify.com/track/4nJNXNc3ylbmtqFkNXJ8HO"
     }
   ],
   "unique_name": "West Coast Jazz",

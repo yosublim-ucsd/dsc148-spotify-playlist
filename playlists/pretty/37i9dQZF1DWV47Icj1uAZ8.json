@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 28545,
+  "num_followers": 28595,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTlhODU0ZTZjZDkxMGFmNTJlYmIzNjZkNzJiZGZiOTE3OTA2N2Vk",
+  "snapshot_id": "MCwyMjNhYTkxNzFmZmI4NzdiNGUwMzE0OWZhZTgxMjZlYzZkNjBmOTUx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 386626,
-      "name": "Next Lifetime",
-      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Southside",
         "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 277840,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 386626,
+      "name": "Next Lifetime",
+      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
     },
     {
       "added_at": "2022-10-01 16:00:00",

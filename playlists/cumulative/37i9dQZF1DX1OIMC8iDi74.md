@@ -2,9 +2,9 @@
 
 ### [Trap Mojito](https://open.spotify.com/playlist/37i9dQZF1DX1OIMC8iDi74)
 
-> The best of electronic trap\. Cover: RL Grime
+> The best of electronic trap\. Cover: G Jones
 
-273 songs - 15 hr 4 min
+275 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Major](https://open.spotify.com/track/55dObqJybLWm9O06FBDLCP) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [Major](https://open.spotify.com/album/4WUW44ZbWTQoi5bsJD3kl6) | 3:53 | 2021-11-19 | 2022-01-17 |
 | [MAKE ME DANCE](https://open.spotify.com/track/0Kp9qaRwdruRMtwIBQYxRH) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [CHAOS](https://open.spotify.com/album/4qXiqNr5DuZXxkTRGi45LU) | 3:22 | 2023-06-09 | 2023-08-01 |
 | [MAKE ME DANCE](https://open.spotify.com/track/3at6CHKoGRGh5dzee3jREt) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [CHAOS](https://open.spotify.com/album/7AL5AHfLrkfHJZJwdP8yTx) | 3:22 | 2022-08-05 | 2023-06-15 |
-| [Makin Moves](https://open.spotify.com/track/3QwYSJpsLN0qannLsQqdVE) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [Makin Moves](https://open.spotify.com/album/0KiLaRhGNQYN0j94MVjKhN) | 3:00 | 2023-03-31 |  |
+| [Makin Moves](https://open.spotify.com/track/3QwYSJpsLN0qannLsQqdVE) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [Makin Moves](https://open.spotify.com/album/0KiLaRhGNQYN0j94MVjKhN) | 3:00 | 2023-03-31 | 2023-10-28 |
 | [Marrakech](https://open.spotify.com/track/42bzfcGVgYcpjo2kebQZXh) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [Marrakech](https://open.spotify.com/album/7xQd6Ieb1fD6prQWJyOGbv) | 2:20 | 2021-11-19 | 2022-01-21 |
 | [Mars](https://open.spotify.com/track/0qe82vcK8qrhxysdMQpBrt) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Mars](https://open.spotify.com/album/4TIkvjDU9QucXlfKgvV899) | 2:35 | 2021-11-19 | 2022-02-02 |
 | [Matangi](https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG) | 3:18 | 2022-06-24 | 2022-08-26 |
@@ -172,7 +172,7 @@
 | [Moondance \(Move Together\)](https://open.spotify.com/track/3K9OoTcAxpBcYozungwRHw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [XAELO](https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV) | [Moondance \(Move Together\)](https://open.spotify.com/album/1WYArFyJAyDTrCskmxRBvJ) | 4:10 | 2023-04-21 | 2023-06-05 |
 | [Morph](https://open.spotify.com/track/6jwmIxjsBgCMIPCSQzv2R5) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Morph](https://open.spotify.com/album/1bfESOWCNhinOrL6yOZgXh) | 3:28 | 2021-11-19 | 2022-02-02 |
 | [MTV](https://open.spotify.com/track/12fXG4cvTNqSOZYlXsHjLe) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [MTV](https://open.spotify.com/album/415XYhTyB0ZsWyiQo9I8m6) | 3:28 | 2021-11-19 | 2022-02-01 |
-| [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 | 2021-11-19 |  |
+| [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 | 2021-11-19 | 2023-10-28 |
 | [Máquina](https://open.spotify.com/track/0dolBdu2pV52zcx7tH0Goy) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO) | [Máquina](https://open.spotify.com/album/0ncUAncYZNDg0678jPIMWM) | 3:23 | 2021-11-19 | 2022-01-21 |
 | [Máquina](https://open.spotify.com/track/40xO4XDK7AjFtVkg5mDzaY) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO) | [Cartel II](https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc) | 3:23 | 2021-11-26 | 2022-02-02 |
 | [Natural Dna](https://open.spotify.com/track/40S3MDbHQKIJWHzDV0gOJA) | [XLAB](https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6), [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [Natural Dna](https://open.spotify.com/album/5ExxafE9krLV8viIUdl5ii) | 2:53 | 2021-11-19 | 2022-02-02 |
@@ -222,6 +222,7 @@
 | [Shadow \(feat\. Calivania\)](https://open.spotify.com/track/6y3jQ1n5P4z1DAtHd7HWcV) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Cartel II](https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc) | 3:35 | 2021-11-26 | 2022-01-21 |
 | [Shadow \(feat\. Calivania\)](https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1) | [Shadow \(feat\. Calivania\)](https://open.spotify.com/album/3dA7AcTrAWTcaKSUS3r75L) | 3:35 | 2021-11-19 | 2022-08-31 |
 | [Shiawase](https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase](https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d) | 3:37 | 2022-02-01 |  |
+| [Shut Shit Down](https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut Shit Down](https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ) | 2:42 | 2023-10-27 |  |
 | [SIDE2SIDE](https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [SIDE2SIDE](https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH) | 3:53 | 2023-06-09 | 2023-07-28 |
 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 | 2022-09-02 |  |
 | [Sinner](https://open.spotify.com/track/6r4evry8ZJxJRkjKBiHncf) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa) | [Sinner](https://open.spotify.com/album/2kpCIlKMYr7Z0AZbhBCoTb) | 3:38 | 2021-11-19 | 2022-02-02 |
@@ -249,6 +250,7 @@
 | [The One \- NGHTMRE Remix](https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [The One \(The Remixes\)](https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS) | 2:40 | 2022-02-01 |  |
 | [Thief \- Flux Pavilion Remix](https://open.spotify.com/track/6btkdvumrTmcFzy3oFpZqS) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Thief \(Flux Pavilion Remix\)](https://open.spotify.com/album/4kFd3dIqukGfolHILzWddZ) | 4:31 | 2022-02-01 |  |
 | [TIDES](https://open.spotify.com/track/6h0o08bDtg1DpSkMTfwaEP) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [TIDES](https://open.spotify.com/album/1FVxlg8xl2ir77wIG2hjVf) | 1:45 | 2021-11-19 | 2022-02-02 |
+| [Too Far Gone](https://open.spotify.com/track/6UK3DJjALEcDdqehJvkjP4) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Paths](https://open.spotify.com/album/4FL3BPEqVAxOEtvjDgLlc9) | 2:52 | 2023-10-27 |  |
 | [Totality](https://open.spotify.com/track/67U414F214QaCHyVl2oRA8) | [ill.gates](https://open.spotify.com/artist/4a32m0kHbxZm3V7jHpW60g) | [Totality](https://open.spotify.com/album/1nvaawcpLujTUWXZRWKwdu) | 4:18 | 2021-11-19 | 2022-02-02 |
 | [Touch](https://open.spotify.com/track/2a7kFbxMwmmZWDvH0JbZFU) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [You Do You](https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN) | 2:57 | 2022-02-01 |  |
 | [Town](https://open.spotify.com/track/2uJm2sCTLsEvklcRCXlwu7) | [sebjin](https://open.spotify.com/artist/0uFDrEREG90mVVJYINEuzd) | [Town](https://open.spotify.com/album/2w4Ryrbbl0RocDcBmsDJPC) | 2:31 | 2021-11-19 | 2022-02-02 |

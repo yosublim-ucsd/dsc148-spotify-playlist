@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Meernaa <3
 
-1,945 songs - 4 day 10 hr 22 min
+1,946 songs - 4 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1770,6 +1770,7 @@
 | [Trust Me](https://open.spotify.com/track/1vWGRKPv90Fg2i8iUtsGhb) | [Eliza Niemi](https://open.spotify.com/artist/6UntKZ32JDgJV35Nmk5gDi) | [Staying Mellow Blows](https://open.spotify.com/album/3aGj95AYpFM8g4kdkAHzHc) | 2:47 | 2022-08-10 | 2022-08-25 |
 | [Try Me On](https://open.spotify.com/track/64N4zaqyLeJEVTYEKUCLN7) | [Abby Johnson](https://open.spotify.com/artist/1vd69udmTJd37Lca9x3lvW) | [Abby Johnson](https://open.spotify.com/album/6sTxDQcjOu8ftMv2KXTirq) | 3:38 | 2023-09-20 |  |
 | [Try Me Out](https://open.spotify.com/track/72Rp7lHlNmKyfMtXQUqlIW) | [crêpe girl](https://open.spotify.com/artist/46dxD5cIrBqD171NQ84rVz) | [Try Me Out](https://open.spotify.com/album/5W5V6m0x9p3ggpPP3fqfaN) | 3:23 | 2022-06-08 | 2022-06-30 |
+| [Trying](https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Trying](https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB) | 3:46 | 2023-10-27 |  |
 | [Très Jolie](https://open.spotify.com/track/6OSLXDeYBpWr9gYyT8z4So) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Très Jolie](https://open.spotify.com/album/52eph7Xq39vIhwT65uNNn3) | 3:08 | 2023-02-27 | 2023-03-29 |
 | [Tuesday](https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Tuesday](https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf) | 4:59 | 2023-10-11 |  |
 | [Tulip Schmaltz in A Major](https://open.spotify.com/track/7EUT7Knq7n1E6gw1TGRXCN) | [Smushie](https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH) | [Tulip Schmaltz in A Major](https://open.spotify.com/album/5ONohN5WZYcnEkQiT5EOuD) | 2:15 | 2023-03-29 | 2023-04-20 |

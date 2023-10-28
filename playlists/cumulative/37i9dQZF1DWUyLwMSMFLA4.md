@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia y cuarteto!
 
-143 songs - 8 hr 47 min
+144 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Provenza / Te Felicito / Despechao](https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Provenza / Te Felicito / Despechao](https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc) | 6:02 | 2023-08-25 | 2023-08-29 |
 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 | 2023-05-05 | 2023-08-22 |
 | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Kevo DJ](https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z) | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe) | 2:21 | 2023-05-05 |  |
+| [QUE ME FALTE TODO](https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE ME FALTE TODO](https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd) | 2:45 | 2023-10-27 |  |
 | [Que Ya No Me Llame](https://open.spotify.com/track/4vWfA1WkcYTrJdW9bN30Ir) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2zJ3aQpwT8EmleuSKUEsdD) | 3:14 | 2023-05-05 | 2023-06-20 |
 | [Qué bonito](https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Los Verdugos De La Mufa](https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO) | 3:58 | 2023-05-05 |  |
 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 | 2023-07-28 | 2023-10-13 |
@@ -121,7 +122,7 @@
 | [Sin Documentos \- Cover](https://open.spotify.com/track/2jDDaOlTlPIj14ogDGeQO6) | [THE PALMERS](https://open.spotify.com/artist/4ACQyAX2r9xt9k1y1t7jXN) | [Sin Documentos \(Cover\)](https://open.spotify.com/album/57jYr82JRXrEQlt8CWl7lL) | 2:49 | 2023-06-09 | 2023-07-04 |
 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 | 2023-05-05 |  |
 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 | 2023-05-05 |  |
-| [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2023-05-05 |  |
+| [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2023-05-05 | 2023-10-28 |
 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 | 2023-05-05 |  |
 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 | 2023-05-05 |  |
 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 | 2023-09-08 | 2023-10-07 |

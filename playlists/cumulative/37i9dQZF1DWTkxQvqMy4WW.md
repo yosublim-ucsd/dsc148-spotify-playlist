@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-387 songs - 22 hr 12 min
+388 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Fast](https://open.spotify.com/track/2gYiCTytrSRtuaHP1Nac6u) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 3:26 | 2019-06-24 | 2019-06-28 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-05-18 |  |
 | [Feelin’ It](https://open.spotify.com/track/0ABHhxQTaluB94ohp2RLSr) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [See You Tonight](https://open.spotify.com/album/4WzDgE5rtzgdklKFoDvUcw) | 3:18 | 2019-08-09 | 2019-08-10 |
+| [Fires Don't Start Themselves](https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Fires Don't Start Themselves](https://open.spotify.com/album/12n7yWhXKfnjn0HMEcrNj9) | 3:45 | 2023-10-27 |  |
 | [Five More Minutes](https://open.spotify.com/track/66IULVOTImQG2u0cJ3Ls04) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Five More Minutes](https://open.spotify.com/album/1nuoHWmZeB6SpJFfgYJUiv) | 3:58 | 2019-10-26 | 2022-04-20 |
 | [Five More Minutes](https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj) | 4:01 | 2023-03-16 |  |
 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 | 2023-03-10 |  |
@@ -129,7 +130,7 @@
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 | 2022-01-14 |  |
 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2023-05-18 | 2023-07-29 |
 | [Hangin' On](https://open.spotify.com/track/6CyJlVAEFlNdpggOLanytL) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Losing Sleep](https://open.spotify.com/album/0iWG0AWnGf939jpHGl6fmR) | 3:05 | 2019-10-26 | 2021-01-15 |
-| [Hard To Love](https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:44 | 2019-10-26 | 2023-10-24 |
+| [Hard To Love](https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:44 | 2019-10-26 |  |
 | [Head Over Boots](https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:22 | 2022-05-13 |  |
 | [Head Over Boots](https://open.spotify.com/track/1R9FxlRkvKtt36dtTHs93X) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Head Over Boots](https://open.spotify.com/album/1I9915YiaRIKbVZM8Zkueh) | 3:25 | 2019-06-22 | 2022-07-29 |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2023-05-18 |  |
@@ -171,7 +172,7 @@
 | [I'll Name the Dogs](https://open.spotify.com/track/609qKv3KPAbdtp0LQH2buA) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texoma Shore](https://open.spotify.com/album/1Kc7TpYwJQ0mzVAssuWbB0) | 3:03 | 2019-10-26 | 2022-05-07 |
 | [I'm Comin' Over](https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:17 | 2019-10-26 | 2021-10-16 |
 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 | 2022-05-13 | 2022-11-21 |
-| [If I Die Young Pt\. 2](https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [If I Die Young Pt\. 2](https://open.spotify.com/album/5gV76M8FAHa7APtrOoQbpV) | 3:23 | 2023-09-08 |  |
+| [If I Die Young Pt\. 2](https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [If I Die Young Pt\. 2](https://open.spotify.com/album/5gV76M8FAHa7APtrOoQbpV) | 3:23 | 2023-09-08 | 2023-10-28 |
 | [If I Know Me](https://open.spotify.com/track/7sdXnxsqD2gMEit0drCY2r) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/6cm5xvkq0vGcOtLvyWXEM8) | 2:37 | 2019-05-25\* | 2021-02-04 |
 | [If I Told You](https://open.spotify.com/track/4Az17HfqonKSWNsaLgTBeK) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [When Was The Last Time](https://open.spotify.com/album/6SVzzB0SnMlBXcHsmhNxzC) | 3:32 | 2019-06-21 | 2022-04-20 |
 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2022-02-04 | 2023-03-11 |
@@ -260,7 +261,7 @@
 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 | 2021-07-24 |  |
 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-07-28 |  |
 | [Rescue](https://open.spotify.com/track/3Ishl2jSDXSmdGwrBsMjfq) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Rescue](https://open.spotify.com/album/6poDTCrEwcyrdZ70Nb7gaF) | 3:36 | 2019-06-22 | 2022-04-18 |
-| [Rich Man](https://open.spotify.com/track/3dHBL4qSyeTWWTde3blYOR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Rich Man](https://open.spotify.com/album/4NovVYzgePFkjllyvhoMfs) | 3:30 | 2023-03-10 |  |
+| [Rich Man](https://open.spotify.com/track/3dHBL4qSyeTWWTde3blYOR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Rich Man](https://open.spotify.com/album/4NovVYzgePFkjllyvhoMfs) | 3:30 | 2023-03-10 | 2023-10-28 |
 | [Ride \(feat\. Macy Maloy\)](https://open.spotify.com/track/1CoOHJAHtKEDnUBrp3nKAB) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Macy Maloy](https://open.spotify.com/artist/5JhkYX4FCP6FRmxrGEQoda) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0) | 4:01 | 2019-06-23 | 2020-02-06 |
 | [Right Girl Wrong Time](https://open.spotify.com/track/1ZzUE9vPvsVMCNu2e7OepO) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Right Girl Wrong Time](https://open.spotify.com/album/7rimqdFFxMEBQYjyiTAXHW) | 3:42 | 2019-06-25 | 2021-10-11 |
 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 | 2019-06-23 | 2022-06-09 |

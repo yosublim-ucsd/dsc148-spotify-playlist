@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,296 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,361 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 58 | [Eu Vim da Bahia](https://open.spotify.com/track/2rBViBV2IvjhQqPH6xExki) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV) | 3:06 |
 | 59 | [Tristeza Pé No Chão](https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151) | [Canto Sagrado \- Uma Homenagem à Clara Nunes](https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo) | 4:24 |
 | 60 | [Água de Chuva no Mar \- Do filme "Um Casal Inseparável"](https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Água de Chuva no Mar \(Do filme "Um Casal Inseparável"\)](https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo) | 4:08 |
-| 61 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
-| 62 | [Nervos de Aço \- Ao Vivo](https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Loucura: Adriana Calcanhotto Canta Lupicínio Rodrigues \(Ao Vivo\)](https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2) | 2:00 |
+| 61 | [Nervos de Aço \- Ao Vivo](https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Loucura: Adriana Calcanhotto Canta Lupicínio Rodrigues \(Ao Vivo\)](https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2) | 2:00 |
+| 62 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
 | 63 | [Aprendi a Ser Feliz](https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx) | [Elisa Fernandes](https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ) | [Saravá, Paz e Bem](https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z) | 3:43 |
 | 64 | [E Luxo Só](https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:59 |
-| 65 | [Gema \(342 Amazônia ao Vivo no Circo Voador\)](https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gema \(342 Amazônia ao Vivo no Circo Voador\)](https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D) | 2:25 |
-| 66 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
+| 65 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
+| 66 | [Gema \(342 Amazônia ao Vivo no Circo Voador\)](https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gema \(342 Amazônia ao Vivo no Circo Voador\)](https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D) | 2:25 |
 | 67 | [Também Pede Bis](https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY) | [Pedro Miranda](https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l) | [Também Pede Bis](https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D) | 2:51 |
-| 68 | [Atraco](https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Pagode Novo](https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf) | 3:25 |
-| 69 | [Se Me Chamar, Ô Sorte!](https://open.spotify.com/track/0CbaCHAddjPeDbA7x5Y2xp) | [Wilson Das Neves](https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn), [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Se Me Chamar, Ô Sorte](https://open.spotify.com/album/6On7sJLC8PM1TM4FLdHNZt) | 3:38 |
+| 68 | [Se Me Chamar, Ô Sorte!](https://open.spotify.com/track/0CbaCHAddjPeDbA7x5Y2xp) | [Wilson Das Neves](https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn), [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Se Me Chamar, Ô Sorte](https://open.spotify.com/album/6On7sJLC8PM1TM4FLdHNZt) | 3:38 |
+| 69 | [Atraco](https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Pagode Novo](https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf) | 3:25 |
 | 70 | [Dança Da Solidão](https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bis \- Paulinho Da Viola](https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo) | 2:29 |
 | 71 | [LONGE LONGE DE MIM](https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [NEKTAR](https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg) | 3:26 |
 | 72 | [Enquanto Você Não Chega](https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Voo Longe](https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Vive](https://open.spotify.com/track/7L8CsrDISh97u1oArY2HAs) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Oasis](https://open.spotify.com/album/4vWO9mZWPOLip3fnRqDtCl) | 5:06 |
 | 100 | [Disseram Que Eu Voltei Americanizada \- Live 1992](https://open.spotify.com/track/7wxDeUTfCqoZf0ZaKFhcdN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Circulado Vivo](https://open.spotify.com/album/0OLjXOG6wYYWfvFj049bGm) | 1:39 |
 
-Snapshot ID: `MCxiNzhmNzFmZDYyODY3ZjE2Nzg4MmY4MWY5YjFiNWI0NTE3YTU2ZDU5`
+Snapshot ID: `MCwwMGQ3MTUxNTcwYWJjOGJhYmYzNzc4NDJiYzkxNGU0MWNjOTQ3YWJk`

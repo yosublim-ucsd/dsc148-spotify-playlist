@@ -1,13 +1,29 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: Will Swinton",
-  "num_followers": 120366,
+  "num_followers": 120387,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2ZjNGRjMTA1YTlmMGVkMzgwZDU2OTFkYjkwNjJhMmEwYmRlNjEy",
+  "snapshot_id": "MCw1MjgzMDI3ZWEyYWYxMmY2MDZjZTU4ZDdiZGZlYzQ3ZTNiYjEzNGRm",
   "tracks": [
+    {
+      "added_at": "2023-10-26 13:00:00",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
     {
       "added_at": "2023-10-26 13:00:00",
       "album": {

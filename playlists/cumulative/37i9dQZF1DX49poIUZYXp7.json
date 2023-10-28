@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The extraordinary women making great country music today. Cover: Tenille Townes",
+  "description": "The extraordinary women making great country music today. Cover: Carly Pearce",
   "name": "Women of Country",
   "tracks": [
     {
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
@@ -2004,6 +2004,24 @@
       "duration_ms": 217813,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB"
+    },
+    {
+      "album": {
+        "name": "Heels Over Head",
+        "url": "https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "Heels Over Head",
+      "url": "https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ"
     },
     {
       "album": {
@@ -3542,6 +3560,24 @@
       "duration_ms": 194560,
       "name": "Mean Something",
       "url": "https://open.spotify.com/track/2z0GgJjQShQbEWwfXlfrzW"
+    },
+    {
+      "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/2y0nOvxDP9sQ4fwUvUKM45"
+      },
+      "artists": [
+        {
+          "name": "Shelby Darrall",
+          "url": "https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207726,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/1clurKfZZ1ScMCJIb6RUck"
     },
     {
       "album": {
@@ -5302,7 +5338,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 210631,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P"

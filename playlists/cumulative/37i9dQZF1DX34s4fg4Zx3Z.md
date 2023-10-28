@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: NGHI; thiết kế: Isu Kim
 
-1,358 songs - 3 day 7 hr 31 min
+1,360 songs - 3 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Chẳng Thể Biết Sau Này](https://open.spotify.com/track/6srjBA8uiMYWFzITE3FtiQ) | [h0n](https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS), [Xám](https://open.spotify.com/artist/0OzWJ833Wac4o3SAh38s7i) | [Chẳng Thể Biết Sau Này](https://open.spotify.com/album/5lduejZzrZe0qmCIaenP7g) | 3:41 | 2023-08-04 | 2023-09-13 |
 | [Chẳng Thể Cùng Em!](https://open.spotify.com/track/6ZOrsweNaCwqo6zkYHVILy) | [QuocKiet](https://open.spotify.com/artist/1kisOgQZlBhZh0miDdjSYC), [Khiem](https://open.spotify.com/artist/2xyEAgqFAAy5yqRZ7mHd9c) | [Chẳng Thể Cùng Em!](https://open.spotify.com/album/3H6YJarjwmi94JOb7SN89y) | 3:26 | 2023-09-28 |  |
 | [chẳng thể làm khác đi](https://open.spotify.com/track/3LTKpxispcsNhJHTEQR65K) | [Kidie the soloist\*](https://open.spotify.com/artist/2a29SvBumOQL1oLAfN0itA), [Fuse.](https://open.spotify.com/artist/0cQxe8kFr1SVttZ3AIDxie) | [chẳng thể làm khác đi](https://open.spotify.com/album/2F222kmQe60kBexxfgireh) | 3:08 | 2022-11-15 | 2023-03-18 |
+| [Chẳng Yêu Em Thì Dám Yêu Ai](https://open.spotify.com/track/572GRcM5dOJJErxAvjQYhJ) | [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Chẳng Yêu Em Thì Dám Yêu Ai](https://open.spotify.com/album/2W4DbN8LOZ3WsjUwGCHNlR) | 3:50 | 2023-10-26 |  |
 | [Chết Trong Tim](https://open.spotify.com/track/4vzvBePJsAEDrOIfVKMCKR) | [Swan Nguyễn](https://open.spotify.com/artist/0kRs5H8JQHkHMQwBg7BgPv), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Chết Trong Tim](https://open.spotify.com/album/3xm6giZHros407cYbevu0a) | 4:53 | 2023-10-17 |  |
 | [Chỉ còn Mary Jane](https://open.spotify.com/track/2FHM7MYPQOsKMO045Feh1K) | [$ativa](https://open.spotify.com/artist/4MHq627pFLlhqrdQTamHtm), [Buford](https://open.spotify.com/artist/1DxMYqEhE2kFdVI9mrxUJf), [Poo](https://open.spotify.com/artist/5lDuZWXhAWrHvrBQTtbwEa) | [Chỉ còn Mary Jane](https://open.spotify.com/album/44l2dcIRdrbFzYPUfqQ3UJ) | 2:56 | 2022-04-29 | 2022-05-25 |
 | [Chỉ Còn Ta Và Ta Giữa Trời](https://open.spotify.com/track/3BwFxsC7QpRejdE9GXFQI4) | [D Blue](https://open.spotify.com/artist/7JRDlOAUMJuLKmapm6H2VG), [Killic](https://open.spotify.com/artist/5Zosih1NRDj5W7mruPqfpu) | [Chỉ Còn Ta Và Ta Giữa Trời](https://open.spotify.com/album/0izHbyAAjxFR60XtvPiz0u) | 3:06 | 2022-07-21 | 2023-02-07 |
@@ -515,6 +516,7 @@
 | [Hóa Ra Yêu Là Đây](https://open.spotify.com/track/2GMae0eJHJxJVOsDQuSqnt) | [Vinh Trịnh](https://open.spotify.com/artist/6w2AVIxXrI6y3N9yHi0u6s), [Tuấn Phạm](https://open.spotify.com/artist/5hYfIfS4XhK61usCMKBV6S) | [Hóa Ra Yêu Là Đây](https://open.spotify.com/album/48EihN2vonmBRArFaF8M1X) | 4:05 | 2022-05-27 | 2022-06-08 |
 | [Hóa Điên](https://open.spotify.com/track/1uqRi2xZxVSpg0q1gldbZE) | [LongDrae](https://open.spotify.com/artist/6wr5MFUyjHq8etSwa7Zlpw), [Juan](https://open.spotify.com/artist/33OL7ji9KqV0ZKL046GspG) | [Hóa Điên](https://open.spotify.com/album/3fgpJa4BSQR1RTappFKutz) | 3:47 | 2022-01-06 | 2022-01-15 |
 | [Hôm Nay Cuối Tuần \(feat\. LeWiuy\)](https://open.spotify.com/track/36tF4xpkndXKn7wpIbqmcZ) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY), [LeWiuy](https://open.spotify.com/artist/284Kopvh7L7NCkz00VFbqt) | [Hôm Nay Cuối Tuần \(feat\. LeWiuy\)](https://open.spotify.com/album/6we5ZOYE7pbvyU2b5Sm6zN) | 2:00 | 2023-05-15 | 2023-05-17 |
+| [Hôm Nay Ta Chia Tay](https://open.spotify.com/track/6Yw73JH1vRdSi7MJ5yE3uy) | [Summer Vee](https://open.spotify.com/artist/6gWEeFGU5pCS3WOabthYiI), [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [Hôm Nay Ta Chia Tay](https://open.spotify.com/album/1qrNZHuHCshg4TcF5DtXr2) | 3:42 | 2023-10-26 |  |
 | [hôn anh đi](https://open.spotify.com/track/3Yk8KUFgdyUm0KIMadZ94e) | [Hoāng](https://open.spotify.com/artist/49xfNJ1T52Uv87QiVhRbTf) | [hôn anh đi](https://open.spotify.com/album/10ZV1R3K4BxsrZLT4UqEaz) | 2:28 | 2023-05-01 | 2023-06-26 |
 | [Hôn lên môi mềm](https://open.spotify.com/track/4s3wKZgNND9ZC74nn8ouiN) | [Long.C](https://open.spotify.com/artist/25PilakcHJVYBi2onpxxtI) | [Hôn lên môi mềm](https://open.spotify.com/album/5sbAghW66oWjnSfWy7LGqY) | 3:17 | 2023-01-06 | 2023-03-18 |
 | [Hương Tình Yêu](https://open.spotify.com/track/1ie16BdlU6DPT3rKjIYskG) | [Dâu Tây](https://open.spotify.com/artist/6nZiSrlrBjy8d3nfRDO1wp), [DXY](https://open.spotify.com/artist/0JkfirEBER65Ny2jL0540c) | [Hương Tình Yêu](https://open.spotify.com/album/2hd31pCXFROrst58vY8dyX) | 3:39 | 2023-07-18 | 2023-08-11 |

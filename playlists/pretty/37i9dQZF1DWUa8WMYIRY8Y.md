@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : The Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,190 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,246 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 |
 | 50 | [Tethered](https://open.spotify.com/track/0ZRnv9lXrT1kthOFt0llwy) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Tethered](https://open.spotify.com/album/2MOOICbNuggNtJU2OZWaA4) | 3:48 |
 
-Snapshot ID: `MCxhNWRjZDg3MGJjMmJiMmJiYzlkNTJjYjY2MzMzNzVlNmY5MmY1ZDQw`
+Snapshot ID: `MCxhMjU2NzY2ZTUzNTkyYmFiMjc3ODhmZjM4NmEwYmM0ZjI4OTkxNGEz`

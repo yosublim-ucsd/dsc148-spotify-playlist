@@ -1,29 +1,13 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12776,
+  "num_followers": 12799,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTVlY2YwMDYxZTY4MTk3ZmViNjFhNzFmMjM4MDAxYTQ0YjNlZWFh",
+  "snapshot_id": "MCw3NWMyNjk1MWYyN2IzM2Q4ZWU5OTNiYWFkYTljZGIzZWM1ZWUyZjRl",
   "tracks": [
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "Good day",
-      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
-    },
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 219637,
       "name": "Trouble Maker",
       "url": "https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "Good day",
+      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "No.1 - The 2nd Album",
-        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "No.1",
-      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Stylish\u2026",
         "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 236147,
       "name": "10 Minutes",
       "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "No.1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "No.1",
+      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Remake Romantic 2",
-        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
-      },
-      "artists": [
-        {
-          "name": "Seo Young Eun",
-          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
-        }
-      ],
-      "duration_ms": 215248,
-      "name": "\ub110 \uc0ac\ub791\ud558\uaca0\uc5b4",
-      "url": "https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Dropping the Tears",
         "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 238628,
       "name": "LOVE119 (feat. MC Mong)",
       "url": "https://open.spotify.com/track/4rC34fBjcpOZ4uxonNlLIh"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Remake Romantic 2",
+        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
+      },
+      "artists": [
+        {
+          "name": "Seo Young Eun",
+          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
+        }
+      ],
+      "duration_ms": 215248,
+      "name": "\ub110 \uc0ac\ub791\ud558\uaca0\uc5b4",
+      "url": "https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1567,38 +1567,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Double Life ; The Other Side",
-        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "\uc678\uc6cc \ub450\uc138\uc694",
-      "url": "https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "RAIN 2",
-        "url": "https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "How to Run From the Sun (Gtr.Remix)",
-      "url": "https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Tell Me One More Time",
         "url": "https://open.spotify.com/album/0EMCROFAU9wlGTzdSycGHO"
       },
@@ -1619,18 +1587,34 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Like Them",
-        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
+        "name": "RAIN 2",
+        "url": "https://open.spotify.com/album/0COc1yDwr8FL4dCcUQ6DWk"
       },
       "artists": [
         {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
         }
       ],
-      "duration_ms": 281800,
-      "name": "We Should've Been Friends",
-      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
+      "duration_ms": 231173,
+      "name": "How to Run From the Sun (Gtr.Remix)",
+      "url": "https://open.spotify.com/track/67A5HpruURs2HzdC9wAN7F"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Double Life ; The Other Side",
+        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "\uc678\uc6cc \ub450\uc138\uc694",
+      "url": "https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1647,6 +1631,22 @@
       "duration_ms": 204973,
       "name": "Snow Prince",
       "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Like Them",
+        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "We Should've Been Friends",
+      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

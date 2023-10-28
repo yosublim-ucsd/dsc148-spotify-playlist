@@ -2899,6 +2899,28 @@
     },
     {
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189517,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/6qWuCqwZio3b0eMzycFJOZ"
       },
@@ -4944,7 +4966,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 228922,
       "name": "JSYK",
       "url": "https://open.spotify.com/track/3nOg31lPxRYK0Y0o1XoAf0"

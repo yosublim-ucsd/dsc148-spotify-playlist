@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 170095,
       "name": "3 BAD",
       "url": "https://open.spotify.com/track/17ruwJP3zIcbcXTbnP9qbJ"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 173182,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/5lHxARJJrZc3ss4ZVmGWfz"
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 236334,
       "name": "Halo - Spotify Singles",
       "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
@@ -2501,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167833,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
+    },
+    {
+      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -3622,7 +3640,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 200074,
       "name": "Replace You",
       "url": "https://open.spotify.com/track/4KtVL332elRhpZoctkarI3"
@@ -3680,7 +3698,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 198079,
       "name": "Romance",
       "url": "https://open.spotify.com/track/6UdBnXVvJTHm4o8E3ZCo1O"
@@ -4461,6 +4479,24 @@
     },
     {
       "album": {
+        "name": "Too Strange for the Circus",
+        "url": "https://open.spotify.com/album/2xVPAd6OHyGna11gtdo8S4"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191048,
+      "name": "Too Strange for the Circus",
+      "url": "https://open.spotify.com/track/3EraWxocoFkg6PTjxII85U"
+    },
+    {
+      "album": {
         "name": "You Wish + Trashboi",
         "url": "https://open.spotify.com/album/1tHZNwa8uy5Cre8Evb5YKv"
       },
@@ -4672,7 +4708,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 150576,
       "name": "ur a bitch",
       "url": "https://open.spotify.com/track/0rIyGzKYFeYGUKrQUnZwR5"

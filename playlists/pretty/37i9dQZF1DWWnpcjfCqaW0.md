@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,748 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,820 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 68 | [I Can't Stop Loving You](https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:34 |
 | 69 | [Indian Love Call](https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 3:10 |
 | 70 | [Hey Joe](https://open.spotify.com/track/7HfldGtGQR9FalFBKR14ya) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [The Decca Singles 1952\-1953](https://open.spotify.com/album/3i4OTQnJVagBNrNYnuaiuc) | 2:39 |
-| 71 | [I Love You Because](https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Margaret](https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn) | 2:07 |
-| 72 | [If You Ain't Lovin' \(You Ain't Livin'\)](https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:22 |
-| 73 | [Under Your Spell Again \- Mono Single Version](https://open.spotify.com/track/5Qng3PODaPge1Pn2btusKJ) | [Buck Owens & The Buckaroos](https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV) | [The Complete Capitol Singles: 1957\-1966](https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy) | 2:44 |
+| 71 | [Under Your Spell Again \- Mono Single Version](https://open.spotify.com/track/5Qng3PODaPge1Pn2btusKJ) | [Buck Owens & The Buckaroos](https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV) | [The Complete Capitol Singles: 1957\-1966](https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy) | 2:44 |
+| 72 | [I Love You Because](https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Margaret](https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn) | 2:07 |
+| 73 | [If You Ain't Lovin' \(You Ain't Livin'\)](https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:22 |
 | 74 | [I'm Movin' On](https://open.spotify.com/track/446eGf6Afa6PuZYTsF19U1) | [Hank Snow, The Singing Ranger, And His Rainbow Ranch Boys](https://open.spotify.com/artist/4F2Wz6nsyGRJWISzANL6vQ) | [Super Hits](https://open.spotify.com/album/6CzIVuYfqWNYNw46XpITBl) | 2:47 |
 | 75 | [Blues, Stay Away From Me](https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe) | [The Delmore Brothers](https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ) | [16 All Time Favorite Songs](https://open.spotify.com/album/49gjtUiOVrN6nQXLbOX4pi) | 2:54 |
 
-Snapshot ID: `MCw1YzIwNzA4M2M4OWRiMDNmMTFjMDBlMTljMjI1ZTljMmIyMWNhOTBj`
+Snapshot ID: `MCw1MTU0YzRmZTg1MDMxOTcyZDhlMmQzYTIyMDQ2ZTZiZGMyNGZjN2E3`

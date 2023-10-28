@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP2LZyJjTuU.md) - [plain]
 
 > Melodic Techno & Dance Lover  <a href="spotify:artist:7rznn3BVOuA5jyPB275jmS">AVIRA</a> join us this week with an enchanting mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,460 likes - 13 songs - 59 min 11 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,486 likes - 13 songs - 59 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP2LZyJjTuU.md) - [plain]
 | 12 | [Hollow \- Mixed](https://open.spotify.com/track/3X5by6cSOnb5wbU0WS5Wft) | [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Hollow \(Mixed\)](https://open.spotify.com/album/3iF8qTFgTsBv17qbK0DNg9) | 4:02 |
 | 13 | [Hans Dominator \- Mixed](https://open.spotify.com/track/5JdWiqdsuY6uP8NemyD58E) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy) | [Hans Dominator \(Mixed\)](https://open.spotify.com/album/5a5shrgms4wzSO1dK2Q0f7) | 6:16 |
 
-Snapshot ID: `MCw0ZjUzY2FmOTUyMjVjM2IzNTJkNWJhNDgxMWE0ZDg5OTJhNDBiNWRk`
+Snapshot ID: `MCxkNGU4NjFkYTZjYTE0ZjllY2UyYzFjY2JjMWE2MjkwNTk3NzdmMTU5`

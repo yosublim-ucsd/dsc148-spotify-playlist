@@ -1,12 +1,12 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 26049,
+  "num_followers": 26078,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGRlMTI4NDJkNDBiYTFkODRlNmZlZjRmNzgwZWJhN2UxMWVkZDFk",
+  "snapshot_id": "MCwyZGExNWYzODBlYzNjYTMzMDJmZDY4ZjRjYTE0ZWEzZmYxYzZiYWUz",
   "tracks": [
     {
       "added_at": "2023-05-12 08:21:15",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Talking to the Moon",
-      "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Talking to the Moon",
+      "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "Can We Kiss Forever?",
         "url": "https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 187931,
       "name": "Can We Kiss Forever?",
       "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Safe Haven",
         "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 276066,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2647,22 +2647,18 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
+        "name": "The Love You Left Behind",
+        "url": "https://open.spotify.com/album/0UFUk1X0rVy6ZeySz0RrH6"
       },
       "artists": [
         {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
         }
       ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
+      "duration_ms": 194546,
+      "name": "The Love You Left Behind",
+      "url": "https://open.spotify.com/track/60wa5J6SkXtBXHySQ3PoNB"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2683,18 +2679,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "The Love You Left Behind",
-        "url": "https://open.spotify.com/album/0UFUk1X0rVy6ZeySz0RrH6"
+        "name": "Hey (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 194546,
-      "name": "The Love You Left Behind",
-      "url": "https://open.spotify.com/track/60wa5J6SkXtBXHySQ3PoNB"
+      "duration_ms": 156804,
+      "name": "Hey - Acoustic",
+      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
     },
     {
       "added_at": "2023-05-12 08:21:15",

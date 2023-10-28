@@ -1349,6 +1349,28 @@
     },
     {
       "album": {
+        "name": "DORFDiSKO ZWEi",
+        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188520,
+      "name": "LiEBE AUF DER R\u00dcCKBANK",
+      "url": "https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0"
+    },
+    {
+      "album": {
         "name": "LiEBE AUF DER R\u00dcCKBANK",
         "url": "https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB"
       },
@@ -1364,7 +1386,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 188520,
       "name": "LiEBE AUF DER R\u00dcCKBANK",
       "url": "https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx"

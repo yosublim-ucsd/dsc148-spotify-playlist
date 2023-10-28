@@ -4,10 +4,11 @@
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-78 songs - 6 hr 19 min
+79 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aaj Rang Hai](https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z) | [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Aaj Rang Hai](https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W) | 3:25 | 2023-10-27 |  |
 | [Aeri Sakhi](https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:39 | 2023-08-03 | 2023-10-19 |
 | [Albela](https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Rishabh Shankar](https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g) | [Albela](https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ) | 2:15 | 2023-05-11 |  |
 | [Bachpan Ki Galiyan](https://open.spotify.com/track/4a4r7j3ZUCEup1EwgT7rm2) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:34 | 2023-08-24 | 2023-09-12 |
@@ -34,7 +35,7 @@
 | [Jogiya](https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Chandreyee Bhattacharya](https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy), [Nilanjan Samadder](https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A) | [Jogiya](https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W) | 3:16 | 2023-10-13 |  |
 | [Justaju: The Essence of Love](https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV) | [Raahein Gharana](https://open.spotify.com/artist/1DilhiF5W5TuadHjgoYnMR) | [Justaju: The Essence of Love](https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45) | 5:02 | 2023-05-29 | 2023-08-14 |
 | [Kaa Karoon Sajni \- Thumri Jazz](https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm) | [Kaa Karoon Sajni \(Thumri Jazz\)](https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH) | 3:43 | 2023-05-11 |  |
-| [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 | 2023-05-11 |  |
+| [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 | 2023-05-11 | 2023-10-28 |
 | [Karpur Gauram](https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Karpur Gauram](https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l) | 4:29 | 2023-05-11 |  |
 | [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 | 2023-09-11 |  |
 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 | 2023-10-26 |  |

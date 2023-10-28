@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 243386,
       "name": "Bomba Rel\u00f3gio",
       "url": "https://open.spotify.com/track/3mNdnKuJz4R0doVNRsTvoZ"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 168608,
       "name": "Flor Amarela",
       "url": "https://open.spotify.com/track/4FnrU3thkxYKlnF8TuFGXm"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 191007,
       "name": "mine",
       "url": "https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl"
@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "O Que Eu Ganho",
+        "url": "https://open.spotify.com/album/2DVMqhsqQQ4832MzpOdElN"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "O Que Eu Ganho",
+      "url": "https://open.spotify.com/track/1CNGqfIa5JyUj1cWfvGqAi"
+    },
+    {
+      "album": {
         "name": "The Pains Of Growing",
         "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
@@ -690,7 +708,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 173652,
       "name": "Ouvir de Voc\u00ea",
       "url": "https://open.spotify.com/track/5oJwxHCv7aOtdqWx0wbcKN"
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 191207,
       "name": "The Show",
       "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"

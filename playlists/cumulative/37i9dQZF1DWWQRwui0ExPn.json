@@ -30596,7 +30596,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 130369,
       "name": "Edgy Stripes",
       "url": "https://open.spotify.com/track/1HfvXRyfR8DPm9KK0PCOue"
@@ -39016,6 +39016,24 @@
       "duration_ms": 160200,
       "name": "Freshly Paved",
       "url": "https://open.spotify.com/track/7g7Q0JsJPqcpXXl9LWqdkt"
+    },
+    {
+      "album": {
+        "name": "Freudian slippin",
+        "url": "https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo"
+      },
+      "artists": [
+        {
+          "name": "This Is Moving",
+          "url": "https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172584,
+      "name": "Freudian slippin",
+      "url": "https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f"
     },
     {
       "album": {

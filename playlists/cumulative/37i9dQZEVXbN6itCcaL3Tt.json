@@ -2247,6 +2247,28 @@
     },
     {
       "album": {
+        "name": "The Peasants (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jpDnEecFdhiQwGoXfQyKp"
+      },
+      "artists": [
+        {
+          "name": "L.U.C.",
+          "url": "https://open.spotify.com/artist/1GRpnNhXWlNMgnFf3NqEjv"
+        },
+        {
+          "name": "Rebel Babel Film Orchestra",
+          "url": "https://open.spotify.com/artist/15YEBTmw6GtgzijvG84ynv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280094,
+      "name": "Autumn Dance",
+      "url": "https://open.spotify.com/track/78hH2iGVmsmdPk50AhU2F4"
+    },
+    {
+      "album": {
         "name": "Avatar",
         "url": "https://open.spotify.com/album/1xLhoOzv0VOmTAQVxTMZAA"
       },
@@ -10282,7 +10304,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 178004,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK"
@@ -12504,7 +12526,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 281818,
       "name": "Jesie\u0144 \u2013 Ta\u0144cuj",
       "url": "https://open.spotify.com/track/1TwTHhkLEU4XcDRobMAUaW"
@@ -26164,7 +26186,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 215426,
       "name": "SUPRO",
       "url": "https://open.spotify.com/track/0DDsdWwUGvwMsIl62fFyXQ"

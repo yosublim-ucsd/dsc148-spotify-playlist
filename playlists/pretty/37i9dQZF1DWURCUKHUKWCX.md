@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,506 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,590 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 5 | [Triptych 1 for Piano](https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6) | 2:39 |
 | 6 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 |
 | 7 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 |
-| 8 | [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 |
+| 8 | [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 |
 | 9 | [Atoms](https://open.spotify.com/track/1b85pN99A6Mn3UU81SYUg0) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Atoms](https://open.spotify.com/album/3eP234mqeVO9RjB0RZyd9F) | 3:03 |
 | 10 | [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 |
 | 11 | [Brotin](https://open.spotify.com/track/1ByjUtjfHISyPBH1m4uhvT) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Brotin](https://open.spotify.com/album/1z8AVAZZ8MwD6Q3gBL2IEH) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 99 | [Tuesday](https://open.spotify.com/track/2GuchYit1FmdtXTxl6SbUE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Tuesday](https://open.spotify.com/album/34NwQqEqmAFJW30p70psIt) | 3:11 |
 | 100 | [Feathered Friend](https://open.spotify.com/track/5Ac0ipN7YqSDXOi3aT37kO) | [Kappa Mountain](https://open.spotify.com/artist/3dExis8rqyN3OsHSKuHU53), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Echo Pool](https://open.spotify.com/album/0lZpC773e5FEXVyZ67bKzA) | 2:08 |
 
-Snapshot ID: `MCwxYWY3NTQ0Mjg3ZDUyNWU2Y2NiOTdlNDU4N2VjNjQxZDJiNGFiNDRk`
+Snapshot ID: `MCxkZWQyNDQyNTcxZmRkYTc4ZTY0NDlhYzE1NWRlZDVlMTM5N2IxMTA0`

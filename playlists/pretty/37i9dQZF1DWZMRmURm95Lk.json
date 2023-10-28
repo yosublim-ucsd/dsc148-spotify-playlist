@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Nex Cassel e DJ Craim in cover.",
-  "num_followers": 36651,
+  "num_followers": 36679,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDk2MjkzNjM3Y2QzYjM0ZTEzNmJkZTI1MDUwNGE2ZDg5OTQ3NDdj",
+  "snapshot_id": "MCxiNjcyYmRkNDRlNzY0NzM4Y2I4MTY4ZjRjMTYyOTk3YjkwYmI0YzU4",
   "tracks": [
     {
       "added_at": "2023-10-26 22:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 202885,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
+    },
+    {
+      "added_at": "2023-10-26 22:01:00",
+      "album": {
         "name": "Non Dormire",
         "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
       },
@@ -447,6 +463,22 @@
       "duration_ms": 242906,
       "name": "Verano Zombie",
       "url": "https://open.spotify.com/track/64lAuSz0vPFFK4IAFlENnU"
+    },
+    {
+      "added_at": "2023-10-26 22:01:00",
+      "album": {
+        "name": "Mr. Simpatia",
+        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Momenti no",
+      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -475,38 +507,6 @@
       "duration_ms": 233363,
       "name": "Un Bacio sulla Fronte",
       "url": "https://open.spotify.com/track/5GBfDgJCZ2RdZw3U0C8d7g"
-    },
-    {
-      "added_at": "2023-10-26 22:01:00",
-      "album": {
-        "name": "Mr. Simpatia",
-        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "Momenti no",
-      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
-    },
-    {
-      "added_at": "2023-10-26 22:01:00",
-      "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 202885,
-      "name": "Una Volta Sola",
-      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "La calda notte",
-        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Chicoria",
-          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Cronaca quotidiana",
-      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
-    },
-    {
-      "added_at": "2023-10-26 22:01:00",
-      "album": {
         "name": "Curre curre guagli\u00f2",
         "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 205186,
       "name": "Da 1k In Su (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
+    },
+    {
+      "added_at": "2023-10-26 22:01:00",
+      "album": {
+        "name": "La calda notte",
+        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Chicoria",
+          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Cronaca quotidiana",
+      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
+        "name": "Turbe Giovanili",
+        "url": "https://open.spotify.com/album/7tM5mMXoAWguRCF2tIxnPQ"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 230360,
+      "name": "Scattano Le Indagini",
+      "url": "https://open.spotify.com/track/0FeJBn5QuPRTuWyaSNu2aE"
+    },
+    {
+      "added_at": "2023-10-26 22:01:00",
+      "album": {
         "name": "VIRUS",
         "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 258665,
       "name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
       "url": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6"
-    },
-    {
-      "added_at": "2023-10-26 22:01:00",
-      "album": {
-        "name": "Turbe Giovanili",
-        "url": "https://open.spotify.com/album/7tM5mMXoAWguRCF2tIxnPQ"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 230360,
-      "name": "Scattano Le Indagini",
-      "url": "https://open.spotify.com/track/0FeJBn5QuPRTuWyaSNu2aE"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
+        "name": "SETE",
+        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 188456,
+      "name": "Sono un Disastro",
+      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
+    },
+    {
+      "added_at": "2023-10-26 22:01:00",
+      "album": {
         "name": "Reddito passivo",
         "url": "https://open.spotify.com/album/1idVm5wE0yEv98Zv2cUSkq"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 224000,
       "name": "Reddito passivo",
       "url": "https://open.spotify.com/track/4UrVWE8BON0sYtDEHocZRT"
-    },
-    {
-      "added_at": "2023-10-26 22:01:00",
-      "album": {
-        "name": "SETE",
-        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 188456,
-      "name": "Sono un Disastro",
-      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "Intro 2023 (5tate of Mind freestyle)",
-        "url": "https://open.spotify.com/album/2uvXdb0RIKOaQkrp9yvvgc"
-      },
-      "artists": [
-        {
-          "name": "Egreen",
-          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        }
-      ],
-      "duration_ms": 88529,
-      "name": "Intro 2023 (5tate of Mind freestyle)",
-      "url": "https://open.spotify.com/track/0TFgqsAkKWgKsSXhgxUWDM"
-    },
-    {
-      "added_at": "2023-10-26 22:01:00",
-      "album": {
         "name": "La volta buona",
         "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 234525,
       "name": "La volta buona",
       "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
+    },
+    {
+      "added_at": "2023-10-26 22:01:00",
+      "album": {
+        "name": "Intro 2023 (5tate of Mind freestyle)",
+        "url": "https://open.spotify.com/album/2uvXdb0RIKOaQkrp9yvvgc"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "duration_ms": 88529,
+      "name": "Intro 2023 (5tate of Mind freestyle)",
+      "url": "https://open.spotify.com/track/0TFgqsAkKWgKsSXhgxUWDM"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -1887,30 +1887,22 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "Luigi XVI",
-        "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
+        "name": "Magic boulevard",
+        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
       },
       "artists": [
         {
-          "name": "Lanz Khan",
-          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+          "name": "Wiser Keegan",
+          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
         },
         {
-          "name": "Weirdo",
-          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
-        },
-        {
-          "name": "DJ Lil Cut",
-          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
-        },
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
         }
       ],
-      "duration_ms": 185880,
-      "name": "Hashishin",
-      "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
+      "duration_ms": 185759,
+      "name": "Fra le note",
+      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -1939,22 +1931,30 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "Magic boulevard",
-        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
+        "name": "Luigi XVI",
+        "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
       },
       "artists": [
         {
-          "name": "Wiser Keegan",
-          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
         },
         {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+          "name": "Weirdo",
+          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
+        },
+        {
+          "name": "DJ Lil Cut",
+          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
+        },
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
         }
       ],
-      "duration_ms": 185759,
-      "name": "Fra le note",
-      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
+      "duration_ms": 185880,
+      "name": "Hashishin",
+      "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 320493,
-      "name": "La Ballotta",
-      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
-    },
-    {
-      "added_at": "2023-10-26 22:01:00",
-      "album": {
         "name": "Treddepomeriggio",
         "url": "https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF"
       },
@@ -2027,22 +2011,34 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "Lo Spirito Che Suona",
-        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
       },
       "artists": [
         {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Citt\u00e0 di vetro",
-      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
+      "duration_ms": 320493,
+      "name": "La Ballotta",
+      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
+    },
+    {
+      "added_at": "2023-10-26 22:01:00",
+      "album": {
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -2087,18 +2083,22 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+        "name": "Lo Spirito Che Suona",
+        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
       },
       "artists": [
         {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
         }
       ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+      "duration_ms": 269760,
+      "name": "Citt\u00e0 di vetro",
+      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
     },
     {
       "added_at": "2023-10-26 22:01:00",

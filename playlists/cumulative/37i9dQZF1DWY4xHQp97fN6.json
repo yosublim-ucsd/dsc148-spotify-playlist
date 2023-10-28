@@ -5393,6 +5393,24 @@
     },
     {
       "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196610,
+      "name": "Grip",
+      "url": "https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm"
+    },
+    {
+      "album": {
         "name": "Grizzley 2Tymes (feat. Finesse2Tymes)",
         "url": "https://open.spotify.com/album/18xz1i3XiHFJolH6VNqYQ3"
       },
@@ -13913,6 +13931,24 @@
     },
     {
       "album": {
+        "name": "WE SEE YOU",
+        "url": "https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "WE SEE YOU",
+      "url": "https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ"
+    },
+    {
+      "album": {
         "name": "We Set The Trends",
         "url": "https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq"
       },
@@ -14480,7 +14516,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 106153,
       "name": "Work For It",
       "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"

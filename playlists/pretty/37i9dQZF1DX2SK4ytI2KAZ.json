@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 704822,
+  "num_followers": 704906,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2YwNTgzYTRiYThmYmE1MGI2NTk1MGFkNjRiNjI5MzUyYjM4MWMx",
+  "snapshot_id": "MCwxMGJiZjBlNzg1Y2QyYThiMTRhMTBjY2UxNmE3MzFjZDJmOTEzMDQy",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Mrs. Hollywood",
-        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
-      },
-      "artists": [
-        {
-          "name": "Go-Jo",
-          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
-        }
-      ],
-      "duration_ms": 143840,
-      "name": "Mrs. Hollywood",
-      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Call Me What You Like",
         "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Mrs. Hollywood",
+        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "duration_ms": 143840,
+      "name": "Mrs. Hollywood",
+      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
         }
       ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
       "artists": [
         {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Happy Face",
-        "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Happy Face",
-      "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 241194,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "sun keeps on shining",
-        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "sun keeps on shining",
-      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 155733,
       "name": "See You Later",
       "url": "https://open.spotify.com/track/0PCtDCMDypMnUhVrLyOQZs"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "sun keeps on shining",
+        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "sun keeps on shining",
+      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "SELF TITLED",
-        "url": "https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2"
-      },
-      "artists": [
-        {
-          "name": "little image",
-          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
-        }
-      ],
-      "duration_ms": 160676,
-      "name": "OUT OF MY MIND",
-      "url": "https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "f**k it, i'm the man",
         "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Subliminal",
-        "url": "https://open.spotify.com/album/70z6aeKugkiOwBEpVjkjuj"
+        "name": "SELF TITLED",
+        "url": "https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2"
       },
       "artists": [
         {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+          "name": "little image",
+          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
         }
       ],
-      "duration_ms": 165130,
-      "name": "Subliminal",
-      "url": "https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r"
+      "duration_ms": 160676,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -915,6 +899,22 @@
       "duration_ms": 172714,
       "name": "What Am I Missing?",
       "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Subliminal",
+        "url": "https://open.spotify.com/album/70z6aeKugkiOwBEpVjkjuj"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 165130,
+      "name": "Subliminal",
+      "url": "https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Diving (feat. Holly Humberstone)",
-        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Diving (feat. Holly Humberstone)",
-      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Something Like This",
         "url": "https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 196707,
       "name": "Alone in the Mountains",
       "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Diving (feat. Holly Humberstone)",
+        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Diving (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "HEAD",
-        "url": "https://open.spotify.com/album/0nUKeFKTpaTdoi6jGbGQTZ"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 111653,
-      "name": "HEAD",
-      "url": "https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Off To The Races",
         "url": "https://open.spotify.com/album/0vGId8rvkYSChOrt2A6HVc"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 219000,
       "name": "Fred Astaire",
       "url": "https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "HEAD",
+        "url": "https://open.spotify.com/album/0nUKeFKTpaTdoi6jGbGQTZ"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 111653,
+      "name": "HEAD",
+      "url": "https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "beautiful waste",
-        "url": "https://open.spotify.com/album/7ntBWu8hyC7hIPqMwi5mJQ"
-      },
-      "artists": [
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 149416,
-      "name": "beautiful waste",
-      "url": "https://open.spotify.com/track/6JfISacOvddHFsPkE8bE3Z"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/1TGwCuVPI0jQIOknItuTvc"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 203586,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/4DZghpw50ZnO3ckfDuNkft"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "beautiful waste",
+        "url": "https://open.spotify.com/album/7ntBWu8hyC7hIPqMwi5mJQ"
+      },
+      "artists": [
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 149416,
+      "name": "beautiful waste",
+      "url": "https://open.spotify.com/track/6JfISacOvddHFsPkE8bE3Z"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+        "name": "Bank On The Funeral",
+        "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+      "duration_ms": 227373,
+      "name": "Go Easy",
+      "url": "https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Bank On The Funeral",
-        "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
       "artists": [
         {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 227373,
-      "name": "Go Easy",
-      "url": "https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi"
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1615,22 +1615,6 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Get Up Kid",
-        "url": "https://open.spotify.com/album/2R7PVrfhfVcGPTXI8nDVGL"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 178079,
-      "name": "Get Up Kid",
-      "url": "https://open.spotify.com/track/6HQpMGnMQ1mVbTv0WA0u7r"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1667,6 +1651,22 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 151863,
+      "name": "17250",
+      "url": "https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7"
     }
   ],
   "unique_name": "it's alt good",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,492 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,552 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 11 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 |
 | 12 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
 | 13 | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/track/68Hl1nI7Ico8cgwkBtA9Fg) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/album/6q8ljQkUDzmBIrEqqXIB8m) | 3:33 |
-| 14 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
+| 14 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 |
 | 15 | [Wanted](https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Wanted](https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu) | 3:37 |
 | 16 | [Patra](https://open.spotify.com/track/7F32a9GztNOSQxJJUH1qsO) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [Patra](https://open.spotify.com/album/3mDeMXPKmpx21LIWyVNWs2) | 3:26 |
 | 17 | [Marijuana \(feat\. Damian Marley\)](https://open.spotify.com/track/4WHA0SAluXCxpbltBOyUyC) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Marijuana \(feat\. Damian Marley\)](https://open.spotify.com/album/1ftcxfLwUpnPeUQZgZt1c9) | 4:32 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 20 | [To See](https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
 | 21 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |
 | 22 | [Thy Will](https://open.spotify.com/track/57r0b2RzN5wsslQygPQSpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Thy Will](https://open.spotify.com/album/6fni7JqR3wJqmz75SEeHI6) | 2:55 |
-| 23 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 |
+| 23 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
 | 24 | [Look Deep](https://open.spotify.com/track/2kfNmluPa17SRaKtjFpQ2x) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Look Deep](https://open.spotify.com/album/4k5gEubeYKoHDOyVjxn8ex) | 2:57 |
 | 25 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 |
 | 26 | [A9 Link Up](https://open.spotify.com/track/2eW02aiQxbVc0BQJmtIUgJ) | [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [A9Ace](https://open.spotify.com/artist/3nVH9A3fJlrtQh1s3Ft2QW), [A9Nikz](https://open.spotify.com/artist/2DLW1xMXGTtdBNwhxXP9oN), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Trapboy](https://open.spotify.com/artist/2BSxtUp2AXy2TI3DAkjLdL), [A9Kebz](https://open.spotify.com/artist/1JoKldB4InGY6KzojY4JcS), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [92 Degrees](https://open.spotify.com/album/1O9BGpevVroU42SklvVhQ5) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Trample Dem](https://open.spotify.com/track/7Dyln70mOiNJJOCsgieCHc) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:08 |
 | 50 | [Do Your Ting](https://open.spotify.com/track/7pXiEvsPrQDXfgl1Cq1I8m) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/2H6K5EZURlSU5dnnlEFJxU) | 3:12 |
 
-Snapshot ID: `MCxlOTRkZDRlOWU2ZTQ5NjZhMDkwNTk4ZDM2MDkwOGQ5NjczZjY4ODIw`
+Snapshot ID: `MCxlNTM5NjA1ZDM4Y2ZkMThiNDQxOWFjNDUwZTUxYzQ3OTdkMTM0NjY4`

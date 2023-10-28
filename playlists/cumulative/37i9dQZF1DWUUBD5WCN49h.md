@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys?si=\_SkkIr7mTK\-80NWvju\_itw"> Spyro </a>
 
-608 songs - 1 day 5 hr 42 min
+609 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Different](https://open.spotify.com/track/7BaPu3b5wbBtQ6Z09XL05O) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Not My Concern / Different](https://open.spotify.com/album/6sgnWlAAGZI5p1FHoWTXFE) | 2:11 | 2023-09-14 |  |
 | [Different](https://open.spotify.com/track/3YcIAsz6xTKKB7SZQou8ir) | [Mannie Akumba](https://open.spotify.com/artist/1oaUtMDoug6KaEaMub4onR) | [Different](https://open.spotify.com/album/7KRW48neWRDWQ1wdFdYlkX) | 2:45 | 2023-02-10 | 2023-05-12 |
 | [Disagree](https://open.spotify.com/track/53OruCkTLXRvGBJhGtcyim) | [Damini](https://open.spotify.com/artist/6ToefCWSxXtSKMVnqG8zVj), [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Disagree](https://open.spotify.com/album/1TSWcPyvjPfB9RQC1vC2eO) | 3:28 | 2023-07-14 | 2023-10-27 |
-| [Distance](https://open.spotify.com/track/0ggCD4HQ0FdHQL23yHLTBV) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Distance](https://open.spotify.com/album/31UrS5lzAhtQLtNKQqb9Hl) | 3:53 | 2023-10-27 |  |
+| [Distance](https://open.spotify.com/track/0ggCD4HQ0FdHQL23yHLTBV) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Distance](https://open.spotify.com/album/31UrS5lzAhtQLtNKQqb9Hl) | 3:53 | 2023-10-27 | 2023-10-28 |
+| [Distance](https://open.spotify.com/track/4VfXcG4R34Wu0AMsQCMQKu) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Loved Ones](https://open.spotify.com/album/2uVBRxKpcJAh0LwANbtmRa) | 3:53 | 2023-10-27 |  |
 | [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 | 2023-10-20 |  |
 | [Doing U Better](https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Doing U Better](https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh) | 2:51 | 2023-03-17 | 2023-10-27 |
 | [DON'T](https://open.spotify.com/track/5AzIXbjKdIR5NwLtQD4f48) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz) | [DON'T](https://open.spotify.com/album/2XU7xRMCtUUtgYhqRldvKT) | 2:19 | 2022-11-25 | 2022-12-02 |

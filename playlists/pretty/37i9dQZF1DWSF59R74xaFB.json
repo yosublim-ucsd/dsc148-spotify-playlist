@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 522926,
+  "num_followers": 523035,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODhkMTkyN2I3NDRiYTg4N2VhNmJkOGVmOGViNmQ5MjI5MDk5OTE1",
+  "snapshot_id": "MCxhYzkzMDBlYzM0OGQ3YzMxYjY2ZDBjZDE2YTBiNGFiNWExMDRjMGI5",
   "tracks": [
     {
       "added_at": "2023-10-20 23:43:16",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
-    },
-    {
-      "added_at": "2023-10-20 23:43:16",
-      "album": {
         "name": "Mas Turbada Que Nunca",
         "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 235200,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+    },
+    {
+      "added_at": "2023-10-20 23:43:16",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
     },
     {
       "added_at": "2023-10-20 23:43:16",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
-        "name": "Lo Que Siempre So\u00f1amos Ser",
-        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
-      },
-      "artists": [
-        {
-          "name": "Sandoval",
-          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "A quien t\u00fa decidiste amar",
-      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
-    },
-    {
-      "added_at": "2023-10-20 23:43:16",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 283133,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+    },
+    {
+      "added_at": "2023-10-20 23:43:16",
+      "album": {
+        "name": "Lo Que Siempre So\u00f1amos Ser",
+        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
+      },
+      "artists": [
+        {
+          "name": "Sandoval",
+          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "A quien t\u00fa decidiste amar",
+      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
     },
     {
       "added_at": "2023-10-20 23:43:16",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+    },
+    {
+      "added_at": "2023-10-20 23:43:16",
+      "album": {
         "name": "Amigos (con Maria Becerra)",
         "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
-    },
-    {
-      "added_at": "2023-10-20 23:43:16",
-      "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Insoportablemente Bella",
-      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
     },
     {
       "added_at": "2023-10-20 23:43:16",
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
-        "name": "No Se Acaba Hasta Que Acabe",
-        "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 186832,
-      "name": "No Se Acaba Hasta Que Acabe",
-      "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
+      "duration_ms": 241226,
+      "name": "Quiero Dormir Cansado",
+      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
     },
     {
       "added_at": "2023-10-20 23:43:16",
@@ -1459,6 +1455,26 @@
       "duration_ms": 225480,
       "name": "Amigos No por Favor (Primera Fila) - En Vivo",
       "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
+    },
+    {
+      "added_at": "2023-10-20 23:43:16",
+      "album": {
+        "name": "No Se Acaba Hasta Que Acabe",
+        "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 186832,
+      "name": "No Se Acaba Hasta Que Acabe",
+      "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
     },
     {
       "added_at": "2023-10-20 23:43:16",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
+        "name": "Haashtag",
+        "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 241226,
-      "name": "Quiero Dormir Cansado",
-      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
+      "duration_ms": 194120,
+      "name": "Lo Que un Hombre Deber\u00eda Saber",
+      "url": "https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle"
     },
     {
       "added_at": "2023-10-20 23:43:16",
@@ -1563,38 +1579,22 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
-        "name": "Haashtag",
-        "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
+        "name": "Que Triste",
+        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Lo Que un Hombre Deber\u00eda Saber",
-      "url": "https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle"
-    },
-    {
-      "added_at": "2023-10-20 23:43:16",
-      "album": {
-        "name": "Bajo La Mesa",
-        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 157080,
-      "name": "Bajo La Mesa",
-      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
+      "duration_ms": 226339,
+      "name": "Que Triste",
+      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
     },
     {
       "added_at": "2023-10-20 23:43:16",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
-        "name": "Que Triste",
-        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 226339,
-      "name": "Que Triste",
-      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
-    },
-    {
-      "added_at": "2023-10-20 23:43:16",
-      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 257379,
       "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
       "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
+    },
+    {
+      "added_at": "2023-10-20 23:43:16",
+      "album": {
+        "name": "Bajo La Mesa",
+        "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Bajo La Mesa",
+      "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
     },
     {
       "added_at": "2023-10-20 23:43:16",

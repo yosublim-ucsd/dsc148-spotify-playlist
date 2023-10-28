@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 141576,
+  "num_followers": 141634,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDg1NzUyNmRmYTYxYWJjYjMxOWU4NWIzYjdlYzEzNzY5YTA0MmU1",
+  "snapshot_id": "MCxjYmNjZGU4Y2E1MTM0MDkyNGIwMDI5NTgxNmE1OWYxY2E4YjE3NTMy",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -449,20 +449,20 @@
       "url": "https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Loveher",
-        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
+        "name": "Holdly",
+        "url": "https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF"
       },
       "artists": [
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
         }
       ],
-      "duration_ms": 229346,
-      "name": "Loveher",
-      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
+      "duration_ms": 227139,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -485,20 +485,20 @@
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Holdly",
-        "url": "https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF"
+        "name": "Loveher",
+        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 227139,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY"
+      "duration_ms": 229346,
+      "name": "Loveher",
+      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "sulky baby",
-        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 278998,
-      "name": "sulky baby",
-      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Cheerleader",
         "url": "https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 147134,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 239744,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Day Breaks",
         "url": "https://open.spotify.com/album/6ST0U2V3WOBV8RzFYwBg6F"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 175664,
       "name": "Back",
       "url": "https://open.spotify.com/track/0mytPbo2GAlCTjA0zZ1Z8e"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 239744,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
     }
   ],
   "unique_name": "Alternative Pride",

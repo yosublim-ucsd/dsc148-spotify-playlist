@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Neo Pistea, Bhavi, KHEA y C.R.O.",
+  "description": "Flow sudamericano con Polim\u00e1 Westcoast, TAICHU & Caleb Calloway.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -796,7 +796,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 125142,
       "name": "ACTITUD",
       "url": "https://open.spotify.com/track/2ZHN30E4lGPIyRfzy6HPGe"
@@ -2030,6 +2030,24 @@
       "duration_ms": 146000,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/3f4F947OK390ug1C4igSLp"
+    },
+    {
+      "album": {
+        "name": "BADGYAL",
+        "url": "https://open.spotify.com/album/0CZhxfZjI12FrzwS1sdkqo"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173375,
+      "name": "BADGYAL",
+      "url": "https://open.spotify.com/track/78miJ1CVg10VbxPU7Uhae7"
     },
     {
       "album": {
@@ -3674,7 +3692,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 276927,
       "name": "Como Antes (feat. Carlitos Rossy, Agus Padilla & Best)",
       "url": "https://open.spotify.com/track/2l3bporWnhbXY7O7pLcBUf"
@@ -4104,7 +4122,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 139746,
       "name": "COPY+PASTE",
       "url": "https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2"
@@ -5014,7 +5032,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 215384,
       "name": "DEL ESTUDIO AL ESTADIO",
       "url": "https://open.spotify.com/track/0tczOvnVojC5FckxeaYLqR"
@@ -5688,7 +5706,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 162507,
       "name": "Donde Sea",
       "url": "https://open.spotify.com/track/76PbCscOhFQDNbcec2o8fe"
@@ -6203,6 +6221,24 @@
     },
     {
       "album": {
+        "name": "En 4",
+        "url": "https://open.spotify.com/album/4jRue9Ub0QsHVjbEJiwgSt"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141843,
+      "name": "En 4",
+      "url": "https://open.spotify.com/track/5eBVwJIJQY5amfYluJ8FF0"
+    },
+    {
+      "album": {
         "name": "En el Foco",
         "url": "https://open.spotify.com/album/3BPzC6Y0bfY8hrvSogtLAf"
       },
@@ -6354,6 +6390,32 @@
       "duration_ms": 173142,
       "name": "En la Oscuridad",
       "url": "https://open.spotify.com/track/4OrAAeefsDOdUSfE87C6WR"
+    },
+    {
+      "album": {
+        "name": "EN LA RAYA",
+        "url": "https://open.spotify.com/album/3gbXSOFPF7RGeVh49o2CTd"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164559,
+      "name": "EN LA RAYA",
+      "url": "https://open.spotify.com/track/3Dn8Rdbaf9F5zgDluiVf11"
     },
     {
       "album": {
@@ -6548,7 +6610,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 146776,
       "name": "ESA LA K TENI",
       "url": "https://open.spotify.com/track/6TKtO9kl5eujW026n4drO3"
@@ -7328,7 +7390,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 157099,
       "name": "For Real",
       "url": "https://open.spotify.com/track/6o2TubE4xoZMLnOnT3irwU"
@@ -7771,6 +7833,32 @@
     },
     {
       "album": {
+        "name": "C\u00e1psula",
+        "url": "https://open.spotify.com/album/3wTYniMamrZZlbgt4QtdFg"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141923,
+      "name": "Gaste 100",
+      "url": "https://open.spotify.com/track/0FMEOMCh1IBqqHpI3XjAdS"
+    },
+    {
+      "album": {
         "name": "Gasto En P",
         "url": "https://open.spotify.com/album/78hlz0HCRsU8nuLE9hji19"
       },
@@ -8200,7 +8288,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 230731,
       "name": "Haze",
       "url": "https://open.spotify.com/track/3ovV159vKt8tf7pIlILxWN"
@@ -9724,6 +9812,28 @@
       "duration_ms": 199149,
       "name": "LA RUTA",
       "url": "https://open.spotify.com/track/06Q0p8kUwYpbLHh8MjvehE"
+    },
+    {
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY"
     },
     {
       "album": {
@@ -11328,6 +11438,24 @@
       "duration_ms": 199354,
       "name": "Matemos Las Ganas",
       "url": "https://open.spotify.com/track/6OUtsRizIkjicy7W6FUfQj"
+    },
+    {
+      "album": {
+        "name": "Mayor Que Yo",
+        "url": "https://open.spotify.com/album/3IYDWHpVnmeM5t5Me43iQm"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160937,
+      "name": "Mayor Que Yo",
+      "url": "https://open.spotify.com/track/1v3PvIWxBzOCILSy0Kpweu"
     },
     {
       "album": {
@@ -13120,7 +13248,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 156521,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/3pbySFbqs0u2nhhti6PhGQ"
@@ -15196,7 +15324,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 161216,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/625y4TWL5q781xk7LOBTkv"
@@ -18484,7 +18612,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 130746,
       "name": "Sin Ganas",
       "url": "https://open.spotify.com/track/6F4Rx74JlcSGA5B6EAyYWB"
@@ -21870,6 +21998,24 @@
       "duration_ms": 180000,
       "name": "Waka Waka",
       "url": "https://open.spotify.com/track/0PKHOIZYG7tszv17tgIZlZ"
+    },
+    {
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Wantantan",
+      "url": "https://open.spotify.com/track/4UpOKlOtCQExAfwpgJremZ"
     },
     {
       "album": {

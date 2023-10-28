@@ -4,7 +4,7 @@
 
 > Green Day in cover 🩸 Punk rock, emo e pop punk 🇮🇹 e 🌎!
 
-695 songs - 1 day 7 hr 56 min
+696 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Che pace // Che palle](https://open.spotify.com/track/6hjyCxuLCpBtCITorSDUTY) | [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d), [MATA](https://open.spotify.com/artist/4jh2kCacRBgKhCGF1Vcx5L) | [Che pace // Che palle](https://open.spotify.com/album/0Sq7QD3WdudEhy0y22MAZz) | 2:37 | 2022-07-28 | 2022-12-24 |
 | [CHIAMAMI](https://open.spotify.com/track/6CjZPtMBuQPBKYj2Sz2ObT) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [CHIAMAMI](https://open.spotify.com/album/5dkHtUJw9XOSGjrFhnJo3A) | 2:35 | 2023-07-27 | 2023-09-22 |
 | [Chiara](https://open.spotify.com/track/7tEEqmmsZvUEGupDfsh54X) | [TVB](https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5) | [Chiara](https://open.spotify.com/album/7mqjgz9vcp6atDJZaKWIKf) | 2:19 | 2023-06-08 | 2023-10-06 |
+| [chiaroscuro](https://open.spotify.com/track/0RfrHDSuwVNXeTz2Epoq8J) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [Saint Abel](https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt), [Moskova Div](https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk) | [chiaroscuro](https://open.spotify.com/album/6IF0K41GIEmHd6zx3DYuH7) | 3:38 | 2023-10-26 |  |
 | [CI BERREMO SOPRA](https://open.spotify.com/track/14MPHzoxuguLWUfRvuirNo) | [treDiCuori](https://open.spotify.com/artist/5urMNWGVpr57ON72Xo6rpR), [Polly](https://open.spotify.com/artist/0x3VDd0WGoNLhMTd4hgxIA) | [FALSO NUEVE](https://open.spotify.com/album/2WSTRYVg6eFuer1IIRr7Tr) | 2:26 | 2022-05-06 | 2022-06-17 |
 | [Cicatrici](https://open.spotify.com/track/1i96SWXRNE5pTkyfkCeR0w) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu) | [Cicatrici](https://open.spotify.com/album/1Ql5u8c69pjlsX3HdOvIDH) | 3:00 | 2023-03-02 | 2023-04-28 |
 | [CIELO DRIVE](https://open.spotify.com/track/4QXnwCNswo3RzJzAr1EjWP) | [PAULO](https://open.spotify.com/artist/6ZyBrWgVAZXWCqTXTFaY5p) | [CIELO DRIVE](https://open.spotify.com/album/56Luh3qipxzWTZhCQhOGJc) | 2:23 | 2022-05-06 | 2022-05-20 |

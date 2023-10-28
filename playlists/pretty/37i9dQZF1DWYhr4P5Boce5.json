@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 200054,
+  "num_followers": 200079,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjEwODQ0ODQyZTFlZWI1MTZjNjBhYzA1MjExNGUxMWI4ZDlmZWI5",
+  "snapshot_id": "MCw4MDkyYmM2ODIxMjgzMTMxMjA1ZWE5ZmU0ZGMyN2NkZDQzOWQwZDdj",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Every Falling Tear",
-        "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
-      },
-      "artists": [
-        {
-          "name": "Matt Hammitt",
-          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
-        }
-      ],
-      "duration_ms": 246461,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 251640,
       "name": "Don't Deserve You",
       "url": "https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Every Falling Tear",
+        "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "duration_ms": 246461,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Writer's Room: An Acoustic EP",
-        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "The Day Before You - Acoustic",
-      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 226053,
       "name": "I'll Wait For You",
       "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "The Writer's Room: An Acoustic EP",
+        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "The Day Before You - Acoustic",
+      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Without Your Love",
+        "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
+      },
+      "artists": [
+        {
+          "name": "Colorvault",
+          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
+        },
+        {
+          "name": "A.Bishai",
+          "url": "https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM"
+        }
+      ],
+      "duration_ms": 179271,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 206987,
       "name": "Letters",
       "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Without Your Love",
-        "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
-      },
-      "artists": [
-        {
-          "name": "Colorvault",
-          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
-        },
-        {
-          "name": "A.Bishai",
-          "url": "https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM"
-        }
-      ],
-      "duration_ms": 179271,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Overcomer",
+        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Praying For You",
+      "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Adam & Eve'n",
         "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Overcomer",
-        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Praying For You",
-      "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "Midwest Magic",
+      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Till I Found You",
         "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 206999,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "Midwest Magic",
-      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Oh How I Love You",
         "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 233050,
       "name": "Oh How I Love You - R&B Version",
       "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     }
   ],
   "unique_name": "Higher Love",

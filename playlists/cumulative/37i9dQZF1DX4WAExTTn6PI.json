@@ -2031,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "Mellow War",
+        "url": "https://open.spotify.com/album/2Fn1niT1bYVa6Mfd4b5jwC"
+      },
+      "artists": [
+        {
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247125,
+      "name": "Mellow War",
+      "url": "https://open.spotify.com/track/0vWEwmCWLZ8QL3tPL7raD3"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/1GC1QuXfAaPTCScjnDChwl"
       },

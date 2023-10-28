@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,725 likes - 60 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,793 likes - 60 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 53 | [Winning](https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Think About These Things](https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG) | 2:33 |
 | 54 | [Beyond The Veil \- Live](https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII](https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo) | 8:27 |
 | 55 | [Blessings on Blessings](https://open.spotify.com/track/3VBq4uuOxikF23PWXPCuGu) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Blessings on Blessings](https://open.spotify.com/album/5v2XFpXgYPT7lC9mZf1x9R) | 4:55 |
-| 56 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 |
-| 57 | [I'm All In](https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I'm All In](https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK) | 3:23 |
+| 56 | [I'm All In](https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I'm All In](https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK) | 3:23 |
+| 57 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 |
 | 58 | [Your Love](https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [Listen](https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm) | 4:55 |
 | 59 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 |
-| 60 | [Bigger Than Me](https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Bigger Than Me](https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4) | 4:19 |
+| 60 | [All of My Help](https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE) | [Geoffrey Golden](https://open.spotify.com/artist/6f6vvDOOCgPmArVZcmVS2p) | [Kingdom...LIVE!](https://open.spotify.com/album/6s3BIqDGjArQt2Pv26qB6a) | 5:06 |
 
-Snapshot ID: `MCw1MWQ5ZjIzNjRiMGJjMmUwYTQ2YjE1OGFkYWIxNTcxYWM3MTI4YTQ0`
+Snapshot ID: `MCxhZjlkYTZlOWNiMjEzNWNmYTYwNjJlMGIzZTNkYjA2ODM2OTZiMGQz`

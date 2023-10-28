@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-821 songs - 1 day 17 hr 7 min
+822 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Cara do Crime 3 \(Brinde à Liberdade\)](https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP) | [A Cara do Crime 3 \(Brinde à Liberdade\)](https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv) | 5:00 | 2022-05-31 | 2022-06-18 |
 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/5aqwwgL4XOv2YJYwLiqKOZ) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade \(Ao Vivo\)](https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP) | 2:45 | 2023-03-25 | 2023-08-16 |
 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 | 2022-12-20 | 2023-05-20 |
-| [A Dona Aranha](https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:04 | 2023-09-07 |  |
+| [A Dona Aranha](https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:04 | 2023-09-07 | 2023-10-28 |
 | [A Dona Aranha](https://open.spotify.com/track/2VRKmQbkOhmpmp5wShHQ1j) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:04 | 2023-08-31 | 2023-09-08 |
 | [A Lua](https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:35 | 2021-06-27 | 2021-06-28 |
 | [A Maior Saudade \- Ao Vivo](https://open.spotify.com/track/14JKzKrJbPDflw8XyATMey) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau) | 3:10 | 2021-12-12 | 2022-08-25 |
@@ -283,6 +283,7 @@
 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5emL18Je5WuruMhWr0gj4w) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Eu Já Tava Bem \(Ao Vivo\)](https://open.spotify.com/album/2m81ZDyTcPZ2OvxtsWC0bw) | 2:15 | 2021-12-26 | 2022-01-08 |
 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5lCAtKxkZL6tFDyGX9t87j) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/3jk9qHtMT4eVvVwvUVD11z) | 2:15 | 2022-01-08 | 2022-09-15 |
 | [Eu Minto \(Ao Vivo\)](https://open.spotify.com/track/6tW23l5oRR8XyYJsF5si9G) | [US Agroboy](https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Eu Minto \(Ao Vivo\)](https://open.spotify.com/album/3ROWMQ6yXBXYGz2fCCuvse) | 2:40 | 2023-02-12 | 2023-02-20 |
+| [Eu Não Dou Conta \- Ao Vivo](https://open.spotify.com/track/6rpUGV7bcWW9ro65Bf8uYY) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Não Dou Conta \(Ao Vivo\)](https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G) | 2:49 | 2023-10-27 |  |
 | [Eu Posso Ser Como Você](https://open.spotify.com/track/7gPWDtzn9EAmxyeFgWnINL) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:31 | 2023-08-16 | 2023-08-18 |
 | [Eu Rebolo Sim](https://open.spotify.com/track/1uP6LzGFVwX2h2D39mOglz) | [Mc Branquinha](https://open.spotify.com/artist/4MgxRxXLgmdcrfWXjutvd9) | [Eu Rebolo Sim](https://open.spotify.com/album/2W7hX3fJuCZ7UZ2n3muuK6) | 2:10 | 2021-07-15 | 2021-08-10 |
 | [Eu Sei de Cor \- Ao Vivo](https://open.spotify.com/track/4SjkLzyFBVXaxuB6SbJyJN) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \- Ao Vivo Em Manaus](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 3:05 | 2021-11-08 | 2021-11-11 |

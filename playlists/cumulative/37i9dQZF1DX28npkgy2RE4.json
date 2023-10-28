@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 236000,
       "name": "Don't Want You To Know",
       "url": "https://open.spotify.com/track/3IJjf4p7B7qaKnt93zpm6T"
@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 253373,
       "name": "Happen",
       "url": "https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw"
@@ -3750,7 +3750,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 173303,
       "name": "Just to Hear You (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
@@ -4582,6 +4582,24 @@
       "duration_ms": 191435,
       "name": "Moontalk",
       "url": "https://open.spotify.com/track/4IfJK8MICEM41IIlDcelG9"
+    },
+    {
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "album": {

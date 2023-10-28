@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,348 likes - 200 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,522 likes - 200 songs - 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 5 | [It's Just Begun / Soul Power \- Instrumental](https://open.spotify.com/track/2F7EjHxQAwckOxP4SE2B0J) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Brass Mafia](https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1) | [Un\-Covered, Vol\. 5: Nigeria, Jamaica & Beyond](https://open.spotify.com/album/1mrU0djpXxqoIVnS2mJWiU) | 5:48 |
 | 6 | [That Bop](https://open.spotify.com/track/13l9DL9EA5hResA7mVmd7M) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [Jazz Hands](https://open.spotify.com/album/3KjGDmuYOd0EO8kSSQ8Kwh) | 4:43 |
 | 7 | [Picante](https://open.spotify.com/track/1hhD04AfEtZWt1MG4IyhJw) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH), [San Juan Project](https://open.spotify.com/artist/0OvRTd6sJc06xSW6ZkESFi) | [Picante](https://open.spotify.com/album/5D5k6gpm85kIQJ5eumduv4) | 3:43 |
-| 8 | [Stand Up](https://open.spotify.com/track/3YuChPkMnt1T6Qeujs8D8d) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Stand Up](https://open.spotify.com/album/5StfsAUtkJv3CqG4uNNzJb) | 4:29 |
+| 8 | [Stand Up](https://open.spotify.com/track/3YuChPkMnt1T6Qeujs8D8d) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof), [HOWES3](https://open.spotify.com/artist/5kAArX8MAwHcmpsbdKhsuE) | [Stand Up](https://open.spotify.com/album/5StfsAUtkJv3CqG4uNNzJb) | 4:29 |
 | 9 | [Mean Green](https://open.spotify.com/track/4ABDChCwUR9D600e1Me2Tt) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:54 |
 | 10 | [Mister Magic](https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Mister Magic](https://open.spotify.com/album/3DnS9jBOXBVx6oPAbsQDGZ) | 9:01 |
 | 11 | [Funky G Sus](https://open.spotify.com/track/5QFO8waIRAMQafRnnzBOyZ) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joe Marcinek Band](https://open.spotify.com/artist/5qKOChsYbv4J08L1bvNxMK) | [Funky G Sus](https://open.spotify.com/album/4DPrc61bo2mFC1KakdVZw0) | 5:57 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCw3MWIwMmI0ZDM3ZmU2MDM1ZjVmMzkwZTdkODZiNmYzMzViMDhjZWEy`
+Snapshot ID: `MCxlMDk4ZjJkNGVlMDQ0MDBkNTk5ZmUxYWNiNWI0NjQ0MzY5MjRiYjU0`

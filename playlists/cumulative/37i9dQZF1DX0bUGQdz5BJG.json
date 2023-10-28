@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "All to Yourself",
+        "url": "https://open.spotify.com/album/47KkcsloezADjw8jRxqV8O"
+      },
+      "artists": [
+        {
+          "name": "Raquel Cole",
+          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177085,
+      "name": "All to Yourself",
+      "url": "https://open.spotify.com/track/1qHzMKegbX2x2mi9n7mhP1"
+    },
+    {
+      "album": {
         "name": "Almost",
         "url": "https://open.spotify.com/album/69mte6hjisiETAAISQYSlU"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 156523,
       "name": "Ask Me To Dance (feat. Hayes Carll)",
       "url": "https://open.spotify.com/track/6cbUXmdoD6mgh7Cs6o0xQz"
@@ -4843,6 +4861,24 @@
     },
     {
       "album": {
+        "name": "Coffee With You",
+        "url": "https://open.spotify.com/album/48wXki9TPYsiHvM81jZ1VF"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207599,
+      "name": "Coffee With You",
+      "url": "https://open.spotify.com/track/4d7liYeUlqk4wyWasJunZp"
+    },
+    {
+      "album": {
         "name": "Cold Day In Tucson",
         "url": "https://open.spotify.com/album/6R3MAxK55wk5PYGW6dEk2Q"
       },
@@ -6284,7 +6320,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 205186,
       "name": "Die A Redneck",
       "url": "https://open.spotify.com/track/10XXGAiyvIw44pztev49XJ"
@@ -7186,7 +7222,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 186292,
       "name": "Drinkin' Problems",
       "url": "https://open.spotify.com/track/1D1IChY9GoX2yuRr5J0CJv"
@@ -8374,7 +8410,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 187111,
       "name": "Fixer Upper",
       "url": "https://open.spotify.com/track/1zsOdeipHnfc4MdzvFpktu"
@@ -8396,6 +8432,24 @@
       "duration_ms": 191573,
       "name": "FLA",
       "url": "https://open.spotify.com/track/3OfHJVlzplAfCYjLsYOIVO"
+    },
+    {
+      "album": {
+        "name": "No Better Time",
+        "url": "https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218813,
+      "name": "Flip a Coin",
+      "url": "https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5"
     },
     {
       "album": {
@@ -8454,6 +8508,24 @@
       "duration_ms": 214405,
       "name": "Flower Shops (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
+    },
+    {
+      "album": {
+        "name": "Foot Out The Door",
+        "url": "https://open.spotify.com/album/2FHySeDoiDDlYCAPGJqdMz"
+      },
+      "artists": [
+        {
+          "name": "Dillon Carmichael",
+          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180468,
+      "name": "Foot Out The Door",
+      "url": "https://open.spotify.com/track/6b2zjumi0LCiaqN87xvtNU"
     },
     {
       "album": {
@@ -9218,6 +9290,28 @@
       "duration_ms": 180066,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/3Pazi0v8BKtpwp2qjkh3ra"
+    },
+    {
+      "album": {
+        "name": "Superbloom",
+        "url": "https://open.spotify.com/album/1EWz9DG6PmXodQJKjl0A0j"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Perry",
+          "url": "https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2"
+        },
+        {
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203843,
+      "name": "God's Hometown",
+      "url": "https://open.spotify.com/track/30qsFI2OTLaJL3aOQgMh3J"
     },
     {
       "album": {
@@ -11806,7 +11900,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 173550,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/5USyU5wRMg0Z4Ga0hECZgN"
@@ -11904,6 +11998,24 @@
       "duration_ms": 226978,
       "name": "Hometown Song",
       "url": "https://open.spotify.com/track/1mrG7Yj9PyRnv7UKT7WeDY"
+    },
+    {
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/0p5Ca0glP0QgPybIompPEJ"
+      },
+      "artists": [
+        {
+          "name": "Remy Garrison",
+          "url": "https://open.spotify.com/artist/3sgAiri5AHS9UmXrfiUQjV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159682,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/3bkMUT8XtL8doLb0SC46li"
     },
     {
       "album": {
@@ -12182,6 +12294,24 @@
       "duration_ms": 203626,
       "name": "How Did You Sleep (feat. Caitlyn Smith)",
       "url": "https://open.spotify.com/track/0WLehjhZbuOR0rrWXAkvvH"
+    },
+    {
+      "album": {
+        "name": "Dallas Smith",
+        "url": "https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig"
+      },
+      "artists": [
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182862,
+      "name": "How Do You Miss Me",
+      "url": "https://open.spotify.com/track/7MOeBmR6zOo2mqmYlnXMAx"
     },
     {
       "album": {
@@ -13147,6 +13277,24 @@
     },
     {
       "album": {
+        "name": "MOOD: I'm Lost In A Daydream",
+        "url": "https://open.spotify.com/album/4qpeoZvGxUwF0uLdhiLC5W"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178101,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/6IRku3mWr6JhhZbabLeNOD"
+    },
+    {
+      "album": {
         "name": "I Met You",
         "url": "https://open.spotify.com/album/7MQB4Rmy1ok3BRKyUwRSZu"
       },
@@ -13378,6 +13526,24 @@
       "duration_ms": 202567,
       "name": "I'm Gonna Love You",
       "url": "https://open.spotify.com/track/4eNOxRZxgIvJjan5eYYYh8"
+    },
+    {
+      "album": {
+        "name": "I'm On the Whiskey",
+        "url": "https://open.spotify.com/album/0uUIJDaLtNuTSpuaAVGtUW"
+      },
+      "artists": [
+        {
+          "name": "Chancey Williams",
+          "url": "https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "I'm On the Whiskey",
+      "url": "https://open.spotify.com/track/1NTGMWWIHteuQudgJXluU6"
     },
     {
       "album": {
@@ -14700,6 +14866,24 @@
       "duration_ms": 184695,
       "name": "Last Call Last",
       "url": "https://open.spotify.com/track/6kayGg0oExDfXnFkTqp97B"
+    },
+    {
+      "album": {
+        "name": "Last Fall",
+        "url": "https://open.spotify.com/album/746cIlVvOicxEAG96F4ZPW"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225733,
+      "name": "Last Fall",
+      "url": "https://open.spotify.com/track/17EdWmpQM7VMrJaYA7BJi3"
     },
     {
       "album": {
@@ -18813,6 +18997,24 @@
     },
     {
       "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/5TC8CwmghUxW53H2z1uZAC"
+      },
+      "artists": [
+        {
+          "name": "Ashland Craft",
+          "url": "https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241160,
+      "name": "Night Owl",
+      "url": "https://open.spotify.com/track/6C098IDVsliiflMe2zTvcM"
+    },
+    {
+      "album": {
         "name": "Night To Go",
         "url": "https://open.spotify.com/album/0NmgdVPj95vVLLxDor1R8T"
       },
@@ -19488,6 +19690,24 @@
       "duration_ms": 196499,
       "name": "Off The Deep End",
       "url": "https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek"
+    },
+    {
+      "album": {
+        "name": "OK Cowboy",
+        "url": "https://open.spotify.com/album/0n9B105tgMqX1zG6qtvCoZ"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204715,
+      "name": "OK Cowboy",
+      "url": "https://open.spotify.com/track/01lARb2d5zmKIVUaHjSfZM"
     },
     {
       "album": {
@@ -23340,7 +23560,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 221093,
       "name": "Single At The Same Time",
       "url": "https://open.spotify.com/track/2UrZkvkjjhdtqPiIi6fEjA"
@@ -23722,7 +23942,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 197506,
       "name": "Smoke Too Soon",
       "url": "https://open.spotify.com/track/4tQHDufeDzPqW5yHUhyzzs"
@@ -25526,7 +25746,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 210877,
       "name": "Talk of the Town - acoustic",
       "url": "https://open.spotify.com/track/15XKG1dgXflgyD5QhgX8XU"
@@ -26283,6 +26503,24 @@
     },
     {
       "album": {
+        "name": "The Finger",
+        "url": "https://open.spotify.com/album/1n3VJJzQJKs7HvXtZvC2sf"
+      },
+      "artists": [
+        {
+          "name": "Bryce Leatherwood",
+          "url": "https://open.spotify.com/artist/4Au65v4b1yArf799wHdABT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185240,
+      "name": "The Finger",
+      "url": "https://open.spotify.com/track/1iJFdkkl9WAntRDbQEYCbF"
+    },
+    {
+      "album": {
         "name": "The Girl I Was",
         "url": "https://open.spotify.com/album/3rKxMNBmnC7PhoRvUZNyvY"
       },
@@ -26654,7 +26892,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 177901,
       "name": "The Rust",
       "url": "https://open.spotify.com/track/7zhLj6uU0ZDKLQitur7dJ7"
@@ -28047,6 +28285,24 @@
     },
     {
       "album": {
+        "name": "Two Lane",
+        "url": "https://open.spotify.com/album/7ogOLiAC1Hu9swWbR8ZANU"
+      },
+      "artists": [
+        {
+          "name": "Mitch Zorn",
+          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155150,
+      "name": "Two Lane",
+      "url": "https://open.spotify.com/track/6XuJRTQZUhBEukHCf3Ymds"
+    },
+    {
+      "album": {
         "name": "Two of Us",
         "url": "https://open.spotify.com/album/6hBCrISl057IRjVjlghx5P"
       },
@@ -28329,6 +28585,24 @@
     },
     {
       "album": {
+        "name": "Walking Man",
+        "url": "https://open.spotify.com/album/4ks9ooYdf5guO753gPHTAK"
+      },
+      "artists": [
+        {
+          "name": "Dillon James",
+          "url": "https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195037,
+      "name": "Walking Man",
+      "url": "https://open.spotify.com/track/2peujF6rxIoeKhPwzr4JVZ"
+    },
+    {
+      "album": {
         "name": "Walmart",
         "url": "https://open.spotify.com/album/2v0dxwD473D2ZxW2VbUrEY"
       },
@@ -28582,6 +28856,24 @@
       "duration_ms": 205840,
       "name": "Watching My Old Flame",
       "url": "https://open.spotify.com/track/0zxB5u7CFOH61p5v2xDyPf"
+    },
+    {
+      "album": {
+        "name": "Barstool Confessions",
+        "url": "https://open.spotify.com/album/6p74jogN8ZBCMdBaUFNnhP"
+      },
+      "artists": [
+        {
+          "name": "Sophia Scott",
+          "url": "https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174925,
+      "name": "Watering Roses",
+      "url": "https://open.spotify.com/track/0W4lhor3V6rv79LpUU6K19"
     },
     {
       "album": {
@@ -29564,6 +29856,24 @@
       "duration_ms": 177899,
       "name": "Whiskey On It",
       "url": "https://open.spotify.com/track/7lrRs5qpyOEZxJyDPRiRLd"
+    },
+    {
+      "album": {
+        "name": "Whiskey On The Wall",
+        "url": "https://open.spotify.com/album/7nT32Hik9VDietLtwgeexO"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218280,
+      "name": "Whiskey On The Wall",
+      "url": "https://open.spotify.com/track/6eJlLAyilP2s1Z8nuPghy1"
     },
     {
       "album": {
@@ -31388,7 +31698,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 182086,
       "name": "your place",
       "url": "https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo"

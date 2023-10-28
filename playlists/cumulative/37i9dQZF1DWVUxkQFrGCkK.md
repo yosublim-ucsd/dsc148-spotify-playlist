@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-322 songs - 1 day 0 hr 37 min
+323 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 | 2023-09-21 |  |
 | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB) | 3:34 | 2023-04-13 | 2023-08-25 |
 | [Favela Joint](https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Favela Joint](https://open.spotify.com/album/5tGqwxDFlJMRXm4Iiwnqb9) | 3:38 | 2023-10-26 |  |
-| [Feel It](https://open.spotify.com/track/23QkQaKEEh9ChJlCsp3SlI) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [DreamySpaceyBlue](https://open.spotify.com/album/7xhrvTZvmHTH0IPlSULua6) | 5:55 | 2023-10-19 |  |
+| [Feel It](https://open.spotify.com/track/23QkQaKEEh9ChJlCsp3SlI) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [DreamySpaceyBlue](https://open.spotify.com/album/7xhrvTZvmHTH0IPlSULua6) | 5:55 | 2023-10-19 | 2023-10-28 |
+| [Feel It](https://open.spotify.com/track/7MM6O0fZQbGrUvAa3gEftD) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [DreamySpaceyBlue](https://open.spotify.com/album/04dTBVDqxwHiYWMskDHQIc) | 5:55 | 2023-10-26 |  |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-08-01 |  |
 | [Feels INTL](https://open.spotify.com/track/0ujUvKlzv8vjOdOwixVwgd) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [FEELS INTL](https://open.spotify.com/album/0dDuRsHnkK3981tZe381BY) | 3:54 | 2023-06-29 | 2023-08-02 |
 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 | 2023-10-12 |  |

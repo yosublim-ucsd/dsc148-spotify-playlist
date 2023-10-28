@@ -1,12 +1,12 @@
 {
   "description": "Drive slow homie. cover: Big Tymers",
-  "num_followers": 1031146,
+  "num_followers": 1031485,
   "original_name": "Hip-Hop Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2Q5Yzc2MmI4YmIwZjMzYzg3MDg5ZDI5NjAzYzFhM2YwNmZjNDc3",
+  "snapshot_id": "MCwwZmNjOGRjZTI2M2NlM2E5MjE3MTU2ZWMyYTJkYjdiZGIzMGMwMjNj",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "The Cookbook",
         "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 226863,
       "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
       "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Lupe Fiasco's Food & Liquor",
-        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Kick, Push",
-      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Country Grammar",
         "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 285906,
       "name": "E.I.",
       "url": "https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 254466,
+      "name": "Kick, Push",
+      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Crime Mob",
-        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
-      },
-      "artists": [
-        {
-          "name": "Crime Mob",
-          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
-        },
-        {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
-      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Flockaveli",
         "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
       },
@@ -1383,26 +1363,6 @@
       "duration_ms": 246386,
       "name": "Hard in Da Paint",
       "url": "https://open.spotify.com/track/3XQY8kDjI8LARMIC9xkxQk"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 303026,
-      "name": "Area Codes",
-      "url": "https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1431,6 +1391,46 @@
       "duration_ms": 304000,
       "name": "Air Force Ones",
       "url": "https://open.spotify.com/track/7kAFSrTIOiVZ0gnHBuAH3l"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Crime Mob",
+        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
+      },
+      "artists": [
+        {
+          "name": "Crime Mob",
+          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
+        },
+        {
+          "name": "Lil Scrappy",
+          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
+      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 303026,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "From Nothin' To Somethin' (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/6t5g3iBwXlDWXhSZbDonrJ"
-      },
-      "artists": [
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 253573,
-      "name": "Make Me Better",
-      "url": "https://open.spotify.com/track/0YkJU6TjjwzsVXUPRIO0DB"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Flockaveli",
         "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 250493,
       "name": "Grove St. Party (feat. Kebo Gotti)",
       "url": "https://open.spotify.com/track/2e9EZ2V5QGGZPMJacO3y0Y"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "From Nothin' To Somethin' (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/6t5g3iBwXlDWXhSZbDonrJ"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "Make Me Better",
+      "url": "https://open.spotify.com/track/0YkJU6TjjwzsVXUPRIO0DB"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "How's It Goin' Down",
+      "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Split Personality",
         "url": "https://open.spotify.com/album/0rmGuTvPv9dbFzTmje1Jgb"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 247040,
       "name": "Hotel (feat. R. Kelly)",
       "url": "https://open.spotify.com/track/4hHXhCRSnOKd6nMGaivmD0"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "How's It Goin' Down",
-      "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -2563,30 +2563,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Rush Hour",
-        "url": "https://open.spotify.com/album/5spFW9SO63yEuvE1IxtayA"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Amil",
-          "url": "https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        }
-      ],
-      "duration_ms": 311800,
-      "name": "Can I Get A... - From The Rush Hour Soundtrack",
-      "url": "https://open.spotify.com/track/45HLgh98kxPEMP1gPAEe8X"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "1st Infantry",
         "url": "https://open.spotify.com/album/4qVDyqFs8eRUoM0hXnK2C4"
       },
@@ -2611,6 +2587,30 @@
       "duration_ms": 238706,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/5Lzumvaqcoa6eZLLQn0IW2"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/5spFW9SO63yEuvE1IxtayA"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Amil",
+          "url": "https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "duration_ms": 311800,
+      "name": "Can I Get A... - From The Rush Hour Soundtrack",
+      "url": "https://open.spotify.com/track/45HLgh98kxPEMP1gPAEe8X"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -2719,6 +2719,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "25 To Life",
+        "url": "https://open.spotify.com/album/1RXVeGqsve0nxL8G7P2OVI"
+      },
+      "artists": [
+        {
+          "name": "P$C",
+          "url": "https://open.spotify.com/artist/0ImT3U0pR1u2icS8XjEmJn"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "I'm a King",
+      "url": "https://open.spotify.com/track/5h21AlYy4mgHfQp9jUAUGi"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Shyne",
         "url": "https://open.spotify.com/album/3HjNR0QUTdQ5xPBp7ymw2N"
       },
@@ -2735,22 +2751,6 @@
       "duration_ms": 257466,
       "name": "Bonnie & Shyne (feat. Barrington Levy)",
       "url": "https://open.spotify.com/track/0UmIdWRGDL5gkXnqG9ZozM"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "25 To Life",
-        "url": "https://open.spotify.com/album/1RXVeGqsve0nxL8G7P2OVI"
-      },
-      "artists": [
-        {
-          "name": "P$C",
-          "url": "https://open.spotify.com/artist/0ImT3U0pR1u2icS8XjEmJn"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "I'm a King",
-      "url": "https://open.spotify.com/track/5h21AlYy4mgHfQp9jUAUGi"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -2799,22 +2799,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Lighters Up",
-        "url": "https://open.spotify.com/album/6gKNrsYOpavwtwRsJrQ59f"
-      },
-      "artists": [
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Lighters Up",
-      "url": "https://open.spotify.com/track/4eihdGG3Tga3oFq4yqCDeL"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "534",
         "url": "https://open.spotify.com/album/3toLn9BAnrscDsY8PoDLXM"
       },
@@ -2827,6 +2811,22 @@
       "duration_ms": 195933,
       "name": "Like That",
       "url": "https://open.spotify.com/track/5yrtAPrprvrdJDCTSFn91U"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Lighters Up",
+        "url": "https://open.spotify.com/album/6gKNrsYOpavwtwRsJrQ59f"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Lighters Up",
+      "url": "https://open.spotify.com/track/4eihdGG3Tga3oFq4yqCDeL"
     },
     {
       "added_at": "2022-12-09 05:00:00",

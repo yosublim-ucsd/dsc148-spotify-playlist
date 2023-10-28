@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,368 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,427 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 12 | [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 7:23 |
 | 13 | [Atlas \- Adriatique Remix](https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Atlas \(Remixes\)](https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc) | 6:17 |
 | 14 | [Poly](https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 2:18 |
-| 15 | [Ghetto Kraviz \- Original Mix](https://open.spotify.com/track/6pGs4VS6BV0WnooovrrxRj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/1epNQzaN8mMyuu2rN6DSRM) | 3:44 |
-| 16 | [Interloper](https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper](https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc) | 6:29 |
+| 15 | [Interloper](https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper](https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc) | 6:29 |
+| 16 | [Ghetto Kraviz \- Original Mix](https://open.spotify.com/track/6pGs4VS6BV0WnooovrrxRj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/1epNQzaN8mMyuu2rN6DSRM) | 3:44 |
 | 17 | [Ayaya](https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 3:36 |
 | 18 | [Blurred \- Bonobo Remix](https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 6:01 |
 | 19 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 24 | [What Have You Done To Me?](https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [What Have You Done To Me?](https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x) | 4:46 |
 | 25 | [Perfect in a Way \- Ben Böhmer Remix](https://open.spotify.com/track/0G57FO3IP8Q6TTLiAMRLuc) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Kaktus Einarsson](https://open.spotify.com/artist/6JNguRWD1fs6lOR6IXQlp3), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Perfect in a Way \(Remixes\)](https://open.spotify.com/album/17doTJCIOkuz5LzMRioJvA) | 6:23 |
 | 26 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
-| 27 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
-| 28 | [Neverland \- Aparde Remix](https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Stars Wrapped In Skin EP](https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr) | 6:27 |
+| 27 | [Neverland \- Aparde Remix](https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Stars Wrapped In Skin EP](https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr) | 6:27 |
+| 28 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
 | 29 | [Pacer](https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Pacer](https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw) | 7:39 |
 | 30 | [Zeit für Sommer](https://open.spotify.com/track/7jJUfG00mR9VtBeRdtU9H2) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Davon](https://open.spotify.com/album/2c0kuubSze3tSfrhDB1kbR) | 6:01 |
 | 31 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 44 | [Archive Seven](https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ) | [Pilotpriest](https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX) | [WWDKF](https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM) | 5:44 |
 | 45 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
 | 46 | [Holding You](https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Stay](https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb) | 5:08 |
-| 47 | [The Other Room](https://open.spotify.com/track/3BqEAXUXFoBLm2JXbEuG7o) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Moon III](https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4) | 1:57 |
-| 48 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
+| 47 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
+| 48 | [The Other Room](https://open.spotify.com/track/3BqEAXUXFoBLm2JXbEuG7o) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Moon III](https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4) | 1:57 |
 | 49 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
 | 50 | [Ichika](https://open.spotify.com/track/1MRBa5AnDvmIoiT2NyyBoL) | [Jozef K](https://open.spotify.com/artist/30qZ701I6hThXcmPPkcrF0) | [Ichika](https://open.spotify.com/album/4lrJKMimi4yC5uGgUVNdgZ) | 8:05 |
 
-Snapshot ID: `MCwxNDY0NDQ5OTllYmZhN2M0YTg5YmU1Nzk0OWJhNmFmYTlkMTI5YzUx`
+Snapshot ID: `MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy`

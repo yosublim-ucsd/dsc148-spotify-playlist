@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,709 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,727 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 82 | [Back to Reality](https://open.spotify.com/track/6hT6eYOuH1NFPEKAGgNUJ8) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [C0C0C0](https://open.spotify.com/album/6MRdDW0R4LkjiHINuq9sMA) | 3:39 |
 | 83 | [Döda mig](https://open.spotify.com/track/5SbeOc3hiLtjSdUCCHtAKW) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY), [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Döda mig](https://open.spotify.com/album/7mgF19LOCuYQ5EE8Bti0yv) | 3:33 |
 | 84 | [Girls](https://open.spotify.com/track/0MxBQqV3C815arNjQneuPp) | [Beatrice Eli](https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj) | [Die Another Day](https://open.spotify.com/album/0iRoxFYM88dGcdc1zVWo60) | 3:03 |
-| 85 | [Årstavikens strand](https://open.spotify.com/track/56d4NuZxjcm3gNyByWCImM) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/28HijYE8kCeXeQY7DXwRUS) | 4:44 |
+| 85 | [Årstavikens strand](https://open.spotify.com/track/6mfoV9F3RELVKLyUj9uPm5) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/6AQTNhCCvhdHFfqzBaN19p) | 4:44 |
 | 86 | [Baby No Name](https://open.spotify.com/track/5oYCY3xAQl7rBWEfqJf2Ly) | [Britta Persson](https://open.spotify.com/artist/1p3J6laThbGvAuz642q1O6) | [If I Was a Band My Name Would Be Forevers](https://open.spotify.com/album/262cPLTeWxmx2PkYJ9XAYu) | 3:17 |
 | 87 | [The Time Is Now](https://open.spotify.com/track/2sUyLVp9ICIMSeDkVcjkr4) | [Asha Ali](https://open.spotify.com/artist/5sy9u3A2zgs5DjuQ6F46nl) | [Hurricane](https://open.spotify.com/album/4eqAzyhFABzlc7T7SiDbzy) | 2:29 |
 | 88 | [Everyone Else In The World](https://open.spotify.com/track/1pmmWF3qZO1DWodZiQ0h0O) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [This Is Stina Nordenstam](https://open.spotify.com/album/1AvkkG7GVesUL13zqiY1M0) | 2:59 |
 | 89 | [Du kan nu dö](https://open.spotify.com/track/4eP1Q5ushSiXAoUsffB2aj) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing From the Grave](https://open.spotify.com/album/4rn3FV2buJHdwnUSJlGefa) | 6:22 |
 | 90 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 |
 
-Snapshot ID: `MCwwMDI0MDQ4MGUyYzVmMzEzZmFjMjg3MWIwN2JjZTNkNjU2ODc2MmQy`
+Snapshot ID: `MCxiMDM3MjllNmM3NWU3NzcwMTQ4MWYxNTJhMzVlZmZmNDYwNTM2MTBk`

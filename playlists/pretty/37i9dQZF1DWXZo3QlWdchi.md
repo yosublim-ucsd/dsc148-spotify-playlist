@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,342 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,462 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 74 | [Shadow Of The Day \- Acoustic](https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [Shadow Of The Day \(Acoustic\)](https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA) | 3:18 |
 | 75 | [Proibida Pra Mim \(Grazon\) \- Ao Vivo](https://open.spotify.com/track/1ChjgMHSdaPiWGSMmsIECN) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Acústico Nacional](https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm) | 2:31 |
 
-Snapshot ID: `MCxlZjJlNWE1YThhNjE4NGYwOTUxNThkZGI5MWUxZTA4MDkyMTBkYWY1`
+Snapshot ID: `MCxjNWI4NTAxNTllZmMwZTk5OTYzODE1NTlhYmNjYmNjMmE0N2VkZjNl`

@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Jonah Kagen
 
-218 songs - 12 hr 4 min
+219 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,9 +221,10 @@
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-06-09 |  |
 | [Without Me \- Stripped](https://open.spotify.com/track/7EwVFWY45ClBKUV93a76db) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:02 | 2022-01-28 |  |
 | [Wonder \- Acoustic](https://open.spotify.com/track/3Plgpbvrf4pS7dVeUmzyK9) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/1xKftSvUbbwou80OuiQZFt) | 2:53 | 2022-01-28 | 2022-05-14 |
-| [Worlds On Fire \(with R3HAB & Au/Ra\) \(Acoustic\)](https://open.spotify.com/track/1qMbwBNvXzhHg0nK2ciMUt) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Worlds On Fire \(with R3HAB & Au/Ra\) \(Acoustic\)](https://open.spotify.com/album/2WspulXhqZ7U6XQAInH2UU) | 2:32 | 2023-06-30 |  |
+| [Worlds On Fire \(with R3HAB & Au/Ra\) \(Acoustic\)](https://open.spotify.com/track/1qMbwBNvXzhHg0nK2ciMUt) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Worlds On Fire \(with R3HAB & Au/Ra\) \(Acoustic\)](https://open.spotify.com/album/2WspulXhqZ7U6XQAInH2UU) | 2:32 | 2023-06-30 | 2023-10-28 |
 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 | 2022-01-28 |  |
-| [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 | 2023-06-09 |  |
+| [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 | 2023-06-09 | 2023-10-28 |
+| [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-27 |  |
 | [You should be sad \- Acoustic](https://open.spotify.com/track/4whxuYrgqxYoqqp41iIw66) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:18 | 2022-01-28 |  |
 | [Zuma Beach](https://open.spotify.com/track/5APKmJ6uRNPyq8CvclpgDP) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Zuma Beach](https://open.spotify.com/album/712mCVzBMjXOoIl45cmj1N) | 3:54 | 2023-09-08 |  |
 

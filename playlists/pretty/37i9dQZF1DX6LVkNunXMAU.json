@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Sof\u00eda Macchi",
-  "num_followers": 55389,
+  "num_followers": 55402,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTQxNmQ1NThjZjAzNmYwNzI5MDBlOTY3ZmZkNGQ4OTY2Zjc4ZWE2",
+  "snapshot_id": "MCw1YzdmODIzNmZiMmVlODAzZDQxYjEyNGQxMTU3OWI5MjJiNzM2Nzlj",
   "tracks": [
     {
       "added_at": "2023-10-26 20:12:38",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-10-26 20:12:38",
       "album": {
+        "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
+        "url": "https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
+      "url": "https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO"
+    },
+    {
+      "added_at": "2023-10-26 20:12:38",
+      "album": {
         "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/2AonQQKJGi66GsGSaajA7L"
       },
@@ -735,38 +751,6 @@
     {
       "added_at": "2023-10-26 20:12:38",
       "album": {
-        "name": "Ninja",
-        "url": "https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff"
-      },
-      "artists": [
-        {
-          "name": "Potra",
-          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
-        }
-      ],
-      "duration_ms": 176193,
-      "name": "Ninja",
-      "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
-    },
-    {
-      "added_at": "2023-10-26 20:12:38",
-      "album": {
-        "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
-        "url": "https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
-      "url": "https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO"
-    },
-    {
-      "added_at": "2023-10-26 20:12:38",
-      "album": {
         "name": "no hace falta saber",
         "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
+    },
+    {
+      "added_at": "2023-10-26 20:12:38",
+      "album": {
+        "name": "Ninja",
+        "url": "https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff"
+      },
+      "artists": [
+        {
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+        }
+      ],
+      "duration_ms": 176193,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
     },
     {
       "added_at": "2023-10-26 20:12:38",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-10-26 20:12:38",
       "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2023-10-26 20:12:38",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -843,18 +859,22 @@
     {
       "added_at": "2023-10-26 20:12:38",
       "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+        "name": "Un Espejismo",
+        "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
       },
       "artists": [
         {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
         }
       ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+      "duration_ms": 214736,
+      "name": "Un Espejismo",
+      "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
     },
     {
       "added_at": "2023-10-26 20:12:38",
@@ -891,26 +911,6 @@
       "duration_ms": 224000,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6"
-    },
-    {
-      "added_at": "2023-10-26 20:12:38",
-      "album": {
-        "name": "Un Espejismo",
-        "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
-      },
-      "artists": [
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Un Espejismo",
-      "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
     },
     {
       "added_at": "2023-10-26 20:12:38",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-10-26 20:12:38",
       "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "added_at": "2023-10-26 20:12:38",
+      "album": {
         "name": "Los Abrazos son Instantes Decisivos Vol. II",
         "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 224492,
       "name": "Polvo de estrellas",
       "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
-    },
-    {
-      "added_at": "2023-10-26 20:12:38",
-      "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
     },
     {
       "added_at": "2023-10-26 20:12:38",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-10-26 20:12:38",
       "album": {
+        "name": "Romancero",
+        "url": "https://open.spotify.com/album/2jCoLHBdbdAwhYRk8CMVf9"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Cumbia del visto",
+      "url": "https://open.spotify.com/track/4BN4u7hEuYQWMqyTHNGnkF"
+    },
+    {
+      "added_at": "2023-10-26 20:12:38",
+      "album": {
         "name": "Lo Que Hicimos",
         "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 213112,
       "name": "Tur Blues",
       "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
-    },
-    {
-      "added_at": "2023-10-26 20:12:38",
-      "album": {
-        "name": "Romancero",
-        "url": "https://open.spotify.com/album/2jCoLHBdbdAwhYRk8CMVf9"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Cumbia del visto",
-      "url": "https://open.spotify.com/track/4BN4u7hEuYQWMqyTHNGnkF"
     },
     {
       "added_at": "2023-10-26 20:12:38",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-10-26 20:12:38",
       "album": {
+        "name": "Noche Tem\u00e1tica",
+        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
+      },
+      "artists": [
+        {
+          "name": "Todo El Verano",
+          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
+        }
+      ],
+      "duration_ms": 219834,
+      "name": "Noche Tem\u00e1tica",
+      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
+    },
+    {
+      "added_at": "2023-10-26 20:12:38",
+      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/4BZG3VdjcUO9c0fRoUaKHj"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 214364,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/3paGS7YujQAdNtfVUVMo7m"
-    },
-    {
-      "added_at": "2023-10-26 20:12:38",
-      "album": {
-        "name": "Noche Tem\u00e1tica",
-        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
-      },
-      "artists": [
-        {
-          "name": "Todo El Verano",
-          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
-        }
-      ],
-      "duration_ms": 219834,
-      "name": "Noche Tem\u00e1tica",
-      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
     },
     {
       "added_at": "2023-10-26 20:12:38",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-10-26 20:12:38",
       "album": {
+        "name": "Marcas",
+        "url": "https://open.spotify.com/album/0w38eh7Mri9G90T8h6E90r"
+      },
+      "artists": [
+        {
+          "name": "Lucio Mantel",
+          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+        }
+      ],
+      "duration_ms": 222721,
+      "name": "Marcas",
+      "url": "https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof"
+    },
+    {
+      "added_at": "2023-10-26 20:12:38",
+      "album": {
         "name": "En una",
         "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 219647,
       "name": "En una",
       "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
-    },
-    {
-      "added_at": "2023-10-26 20:12:38",
-      "album": {
-        "name": "Marcas",
-        "url": "https://open.spotify.com/album/0w38eh7Mri9G90T8h6E90r"
-      },
-      "artists": [
-        {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
-        }
-      ],
-      "duration_ms": 222721,
-      "name": "Marcas",
-      "url": "https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof"
     },
     {
       "added_at": "2023-10-26 20:12:38",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-10-26 20:12:38",
       "album": {
+        "name": "Barquinho",
+        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Barquinho",
+      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
+    },
+    {
+      "added_at": "2023-10-26 20:12:38",
+      "album": {
         "name": "No Ves Tal Vez",
         "url": "https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 209829,
       "name": "No Ves Tal Vez",
       "url": "https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN"
-    },
-    {
-      "added_at": "2023-10-26 20:12:38",
-      "album": {
-        "name": "Barquinho",
-        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Barquinho",
-      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
     },
     {
       "added_at": "2023-10-26 20:12:38",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-10-26 20:12:38",
       "album": {
-        "name": "Cuando Estemos Solos",
-        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 193025,
-      "name": "Cuando Estemos Solos",
-      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
-    },
-    {
-      "added_at": "2023-10-26 20:12:38",
-      "album": {
         "name": "Nuestras Formas",
         "url": "https://open.spotify.com/album/30TBSDnmG0b4mjZHuUeXYE"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 151653,
       "name": "Nuestras Formas",
       "url": "https://open.spotify.com/track/3FsYdqpzwud7ZRjLRHi21S"
+    },
+    {
+      "added_at": "2023-10-26 20:12:38",
+      "album": {
+        "name": "Cuando Estemos Solos",
+        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 193025,
+      "name": "Cuando Estemos Solos",
+      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
     },
     {
       "added_at": "2023-10-26 20:12:38",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-10-26 20:12:38",
       "album": {
-        "name": "LA ARA\u00d1A",
-        "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 208962,
-      "name": "LA ARA\u00d1A",
-      "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
-    },
-    {
-      "added_at": "2023-10-26 20:12:38",
-      "album": {
         "name": "Perderse (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5AsFyNt74exZrhSxo1pAXn"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 193082,
       "name": "Perderse - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5cIBKumn6Q2taeTNlJTKYe"
+    },
+    {
+      "added_at": "2023-10-26 20:12:38",
+      "album": {
+        "name": "LA ARA\u00d1A",
+        "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 208962,
+      "name": "LA ARA\u00d1A",
+      "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
     },
     {
       "added_at": "2023-10-26 20:12:38",

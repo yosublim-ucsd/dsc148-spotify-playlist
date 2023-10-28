@@ -1,13 +1,29 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Arin Ray",
-  "num_followers": 2357672,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Destin Conrad",
+  "num_followers": 2357825,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmQ0YzgzMmRiYmFlZDE5OWZiZjYwMGFhYjFjZTMyZTJiMmY3MDZh",
+  "snapshot_id": "MCw4ZmYwOWMwZmU1ZGUwNDk1OWYwMDI2NGY4NWE5ZTU5OWFkZGE2Yjhm",
   "tracks": [
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "LOW TIDE",
+      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
+    },
     {
       "added_at": "2023-10-20 21:56:24",
       "album": {
@@ -45,20 +61,28 @@
       "url": "https://open.spotify.com/track/562S3M4AGzUZcZ6G1WorfN"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "WY@",
-        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
       },
       "artists": [
         {
           "name": "Brent Faiyaz",
           "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Lil Gray",
+          "url": "https://open.spotify.com/artist/0dODGPXWl5fINZ9KYIA7gs"
         }
       ],
-      "duration_ms": 208038,
-      "name": "WY@",
-      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
+      "duration_ms": 224598,
+      "name": "Last One Left (feat. Missy Elliott & Lil Gray)",
+      "url": "https://open.spotify.com/track/0cZ9HBGWLZJS7UHCgWXOTZ"
     },
     {
       "added_at": "2023-10-06 16:10:34",
@@ -117,20 +141,20 @@
       "url": "https://open.spotify.com/track/7ghoNKAbiTdM9aov6cNQbI"
     },
     {
-      "added_at": "2023-10-13 04:00:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Regardless",
-        "url": "https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7"
+        "name": "Waterfall (I Adore You)",
+        "url": "https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 189257,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
+      "duration_ms": 292940,
+      "name": "Waterfall (I Adore You)",
+      "url": "https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J"
     },
     {
       "added_at": "2023-10-20 21:56:24",
@@ -147,22 +171,6 @@
       "duration_ms": 161529,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 293979,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
     },
     {
       "added_at": "2023-10-20 21:56:24",
@@ -207,6 +215,38 @@
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 167710,
+      "name": "WAIT LET ME GET THE TISSUE",
+      "url": "https://open.spotify.com/track/7FeXfQsUTHfT5i9Sh1IsHR"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "WY@",
+        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 208038,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -265,6 +305,22 @@
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 293979,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
+    },
+    {
       "added_at": "2023-10-20 21:56:24",
       "album": {
         "name": "Lahai",
@@ -317,34 +373,6 @@
       "url": "https://open.spotify.com/track/0fW0QT0hBYmq4yhDrBBB64"
     },
     {
-      "added_at": "2023-10-20 21:56:24",
-      "album": {
-        "name": "90s (Remix)",
-        "url": "https://open.spotify.com/album/0241uDx21SHRh0BJK0auir"
-      },
-      "artists": [
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
-        },
-        {
-          "name": "Ian Ewing",
-          "url": "https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        }
-      ],
-      "duration_ms": 205330,
-      "name": "90s - Remix",
-      "url": "https://open.spotify.com/track/1NzjKlRWYEfH3UORKH0zyD"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Shame",
@@ -363,6 +391,22 @@
       "duration_ms": 152610,
       "name": "Shame (with Elmiene)",
       "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Let This Go",
+        "url": "https://open.spotify.com/album/4JtkxBWC37gnLUi1oWid1V"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 177363,
+      "name": "Let This Go",
+      "url": "https://open.spotify.com/track/5AvT8QuysDMHiqKD9lDulK"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -397,6 +441,26 @@
       "url": "https://open.spotify.com/track/5i6L129avGeLGlfJ6bLKUN"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "SUPER PARADISE",
+      "url": "https://open.spotify.com/track/2u5Hu6pmY8mC5WC3xvTXSv"
+    },
+    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "T.B.D.",
@@ -411,6 +475,26 @@
       "duration_ms": 183431,
       "name": "T.B.D.",
       "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 177593,
+      "name": "Belong To You (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/4qulzmZFfKLVcfpGXXCP9H"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -483,6 +567,22 @@
       "duration_ms": 236236,
       "name": "Go Baby",
       "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Regardless",
+        "url": "https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 189257,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -2191,22 +2291,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "ME YOU & GOD",
-        "url": "https://open.spotify.com/album/3eZdxMaUii7OAahX0hFcJU"
-      },
-      "artists": [
-        {
-          "name": "Jidenna",
-          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "MAYBE SWANKAFORNiA",
-      "url": "https://open.spotify.com/track/0rjjTjhUsMy3Akhy3zduKK"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Don't Pretend (Acoustic)",
         "url": "https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1"
       },
@@ -2335,22 +2419,6 @@
       "duration_ms": 165625,
       "name": "Water",
       "url": "https://open.spotify.com/track/0Rkn75x8Xcw8PdFDfYFTjR"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "MAGIC!",
-        "url": "https://open.spotify.com/album/7rZ8d3jhHarpijjU57Waqo"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 195041,
-      "name": "MAGIC!",
-      "url": "https://open.spotify.com/track/03bFDCogqEAeXsiNdTBY1D"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2615,22 +2683,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Charismatic",
-        "url": "https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw"
-      },
-      "artists": [
-        {
-          "name": "Hailey Knox",
-          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "Charismatic",
-      "url": "https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Enigmatic Society",
         "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
       },
@@ -2775,22 +2827,6 @@
       "duration_ms": 211283,
       "name": "TMF",
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "GANGSTER ROMANTIC",
-        "url": "https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 175031,
-      "name": "IYD",
-      "url": "https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg"
     },
     {
       "added_at": "2023-09-15 04:00:00",

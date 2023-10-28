@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Brakelights",
+        "url": "https://open.spotify.com/album/1PrcKV1b7YuPD7HgTq9mFo"
+      },
+      "artists": [
+        {
+          "name": "The Blinders",
+          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200886,
+      "name": "Brakelights",
+      "url": "https://open.spotify.com/track/7HbYvg6Ghiw0Ipxw4wa7L6"
+    },
+    {
+      "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 174379,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
@@ -1230,6 +1248,24 @@
       "duration_ms": 138165,
       "name": "Goonies (I Only Tolerate You)",
       "url": "https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan"
+    },
+    {
+      "album": {
+        "name": "Happy Cars",
+        "url": "https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw"
+      },
+      "artists": [
+        {
+          "name": "Peace",
+          "url": "https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197485,
+      "name": "Happy Cars",
+      "url": "https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv"
     },
     {
       "album": {
@@ -2202,7 +2238,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 195240,
       "name": "People Should Know Better",
       "url": "https://open.spotify.com/track/3jB0zfTTSyyQZpKMb53I2f"
@@ -2364,7 +2400,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 192305,
       "name": "Sad Boys",
       "url": "https://open.spotify.com/track/6uwXSUhQeW0jKH5fZrgYzb"
@@ -2890,6 +2926,24 @@
       "duration_ms": 200482,
       "name": "Troubled Son",
       "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
+    },
+    {
+      "album": {
+        "name": "Up in the Air",
+        "url": "https://open.spotify.com/album/30JsqeAvmGjYsrzVOr6s1a"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160996,
+      "name": "Up in the Air",
+      "url": "https://open.spotify.com/track/1sBIJ6xCgg0uDzTd9M9u5u"
     },
     {
       "album": {

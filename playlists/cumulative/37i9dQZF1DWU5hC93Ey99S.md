@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-300 songs - 16 hr 31 min
+302 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Close 2 U](https://open.spotify.com/track/35pDv7illobZwBuAESRD6g) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Close 2 U](https://open.spotify.com/album/7aMPbn9Qj4BMb8Y27UEMQF) | 3:01 | 2023-06-29 |  |
 | [close 2 u](https://open.spotify.com/track/29ZOn3UbhmHCtVv1ScDwPe) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [rakkaus](https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV) | 3:11 | 2023-06-08 |  |
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-04-13 |  |
+| [Confused 133](https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [Confused 133](https://open.spotify.com/album/318k5epPI1tchtYBglX5kM) | 2:42 | 2023-10-27 |  |
 | [Crazy Away from You](https://open.spotify.com/track/1WeTOw5wGWiOgICKIUKBBl) | [Big Z](https://open.spotify.com/artist/1QJ4iU6xJtdrk6HSPUTQ98) | [Crazy Away from You](https://open.spotify.com/album/7tvOzRz76z6tutmdsuhF0w) | 4:01 | 2023-09-14 |  |
 | [Cycles \- Darby Remix](https://open.spotify.com/track/4P95ys389gp7LR9Al5RbDx) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Isaiah](https://open.spotify.com/artist/3gsYxd24CST6We4T6MAtwT) | [Cycles \(Darby Remix\)](https://open.spotify.com/album/2KMCFCIxT45zypf9SGaZpT) | 2:58 | 2023-08-03 |  |
 | [Dancing is Healing \- Disco Lines Remix](https://open.spotify.com/track/5WXQEm30snGAhKTCQzCtK1) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Dancing is Healing \(Disco Lines Remix\)](https://open.spotify.com/album/7Ju707mu1m5Za5y2fFc741) | 4:20 | 2023-05-26 | 2023-07-22 |
@@ -168,6 +169,7 @@
 | [Lost](https://open.spotify.com/track/5XFktAerFHxM4tp7EhzTrh) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq), [Jack August](https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry) | [Lost](https://open.spotify.com/album/1QaaHgza1m23gXfowZ8ZHS) | 2:33 | 2023-04-13 |  |
 | [Lost My Mind \(Wake Up\)](https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Lost My Mind \(Wake Up\)](https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw) | 2:27 | 2023-04-13 |  |
 | [Love](https://open.spotify.com/track/2JCFm7pOuEP0cItCq6t3bd) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Love](https://open.spotify.com/album/31UkJWhnRd88KsL0PiD4G2) | 2:50 | 2023-09-07 |  |
+| [Love Again](https://open.spotify.com/track/6tjRkYHGxEHqlS4eOrRQpX) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [Marco Lollis](https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI) | [Love Again](https://open.spotify.com/album/5S5JLPWD3TcdpJ6EUKY5Qr) | 2:59 | 2023-10-27 |  |
 | [love me just a little \- sunset mix](https://open.spotify.com/track/3rhY6sSxPZ7edYUmPlOEdL) | [Rammor](https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw) | [love me just a little \(sunset mix\)](https://open.spotify.com/album/0njlMrkZMRgBANWXV8YqFP) | 2:54 | 2023-07-07 |  |
 | [Loved Ones](https://open.spotify.com/track/1xdL8Se8SeSSRr0dJxcaJH) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Loved Ones](https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu) | 3:18 | 2023-04-27 |  |
 | [loveday](https://open.spotify.com/track/4elhu7NjJVs0udPIRghYM5) | [JHN](https://open.spotify.com/artist/0Q4ED8iQV0gQYKYRZddTnk), [a friend of mine](https://open.spotify.com/artist/4tdnRkg56fz9johr2Qw5L8) | [loveday](https://open.spotify.com/album/6PPtMdjarGcwj5otZi0R9X) | 2:28 | 2023-06-15 |  |

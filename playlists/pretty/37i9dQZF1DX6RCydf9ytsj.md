@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,793 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,038 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 67 | [Real Love](https://open.spotify.com/track/6cmv1w0ezmtjT1V61PG3lk) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Real Love](https://open.spotify.com/album/2JcQQnzKJABvKWNZB3MyuS) | 3:53 |
 | 68 | [If You're Gonna Play in Texas \(You Gotta Have a Fiddle in the Band\)](https://open.spotify.com/track/225W9qCk2o51QyFZiEVDW9) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Ultimate Alabama 20 \# 1 Hits](https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z) | 3:23 |
 | 69 | [A Country Boy Can Survive](https://open.spotify.com/track/5jVGZTrDusSvwhRDPmZMSB) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [The Bocephus Box Set](https://open.spotify.com/album/7C47twqxgIByOAH9b5Ysh7) | 4:15 |
-| 70 | [I'm Gonna Hire A Wino To Decorate Our Home](https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn) | [David Frizzell](https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q) | [The Family's Fine, But This One's All Mine!](https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469) | 3:57 |
+| 70 | [Through The Years](https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Best Of Kenny Rogers: Through The Years](https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP) | 4:22 |
 | 71 | [You Never Gave Up On Me](https://open.spotify.com/track/5IHlCoNGoJ4LGEEiB8Gpbl) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Crystal Gayle: The Hits](https://open.spotify.com/album/5aimlnSDRmHRGfVReDwLqa) | 3:09 |
-| 72 | [Through The Years](https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Best Of Kenny Rogers: Through The Years](https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP) | 4:22 |
+| 72 | [I'm Gonna Hire A Wino To Decorate Our Home](https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn) | [David Frizzell](https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q) | [The Family's Fine, But This One's All Mine!](https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469) | 3:57 |
 | 73 | [Wildflowers \- 2015 Remaster](https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:36 |
 | 74 | [Highwayman](https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:02 |
 | 75 | [Just Another Woman In Love](https://open.spotify.com/track/0E7O4jaoBZv7CGC8oRk61T) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Anne Murray The Best Of...So Far \- 20 Greatest Hits](https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX) | 2:55 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 93 | [To Know Him Is to Love Him \- 2015 Remaster](https://open.spotify.com/track/0gIhlWV243Z1K93QfCeJTM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:47 |
 | 94 | [Any Day Now](https://open.spotify.com/track/30upl1YT1suEgSDpIopSky) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:42 |
 | 95 | [What's Forever For?](https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu) | [The Best Of Michael Martin Murphey](https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN) | 2:51 |
-| 96 | [Nobody](https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967) | [Sylvia](https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR) | [Just Sylvia](https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV) | 3:19 |
-| 97 | [Diggin' Up Bones](https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 2:59 |
+| 96 | [Diggin' Up Bones](https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 2:59 |
+| 97 | [Nobody](https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967) | [Sylvia](https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR) | [Just Sylvia](https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV) | 3:19 |
 | 98 | [I'd Love To Lay You Down](https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Love Songs](https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao) | 3:19 |
 | 99 | [I Loved 'Em Every One](https://open.spotify.com/track/4vRwErUg8XwxZnMsAp5ozS) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [I Love 'Em All](https://open.spotify.com/album/4gkofMfdkx3zQAJUv1iz6c) | 3:41 |
 | 100 | [One Promise Too Late](https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [What Am I Gonna Do About You](https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL) | 3:25 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [We Believe In Happy Endings \(with Emmylou Harris\)](https://open.spotify.com/track/7sEmUltyPUy9v2Of7Whzpy) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [The Heart of It All](https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG) | 3:35 |
 | 150 | [My Baby's Got Good Timing](https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [The Very Best Of Dan Seals](https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC) | 3:29 |
 
-Snapshot ID: `MCwxYzMxNTRiNDI5N2Y2NWJiMzRmZDhlMzMwZmQwYmY4MDRiZWRmN2M0`
+Snapshot ID: `MCw3YTg1ZTliZTY5MTNmY2IwZDUxMzdkNmUwMGE2ZmY4NTI0ZTNlZDY2`

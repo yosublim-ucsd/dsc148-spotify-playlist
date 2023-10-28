@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e44\u0e17\u0e22\u0e44\u0e27\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Twopee Southside",
+  "description": "\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e44\u0e17\u0e22\u0e44\u0e27\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Tobii",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b \u0e02\u0e2d\u0e07\u0e21\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 269361,
       "name": "All h*es go to hell",
       "url": "https://open.spotify.com/track/37RbMnMxmhqYj3Cq2PncOF"
@@ -261,6 +261,32 @@
     },
     {
       "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/5UnYxWjaNeocHFrKeRXMgA"
+      },
+      "artists": [
+        {
+          "name": "P-Hot",
+          "url": "https://open.spotify.com/artist/7cDMujRxnEJ0wPd5XwP24G"
+        },
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        },
+        {
+          "name": "Roony",
+          "url": "https://open.spotify.com/artist/1WnLIbbjld1uhevVBJHsxA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/1gvVMxPKjNVnUQ4Oc9uKOU"
+    },
+    {
+      "album": {
         "name": "Different Way",
         "url": "https://open.spotify.com/album/1fb6Vkcuk9RgOIvlVNr0cb"
       },
@@ -284,6 +310,24 @@
       "duration_ms": 250500,
       "name": "Different Way",
       "url": "https://open.spotify.com/track/4EDfa23I50eIlGTq0uEVch"
+    },
+    {
+      "album": {
+        "name": "DREAMIN",
+        "url": "https://open.spotify.com/album/7z4OV72M6rT9BrUtqCE0Qf"
+      },
+      "artists": [
+        {
+          "name": "TARA",
+          "url": "https://open.spotify.com/artist/6E2EqXLs0SXLECSPCgzid0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102485,
+      "name": "DREAMIN",
+      "url": "https://open.spotify.com/track/6tGkPkZ9O3lrcXuXIk8evj"
     },
     {
       "album": {
@@ -645,6 +689,28 @@
     },
     {
       "album": {
+        "name": "Life So Hard",
+        "url": "https://open.spotify.com/album/3FDygosyEV5fMUQ9VdezOX"
+      },
+      "artists": [
+        {
+          "name": "HK",
+          "url": "https://open.spotify.com/artist/3ox1cmzcE21qMaFHqHKowu"
+        },
+        {
+          "name": "GH",
+          "url": "https://open.spotify.com/artist/4VNbwWbzZXDyWiclqpKVKv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Life So Hard",
+      "url": "https://open.spotify.com/track/4q062hMf6GXqiITpV0VBX9"
+    },
+    {
+      "album": {
         "name": "Lil Baddie",
         "url": "https://open.spotify.com/album/0C9dPEnuCnpM0BFICPJ6B0"
       },
@@ -828,7 +894,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 117436,
       "name": "My angel",
       "url": "https://open.spotify.com/track/2bNolCEC6oWC8EQPCv5Sc6"
@@ -908,7 +974,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 158230,
       "name": "Night Hour",
       "url": "https://open.spotify.com/track/75QeKAeFfy5Jlr551kvOc8"
@@ -926,7 +992,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 211304,
       "name": "Not One Night",
       "url": "https://open.spotify.com/track/6N1LK9f3SiEf3n4FuKABX1"
@@ -1140,7 +1206,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 176270,
       "name": "Sorry Na Kub",
       "url": "https://open.spotify.com/track/334C4oAup0s8zsL0jwxxE0"
@@ -1414,7 +1480,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184215,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19",
       "url": "https://open.spotify.com/track/25n4sKaxtbX204XGnxMtz9"
@@ -1578,7 +1644,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 156352,
       "name": "\u0e08\u0e32\u0e01",
       "url": "https://open.spotify.com/track/6wo4Xmf5BjoOQjgts3OgTn"
@@ -1692,7 +1758,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184000,
       "name": "\u0e09\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e39\u0e49\u0e23\u0e49\u0e32\u0e22 (Villain)",
       "url": "https://open.spotify.com/track/0oPMSVQplgxsbkY30YyUCD"
@@ -1964,7 +2030,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 199299,
       "name": "\u0e16\u0e49\u0e32\u0e2b\u0e32\u0e01\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e08\u0e47\u0e1a [ If love ]",
       "url": "https://open.spotify.com/track/2RE4EXr9zB6BTmPlBEzYeI"
@@ -2218,7 +2284,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 195692,
       "name": "\u0e21\u0e19\u0e38\u0e29\u0e22\u0e4c\u0e40\u0e21\u0e35\u0e22",
       "url": "https://open.spotify.com/track/1WpVk7rSQXTRzoBPutphSx"
@@ -2302,7 +2368,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189333,
       "name": "\u0e21\u0e36\u0e07\u0e43\u0e2b\u0e49\u0e01\u0e39\u0e40\u0e01\u0e34\u0e14\u0e1a\u0e49\u0e32\u0e07",
       "url": "https://open.spotify.com/track/0kf8E8cNnIeESrH87G9weL"
@@ -2332,6 +2398,32 @@
       "duration_ms": 237666,
       "name": "\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e22\u0e37\u0e21\u0e40\u0e04\u0e49\u0e32\u0e21\u0e32 (hide)",
       "url": "https://open.spotify.com/track/6KI4Jg0FN08rqQbM462IFW"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e07\u0e2a\u0e34\u0e15\u0e21\u0e31\u0e19\u0e23\u0e49\u0e32\u0e22\u0e41\u0e15\u0e48\u0e42\u0e17\u0e29\u0e17\u0e35\u0e1c\u0e21\u0e23\u0e49\u0e32\u0e22\u0e01\u0e27\u0e48\u0e32",
+        "url": "https://open.spotify.com/album/3xzphx6Cj2hg36oeglcO19"
+      },
+      "artists": [
+        {
+          "name": "himshy",
+          "url": "https://open.spotify.com/artist/79n9MzAVASadX3K7AQePxO"
+        },
+        {
+          "name": "N4CK",
+          "url": "https://open.spotify.com/artist/0q6sLugWrT4FI7hxeKkFY2"
+        },
+        {
+          "name": "JackFredo",
+          "url": "https://open.spotify.com/artist/1MPAxIIjzvOGimndbNkc1t"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203610,
+      "name": "\u0e23\u0e31\u0e07\u0e2a\u0e34\u0e15\u0e21\u0e31\u0e19\u0e23\u0e49\u0e32\u0e22\u0e41\u0e15\u0e48\u0e42\u0e17\u0e29\u0e17\u0e35\u0e1c\u0e21\u0e23\u0e49\u0e32\u0e22\u0e01\u0e27\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/5QdWEXGx2HyVbfwqx1dwsX"
     },
     {
       "album": {
@@ -2833,6 +2925,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/2NmxPoFVQqsxLWW1l4H7HC"
+      },
+      "artists": [
+        {
+          "name": "1KG",
+          "url": "https://open.spotify.com/artist/03HDkiCyDo0Tsh3BEXjMV9"
+        },
+        {
+          "name": "JARNJAME",
+          "url": "https://open.spotify.com/artist/3Kr6BG5SoUOBrNyO6oOteb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277211,
+      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/4lMZjmhNLspdZNLzdclcZT"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e14\u0e47\u0e01",
         "url": "https://open.spotify.com/album/1m5YwT664K3xwfTwdBa5ex"
       },
@@ -2852,6 +2966,28 @@
       "duration_ms": 213333,
       "name": "\u0e40\u0e18\u0e2d\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e14\u0e47\u0e01",
       "url": "https://open.spotify.com/track/2jhMzVTUrycGnB1QzpWova"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/3B9ugdjfSjytE4Qf5KNPPj"
+      },
+      "artists": [
+        {
+          "name": "Lil tan",
+          "url": "https://open.spotify.com/artist/1xc4qfheU05JJYzDnjs9KR"
+        },
+        {
+          "name": "N/A",
+          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338507,
+      "name": "\u0e40\u0e18\u0e2d\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/5bIpvK76ecqRdjYJjFgSXo"
     },
     {
       "album": {
@@ -3004,6 +3140,24 @@
       "duration_ms": 251132,
       "name": "\u0e41\u0e04\u0e48\u0e43\u0e08\u0e04\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e2d",
       "url": "https://open.spotify.com/track/3DYiwfLPxLsCigKEFMJCzS"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e16\u0e27\u0e19\u0e35\u0e49\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/3SnXr8MV4uniH3auEFxK8d"
+      },
+      "artists": [
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192012,
+      "name": "\u0e41\u0e16\u0e27\u0e19\u0e35\u0e49\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/3xSOTbsoGMUcufglF736Vz"
     },
     {
       "album": {
@@ -3174,7 +3328,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 234820,
       "name": "\u0e44\u0e01\u0e25\u0e2b\u0e48\u0e32\u0e07 (Miss you)",
       "url": "https://open.spotify.com/track/4zjmYyNmxh5CIkdByF7lxx"

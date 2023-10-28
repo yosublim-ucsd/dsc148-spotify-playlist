@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: BoyWithUke
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,198 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,255 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [All Night Radio](https://open.spotify.com/track/7GRfiALpnehkSNn34LDeci) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [All Night Radio](https://open.spotify.com/album/2kEK5J1Njg3r0Ramvj3GDq) | 3:33 |
 | 100 | [ODYSSEY](https://open.spotify.com/track/6BYUfQgurDttfJg5EddPYl) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ODYSSEY](https://open.spotify.com/album/5EIlrktUwngp4QAnoyduiJ) | 4:17 |
 
-Snapshot ID: `MCw1ZDFmNjI3ZmZiYTRkOWRjNWNiMzRhODdkYjU1Y2NmZTdmMzRhYjAy`
+Snapshot ID: `MCw3NjM4OWMyMmY2OWY0ZWQ2Zjc5NDg5ZjE0ZmVjZjQ3MTk1NzZjOWQ4`

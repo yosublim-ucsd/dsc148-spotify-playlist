@@ -5823,6 +5823,28 @@
     },
     {
       "album": {
+        "name": "Temple Of Dreams (Remixes Part 3)",
+        "url": "https://open.spotify.com/album/06hdt6bc2zFnFccUCa4GCR"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221784,
+      "name": "Medieval - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/3PglnB18NqXPMiDGDHO0t1"
+    },
+    {
+      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
       },
@@ -10758,7 +10780,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 311622,
       "name": "YOUR NAME",
       "url": "https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn"

@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 48939,
+  "num_followers": 49115,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mzc1OGE4OWY5NGYwMWEzNDM1MzhhMWYzOTQ5OGU3YWMyM2Q1ZWNj",
+  "snapshot_id": "MCw4ZWU1OTdjNjY5ZjE4M2NhMjk0MjVjZWUyMzBkNWVmN2QwNzBiZGQw",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Elva",
-        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
-      },
-      "artists": [
-        {
-          "name": "Doug Kaufman",
-          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Bylur",
         "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 251173,
       "name": "Bylur",
       "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Elva",
+        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
+      },
+      "artists": [
+        {
+          "name": "Doug Kaufman",
+          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Triptych III for Piano",
+        "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Triptych III for Piano",
+      "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Somnia",
         "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Triptych III for Piano",
-        "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
+        "name": "The Vasulka Effect: Music for the Motion Picture",
+        "url": "https://open.spotify.com/album/6BciCC7yejXpGpVE4oq4Bg"
       },
       "artists": [
         {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
         }
       ],
-      "duration_ms": 201013,
-      "name": "Triptych III for Piano",
-      "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
+      "duration_ms": 238333,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/5rmSiOcI7xPIOhMTakVxa0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -731,22 +747,6 @@
       "duration_ms": 291000,
       "name": "Still / Sound \u2013 piano reworks",
       "url": "https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "The Vasulka Effect: Music for the Motion Picture",
-        "url": "https://open.spotify.com/album/6BciCC7yejXpGpVE4oq4Bg"
-      },
-      "artists": [
-        {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/5rmSiOcI7xPIOhMTakVxa0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        },
+        {
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Suite in D IV (Dreamland)",
         "url": "https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 163861,
       "name": "Respite",
       "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
-      },
-      "artists": [
-        {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
-        },
-        {
-          "name": "Canea Quartett",
-          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1099,34 +1099,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sensibus",
-        "url": "https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9"
+        "name": "Esja",
+        "url": "https://open.spotify.com/album/3aBD10mWdF7VfHpMRl9u1t"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 392791,
-      "name": "Klass",
-      "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "A Winged Victory for the Sullen",
-        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
-      },
-      "artists": [
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        },
         {
-          "name": "A Winged Victory for the Sullen",
-          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+          "name": "Alix Vaillot-Szwarc",
+          "url": "https://open.spotify.com/artist/6aML5wmfX9G35f0SefMvn0"
+        },
+        {
+          "name": "\u00d6zg\u00fcr Kaya",
+          "url": "https://open.spotify.com/artist/2NIJXCrR8rog7GWW2njcV7"
         }
       ],
-      "duration_ms": 266840,
-      "name": "Steep Hills of Vicodin Tears",
-      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
+      "duration_ms": 138529,
+      "name": "Esja",
+      "url": "https://open.spotify.com/track/3c3i9icjd5mMi8z9NJhRHv"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1163,26 +1155,34 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Esja",
-        "url": "https://open.spotify.com/album/3aBD10mWdF7VfHpMRl9u1t"
+        "name": "Sensibus",
+        "url": "https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9"
       },
       "artists": [
         {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        },
-        {
-          "name": "Alix Vaillot-Szwarc",
-          "url": "https://open.spotify.com/artist/6aML5wmfX9G35f0SefMvn0"
-        },
-        {
-          "name": "\u00d6zg\u00fcr Kaya",
-          "url": "https://open.spotify.com/artist/2NIJXCrR8rog7GWW2njcV7"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 138529,
-      "name": "Esja",
-      "url": "https://open.spotify.com/track/3c3i9icjd5mMi8z9NJhRHv"
+      "duration_ms": 392791,
+      "name": "Klass",
+      "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "A Winged Victory for the Sullen",
+        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Steep Hills of Vicodin Tears",
+      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Okno",
-        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
-      },
-      "artists": [
-        {
-          "name": "Julia Gjertsen",
-          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Okno",
-      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Escape (Hania Rani Remix)",
         "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 267330,
       "name": "Escape - Hania Rani Remix",
       "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Okno",
+        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
+      },
+      "artists": [
+        {
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Okno",
+      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
         "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 127865,
       "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
       "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Big Wide World (Reimagined for Piano)",
         "url": "https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ"
       },
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
-      },
-      "artists": [
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Be in the moment",
         "url": "https://open.spotify.com/album/4nbi49mVkoZMEVETySmBjO"
       },
@@ -1723,6 +1723,42 @@
       "duration_ms": 189125,
       "name": "Be in the moment",
       "url": "https://open.spotify.com/track/6XBEK00TaLQhjLk2IoFgDr"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Floreana",
+        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Ljunggren",
+          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        }
+      ],
+      "duration_ms": 263608,
+      "name": "Leading Somewhere",
+      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
+      },
+      "artists": [
+        {
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+        }
+      ],
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1771,42 +1807,6 @@
       "duration_ms": 173373,
       "name": "Tranquillant",
       "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
-      },
-      "artists": [
-        {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
-        }
-      ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Floreana",
-        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Ljunggren",
-          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        }
-      ],
-      "duration_ms": 263608,
-      "name": "Leading Somewhere",
-      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
     }
   ],
   "unique_name": "Not Quite Classical",

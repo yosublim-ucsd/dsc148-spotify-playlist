@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-11-01",
-  "description": "Brand new music from Nathan Dawe, Rema and more!",
+  "description": "Brand new music from Taylor Swift (pictured), Nathan Dawe, Rema and more!",
   "name": "New Music Friday UK",
   "tracks": [
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
     {
       "album": {
         "name": "Victor",
@@ -8888,10 +8906,28 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 245586,
       "name": "Baby Burglar",
       "url": "https://open.spotify.com/track/14uCEulwXfR28kApaJKpS7"
+    },
+    {
+      "album": {
+        "name": "Theatre of the Absurd Introduces C'est La Vie",
+        "url": "https://open.spotify.com/album/76qOJq3sArq3Rd9b3E0HIp"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245586,
+      "name": "Baby Burglar",
+      "url": "https://open.spotify.com/track/7wOyxTvffijNt4VIzGS408"
     },
     {
       "album": {
@@ -41614,7 +41650,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 224996,
       "name": "Freedom Now",
       "url": "https://open.spotify.com/track/15UnvuPRTCqXAjvGr9qNDJ"
@@ -49626,6 +49662,28 @@
     {
       "album": {
         "name": "Heart Still Beating",
+        "url": "https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149163,
+      "name": "Heart Still Beating",
+      "url": "https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT"
+    },
+    {
+      "album": {
+        "name": "Heart Still Beating",
         "url": "https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp"
       },
       "artists": [
@@ -49640,7 +49698,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 149163,
       "name": "Heart Still Beating",
       "url": "https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU"
@@ -51985,6 +52043,24 @@
     },
     {
       "album": {
+        "name": "Pub Therapy",
+        "url": "https://open.spotify.com/album/3cZvm3O6Qusb3yMYLpZdXe"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224786,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0LpifJBtg1eYj1kuYU5Klz"
+    },
+    {
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/4ptB0gmwwBWWVo4YEI2aWD"
       },
@@ -51996,7 +52072,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 224786,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/6osSsA84zp5ABocEgu6GNb"
@@ -90145,6 +90221,24 @@
     },
     {
       "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "album": {
         "name": "Perfect Sky",
         "url": "https://open.spotify.com/album/3vjR55iR2JVMZCrLvhOa3p"
       },
@@ -97692,6 +97786,36 @@
       "duration_ms": 180489,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/5i0SbswKCzrooxqFgfrLFi"
+    },
+    {
+      "album": {
+        "name": "Rule The World (Everybody) [Ti\u00ebsto with Tears For Fears, NIIKO X SWAE and GUDFELLA]",
+        "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Rule The World (Everybody) [Ti\u00ebsto with Tears For Fears, NIIKO X SWAE and GUDFELLA]",
+      "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
     },
     {
       "album": {
@@ -111954,10 +112078,28 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 198603,
       "name": "Take My Chance",
       "url": "https://open.spotify.com/track/2tsi5AlhJ166vmYdj741jX"
+    },
+    {
+      "album": {
+        "name": "Take My Chance",
+        "url": "https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198603,
+      "name": "Take My Chance",
+      "url": "https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR"
     },
     {
       "album": {
@@ -116490,6 +116632,24 @@
       "duration_ms": 438500,
       "name": "The Tourist",
       "url": "https://open.spotify.com/track/26CZ9VeDq2QFaLHUGQLyFG"
+    },
+    {
+      "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D"
     },
     {
       "album": {
@@ -123109,7 +123269,7 @@
     },
     {
       "album": {
-        "name": "Up In The Air",
+        "name": "Up in the Air",
         "url": "https://open.spotify.com/album/30JsqeAvmGjYsrzVOr6s1a"
       },
       "artists": [
@@ -126428,6 +126588,24 @@
       "duration_ms": 193658,
       "name": "We Got This",
       "url": "https://open.spotify.com/track/6i0eDSs9csauBsYmCJTdFV"
+    },
+    {
+      "album": {
+        "name": "WE SEE YOU",
+        "url": "https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "WE SEE YOU",
+      "url": "https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ"
     },
     {
       "album": {
@@ -133400,6 +133578,32 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "album": {
+        "name": "You Never Visit Me (feat. Wale & Enny)",
+        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "You Never Visit Me (feat. Wale & Enny)",
+      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
     },
     {
       "album": {

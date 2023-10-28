@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Joy Denalane
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,414 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,418 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 22 | [lolita](https://open.spotify.com/track/5aG4QJ3Kzj9xWPdAFw00Bb) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [lolita](https://open.spotify.com/album/5AajzMoNWCklGCcN9E7MUI) | 2:34 |
 | 23 | [Love the game](https://open.spotify.com/track/0vdawkR50QbBBvYuJs3vGt) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Love the game](https://open.spotify.com/album/7mE7fQb7p35DLUTSfWeVQc) | 2:41 |
 | 24 | [Toxic Baggage](https://open.spotify.com/track/3HGcCi6OUatVgbGwD16ktQ) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Toxic Baggage](https://open.spotify.com/album/17Q5R0UNJuXQCQxRN6lgHH) | 2:26 |
-| 25 | [STERNE EGAL](https://open.spotify.com/track/4NVV6v5XmfzMHztGnVcArC) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [STERNE EGAL](https://open.spotify.com/album/7lyZsfKXqj7DSyY9mhAOyR) | 2:33 |
-| 26 | [Rosarot](https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rosarot](https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1) | 2:39 |
+| 25 | [Rosarot](https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rosarot](https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1) | 2:39 |
+| 26 | [STERNE EGAL](https://open.spotify.com/track/4NVV6v5XmfzMHztGnVcArC) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [STERNE EGAL](https://open.spotify.com/album/7lyZsfKXqj7DSyY9mhAOyR) | 2:33 |
 | 27 | [Drugs](https://open.spotify.com/track/4XUvxZgvrvAoIpeEdzt9mi) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Drugs](https://open.spotify.com/album/0VG3DB6vKYfJ9cRBeDcsrk) | 3:47 |
 | 28 | [get tough](https://open.spotify.com/track/1fHKPEMw05XGxtB7ESSDZo) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [get tough](https://open.spotify.com/album/4Rbu6trRci6vt24z52i1p8) | 3:05 |
 | 29 | [Morgana \- 2023 Edit](https://open.spotify.com/track/2IOaOQTxrtJf0clbcjXNua) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Morgana \(2023 Edit\)](https://open.spotify.com/album/3YlTnr4cYNg9tufccsFgRQ) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [nickname](https://open.spotify.com/track/5UbwGKkWpOMYv7oJ67z4jE) | [Soukou](https://open.spotify.com/artist/0eRpKXLg1McmJuL3ASNbiz) | [Bloodline EP](https://open.spotify.com/album/3YsmTeuy0gEf098c17dwmP) | 2:47 |
 | 50 | [Pussy Edible](https://open.spotify.com/track/3tFqXkmpukEmx0evY1yiK8) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Replica Of My Heart](https://open.spotify.com/album/1t0qPUVKhK3TSB9049ON4a) | 2:10 |
 
-Snapshot ID: `MCxlMjU1MTIxOWQ4Y2YzMTMwNTdhZmZmOWNlYWI0ZjVjYTM5ZmUwOTA5`
+Snapshot ID: `MCxlZmU3NjFiNzcxYjZlZmM2MDJmZTg2ZjRmZWU4MTY2MTRiOTc4NTFj`

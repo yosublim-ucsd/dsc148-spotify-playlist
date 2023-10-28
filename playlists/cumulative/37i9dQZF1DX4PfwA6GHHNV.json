@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 151304,
       "name": "Amor e Paz",
       "url": "https://open.spotify.com/track/0LHKT3P0wMRL8zD4V7BAEb"
@@ -181,6 +181,28 @@
     },
     {
       "album": {
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/5OYa7DkVEnROKwcKybrBdl"
+      },
+      "artists": [
+        {
+          "name": "Karl Wine",
+          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
+        },
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Cabeza",
+      "url": "https://open.spotify.com/track/5y6IrzbBkHqV0E0Dzg2DkZ"
+    },
+    {
+      "album": {
         "name": "Canc\u00fan",
         "url": "https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD"
       },
@@ -222,7 +244,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 153191,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/7xo06VspucSbdF1tkJjbGZ"
@@ -388,7 +410,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 164007,
       "name": "Desacelera",
       "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
@@ -514,7 +536,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 194526,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/6Li4EeGU4E8PnHo1smngJ7"
@@ -758,7 +780,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 175922,
       "name": "Levado - Spotify Singles",
       "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
@@ -954,6 +976,36 @@
       "duration_ms": 162774,
       "name": "Oceano",
       "url": "https://open.spotify.com/track/2c4suE33LALjs5wGWAnD4F"
+    },
+    {
+      "album": {
+        "name": "Unic\u00f3rnio",
+        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Pivet Panda",
+          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175543,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/6q0eaSM4WDEHavJ9BSbIfq"
     },
     {
       "album": {
@@ -1412,10 +1464,62 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 195555,
       "name": "Tipo a Barbie",
       "url": "https://open.spotify.com/track/2LZpNKfRN6mlC22NlqYJpw"
+    },
+    {
+      "album": {
+        "name": "T\u00f4 Aqui de Novo",
+        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
+      },
+      "artists": [
+        {
+          "name": "Vinijoe",
+          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215572,
+      "name": "T\u00f4 Aqui de Novo",
+      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+    },
+    {
+      "album": {
+        "name": "Vit\u00f3ria Brindar",
+        "url": "https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O"
+      },
+      "artists": [
+        {
+          "name": "BADZILLA",
+          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        },
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197558,
+      "name": "Vit\u00f3ria Brindar",
+      "url": "https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57"
     },
     {
       "album": {

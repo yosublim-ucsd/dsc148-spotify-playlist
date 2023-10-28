@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,128 songs - 2 day 9 hr 53 min
+1,130 songs - 2 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Anxiety](https://open.spotify.com/track/0nXcfPBGwnkUVpoovpcNKV) | [Julian Daniel](https://open.spotify.com/artist/6pj58pVbAOuTxwJrx4KWHf) | [Anxiety](https://open.spotify.com/album/1vcnqtC9V37HD6jWP94Sk6) | 2:37 | 2021-05-22 | 2021-08-28 |
 | [anxiety attack](https://open.spotify.com/track/2Oj715ybhG38EebNVWWqKJ) | [Marina Lin](https://open.spotify.com/artist/56z9WF9quDfA4U6kcQrfQh) | [anxiety attack](https://open.spotify.com/album/0Pkua5zinGMobGeboWwjlt) | 2:49 | 2021-08-14 | 2021-10-02 |
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-04-30 | 2021-07-17 |
-| [Apples](https://open.spotify.com/track/0zkt8jrAOMvYYaNjopdTtc) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Apples](https://open.spotify.com/album/6tM7weDFGGuYC0Alk3AxKk) | 2:09 | 2023-03-31 |  |
+| [Apples](https://open.spotify.com/track/0zkt8jrAOMvYYaNjopdTtc) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Apples](https://open.spotify.com/album/6tM7weDFGGuYC0Alk3AxKk) | 2:09 | 2023-03-31 | 2023-10-28 |
 | [Apricots](https://open.spotify.com/track/4x8WXoZxlAF5EOCLLcTKQ3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/27Ha0SgjvEraXK4aYEumkw) | 3:12 | 2020-10-29\* | 2021-02-06 |
 | [april](https://open.spotify.com/track/4fmVUMLYxJe5GJpQcAYjIn) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 1:43 | 2023-02-16 | 2023-03-18 |
 | [Architect](https://open.spotify.com/track/4cshL9bJESsW1PlqPeBgTw) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Architect](https://open.spotify.com/album/7JR4EkR8kGsQSpDm3xWh5k) | 3:04 | 2022-08-23 | 2022-09-17 |
@@ -136,6 +136,7 @@
 | [Burger King Bathroom](https://open.spotify.com/track/4eGwQiJNa2zboopOEOvXjf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Burger King Bathroom](https://open.spotify.com/album/7g2HX2akwRHItjsTjQ6CtU) | 2:28 | 2020-12-19 | 2021-02-20 |
 | [Busy](https://open.spotify.com/track/1ZOvGngH4YojNtbhtzJCZs) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Busy](https://open.spotify.com/album/3bvUadr6ldYuCapGdpOjC9) | 2:23 | 2020-11-21 | 2021-01-15 |
 | [butterfly](https://open.spotify.com/track/4O6EmKnAT9sjnxXVznq2cT) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [real growth takes time](https://open.spotify.com/album/53HT41h6mDkBhv8jt9oAnc) | 3:09 | 2020-12-12 | 2021-01-09 |
+| [By The Water](https://open.spotify.com/track/15XOcVmHvcpRCJs2QD6SWg) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [By The Water](https://open.spotify.com/album/3mPUPdGf4vhMH9lDfuQZAN) | 2:49 | 2023-10-27 |  |
 | [By The Way](https://open.spotify.com/track/72JBBvgjw8Tj1O9lEaAnwA) | [Lyle Kam](https://open.spotify.com/artist/3tpxZOPwm3IFQo00wq6hNd) | [By The Way](https://open.spotify.com/album/31MEXRK8wPM0tFt5ORQtxT) | 2:47 | 2021-06-12 | 2021-07-31 |
 | [BYE](https://open.spotify.com/track/3OUyyDN7EZrL7i0Sbi5SVd) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [BYE](https://open.spotify.com/album/4TVz7u3xhjsYYI2Ir8ZUbW) | 4:56 | 2021-06-27 | 2021-10-09 |
 | [C'mon Be Cool](https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [C'mon Be Cool](https://open.spotify.com/album/4EimlD1OXtXp0GGHFQ1yGv) | 3:15 | 2021-04-10 | 2021-04-17 |
@@ -433,6 +434,7 @@
 | [Highly Unrecommended](https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Highly Unrecommended](https://open.spotify.com/album/3u2yBtsdT8ZULEZiIy1Wcx) | 3:22 | 2023-02-24 | 2023-06-17 |
 | [Himalayas](https://open.spotify.com/track/0msnlSoBXzmrHWgJ00VIh5) | [Elijah Blond](https://open.spotify.com/artist/2VXLfW2EYO5KtZHCFQolnt), [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [Himalayas](https://open.spotify.com/album/47W2kTtdyTFgNxOeG0jNE4) | 3:04 | 2022-09-09 | 2023-06-24 |
 | [Hold Me Down](https://open.spotify.com/track/7j3F83W8dkm10ujNwC0wRJ) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Hold Me Down](https://open.spotify.com/album/4F3OWtzqKabuavxA3rzEAA) | 3:23 | 2022-02-04 | 2022-04-09 |
+| [hold me, never let go](https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g) | 3:13 | 2023-10-27 |  |
 | [Hold No Grudge \- Bonus Track](https://open.spotify.com/track/188rKyWMsC4WsKKZ85lnUO) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power \(Deluxe Edition\)](https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ) | 4:28 | 2021-11-06 | 2021-11-27 |
 | [HOLD ON](https://open.spotify.com/track/21yOc5i6QFilcX7I3e5uQT) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [HOLD ON](https://open.spotify.com/album/00fxoc0ZvTu44iL61RE7Cx) | 3:50 | 2022-07-22 | 2022-08-06 |
 | [HOLD ON](https://open.spotify.com/track/6V0QJXTeEjlf8IGLg41Xxs) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [HOLD ON](https://open.spotify.com/album/3MO5VVGYYxolic0GrkB1JI) | 3:50 | 2022-03-18 | 2022-07-29 |
@@ -923,7 +925,7 @@
 | [Strange](https://open.spotify.com/track/2OYlUNbq7xpgEI3qVC2j3W) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Strange](https://open.spotify.com/album/1yzvGSDCzaFQ2GOOlfXKDO) | 2:33 | 2022-06-17 | 2022-11-19 |
 | [Strawberries & Cigarettes](https://open.spotify.com/track/7nvGBUAF4m89IIF3hU89Aa) | [Tyler Budd](https://open.spotify.com/artist/0Am0VMEdgyxdeTnh6HX8ns) | [Strawberries & Cigarettes](https://open.spotify.com/album/5s6KuX3jQKyHxq3kRMq0J0) | 3:00 | 2021-02-20 | 2021-05-03 |
 | [Strawberry Milkshake](https://open.spotify.com/track/4g5mBZlc1cvT7eeruIYQ3W) | [Rosemary Fairweather](https://open.spotify.com/artist/4I4taY0pRzBIGmIgsBqcrE) | [Strawberry Milkshake](https://open.spotify.com/album/5GXmmcPfoJeFsIsXRpGN2o) | 3:32 | 2021-07-31 | 2021-08-28 |
-| [Strawberry Sunscreen \- Rework](https://open.spotify.com/track/5LSev9AjbhsyKGUzKeJQzd) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2), [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Strawberry Sunscreen \(Rework\)](https://open.spotify.com/album/5P1LSFAUdYU1osK8IPBC1t) | 2:08 | 2022-08-05 |  |
+| [Strawberry Sunscreen \- Rework](https://open.spotify.com/track/5LSev9AjbhsyKGUzKeJQzd) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2), [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Strawberry Sunscreen \(Rework\)](https://open.spotify.com/album/5P1LSFAUdYU1osK8IPBC1t) | 2:08 | 2022-08-05 | 2023-10-28 |
 | [Street You Live On](https://open.spotify.com/track/0Rg7gsv3kLviC7jW6Jemv3) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:33 | 2021-10-16 | 2022-01-08 |
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-01-14 | 2022-04-29 |
 | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/6LBvil8ZDD2nktYSmKkHIy) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning](https://open.spotify.com/album/4kR8SzUJ4F1f7ippLeOARL) | 2:34 | 2021-08-07 | 2021-10-16 |

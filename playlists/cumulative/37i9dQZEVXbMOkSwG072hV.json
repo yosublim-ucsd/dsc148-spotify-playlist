@@ -599,6 +599,32 @@
     },
     {
       "album": {
+        "name": "Memphis Cult Vol. 6",
+        "url": "https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq"
+      },
+      "artists": [
+        {
+          "name": "Memphis Cult",
+          "url": "https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ"
+        },
+        {
+          "name": "Groove Dealers",
+          "url": "https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z"
+        },
+        {
+          "name": "SPLYXER",
+          "url": "https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86709,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY"
+    },
+    {
+      "album": {
         "name": "A Caminho do Bega",
         "url": "https://open.spotify.com/album/3MNPKL9eM0VsPsd1oc5FQ2"
       },
@@ -6328,7 +6354,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 193322,
       "name": "Camisa P",
       "url": "https://open.spotify.com/track/0DPjN6E1YtYIH42IPomCNM"
@@ -9897,6 +9923,24 @@
     },
     {
       "album": {
+        "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 6.0",
+        "url": "https://open.spotify.com/album/2bA0h58Fb6wT5ZgaP10sVs"
+      },
+      "artists": [
+        {
+          "name": "DJ FLG",
+          "url": "https://open.spotify.com/artist/6DlWUEM6Qr9z6p6YAOLBDh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150524,
+      "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 6.0",
+      "url": "https://open.spotify.com/track/6WyOuugKx4QEZl4PmIyT9G"
+    },
+    {
+      "album": {
         "name": "Dingo Bell Sou Seu Papai Noel",
         "url": "https://open.spotify.com/album/1qbDmvDuq9h5ySi6re50RH"
       },
@@ -11606,7 +11650,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 224491,
       "name": "Esqueceu Seu Brinco",
       "url": "https://open.spotify.com/track/29s3cKc0N9nS08Kc6Zv06B"
@@ -14344,7 +14388,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 146531,
       "name": "F\u039bSHION",
       "url": "https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7"
@@ -25070,7 +25114,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 209139,
       "name": "Olho Encharcado - Ao Vivo",
       "url": "https://open.spotify.com/track/4GXrKLzDyWYJnD2TbgvKiN"
@@ -38014,10 +38058,28 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 214243,
       "name": "\u00c8 s\u00e9rio",
       "url": "https://open.spotify.com/track/2zruWeqPLaeb9RFBHvFH3F"
+    },
+    {
+      "album": {
+        "name": "Vol.3",
+        "url": "https://open.spotify.com/album/0vb48OGmPCoDdf5paqwNuS"
+      },
+      "artists": [
+        {
+          "name": "Banda Encantu's",
+          "url": "https://open.spotify.com/artist/1f1sZAhZSx4WDTruYgzyJU"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "\u00c8 s\u00e9rio",
+      "url": "https://open.spotify.com/track/4RfARBkhxR0t6GyfYkPHFM"
     },
     {
       "album": {

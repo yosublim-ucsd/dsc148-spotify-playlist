@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "vibe out w some \ud83c\uddf5\ud83c\udded R&B Cover: Lo ki",
+  "description": "vibe out w some \ud83c\uddf5\ud83c\udded R&B Cover: KYLIX",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -230,6 +230,28 @@
       "duration_ms": 203609,
       "name": "Ayos Lang \u2018Yan",
       "url": "https://open.spotify.com/track/4SsdGsUCb6RWorUQ58bueg"
+    },
+    {
+      "album": {
+        "name": "B.A.D.",
+        "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "B.A.D.",
+      "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
     },
     {
       "album": {
@@ -702,6 +724,24 @@
       "duration_ms": 174267,
       "name": "Diggin On You",
       "url": "https://open.spotify.com/track/1U3eywESMeRvn6OSdh5HzU"
+    },
+    {
+      "album": {
+        "name": "Dimes",
+        "url": "https://open.spotify.com/album/4XYYwGYViQqsAxFofX5ffZ"
+      },
+      "artists": [
+        {
+          "name": "Keyshia",
+          "url": "https://open.spotify.com/artist/5yAQQQfO9QNt3LtRZXlr5t"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198347,
+      "name": "Dimes",
+      "url": "https://open.spotify.com/track/16AJqIiU7tcXSvweFAWv32"
     },
     {
       "album": {
@@ -1476,7 +1516,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 147428,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3ZP8wV15wdpidIbAR7X4Ft"
@@ -1636,7 +1676,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 151836,
       "name": "Lalayo O Tatabi",
       "url": "https://open.spotify.com/track/6Mxh4RBf3BA3hNzaqHseqR"
@@ -1723,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "LF: You (777)",
+        "url": "https://open.spotify.com/album/5nrncIDFFvPs7XLuHNK4NG"
+      },
+      "artists": [
+        {
+          "name": "KYLIX",
+          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199714,
+      "name": "LF: You (777)",
+      "url": "https://open.spotify.com/track/6YAAE3M96dTLeBsXIoFLoN"
+    },
+    {
+      "album": {
         "name": "Ligaw",
         "url": "https://open.spotify.com/album/6TErTHNkA9zNz4m7quSBfO"
       },
@@ -1756,7 +1814,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 188664,
       "name": "Liham Sa Ulap",
       "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
@@ -1774,7 +1832,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 181818,
       "name": "LIME",
       "url": "https://open.spotify.com/track/2KBOjDGiLYvy8KL41BgO3z"
@@ -2663,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/0ONLtHlkSuxLBquZNwvilc"
+      },
+      "artists": [
+        {
+          "name": "Armi Millare",
+          "url": "https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189156,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/2f10y3Q1P9UFJPj7cGCBj8"
+    },
+    {
+      "album": {
         "name": "Routine",
         "url": "https://open.spotify.com/album/5Ulkl1psrp9cElqaRNF5dB"
       },
@@ -3010,7 +3086,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 241700,
       "name": "SONG 4 U",
       "url": "https://open.spotify.com/track/5uNqALZBRhu9y8lQjwBWCG"
@@ -3254,6 +3330,24 @@
       "duration_ms": 200788,
       "name": "Thought Of U - slowed & reverb",
       "url": "https://open.spotify.com/track/5fLQYQqxU84ZYuCz7h66vr"
+    },
+    {
+      "album": {
+        "name": "Tiptoe",
+        "url": "https://open.spotify.com/album/3ZaOGN3CcaDODlENMBJLIj"
+      },
+      "artists": [
+        {
+          "name": "August Wahh",
+          "url": "https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Tip toe",
+      "url": "https://open.spotify.com/track/0N0bRL7uucmz8EHrqukYLv"
     },
     {
       "album": {

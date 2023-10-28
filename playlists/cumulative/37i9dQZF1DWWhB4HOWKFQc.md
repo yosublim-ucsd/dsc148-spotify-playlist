@@ -2,7 +2,7 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: NIKI
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Jaz
 
 270 songs - 16 hr 26 min
 

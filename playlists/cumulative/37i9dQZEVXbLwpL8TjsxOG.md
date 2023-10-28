@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-712 songs - 1 day 18 hr 22 min
+713 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 | 2022-02-15 | 2022-02-27 |
 | [Distance](https://open.spotify.com/track/2rbbJ2xZFJa2DriR5h0TBS) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Distance](https://open.spotify.com/album/6gIbxqYcuc2UVoO8Q75imK) | 3:05 | 2022-07-16 | 2023-09-04 |
 | [Distance \(Mandarin Version\)](https://open.spotify.com/track/3qUObXucAc56ax5DSzcUF1) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Distance \(Mandarin Version\)](https://open.spotify.com/album/6QOeB6q1acypIqwuDpsKkI) | 3:20 | 2023-09-02 |  |
-| [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 |  |
+| [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 | 2023-10-28 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It's Christmas?](https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5) | 3:42 | 2021-12-26 | 2021-12-27 |
 | [doodoodoo](https://open.spotify.com/track/0bqYvGR4vP2KstdMyemKYI) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [doodoodoo](https://open.spotify.com/album/5OxneUMRslWdTQlYpO8Wc9) | 3:23 | 2022-05-13 | 2022-09-04 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-04-22 | 2023-04-27 |
@@ -150,7 +150,7 @@
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-16 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 | 2022-08-14 |
 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-10-24 |  |
-| [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-05 |  |
+| [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-05 | 2023-10-28 |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2021-03-27\* | 2021-05-06 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2021-08-31 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-16 | 2021-05-23 |
@@ -400,7 +400,7 @@
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-09 | 2022-04-24 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-10-12 |
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-04-04 | 2023-04-07 |
-| [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 | 2023-10-25 |
+| [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 |  |
 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2023-01-15 | 2023-01-20 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2022-12-25 | 2022-12-28 |
 | [The Feels](https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53) | 3:18 | 2021-10-03 | 2021-10-04 |
@@ -514,7 +514,7 @@
 | [半](https://open.spotify.com/track/1QP9ug2pxr20UmbgyUlTA8) | [Jeremy Lee 李駿傑](https://open.spotify.com/artist/3aNQDIayeN5QYwx42wk9VF) | [半](https://open.spotify.com/album/1KISSK3yeJRExrmoVZVN1E) | 4:03 | 2022-02-23 | 2022-05-15 |
 | [及時行樂](https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [及時行樂](https://open.spotify.com/album/01rSZF79mCVntQ445seVtF) | 3:54 | 2022-01-28 | 2022-06-01 |
 | [及時行樂](https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:54 | 2022-06-01 | 2023-02-16 |
-| [反對無效](https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [反對無效](https://open.spotify.com/album/580J4faNuujItQTyIVzNxs) | 3:48 | 2021-06-06 |  |
+| [反對無效](https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [反對無效](https://open.spotify.com/album/580J4faNuujItQTyIVzNxs) | 3:48 | 2021-06-06 | 2023-10-28 |
 | [另一個諾貝爾](https://open.spotify.com/track/56Aal9B8gurDIRmlw4y74a) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [另一個諾貝爾](https://open.spotify.com/album/3zlC4E72LhS3svz4GFWvTR) | 4:14 | 2021-07-07 | 2021-08-24 |
 | [只收一半](https://open.spotify.com/track/4rtBWaUKppPfnOjH1sehyt) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:18 | 2021-09-01 | 2021-09-02 |
 | [只要你不尷尬](https://open.spotify.com/track/1UdxSRCOnftG6I2dVBkHXH) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [只要你不尷尬](https://open.spotify.com/album/0ryBp7G4CRi53am6Hy65IM) | 4:03 | 2023-10-04 |  |
@@ -652,7 +652,7 @@
 | [第二人格](https://open.spotify.com/track/3N1Gv5Qtv22eFB3gWLCCOy) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [第二人格](https://open.spotify.com/album/6J5HvuoektIH4d7uoHJjV0) | 4:34 | 2023-06-16 | 2023-07-08 |
 | [紅顏如霜](https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-16 | 2022-07-25 |
 | [細胞](https://open.spotify.com/track/7LFX60BiB9VlEC6SWaV1ar) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [跟你開玩笑](https://open.spotify.com/album/4OOTFitJeeM3rjP0sWFsNG) | 2:30 | 2022-10-18 | 2022-10-20 |
-| [給你幸福 所以幸福](https://open.spotify.com/track/6UuJk5rvrxSnOAwv6uSr5b) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [給你幸福 所以幸福](https://open.spotify.com/album/2rOeZHhWQCveBEPb3tslYB) | 4:04 | 2023-10-25 | 2023-10-27 |
+| [給你幸福 所以幸福](https://open.spotify.com/track/6UuJk5rvrxSnOAwv6uSr5b) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [給你幸福 所以幸福](https://open.spotify.com/album/2rOeZHhWQCveBEPb3tslYB) | 4:04 | 2023-10-25 |  |
 | [給缺席的人唱首歌](https://open.spotify.com/track/1jPDZpQoMwgmP3CzmIiTxB) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Love & Loss](https://open.spotify.com/album/2irTqW2Js2rvHWJPxW39XO) | 3:57 | 2023-01-24 | 2023-09-10 |
 | [給缺席的人唱首歌](https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [給缺席的人唱首歌](https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik) | 3:57 | 2022-07-07 | 2022-10-23 |
 | [網絡安全隱患](https://open.spotify.com/track/4J3xGcdeTondAni5xd9kmm) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7), [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [網絡安全隱患](https://open.spotify.com/album/2U0RPpcvALJOyO7daXdGU4) | 3:01 | 2021-04-21 | 2021-05-03 |
@@ -718,6 +718,7 @@
 | [風靈物語](https://open.spotify.com/track/1SqvBGCkvXVFDAQf2ZJa02) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [風靈物語](https://open.spotify.com/album/6TYkKQdnTNnw5E1OQWZZ1m) | 4:09 | 2021-07-23 | 2021-07-24 |
 | [飄流教室](https://open.spotify.com/track/5AnD1Tmu5hKPeHGyxGq6LJ) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [飄流教室](https://open.spotify.com/album/7lMwgXZvrG5rhwHTA4tlbJ) | 4:34 | 2022-06-23 | 2023-04-21 |
 | [飞鸟和蝉](https://open.spotify.com/track/0O7O4sssbFxoNoB4QRGra1) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [飞鸟和蝉](https://open.spotify.com/album/4LGp83hqpcHOAk50c7IQeK) | 4:56 | 2021-03-27\* | 2021-04-26 |
+| [駱駝](https://open.spotify.com/track/6j9BoWu8ows9OtIeSePZ9K) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [駱駝](https://open.spotify.com/album/7pszo8d8Cby0xdXJjibKQw) | 4:06 | 2023-10-27 |  |
 | [騷靈情歌](https://open.spotify.com/track/5MH9JHCKH1Hm3ih9m9ljy8) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [笑忘書](https://open.spotify.com/album/1p7eFSD6iJI0RqtpYXjKbT) | 4:09 | 2022-05-31 | 2022-06-05 |
 | [鯨落](https://open.spotify.com/track/1rTnGbIahUmq6fK8RWAXfd) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [鯨落](https://open.spotify.com/album/6TNTfqsjHvxcrzjaO3fvWC) | 4:02 | 2021-03-27\* | 2023-03-19 |
 

@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Rap Bang Club
 
-116 songs - 6 hr 8 min
+117 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,8 +88,9 @@
 | [No Puedo Olvidarte](https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR) | 3:45 | 2023-07-21 | 2023-09-02 |
 | [No quiero buscarte más](https://open.spotify.com/track/2TawSvt8WBTObWxhjJJiKM) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [No quiero buscarte más](https://open.spotify.com/album/0KOfvc5NREcsnLP4HI1AEE) | 2:49 | 2023-08-04 | 2023-09-30 |
 | [No Te Creas Tanto](https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 3:11 | 2023-09-22 |  |
-| [No Te Vayas](https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [No Te Vayas](https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b) | 4:36 | 2023-07-07 |  |
+| [No Te Vayas](https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [No Te Vayas](https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b) | 4:36 | 2023-07-07 | 2023-10-28 |
 | [NOSPOR](https://open.spotify.com/track/4yqrIQZxkR5ayIYDVE2alF) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [NOSPOR](https://open.spotify.com/album/1N0JU10NYU5sG4QD5lTjeV) | 2:18 | 2023-07-21 | 2023-09-30 |
+| [Nunca Quise Escribirte una Balada](https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Nunca Quise Escribirte una Balada](https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf) | 2:33 | 2023-10-27 |  |
 | [NX TX SIENTAS SOLX](https://open.spotify.com/track/4OmSsqo4Hi9LCIh9Z4gKKq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:59 | 2023-09-29 | 2023-10-12 |
 | [NX TX SIENTAS SOLX](https://open.spotify.com/track/0xzNdNJSQnHfRLYRdVhERp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:01 | 2023-09-29 |  |
 | [Offline](https://open.spotify.com/track/4STNoDYDV4JzJcaL6ZocSU) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Offline](https://open.spotify.com/album/7cLPoW0K3uRzKQyFlclq3w) | 2:50 | 2023-09-22 | 2023-10-21 |

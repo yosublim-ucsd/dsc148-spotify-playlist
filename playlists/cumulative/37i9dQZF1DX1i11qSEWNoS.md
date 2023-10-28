@@ -4,7 +4,7 @@
 
 > und macht laune
 
-122 songs - 5 hr 46 min
+123 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 | 2023-10-03 |  |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-07-21 |  |
 | [LEBENSLANG \- HBz Remix](https://open.spotify.com/track/3VezyVVENyPQ5u2DIJsITb) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac), [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [LEBENSLANG \(HBz Remix\)](https://open.spotify.com/album/6tk8ZgyU3O0JpBIpqphJpq) | 2:50 | 2023-07-21 |  |
-| [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB) | 3:08 | 2023-07-21 |  |
+| [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:08 | 2023-10-20 |  |
+| [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB) | 3:08 | 2023-07-21 | 2023-10-28 |
 | [Lila Wolken](https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Lila Wolken \- EP](https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo) | 3:48 | 2023-09-05 |  |
 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 | 2023-08-11 |  |
 | [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 | 2023-07-28 | 2023-10-07 |

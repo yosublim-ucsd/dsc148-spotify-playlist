@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "Pop para refrescarte los d\u00edas, featuring Ela Taubert.",
+  "description": "Pop para refrescarte los d\u00edas, featuring GALE.",
   "name": "Crema Pop",
   "tracks": [
     {
@@ -738,7 +738,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202736,
       "name": "Devu\u00e9lveme a Mi Chica",
       "url": "https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189506,
       "name": "D\u00e9jame Llorarte",
       "url": "https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq"
@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158373,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
+    },
+    {
+      "album": {
         "name": "Est\u00e1 Cabron",
         "url": "https://open.spotify.com/album/3W7tjWiBtDIiiqgvnld5L3"
       },
@@ -930,7 +948,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 248546,
       "name": "Eva",
       "url": "https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o"
@@ -1032,6 +1050,24 @@
       "duration_ms": 190603,
       "name": "Fotos",
       "url": "https://open.spotify.com/track/0G57kedn6wvWx5CHefeJdu"
+    },
+    {
+      "album": {
+        "name": "Gringuita",
+        "url": "https://open.spotify.com/album/3yoLKFEw3Ukn9l9np8JCrV"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160522,
+      "name": "Gringuita",
+      "url": "https://open.spotify.com/track/70tGXVBJJggvYRgnDabwlb"
     },
     {
       "album": {
@@ -1559,6 +1595,28 @@
     },
     {
       "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/2wz36egUnkqR7YfbadsI6T"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132300,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc"
+    },
+    {
+      "album": {
         "name": "Muero",
         "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
       },
@@ -1606,7 +1664,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 230049,
       "name": "no quiero olvidarte",
       "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
@@ -2244,6 +2302,32 @@
       "duration_ms": 131671,
       "name": "Sugar Mami",
       "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
+    },
+    {
+      "album": {
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/1PYSxOUcVNmB2mBRLLFEhH"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        },
+        {
+          "name": "marcos g",
+          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158974,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/213uZJMRoRXXthd2xBYW4D"
     },
     {
       "album": {

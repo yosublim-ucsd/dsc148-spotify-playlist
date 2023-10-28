@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-158 songs - 15 hr 2 min
+159 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Al's Anti\-Gravity Machine](https://open.spotify.com/track/4Jg2oiJRQuzEcSpKqLxYvR) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Al's Anti\-Gravity Machine](https://open.spotify.com/album/0TN1UurxGH43ylMYPM75go) | 4:27 | 2023-06-23 |  |
 | [All I Need](https://open.spotify.com/track/52cNWMjV7pwVsWDzjD3cgx) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [All I Need](https://open.spotify.com/album/2aFgqnVwmGCfQnhXODX0os) | 6:41 | 2022-06-23 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 | 2022-06-23 |  |
+| [Alright Tonight](https://open.spotify.com/track/4fTRP31lxI5Ab0QXFu429W) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl) | [Alright Tonight](https://open.spotify.com/album/1VpmCbGbgKh6CS5sJ4uq7H) | 6:26 | 2023-10-27 |  |
 | [Another Plan of Attack](https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Another Plan of Attack](https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k) | 6:34 | 2022-12-09 |  |
 | [Arcadia](https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Moon Cabin](https://open.spotify.com/album/2yBCrmF3Cv2kqLFLc6kOxg) | 6:35 | 2022-06-23 | 2023-05-06 |
 | [Babyman](https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Circles Around the Sun](https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy) | 5:57 | 2022-06-23 | 2023-03-18 |
@@ -29,7 +30,7 @@
 | [Cottonmouth](https://open.spotify.com/track/05ai1Lup5CO5qLFuytjHVX) | [WOLF!](https://open.spotify.com/artist/4Xp09N3LwGCuUqyXNRHaVR), [Scott Metzger](https://open.spotify.com/artist/0ZILxKPM8Y2vYZ1UToHidc) | [Adult Entertainment](https://open.spotify.com/album/4XBDWweRR7036JySp1V0rV) | 3:27 | 2022-10-28 |  |
 | [Cubensis](https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Microdosio](https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ) | 5:31 | 2022-06-23 | 2023-06-10 |
 | [Curse Lifter \(feat\. Derek Trucks\)](https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:59 | 2022-06-23 |  |
-| [Dare You](https://open.spotify.com/track/5QOsdIQnOmP9AaKFGgBGio) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/7gMrxYFvgxnlquxVUQ0kCp) | 6:57 | 2023-01-20 |  |
+| [Dare You](https://open.spotify.com/track/5QOsdIQnOmP9AaKFGgBGio) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/7gMrxYFvgxnlquxVUQ0kCp) | 6:57 | 2023-01-20 | 2023-10-28 |
 | [Dare You](https://open.spotify.com/track/70FAStvmG7cqGfgnmZe0c0) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Dare You](https://open.spotify.com/album/4K4q44abgnpCnxRAx3Zl4C) | 6:57 | 2023-01-13 | 2023-10-02 |
 | [Define Devine](https://open.spotify.com/track/48CT4qpNxluvGt15IuuLuo) | [The Mad Children](https://open.spotify.com/artist/0qcvu55pxTj97gmxAy1ZUF) | [The Mad Children \- EP](https://open.spotify.com/album/1lAUefBVOBXfPCnOJCp5cv) | 5:47 | 2022-07-01 |  |
 | [Despierta](https://open.spotify.com/track/3AZlc4kfSwUi3H58Oh4r5h) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nowhere To Go But Everywhere](https://open.spotify.com/album/77mybqhJmrAAuhooCm3xW5) | 3:38 | 2023-03-17 |  |

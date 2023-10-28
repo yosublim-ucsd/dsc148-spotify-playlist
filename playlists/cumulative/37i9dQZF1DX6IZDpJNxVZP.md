@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-211 songs - 9 hr 24 min
+212 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,10 +85,11 @@
 | [I Put A Spell On You](https://open.spotify.com/track/4TKPFdNi9Lm8TM5LVJJ6cR) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [57 Kids Greatest Halloween Songs, Stories, And Sounds](https://open.spotify.com/album/4OcOuar3UJlTx2GWPrgyF6) | 3:21 | 2021-08-30 |  |
 | [I Wanna Scare Myself](https://open.spotify.com/track/7pvlXWhbPUkGmhspCJ49Pn) | [Tigger](https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 1:12 | 2021-09-10 |  |
 | [I Wanna Scare Myself](https://open.spotify.com/track/1rd06xXXXPuZsa1u4K5qwF) | [Tigger](https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e) | [Halloween Songs & Sounds](https://open.spotify.com/album/6qFkmKtc6jJso1Bc3UIGDo) | 1:13 | 2021-08-30 |  |
-| [I Want Candy](https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [The Best Of Bow Wow Wow](https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m) | 2:44 | 2021-09-10 |  |
+| [I Want Candy](https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [The Best Of Bow Wow Wow](https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m) | 2:44 | 2021-09-10 | 2023-10-28 |
 | [I Want Candy](https://open.spotify.com/track/6JSti8EXneP1ufpN7kAXdC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 80s Gold](https://open.spotify.com/album/28ZiTmTCzG7D4J6Mr1lMIX) | 2:45 | 2021-08-30 | 2022-09-28 |
 | [I Want Candy](https://open.spotify.com/track/6T90zwOKB8mioZZukRu5y3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Hits!](https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U) | 2:50 | 2021-08-30 | 2022-07-29 |
-| [I Want Candy \- 2022](https://open.spotify.com/track/41e2OiEDKLjKHnj0lX8elu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:48 | 2022-09-27 |  |
+| [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/track/1XCoPYpOwAIDffPzM7RNPP) | [The Really Loud House](https://open.spotify.com/artist/4GQWweaax2iFP1JIAyKY3R) | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/album/7CZTb3EvLKNDGxWwedSRj4) | 3:12 | 2023-10-27 |  |
+| [I Want Candy \- 2022](https://open.spotify.com/track/41e2OiEDKLjKHnj0lX8elu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:48 | 2022-09-27 | 2023-10-28 |
 | [It Must Be Halloween](https://open.spotify.com/track/1f1svbp3KN0QkxWh3Ecx7W) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [It Must Be Halloween](https://open.spotify.com/album/5rbxNOnGkelOAzu5xHPNGG) | 2:29 | 2022-09-27 |  |
 | [It's Halloween](https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL) | [Lucy Kalantari](https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1) | [Big Things](https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf) | 3:35 | 2021-09-10 |  |
 | [It's Halloween](https://open.spotify.com/track/0UAxsfIlQZ1XK6RknnN5CE) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:15 | 2021-08-30 |  |

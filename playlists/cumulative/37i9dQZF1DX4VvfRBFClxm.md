@@ -4,7 +4,7 @@
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Ed Sheeran
 
-352 songs - 21 hr 5 min
+354 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Four Leaf Clover](https://open.spotify.com/track/34lwvWGfFQrYeeU38FkvxQ) | [Christian Hudson](https://open.spotify.com/artist/49m0B4E59KYnTHckGDleUv) | [Four Leaf Clover](https://open.spotify.com/album/02zIoeavQcbpJEpLdNrIGR) | 3:15 | 2022-03-25 | 2022-04-19 |
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2021-10-13 |  |
 | [German Cars](https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [German Cars](https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT) | 3:21 | 2022-07-22 | 2022-07-29 |
-| [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 | 2022-07-29 |  |
+| [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 | 2022-07-29 | 2023-10-28 |
 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL) | 2:40 | 2022-03-25 | 2022-04-18 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2022-02-04 |  |
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2021-10-13 |  |
@@ -211,7 +211,7 @@
 | [Most Girls \- Acoustic](https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls \(Acoustic\)](https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0) | 3:20 | 2021-10-13 | 2023-09-22 |
 | [Moving Mountains](https://open.spotify.com/track/27bWSKIcEj1JyhHi6emu4j) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Moving Mountains](https://open.spotify.com/album/70pO7PJKW18cXax9pQDtZb) | 4:13 | 2022-03-25 | 2022-04-20 |
 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 | 2021-10-13 |  |
-| [My Ego Dies At The End](https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 4:02 | 2022-06-17 |  |
+| [My Ego Dies At The End](https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 4:02 | 2022-06-17 | 2023-10-28 |
 | [My Mind Is For Sale](https://open.spotify.com/track/0jhvJs0gITrnMS9cS32hms) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [My Mind Is For Sale](https://open.spotify.com/album/5LPjh362pPr16TE6jOc5VR) | 3:59 | 2022-03-25 | 2022-04-09 |
 | [Nana](https://open.spotify.com/track/1JmLA5HZ7Wp7L8DNctLpUW) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:56 | 2022-03-25 | 2022-04-20 |
 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 | 2021-10-13 |  |
@@ -242,6 +242,7 @@
 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2021-10-13 | 2022-07-29 |
 | [Rainbow](https://open.spotify.com/track/5mGChT2miDApqXTNlejoZY) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/1LYeiB1jH9liog9Ji1vL49) | 3:51 | 2021-10-13 | 2022-07-29 |
 | [Raincoat \- Acoustic](https://open.spotify.com/track/4W6lFeuSPi2pnFTIOrMUiD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [Raincoat \(Acoustic\)](https://open.spotify.com/album/69wwst5yeNvmd6sjmOPdRv) | 3:35 | 2021-10-13 | 2022-01-08 |
+| [Rather Be with You \- Acoustic](https://open.spotify.com/track/2rNIGwLuQauPp8qLFuQnzm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/4gfAeJv9CKKraAUEqEQOqs) | 3:19 | 2023-10-27 |  |
 | [Rather Be with You \- Acoustic](https://open.spotify.com/track/7fS708BKUj1zNyejmuZxDb) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 | 2022-03-25 | 2022-04-19 |
 | [Ready to Go](https://open.spotify.com/track/0ImT0gd8nSmypPjZQrEecl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:07 | 2022-07-22 | 2022-10-07 |
 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 | 2022-06-24 | 2022-09-15 |
@@ -355,6 +356,7 @@
 | [You and I](https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:13 | 2023-05-05 |  |
 | [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 | 2022-06-24 | 2023-05-10 |
 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 | 2021-10-13 |  |
+| [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-27 |  |
 | [You Sigh](https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 2:58 | 2022-07-22 | 2023-06-16 |
 | [You Sigh](https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 2:58 | 2023-05-05 |  |
 | [You Sigh](https://open.spotify.com/track/7hMKqhlMqxF7ULZiUMN5AH) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 2:58 | 2022-03-25 | 2022-04-18 |

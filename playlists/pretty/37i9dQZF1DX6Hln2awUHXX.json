@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 93837,
+  "num_followers": 93858,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjRkYTVlNjNlZjAzMWY1NGI3MzdmYjM3YjE1OWNlNzRlYjRiNTI0",
+  "snapshot_id": "MCw4MjJmZWY5MTllMzBlZTEyNjYzYzllMDYzYTgyNjFlN2E2ZDdmNGUz",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -311,34 +311,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Tristan und Isolde",
-        "url": "https://open.spotify.com/album/2mnftFLsMflPnLLGTaGBgq"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Margaret Price",
-          "url": "https://open.spotify.com/artist/5pWhQJvszoZVnQASf6KrEt"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "duration_ms": 446133,
-      "name": "Tristan und Isolde / Act 3: \"Mild und leise wie er l\u00e4chelt\"",
-      "url": "https://open.spotify.com/track/4SkJKfnGhQCikozqxyNXjP"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
         "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
       },
@@ -363,6 +335,34 @@
       "duration_ms": 453386,
       "name": "Tannh\u00e4user, WWV 70, Act III: Allm\u00e4cht'ge Jungfrau, h\u00f6r mein Flehen!",
       "url": "https://open.spotify.com/track/3HoO8VUfyXwkgqwaIrVM7u"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Tristan und Isolde",
+        "url": "https://open.spotify.com/album/2mnftFLsMflPnLLGTaGBgq"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Margaret Price",
+          "url": "https://open.spotify.com/artist/5pWhQJvszoZVnQASf6KrEt"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "duration_ms": 446133,
+      "name": "Tristan und Isolde / Act 3: \"Mild und leise wie er l\u00e4chelt\"",
+      "url": "https://open.spotify.com/track/4SkJKfnGhQCikozqxyNXjP"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -919,6 +919,38 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner, R.: Opera Choruses",
+        "url": "https://open.spotify.com/album/4cqlzlBOhjVUd3aedalFo2"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Goran Eliasson",
+          "url": "https://open.spotify.com/artist/6zsgabJFQrLtY2jEWy2fC4"
+        },
+        {
+          "name": "Royal Swedish Opera Chorus",
+          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
+        },
+        {
+          "name": "Royal Swedish Orchestra",
+          "url": "https://open.spotify.com/artist/7ksb5dj1dy1o8DuZiNB9ZI"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "duration_ms": 1026359,
+      "name": "Die Meistersinger von Nurnberg (The Mastersingers of Nuremberg), Act III: Finale",
+      "url": "https://open.spotify.com/track/3kr6jTNREvgPyGg7EDTPPL"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Essentials",
         "url": "https://open.spotify.com/album/2J6V4iNZrA2YPl7ZA7H1tf"
       },
@@ -963,38 +995,6 @@
       "duration_ms": 510844,
       "name": "Lohengrin, WWV 75 / Act 3: Mein lieber Schwan!",
       "url": "https://open.spotify.com/track/2WSJaKbu2e3wfM4FuJh2fz"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner, R.: Opera Choruses",
-        "url": "https://open.spotify.com/album/4cqlzlBOhjVUd3aedalFo2"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Goran Eliasson",
-          "url": "https://open.spotify.com/artist/6zsgabJFQrLtY2jEWy2fC4"
-        },
-        {
-          "name": "Royal Swedish Opera Chorus",
-          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
-        },
-        {
-          "name": "Royal Swedish Orchestra",
-          "url": "https://open.spotify.com/artist/7ksb5dj1dy1o8DuZiNB9ZI"
-        },
-        {
-          "name": "Leif Segerstam",
-          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
-        }
-      ],
-      "duration_ms": 1026359,
-      "name": "Die Meistersinger von Nurnberg (The Mastersingers of Nuremberg), Act III: Finale",
-      "url": "https://open.spotify.com/track/3kr6jTNREvgPyGg7EDTPPL"
     },
     {
       "added_at": "2022-06-28 08:58:25",

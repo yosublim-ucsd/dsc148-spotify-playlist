@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 783729,
+  "num_followers": 783881,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWNiNmI5YmFhYzNmMDA0NjEwMGQ2YjYxMTY4MmU1YzE5NTVjMzVh",
+  "snapshot_id": "MCxhYjA4YTUwNDg5NzliZjUzMTYyNGJhZWMzNjZjOTFkMDgzZjUyY2Uz",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Uns",
-        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "Voce E Linda - Remixed Original Album",
-      "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Apesar de Querer",
         "url": "https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 244000,
       "name": "Apesar de Querer",
       "url": "https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Uns",
+        "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Voce E Linda - Remixed Original Album",
+      "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Mariana Nolasco",
+        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 184554,
+      "name": "Sons de Amor",
+      "url": "https://open.spotify.com/track/1m8qkyl5sHDEvZQslKOwJC"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "N\u00f3s e o Mar",
         "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 233273,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Mariana Nolasco",
-        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 184554,
-      "name": "Sons de Amor",
-      "url": "https://open.spotify.com/track/1m8qkyl5sHDEvZQslKOwJC"
     }
   ],
   "unique_name": "Cafezinho",

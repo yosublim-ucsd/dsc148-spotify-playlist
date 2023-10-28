@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 205866,
       "name": "Diamond Days",
       "url": "https://open.spotify.com/track/6n5M2Al3QgTScpO4AZH9OI"
@@ -4848,7 +4848,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 159040,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1RMnVmHGSvxlexnenQEXSb"
@@ -10824,7 +10824,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 289604,
       "name": "\u6162\u51b7",
       "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
@@ -13524,6 +13524,24 @@
       "duration_ms": 265813,
       "name": "\u9084\u5728\u6d41\u6d6a",
       "url": "https://open.spotify.com/track/35xilew5nalcetOeytaDFj"
+    },
+    {
+      "album": {
+        "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
+        "url": "https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np"
+      },
+      "artists": [
+        {
+          "name": "Mixer",
+          "url": "https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248619,
+      "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
+      "url": "https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5"
     },
     {
       "album": {

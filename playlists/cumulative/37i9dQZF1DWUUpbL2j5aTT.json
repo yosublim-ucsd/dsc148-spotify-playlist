@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "The best of Brazilian House. Photo: Riro",
+  "description": "The best of Brazilian House. Photo: Fabricio Pe\u00e7anha",
   "name": "House Brasil",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 165000,
       "name": "Addictive",
       "url": "https://open.spotify.com/track/1h99HGj5wwNX1DqoJRpPDv"
+    },
+    {
+      "album": {
+        "name": "Ambition",
+        "url": "https://open.spotify.com/album/0VibhD9iMSj5Ct6IMsGyAw"
+      },
+      "artists": [
+        {
+          "name": "ENNE (BR)",
+          "url": "https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Ambition",
+      "url": "https://open.spotify.com/track/3KvW9UwTMlmMpha02Ago0K"
     },
     {
       "album": {
@@ -791,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Invisible Images",
+        "url": "https://open.spotify.com/album/3pVp1s7kIeF1JzfOlN5SUT"
+      },
+      "artists": [
+        {
+          "name": "Fabricio Pecanha",
+          "url": "https://open.spotify.com/artist/7jEzKif1MJE7wODAuWBNOR"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247868,
+      "name": "Invisible Images",
+      "url": "https://open.spotify.com/track/5bgjFnhNGkut8KQHVMY31A"
+    },
+    {
+      "album": {
         "name": "It's All About ( Radio Mix )",
         "url": "https://open.spotify.com/album/40RWIqYnVYBKgch9bGmgeI"
       },
@@ -898,6 +934,24 @@
       "duration_ms": 228591,
       "name": "Little Woman (feat. Tristan Henry)",
       "url": "https://open.spotify.com/track/4QHRhcnKlhgsGrhGwlkjEy"
+    },
+    {
+      "album": {
+        "name": "LO QUE SOY",
+        "url": "https://open.spotify.com/album/3e4Ngl6nMTk9EI98ZdR9Je"
+      },
+      "artists": [
+        {
+          "name": "BUENO",
+          "url": "https://open.spotify.com/artist/6Q7Te0tazncv3sZoqOEqBh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174735,
+      "name": "LO QUE SOY",
+      "url": "https://open.spotify.com/track/4uQHyvzFx0vXdAeHUm7ist"
     },
     {
       "album": {
@@ -1099,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/0AZrQPyni9mQ2SO5Ep8OBy"
+      },
+      "artists": [
+        {
+          "name": "HAAS",
+          "url": "https://open.spotify.com/artist/3ldpGeLgo7VjrDShUjqzgY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/53YHO53431ArdW8JksWIPA"
+    },
+    {
+      "album": {
         "name": "One, Two",
         "url": "https://open.spotify.com/album/4qVAFvHHHbf63rtlJ8mhJd"
       },
@@ -1246,6 +1318,24 @@
       "duration_ms": 164769,
       "name": "Pirocada de Bandido",
       "url": "https://open.spotify.com/track/2PIpDDFcmIbOFyeETsVwC7"
+    },
+    {
+      "album": {
+        "name": "Sliced Grooves",
+        "url": "https://open.spotify.com/album/4auTbROJS8ul9BeYHEDHoQ"
+      },
+      "artists": [
+        {
+          "name": "Fab\u00f8",
+          "url": "https://open.spotify.com/artist/6PDdu3G4eK1brXt0gN8f6D"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396000,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/2QcBTEQxzCIY6F64nro9Y7"
     },
     {
       "album": {
@@ -1409,6 +1499,28 @@
     },
     {
       "album": {
+        "name": "Soul 2 Soul",
+        "url": "https://open.spotify.com/album/2iRG9QiTjecnlwdleP5B52"
+      },
+      "artists": [
+        {
+          "name": "Mendo",
+          "url": "https://open.spotify.com/artist/0Vg2GA2WmLIPXILz95CS03"
+        },
+        {
+          "name": "Techin",
+          "url": "https://open.spotify.com/artist/3PafwoNI6rsWQDLdH9LUjr"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Soul 2 Soul",
+      "url": "https://open.spotify.com/track/6dJPfNdMAVOmxzXUEimjEY"
+    },
+    {
+      "album": {
         "name": "Spearwoman",
         "url": "https://open.spotify.com/album/1YOFhohbSLmnUnSYfkYucb"
       },
@@ -1522,7 +1634,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 206456,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/0g7WVbBprvTUuRznA32ZU5"

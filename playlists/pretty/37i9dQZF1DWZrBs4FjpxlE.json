@@ -1,12 +1,12 @@
 {
   "description": "we got you bro. Cover: Post Malone",
-  "num_followers": 36891,
+  "num_followers": 37279,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGE1NDEzYzg1NjY0ODVhZmI2MDY2MDQxYmJlMjJkMTg5ZGIyZDAz",
+  "snapshot_id": "MCwwOTFlZWEzMWI0NDk5NjU2YzYyZjEwYTMzNzUwOTdlNDEwNWU3ZTdi",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 132832,
-      "name": "Martin & Gina",
-      "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Luv Is Rage 2",
         "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 182706,
       "name": "XO Tour Llif3",
       "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 132832,
+      "name": "Martin & Gina",
+      "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Luv Is Rage 2",
         "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 221746,
       "name": "The Way Life Goes (feat. Oh Wonder)",
       "url": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 160166,
-      "name": "Never Felt So Alone",
-      "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Feel Something (Deluxe)",
         "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 228442,
       "name": "Happiest Year",
       "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
     },
     {
       "added_at": "2023-08-18 04:01:00",

@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183542,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL"
+    },
+    {
+      "album": {
         "name": "Old 8 x 10",
         "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
       },

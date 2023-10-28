@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: El Micha
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,637 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,672 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 8 | [Corazon Callejero](https://open.spotify.com/track/5Gp5OYkKpfGT2WKmHvCCfy) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Corazon Callejero](https://open.spotify.com/album/26bcaLoIE0UurvkDgNMxBE) | 2:48 |
 | 9 | [El Negrito](https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [De Menor a Mayor](https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs) | 2:56 |
 | 10 | [Soltera](https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Soltera](https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee) | 2:51 |
-| 11 | [Plan B](https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5) | [Orlenis 22k](https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Plan B](https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8) | 2:55 |
+| 11 | [Plan B \- Prod\. by Ernesto Losa](https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5) | [Orlenis 22k](https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Plan B](https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8) | 2:55 |
 | 12 | [Lagrimas de Champan](https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [El Carli](https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1) | [Lagrimas de Champan](https://open.spotify.com/album/0Todvs4mCXdaRprlytDK7E) | 3:15 |
 | 13 | [La Dura \- Reggaeton Version](https://open.spotify.com/track/7lyObt45080OP566E98czV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [La Dura](https://open.spotify.com/album/6haG7fhalu6HGgDi7GZBJF) | 3:54 |
 | 14 | [Quiérete](https://open.spotify.com/track/2O16sRdYyu4POSZklWErrb) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [Quiérete](https://open.spotify.com/album/0ZS3u4DW0yl21jzb8CipES) | 3:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 69 | [Volvere Junto a Ti](https://open.spotify.com/track/00mhWSGsOidu8YVEWiwqDV) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/1pFGaaejCIj06DhPW5r7H7) | 3:48 |
 | 70 | [Bla Bla Bla](https://open.spotify.com/track/1Pbn9UgscbHOM7OY5dCjaa) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Bla Bla Bla](https://open.spotify.com/album/787S5irCGrnB6kNJsZZ9v7) | 3:32 |
 
-Snapshot ID: `MCwzMjAxMTEyZTc3YmFlOTc3YTRmMGJhZTQwZGE4NjkxZjc2NzljMjU4`
+Snapshot ID: `MCxlYjkxNGZkOGMzOGExMzBmNzExNDM2Nzk3NzlhNDg4YzA4NzM2Yjdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Żabson, Kronkel Dom, Kizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,316 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,444 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [w aucie noc i 90bpm](https://open.spotify.com/track/4PG1vjjSiKQBdykSyqAHWG) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Baltik Beatz](https://open.spotify.com/artist/5P2MqlvPHysck4DS90dBaW), [Phunk'ill](https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM) | [w aucie noc i 90bpm](https://open.spotify.com/album/2XptoJZXg4ep4gAn91OQET) | 2:26 |
 | 50 | [Klasyczny trap](https://open.spotify.com/track/6Xeq2GpNm9Go385J5lyv6I) | [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG), [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Beteo](https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Flory](https://open.spotify.com/artist/6wx85VsfJllWxCspzoRlMT), [wxrrior](https://open.spotify.com/artist/0FSxeJLcijNvwkHuNcmMpl) | [Klasyczny trap](https://open.spotify.com/album/4DqJLIwl1tllfiku9b6AfI) | 2:46 |
 
-Snapshot ID: `MCw5MmJmOTQ4ZDQyNDc5ZTljOWVhNWJmYjQ5ZjU2YWU0ZWU2ZmNjMGNi`
+Snapshot ID: `MCxlMTRjMjJjZDEyMmY4NGNmYjNmNDA2ZmY2MjQ5ZTdiNDgwNzE5MWE1`

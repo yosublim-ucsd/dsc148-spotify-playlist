@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,766 likes - 541 songs - 1 day 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,961 likes - 541 songs - 1 day 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -550,4 +550,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 540 | [Infinite Love](https://open.spotify.com/track/05TyTjyZ4mouBU8W4hSY5s) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Infinite Love](https://open.spotify.com/album/7hSXgTzVsJpbbYYAPLPi9f) | 4:11 |
 | 541 | [Peace](https://open.spotify.com/track/6qxR6arAISIf7Mm2ynH4u1) | [William Carter Band](https://open.spotify.com/artist/4hUzAt6msIzmNC8jQE0X28) | [Relaxin' at Camarillo](https://open.spotify.com/album/1N5BtVcBtLY8cSF2XdjwwE) | 3:13 |
 
-Snapshot ID: `MCw0YWVkNjgwOTkyY2U3YWJjYzEwY2I5MWUwZjhkZDk5Y2QyNTI5ZTJi`
+Snapshot ID: `MCw1NzFjMTQ4NWI5OTllNjM4MTg1NzZjMmVjZjczY2EzNTg5MzY3MmI3`

@@ -1745,6 +1745,28 @@
     },
     {
       "album": {
+        "name": "FATAL FANTASSY",
+        "url": "https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "FATAL FANTASSY",
+      "url": "https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh"
+    },
+    {
+      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -4274,7 +4296,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 158800,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"

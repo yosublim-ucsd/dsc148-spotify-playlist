@@ -654,7 +654,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 213019,
       "name": "Dime C\u00f3mo Hago - (Versi\u00f3n Salsa)",
       "url": "https://open.spotify.com/track/4LknpTc1p9XbeRTpp2hYqf"
@@ -778,6 +778,28 @@
       "duration_ms": 169207,
       "name": "El Que Ama Sufre",
       "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "album": {
+        "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
+        "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193046,
+      "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
     },
     {
       "album": {
@@ -1160,7 +1182,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 288951,
       "name": "Hey Mor / Feliz Cumplea\u00f1os / Normal",
       "url": "https://open.spotify.com/track/5eTUJJLZanOVNcaQp9uMy1"
@@ -2804,6 +2826,24 @@
       "duration_ms": 255061,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/5AuRALmzALV366aYogg7Eo"
+      },
+      "artists": [
+        {
+          "name": "Manyoma Brothers",
+          "url": "https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Zumbala\u00e9 (En Vivo)",
+      "url": "https://open.spotify.com/track/3VIStFqBZXOe8KVnbQ1eYf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1UHxedJfnRM"

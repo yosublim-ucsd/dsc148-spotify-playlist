@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1253169,
+  "num_followers": 1253477,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzgyNTk3NTc5MWQ2NzNjY2MxZTA0MmYzNmZiNjExZWZmNjViODI2",
+  "snapshot_id": "MCxhZmVmYzc5ZjM3NzY3ZjdlZjg4MWQwOTA5YzZkOTMwYTliOTczZmVh",
   "tracks": [
     {
       "added_at": "2023-10-16 17:58:10",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
+        "name": "WELCOME TO THE GANG VOL. 2",
+        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 206437,
+      "name": "DOWN DOWN",
+      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
         "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
         "url": "https://open.spotify.com/album/43KEFFfgdiQnh3m1luX5gR"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 289548,
       "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
       "url": "https://open.spotify.com/track/1FNEbCXAXweJOBLrtOFNsL"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
-        "name": "WELCOME TO THE GANG VOL. 2",
-        "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 206437,
-      "name": "DOWN DOWN",
-      "url": "https://open.spotify.com/track/6H4mOpaopoXbLkf12GEhe4"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -1255,22 +1255,30 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
+        "name": "Paper Thin (Headhunterz Remix)",
+        "url": "https://open.spotify.com/album/0bOFeg0VbNsscC0Kq4Ca5r"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+          "name": "Tom DeLonge",
+          "url": "https://open.spotify.com/artist/5h7oZ7t5CU9lst1mIrjp3R"
+        },
+        {
+          "name": "Angels & Airwaves",
+          "url": "https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp"
+        },
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
         }
       ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
+      "duration_ms": 245392,
+      "name": "Paper Thin - Headhunterz Remix",
+      "url": "https://open.spotify.com/track/0OKHUom3gY9xWago6Y1BKk"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -1315,30 +1323,22 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Paper Thin (Headhunterz Remix)",
-        "url": "https://open.spotify.com/album/0bOFeg0VbNsscC0Kq4Ca5r"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Tom DeLonge",
-          "url": "https://open.spotify.com/artist/5h7oZ7t5CU9lst1mIrjp3R"
-        },
-        {
-          "name": "Angels & Airwaves",
-          "url": "https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp"
-        },
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
         }
       ],
-      "duration_ms": 245392,
-      "name": "Paper Thin - Headhunterz Remix",
-      "url": "https://open.spotify.com/track/0OKHUom3gY9xWago6Y1BKk"
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -1355,6 +1355,30 @@
       "duration_ms": 166400,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/667VsfRZBPcI42mfFvgYpl"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
+        "name": "Geisterbahn",
+        "url": "https://open.spotify.com/album/72CzcpUgHhEYsDPlrZVllJ"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Pazoo",
+          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
+        },
+        {
+          "name": "Schalldicht",
+          "url": "https://open.spotify.com/artist/1eVvlV77JAf5puSZPg1aQ2"
+        }
+      ],
+      "duration_ms": 158038,
+      "name": "Geisterbahn",
+      "url": "https://open.spotify.com/track/0b368rOCLexAaKX2fXPnFj"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -1399,30 +1423,6 @@
       "duration_ms": 241531,
       "name": "Run From Reality",
       "url": "https://open.spotify.com/track/6XAjjeQkt52pLVFaIk6gNi"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
-        "name": "Geisterbahn",
-        "url": "https://open.spotify.com/album/72CzcpUgHhEYsDPlrZVllJ"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "Pazoo",
-          "url": "https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg"
-        },
-        {
-          "name": "Schalldicht",
-          "url": "https://open.spotify.com/artist/1eVvlV77JAf5puSZPg1aQ2"
-        }
-      ],
-      "duration_ms": 158038,
-      "name": "Geisterbahn",
-      "url": "https://open.spotify.com/track/0b368rOCLexAaKX2fXPnFj"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Feel So Good",
-        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
         "name": "GO CRAZY",
         "url": "https://open.spotify.com/album/7AEJANjaK2swT6fbi1VSVr"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 195375,
       "name": "GO CRAZY",
       "url": "https://open.spotify.com/track/4lj6c7zEcP6M03gjnybbzj"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
+        "name": "Feel So Good",
+        "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 215225,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/0fnrHmbApoVm9Zt8jIwKsi"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Let's Go Insane (Into The Madness 2023 OST)",
-        "url": "https://open.spotify.com/album/4CXFQdtkKxov3rjvmDsML2"
-      },
-      "artists": [
-        {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
-        }
-      ],
-      "duration_ms": 215688,
-      "name": "Let's Go Insane (Into The Madness 2023 OST)",
-      "url": "https://open.spotify.com/track/321NLHCw7fk329HwnpDw9S"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
         "name": "Shabaka",
         "url": "https://open.spotify.com/album/46GQVv2jjSSb53Vn8nhy41"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 213400,
       "name": "Shabaka",
       "url": "https://open.spotify.com/track/12fXkI2VEpXy1xohgnOQlS"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
+        "name": "Let's Go Insane (Into The Madness 2023 OST)",
+        "url": "https://open.spotify.com/album/4CXFQdtkKxov3rjvmDsML2"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 215688,
+      "name": "Let's Go Insane (Into The Madness 2023 OST)",
+      "url": "https://open.spotify.com/track/321NLHCw7fk329HwnpDw9S"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Eternal Flame",
-        "url": "https://open.spotify.com/album/42wbAGw7UTNRHpNTPdg9li"
-      },
-      "artists": [
-        {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
-        },
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 177384,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/6hJOslrB3jquQksSqUTJ7Y"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4MzEIsQjND2tLFpckD4k4i"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 174504,
       "name": "Summer Is Magic",
       "url": "https://open.spotify.com/track/4fGMjp3k7d7OAx6y9zAIDN"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
+        "name": "Eternal Flame",
+        "url": "https://open.spotify.com/album/42wbAGw7UTNRHpNTPdg9li"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 177384,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/6hJOslrB3jquQksSqUTJ7Y"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -2175,26 +2175,6 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/1hbNdwhhlWA1Pbb56nWoK0"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
-        }
-      ],
-      "duration_ms": 221439,
-      "name": "Destination",
-      "url": "https://open.spotify.com/track/18oM3wT3P9tFxWC3Opzs18"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
         "name": "Everything is a Lie",
         "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
       },
@@ -2215,22 +2195,22 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "DYSYLM",
-        "url": "https://open.spotify.com/album/7stU3YRinedh6SaVUlFL1M"
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/1hbNdwhhlWA1Pbb56nWoK0"
       },
       "artists": [
         {
-          "name": "Gammer",
-          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
         },
         {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
         }
       ],
-      "duration_ms": 176051,
-      "name": "DYSYLM",
-      "url": "https://open.spotify.com/track/4tV6ku4jEYw9L5gZuNpCbP"
+      "duration_ms": 221439,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/18oM3wT3P9tFxWC3Opzs18"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -2255,6 +2235,26 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
+        "name": "DYSYLM",
+        "url": "https://open.spotify.com/album/7stU3YRinedh6SaVUlFL1M"
+      },
+      "artists": [
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        },
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        }
+      ],
+      "duration_ms": 176051,
+      "name": "DYSYLM",
+      "url": "https://open.spotify.com/track/4tV6ku4jEYw9L5gZuNpCbP"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
       },
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Sky Fall",
-        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "Sky Fall",
-      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
         "name": "Orange Heart (feat. Sian Evans)",
         "url": "https://open.spotify.com/album/1AjWr3eqVWrYD0cUB9buhr"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 230321,
       "name": "Orange Heart",
       "url": "https://open.spotify.com/track/5pwVSplL0EaOyuTphPipJX"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
+        "name": "Sky Fall",
+        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 215225,
+      "name": "Sky Fall",
+      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -2367,6 +2367,26 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
+        "name": "Dragonborn part 3 (Oceans Apart) [feat. Sian Evans]",
+        "url": "https://open.spotify.com/album/2l97HApmO6hOSm2bTQTnks"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Sian Evans",
+          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+        }
+      ],
+      "duration_ms": 210163,
+      "name": "Dragonborn part 3 (Oceans Apart)",
+      "url": "https://open.spotify.com/track/6c0vdY5EZOx8g95uWcp3uI"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
         "name": "HEAR THE NOISE",
         "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
       },
@@ -2387,18 +2407,22 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/0CdsPSUAFyI58HXxgQFLax"
+        "name": "Renaissance Of Rave",
+        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
       },
       "artists": [
         {
           "name": "Sub Zero Project",
           "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         }
       ],
-      "duration_ms": 188991,
-      "name": "HALO",
-      "url": "https://open.spotify.com/track/4R7k9w4XBSYSUhlmXFr4xm"
+      "duration_ms": 239111,
+      "name": "Soft Ass Shit",
+      "url": "https://open.spotify.com/track/31w4zlTpovdyggvHvdWBuV"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -2415,26 +2439,6 @@
       "duration_ms": 183945,
       "name": "Music Of The Mind",
       "url": "https://open.spotify.com/track/0KoIrrbZr8rMXhFQK8T5Eg"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
-        "name": "Dragonborn part 3 (Oceans Apart) [feat. Sian Evans]",
-        "url": "https://open.spotify.com/album/2l97HApmO6hOSm2bTQTnks"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        },
-        {
-          "name": "Sian Evans",
-          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
-        }
-      ],
-      "duration_ms": 210163,
-      "name": "Dragonborn part 3 (Oceans Apart)",
-      "url": "https://open.spotify.com/track/6c0vdY5EZOx8g95uWcp3uI"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -2555,22 +2559,6 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Silver Bullet",
-        "url": "https://open.spotify.com/album/3RB9nd2moNxaA2Wi3WQcOZ"
-      },
-      "artists": [
-        {
-          "name": "Phuture Noize",
-          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/3MBP4fVf4bkD4HH7M4oA7f"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
         "name": "Spaceman",
         "url": "https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla"
       },
@@ -2595,22 +2583,18 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Lift Me Up (Hard Mix)",
-        "url": "https://open.spotify.com/album/5QPKhPol4vmOWPk4K4XXHu"
+        "name": "Silver Bullet",
+        "url": "https://open.spotify.com/album/3RB9nd2moNxaA2Wi3WQcOZ"
       },
       "artists": [
         {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Lift Me Up - Hard Mix",
-      "url": "https://open.spotify.com/track/7t0KwFT5N5r1cFJloJAHGn"
+      "duration_ms": 182709,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/3MBP4fVf4bkD4HH7M4oA7f"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -2627,6 +2611,22 @@
       "duration_ms": 224516,
       "name": "Absolution",
       "url": "https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
+        "name": "Into Ecstasy",
+        "url": "https://open.spotify.com/album/35sHRlNmi8fHRpKSBvHew5"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Into Ecstasy",
+      "url": "https://open.spotify.com/track/20vPjvIzwKbrldAAuHcTwc"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -2655,18 +2655,22 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Into Ecstasy",
-        "url": "https://open.spotify.com/album/35sHRlNmi8fHRpKSBvHew5"
+        "name": "Lift Me Up (Hard Mix)",
+        "url": "https://open.spotify.com/album/5QPKhPol4vmOWPk4K4XXHu"
       },
       "artists": [
         {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 209032,
-      "name": "Into Ecstasy",
-      "url": "https://open.spotify.com/track/20vPjvIzwKbrldAAuHcTwc"
+      "duration_ms": 140000,
+      "name": "Lift Me Up - Hard Mix",
+      "url": "https://open.spotify.com/track/7t0KwFT5N5r1cFJloJAHGn"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -2943,6 +2947,22 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
+        "name": "Chaos & Crime",
+        "url": "https://open.spotify.com/album/5MUUC1zNpYjQexL7dvbQwA"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "Chaos & Crime",
+      "url": "https://open.spotify.com/track/6Ouzg40su5Hj3m1R0X32k6"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
         "name": "Break The Rules",
         "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
       },
@@ -2959,22 +2979,6 @@
       "duration_ms": 231157,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
-        "name": "Chaos & Crime",
-        "url": "https://open.spotify.com/album/5MUUC1zNpYjQexL7dvbQwA"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 199741,
-      "name": "Chaos & Crime",
-      "url": "https://open.spotify.com/track/6Ouzg40su5Hj3m1R0X32k6"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -3127,30 +3131,6 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
-        "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
-      },
-      "artists": [
-        {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        },
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        },
-        {
-          "name": "Cathrine Lassen",
-          "url": "https://open.spotify.com/artist/5i09Vd9N18qRJl2RcXODOp"
-        }
-      ],
-      "duration_ms": 197927,
-      "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
-      "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
         "name": "Until the Day I Die",
         "url": "https://open.spotify.com/album/7woGq9UgKhS6CSaxZhNshV"
       },
@@ -3171,6 +3151,30 @@
       "duration_ms": 191455,
       "name": "Until the Day I Die",
       "url": "https://open.spotify.com/track/3fuk0gZ8I1n2CYA2gsCtzH"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
+        "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
+        "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        {
+          "name": "Cathrine Lassen",
+          "url": "https://open.spotify.com/artist/5i09Vd9N18qRJl2RcXODOp"
+        }
+      ],
+      "duration_ms": 197927,
+      "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
+      "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -3395,26 +3399,6 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "WARHORN (E1: To War We Go)",
-        "url": "https://open.spotify.com/album/2Sf193pKD4kRf6LUVCdP2Q"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "WARHORN (E1: To War We Go)",
-      "url": "https://open.spotify.com/track/68jxUXJE9kZPHiEvXEIfPF"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
         "name": "Garden Of Magic",
         "url": "https://open.spotify.com/album/5h0gbPjUfmsOdrwKyV6EoI"
       },
@@ -3431,6 +3415,26 @@
       "duration_ms": 177387,
       "name": "Garden Of Magic",
       "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
+        "name": "WARHORN (E1: To War We Go)",
+        "url": "https://open.spotify.com/album/2Sf193pKD4kRf6LUVCdP2Q"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "WARHORN (E1: To War We Go)",
+      "url": "https://open.spotify.com/track/68jxUXJE9kZPHiEvXEIfPF"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -3619,30 +3623,6 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/3ciyeM3pmJDfeXrwUPS5XR"
-      },
-      "artists": [
-        {
-          "name": "Atmozfears",
-          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
-        },
-        {
-          "name": "Devin Wild",
-          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 198290,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/3yfalzV1vMd3dm7jzpCjii"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
         "name": "The Night (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7foUHVIJy7YFBDP1OFskL1"
       },
@@ -3659,6 +3639,30 @@
       "duration_ms": 148000,
       "name": "The Night - Hardstyle Mix",
       "url": "https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
+        "name": "EP 1",
+        "url": "https://open.spotify.com/album/7BdQV8jnl2ObHAi7I7y2CQ"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Casino Break",
+          "url": "https://open.spotify.com/artist/1eoC1wfP1kuYquEFPuhWt8"
+        }
+      ],
+      "duration_ms": 183638,
+      "name": "United As One",
+      "url": "https://open.spotify.com/track/5HiEqsOo0c9q1Ae9wODL6s"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -3775,6 +3779,30 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/3ciyeM3pmJDfeXrwUPS5XR"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 198290,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/3yfalzV1vMd3dm7jzpCjii"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
         "name": "See You",
         "url": "https://open.spotify.com/album/5Y6ldf67fe8DGh71d1HTLp"
       },
@@ -3819,6 +3847,22 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
+        "name": "TMY",
+        "url": "https://open.spotify.com/album/2FyJr0euIQ706Yk2zzNcnK"
+      },
+      "artists": [
+        {
+          "name": "Scabtik",
+          "url": "https://open.spotify.com/artist/6mRyTGlFH3JnDgukiZnQ3O"
+        }
+      ],
+      "duration_ms": 159998,
+      "name": "TMY",
+      "url": "https://open.spotify.com/track/3bVYgzFGeFpgX3kMeGjIEc"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
         "name": "Marble (Marc Blou Remix)",
         "url": "https://open.spotify.com/album/3spdRAdTkREkDVLdtBKzbM"
       },
@@ -3843,46 +3887,6 @@
       "duration_ms": 207230,
       "name": "Marble - Marc Blou Remix",
       "url": "https://open.spotify.com/track/68D3lp57w0TBdJd8Z64Exi"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
-        "name": "EP 1",
-        "url": "https://open.spotify.com/album/7BdQV8jnl2ObHAi7I7y2CQ"
-      },
-      "artists": [
-        {
-          "name": "Atmozfears",
-          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        },
-        {
-          "name": "Casino Break",
-          "url": "https://open.spotify.com/artist/1eoC1wfP1kuYquEFPuhWt8"
-        }
-      ],
-      "duration_ms": 183638,
-      "name": "United As One",
-      "url": "https://open.spotify.com/track/5HiEqsOo0c9q1Ae9wODL6s"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
-        "name": "TMY",
-        "url": "https://open.spotify.com/album/2FyJr0euIQ706Yk2zzNcnK"
-      },
-      "artists": [
-        {
-          "name": "Scabtik",
-          "url": "https://open.spotify.com/artist/6mRyTGlFH3JnDgukiZnQ3O"
-        }
-      ],
-      "duration_ms": 159998,
-      "name": "TMY",
-      "url": "https://open.spotify.com/track/3bVYgzFGeFpgX3kMeGjIEc"
     },
     {
       "added_at": "2023-10-16 17:58:10",
@@ -3939,22 +3943,6 @@
     {
       "added_at": "2023-10-16 17:58:10",
       "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/2uJIyCqmlx44HWXmU7Q1iY"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 174603,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/3FNx300XZ4FRDRYO7KlxNH"
-    },
-    {
-      "added_at": "2023-10-16 17:58:10",
-      "album": {
         "name": "Going Under",
         "url": "https://open.spotify.com/album/6lvZP6MlDwZivgJrwxjVaY"
       },
@@ -3983,6 +3971,22 @@
       "duration_ms": 161129,
       "name": "Summer Rave",
       "url": "https://open.spotify.com/track/0FVUfX7nw1bNQGBLTpTwX5"
+    },
+    {
+      "added_at": "2023-10-16 17:58:10",
+      "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2uJIyCqmlx44HWXmU7Q1iY"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 174603,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/3FNx300XZ4FRDRYO7KlxNH"
     }
   ],
   "unique_name": "Hardstyle Bangers",

@@ -1,12 +1,12 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 537593,
+  "num_followers": 537568,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjVjYmUwYmFkN2NkZjFlMDA5OGY4MzgzZTQ4Njc4ZWFmM2U4MjNj",
+  "snapshot_id": "MCw1NWNlMWQzZmE3N2IzMDMzZjBlNjUwMWM1ZjdlMThlNzUwMzYzZjNi",
   "tracks": [
     {
       "added_at": "2023-10-13 18:45:44",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -651,22 +667,6 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Paradise (feat. Dermot Kennedy)",
-      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "Better Days (NEIKED x Mae Muller x Polo G)",
         "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Paradise (feat. Dermot Kennedy)",
+      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Tell It To My Heart",
-        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 165524,
-      "name": "Tell It To My Heart",
-      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "Overexposed (Deluxe)",
         "url": "https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 219800,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "Tell It To My Heart",
+        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 165524,
+      "name": "Tell It To My Heart",
+      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
         "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 149438,
       "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184004,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "Superache",
         "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 153096,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184004,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 183070,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
       },
@@ -2163,34 +2179,18 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS"
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 183070,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 143573,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
+      "duration_ms": 182895,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -2211,18 +2211,18 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 182895,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
+      "duration_ms": 143573,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -2319,6 +2319,22 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 141218,
+      "name": "Shut Me Up",
+      "url": "https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -2339,22 +2355,6 @@
       "duration_ms": 139927,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
-        "name": "Good Times Go",
-        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        }
-      ],
-      "duration_ms": 141218,
-      "name": "Shut Me Up",
-      "url": "https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Get To Know You",
-        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
-      },
-      "artists": [
-        {
-          "name": "Samantha Harvey",
-          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Get To Know You",
-      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 193923,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "Get To Know You",
+        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
+      },
+      "artists": [
+        {
+          "name": "Samantha Harvey",
+          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Get To Know You",
+      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -2523,18 +2523,22 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Pretty Girl Era",
-        "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
       },
       "artists": [
         {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 155571,
-      "name": "Pretty Girl Era",
-      "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
+      "duration_ms": 207667,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -2559,22 +2563,18 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "I Don't Know Why",
-        "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
+        "name": "Pretty Girl Era",
+        "url": "https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY"
       },
       "artists": [
         {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
         }
       ],
-      "duration_ms": 207667,
-      "name": "I Don't Know Why",
-      "url": "https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV"
+      "duration_ms": 155571,
+      "name": "Pretty Girl Era",
+      "url": "https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -2679,26 +2679,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "AM:PM",
-        "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "AM:PM",
-      "url": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "You Know What I Need",
         "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
       },
@@ -2715,6 +2695,26 @@
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "AM:PM",
+        "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "AM:PM",
+      "url": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -2903,22 +2903,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "What I Want",
-        "url": "https://open.spotify.com/album/6vDRxpxvwxb2HHFsc1TM36"
-      },
-      "artists": [
-        {
-          "name": "Lena",
-          "url": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/3vXjK5wWAK9sbKsl9OkbuH"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "Made For You",
         "url": "https://open.spotify.com/album/7hbJvHvSUMfXoALTNkNd7z"
       },
@@ -2935,6 +2919,22 @@
       "duration_ms": 170893,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/0Gbp9aWNohZ4Kwdi75ntzT"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/6vDRxpxvwxb2HHFsc1TM36"
+      },
+      "artists": [
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/3vXjK5wWAK9sbKsl9OkbuH"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -3207,6 +3207,22 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
+        "name": "Sorry I\u2019m Late",
+        "url": "https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "I Wrote A Song",
+      "url": "https://open.spotify.com/track/4pgvkzREry5fLOKbkr0Z0W"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
         "name": "I Wanna Feel Good",
         "url": "https://open.spotify.com/album/1s6h54FeQ45AQ9l7xOHnuO"
       },
@@ -3223,22 +3239,6 @@
       "duration_ms": 132656,
       "name": "I Wanna Feel Good",
       "url": "https://open.spotify.com/track/0qoKp8HEp97wjjKfefHTRW"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
-        "name": "Sorry I\u2019m Late",
-        "url": "https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI"
-      },
-      "artists": [
-        {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "I Wrote A Song",
-      "url": "https://open.spotify.com/track/4pgvkzREry5fLOKbkr0Z0W"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -3495,6 +3495,22 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
+        "name": "Pacifico",
+        "url": "https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 213842,
+      "name": "Wave of You",
+      "url": "https://open.spotify.com/track/0GYjlsMiLhspkDFB6y7HDU"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
         "name": "Everybody Wants to Know Molly",
         "url": "https://open.spotify.com/album/6mb9I2SGtHqM2HYpWbUaxk"
       },
@@ -3523,22 +3539,6 @@
       "duration_ms": 170102,
       "name": "Call on Me",
       "url": "https://open.spotify.com/track/2GxkC3PeOaUd1FBVHkAyOU"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 213842,
-      "name": "Wave of You",
-      "url": "https://open.spotify.com/track/0GYjlsMiLhspkDFB6y7HDU"
     },
     {
       "added_at": "2023-10-13 18:45:44",

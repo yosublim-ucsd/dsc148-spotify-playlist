@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Sum 41 en portada.
 
-137 songs - 7 hr 26 min
+138 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Shred Cruz](https://open.spotify.com/track/2PfhxN59IQspC3t8OLsZLV) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Split](https://open.spotify.com/album/4D8SizoxWUnb4yG8PC1cdj) | 2:08 | 2023-09-23 |  |
 | [Siento](https://open.spotify.com/track/3SCNVBQtQbU18bgGBvPXOW) | [Mal Pasar](https://open.spotify.com/artist/3rFOwSVu18ny0UBce3HUy0) | [Siento](https://open.spotify.com/album/0f0lYdtu9kE6prjAUr7jiQ) | 3:34 | 2023-07-28 | 2023-09-24 |
 | [Soy Basura](https://open.spotify.com/track/5mwejIKy819KOkrl7RmNXD) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Soy Basura](https://open.spotify.com/album/3ESj5vJEa3xuiT8Bc0rQhu) | 1:48 | 2022-03-25 |  |
+| [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 | 2023-10-27 |  |
 | [The First Party on Mars](https://open.spotify.com/track/4R0szfTXAHewydqsTGFTks) | [El Universo](https://open.spotify.com/artist/2xGTBCrbaFoUdXGCqqJm8i) | [The First Party On Mars](https://open.spotify.com/album/2oejdiZunfLbKSGrOswfFm) | 3:36 | 2022-03-25 |  |
 | [Tibio](https://open.spotify.com/track/1Hb4Zgo4nV73Eh0oA19BuJ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk), [ALO](https://open.spotify.com/artist/7Mcl8NDOEXuaP9QJ3ATnR9) | [Niebla](https://open.spotify.com/album/6sVeGIf4gy3nzUJfg0iQsJ) | 6:24 | 2022-03-25 | 2022-12-13 |
 | [Tibio \(feat\. Alo\)](https://open.spotify.com/track/4YYkqEGlnnUP1Veadfw3kW) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/4vsAT0CdijFI9X3BUks2uv) | 6:24 | 2022-03-25 |  |

@@ -4,7 +4,7 @@
 
 > Éxitos románticos, de hoy y de siempre\. Foto: Laura Pausini
 
-460 songs - 1 day 6 hr 51 min
+461 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Nada](https://open.spotify.com/track/1D8bmUIhLHEO4KMS2SHwUx) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:09 | 2022-01-25 |  |
 | [Nada Es Para Siempre](https://open.spotify.com/track/5ToI5oXnUmX5Nsmg8enL1N) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Paso A Paso](https://open.spotify.com/album/43GuWlqbeht6837v73SsMw) | 3:59 | 2022-01-25 |  |
 | [Nada Es Para Siempre](https://open.spotify.com/track/7Fk4GdWusuxSDabJKzyzbt) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Paso A Paso](https://open.spotify.com/album/2wUTG1dzhysnXSG55rIplz) | 3:59 | 2022-01-25 | 2022-07-26 |
+| [Necesito Un Segundo](https://open.spotify.com/track/5GNaL2WTTktz5QBFncqVHQ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailemos Otra Vez](https://open.spotify.com/album/1HatE1hzYec4CLoN4TJcKI) | 2:23 | 2023-10-27 |  |
 | [No Ha Parado De Llover](https://open.spotify.com/track/0Rw7jcRFxo9ZaQt1aXl4vi) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Cuando Los Ángeles Lloran](https://open.spotify.com/album/4uhN5wRLcv9KRGcrUR8EQd) | 5:21 | 2022-01-25 | 2022-07-27 |
 | [No Hace Falta](https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Que Nada Nos Separe](https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY) | 4:27 | 2022-01-25 |  |
 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 | 2022-01-25 |  |
@@ -383,7 +384,7 @@
 | [Te Acuerdas](https://open.spotify.com/track/4Oy75mbculFYO26JYtc8DN) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Te Acuerdas](https://open.spotify.com/album/2Txo9Wjv50Xxg8m9fgc5h1) | 3:25 | 2023-08-18 |  |
 | [Te amaré \- MTV Unplugged](https://open.spotify.com/track/1cRNYYuGsB59ymqi6wvTbU) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 5:33 | 2022-01-25 |  |
 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 | 2022-01-25 |  |
-| [Te Amo y Punto](https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Te Amo y Punto](https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK) | 2:45 | 2023-01-06 |  |
+| [Te Amo y Punto](https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Te Amo y Punto](https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK) | 2:45 | 2023-01-06 | 2023-10-28 |
 | [Te Confieso](https://open.spotify.com/track/6WbExfpFDEH3UJYPLqoobv) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Hacia Adentro](https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL) | 3:14 | 2022-01-25 | 2022-07-28 |
 | [Te Conozco](https://open.spotify.com/track/7FdAQ7CXm9yS4DBtIKopLi) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Solo](https://open.spotify.com/album/2FQeikDvH8PH7JhunCQ6j1) | 4:10 | 2022-01-25 | 2022-07-29 |
 | [Te Echo de Menos](https://open.spotify.com/track/5OkWLb3GzvjYUrhSpQFbvn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Cautivo \(Bonus Tracks Version\)](https://open.spotify.com/album/56XF9cEO2rG5Btx9Dl17Jz) | 3:27 | 2022-01-25 | 2022-07-25 |

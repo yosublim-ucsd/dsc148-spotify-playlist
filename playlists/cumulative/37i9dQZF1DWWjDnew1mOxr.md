@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Picture Parlour
 
-178 songs - 10 hr 19 min
+181 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Blisters](https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Blisters](https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP) | 2:59 | 2023-02-03 |  |
 | [Body Paint](https://open.spotify.com/track/42GuKw49pPxNAkIhWGwgFs) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:50 | 2023-07-28 |  |
 | [Boys Like Me](https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS) | [Retro Video Club](https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3) | [SITUATIONS](https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5) | 2:59 | 2023-01-10 | 2023-10-20 |
+| [Brakelights](https://open.spotify.com/track/7HbYvg6Ghiw0Ipxw4wa7L6) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Brakelights](https://open.spotify.com/album/1PrcKV1b7YuPD7HgTq9mFo) | 3:20 | 2023-10-27 |  |
 | [Brianstorm](https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:50 | 2023-06-13 | 2023-07-29 |
 | [Bring Us Down](https://open.spotify.com/track/3h2RARW0N82V81Del0u88T) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:22 | 2023-07-28 |  |
 | [Broken Record](https://open.spotify.com/track/4lJGdVwM01Ia6LNb5EKExD) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Broken Record](https://open.spotify.com/album/2OBZGtnZuaTrD3DBNhmlf0) | 3:57 | 2023-01-10 | 2023-02-10 |
@@ -60,7 +61,7 @@
 | [Fading](https://open.spotify.com/track/3PTwnUE0HTAvBnhiqFVi9Y) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Fading](https://open.spotify.com/album/0yNfE1sA8oc97MG7DoVRnq) | 3:06 | 2023-01-10 | 2023-02-24 |
 | [Fading Away](https://open.spotify.com/track/6Nyv3dj56fcQPKsNityR0p) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fading Away](https://open.spotify.com/album/5VbFZPiASp3zmXHDVIcG3V) | 3:26 | 2023-10-20 |  |
 | [Falling](https://open.spotify.com/track/4U1lnceYei81AcieKqPxIs) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [World I Understand](https://open.spotify.com/album/2ESEsbqDurKc7fCmduKViu) | 2:53 | 2023-01-10 | 2023-04-01 |
-| [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 | 2023-02-03 |  |
+| [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 | 2023-02-03 | 2023-10-28 |
 | [Feel for Me](https://open.spotify.com/track/1RLPKYPsBtuOnrSAXAILae) | [Lissy Taylor](https://open.spotify.com/artist/15ZEwlfPIbAiAR20HklpR4) | [Feel for Me](https://open.spotify.com/album/1hPsPaR9azk6Yc7whUkSQP) | 3:22 | 2023-07-28 | 2023-10-10 |
 | [Feels So Real](https://open.spotify.com/track/3FT6FDtU2POsP0XAcqtAsh) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [The Clockworks](https://open.spotify.com/album/5yy6SxQG6UFCXMP6wDAUJR) | 3:32 | 2023-01-10 | 2023-09-20 |
 | [Female of the Species](https://open.spotify.com/track/2K8kox96chIc5gFJVRWJgg) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [A Sense Of Doubt](https://open.spotify.com/album/7rarto0TdC6zceBil7cgxK) | 3:06 | 2023-09-19 |  |
@@ -76,6 +77,7 @@
 | [Going Nowhere](https://open.spotify.com/track/07PfgizN70SFfSP134eAU2) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [People Like Me & You](https://open.spotify.com/album/5CctSFDfkZCmQOp5vMfGA4) | 3:56 | 2023-08-04 |  |
 | [Good Luck Charm](https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [Good Luck Charm](https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf) | 3:07 | 2023-04-18 |  |
 | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/album/53R61BIJ4taXnBztmuLVNH) | 2:18 | 2023-01-10 | 2023-10-01 |
+| [Happy Cars](https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Happy Cars](https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw) | 3:17 | 2023-10-27 |  |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2023-01-10 | 2023-02-24 |
 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 | 2023-06-28 |  |
 | [Hold Yr Horses](https://open.spotify.com/track/5gKekPljHBtFvuQcaMOnii) | [ERNIE](https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J) | [Hold Yr Horses](https://open.spotify.com/album/20OuG64r08ZIIaxArM2Spc) | 2:32 | 2023-09-19 |  |
@@ -129,7 +131,7 @@
 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 | 2023-02-24 | 2023-10-20 |
 | [Over and over](https://open.spotify.com/track/41mJD5RHlzYqnDLOVhX5f6) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Over and over](https://open.spotify.com/album/5AfjwhZxK3ERoaEuXsVhzt) | 4:24 | 2023-01-10 | 2023-08-04 |
 | [Patsy Decline](https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0) | [RATS](https://open.spotify.com/artist/0xS02ATWv2azbvKGV4Evc0) | [Jenny / Patsy Decline](https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD) | 2:46 | 2023-01-10 |  |
-| [People Should Know Better](https://open.spotify.com/track/3jB0zfTTSyyQZpKMb53I2f) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Outside Of The Blue](https://open.spotify.com/album/67gfgBg54Xsi0xWtPZmYU4) | 3:15 | 2023-09-19 |  |
+| [People Should Know Better](https://open.spotify.com/track/3jB0zfTTSyyQZpKMb53I2f) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Outside Of The Blue](https://open.spotify.com/album/67gfgBg54Xsi0xWtPZmYU4) | 3:15 | 2023-09-19 | 2023-10-28 |
 | [People Should Know Better](https://open.spotify.com/track/4Bpbxr9vcHMeGli1o6kdfP) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Outside Of The Blue](https://open.spotify.com/album/0FF4blsWcpcL8pnUYimqyf) | 3:15 | 2023-01-10 | 2023-08-11 |
 | [PRAWN SOUP](https://open.spotify.com/track/5PEH48ZYmU1Ewx15tFJz6w) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [Prawn Soup](https://open.spotify.com/album/79n2NMO61v0yMwY65V0t9y) | 2:33 | 2023-09-19 | 2023-10-20 |
 | [Pretend](https://open.spotify.com/track/4JyTqHzS1hrQO62v0mGRep) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Pretend](https://open.spotify.com/album/02h2495vFYmNXvFZlFMavz) | 3:37 | 2023-01-10 | 2023-03-14 |
@@ -138,7 +140,7 @@
 | [Remember All The Girls](https://open.spotify.com/track/7EPUyFHUWXCSmu5EoO58ET) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Remember All The Girls](https://open.spotify.com/album/6fb4iHgNQBpYtLjcFD3W82) | 3:42 | 2023-07-28 |  |
 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 | 2023-03-31 |  |
 | [Ritual Of The Crocodile Men](https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Electric Kool\-Aid \(Pt\. 2\)](https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI) | 3:57 | 2023-01-10 | 2023-09-20 |
-| [Sad Boys](https://open.spotify.com/track/6uwXSUhQeW0jKH5fZrgYzb) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sad Boys](https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2) | 3:12 | 2023-10-20 |  |
+| [Sad Boys](https://open.spotify.com/track/6uwXSUhQeW0jKH5fZrgYzb) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sad Boys](https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2) | 3:12 | 2023-10-20 | 2023-10-28 |
 | [Say My Name](https://open.spotify.com/track/3LIWMXIo6rPoo9Slcd1PaK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Say My Name](https://open.spotify.com/album/6ZN13CtDuZ3JAaTB8SFlZv) | 3:50 | 2023-01-10 | 2023-03-14 |
 | [Sertraline](https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK) | [The Lottery Winners](https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b) | [Anxiety Replacement Therapy](https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu) | 3:06 | 2023-05-11 |  |
 | [Seven Bridge Road](https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Seven Bridge Road](https://open.spotify.com/album/2nZyKUC7zSptFMxwCXYK44) | 4:26 | 2023-01-10 |  |
@@ -168,6 +170,7 @@
 | [Tired Minds](https://open.spotify.com/track/4ltKJxYykFeDCVLTMIaN8f) | [Voodoos](https://open.spotify.com/artist/5ya7iEj2gouDgi5aFiA1e8) | [Tired Minds](https://open.spotify.com/album/43Q8naoUbm8TNvGrM3ljFD) | 3:15 | 2023-01-10 | 2023-09-19 |
 | [Towards the One](https://open.spotify.com/track/3lqzSzW8W2JAlWBVYUd78y) | [Lost Under Heaven](https://open.spotify.com/artist/634K1Y2zhBHexel2Ma4xsC) | [Towards the One](https://open.spotify.com/album/5ijkLq2XBXY1cre1jR0fQ7) | 6:34 | 2023-07-28 | 2023-08-05 |
 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 | 2023-04-18 |  |
+| [Up in the Air](https://open.spotify.com/track/1sBIJ6xCgg0uDzTd9M9u5u) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Up in the Air](https://open.spotify.com/album/30JsqeAvmGjYsrzVOr6s1a) | 2:40 | 2023-10-27 |  |
 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 | 2023-07-28 |  |
 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2023-01-10 |  |
 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 | 2023-01-10 |  |

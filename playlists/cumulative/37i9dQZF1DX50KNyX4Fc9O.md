@@ -4,10 +4,11 @@
 
 > Keep your finger on the pulse of pop\. Cover: Will Swinton
 
-431 songs - 22 hr 22 min
+432 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-26 |  |
 | [0 OR 100 \(SIDE A\)](https://open.spotify.com/track/3mj6Vpr689fQFjyXq6TInY) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V3](https://open.spotify.com/album/4B1AKRB1vuuwu8JoQHwDmW) | 2:23 | 2023-08-17 | 2023-09-22 |
 | [19](https://open.spotify.com/track/6a0ZeN6O0iB4cET1YJMuDg) | [WALTA](https://open.spotify.com/artist/1u5Zp5UwzGCydF4HunLqaJ) | [19](https://open.spotify.com/album/2CA3G1cDbqrUpiSw0UkNTT) | 3:25 | 2023-07-20 | 2023-09-15 |
 | [2 die 4 \(feat\. Charli XCX\)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:06 | 2023-08-17 | 2023-10-06 |

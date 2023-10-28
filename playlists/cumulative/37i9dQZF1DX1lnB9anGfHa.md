@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-212 songs - 14 hr 12 min
+213 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,11 +112,12 @@
 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 | 2020-10-20 | 2023-09-30 |
 | [MONEY CAN'T BUY](https://open.spotify.com/track/43Ti9176DSMC4AvCA5jq5q) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/150xIoPgnDoEfRvd0paiIc) | 2:50 | 2020-10-20 | 2022-07-29 |
 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 | 2020-10-20 | 2023-03-25 |
-| [Music Is The Drug](https://open.spotify.com/track/1BWGyrR8iDDXwhXmE5xmQQ) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Music Is The Drug](https://open.spotify.com/album/0tsuOcwGUKiitJ5ZbtwDiN) | 3:39 | 2022-08-31 |  |
+| [Music Is The Drug](https://open.spotify.com/track/1BWGyrR8iDDXwhXmE5xmQQ) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Music Is The Drug](https://open.spotify.com/album/0tsuOcwGUKiitJ5ZbtwDiN) | 3:39 | 2022-08-31 | 2023-10-28 |
 | [My Agenda](https://open.spotify.com/track/2aKrS1piFqGk1ZLs3DXTTw) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [My Agenda](https://open.spotify.com/album/0qGRzjp27bq0ZaOlSPr3JU) | 2:51 | 2020-10-20 | 2023-04-01 |
 | [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 | 2023-08-10 |  |
 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 | 2023-03-23 | 2023-05-11 |
 | [Nasty](https://open.spotify.com/track/0SfmpgvdH8nm4cfxc5vj1O) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nasty](https://open.spotify.com/album/59P8nU2rZUFJaavj4FHDg0) | 2:07 | 2020-10-20 | 2023-03-04 |
+| [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 | 2023-10-28 |  |
 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 | 2020-10-20 | 2023-01-04 |
 | [NOBODY](https://open.spotify.com/track/7H06sYnrGsMbWzAR377J8s) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/4Ukx5wyPQ367NvdLtQSkCp) | 1:56 | 2020-10-20 | 2022-07-29 |
 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 | 2023-05-12 |  |
@@ -216,7 +217,7 @@
 | [Плак\-Плак](https://open.spotify.com/track/3haUHC29mCGK6MrREqbONc) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [До Свидания](https://open.spotify.com/album/2Ji9U33Ljqdm4RdlBKXteF) | 3:23 | 2020-10-20 | 2022-09-15 |
 | [Прыгай](https://open.spotify.com/track/7keFTSP0LQMj09887ZCmxJ) | [МОНОНОКЕ](https://open.spotify.com/artist/73EIVLp8UyAWcjLK6Mty8S) | [Прыгай](https://open.spotify.com/album/2ASG6eVHytocsxAxuLrFAV) | 2:42 | 2020-10-20 | 2023-02-16 |
 | [СКАЗКА](https://open.spotify.com/track/1yMbPuYkplb5CZsq82cCl7) | [di liberta](https://open.spotify.com/artist/2bwZPyuLpiDOcE3L6pwWys), [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [РОДНОЙ](https://open.spotify.com/album/1lObcezMQtWheQU0OOH1uP) | 3:03 | 2022-11-25 | 2023-08-03 |
-| [страх](https://open.spotify.com/track/3nLrrqiK2mDKpazMEQhGHC) | [источник](https://open.spotify.com/artist/0RNBJmKvby1OTsxA1tobZi) | [POP TRIP](https://open.spotify.com/album/0p5ymdzYc3BbVR7Z40x0V8) | 3:23 | 2020-10-20 |  |
+| [страх](https://open.spotify.com/track/3nLrrqiK2mDKpazMEQhGHC) | [источник](https://open.spotify.com/artist/0RNBJmKvby1OTsxA1tobZi) | [POP TRIP](https://open.spotify.com/album/0p5ymdzYc3BbVR7Z40x0V8) | 3:23 | 2020-10-20 | 2023-10-28 |
 | [я больше не кусаюсь](https://open.spotify.com/track/4GPYu9OYnnYTCrp48EWroq) | [New Sylveon](https://open.spotify.com/artist/0Vp4znLLKyTx4GjsgDhNxX), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [я больше не кусаюсь](https://open.spotify.com/album/5G8d32CVqpHwlZX3idylbV) | 2:45 | 2020-10-20 | 2022-11-04 |
 | [埋立地](https://open.spotify.com/track/0rpo0rlGKgl5dMvjsSVI3F) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [埋立地](https://open.spotify.com/album/1HISdd7iujfV5Z2vpXKjkd) | 3:06 | 2022-02-18 | 2022-09-01 |
 | [埋立地](https://open.spotify.com/track/3h0oaWp8t7iJhViFhdzkdj) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [DREAM LAND](https://open.spotify.com/album/1OEGQXLpOEGx7i01ktPb51) | 3:06 | 2022-02-18 | 2023-02-16 |

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2392704,
+  "num_followers": 2392665,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODQyYThmY2MxOGFjYTYxYzJhYjZmOTQzMTYxY2VkZjFlMTE3NWE3",
+  "snapshot_id": "MCw5MjYzOWRhNmFjOWI5ZDg3N2NkNmJhM2UxZjE2YmYzOTRmODNmNWI0",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "2030",
-        "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
-      },
-      "artists": [
-        {
-          "name": "Gone Gone Beyond",
-          "url": "https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5"
-        },
-        {
-          "name": "Moontricks",
-          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
-        }
-      ],
-      "duration_ms": 209711,
-      "name": "Coast",
-      "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -439,6 +419,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "2030",
+        "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
+      },
+      "artists": [
+        {
+          "name": "Gone Gone Beyond",
+          "url": "https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5"
+        },
+        {
+          "name": "Moontricks",
+          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
+        }
+      ],
+      "duration_ms": 209711,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Bears & Bulls",
         "url": "https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Between the Country",
         "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 269083,
       "name": "Letter to Madeline",
       "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Dream Within a Dream",
-        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "Dream Within a Dream",
-      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/5uYr1aUdzhYkW4QkY45vPR"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 194000,
       "name": "Awake",
       "url": "https://open.spotify.com/track/3HJ5NJAWtxLPAru4wGGN7A"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Dream Within a Dream",
+        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 168080,
+      "name": "Dream Within a Dream",
+      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
     },
     {
       "added_at": "2023-09-15 04:00:00",

@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-146 songs - 6 hr 42 min
+147 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2023-01-13 |  |
 | [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 | 2023-01-12 | 2023-09-29 |
 | [Good feeling](https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Good feeling](https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s) | 2:15 | 2023-06-20 |  |
-| [Harvest Time](https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 3:00 | 2023-01-12 |  |
+| [Harvest Time](https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 3:00 | 2023-01-12 | 2023-10-28 |
 | [Heatwave](https://open.spotify.com/track/03gunYpOFHu4swpyry4QKX) | [Danny James](https://open.spotify.com/artist/2v04CAaxpr6sSELBPMOkoQ), [Es\-K](https://open.spotify.com/artist/0Ece4RFAFNTEpYaTHZWuhe), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Heatwave](https://open.spotify.com/album/5ifo18NW9f8DwVhvpTNJLg) | 3:11 | 2023-01-12 | 2023-09-29 |
 | [Heroic](https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Heroic](https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w) | 2:12 | 2023-09-29 |  |
 | [Hi](https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Hi](https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A) | 2:55 | 2023-09-29 |  |
@@ -101,6 +101,7 @@
 | [Orange Dawn](https://open.spotify.com/track/5h849dbRZVoyMM4hwKG2Om) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Orange Dawn](https://open.spotify.com/album/32XqONQww8kzR6E6Of9xXe) | 2:01 | 2023-01-12 |  |
 | [Orilla Del Mar](https://open.spotify.com/track/4sshFtDRFl9ZxlxnJg2IWk) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Orilla Del Mar](https://open.spotify.com/album/6qjFjgMpi6nHlYAWx80XRl) | 2:38 | 2023-01-12 |  |
 | [overtake on the outside](https://open.spotify.com/track/13wgIAjCCWKkebdUlPnS70) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [overtake on the outside](https://open.spotify.com/album/2cKPB2qD6K88rC6o3G7xaW) | 2:31 | 2023-08-24 |  |
+| [Paks](https://open.spotify.com/track/3f526KslwaHSuamZFabgvk) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Paks](https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW) | 2:48 | 2023-10-27 |  |
 | [Passenger](https://open.spotify.com/track/4a1xFaCJZT4HTeu2cW49Wa) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Passenger](https://open.spotify.com/album/4HOcowkkQ2CMEVj13FQdPF) | 2:35 | 2023-02-02 | 2023-09-22 |
 | [Pathways](https://open.spotify.com/track/65tWLAZnxG5UqOw0M07Pfs) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Howard B Thy Name 7](https://open.spotify.com/artist/6trXIx9xRq4iR7Oho2wdIy), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Pathways](https://open.spotify.com/album/4hm57vdkhtsFjYqcuUYcH4) | 3:29 | 2023-01-12 | 2023-09-21 |
 | [Peach Rings](https://open.spotify.com/track/3nt0tWlN3r4JPCqWBulqYS) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Daybreak](https://open.spotify.com/album/4JBCzFSYDYV4tP0Ty07jOj) | 2:41 | 2023-01-12 | 2023-10-25 |

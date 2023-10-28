@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: New West",
+  "description": "Home to all the latest indie jams. Cover: Caroline Polachek",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 214440,
       "name": "Above Me",
       "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
@@ -600,6 +600,24 @@
       "duration_ms": 228402,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/4FRWGnCl3aJOgkwhZWFoD6"
+    },
+    {
+      "album": {
+        "name": "adore u (Live from the Treehouse)",
+        "url": "https://open.spotify.com/album/4Bqwsu0e3jiPX38LS6jWui"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227884,
+      "name": "adore u (Live from the Treehouse)",
+      "url": "https://open.spotify.com/track/259K0DlR586fupbKcwQNBW"
     },
     {
       "album": {
@@ -846,7 +864,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 273492,
       "name": "alife",
       "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
@@ -3691,6 +3709,24 @@
     },
     {
       "album": {
+        "name": "The Silver Cord",
+        "url": "https://open.spotify.com/album/7iY6PA1ftgY8OKOzc2vBdo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226770,
+      "name": "Chang\u2019e",
+      "url": "https://open.spotify.com/track/3yyagteXLaWUhXcyLWQNGY"
+    },
+    {
+      "album": {
         "name": "Chariot",
         "url": "https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0"
       },
@@ -5076,7 +5112,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 315040,
       "name": "Days Of Lantana",
       "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
@@ -5570,7 +5606,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 179913,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/4T9hCzsaNX1UeZTapYuzFM"
@@ -10999,6 +11035,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream (Pay Phone)",
+        "url": "https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232466,
+      "name": "Ice Cream (Pay Phone)",
+      "url": "https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT"
+    },
+    {
+      "album": {
         "name": "Ice Slippin",
         "url": "https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv"
       },
@@ -11600,7 +11654,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 145549,
       "name": "it's not feeling good anymore",
       "url": "https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK"
@@ -12469,6 +12523,24 @@
     },
     {
       "album": {
+        "name": "Laff It Off",
+        "url": "https://open.spotify.com/album/3hMwjqhjjbPdaWpfN9dgVE"
+      },
+      "artists": [
+        {
+          "name": "Pony Girl",
+          "url": "https://open.spotify.com/artist/4AHK4mLrsycTVKUQMAUsy0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240121,
+      "name": "Laff It Off",
+      "url": "https://open.spotify.com/track/17NcVt20OyD8VbGoFnOHF4"
+    },
+    {
+      "album": {
         "name": "The Puppy Game",
         "url": "https://open.spotify.com/album/7ovIMyJ45vLwoRDnRSsxXm"
       },
@@ -12606,7 +12678,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 219320,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/7mYU5AQ4rc3RlVpQsV6iK8"
@@ -14874,6 +14946,28 @@
       "duration_ms": 247649,
       "name": "Never Apart",
       "url": "https://open.spotify.com/track/1ku2wcKgP7y0gQmLMUsp0D"
+    },
+    {
+      "album": {
+        "name": "Never Get Enough",
+        "url": "https://open.spotify.com/album/4AtPTZNc6lEMelJJEsGvMD"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260163,
+      "name": "Never Get Enough",
+      "url": "https://open.spotify.com/track/1v20BOUbOcMGKujbMQj3Li"
     },
     {
       "album": {
@@ -18762,7 +18856,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 196607,
       "name": "Settle & Fly",
       "url": "https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14"
@@ -19568,7 +19662,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 185361,
       "name": "SO HARD TO TELL",
       "url": "https://open.spotify.com/track/0895oFCAOSNQeUkRVR73bU"
@@ -20120,6 +20214,24 @@
       "duration_ms": 170920,
       "name": "Starstruck",
       "url": "https://open.spotify.com/track/1J3aj2c8KMR5lgc3l46gXV"
+    },
+    {
+      "album": {
+        "name": "Stay At Home Boy",
+        "url": "https://open.spotify.com/album/1LfuuCWYSKc907y3DyuaS6"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220077,
+      "name": "Stay At Home Boy",
+      "url": "https://open.spotify.com/track/2BVNealfFV7WBmQksBRn9q"
     },
     {
       "album": {
@@ -21833,6 +21945,24 @@
     },
     {
       "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D"
+    },
+    {
+      "album": {
         "name": "The Way Forward",
         "url": "https://open.spotify.com/album/2OLWdWzysnCcq5Iq0kSlc0"
       },
@@ -23291,6 +23421,24 @@
     },
     {
       "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438400,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE"
       },
@@ -23360,7 +23508,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
@@ -23584,10 +23732,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
+      "album": {
+        "name": "Wasterpiece",
+        "url": "https://open.spotify.com/album/1OgkglNXgSMZsMzSlDjOAg"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191402,
+      "name": "Wasterpiece",
+      "url": "https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc"
     },
     {
       "album": {
@@ -24770,6 +24936,24 @@
       "duration_ms": 228466,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6fzQJpSFtaQtJpH1yixZBj"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199442,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2UU7FM7tUukAUjUDYWmYdq"
     },
     {
       "album": {

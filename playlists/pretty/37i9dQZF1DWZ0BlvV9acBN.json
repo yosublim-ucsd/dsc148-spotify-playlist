@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Trazendo a Arca",
-  "num_followers": 130960,
+  "num_followers": 131029,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmY5YjJlNDI1N2VkNjQ2Y2UzN2QyZTUzMzJkZGVmOTkwZmYxOTI1",
+  "snapshot_id": "MCw0ZGRlZmIwZGJlNGFhNjg0YjllNjQzZWNjNWZkY2I4ZDI0MGJjY2Yx",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -395,30 +395,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Dia De Milagres",
-        "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
-      },
-      "artists": [
-        {
-          "name": "Lakewood Music",
-          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
-        },
-        {
-          "name": "Ramiro Garcia",
-          "url": "https://open.spotify.com/artist/32tEqBlwNmhk5cYycFIbxZ"
-        },
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 262480,
-      "name": "Dia De Milagres",
-      "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Onde Tem Lenha",
         "url": "https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI"
       },
@@ -439,6 +415,30 @@
       "duration_ms": 594705,
       "name": "Onde Tem Lenha",
       "url": "https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Dia De Milagres",
+        "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Ramiro Garcia",
+          "url": "https://open.spotify.com/artist/32tEqBlwNmhk5cYycFIbxZ"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 262480,
+      "name": "Dia De Milagres",
+      "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Salazar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
+        "name": "ELE \u00c9 EXALTADO",
+        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
       },
       "artists": [
         {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 380250,
-      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
+      "duration_ms": 298342,
+      "name": "ELE \u00c9 EXALTADO",
+      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "ELE \u00c9 EXALTADO",
-        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
+        "name": "Salazar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
       },
       "artists": [
         {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
         }
       ],
-      "duration_ms": 298342,
-      "name": "ELE \u00c9 EXALTADO",
-      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
+      "duration_ms": 380250,
+      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "NAVES IMPERIAIS",
         "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 314137,
       "name": "NAVES IMPERIAIS",
       "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Te Seguirei",
         "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 225000,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Quebre as Correntes",
-        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
+        "name": "Vem Cantar - Salmo 95",
+        "url": "https://open.spotify.com/album/4xZH5F4dsOX652q4btTdAx"
       },
       "artists": [
         {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+          "name": "Tanlan",
+          "url": "https://open.spotify.com/artist/1tVNmuJHlGbAP5y5Wl2Vdj"
         }
       ],
-      "duration_ms": 248348,
-      "name": "Quebre as Correntes",
-      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
+      "duration_ms": 220031,
+      "name": "Vem Cantar - Salmo 95",
+      "url": "https://open.spotify.com/track/1isclXANLY4ny3quvpST7p"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Vem Cantar - Salmo 95",
-        "url": "https://open.spotify.com/album/4xZH5F4dsOX652q4btTdAx"
+        "name": "Quebre as Correntes",
+        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
       },
       "artists": [
         {
-          "name": "Tanlan",
-          "url": "https://open.spotify.com/artist/1tVNmuJHlGbAP5y5Wl2Vdj"
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
         }
       ],
-      "duration_ms": 220031,
-      "name": "Vem Cantar - Salmo 95",
-      "url": "https://open.spotify.com/track/1isclXANLY4ny3quvpST7p"
+      "duration_ms": 248348,
+      "name": "Quebre as Correntes",
+      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
     },
     {
       "added_at": "2023-10-20 03:00:00",

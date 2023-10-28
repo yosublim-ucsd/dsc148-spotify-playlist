@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,055 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,150 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 33 | [Rollin’ Girl](https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [Exit Tunes Presents Supernova](https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X) | 3:14 |
 | 34 | [ミライどんなだろう \(feat\. 初音ミク\)](https://open.spotify.com/track/5Yi76YNCI6gav37aKqZugz) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ミライどんなだろう](https://open.spotify.com/album/7vowTD5xDgYuBSEm242RAL) | 3:29 |
 | 35 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
-| 36 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
-| 37 | [ヒバナ \-Reloaded\-](https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:26 |
+| 36 | [ヒバナ \-Reloaded\-](https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:26 |
+| 37 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
 | 38 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 39 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
 | 40 | [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 |
 | 41 | [villain](https://open.spotify.com/track/5KE5i73iG4A7h8OyqyIaZK) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [villain](https://open.spotify.com/album/2pqS8lGfitHmyRukdGRkZ7) | 3:20 |
-| 42 | [Whisper Whisper Whisper](https://open.spotify.com/track/1fcR1xtq85n7k14tRuCsjw) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Whisper Whisper Whisper](https://open.spotify.com/album/7DGoBmJVnFgvFxu3zBBa6O) | 2:04 |
-| 43 | [DARLING DANCE](https://open.spotify.com/track/32cvZTXsJi4EzkvVDMH4Ij) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:26 |
-| 44 | [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 |
+| 42 | [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 |
+| 43 | [Whisper Whisper Whisper](https://open.spotify.com/track/1fcR1xtq85n7k14tRuCsjw) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Whisper Whisper Whisper](https://open.spotify.com/album/7DGoBmJVnFgvFxu3zBBa6O) | 2:04 |
+| 44 | [DARLING DANCE](https://open.spotify.com/track/32cvZTXsJi4EzkvVDMH4Ij) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:26 |
 | 45 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
 | 46 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 |
 | 47 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 |
 | 48 | [God\-ish](https://open.spotify.com/track/08Th6KDn0ESaxZis89HxRo) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:25 |
 | 49 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
-| 50 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
+| 50 | [愛するように](https://open.spotify.com/track/0eAARuSD98FKHlmlKtmVUr) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [愛するように](https://open.spotify.com/album/2qiWHFrlAcxy9us0awqP1O) | 2:46 |
 
-Snapshot ID: `MCw1YzNmZjI2NjhjNGI3MzMyNjJmMjVmYzkzM2MwM2RkNTU0NTE0ZGU1`
+Snapshot ID: `MCxiMzVjNmI4YWQzOWFkODAwZjFlM2U5ZWU0OTA5ZDQzNWM5ZGY1NDRk`

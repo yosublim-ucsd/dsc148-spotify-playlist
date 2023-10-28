@@ -1,12 +1,12 @@
 {
   "description": "Music by our 2023 Artists To Watch. Cover: Ivan Cornejo",
-  "num_followers": 3624,
+  "num_followers": 3635,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOThjMGUwMTAwNjVjZmFjN2U5OTE0M2ZiMGUzMjk2NzIyY2NhMmM1",
+  "snapshot_id": "MCw1MmRlYWY1ZGM5NGNjYjcwNGE4MmNiYTYzODRkZjBhODVlODNmNjI3",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Reina de la Selva",
-        "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "Reina de la Selva",
-      "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "te kiero ver",
         "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 147224,
       "name": "te kiero ver",
       "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Reina de la Selva",
+        "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Reina de la Selva",
+      "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
     },
     {
       "added_at": "2023-10-13 04:00:00",

@@ -3494,7 +3494,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -14210,7 +14210,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 197014,
       "name": "\u05e2\u05d8\u05dc\u05e3 \u05e2\u05d9\u05d5\u05d5\u05e8",
       "url": "https://open.spotify.com/track/58m9mqwBLliFpIFSYzprSn"
@@ -15160,7 +15160,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 151442,
       "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"
@@ -15858,6 +15858,28 @@
       "duration_ms": 196235,
       "name": "\u05ea\u05e8\u05d0\u05d9 \u05d0\u05d4\u05d5\u05d1\u05ea\u05d9",
       "url": "https://open.spotify.com/track/6uCZdJ3p3hrfi6mRKVtt7k"
+    },
+    {
+      "album": {
+        "name": "\u05ea\u05e8\u05e7\u05d5\u05d3 \u05dc\u05e0\u05e6\u05d7",
+        "url": "https://open.spotify.com/album/7gCZApUPjkkS1mdOLMTTbQ"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296400,
+      "name": "\u05ea\u05e8\u05e7\u05d5\u05d3 \u05dc\u05e0\u05e6\u05d7",
+      "url": "https://open.spotify.com/track/3mITeXQ9Dt7M6nTutuNtsx"
     },
     {
       "album": {

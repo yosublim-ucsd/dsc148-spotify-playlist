@@ -4,10 +4,11 @@
 
 > La fiesta se enciende con cumbia, de la buena!<br/>Foto: La Combo Tortuga.
 
-106 songs - 6 hr 22 min
+107 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [3 AM](https://open.spotify.com/track/5uyUokRn9ryuEJ7hczuAcg) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [3 AM](https://open.spotify.com/album/0DkYroeRYdlhcp3kklyomb) | 3:13 | 2023-10-27 |  |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-08-25 |  |
 | [Ahora Te Vas](https://open.spotify.com/track/56bRszcPDb7BxZe1mhsFI1) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Ahora Te Vas](https://open.spotify.com/album/4QB8hOu5rT30gVesBpgYek) | 3:56 | 2023-08-25 |  |
 | [Alerta Sonidera](https://open.spotify.com/track/3m8Bu67gUPXTixGo6VXTvz) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Cumbia Casera](https://open.spotify.com/album/2ML2QNYZaJgM8lhFRg3Kp6) | 4:22 | 2023-08-25 |  |
@@ -37,7 +38,7 @@
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-08-25 |  |
 | [Gorilón](https://open.spotify.com/track/5qo7QuIHk4TRWicgdsoNei) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Lalo Ibeas](https://open.spotify.com/artist/76VBDerpJjzDOGwwgQqiEt) | [Acá Todos los Monos Bailan](https://open.spotify.com/album/5nsF0Nok7gtgnDGjp5px1N) | 3:36 | 2023-08-25 |  |
 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2023-08-25 |  |
-| [Inestable](https://open.spotify.com/track/0LNP7ifJkxGeEvP6sFchy5) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Forest](https://open.spotify.com/artist/2j6Up11EpEUKQ5yIfFXhdU) | [Inestable](https://open.spotify.com/album/1CWPJ17Uaat4JP9IbrXlQr) | 2:45 | 2023-08-25 |  |
+| [Inestable](https://open.spotify.com/track/0LNP7ifJkxGeEvP6sFchy5) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Forest](https://open.spotify.com/artist/2j6Up11EpEUKQ5yIfFXhdU) | [Inestable](https://open.spotify.com/album/1CWPJ17Uaat4JP9IbrXlQr) | 2:45 | 2023-08-25 | 2023-10-28 |
 | [La Cuarentena](https://open.spotify.com/track/4v0e1iR0t2e3lVHPuQZlea) | [Los Super Korsarios Del Amor](https://open.spotify.com/artist/0ZnJaxfplCgAKgbb8C6ecX) | [La Cuarentena](https://open.spotify.com/album/17OmyTx1GDRmsTb4zNYPCQ) | 3:52 | 2023-08-25 |  |
 | [La Mujer Que Amas](https://open.spotify.com/track/6qq3vgo9RQ1YhX8qDNSKLE) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [La Mujer Que Amas](https://open.spotify.com/album/0W6tsKF0lp12OWYV45Jkr3) | 3:56 | 2023-08-25 |  |
 | [La Tortuga Vacilona](https://open.spotify.com/track/6ugIHliLvfqeh3WVn3gLEE) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [La Terrible Pulenta](https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4) | 3:41 | 2023-08-25 |  |
@@ -54,7 +55,7 @@
 | [Me Apuñalé](https://open.spotify.com/track/78DakQmH1J5YR1xfOdJsD4) | [Sonora Barón](https://open.spotify.com/artist/3IrgBju6MoDqMqxSUB3zCk) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 4:15 | 2023-08-25 |  |
 | [Me Emborrachare](https://open.spotify.com/track/6UmL7VOgbpvvRCGeqJnKrK) | [Jordan](https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k) | [Me Emborracharé](https://open.spotify.com/album/5YfG3oN7ijMQljJo7Z3gBI) | 4:02 | 2023-08-25 |  |
 | [Me Enamore](https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:32 | 2023-08-25 |  |
-| [Me Gusta Tomar](https://open.spotify.com/track/04dOHfrM70Z22u7Z2SNrAO) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Me Gusta Tomar](https://open.spotify.com/album/0hTy6ojNpjJhBenQeB3APk) | 3:50 | 2023-08-25 |  |
+| [Me Gusta Tomar](https://open.spotify.com/track/04dOHfrM70Z22u7Z2SNrAO) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Me Gusta Tomar](https://open.spotify.com/album/0hTy6ojNpjJhBenQeB3APk) | 3:50 | 2023-08-25 | 2023-10-28 |
 | [Me Gustan Todas](https://open.spotify.com/track/63hB1JJCJoyEn6AHMrkvh4) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Seguimos Vacilando](https://open.spotify.com/album/5haOD8BT0MxCdZQhs2JVoV) | 3:30 | 2023-08-25 |  |
 | [Me Tienes Que Olvidar / Tu Príncipe / Amor de Colegio / Baby Cuentale / Tu No Sabes](https://open.spotify.com/track/57wnGwuzxZIS7AjjTIEy8l) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Me Tienes Que Olvidar / Tu Principe / Amor de Colegio / Baby Cuentale / Tu No Sabes](https://open.spotify.com/album/3UWX5hb5szWplNu1vU4iN7) | 7:48 | 2023-08-25 |  |
 | [Mentira](https://open.spotify.com/track/1NpqV60GHzxPrINvbo14tH) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 3:20 | 2023-08-25 |  |

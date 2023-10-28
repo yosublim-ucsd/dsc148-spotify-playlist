@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Polimá Westcoast
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,926 likes - 59 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,944 likes - 59 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 43 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
 | 44 | [Anormales](https://open.spotify.com/track/6WDpZh5KVSshn7PWnhHlqY) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Anormales](https://open.spotify.com/album/2daADHTTdKChlNqaIQ9cMD) | 3:28 |
 | 45 | [Betty](https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Betty](https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve) | 2:53 |
-| 46 | [Sugar Boi](https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Sugar Boi](https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb) | 2:54 |
+| 46 | [La Incondicional](https://open.spotify.com/track/4CLM8zLq72polDBRjlo8K4) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Ella](https://open.spotify.com/album/1BSgpeCZhcy8xuonUDsNcD) | 3:15 |
 | 47 | [Holy Ghost $$$](https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Holy Ghost $$$](https://open.spotify.com/album/4pWMN5lBEFrwZde1kdCqrh) | 2:37 |
-| 48 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 |
-| 49 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
-| 50 | [La Incondicional](https://open.spotify.com/track/4CLM8zLq72polDBRjlo8K4) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Ella](https://open.spotify.com/album/1BSgpeCZhcy8xuonUDsNcD) | 3:15 |
+| 48 | [Sugar Boi](https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Sugar Boi](https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb) | 2:54 |
+| 49 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 |
+| 50 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
 | 51 | [Maya](https://open.spotify.com/track/0FcOIIBRs6eW2YGonS4z9r) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Maya](https://open.spotify.com/album/7pXHSP4BzhDOQvm6W3k00v) | 3:07 |
 | 52 | [Saque Otro Tema](https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Saque Otro Tema](https://open.spotify.com/album/07P3YTWehCjPYI571sbkew) | 2:51 |
 | 53 | [Probando Freestyle](https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338) | [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir) | [Probando Freestyle](https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC) | 1:05 |
@@ -66,6 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 56 | [Mírame](https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Pa' El Alma](https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY) | 3:20 |
 | 57 | [Rojo Rubí \- Rompiendo La Cadera](https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí](https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk) | 3:25 |
 | 58 | [94](https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [94](https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf) | 2:33 |
-| 59 | [Solita](https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Mystro](https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4) | [Champion Ninz](https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31) | 2:19 |
+| 59 | [Dime La Verdad](https://open.spotify.com/track/2ksfEETsqZ0La3QnJcfxbV) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql), [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:15 |
 
-Snapshot ID: `MCwxZGRlMTViMTA0NzI0MDYzNzJjOWY5NWMxNjZjMDgxNThkOGNkMjE2`
+Snapshot ID: `MCwxYjBhZWU4YjZjOTE2ZWFmMzRkY2NiMWU5ZjJkNzZkMmM1MzI4ZDU1`

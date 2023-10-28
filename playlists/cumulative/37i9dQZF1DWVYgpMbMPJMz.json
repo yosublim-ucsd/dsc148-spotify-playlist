@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 374000,
       "name": "Blessed Hope",
       "url": "https://open.spotify.com/track/3H6iKMChByrfpP2sGGKrQC"
@@ -2316,6 +2316,36 @@
       "duration_ms": 672449,
       "name": "For Jesus - Live",
       "url": "https://open.spotify.com/track/3Q4HYGKbnvef8zm6TTjCph"
+    },
+    {
+      "album": {
+        "name": "The Maverick Way Complete",
+        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498332,
+      "name": "For My Good (feat. Todd Galberth)",
+      "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
     },
     {
       "album": {
@@ -4044,7 +4074,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
@@ -9256,6 +9286,24 @@
       "duration_ms": 338600,
       "name": "Willing to Change",
       "url": "https://open.spotify.com/track/5K2MDi900QPy45ttSJwvJi"
+    },
+    {
+      "album": {
+        "name": "Here For It",
+        "url": "https://open.spotify.com/album/09RjBOAUSdKzernJEEqxGy"
+      },
+      "artists": [
+        {
+          "name": "VIVE Worship",
+          "url": "https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510057,
+      "name": "Wind and Waves - Live",
+      "url": "https://open.spotify.com/track/55eZmwsHhxdBiv9Z8CVRY5"
     },
     {
       "album": {

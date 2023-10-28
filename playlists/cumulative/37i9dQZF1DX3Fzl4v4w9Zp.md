@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-549 songs - 1 day 10 hr 2 min
+550 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 | 2022-08-05 | 2023-09-23 |
 | [Orphan Child](https://open.spotify.com/track/6aK8AIxvkuiYE1sHdxrYcb) | [Jeremy Ivey](https://open.spotify.com/artist/08Gc0o3GdjIKtQVoNYaVNG) | [Orphan Child](https://open.spotify.com/album/4SyrS57R0V9jB7LB1ty6Qw) | 3:57 | 2022-01-21 | 2022-05-20 |
 | [Other Side](https://open.spotify.com/track/19kDyB6HprmUSzBvPbpkTl) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Other Side](https://open.spotify.com/album/75nchWQhiPgAjVdXsNLOaY) | 4:13 | 2022-05-27 | 2023-09-09 |
-| [Oughta See You \(The Way I Do\)](https://open.spotify.com/track/7tkXLhjS4lZjuykWzGkBF7) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Oughta See You \(The Way I Do\)](https://open.spotify.com/album/71vntnzbDCNp3CpFc0RiET) | 3:55 | 2023-08-25 |  |
+| [Oughta See You \(The Way I Do\)](https://open.spotify.com/track/7tkXLhjS4lZjuykWzGkBF7) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Oughta See You \(The Way I Do\)](https://open.spotify.com/album/71vntnzbDCNp3CpFc0RiET) | 3:55 | 2023-08-25 | 2023-10-28 |
 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 | 2022-05-13 | 2023-07-29 |
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-12-02 |  |
 | [Outlaw in Me](https://open.spotify.com/track/1xKNbEB3wHDttLRmOkXfYa) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/0isB8xO9YoDZjpY8VGlkMR) | 4:05 | 2023-06-09 |  |
@@ -430,6 +430,7 @@
 | [Southern Star](https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Southern Star](https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d) | 3:06 | 2023-07-14 | 2023-08-19 |
 | [Space And Time](https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 4:32 | 2023-09-22 |  |
 | [Spin It Faster](https://open.spotify.com/track/1Pxmiq4HDoTUHiM7AkC6I8) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Spin It Faster](https://open.spotify.com/album/3NRombeGM43rj2eh1hrPZM) | 3:56 | 2021-12-17 | 2022-02-26 |
+| [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 | 2023-10-27 |  |
 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 | 2021-12-17 | 2022-08-06 |
 | [Stealing Dark from the Night Sky](https://open.spotify.com/track/11srUJtGRAudXAKhnjeSRS) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [To Die For](https://open.spotify.com/album/06WmNWTuEwCWHQaP0XZaiV) | 4:47 | 2022-06-03 | 2023-07-15 |
 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 | 2022-07-22 | 2022-10-29 |

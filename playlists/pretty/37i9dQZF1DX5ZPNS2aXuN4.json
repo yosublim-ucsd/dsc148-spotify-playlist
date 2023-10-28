@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 18589,
+  "num_followers": 18591,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTMxMGI2ZWJjZjkzM2FjMzQ4M2VhZGU0NDBlYjhhZDVmNTY4YmY4",
+  "snapshot_id": "MCxiOTRjNDdkZDg1YzBlZTUwNjU0YWEzOTA1YzRjMGMwY2M3NGJiMTYy",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -575,6 +575,30 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        }
+      ],
+      "duration_ms": 604000,
+      "name": "Concerto for Orchestra, BB 123: V. Finale: Presto",
+      "url": "https://open.spotify.com/track/20vieBZvEjywy4WzTx4jvq"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bartok, E\u00f6tv\u00f6s, Ligeti",
         "url": "https://open.spotify.com/album/3TWUktoDymo3inYpD6yNpS"
       },
@@ -599,30 +623,6 @@
       "duration_ms": 601866,
       "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
       "url": "https://open.spotify.com/track/6yVbBDI2gPqKnSJDb6UbD3"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
-        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Belgian Radio and Television Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
-        },
-        {
-          "name": "Alexander Rahbari",
-          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
-        }
-      ],
-      "duration_ms": 604000,
-      "name": "Concerto for Orchestra, BB 123: V. Finale: Presto",
-      "url": "https://open.spotify.com/track/20vieBZvEjywy4WzTx4jvq"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bartok: Complete String Quartets",
+        "url": "https://open.spotify.com/album/44LynWVVBkG9EyTo05c5IX"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Heath Quartet",
+          "url": "https://open.spotify.com/artist/5MvZXG0LIbhA4XPss20Hvc"
+        }
+      ],
+      "duration_ms": 546920,
+      "name": "String Quartet No. 1, Sz. 40: I. Lento",
+      "url": "https://open.spotify.com/track/3sCKSszvRtvCbIOCGVgXAY"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bartok: Rhapsodies Nos. 1 And 2 / Piano Quintet",
         "url": "https://open.spotify.com/album/3WXg9ApkQ8cDUO2AdpKz6J"
       },
@@ -703,8 +723,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: Complete String Quartets",
-        "url": "https://open.spotify.com/album/44LynWVVBkG9EyTo05c5IX"
+        "name": "Ditta P\u00e1sztory-Bart\u00f3k plays Bart\u00f3k",
+        "url": "https://open.spotify.com/album/1ITpLV3vxbpw4sM4UIrBsy"
       },
       "artists": [
         {
@@ -712,13 +732,17 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Heath Quartet",
-          "url": "https://open.spotify.com/artist/5MvZXG0LIbhA4XPss20Hvc"
+          "name": "Ditta Bartok-Pasztory",
+          "url": "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        {
+          "name": "Maria Comensoli",
+          "url": "https://open.spotify.com/artist/5nOOxcMPG9KTtj3jJxbSeB"
         }
       ],
-      "duration_ms": 546920,
-      "name": "String Quartet No. 1, Sz. 40: I. Lento",
-      "url": "https://open.spotify.com/track/3sCKSszvRtvCbIOCGVgXAY"
+      "duration_ms": 161466,
+      "name": "Mikrokosmos: 7 Pieces for 2 Pianos, 4 Hands, BB 120: No. 7. Ostinato: Vivacissimo (arr. of Vol. 6, No. 146)",
+      "url": "https://open.spotify.com/track/6nQEtXqLyiug0wZwvT38pj"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -747,30 +771,6 @@
       "duration_ms": 556493,
       "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
       "url": "https://open.spotify.com/track/5VbKrfwOpSdXSdQmH7ByAX"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Ditta P\u00e1sztory-Bart\u00f3k plays Bart\u00f3k",
-        "url": "https://open.spotify.com/album/1ITpLV3vxbpw4sM4UIrBsy"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Ditta Bartok-Pasztory",
-          "url": "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
-        },
-        {
-          "name": "Maria Comensoli",
-          "url": "https://open.spotify.com/artist/5nOOxcMPG9KTtj3jJxbSeB"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Mikrokosmos: 7 Pieces for 2 Pianos, 4 Hands, BB 120: No. 7. Ostinato: Vivacissimo (arr. of Vol. 6, No. 146)",
-      "url": "https://open.spotify.com/track/6nQEtXqLyiug0wZwvT38pj"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -939,30 +939,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: 44 Violin Duos",
-        "url": "https://open.spotify.com/album/5Q7FzPEcV0ZTXlprkNEBZd"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Angela Chun",
-          "url": "https://open.spotify.com/artist/0IaciBSS1GF5SuqWKzM5wA"
-        },
-        {
-          "name": "Jennifer Chun",
-          "url": "https://open.spotify.com/artist/72ZCIaI1TqwaGRbEvbGBih"
-        }
-      ],
-      "duration_ms": 50133,
-      "name": "Forgat\u00f3s",
-      "url": "https://open.spotify.com/track/0kEhYk7x9tux02gC86vGSZ"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bartok: Concertos",
         "url": "https://open.spotify.com/album/5wcok340bwuCkcVjriLZpo"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 871493,
       "name": "Concerto For Viola And Orchestra, Op. Post. - Version: Tibor Serly: I. Moderato - Lento parlando",
       "url": "https://open.spotify.com/track/1fNrbXNmmArLhhR2fYOOon"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k: 44 Violin Duos",
+        "url": "https://open.spotify.com/album/5Q7FzPEcV0ZTXlprkNEBZd"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Angela Chun",
+          "url": "https://open.spotify.com/artist/0IaciBSS1GF5SuqWKzM5wA"
+        },
+        {
+          "name": "Jennifer Chun",
+          "url": "https://open.spotify.com/artist/72ZCIaI1TqwaGRbEvbGBih"
+        }
+      ],
+      "duration_ms": 50133,
+      "name": "Forgat\u00f3s",
+      "url": "https://open.spotify.com/track/0kEhYk7x9tux02gC86vGSZ"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1275,34 +1275,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Violin Concertos Nos 1 & 2",
-        "url": "https://open.spotify.com/album/3YZxpl68tpbSn5lEhD3y0u"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Fran\u00e7ois-Xavier Roth",
-          "url": "https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 730813,
-      "name": "Bart\u00f3k: Violin Concerto No. 1, Sz. 36: II. Allegro giocoso",
-      "url": "https://open.spotify.com/track/2YXhapXWvp0v3yXcNzfrSZ"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k",
         "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
       },
@@ -1331,8 +1303,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: 5 Songs / Hungarian Folksongs",
-        "url": "https://open.spotify.com/album/6YmwcQKBGg6puz6vSTcmuk"
+        "name": "Bart\u00f3k: Violin Concertos Nos 1 & 2",
+        "url": "https://open.spotify.com/album/3YZxpl68tpbSn5lEhD3y0u"
       },
       "artists": [
         {
@@ -1340,17 +1312,21 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Julia Hamari",
-          "url": "https://open.spotify.com/artist/4H3kRAUrqpZSAUUXtWm8jt"
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
         },
         {
-          "name": "Ilona Prunyi",
-          "url": "https://open.spotify.com/artist/4YwG4hDeSXGqjuzxQ5oWvZ"
+          "name": "Fran\u00e7ois-Xavier Roth",
+          "url": "https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 159000,
-      "name": "5 Dal (5 Songs), BB 71: No. 2. Nyar: Szomjasan vagyva (Summer: Lying and Longing)",
-      "url": "https://open.spotify.com/track/1Pv0QKjixOJM0SWBqSzFnp"
+      "duration_ms": 730813,
+      "name": "Bart\u00f3k: Violin Concerto No. 1, Sz. 36: II. Allegro giocoso",
+      "url": "https://open.spotify.com/track/2YXhapXWvp0v3yXcNzfrSZ"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1371,6 +1347,30 @@
       "duration_ms": 257306,
       "name": "Dance Suite, Sz 77: VI. Finale. Allegro",
       "url": "https://open.spotify.com/track/74Jby8fyKAnjN3rAuiifwi"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bartok: 5 Songs / Hungarian Folksongs",
+        "url": "https://open.spotify.com/album/6YmwcQKBGg6puz6vSTcmuk"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Julia Hamari",
+          "url": "https://open.spotify.com/artist/4H3kRAUrqpZSAUUXtWm8jt"
+        },
+        {
+          "name": "Ilona Prunyi",
+          "url": "https://open.spotify.com/artist/4YwG4hDeSXGqjuzxQ5oWvZ"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "5 Dal (5 Songs), BB 71: No. 2. Nyar: Szomjasan vagyva (Summer: Lying and Longing)",
+      "url": "https://open.spotify.com/track/1Pv0QKjixOJM0SWBqSzFnp"
     },
     {
       "added_at": "2022-07-01 04:02:00",

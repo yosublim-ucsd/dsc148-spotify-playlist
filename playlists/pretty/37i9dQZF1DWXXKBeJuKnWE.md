@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: WARGASM
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,250 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,277 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 79 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 |
 | 80 | [Autobiography](https://open.spotify.com/track/0nGBdIoHM2qbrBjr95hrvt) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Autobiography](https://open.spotify.com/album/2uL9lH4pvsdPfkEMuetPTT) | 3:07 |
 
-Snapshot ID: `MCxkYTc4OTk2M2U1MjdhMzM5M2E3NTIwMDlkMzZkZDc3MTI2YTBiY2Qy`
+Snapshot ID: `MCw4ODUwNWMwZDFhMjFiMTBiODQ3MDUxYzNlZmFiZWI2ZDU5OTdmYzI3`

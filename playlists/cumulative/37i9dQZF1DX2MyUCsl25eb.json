@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 176277,
       "name": "Can't Hide It",
       "url": "https://open.spotify.com/track/4Ic5SoEYrVpN7gLQ6q1058"
@@ -3202,6 +3202,24 @@
       "duration_ms": 197225,
       "name": "Drawn to You",
       "url": "https://open.spotify.com/track/3raxhmKSaQl8c5mDlSi4zA"
+    },
+    {
+      "album": {
+        "name": "Dream Boy",
+        "url": "https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204376,
+      "name": "Dream Boy",
+      "url": "https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N"
     },
     {
       "album": {
@@ -6202,7 +6220,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 153851,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/5K0kxnRaObm0I8ocGBE0pA"
@@ -9210,7 +9228,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 163971,
       "name": "Puppet",
       "url": "https://open.spotify.com/track/29ka0Yr4ERffkQHmAIU1gI"
@@ -10784,7 +10802,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202314,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/3V1Z8YNp4DbF9vQL3jGmG1"
@@ -10896,7 +10914,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 228156,
       "name": "Still Gonna Miss You",
       "url": "https://open.spotify.com/track/7GmqITAt0OJ6M0ufX8rdVh"
@@ -11570,6 +11588,24 @@
       "duration_ms": 215624,
       "name": "The Sky and Me (feat. Ingrid Michaelson)",
       "url": "https://open.spotify.com/track/3tKSKHcXpY4EVRw50RvFJX"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence",
+        "url": "https://open.spotify.com/album/5oJlCqUWHVH6048Xmb6d1w"
+      },
+      "artists": [
+        {
+          "name": "Amira Unplugged",
+          "url": "https://open.spotify.com/artist/0coT4iPur5wTaug3pMh6Vf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195689,
+      "name": "The Sound of Silence",
+      "url": "https://open.spotify.com/track/3Wq2bGIRhq2PnEX1MMZ9hG"
     },
     {
       "album": {
@@ -13226,6 +13262,28 @@
       "duration_ms": 194231,
       "name": "You Better Run",
       "url": "https://open.spotify.com/track/7BX7n5ZRHCM8Ao4dN70qnC"
+    },
+    {
+      "album": {
+        "name": "You Could Start A Cult (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194869,
+      "name": "You Could Start A Cult (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
     },
     {
       "album": {

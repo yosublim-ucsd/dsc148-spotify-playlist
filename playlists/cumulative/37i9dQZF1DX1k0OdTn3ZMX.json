@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with SiM.",
+  "description": "n\u00fc-metal revival is happening here and now with WARGASM (UK).",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 200033,
       "name": "Am I The Only One",
       "url": "https://open.spotify.com/track/1KCOGedEDjeSdukGRKJZYI"
@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "DISDAIN",
+        "url": "https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "DISDAIN",
+      "url": "https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq"
+    },
+    {
+      "album": {
         "name": "DROP (feat. Randy Blythe)",
         "url": "https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE"
       },
@@ -544,7 +562,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 169314,
       "name": "Hard Knock",
       "url": "https://open.spotify.com/track/3zxoPM98k49H9cuxsXPWoL"
@@ -782,7 +800,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 284720,
       "name": "Radio",
       "url": "https://open.spotify.com/track/6NYptQ5KJyMEz8Mm5IpI6W"
@@ -1063,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215680,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
+    },
+    {
+      "album": {
         "name": "VIOLENT PRINCIPLES",
         "url": "https://open.spotify.com/album/7kv5aRv6tltcgjHOmCmUIT"
       },
@@ -1154,6 +1190,24 @@
       "duration_ms": 174919,
       "name": "WILDLIFE",
       "url": "https://open.spotify.com/track/3RDSLS7jjYebu90AsfXHsk"
+    },
+    {
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/7jtLgmvH6nnulQ3mPZKzq6"
+      },
+      "artists": [
+        {
+          "name": "Islander",
+          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219947,
+      "name": "Witch",
+      "url": "https://open.spotify.com/track/5MSdmihYEiWhtegR9Ji6mA"
     },
     {
       "album": {

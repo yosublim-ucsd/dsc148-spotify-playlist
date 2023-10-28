@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,890 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,959 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 52 | [Sin Tí No Puedo Vivir](https://open.spotify.com/track/2xDZ2IKvMUC1nYvc6oXKlZ) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Viva Carlos Cano \(Remasterizado\)](https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly) | 3:53 |
 | 53 | [La niña de fuego](https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu) | [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy) | [Niña de fuego \(Standard version\)](https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP) | 3:39 |
 | 54 | [Te Quiero Te Quiero](https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen de España](https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn) | 3:04 |
-| 55 | [Soy Una Feria](https://open.spotify.com/track/5gPBR2GlcBQZnwEwPFR1fS) | [Gracia Montes](https://open.spotify.com/artist/1dLbRp4b9TOqxlPj6Pmtbu) | [Mis Mejores Canciones](https://open.spotify.com/album/3v6sufMLzild3gXVb4zmK8) | 2:44 |
-| 56 | [En tierra extraña](https://open.spotify.com/track/2zga76oJbVYoGsm3ytmDdn) | [Concha Piquer](https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0) | [Antologia, Vol\. 5](https://open.spotify.com/album/41YeVcmMnpfdglheq7gA14) | 2:53 |
+| 55 | [En tierra extraña](https://open.spotify.com/track/2zga76oJbVYoGsm3ytmDdn) | [Concha Piquer](https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0) | [Antologia, Vol\. 5](https://open.spotify.com/album/41YeVcmMnpfdglheq7gA14) | 2:53 |
+| 56 | [Soy Una Feria](https://open.spotify.com/track/5gPBR2GlcBQZnwEwPFR1fS) | [Gracia Montes](https://open.spotify.com/artist/1dLbRp4b9TOqxlPj6Pmtbu) | [Mis Mejores Canciones](https://open.spotify.com/album/3v6sufMLzild3gXVb4zmK8) | 2:44 |
 | 57 | [Coplillas de las Divisas \(Americanos\)](https://open.spotify.com/track/2jsHf9MILNts8a4oE52QX0) | [Lolita Sevilla](https://open.spotify.com/artist/3YTaABDoji99gSK5qDdPja) | [Raices de la Canción Española, Vol\. 4](https://open.spotify.com/album/0YPZiUW2u8RB8zRsVANNpr) | 2:44 |
 | 58 | [El Talismán](https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [Mujeres de Música](https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim) | 4:03 |
 | 59 | [Ponte la Mano en el Pecho](https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Decálogo \(Sus 10 Mayores Éxitos\)](https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 74 | [Se Nos Rompio el Amor \(with Malú\)](https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:39 |
 | 75 | [Dejandonos La Piel \(with Lolita\)](https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:42 |
 
-Snapshot ID: `MCw4YTRmMWFhMDRlMDRlNTdkYzI4YjA1OTI3N2E2OTcxYzg1OWUzMjg4`
+Snapshot ID: `MCwxNDY3NTllMzJkYzczOTFlOGM3N2Y5ZDI0ODMyOWRiZjgyZDM1NmE3`

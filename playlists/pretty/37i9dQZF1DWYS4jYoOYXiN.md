@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,485 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,508 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 31 | [\(I'll Be A\) Happy Man](https://open.spotify.com/track/5LuzVIV75d9eaSeJfOfTJK) | [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W), [Luis Aviles](https://open.spotify.com/artist/4c75NAZOgHdYoAobGk8oiC) | [Take A Trip Pussy Cat](https://open.spotify.com/album/1bWv91UnA3Yue0fUCRouVg) | 3:34 |
 | 32 | [Brooklyn Boogaloo](https://open.spotify.com/track/2SFQr3uJF8wD7iLqGVaLNi) | [Spanglish Fly](https://open.spotify.com/artist/1iy7s9Xp6bA7lClmWDsNKu) | [New York Boogaloo](https://open.spotify.com/album/1eItMzO9e3pOi82He9lIiI) | 6:29 |
 | 33 | [Son Cuero Y Boogaloo \- Live At Red Garter / Greenwich Village, NY / 1968](https://open.spotify.com/track/0nkCr4yTg9Wnr7VsaaZ09j) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Jimmy Sabater](https://open.spotify.com/artist/2MQ4Kb9A8KkwQmK2LjaSw2) | [Live At The Red Garter, Vol\. 2 \(Live At Red Garter / Greenwich Village, NY / 1968\)](https://open.spotify.com/album/4hk83t4es3QZMhxOPZHh8T) | 8:30 |
-| 34 | [It's Not What You Say](https://open.spotify.com/track/6xa8EuqmwQPVjzhyir7yTU) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/390tpQELbsoYfFRnwIDxuO) | 2:56 |
-| 35 | [Café Y Pan](https://open.spotify.com/track/1DA9ZZu32DWXEGmTBIponW) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [La Plata Swings Jumps The Charanga](https://open.spotify.com/album/077ZdJvgHPTL3kvuZiLtaP) | 2:55 |
+| 34 | [Café Y Pan](https://open.spotify.com/track/1DA9ZZu32DWXEGmTBIponW) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [La Plata Swings Jumps The Charanga](https://open.spotify.com/album/077ZdJvgHPTL3kvuZiLtaP) | 2:55 |
+| 35 | [It's Not What You Say](https://open.spotify.com/track/6xa8EuqmwQPVjzhyir7yTU) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/390tpQELbsoYfFRnwIDxuO) | 2:56 |
 | 36 | [Right On](https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 2:47 |
 | 37 | [Para Ti Mi Boogaloo](https://open.spotify.com/track/3EmMeV9qQRUUWs6QNGa6KZ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [¡La Excitante Celia Cruz!](https://open.spotify.com/album/4OjT7LQjLKDQHuAVjdvriw) | 2:32 |
 | 38 | [Come and Get It](https://open.spotify.com/track/0Zqpc4C25DtWg7Fmhb0g63) | [Ralph Robles](https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV) | [Ralph Robles](https://open.spotify.com/album/2pBp6tnOazUbSHFm7bdCN8) | 3:02 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 41 | [Micaela](https://open.spotify.com/track/7uOddHRjCk9KE6hDgGB0NG) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [Fania Signature Vol\. III: Boogaloo](https://open.spotify.com/album/3FZzICWs1LVtzIirWtQLlQ) | 5:24 |
 | 42 | [Boogaloo Blues](https://open.spotify.com/track/62o0gzaSrLZvdTwlvWkDq5) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Records 60's Gold](https://open.spotify.com/album/23tZQ7L4t76gYwRKx2h9ye) | 5:31 |
 | 43 | [Pata Pata](https://open.spotify.com/track/2C06v7c02nnrZLPCR2TgHO) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va) | 3:15 |
-| 44 | [Guaguancó Triste](https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [El Bestial Sonido de](https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f) | 5:23 |
-| 45 | [Afro\-Shingaling](https://open.spotify.com/track/62Ppkk5aUAfSfewhZY1CC8) | [The Latinaires](https://open.spotify.com/artist/4sTXPMY0WxaeBKN4HAXLIj) | [Camel Walk](https://open.spotify.com/album/2Gx9abfQOdoIMggiAxDUof) | 3:57 |
+| 44 | [Afro\-Shingaling](https://open.spotify.com/track/62Ppkk5aUAfSfewhZY1CC8) | [The Latinaires](https://open.spotify.com/artist/4sTXPMY0WxaeBKN4HAXLIj) | [Camel Walk](https://open.spotify.com/album/2Gx9abfQOdoIMggiAxDUof) | 3:57 |
+| 45 | [Guaguancó Triste](https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [El Bestial Sonido de](https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f) | 5:23 |
 | 46 | [Guaguancó Raro](https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:21 |
 | 47 | [We Got Latin Soul](https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 3:02 |
 | 48 | [TP Treat](https://open.spotify.com/track/6zADOuqB5dhSWk3YRZLDVo) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va) | 3:57 |
 | 49 | [Llegaron Los Bonches](https://open.spotify.com/track/6ESDtZGTfYuauub8WpFowC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Volando Bajito](https://open.spotify.com/album/21mczyHRqExR3ZfnG7AjlD) | 3:22 |
 | 50 | [You Gotta Love Me](https://open.spotify.com/track/6sJrSiOQHLQ8gc4XMwdxyo) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Boogaloo '67](https://open.spotify.com/album/55tvAk5bJExzORKbCbvGg2) | 6:10 |
 
-Snapshot ID: `MCw3MjdjMzE1YTViYzc4MTkzMjk3YzgxOWY3ZGNiNWQwZDY2ODA2MjVl`
+Snapshot ID: `MCw2YjdlYjk4YjAzZDUzZTUwMzZiNGFlNGM1ZmE1ZjBlY2E5MDY4ZjNm`

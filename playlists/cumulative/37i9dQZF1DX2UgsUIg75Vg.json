@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Arin Ray",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Destin Conrad",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 205330,
       "name": "90s - Remix",
       "url": "https://open.spotify.com/track/1NzjKlRWYEfH3UORKH0zyD"
@@ -1368,6 +1368,28 @@
       "duration_ms": 198400,
       "name": "Beh Beh",
       "url": "https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie"
+    },
+    {
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177593,
+      "name": "Belong To You (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/4qulzmZFfKLVcfpGXXCP9H"
     },
     {
       "album": {
@@ -2530,7 +2552,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184736,
       "name": "Charismatic",
       "url": "https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc"
@@ -7298,7 +7320,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 175031,
       "name": "IYD",
       "url": "https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg"
@@ -7623,6 +7645,32 @@
     },
     {
       "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Lil Gray",
+          "url": "https://open.spotify.com/artist/0dODGPXWl5fINZ9KYIA7gs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224598,
+      "name": "Last One Left (feat. Missy Elliott & Lil Gray)",
+      "url": "https://open.spotify.com/track/0cZ9HBGWLZJS7UHCgWXOTZ"
+    },
+    {
+      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/7KdrDxvm4O69OVKX7vhl7X"
       },
@@ -7728,6 +7776,24 @@
       "duration_ms": 225933,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/5fbiUB75zbrp6EY44IalDK"
+    },
+    {
+      "album": {
+        "name": "Let This Go",
+        "url": "https://open.spotify.com/album/4JtkxBWC37gnLUi1oWid1V"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177363,
+      "name": "Let This Go",
+      "url": "https://open.spotify.com/track/5AvT8QuysDMHiqKD9lDulK"
     },
     {
       "album": {
@@ -8539,6 +8605,24 @@
     },
     {
       "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "LOW TIDE",
+      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
+    },
+    {
+      "album": {
         "name": "b7",
         "url": "https://open.spotify.com/album/09jppw0ufVFDiotrHDMK1w"
       },
@@ -8712,7 +8796,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 195041,
       "name": "MAGIC!",
       "url": "https://open.spotify.com/track/03bFDCogqEAeXsiNdTBY1D"
@@ -8926,7 +9010,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 171426,
       "name": "MAYBE SWANKAFORNiA",
       "url": "https://open.spotify.com/track/0rjjTjhUsMy3Akhy3zduKK"
@@ -13429,6 +13513,28 @@
     },
     {
       "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "SUPER PARADISE",
+      "url": "https://open.spotify.com/track/2u5Hu6pmY8mC5WC3xvTXSv"
+    },
+    {
+      "album": {
         "name": "Super Power (Acoustic)",
         "url": "https://open.spotify.com/album/75zhRwhmiXv57jcu14KEqc"
       },
@@ -14991,6 +15097,24 @@
     },
     {
       "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167710,
+      "name": "WAIT LET ME GET THE TISSUE",
+      "url": "https://open.spotify.com/track/7FeXfQsUTHfT5i9Sh1IsHR"
+    },
+    {
+      "album": {
         "name": "Phases III - EP",
         "url": "https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO"
       },
@@ -15228,6 +15352,24 @@
       "duration_ms": 222334,
       "name": "Water My Heart (feat. Mereba)",
       "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
+    },
+    {
+      "album": {
+        "name": "Waterfall (I Adore You)",
+        "url": "https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292940,
+      "name": "Waterfall (I Adore You)",
+      "url": "https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J"
     },
     {
       "album": {

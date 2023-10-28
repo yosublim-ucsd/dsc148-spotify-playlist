@@ -1,31 +1,15 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 353503,
+  "num_followers": 353725,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDEwYTZiZDlkMGVmMzFjOTcxZDM0ZGIyZWNlZjY3OWRhYzYzNDVj",
+  "snapshot_id": "MCw5MTg2MjRiOTEyMTJkNDg2OTY1ZTVjNzYyY2E3NjlkY2JlODE2ZWJj",
   "tracks": [
     {
-      "added_at": "2023-09-12 07:21:08",
-      "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 284026,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
-    },
-    {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "The Razors Edge",
         "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
@@ -41,23 +25,7 @@
       "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
-      "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "Hail to the King",
-      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
-    },
-    {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
@@ -73,23 +41,23 @@
       "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 343640,
-      "name": "You Could Be Mine",
-      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
+      "duration_ms": 305906,
+      "name": "Hail to the King",
+      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Hellbilly Deluxe",
         "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
@@ -105,7 +73,39 @@
       "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 343640,
+      "name": "You Could Be Mine",
+      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Vulgar Display of Power",
         "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Ace of Spades (Expanded Edition)",
         "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "No More Tears (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "British Steel",
         "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Follow The Leader",
         "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Metal Health",
         "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Dirt (2022 Remaster)",
         "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/4A065x9kJt955eGVqf813g"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Permission to Land",
         "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Superunknown (20th Anniversary)",
         "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Rammstein",
         "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "One Day Remains",
         "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "House of Gold & Bones, Part 1",
         "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Rust In Peace (2004 Remix / Expanded Edition)",
         "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Facelift",
         "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "System Of A Down",
         "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/1qGmxIGEuBEkj7bft72Kh0"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Sacrament",
         "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Repentless",
         "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Highway to Hell",
         "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "amo",
         "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/060RNnzoMay3wKJek1faPc"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Piece of Mind (2015 - Remaster)",
         "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Keeper of the Seven Keys, Pt. II (Expanded Edition)",
         "url": "https://open.spotify.com/album/0C00ibrtAGw59osJUg5qOO"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/5VZwMq6yaFb04PCTfdNY3K"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "The Pick Of Destiny",
         "url": "https://open.spotify.com/album/3tYcwViLCWsT1ssa5p7V7A"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/3pYKJaLiixRcDFfcNhxZKK"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Party in My Head",
         "url": "https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "All Out Life",
         "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "N.A.T.I.O.N.",
         "url": "https://open.spotify.com/album/6yMblFoGadj25t99DryfSv"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "The Number of the Beast (2015 - Remaster)",
         "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Balls To The Wall",
         "url": "https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "F8",
         "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
@@ -841,23 +841,7 @@
       "url": "https://open.spotify.com/track/163Kb2pSLLduhfbO6Zn0sL"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
-      "album": {
-        "name": "Overkill (Expanded Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 311133,
-      "name": "Overkill",
-      "url": "https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ"
-    },
-    {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Spreading The Disease",
         "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
@@ -873,7 +857,23 @@
       "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Overkill (Expanded Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 311133,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Kings of Metal",
         "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Ride The Lightning (Deluxe Remaster)",
         "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Reign In Blood",
         "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
@@ -937,7 +937,7 @@
       "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Chaos A.D.",
         "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
@@ -953,7 +953,7 @@
       "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "I Get Wet",
         "url": "https://open.spotify.com/album/6BQMUDC55fjjnApdWtZYZM"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/0E0bZtTG39K95uRjqBo1Mx"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Breakin' Outta Hell",
         "url": "https://open.spotify.com/album/6zg7O8iR0ODT7pDibI3vfd"
@@ -985,7 +985,23 @@
       "url": "https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Breaking the Chains",
+      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Rewind, Replay, Rebound (Deluxe)",
         "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
@@ -1005,23 +1021,7 @@
       "url": "https://open.spotify.com/track/7u9r4j7KSMW5yLsgjLRZGZ"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
-      "album": {
-        "name": "Breaking the Chains",
-        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
-      },
-      "artists": [
-        {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Breaking the Chains",
-      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
-    },
-    {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Supremacy",
         "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
@@ -1037,23 +1037,7 @@
       "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
-      "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 232640,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
-    },
-    {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Demanufacture (Special Edition)",
         "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
@@ -1069,7 +1053,23 @@
       "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
+      "album": {
+        "name": "Evolution (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 232640,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
+    },
+    {
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Scars (Expanded Edition)",
         "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Cleansing",
         "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Shot In The Dark",
         "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Five",
         "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/5jsn38ryHgFhcbJgZMQCo0"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Nola",
         "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Death By Rock And Roll",
         "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Big Tings",
         "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
@@ -1197,7 +1197,7 @@
       "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "The Art of Partying",
         "url": "https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h"
@@ -1213,7 +1213,7 @@
       "url": "https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Fabulous Disaster",
         "url": "https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy"
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Wild Cat",
         "url": "https://open.spotify.com/album/2lksmh6xl1ksnd1I0RA83x"
@@ -1261,7 +1261,7 @@
       "url": "https://open.spotify.com/track/4fPkExNmrBmuvQZnDI4CW1"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Southern Hostility",
         "url": "https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso"
@@ -1277,7 +1277,7 @@
       "url": "https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Beat It",
         "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
@@ -1293,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Let The Chaos Reign",
         "url": "https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8"
@@ -1309,7 +1309,7 @@
       "url": "https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Flawed Design",
         "url": "https://open.spotify.com/album/1mIKXNfCh0SNefV65SRsId"
@@ -1325,7 +1325,7 @@
       "url": "https://open.spotify.com/track/3ZMl928I7XK73u7CT6yrfK"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Like A House On Fire",
         "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
@@ -1341,7 +1341,7 @@
       "url": "https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Sound of White Noise - Expanded Edition",
         "url": "https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza"
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Black Eyes Blue / CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
         "url": "https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy"
@@ -1381,7 +1381,7 @@
       "url": "https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Viva La Victoria",
         "url": "https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A"
@@ -1397,7 +1397,7 @@
       "url": "https://open.spotify.com/track/0TpukZ7KJGyxYGFe6AgtOD"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Conspiracy",
         "url": "https://open.spotify.com/album/6HhxlpaqZix2VU3G3UscTH"
@@ -1413,7 +1413,7 @@
       "url": "https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Four by Four",
         "url": "https://open.spotify.com/album/14AFtH2Uz9inwnJpuJtdlK"
@@ -1429,7 +1429,7 @@
       "url": "https://open.spotify.com/track/2XfjJf7EpHlYdWd8OnjAtO"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Here Comes The Boom",
         "url": "https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83"
@@ -1445,7 +1445,7 @@
       "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
     },
     {
-      "added_at": "2023-09-12 07:21:08",
+      "added_at": "2023-10-27 12:45:10",
       "album": {
         "name": "Mis-An-Thrope",
         "url": "https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1"

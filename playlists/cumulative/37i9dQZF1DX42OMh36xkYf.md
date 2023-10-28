@@ -2,9 +2,9 @@
 
 ### [IRIS](https://open.spotify.com/playlist/37i9dQZF1DX42OMh36xkYf)
 
-> Resonancias extraordinarias de luminiscencia inclasificable\. Con Neoma en portada.
+> Resonancias extraordinarias de luminiscencia inclasificable\. Con Nanpa Básico y Sabino en portada.
 
-64 songs - 3 hr 35 min
+67 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [En La Oscuridad](https://open.spotify.com/track/69UvsEF4Kah8cbACRyREqF) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bolero Apocalíptico \(Deluxe Version\)](https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0) | 4:22 | 2023-10-13 |  |
 | [Enero](https://open.spotify.com/track/3ts1l52tE1aQhQDxeDD2sS) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Enero](https://open.spotify.com/album/4op9IrJHnFCf8k1kxMlpNw) | 4:10 | 2023-10-13 |  |
 | [Estrella](https://open.spotify.com/track/6rEtb8R6eV1bSOJEx5Um9v) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Blanca](https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y) | 3:18 | 2023-09-22 |  |
+| [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 | 2023-10-27 |  |
 | [Feriado](https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Feriado](https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet) | 2:46 | 2023-09-22 |  |
 | [Fractal](https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Fractal](https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2) | 4:25 | 2023-09-22 | 2023-10-21 |
 | [Fue Por Ti](https://open.spotify.com/track/3Zf9tMuhSXNVvjtBjYzbEg) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ), [Nicolle Jadad](https://open.spotify.com/artist/6WKvXvkXVojnonsPLmzSUP) | [Fue Por Ti](https://open.spotify.com/album/7MlRZt1qs5PYIFb3Nw6Om1) | 2:14 | 2023-09-22 | 2023-09-30 |
@@ -38,7 +39,7 @@
 | [La Tormenta](https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Servando](https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS) | [La Tormenta](https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w) | 2:26 | 2023-09-22 |  |
 | [LAS FURIAS // NOS MIRAN](https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [MIEL](https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP) | 2:15 | 2023-10-20 |  |
 | [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 | 2023-09-22 |  |
-| [LOCO](https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:43 | 2023-09-22 |  |
+| [LOCO](https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:43 | 2023-09-22 | 2023-10-28 |
 | [Me Persigue](https://open.spotify.com/track/1rBEVWJbexy1EjoaT9ZZxA) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Me Persigue](https://open.spotify.com/album/6tpSWTW6Vrw3x8hjgqkVM6) | 3:02 | 2023-10-06 |  |
 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-09-22 |  |
 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 | 2023-09-22 | 2023-10-07 |
@@ -48,7 +49,8 @@
 | [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 | 2023-09-29 |  |
 | [NINA](https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [NINA](https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv) | 4:59 | 2023-09-22 |  |
 | [NO ME ESTÁS HACIENDO UN FAVOR](https://open.spotify.com/track/2WcPl9wtGox6EUla9BAW7W) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [2030](https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr) | 2:57 | 2023-09-22 |  |
-| [Nublado](https://open.spotify.com/track/41UbjFYSaghFjPo1tgywE6) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nublado](https://open.spotify.com/album/1yCJX4nC3qogzGEv6a90kw) | 3:07 | 2023-09-22 |  |
+| [Nublado](https://open.spotify.com/track/41UbjFYSaghFjPo1tgywE6) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nublado](https://open.spotify.com/album/1yCJX4nC3qogzGEv6a90kw) | 3:07 | 2023-09-22 | 2023-10-28 |
+| [Nunca Quise Escribirte una Balada](https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Nunca Quise Escribirte una Balada](https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf) | 2:33 | 2023-10-27 |  |
 | [Para Ti](https://open.spotify.com/track/2B9fz9WW4XRg1ExCZnfuAI) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Para Ti](https://open.spotify.com/album/0F4Ex5ET5dBsPX2tAiYRvP) | 3:37 | 2023-10-13 |  |
 | [Paradisco](https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Paradisco](https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h) | 3:53 | 2023-09-22 |  |
 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 | 2023-09-22 |  |
@@ -62,8 +64,9 @@
 | [Resurrección](https://open.spotify.com/track/5HqnE9PwuOuqg73YhX2bpZ) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [ORILLAS](https://open.spotify.com/album/3QK5vLsPeBj9oItoA5YkAo) | 4:50 | 2023-09-22 | 2023-10-21 |
 | [Sal](https://open.spotify.com/track/2Wui8fU5Vp8aDZ8p7mcyli) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Sal](https://open.spotify.com/album/3MtbOxFsx48CrminzLGCWZ) | 4:01 | 2023-09-22 | 2023-10-14 |
 | [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-09-22 |  |
-| [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 | 2023-09-22 |  |
+| [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 | 2023-09-22 | 2023-10-28 |
 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 | 2023-09-22 |  |
+| [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 | 2023-10-27 |  |
 | [Todo Bien](https://open.spotify.com/track/1vNvcdPzFCxg9q0yv8a3Hy) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [Todo Bien](https://open.spotify.com/album/0PahmmCKsi3B2dcUuq3gmm) | 2:44 | 2023-09-22 |  |
 | [Trago Coqueto](https://open.spotify.com/track/1qHiEpXSWq4kMLKiBIVe1U) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Trago Coqueto](https://open.spotify.com/album/1peaQ1qGlbwL8V8LcKZElp) | 3:02 | 2023-09-22 | 2023-10-02 |
 | [Trago Coqueto](https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:02 | 2023-09-29 |  |

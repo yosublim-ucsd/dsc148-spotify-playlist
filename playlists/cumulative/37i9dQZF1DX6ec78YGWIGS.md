@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Feat\. TINI, Big One y BM.
 
-192 songs - 9 hr 43 min
+193 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-08-03 | 2023-09-28 |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-27 |  |
 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 | 2023-05-12 | 2023-10-06 |
-| [Fxcking noche de mi vida](https://open.spotify.com/track/5cj4tFJIGd6k0FX7JdZekY) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Valentina Zenere](https://open.spotify.com/artist/2EGULZLiEdWLH1Y6LQGqtX), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Fxcking noche de mi vida](https://open.spotify.com/album/1M1lYFgR6xx0QH5qlyEoSR) | 2:48 | 2023-10-05 |  |
+| [Fxcking noche de mi vida](https://open.spotify.com/track/5cj4tFJIGd6k0FX7JdZekY) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Valentina Zenere](https://open.spotify.com/artist/2EGULZLiEdWLH1Y6LQGqtX), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Fxcking noche de mi vida](https://open.spotify.com/album/1M1lYFgR6xx0QH5qlyEoSR) | 2:48 | 2023-10-05 | 2023-10-28 |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 | 2023-10-10 |
 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-09-08 |  |
 | [Guerrero.mp3](https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Guerrero.mp3](https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E) | 3:58 | 2023-06-16 | 2023-09-09 |
@@ -94,6 +94,7 @@
 | [La Amistad](https://open.spotify.com/track/2b6A0kJRnKvAkNXiRoBLwa) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [La Amistad](https://open.spotify.com/album/0sny1geZsF7fLro5S9s06u) | 2:54 | 2023-09-15 | 2023-10-21 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2023-05-12 |  |
 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 | 2023-05-12 |  |
+| [La Serenata](https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [La Serenata](https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio) | 3:24 | 2023-10-27 |  |
 | [Laberinto \(feat\. Leo Rizzi\)](https://open.spotify.com/track/6u22ObIR949lHB2ro2d51Z) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:18 | 2023-07-28 | 2023-09-27 |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-09-26 |  |
 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 | 2023-06-09 |  |

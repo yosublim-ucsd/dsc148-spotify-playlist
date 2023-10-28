@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 
 > cute moments in fields and on dancefloors \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,941 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,031 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 47 | [My Heart Still Leans On You](https://open.spotify.com/track/7hTcipfBVimzXdYd9ynEbA) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [My Heart Still Leans On You](https://open.spotify.com/album/3QLP5YPGen6T7pnYpb8Gt8) | 4:47 |
 | 48 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 |
 | 49 | [Giving Up](https://open.spotify.com/track/07mOlP1DQv1ZsQTyCMNzaW) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:23 |
-| 50 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
+| 50 | [A Dedication](https://open.spotify.com/track/7BijkGObSbahOwYpriNHPh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Inside Out](https://open.spotify.com/album/5VSjUsRU41obhoHo0ghMO0) | 3:47 |
 
-Snapshot ID: `MCxhYzgzYmU3NzNiOTcyOTRjMGI4ZTNlMTEyYmM3YmZhNjBjYTRhZTNj`
+Snapshot ID: `MCwxZWViMjlkOWMzNGUwNGFmNGZkMGZlMDFhODVkMWM5Mjc3NzM5MjY2`

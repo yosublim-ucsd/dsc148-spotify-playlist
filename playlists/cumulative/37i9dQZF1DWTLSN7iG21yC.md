@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-644 songs - 1 day 10 hr 18 min
+645 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2021-06-07 | 2023-01-28 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-07 | 2022-07-29 |
 | [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 | 2022-05-06 | 2022-07-25 |
-| [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk) | 3:03 | 2021-06-25 |  |
+| [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Closure \(feat\. BIRDY and Mishaal\)](https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk) | 3:03 | 2021-06-25 | 2023-10-28 |
 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2022-07-29 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-08-13 | 2023-01-28 |
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-14 | 2022-07-13 |
@@ -245,6 +245,7 @@
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-06-07 | 2022-07-29 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2021-06-07 | 2022-04-21 |
 | [Good Die Young](https://open.spotify.com/track/7AgrPafTWK99KIwJ9Vo5nJ) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart \(The Deluxe Edition\)](https://open.spotify.com/album/7Jf4JqkzkF7grRy6lw9ek2) | 3:05 | 2021-09-17 | 2022-04-19 |
+| [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-10-27 |  |
 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 | 2022-04-15 | 2022-04-21 |
 | [GOOD TIME](https://open.spotify.com/track/5Kpg1A7BOHpBbaT3H3xqd3) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME \- EP](https://open.spotify.com/album/2jqg5j8kjADgqkFSDoTylY) | 3:34 | 2021-06-07 | 2022-04-19 |
 | [Good Time](https://open.spotify.com/track/5XUirzoMLaO0qsiHZTY3Mo) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Good Time](https://open.spotify.com/album/6dJO0DBV6QxLIHjYytOmzO) | 2:52 | 2023-03-22 | 2023-08-30 |

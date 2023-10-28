@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Color Of Pink",
+        "url": "https://open.spotify.com/album/6pNeoNCnyuxZeE22N9FOfi"
+      },
+      "artists": [
+        {
+          "name": "Jane Color",
+          "url": "https://open.spotify.com/artist/5IHSYO8kKxpkIphS2vmEuX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Amazing Pink - Seamless",
+      "url": "https://open.spotify.com/track/4pZUnR6v0hw2xBJoqkfOQj"
+    },
+    {
+      "album": {
         "name": "Ambient Pink Noise",
         "url": "https://open.spotify.com/album/5w8TR9Yw5isnMsHAMUqNuT"
       },
@@ -52,10 +70,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 172000,
       "name": "Ambient Pink Noise Flow",
       "url": "https://open.spotify.com/track/5IkeBdcbDC94iIKtHmoXWE"
+    },
+    {
+      "album": {
+        "name": "Ambient Pink Noise Sound",
+        "url": "https://open.spotify.com/album/7oQkoAX0OLoIgW2AlI3M2m"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Ambient Pink Noise Sound",
+      "url": "https://open.spotify.com/track/3ZNrIqp3hUhOyc3KN02v2w"
     },
     {
       "album": {
@@ -214,7 +250,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 175865,
       "name": "Calming Pink Waves",
       "url": "https://open.spotify.com/track/6PKt491V2U0DgfW8QrVygA"
@@ -239,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Chilled Pink Sleep",
+        "url": "https://open.spotify.com/album/6XcpRqHSr3sujIw1oOF02N"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Activity",
+          "url": "https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247798,
+      "name": "Chilled Pink Lullaby",
+      "url": "https://open.spotify.com/track/0APmmogkV8VCzKdGB6d0Sh"
+    },
+    {
+      "album": {
         "name": "Lunar Pink Noise",
         "url": "https://open.spotify.com/album/6Io7xnSgAbti2b6256lfZ5"
       },
@@ -254,6 +308,60 @@
       "duration_ms": 168883,
       "name": "Circular Orbit",
       "url": "https://open.spotify.com/track/366tREv5ZaeRvWnngEiSQg"
+    },
+    {
+      "album": {
+        "name": "Peaceful Pink Noise",
+        "url": "https://open.spotify.com/album/4NpXIPIO0Hgz1QKvNuXtCP"
+      },
+      "artists": [
+        {
+          "name": "BBVB",
+          "url": "https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121394,
+      "name": "Clear Pink Noise",
+      "url": "https://open.spotify.com/track/11kEPdwIh9f4ZxvaB0szBq"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Focus",
+        "url": "https://open.spotify.com/album/3bEZWmcw3qZlwf8mXAhWMG"
+      },
+      "artists": [
+        {
+          "name": "Crystal Slowdown",
+          "url": "https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205788,
+      "name": "Clear Pink Noise",
+      "url": "https://open.spotify.com/track/41FRnnAKgKgx0ui0HJhM6Q"
+    },
+    {
+      "album": {
+        "name": "Clouds Of Pink",
+        "url": "https://open.spotify.com/album/5XT6l0Ih7JtybZx2i9utv7"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Clouds Of Pink",
+      "url": "https://open.spotify.com/track/1tJaKh39AFSA3CaODzmYlx"
     },
     {
       "album": {
@@ -286,7 +394,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 188000,
       "name": "Cool and Calm Pink Noise",
       "url": "https://open.spotify.com/track/5KPwCk4yBDum0phAaqlRno"
@@ -340,7 +448,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 203037,
       "name": "Dark Pink Noise",
       "url": "https://open.spotify.com/track/2EcqAlIbvdkQZTNxlStdh3"
@@ -394,7 +502,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 175014,
       "name": "Deep Healing Pink Noise",
       "url": "https://open.spotify.com/track/28VjLlcUbdoVuDsKpYQCte"
@@ -412,7 +520,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 182722,
       "name": "Deep Pink Noise",
       "url": "https://open.spotify.com/track/35trspd3MHq6hteLqDBIEs"
@@ -430,7 +538,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 172436,
       "name": "Deep Sleep Forest",
       "url": "https://open.spotify.com/track/12MbCOZvZTYpdXnep8jCdX"
@@ -484,7 +592,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 154000,
       "name": "Deeper Sleepy Pink Noise",
       "url": "https://open.spotify.com/track/5ZLengT3VblCVLaYegi2w0"
@@ -646,7 +754,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 196000,
       "name": "Easy Pink Noise Slumber",
       "url": "https://open.spotify.com/track/2pNehkz5nC2AYhZcLmpgVG"
@@ -664,7 +772,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 187002,
       "name": "Ephemeral Pink Noise",
       "url": "https://open.spotify.com/track/7zJuGiF9v52wI4SzGLWltA"
@@ -700,10 +808,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 180029,
       "name": "Fall Winds At Dusk Pink Noise",
       "url": "https://open.spotify.com/track/2zyORWmW6OmFeLkjroyY4t"
+    },
+    {
+      "album": {
+        "name": "Field Of Pink",
+        "url": "https://open.spotify.com/album/52qkQgKK9tGkg0H18rH8OT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Field Of Pink",
+      "url": "https://open.spotify.com/track/7gqVZhfF04uavgYfzI2X8z"
     },
     {
       "album": {
@@ -718,7 +844,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 193008,
       "name": "First Class Seat Sleep",
       "url": "https://open.spotify.com/track/4QCQ4YRHabhtjcpPF1pZQe"
@@ -790,7 +916,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 205000,
       "name": "Focus Pink Noise Time",
       "url": "https://open.spotify.com/track/71OXVpQToHCrCEUs1bmZuc"
@@ -970,7 +1096,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 191020,
       "name": "Improved Focus Pink Noise",
       "url": "https://open.spotify.com/track/6lUA2qPiUVDoTxBtY3Xr5k"
@@ -1060,7 +1186,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 208500,
       "name": "Let There Be Pink Noise",
       "url": "https://open.spotify.com/track/1FzKIK492Q6TSnLp5Ri4tA"
@@ -1078,7 +1204,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202000,
       "name": "Light Static Pink Noise",
       "url": "https://open.spotify.com/track/20DebK1t1lCSggO555021z"
@@ -1096,7 +1222,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 203048,
       "name": "Light Wind Pink Noise",
       "url": "https://open.spotify.com/track/232U7p0Q2ueLxYLrWGLQTC"
@@ -1114,7 +1240,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 208000,
       "name": "Like the Pink Noise",
       "url": "https://open.spotify.com/track/06CWVogwR0StRDIDNK67Nt"
@@ -1240,7 +1366,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 208000,
       "name": "Magical Pink Noise Serenity",
       "url": "https://open.spotify.com/track/4pZpsZB3KTBXo3Inr10keU"
@@ -1312,10 +1438,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 169008,
       "name": "Mountain Cabin Sleep",
       "url": "https://open.spotify.com/track/0eodun4Lq8cq3gtCgggapK"
+    },
+    {
+      "album": {
+        "name": "Moving Pink Noise",
+        "url": "https://open.spotify.com/album/3tXxR28hGMhqhkcObhZ1kL"
+      },
+      "artists": [
+        {
+          "name": "Pinkcalm",
+          "url": "https://open.spotify.com/artist/0cVE49CA0F5vRLTJlJItpz"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199208,
+      "name": "Moving Pink Noise",
+      "url": "https://open.spotify.com/track/5mVWwJqlKjFYpNc64dKNSd"
     },
     {
       "album": {
@@ -1330,7 +1474,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 164000,
       "name": "Natural Serenity Pink Noise",
       "url": "https://open.spotify.com/track/3Fmkjj0HWBC8TlHKIckyye"
@@ -1402,7 +1546,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 191040,
       "name": "Open Your Mind Pink Noise",
       "url": "https://open.spotify.com/track/6XMYQNIQzeKNmLpgrlWTUB"
@@ -1672,7 +1816,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184000,
       "name": "Pink Mind Oasis",
       "url": "https://open.spotify.com/track/6DB2CW9ttaCA0Nqxozwh92"
@@ -1726,7 +1870,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202250,
       "name": "Pink Noise Air",
       "url": "https://open.spotify.com/track/4iu3Bn25JWPygLy26cnfx9"
@@ -1780,7 +1924,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 208000,
       "name": "Pink Noise Balance",
       "url": "https://open.spotify.com/track/6RWo80soxwN9KIWJmZWB86"
@@ -1834,7 +1978,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 177000,
       "name": "Pink Noise Boulevard",
       "url": "https://open.spotify.com/track/4BbMZoi5wVpRKUmZr8AFwI"
@@ -1856,6 +2000,42 @@
       "duration_ms": 158394,
       "name": "Pink Noise Breeze",
       "url": "https://open.spotify.com/track/0jlf0QRh3LxsRao4SNxanX"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Brook",
+        "url": "https://open.spotify.com/album/4fx2eWrSiuFKtioHLrDC3m"
+      },
+      "artists": [
+        {
+          "name": "Gateway IV",
+          "url": "https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Pink Noise Brook",
+      "url": "https://open.spotify.com/track/2EtULF1OqDacREE9PV11pS"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Cancellation",
+        "url": "https://open.spotify.com/album/0NArn03EXJFWbZ2q2q1ZUj"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Peace",
+          "url": "https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pink Noise Cancellation",
+      "url": "https://open.spotify.com/track/0O4lClbCx1Ca4tvrvGUbtc"
     },
     {
       "album": {
@@ -1906,10 +2086,64 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 167293,
       "name": "Pink Noise Cruis",
       "url": "https://open.spotify.com/track/0AxtASF36CJKljxhNUABqb"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Dawn",
+        "url": "https://open.spotify.com/album/4rPqjignGvrBSMxhcWuyvC"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Peace",
+          "url": "https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pink Noise Dawn",
+      "url": "https://open.spotify.com/track/1dOorFr5OeiReTa9JHEL3S"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Deep REM",
+        "url": "https://open.spotify.com/album/44qAvEGTlnHFIm0NXrbmlY"
+      },
+      "artists": [
+        {
+          "name": "Mindful Collage",
+          "url": "https://open.spotify.com/artist/2wSWfeN8qUOfZnkYI4Rd2M"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pink Noise Deep REM",
+      "url": "https://open.spotify.com/track/7pgtTEMmeUJStDK3nHEi6g"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Dream Maker",
+        "url": "https://open.spotify.com/album/1aVrQLjqTSPqMLdq2Uf3dv"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Peace",
+          "url": "https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pink Noise Dream Maker",
+      "url": "https://open.spotify.com/track/0CbZkCXOS1DNBWNmGkM155"
     },
     {
       "album": {
@@ -1924,7 +2158,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 179293,
       "name": "Pink Noise Dreamland",
       "url": "https://open.spotify.com/track/0kSP1ZQTxpcfJvBvnIvPku"
@@ -1942,7 +2176,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 182722,
       "name": "Pink Noise Dreamscape",
       "url": "https://open.spotify.com/track/1gV3cuP1WeUSzdz23LPDIP"
@@ -1985,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Pink Clouds Syndrome",
+        "url": "https://open.spotify.com/album/0TWHhB5Hy6w7Vo6i5gify0"
+      },
+      "artists": [
+        {
+          "name": "Slumbertronica",
+          "url": "https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Pink Noise Euphoria - Seamless",
+      "url": "https://open.spotify.com/track/7hqvO3G06EyC89Iq1Z5eYU"
+    },
+    {
+      "album": {
         "name": "Fluffiest Pink",
         "url": "https://open.spotify.com/album/6QhI5OqUuOZWdLLFWzs6BI"
       },
@@ -2021,6 +2273,60 @@
     },
     {
       "album": {
+        "name": "Pink Noise for Deep Focus",
+        "url": "https://open.spotify.com/album/30pUEjEtSZdHeHSecH39fR"
+      },
+      "artists": [
+        {
+          "name": "GLXO",
+          "url": "https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Pink Noise for Deep Focus",
+      "url": "https://open.spotify.com/track/6Xqv07lhFmHP9HRAiu7fH4"
+    },
+    {
+      "album": {
+        "name": "Pink Noise for Dreaming",
+        "url": "https://open.spotify.com/album/7nvAnxamuXjGljTTdkZkwl"
+      },
+      "artists": [
+        {
+          "name": "Brightlo",
+          "url": "https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193250,
+      "name": "Pink Noise for Dreaming",
+      "url": "https://open.spotify.com/track/1Tjrhay8eQSfkOcqVh7PiQ"
+    },
+    {
+      "album": {
+        "name": "Pink Noise for my Nap",
+        "url": "https://open.spotify.com/album/5IFvsQC23wbGDu4r2tY5Xp"
+      },
+      "artists": [
+        {
+          "name": "Brightlo",
+          "url": "https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Pink Noise for my Nap",
+      "url": "https://open.spotify.com/track/1IrAMBPSqBDgx1AThZAxOZ"
+    },
+    {
+      "album": {
         "name": "Pink Atmosphere",
         "url": "https://open.spotify.com/album/5qgEcp6C7PPTayUCDjL6wb"
       },
@@ -2039,6 +2345,60 @@
     },
     {
       "album": {
+        "name": "Pink Noise Above The Clouds",
+        "url": "https://open.spotify.com/album/0AHoFhEHrhVMtAgSusiDA2"
+      },
+      "artists": [
+        {
+          "name": "Institute of Noise",
+          "url": "https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Pink Noise For Sweet Dreams",
+      "url": "https://open.spotify.com/track/4PSkW1HuaEKXXvb9ltniaJ"
+    },
+    {
+      "album": {
+        "name": "Pink Noise for the Library",
+        "url": "https://open.spotify.com/album/0aBPaD8lU8GpXhRRd1vWOD"
+      },
+      "artists": [
+        {
+          "name": "Dream Storms",
+          "url": "https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195122,
+      "name": "Pink Noise for the Library",
+      "url": "https://open.spotify.com/track/26fkLJCAeC1RAZe5aM1pZN"
+    },
+    {
+      "album": {
+        "name": "Nature's Pink Noise",
+        "url": "https://open.spotify.com/album/24AmrnX6tCSQjb5qjDaNi5"
+      },
+      "artists": [
+        {
+          "name": "Dancing Waves",
+          "url": "https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246500,
+      "name": "Pink Noise for Tranquility",
+      "url": "https://open.spotify.com/track/6Ibp1yXeTZY5au5i3AgXR8"
+    },
+    {
+      "album": {
         "name": "Pink Noise Hz",
         "url": "https://open.spotify.com/album/5kw0eQ2Kt85ovdYPu35j3c"
       },
@@ -2050,7 +2410,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 152000,
       "name": "Pink Noise Frequency Bliss",
       "url": "https://open.spotify.com/track/3akh1Sjb4UxtE6GVnpA76e"
@@ -2129,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Pink Noise Mind",
+        "url": "https://open.spotify.com/album/7Itxh0DLqLdu0OkPd9gZqi"
+      },
+      "artists": [
+        {
+          "name": "Omnispherical",
+          "url": "https://open.spotify.com/artist/4JVk8gc5inFzJpDG8kyyYm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165967,
+      "name": "Pink Noise Mind",
+      "url": "https://open.spotify.com/track/6zF7bsijcJjNhZX6YN2MRO"
+    },
+    {
+      "album": {
         "name": "Pink Noise Moment",
         "url": "https://open.spotify.com/album/5oHMW5JreJe8wRvZxkuBcL"
       },
@@ -2140,7 +2518,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 200750,
       "name": "Pink Noise Moment",
       "url": "https://open.spotify.com/track/4sk8O6SUrBfhevZk1tI2JP"
@@ -2248,7 +2626,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 162150,
       "name": "Pink Noise Rainforest",
       "url": "https://open.spotify.com/track/3SfZXzxI9EeLyc2SzHFmVt"
@@ -2288,6 +2666,42 @@
       "duration_ms": 177250,
       "name": "Pink Noise Relaxation Therapy",
       "url": "https://open.spotify.com/track/4ZcEssgorVxYh72CrTZp0J"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Sand",
+        "url": "https://open.spotify.com/album/58gasOAoS2GQ3LczxHFWtv"
+      },
+      "artists": [
+        {
+          "name": "Clouderr",
+          "url": "https://open.spotify.com/artist/5bcEA3BrhWyJRBPqH4Lxzw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pink Noise Sand",
+      "url": "https://open.spotify.com/track/0Lxy7UXeX5SiMJJPkPUZ8n"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Satisfaction",
+        "url": "https://open.spotify.com/album/4ceYxcs6IXW4LnbrxeepSD"
+      },
+      "artists": [
+        {
+          "name": "Wavelab",
+          "url": "https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Pink Noise Satisfaction",
+      "url": "https://open.spotify.com/track/3HRDr4iGCIH6IjYpduxVJl"
     },
     {
       "album": {
@@ -2399,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Ocean of Pink Noise",
+        "url": "https://open.spotify.com/album/5rfYGwdLn6AoCbaTfopcu5"
+      },
+      "artists": [
+        {
+          "name": "The White Noise Travelers",
+          "url": "https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Pink Noise SnooZzze",
+      "url": "https://open.spotify.com/track/0vytFOaDmk795776J0i9u4"
+    },
+    {
+      "album": {
         "name": "Pink Noise Soundscapes",
         "url": "https://open.spotify.com/album/1ISr3lk2WEvEFpAACxtfvX"
       },
@@ -2410,10 +2842,46 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 177579,
       "name": "Pink Noise Spa Retreat",
       "url": "https://open.spotify.com/track/1jav8RmR0oLrDMPMrxqOMh"
+    },
+    {
+      "album": {
+        "name": "Alleviating Pink Noise",
+        "url": "https://open.spotify.com/album/3V2jBGwQ8DybXnVs1CYkjo"
+      },
+      "artists": [
+        {
+          "name": "Institute of Noise",
+          "url": "https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Pink Noise Stillness",
+      "url": "https://open.spotify.com/track/2FZymQ0N1CGYP6MmV9hKeR"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Study Aid",
+        "url": "https://open.spotify.com/album/4OTExMPxAnBv9Le1bBR1mV"
+      },
+      "artists": [
+        {
+          "name": "Titan Pulse",
+          "url": "https://open.spotify.com/artist/2LxEiPDLSX3rxS0VYnqaIY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156307,
+      "name": "Pink Noise Study Aid",
+      "url": "https://open.spotify.com/track/5CbfEjADw73jKeoydsNAC3"
     },
     {
       "album": {
@@ -2446,10 +2914,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202750,
       "name": "Pink Noise to Help Focus",
       "url": "https://open.spotify.com/track/40gtc8CqWgi9KXY6tbxI8z"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Visions",
+        "url": "https://open.spotify.com/album/2AJqa5wuSoCngxodQxyuWJ"
+      },
+      "artists": [
+        {
+          "name": "Lynx XII",
+          "url": "https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Pink Noise Visions",
+      "url": "https://open.spotify.com/track/2ETPxYiWowMaPGgy6kLvup"
     },
     {
       "album": {
@@ -2464,7 +2950,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 201250,
       "name": "Pink Noise Waterfall",
       "url": "https://open.spotify.com/track/21F0LQvToi9dUfGF91Smue"
@@ -2518,7 +3004,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 177579,
       "name": "Pink Ocean Waves",
       "url": "https://open.spotify.com/track/40hKJBIOXmvsyOafvkZtW5"
@@ -2543,6 +3029,42 @@
     },
     {
       "album": {
+        "name": "Pink On Pink",
+        "url": "https://open.spotify.com/album/5mcht4ut9xKX1itqUNrDl7"
+      },
+      "artists": [
+        {
+          "name": "Clouderr",
+          "url": "https://open.spotify.com/artist/5bcEA3BrhWyJRBPqH4Lxzw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pink On Pink",
+      "url": "https://open.spotify.com/track/2pANoNVZKrkzTH64YvhqV4"
+    },
+    {
+      "album": {
+        "name": "Pink Panther",
+        "url": "https://open.spotify.com/album/1Hv1fbOlqDfhmco9tw30s6"
+      },
+      "artists": [
+        {
+          "name": "Clouderr",
+          "url": "https://open.spotify.com/artist/5bcEA3BrhWyJRBPqH4Lxzw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pink Panther",
+      "url": "https://open.spotify.com/track/5BF1aWpRk8Wa9f25C3til3"
+    },
+    {
+      "album": {
         "name": "Sleeping In Pink Noise",
         "url": "https://open.spotify.com/album/5d0HVEhTJjemsybCCeB21Y"
       },
@@ -2558,6 +3080,24 @@
       "duration_ms": 161000,
       "name": "Pink Panther's Pulse",
       "url": "https://open.spotify.com/track/3bL8OYNiXGahzKidUkqJ5Q"
+    },
+    {
+      "album": {
+        "name": "Beautiful Pink",
+        "url": "https://open.spotify.com/album/21qc62RvN3yK87JJzawGV8"
+      },
+      "artists": [
+        {
+          "name": "Trambiendo",
+          "url": "https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Pink Perfect",
+      "url": "https://open.spotify.com/track/0itto7XEGoA9yj8Wl1AhjL"
     },
     {
       "album": {
@@ -2626,10 +3166,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 172436,
       "name": "Pink Sleepscape",
       "url": "https://open.spotify.com/track/30vuCLcq1elsmwxLeb2OG8"
+    },
+    {
+      "album": {
+        "name": "Pink Stars",
+        "url": "https://open.spotify.com/album/2tfR7BHvMNEwH6lMc1CMHB"
+      },
+      "artists": [
+        {
+          "name": "Somnia Terra",
+          "url": "https://open.spotify.com/artist/1ik9VBhOvg5HDwhLjLB3B1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pink Stars",
+      "url": "https://open.spotify.com/track/27d98CA7SV4RzxQBs24iJf"
     },
     {
       "album": {
@@ -2648,6 +3206,24 @@
       "duration_ms": 194354,
       "name": "Pink Static Waves",
       "url": "https://open.spotify.com/track/4SO1mf7yP1IaJz3I39dyQX"
+    },
+    {
+      "album": {
+        "name": "Pink Study Noise",
+        "url": "https://open.spotify.com/album/3Yhw6BuEEOsWT1gJlAGEdt"
+      },
+      "artists": [
+        {
+          "name": "Dream Storms",
+          "url": "https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154078,
+      "name": "Pink Study Noise",
+      "url": "https://open.spotify.com/track/00MWOYuJhqRC9lSM4pvWNC"
     },
     {
       "album": {
@@ -2723,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Pink Wallpaper",
+        "url": "https://open.spotify.com/album/34jlzR09tYE5DaGDmg7vvn"
+      },
+      "artists": [
+        {
+          "name": "Somnia Terra",
+          "url": "https://open.spotify.com/artist/1ik9VBhOvg5HDwhLjLB3B1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pink Wallpaper",
+      "url": "https://open.spotify.com/track/2CNT7QeWZrYHP1GEu9PYRF"
+    },
+    {
+      "album": {
         "name": "Pink Noise Dreamscape",
         "url": "https://open.spotify.com/album/5WQ8yzLy303xPRsC3LaKhg"
       },
@@ -2734,10 +3328,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 182722,
       "name": "Pink Waves of Peace",
       "url": "https://open.spotify.com/track/1ZbLRzaRizVu5ydDclbnmR"
+    },
+    {
+      "album": {
+        "name": "Pink Whispers",
+        "url": "https://open.spotify.com/album/2YHQyemxd779jU0OfyAomF"
+      },
+      "artists": [
+        {
+          "name": "Somnia Terra",
+          "url": "https://open.spotify.com/artist/1ik9VBhOvg5HDwhLjLB3B1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pink Whispers",
+      "url": "https://open.spotify.com/track/6uFnSFZ0im3GvmB7oLjJOw"
     },
     {
       "album": {
@@ -2752,7 +3364,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 207250,
       "name": "Pinkerton Pink Noise",
       "url": "https://open.spotify.com/track/39eEuOioMqhzJpmuO9VXP4"
@@ -2770,7 +3382,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 209000,
       "name": "Pinkest Pink",
       "url": "https://open.spotify.com/track/6ooIxUGKePKnVwAivRyAzI"
@@ -2914,7 +3526,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 203015,
       "name": "Relaxing Cascade Pink Noise",
       "url": "https://open.spotify.com/track/7FZaJmuMcTGxNCFAAY78gH"
@@ -3047,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "Ruido Rosa",
+        "url": "https://open.spotify.com/album/6CwpDWdL7PxgH97lvEdx2c"
+      },
+      "artists": [
+        {
+          "name": "Amantigo",
+          "url": "https://open.spotify.com/artist/2egW4Lh3v9aPggJ9e5wAHc"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Ruido Rosa - Seamless",
+      "url": "https://open.spotify.com/track/2XxL38UvgKqGdVlg5k2xth"
+    },
+    {
+      "album": {
         "name": "Retrograde Pink Noise",
         "url": "https://open.spotify.com/album/0Hdpx60YY26FqcfAqKHe4O"
       },
@@ -3083,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "Shades Of Pink",
+        "url": "https://open.spotify.com/album/5WtpdSpz6K4z4SCrpEbGlB"
+      },
+      "artists": [
+        {
+          "name": "Mindful Collage",
+          "url": "https://open.spotify.com/artist/2wSWfeN8qUOfZnkYI4Rd2M"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Shades Of Pink",
+      "url": "https://open.spotify.com/track/6hxynTB2F4mxO6JVa5oSKD"
+    },
+    {
+      "album": {
         "name": "Shimmering Pink Noise Haze",
         "url": "https://open.spotify.com/album/3ECFDGflTNCv2DA5ybTEQN"
       },
@@ -3101,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "Simple Pink Dreaming",
+        "url": "https://open.spotify.com/album/7orISdHWAdhGobaDBYzN9x"
+      },
+      "artists": [
+        {
+          "name": "Mindful Collage",
+          "url": "https://open.spotify.com/artist/2wSWfeN8qUOfZnkYI4Rd2M"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Simple Pink Dreaming",
+      "url": "https://open.spotify.com/track/0tVfHpBklpo1fj3vYpgGou"
+    },
+    {
+      "album": {
         "name": "Pink Noise Zen Garden",
         "url": "https://open.spotify.com/album/2Y619XhurpCllYX9f5YzOy"
       },
@@ -3112,7 +3778,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 169008,
       "name": "Sleep Pink Ambiance",
       "url": "https://open.spotify.com/track/1wVJ9BcHEOTWb7FaPoOh7p"
@@ -3152,6 +3818,24 @@
       "duration_ms": 181278,
       "name": "Sleep Pink Noise",
       "url": "https://open.spotify.com/track/2nwEe93mREjGmPSsAZDz7v"
+    },
+    {
+      "album": {
+        "name": "Pink Clouds Syndrome",
+        "url": "https://open.spotify.com/album/0TWHhB5Hy6w7Vo6i5gify0"
+      },
+      "artists": [
+        {
+          "name": "Slumbertronica",
+          "url": "https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Sleep Recovery Pink Noise - Seamless",
+      "url": "https://open.spotify.com/track/13mQm1YiN04vRz8AfuNk2M"
     },
     {
       "album": {
@@ -3263,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "Pink Noise Sleep",
+        "url": "https://open.spotify.com/album/4B143uGP1Wwhb5xO95nvaS"
+      },
+      "artists": [
+        {
+          "name": "Falling into Pink",
+          "url": "https://open.spotify.com/artist/6GpFiBAVovOVJfK7OTWnxN"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Slumber Pink Noise",
+      "url": "https://open.spotify.com/track/55DA1NnaN6GVo3A7aeC9D1"
+    },
+    {
+      "album": {
         "name": "Fall Asleep Pink Noise",
         "url": "https://open.spotify.com/album/27t9924qwzm0zBMFnGiPJr"
       },
@@ -3317,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Pink Noizzz",
+        "url": "https://open.spotify.com/album/7olSXRkTlJ3s18lhdu2Nyy"
+      },
+      "artists": [
+        {
+          "name": "PXL PXL",
+          "url": "https://open.spotify.com/artist/3VsfVLFVzGpyCwlMDpusSp"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Soothing Pink Hum",
+      "url": "https://open.spotify.com/track/2W1L3FaUAWGQSOFbQo08Cz"
+    },
+    {
+      "album": {
         "name": "Pink Noise Sleep",
         "url": "https://open.spotify.com/album/5xLvyREx2BinFPw6fTJvH2"
       },
@@ -3335,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "Soothing Pink Noise",
+        "url": "https://open.spotify.com/album/6PpTn84QPTJOMZ8Oxxaguq"
+      },
+      "artists": [
+        {
+          "name": "Brown Pink White",
+          "url": "https://open.spotify.com/artist/3KEv72uRV6dVwaxdeo0cdh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158346,
+      "name": "Soothing Pink Noise",
+      "url": "https://open.spotify.com/track/5BcOxgSavUxOe3YgeHoc2I"
+    },
+    {
+      "album": {
         "name": "Pink Noise Dreamscape",
         "url": "https://open.spotify.com/album/5WQ8yzLy303xPRsC3LaKhg"
       },
@@ -3346,7 +4084,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 162150,
       "name": "Soothing Pink Noise",
       "url": "https://open.spotify.com/track/7fycWHqFaqWRzaKWlys4W0"
@@ -3368,6 +4106,24 @@
       "duration_ms": 180000,
       "name": "SOS-Pink Noise",
       "url": "https://open.spotify.com/track/2AoLitWjr9Fr249sjW4wXQ"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Focus",
+        "url": "https://open.spotify.com/album/5VGwO2kekC7hk3QjocdzCj"
+      },
+      "artists": [
+        {
+          "name": "Dream Son",
+          "url": "https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244750,
+      "name": "Staying Focused with Pink Noise",
+      "url": "https://open.spotify.com/track/5hCHngsXGFlQKBl0Ca19VQ"
     },
     {
       "album": {
@@ -3443,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "Resonant Pink",
+        "url": "https://open.spotify.com/album/1cHwZJB5inTgB7mXRrG2XD"
+      },
+      "artists": [
+        {
+          "name": "Wavelime",
+          "url": "https://open.spotify.com/artist/0GiHsda5Flapjb7GBjfaST"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Tender Pink Noise - Seamless",
+      "url": "https://open.spotify.com/track/4BKWfFWD2g30YY6Jv0pEFV"
+    },
+    {
+      "album": {
         "name": "Bathing in Pink Noise",
         "url": "https://open.spotify.com/album/2owOWMHM0bD2JNgK0Ab2Su"
       },
@@ -3454,7 +4228,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 211750,
       "name": "The Flow of Pink Noise",
       "url": "https://open.spotify.com/track/1SoXzhG9dJUsEgmsxurbRL"
@@ -3508,7 +4282,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 165579,
       "name": "Velvet Pink Noise",
       "url": "https://open.spotify.com/track/2ZK7u1kbiKbRRzPAxyhjWw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Abbot e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,422 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,423 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 45 | [Ceder](https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Ceder](https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS) | 3:17 |
 | 46 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
 | 47 | [Daqui de Cima](https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri) | [Do Alto da Laje](https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H) | 2:39 |
-| 48 | [Imaginar](https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Imaginar](https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x) | 2:20 |
-| 49 | [SEM MÉNAGE](https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [HODARI](https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154) | 2:29 |
+| 48 | [SEM MÉNAGE](https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [HODARI](https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154) | 2:29 |
+| 49 | [Imaginar](https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Imaginar](https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x) | 2:20 |
 | 50 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
 | 51 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 |
 | 52 | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD) | 2:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 |
 | 75 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 
-Snapshot ID: `MCwwZTE5YWU1MzU5NjBlNGFmZDQwMWQ3ODFlNzZkYzhkNjY3YjU3ZmQz`
+Snapshot ID: `MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj`

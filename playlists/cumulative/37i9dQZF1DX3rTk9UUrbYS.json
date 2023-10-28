@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Wooden Music II",
+        "url": "https://open.spotify.com/album/6ZjFabpgSwAIlAdUWAZeSN"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Stanko Quintet",
+          "url": "https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1322319,
+      "name": "6 & 8 II",
+      "url": "https://open.spotify.com/track/0j2BbmfOWXof5831bYq5eM"
+    },
+    {
+      "album": {
         "name": "6 & 8 II",
         "url": "https://open.spotify.com/album/1zVFPZB3pwdDmbZDULYnHj"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 1322319,
       "name": "6 & 8 II",
       "url": "https://open.spotify.com/track/3AnMq4SPj1OIroah0XlwlK"

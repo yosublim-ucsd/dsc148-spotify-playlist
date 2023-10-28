@@ -2,7 +2,7 @@
 
 ### [ECHO : Fascinating Flute](https://open.spotify.com/playlist/37i9dQZF1DX4x2OUqt1eGO)
 
-> Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Naveen Kumar
+> Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
 88 songs - 7 hr 44 min
 

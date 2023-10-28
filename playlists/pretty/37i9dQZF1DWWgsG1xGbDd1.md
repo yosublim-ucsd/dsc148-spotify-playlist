@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,091 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,160 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Rocking Time](https://open.spotify.com/track/2xoglIbnCpu5ZYowHJyNet) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:47 |
 | 60 | [Heavenless](https://open.spotify.com/track/2s4U4ZCLqSWMrekCakqlBl) | [Don Drummond & The Skatalites — Heavenless](https://open.spotify.com/artist/1VmIFcBGFy0M17OBzIAe2X) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 6:12 |
 
-Snapshot ID: `MCxiZmZlZjBlN2I2OGJlNmVkN2I5ZWQ4ODViZDFiZWQzNGY2YWQ5ZWZm`
+Snapshot ID: `MCwyYWU5ZWNjYjViZTAyMDEwNjU3MTdkYTYzNWRiMWE1MWI0MTMxYmM3`

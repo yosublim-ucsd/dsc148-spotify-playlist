@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 785136,
+  "num_followers": 785702,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmU0ZGFiMGFiNjgxNGVjNjJiZTVjZGExZGQwOTdiYzM2YzFmNWMx",
+  "snapshot_id": "MCxlMmY2NWUwNzZmMDBmNTFjOTFjOThjZGU0YzVlOGE1NjY1NDBkOGRi",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Bad Animals",
+        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 438493,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Bad Animals",
-        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "We've Got Tonight",
-        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Sheena Easton",
-          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "We've Got Tonight",
-      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Cry Like a Rainstorm Howl Like the Wind (feat. Aaron Neville)",
         "url": "https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 211973,
       "name": "Don't Know Much (with Aaron Neville)",
       "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "We've Got Tonight",
+        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Sheena Easton",
+          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "We've Got Tonight",
+      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Solitude Standing",
-        "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Luka",
-      "url": "https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Nothing's Gonna Change My Love For You",
         "url": "https://open.spotify.com/album/6Py0nKnjKSjmR4SlgLKmnr"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 231586,
       "name": "Nothing's Gonna Change My Love For You",
       "url": "https://open.spotify.com/track/1exLL81vN8mD55M9HMOt1t"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Solitude Standing",
+        "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Luka",
+      "url": "https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Temple Of Low Men",
-        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Lionel Richie",
         "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 241760,
       "name": "On The Wings Of Love",
       "url": "https://open.spotify.com/track/6AEdWbrFREOUNmI1hMPbyc"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Temple Of Low Men",
+        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Winner In You",
-        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "The Secret Of Association",
         "url": "https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 324346,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Winner In You",
+        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 290840,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Misplaced Childhood (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF"
-      },
-      "artists": [
-        {
-          "name": "Marillion",
-          "url": "https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Kayleigh - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0r5Ju8WyodpXBHmg3f4zYf"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 250440,
       "name": "Angel Of The Morning",
       "url": "https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Misplaced Childhood (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF"
+      },
+      "artists": [
+        {
+          "name": "Marillion",
+          "url": "https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Kayleigh - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0r5Ju8WyodpXBHmg3f4zYf"
     },
     {
       "added_at": "2023-01-24 23:00:00",

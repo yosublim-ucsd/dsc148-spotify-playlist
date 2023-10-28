@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Time to headbang around the Christmas tree! Cover: Sabaton",
+  "description": "Time to headbang around the Christmas tree! Cover: August Burns Red",
   "name": "Metal Christmas",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 263614,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/0yKDHisurtvtoxMDHiWhzS"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 188602,
       "name": "All I Want for Christmas is You",
       "url": "https://open.spotify.com/track/58GRQJQQuT6GWWqhJlru9X"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189566,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/3R8St06LJzL7SoneXQy7tL"
@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/4XycN6qCKZS88CUOogVnRN"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311080,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/2VxlPbzNZPpoVJ2CmI6QsI"
+    },
+    {
+      "album": {
         "name": "We Wish You A Metal XMas...And A Headbanging New Year!",
         "url": "https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc"
       },
@@ -694,7 +712,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 246960,
       "name": "God Rest Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/2Y6sD3d6WaZ7fA0ABM0KYF"
@@ -780,7 +798,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 258839,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/2tLnjGc2xX0ooHYcGvQ5fm"
@@ -895,6 +913,28 @@
     },
     {
       "album": {
+        "name": "Jingle Bell Rock / Dance of the Sugar Plum Fairy",
+        "url": "https://open.spotify.com/album/4XaF5rkbxBH0PArJqK6kFp"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        },
+        {
+          "name": "Cole Rolland",
+          "url": "https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123916,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/4DAWtJ9AtRjOMRKJYzdFKW"
+    },
+    {
+      "album": {
         "name": "A Very Brutal Christmas",
         "url": "https://open.spotify.com/album/3fvr9iCyQmJQ2AeYulI4tg"
       },
@@ -924,7 +964,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 181640,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/1QoyIEVePqsTeK8w8tmcCl"
@@ -978,7 +1018,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 246750,
       "name": "Jingle Bells (Hail Santa)",
       "url": "https://open.spotify.com/track/1TP5rarSRVsexxhe2quPwx"
@@ -1108,6 +1148,24 @@
       "duration_ms": 183600,
       "name": "Mary Did You Know",
       "url": "https://open.spotify.com/track/5mvByjQpP60Peg80DURkXa"
+    },
+    {
+      "album": {
+        "name": "The Silver Scream",
+        "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "Merry Axe-Mas",
+      "url": "https://open.spotify.com/track/2kM94CiYjbN4932wToEMJo"
     },
     {
       "album": {
@@ -1335,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Lowborn",
+        "url": "https://open.spotify.com/album/42fwK8CU4k8YMq2d0rVxOO"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292188,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/77t2jkqojne0vc9YDnJ3NP"
+    },
+    {
+      "album": {
         "name": "O Holy Night (feat. Eva Under Fire)",
         "url": "https://open.spotify.com/album/5lu7JfIt0sYgi2JAd25UxA"
       },
@@ -1408,7 +1484,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 119013,
       "name": "Rockin' Around the Christmas Tree",
       "url": "https://open.spotify.com/track/0XW1jrD07qo7Dy27LKjtYW"
@@ -1462,7 +1538,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 153466,
       "name": "Rocking around the X-Mas Tree",
       "url": "https://open.spotify.com/track/3t8Qoo7RyMsijIrtUKhdXX"
@@ -1492,7 +1568,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 248120,
       "name": "Rudolph The Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/0OpnNGa1cZFDvLnFntVbGt"
@@ -1510,7 +1586,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 200760,
       "name": "Rudolph The Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/690OVuvns7iA4c2OCWnHIG"
@@ -1628,7 +1704,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 138352,
       "name": "Run, Rudolph, Run",
       "url": "https://open.spotify.com/track/1QS9IqGLOqUsOjjdhLkWoh"
@@ -2015,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Vol. 4 (2014 Remaster)",
+        "url": "https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326328,
+      "name": "Snowblind - 2014 Remaster",
+      "url": "https://open.spotify.com/track/5w091st8zPd8c01LFzTY8B"
+    },
+    {
+      "album": {
         "name": "A Christmas Carol",
         "url": "https://open.spotify.com/album/2ctzCcSgotPQKues1laJWj"
       },
@@ -2134,7 +2228,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 162629,
       "name": "Unrest for Melancholy Men (God Rest Ye Merry Gentlemen)",
       "url": "https://open.spotify.com/track/5bjGI88PPV6YXDVp11rEjl"
@@ -2636,6 +2730,24 @@
       "duration_ms": 325853,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/1C1z0j86okvfGRPRn1rI9b"
+    },
+    {
+      "album": {
+        "name": "X-M@$",
+        "url": "https://open.spotify.com/album/2z2D8A4HGkR5HQtSvb2lV8"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153293,
+      "name": "X-M@$",
+      "url": "https://open.spotify.com/track/1a8UIPEA1syyBSNhWwRfrY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0LctmTPNQ3v"

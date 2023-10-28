@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JeuYQRSLDs.md) - [plain]
 
 > Featuring El Alfa, Farruko, Omega, ROSALÍA & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,565 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,582 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JeuYQRSLDs.md) - [plain]
 | 24 | [Materile](https://open.spotify.com/track/7KR2kBHjAATGyKCscrzkE3) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Materile](https://open.spotify.com/album/1JnTZNv08vuF1Ws95mF3Po) | 2:47 |
 | 25 | [Nobody Like Yo](https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nobody Like Yo](https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ) | 2:34 |
 
-Snapshot ID: `MCxiOGYyZGNkOWE3M2IwOGU3NDg3YjE4ZjZmYWU1NGYyMmI0MThlMzhk`
+Snapshot ID: `MCxmODJhNTliOTEzZWExNDcwYzAxNGZjZDU2NTUxMjY4NDVlYmNjZWM0`

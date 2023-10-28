@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,105 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,109 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 63 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 |
 | 64 | [Bus a Wine](https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Bus a Wine](https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH) | 3:03 |
 | 65 | [Down in de Meat](https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp) | [Lednek](https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK) | [Smoke Mask Riddim](https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1) | 3:22 |
-| 66 | [Braff](https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Braff](https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E) | 3:08 |
-| 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
+| 66 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
+| 67 | [Braff](https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Braff](https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E) | 3:08 |
 | 68 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
 
-Snapshot ID: `MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw`
+Snapshot ID: `MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx`

@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 223999,
+  "num_followers": 225927,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTcwNzYwMmNmMDRjMmIyZDliZjMzODNjNmQxYzk5MjhlNWQzYjlk",
+  "snapshot_id": "MCxlYzFlYzBhMDY0ZmM4YTkzZmU2Mzk5MDliNjQ1MzFmNmQyNzBjNjdh",
   "tracks": [
     {
       "added_at": "2023-10-05 17:47:28",
@@ -307,18 +307,22 @@
     {
       "added_at": "2023-10-05 17:47:28",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
         }
       ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2023-10-05 17:47:28",
@@ -339,6 +343,22 @@
       "duration_ms": 119736,
       "name": "Orquestra Maldita",
       "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
+    },
+    {
+      "added_at": "2023-10-05 17:47:28",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
       "added_at": "2023-10-05 17:47:28",
@@ -571,6 +591,22 @@
     {
       "added_at": "2023-10-05 17:47:28",
       "album": {
+        "name": "WAKE UP!",
+        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "WAKE UP!",
+      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
+    },
+    {
+      "added_at": "2023-10-05 17:47:28",
+      "album": {
         "name": "GHOST!",
         "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
       },
@@ -587,22 +623,6 @@
       "duration_ms": 231704,
       "name": "GHOST!",
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
-    },
-    {
-      "added_at": "2023-10-05 17:47:28",
-      "album": {
-        "name": "WAKE UP!",
-        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "WAKE UP!",
-      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
     },
     {
       "added_at": "2023-10-05 17:47:28",
@@ -715,26 +735,6 @@
       "duration_ms": 98067,
       "name": "Mexican Phonk Eki",
       "url": "https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM"
-    },
-    {
-      "added_at": "2023-10-05 17:47:28",
-      "album": {
-        "name": "Bate Forte e Dan\u00e7a",
-        "url": "https://open.spotify.com/album/0iRwZmvXcBxvKWJtF6XWLD"
-      },
-      "artists": [
-        {
-          "name": "0to8",
-          "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
-        },
-        {
-          "name": "DJ Ritmo55",
-          "url": "https://open.spotify.com/artist/1IiGoWBzlPAtb1tuN1ux1E"
-        }
-      ],
-      "duration_ms": 110793,
-      "name": "Bate Forte e Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3WgeWkA124RA02ACzWai6Y"
     },
     {
       "added_at": "2023-10-05 17:47:28",

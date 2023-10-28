@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23630,
+  "num_followers": 23636,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWRjMjYxYzg2NDc4YWM2YTQ1MDk3YzY0MDg0ZWI5YzEzMTY3MTFk",
+  "snapshot_id": "MCxmZDFiZTFmY2ViNTRhNjgyZWFiYjRjMzdhYmYwMDg4NDU0Njk0MmEy",
   "tracks": [
     {
       "added_at": "2023-10-26 18:51:01",
@@ -219,6 +219,26 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 205436,
+      "name": "Entre las Dos",
+      "url": "https://open.spotify.com/track/2SbinZ9sYneunRL0MNxlbZ"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 174219,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 205436,
-      "name": "Entre las Dos",
-      "url": "https://open.spotify.com/track/2SbinZ9sYneunRL0MNxlbZ"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -979,30 +979,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Pervertida",
-        "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
-      },
-      "artists": [
-        {
-          "name": "Vera Frod",
-          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
-        },
-        {
-          "name": "Punga",
-          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
-        },
-        {
-          "name": "MAG",
-          "url": "https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Pervertida",
-      "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "No Ves Tal Vez (Evlay Remix)",
         "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 313608,
       "name": "No Ves Tal Vez - Evlay Remix",
       "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Pervertida",
+        "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
+      },
+      "artists": [
+        {
+          "name": "Vera Frod",
+          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
+        },
+        {
+          "name": "Punga",
+          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
+        },
+        {
+          "name": "MAG",
+          "url": "https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Pervertida",
+      "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Cu\u00e1nto Falta",
-        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
-      },
-      "artists": [
-        {
-          "name": "Ziberia",
-          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Cu\u00e1nto Falta",
-      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
+        "name": "Cu\u00e1nto Falta",
+        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
       },
       "artists": [
         {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+          "name": "Ziberia",
+          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
         }
       ],
-      "duration_ms": 201947,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
+      "duration_ms": 240050,
+      "name": "Cu\u00e1nto Falta",
+      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1339,6 +1323,22 @@
       "duration_ms": 178050,
       "name": "MELONI",
       "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201947,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Noche de Vampiros",
-        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
-      },
-      "artists": [
-        {
-          "name": "Trashu",
-          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
-        }
-      ],
-      "duration_ms": 185187,
-      "name": "Noche de Vampiros",
-      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Dir\u00e9 tu nombre",
         "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 179950,
       "name": "Dir\u00e9 tu nombre",
       "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Noche de Vampiros",
+        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
+      },
+      "artists": [
+        {
+          "name": "Trashu",
+          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
+        }
+      ],
+      "duration_ms": 185187,
+      "name": "Noche de Vampiros",
+      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc"
+      },
+      "artists": [
+        {
+          "name": "Gor2",
+          "url": "https://open.spotify.com/artist/0HaKpLgYbvjuZWzAvc39ME"
+        }
+      ],
+      "duration_ms": 309014,
+      "name": "Delight",
+      "url": "https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc"
-      },
-      "artists": [
-        {
-          "name": "Gor2",
-          "url": "https://open.spotify.com/artist/0HaKpLgYbvjuZWzAvc39ME"
-        }
-      ],
-      "duration_ms": 309014,
-      "name": "Delight",
-      "url": "https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "PANTERA NEGRA",
-        "url": "https://open.spotify.com/album/7kHLoYeWZ5LxSOKYlsvhp9"
-      },
-      "artists": [
-        {
-          "name": "HAKANNA",
-          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
-        },
-        {
-          "name": "Joshvatunes",
-          "url": "https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "PANTERA NEGRA",
-      "url": "https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Todas las Luces (Remix)",
         "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 220000,
       "name": "Todas las Luces - Remix",
       "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/7kHLoYeWZ5LxSOKYlsvhp9"
+      },
+      "artists": [
+        {
+          "name": "HAKANNA",
+          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
+        },
+        {
+          "name": "Joshvatunes",
+          "url": "https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc"
+        }
+      ],
+      "duration_ms": 200125,
+      "name": "PANTERA NEGRA",
+      "url": "https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "El Estado de las Cosas Como Son",
-        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Mauri",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        },
-        {
-          "name": "Desaria",
-          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
-        }
-      ],
-      "duration_ms": 182312,
-      "name": "El Estado de las Cosas Como Son",
-      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Secreto a Voces",
         "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 231569,
       "name": "Secreto a Voces",
       "url": "https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "El Estado de las Cosas Como Son",
+        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Mauri",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Desaria",
+          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
+        }
+      ],
+      "duration_ms": 182312,
+      "name": "El Estado de las Cosas Como Son",
+      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
     },
     {
       "added_at": "2023-10-26 18:51:01",

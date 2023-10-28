@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-171 songs - 10 hr 6 min
+172 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Carrying Your Love With Me](https://open.spotify.com/track/4Z2dsLAyEaSYIDzyK2yCeE) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Best Of \(Deluxe Edition\)](https://open.spotify.com/album/2syxP3j7sO6A5NiRPt37H3) | 3:50 | 2021-09-17 |  |
 | [Change My Mind \(Wedding Version\)](https://open.spotify.com/track/0LGuRz1gpaez8r1Oq0JaLd) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Change My Mind \(Wedding Version\)](https://open.spotify.com/album/4cpPRCBs0XBBN0QZHtEu2Y) | 3:37 | 2022-05-20 |  |
 | [Check Yes Or No](https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait Out Of The Box](https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW) | 3:20 | 2021-09-17 |  |
+| [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 | 2023-10-27 |  |
 | [Deeper Than the Holler](https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Old 8 x 10](https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh) | 3:39 | 2021-09-17 |  |
 | [Diamonds](https://open.spotify.com/track/1ZHWO6q1J88f9WrRJbPupM) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Diamonds](https://open.spotify.com/album/32a1lfCxSO9INWxjCI9C83) | 2:52 | 2021-09-17 |  |
 | [Diamonds or Twine](https://open.spotify.com/track/3nLQCvYLudPrG2q4mxnY2Y) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [To a T](https://open.spotify.com/album/1J1Y9C8Rgk1ojpvM06it2Q) | 3:31 | 2021-09-17 |  |

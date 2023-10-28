@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 
 > Trap de la isla, con Yeruza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,785 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,844 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 | 29 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 |
 | 30 | [Estamos Bien](https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:28 |
 | 31 | [Glizzy Walk 2.5](https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Glizzy Walk 2.5](https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK) | 3:44 |
-| 32 | [Big Booty](https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [Big Booty](https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt) | 3:11 |
+| 32 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 |
 | 33 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 |
-| 34 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 |
+| 34 | [Big Booty](https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [Big Booty](https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt) | 3:11 |
 | 35 | [47 \- Remix](https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Sinfonico](https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [47 \(Remix\)](https://open.spotify.com/album/7hlRNdjFs9DEPTrHhzFwYu) | 8:37 |
 | 36 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 |
 | 37 | [Vendetta](https://open.spotify.com/track/38ffA391ieDQV6YQSHG5aZ) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Vendetta](https://open.spotify.com/album/2zsx2z1koXU4IxPMyQyOPs) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49pAYA86UWp.md) - [plain]
 | 49 | [Narcos](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 4:19 |
 | 50 | [Tacos Altos](https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Gargola](https://open.spotify.com/artist/5eJtlvB9Qga52zsu4GzDNA) | [Tacos Altos](https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN) | 5:06 |
 
-Snapshot ID: `MCxmZjAwY2Q0NmZmYTAxM2E0YTViZmRjYzc3NDhiZDYzMTI2NzYyZmY5`
+Snapshot ID: `MCwwZDI3NDQzZDA1MjRmZDE0MGQ2NmVjZmFiYzkyN2ZjOTRmZmZmMDI2`

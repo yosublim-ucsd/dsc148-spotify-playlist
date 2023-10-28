@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 230802,
+  "num_followers": 230988,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTE1Y2U2NWY2YWNjMjJlMzc3NjQ4NjUwYjI2ZGI4ODQzN2IzZTA5",
+  "snapshot_id": "MCw3NjI3Yjk4NzgyZjY4YmNiYzA0NzJiYmI4NWQxMWI1NDc2ZDcxMWM4",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Presenting Dion And The Belmonts",
         "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 158253,
       "name": "A Teenager In Love",
       "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -447,38 +447,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Bobby Darin",
-        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 131719,
-      "name": "Splish Splash",
-      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Pure Gold",
-        "url": "https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Papa Loves Mambo",
-      "url": "https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sings Hank Williams",
         "url": "https://open.spotify.com/album/0X7AlTPtEDf0Kv1QqYQwlU"
       },
@@ -495,6 +463,22 @@
       "duration_ms": 168554,
       "name": "Folsom Prison Blues",
       "url": "https://open.spotify.com/track/121sjkub4p4zcFNozkKnQD"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Pure Gold",
+        "url": "https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Papa Loves Mambo",
+      "url": "https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -531,22 +515,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Shout!",
         "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
       },
@@ -563,18 +531,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "Bobby Darin",
+        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+      "duration_ms": 131719,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -591,6 +559,22 @@
       "duration_ms": 160080,
       "name": "Rockin' Robin",
       "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -695,18 +679,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
       "artists": [
         {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 116026,
-      "name": "Yakety Yak - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -723,6 +707,22 @@
       "duration_ms": 150866,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 116026,
+      "name": "Yakety Yak - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come Go With Me: The Best Of The Del-Vikings",
-        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
-      },
-      "artists": [
-        {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Come Go With Me",
-      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 141386,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Ray Charles Story Volume 2",
-        "url": "https://open.spotify.com/album/5xNwNgXgT3ZbBGlNZyziNC"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 391426,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/3JvDEbXLKUxaNv0D0txup5"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Rama Lama Ding Dong EP",
         "url": "https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 147720,
       "name": "Rama Lama Ding Dong (Original version 1958)",
       "url": "https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Ray Charles Story Volume 2",
+        "url": "https://open.spotify.com/album/5xNwNgXgT3ZbBGlNZyziNC"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 391426,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/3JvDEbXLKUxaNv0D0txup5"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
-        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Yelvington",
-          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "Drinkin' Wine Spodee-O-Dee",
-      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "I Need a Man / No Matter Who's to Blame",
         "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 172140,
       "name": "I Need a Man",
       "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
+        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Yelvington",
+          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "Drinkin' Wine Spodee-O-Dee",
+      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
     },
     {
       "added_at": "2022-06-07 05:25:13",

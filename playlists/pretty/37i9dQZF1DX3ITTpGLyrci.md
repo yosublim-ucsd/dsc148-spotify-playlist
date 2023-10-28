@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 
 > Get the drinks on ice, this one is on us
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,514 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,583 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 75 | [All Night Long](https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [All Night Long](https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v) | 3:54 |
 | 76 | [Twust](https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij) | [HStikkytokky](https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb), [General G](https://open.spotify.com/artist/4mZZNSta0MoJhUVaYSYPHO) | [Twust](https://open.spotify.com/album/1UfWIfP15xiwr1PuRoeqU6) | 2:26 |
 | 77 | [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 |
-| 78 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 |
+| 78 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 |
 | 79 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 |
 | 80 | [Girl](https://open.spotify.com/track/4YsMDOgS5vQf5RyZD8lR34) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Girl](https://open.spotify.com/album/4PypLx4PRtIi1HJF3A0yEF) | 2:39 |
 | 81 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 99 | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/track/2sW3snLTi77h0rm4g9tDuD) | [Wyles](https://open.spotify.com/artist/77u8tnFyGYz4GrpGbQXeUr), [Architechs](https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G), [Crystxl King](https://open.spotify.com/artist/01FnnL35UsLhTNK27gZjqt) | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/album/1JYq2a06tP799ORo2YdBB6) | 2:45 |
 | 100 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 |
 
-Snapshot ID: `MCw1ZGM5MjU1OTRmOWY5MzY4OTBlZTM5MDI0MzNmMDA4MjAwNTc0YTg4`
+Snapshot ID: `MCwxNmRhZTljZjA3ZDJhZTEyZjc3OGFkYWMyYTFlY2U4NmVkYTA3Mjhi`

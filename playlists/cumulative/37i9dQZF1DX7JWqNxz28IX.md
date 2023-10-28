@@ -4,7 +4,7 @@
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-219 songs - 9 hr 54 min
+220 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [La cura, non sei te](https://open.spotify.com/track/17Du1OmQ0VSdmj0euyyCIT) | [Chanoir Hdn](https://open.spotify.com/artist/78CahxlxFuaIv0gSZLaU7O) | [La cura, non sei te](https://open.spotify.com/album/666vPcaVGbptgWYnv5kHQz) | 2:08 | 2022-12-15 | 2023-04-30 |
 | [La stella più bella di sempre](https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [La stella più bella di sempre](https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW) | 2:06 | 2022-12-22 |  |
 | [Lacrime di sale](https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Lacrime di sale](https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A) | 3:15 | 2022-04-21 |  |
-| [LE PAROLE GIUSTE](https://open.spotify.com/track/00lhPwTUbM0yZUmiHKCDNp) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9), [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [LE PAROLE GIUSTE](https://open.spotify.com/album/224PJseyAs5K9VZTyuURcp) | 2:47 | 2023-02-23 |  |
+| [LE PAROLE GIUSTE](https://open.spotify.com/track/00lhPwTUbM0yZUmiHKCDNp) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9), [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [LE PAROLE GIUSTE](https://open.spotify.com/album/224PJseyAs5K9VZTyuURcp) | 2:47 | 2023-02-23 | 2023-10-28 |
 | [LE PAROLE GIUSTE](https://open.spotify.com/track/2rJAaSQeYsM4j8eHFyCyZQ) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9), [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [LE PAROLE GIUSTE](https://open.spotify.com/album/5Ni8ww2nX4bG6h6WXWq3tG) | 2:47 | 2022-12-05 | 2023-02-25 |
 | [Le Tue Insicurezze](https://open.spotify.com/track/3CiAz5liYGnMMMsdappkTu) | [Pseudospettri](https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE), [Koaku](https://open.spotify.com/artist/4Izpu8sOW1lH8u82uK6BDK), [Lanyard](https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1) | [Summertape](https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7) | 3:18 | 2022-07-16 | 2023-06-15 |
 | [Lei Mi Ama](https://open.spotify.com/track/0gFWCB7HPb8EaeX2CCpADr) | [DoppioSenso](https://open.spotify.com/artist/61LAPKisoA7JNOAUK6XPl9) | [Lei Mi Ama](https://open.spotify.com/album/2xmh5qjvZIE3ThNs59KlcM) | 3:03 | 2022-09-22 | 2023-02-25 |
@@ -176,6 +176,7 @@
 | [sai che...](https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [sai che...](https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b) | 2:40 | 2023-02-23 | 2023-06-03 |
 | [SBAGLI](https://open.spotify.com/track/376pQQ2QTVuqOP1HmiKymm) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [SBAGLI](https://open.spotify.com/album/2QBjof3TQC9crDTYKzz8dg) | 2:38 | 2023-06-14 |  |
 | [Scusa ma](https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Scusa ma](https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY) | 1:41 | 2022-04-21 |  |
+| [Sedato e Deluso](https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy) | [Sedato e Deluso](https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler) | 3:22 | 2023-10-27 |  |
 | [Segnali di fumo](https://open.spotify.com/track/0jiy4Q3fQCkAvVPAFGpylh) | [alessioego](https://open.spotify.com/artist/2rFgWypbBE4LzXAGKDwNb6) | [Segnali di fumo](https://open.spotify.com/album/4fmwfuMhCQHB2GUcGkivn1) | 3:06 | 2023-01-12 | 2023-03-31 |
 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/5wQQrl0Mk6QhcATNZqypux) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Sei stata la canzone più bella del mondo](https://open.spotify.com/album/4gKDciM57bbYTRYa9DHaU2) | 3:04 | 2022-04-21 | 2023-02-25 |
 | [Sei stata la canzone più bella del mondo](https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [Testa e cuore](https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ) | 3:04 | 2023-02-23 |  |

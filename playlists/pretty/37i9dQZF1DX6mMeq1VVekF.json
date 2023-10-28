@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Sainte & Cash Cobain",
-  "num_followers": 155824,
+  "num_followers": 155875,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2FlMmNhM2Y1YjUxNTdiZmRiZGZiYWU5NzQ4YzRlNTYyOTk4NGMz",
+  "snapshot_id": "MCwzNGY5MjBjYWJiMGMzMGY5MzkxZWQwYjJhMjM1NjU4ZTdlNzdlMjNk",
   "tracks": [
     {
       "added_at": "2023-08-18 08:12:16",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Lotto",
-        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "Right Hand",
         "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 165067,
       "name": "Right Hand",
       "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "Lotto",
+        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Take Care of Yourself Blacko",
-        "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 178340,
-      "name": "SIMMER DOWN",
-      "url": "https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "Rainforest",
         "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 162436,
       "name": "Rainforest",
       "url": "https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "Take Care of Yourself Blacko",
+        "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 178340,
+      "name": "SIMMER DOWN",
+      "url": "https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Real Back In Style",
-        "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
-      },
-      "artists": [
-        {
-          "name": "Potter Payper",
-          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
-        }
-      ],
-      "duration_ms": 225423,
-      "name": "White Ash",
-      "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 195275,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "Real Back In Style",
+        "url": "https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "duration_ms": 225423,
+      "name": "White Ash",
+      "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
     },
     {
       "added_at": "2023-08-18 08:12:16",

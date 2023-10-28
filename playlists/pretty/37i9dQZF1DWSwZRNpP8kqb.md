@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,019 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,046 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 37 | [Cuequita del Desengaño](https://open.spotify.com/track/0yNasMmFNCvAv6X7QDk4AJ) | [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [Coplas de Sangre, Vol\. 5](https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK) | 2:45 |
 | 38 | [Días para Celebrar](https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 2:20 |
 | 39 | [Carnavaleando de Sol a Sol](https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Mi Camino](https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD) | 2:56 |
-| 40 | [Canto Enamorado](https://open.spotify.com/track/7BRno8jhBTQXCQbqJNFGrq) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Canto Enamorado](https://open.spotify.com/album/4j9cLwpYYtEVoHxQTNmNrZ) | 3:04 |
-| 41 | [Tu Respuesta](https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA) | [Valeria Lopez Vila](https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA) | [Tu Respuesta](https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto) | 3:42 |
+| 40 | [Tu Respuesta](https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA) | [Valeria Lopez Vila](https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA) | [Tu Respuesta](https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto) | 3:42 |
+| 41 | [Canto Enamorado](https://open.spotify.com/track/7BRno8jhBTQXCQbqJNFGrq) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Canto Enamorado](https://open.spotify.com/album/4j9cLwpYYtEVoHxQTNmNrZ) | 3:04 |
 | 42 | [De Los Dias, Los Mas Lindos](https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Remedio Pal Alma](https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi) | 3:38 |
 | 43 | [Florcita de Cardón](https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6) | [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Jallalla](https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt) | 3:51 |
 | 44 | [Cuando Llegue el Alba](https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI) | [Yamila Cafrune](https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV) | [Herencia](https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ) | 3:57 |
 | 45 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [CARNAVALITO DEL DUENDE](https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ) | 2:52 |
-| 46 | [Caminante](https://open.spotify.com/track/0Tvd59KWbv8rPMMtmZmRI2) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO) | [Caminante](https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0) | 3:28 |
-| 47 | [Pajarito](https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Pajarito](https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK) | 2:44 |
+| 46 | [Pajarito](https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Pajarito](https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK) | 2:44 |
+| 47 | [Caminante](https://open.spotify.com/track/0Tvd59KWbv8rPMMtmZmRI2) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO) | [Caminante](https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0) | 3:28 |
 | 48 | [El Otro País](https://open.spotify.com/track/0YlsXdXjBWt9KDLJpjwfii) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [El Otro País](https://open.spotify.com/album/1XbuwOs0M0UTManSQD3dF1) | 4:26 |
 | 49 | [La Olvidada](https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Olvidada](https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ) | 2:34 |
 | 50 | [Campo Afuera](https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG) | [Paola Arias](https://open.spotify.com/artist/5qZQs9TjnHu0KrGsRa1zIt), [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [Uno Más 6](https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf) | 2:23 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 69 | [Mba e Pa Doña Froilana](https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup) | [Luna Monti y Juan Quintero](https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB) | [Después de Usted](https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF) | 2:33 |
 | 70 | [La Luminosa](https://open.spotify.com/track/4LaPXJhWXZeFphemEgp6M0) | [Don Olimpio](https://open.spotify.com/artist/0S9BuBCtPWNNiQgvXvk1y9), [Agustín Lumerman](https://open.spotify.com/artist/0ohmaLwafoITPezmLL9WtE), [Juan Pablo Di Leone](https://open.spotify.com/artist/6oDkfDNI4obD3rvv8WRpU9) | [Mi Fortuna](https://open.spotify.com/album/5S5fXBVVgU0E56OKh5dowP) | 3:37 |
 | 71 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
-| 72 | [Querido Alfredo](https://open.spotify.com/track/7MlG3yvG8dYb72wpAOqnvT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Querido Alfredo](https://open.spotify.com/album/55eGlq2OKwyzYb6UBjXhP8) | 5:14 |
-| 73 | [Zamba del Renacer](https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Victoria Morán](https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB) | [Aleteo](https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2) | 3:32 |
+| 72 | [Zamba del Renacer](https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Victoria Morán](https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB) | [Aleteo](https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2) | 3:32 |
+| 73 | [Querido Alfredo](https://open.spotify.com/track/7MlG3yvG8dYb72wpAOqnvT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Querido Alfredo](https://open.spotify.com/album/55eGlq2OKwyzYb6UBjXhP8) | 5:14 |
 | 74 | [La Jardinera](https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz) | [Silvia Iriondo](https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7), [Carlos Aguirre & Quinteto de Guitarras](https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5) | [Pasionarias](https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m) | 3:55 |
 | 75 | [Vuelve a Sonar](https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Vuelve a Sonar](https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL) | 2:44 |
 | 76 | [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 99 | [Canción Repentina](https://open.spotify.com/track/2sa6bCsoc8rBlxSPdxpObs) | [Verde Trébol](https://open.spotify.com/artist/24KqDdEAK2qD277Eyc0aPl) | [No Hacen Falta Alas](https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ) | 2:42 |
 | 100 | [Cómo Pájaros en el Aire](https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u) | [Anabella Zoch](https://open.spotify.com/artist/7hxv4viTwAh1SxAFcB2u2v) | [Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal](https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw) | 4:27 |
 
-Snapshot ID: `MCxkMWI5YjA5NjVlYmQyODA5MDA0MWZhMjgxNGE2NGM5ZmIwZTVhZGNm`
+Snapshot ID: `MCxlMzE5N2Y4ODYyODczMDFkMTg2ZjQxOTljZDNjYmRhZDc0NjlhYmZh`

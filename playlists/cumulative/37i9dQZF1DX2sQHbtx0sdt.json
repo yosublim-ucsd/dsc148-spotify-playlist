@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-05",
-  "description": "New and trending hip-hop from around the world. Cover: TOBi",
+  "description": "New and trending hip-hop from around the world. Cover: Rema",
   "name": "Global Hip-Hop",
   "tracks": [
     {
@@ -66,6 +66,28 @@
       "duration_ms": 302000,
       "name": "A Veil of Mist",
       "url": "https://open.spotify.com/track/37PyxXH5vlbNcYwxOHbfFn"
+    },
+    {
+      "album": {
+        "name": "Adolescence (Ft. Digga D)",
+        "url": "https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171764,
+      "name": "Adolescence (Ft. Digga D)",
+      "url": "https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf"
     },
     {
       "album": {
@@ -186,7 +208,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 173333,
       "name": "BAD TILL ETERNITY (feat. Zlatan)",
       "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
@@ -234,7 +256,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 119329,
       "name": "Bentley (feat. Simba La Rue, J Lord)",
       "url": "https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku"
@@ -343,6 +365,24 @@
     },
     {
       "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196175,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1e3mXhGDxuntmvO1sVACT2"
+    },
+    {
+      "album": {
         "name": "Caney",
         "url": "https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN"
       },
@@ -358,6 +398,28 @@
       "duration_ms": 165059,
       "name": "Caney",
       "url": "https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz"
+    },
+    {
+      "album": {
+        "name": "CARACAS",
+        "url": "https://open.spotify.com/album/5rvrYFIWTdEb3XsC38jtOe"
+      },
+      "artists": [
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "CARACAS",
+      "url": "https://open.spotify.com/track/17vItZcGnnlgsoV7HWhUF2"
     },
     {
       "album": {
@@ -504,7 +566,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 160858,
       "name": "Dans le noir",
       "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
@@ -526,6 +588,46 @@
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+    },
+    {
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174038,
+      "name": "DOLLERZ (feat. Odumodublvck)",
+      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
+    },
+    {
+      "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
     },
     {
       "album": {
@@ -570,7 +672,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 180157,
       "name": "Endless",
       "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
@@ -855,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Honeybun",
+        "url": "https://open.spotify.com/album/6BJLFkMbbpa9yTjsEb9a7h"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128195,
+      "name": "Honeybun",
+      "url": "https://open.spotify.com/track/2fM2PrwFBbaiK88Nw6CjdK"
+    },
+    {
+      "album": {
         "name": "INTOXYCATED (feat. Dave)",
         "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
       },
@@ -870,7 +990,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 212000,
       "name": "INTOXYCATED (feat. Dave)",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
@@ -921,6 +1041,28 @@
     },
     {
       "album": {
+        "name": "Khartoum (with Adekunle Gold)",
+        "url": "https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142719,
+      "name": "Khartoum (with Adekunle Gold)",
+      "url": "https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk"
+    },
+    {
+      "album": {
         "name": "Back To Square One",
         "url": "https://open.spotify.com/album/5ZNpiEEn5h8L40p99UZ9XI"
       },
@@ -954,7 +1096,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 150040,
       "name": "Konstn\u00e4rer",
       "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
@@ -1046,7 +1188,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 196089,
       "name": "Magot",
       "url": "https://open.spotify.com/track/69zAnyBtarXinChSUq925t"
@@ -1494,7 +1636,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184021,
       "name": "ONE TIME",
       "url": "https://open.spotify.com/track/7uloC7Sgo5KNFKrgRepyhJ"
@@ -1797,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Roule un autre (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Roule un autre - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
+    },
+    {
+      "album": {
         "name": "Saiyan",
         "url": "https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK"
       },
@@ -2023,6 +2183,28 @@
     },
     {
       "album": {
+        "name": "Till We Die (feat. Ruger)",
+        "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183289,
+      "name": "Till We Die (feat. Ruger)",
+      "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
+    },
+    {
+      "album": {
         "name": "PANIC",
         "url": "https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ"
       },
@@ -2154,7 +2336,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 167500,
       "name": "We Are The Ones (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/0VBdCcaY6ERYKF7fZXQ8YX"

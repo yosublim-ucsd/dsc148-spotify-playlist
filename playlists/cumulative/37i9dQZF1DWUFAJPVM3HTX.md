@@ -2,9 +2,9 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW?si=MFWuaGKSRFCepbJ4nBSpCg">OSA</a>\. Updates every Wednesday.
+> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv?si=Dtfw4jkmT1\-06BCtssgYtA">Lekan</a>\. Updates every Wednesday.
 
-1,845 songs - 3 day 23 hr 3 min
+1,846 songs - 3 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,7 +609,8 @@
 | [Gateway Drug](https://open.spotify.com/track/7ajMHPi55sVjqunyK7Kj32) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Gateway Drug](https://open.spotify.com/album/2Icsn7gs28Yplr9cNLy1N1) | 2:38 | 2023-04-26 | 2023-08-04 |
 | [GEEK OUT!](https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES), [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [GEEK OUT!](https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X) | 3:04 | 2023-03-24 | 2023-08-04 |
 | [Get Around to It](https://open.spotify.com/track/7gAKlPw6Y1COhRFgGC5OmN) | [Ruby Jackson](https://open.spotify.com/artist/4NYJSTgWtPpU2aJ4ejXSiL) | [Get Around to It](https://open.spotify.com/album/2E3CYQ5bw3xathwsoJ30re) | 3:58 | 2022-09-02 | 2022-10-06 |
-| [Get Back](https://open.spotify.com/track/4lgaAcJuVx9HpAq86PA41J) | [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [Get Back](https://open.spotify.com/album/6ECWMYaP6WjVX8IUdtnfaf) | 1:41 | 2023-08-30 |  |
+| [get back](https://open.spotify.com/track/1kr266GQyqocYCrfcYz2lH) | [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [brownboy](https://open.spotify.com/album/2mbgV2Ofl5xsTcOH9uOgaV) | 1:41 | 2023-08-30 |  |
+| [Get Back](https://open.spotify.com/track/4lgaAcJuVx9HpAq86PA41J) | [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [Get Back](https://open.spotify.com/album/6ECWMYaP6WjVX8IUdtnfaf) | 1:41 | 2023-08-30 | 2023-10-28 |
 | [Get Back Up](https://open.spotify.com/track/0pMEiWtpdmg4NWi75kfirk) | [Bliu Prince](https://open.spotify.com/artist/6Mbu1OLeIZ5JvbQ4ck0E1M) | [Get Back Up](https://open.spotify.com/album/5O5RoZtLJ7bTy4nmC9StaA) | 2:38 | 2023-08-03 | 2023-10-04 |
 | [GET DOWN](https://open.spotify.com/track/2GUK6RW6ZJBLSznO8WQOs5) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Cherese Bereal](https://open.spotify.com/artist/5caHphpLUK8Sj6QshWEDG6) | [GET DOWN](https://open.spotify.com/album/0z9MZfYRVtjl6ElMPye0jJ) | 4:00 | 2023-07-14 | 2023-09-09 |
 | [Get Down \- Remix](https://open.spotify.com/track/07KhDx2bD3xRZ5d8spD4hv) | [Nappyhigh](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4), [ihateyouALX](https://open.spotify.com/artist/1ITIh5T2bdvDHALVgbR55O), [Brad Bellard](https://open.spotify.com/artist/4JByW708R736IxNLkuLqNP) | [Get Down](https://open.spotify.com/album/1rguHKpy035r5w04Zm2eEY) | 2:47 | 2022-10-28 | 2022-12-01 |
@@ -1737,7 +1738,7 @@
 | [Wasteman](https://open.spotify.com/track/1E6L7ywc4ksghHvgTQhjOo) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Wasteman](https://open.spotify.com/album/5m3fxmV9RV0lKEYEqYjLB4) | 4:33 | 2023-07-14 | 2023-09-09 |
 | [wasting](https://open.spotify.com/track/5ACFePwf0aIhieh3D6xC8r) | [cityboymoe](https://open.spotify.com/artist/4KopSPzxYX2YfExvXefbjp) | [wasting](https://open.spotify.com/album/77Jra4ODVhjybF694tHM7N) | 3:00 | 2022-08-19 | 2022-10-06 |
 | [Wasting Away](https://open.spotify.com/track/5sIO0XAiMZtt5J9Xeaq8HI) | [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Wasting Away](https://open.spotify.com/album/1N9bfFra8XthSOIxiy7fAe) | 2:24 | 2022-08-26 | 2023-02-04 |
-| [Wasting Time](https://open.spotify.com/track/40Wc4TCv8Z0IiSX4UV3bwL) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR) | [Wasting Time](https://open.spotify.com/album/6iOd2SCeSVgV7wjHuqywgq) | 2:25 | 2023-09-20 |  |
+| [Wasting Time \- Single Version](https://open.spotify.com/track/40Wc4TCv8Z0IiSX4UV3bwL) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR) | [Wasting Time](https://open.spotify.com/album/6iOd2SCeSVgV7wjHuqywgq) | 2:25 | 2023-09-20 |  |
 | [Water](https://open.spotify.com/track/7hJ7TIVb6MjBsfcABgEDvI) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Water](https://open.spotify.com/album/0kW09cag3bQQgcUsqofHqG) | 3:10 | 2023-03-03 | 2023-05-06 |
 | [wave](https://open.spotify.com/track/2givCQSmR4dMDxewrnjmN7) | [Saffran](https://open.spotify.com/artist/67Ri5DRp9vTHCs8mcnQf8s), [MIAW](https://open.spotify.com/artist/2SNhbHpLD4lJoEcRKZY5lW) | [wave](https://open.spotify.com/album/505VF5HXPhzN3qy9fAbZr0) | 3:06 | 2022-01-12 | 2022-02-03 |
 | [Waves](https://open.spotify.com/track/1oDJ2eaNPNebEv27kAx5vT) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Waves](https://open.spotify.com/album/6tShbarvGyCg0aoIVWM480) | 2:45 | 2023-06-14 | 2023-08-04 |

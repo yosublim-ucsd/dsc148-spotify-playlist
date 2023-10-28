@@ -1,13 +1,61 @@
 {
   "description": "",
-  "num_followers": 28558,
+  "num_followers": 28567,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzUxNywwMDgzNGVhN2E4OWZhYWNjYmI4ZDMwZjAzODllYjc2NzI4MmFiZDdj",
+  "snapshot_id": "MzUyMyw2ODIzZDllY2Y2NjQwNDE4MmM5MDczZTBiNjMyODU4ZDBmNmNlYzQ5",
   "tracks": [
+    {
+      "added_at": "2023-10-27 16:06:15",
+      "album": {
+        "name": "4#TRAX",
+        "url": "https://open.spotify.com/album/1d4UulScUQloV42jkZN4cn"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "CAPONE",
+      "url": "https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69"
+    },
+    {
+      "added_at": "2023-10-27 16:06:28",
+      "album": {
+        "name": "DJ Friendly",
+        "url": "https://open.spotify.com/album/0wrBtOddeFuzNoYO6aLFlx"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 311671,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/2Buoe3DXKE5VL5w0JCeuQz"
+    },
+    {
+      "added_at": "2023-10-27 10:42:36",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 283074,
+      "name": "How Music Makes You Feel Better",
+      "url": "https://open.spotify.com/track/2WNdPUwVf0OFsvWfpT6jKN"
+    },
     {
       "added_at": "2023-10-26 16:46:10",
       "album": {
@@ -413,26 +461,6 @@
       "url": "https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR"
     },
     {
-      "added_at": "2023-08-17 19:49:55",
-      "album": {
-        "name": "Forever (Solomun Remix)",
-        "url": "https://open.spotify.com/album/09rft4QsmOVsaUzJjGrZOb"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Forever (Solomun Remix)",
-      "url": "https://open.spotify.com/track/6Y99Pdmhbg5GhAAxwjcbhR"
-    },
-    {
       "added_at": "2023-08-11 09:58:46",
       "album": {
         "name": "Hidden Angel (Hackney Road Studio Session)",
@@ -613,22 +641,6 @@
       "url": "https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18"
     },
     {
-      "added_at": "2023-06-27 16:35:03",
-      "album": {
-        "name": "Tumbling Dice",
-        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 175991,
-      "name": "Tumbling Dice",
-      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
-    },
-    {
       "added_at": "2023-05-31 16:24:08",
       "album": {
         "name": "Woman",
@@ -711,22 +723,6 @@
       "duration_ms": 247471,
       "name": "Slugs of Love",
       "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
-    },
-    {
-      "added_at": "2023-03-24 09:01:08",
-      "album": {
-        "name": "Live at Bush Hall",
-        "url": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Up Song - Live at Bush Hall",
-      "url": "https://open.spotify.com/track/3b6suhvxtWPIF0tZe5xDCL"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

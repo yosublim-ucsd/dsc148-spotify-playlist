@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > DJ Bullet takes over Haitian Heat for Miami Carnival 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,627 likes - 36 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,661 likes - 36 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 35 | [Koul Non](https://open.spotify.com/track/5ygnRX6cC2SswrGC70lId4) | [King Posse](https://open.spotify.com/artist/76TlFealriTlICvSEcsbE1) | [Kanaval, Vol\. 1](https://open.spotify.com/album/23dQ6bk0yo76ivfj9zsioM) | 8:06 |
 | 36 | [Saw Wè \- Kanaval 98](https://open.spotify.com/track/7hB5FL1BSy39hp7yVnPEMk) | [King Posse](https://open.spotify.com/artist/76TlFealriTlICvSEcsbE1) | [Who's That](https://open.spotify.com/album/5CJRJn6RUMKFl0IDNUSi0e) | 9:31 |
 
-Snapshot ID: `MCwxMjZmYWVjYzQ2ZDc5NjY5NmIwODY2N2I0MDI5YWFjNjQ0OGY0Mzlj`
+Snapshot ID: `MCwwMjNiZjU5MTQwMDdmMjNlZWVhMTY0ZTdhMWI1OTU1ODk3ZjAxODY1`

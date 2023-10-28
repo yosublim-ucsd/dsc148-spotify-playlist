@@ -1,13 +1,37 @@
 {
-  "description": "Where R&B lives. Cover: Summer Walker",
-  "num_followers": 6239340,
+  "description": "Where R&B lives. Cover: Brent Faiyaz",
+  "num_followers": 6243023,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWU1ZDVlMDVjMDUzYzZmOTZiODYwMWU4MDNlMWY3MzIzN2VkYmE1",
+  "snapshot_id": "MCwyNzIzMGI2ZmE3YjI2MGE4OTVhZTFkYTgzMTk2MDk3OWVkNDk2NTNj",
   "tracks": [
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Lil Gray",
+          "url": "https://open.spotify.com/artist/0dODGPXWl5fINZ9KYIA7gs"
+        }
+      ],
+      "duration_ms": 224598,
+      "name": "Last One Left (feat. Missy Elliott & Lil Gray)",
+      "url": "https://open.spotify.com/track/0cZ9HBGWLZJS7UHCgWXOTZ"
+    },
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
@@ -117,6 +141,26 @@
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 177593,
+      "name": "Belong To You (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/4qulzmZFfKLVcfpGXXCP9H"
+    },
+    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "Girls Need Love (Girls Mix)",
@@ -135,22 +179,6 @@
       "duration_ms": 158350,
       "name": "Girls Need Love (Girls Mix) (feat. Victoria Mon\u00e9t)",
       "url": "https://open.spotify.com/track/6vcYqLsAJLK2UuG98DrFuU"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "WY@",
-        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 208038,
-      "name": "WY@",
-      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -285,10 +313,10 @@
       "url": "https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
       "artists": [
         {
@@ -296,29 +324,25 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 293979,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
+      "duration_ms": 236236,
+      "name": "Go Baby",
+      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Love Album: Off The Grid",
-        "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
+        "name": "Waterfall (I Adore You)",
+        "url": "https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9"
       },
       "artists": [
         {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 258159,
-      "name": "Need Somebody (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/3d4ATyPyoh5waQRY8DiXcf"
+      "duration_ms": 292940,
+      "name": "Waterfall (I Adore You)",
+      "url": "https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -355,28 +379,24 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+        "name": "OUTTA CONTROL",
+        "url": "https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi"
       },
       "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 225533,
-      "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
-      "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
+      "duration_ms": 205500,
+      "name": "OUTTA CONTROL",
+      "url": "https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Moment Of Your Life",
-        "url": "https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis"
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
       },
       "artists": [
         {
@@ -388,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Moment Of Your Life",
-      "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
+      "duration_ms": 194159,
+      "name": "Moment Of Your Life (feat. Coco Jones)",
+      "url": "https://open.spotify.com/track/4mYSL3RDHto3rcl7I57ndv"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -415,6 +435,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "The Love Album: Off The Grid",
+        "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 258159,
+      "name": "Need Somebody (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/3d4ATyPyoh5waQRY8DiXcf"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Waiting For You (feat. Naomi Sharon)",
         "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
       },
@@ -433,10 +473,10 @@
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
       },
       "artists": [
         {
@@ -444,25 +484,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 236236,
-      "name": "Go Baby",
-      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187723,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
+      "duration_ms": 293979,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -531,26 +555,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Popular (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         },
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
-      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+      "duration_ms": 225533,
+      "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
+      "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -589,6 +609,22 @@
       "url": "https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 207998,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/3ria9Axw5mheRAOoP9bnof"
+    },
+    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "When It Comes To You",
@@ -603,22 +639,6 @@
       "duration_ms": 168075,
       "name": "When It Comes To You",
       "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -817,22 +837,6 @@
       "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "OUTTA CONTROL",
-        "url": "https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "OUTTA CONTROL",
-      "url": "https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3"
-    },
-    {
       "added_at": "2023-09-15 19:05:50",
       "album": {
         "name": "Heaven",
@@ -863,26 +867,6 @@
       "duration_ms": 193413,
       "name": "Hardlife",
       "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "3 of Us",
-        "url": "https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        }
-      ],
-      "duration_ms": 154392,
-      "name": "Suite Life (Familiar) - Bonus Track",
-      "url": "https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq"
     },
     {
       "added_at": "2023-09-15 04:00:00",

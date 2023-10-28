@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Sampha",
+  "description": "Genre-less. Quality first always. Cover: Sofia Kourtesis",
   "name": "POLLEN",
   "tracks": [
     {
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
@@ -4506,6 +4506,24 @@
       "duration_ms": 148123,
       "name": "Best Rapper in the Fuckin World",
       "url": "https://open.spotify.com/track/2higrBnP8m4gSBBKs5VKZZ"
+    },
+    {
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82508,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
     },
     {
       "album": {
@@ -7462,7 +7480,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 185715,
       "name": "Charge It",
       "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
@@ -8808,6 +8826,24 @@
       "duration_ms": 146233,
       "name": "Counting Sheep (V2) [2018 Export Wav] feat. Injury Reserve",
       "url": "https://open.spotify.com/track/28C8KsOvTwTSrsAN9rcm96"
+    },
+    {
+      "album": {
+        "name": "Counting Thunder",
+        "url": "https://open.spotify.com/album/3tPOrTz9PROAgrRWkiL1x8"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198578,
+      "name": "Counting Thunder",
+      "url": "https://open.spotify.com/track/0s754byjLl95PM4g25ZSmT"
     },
     {
       "album": {
@@ -11039,6 +11075,24 @@
     },
     {
       "album": {
+        "name": "DON'T YOU THINK IT'D BE NICE ?",
+        "url": "https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190292,
+      "name": "DON'T YOU THINK IT'D BE NICE ?",
+      "url": "https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D"
+    },
+    {
+      "album": {
         "name": "Done (Let's Get It)",
         "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
       },
@@ -11766,7 +11820,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 160296,
       "name": "easy",
       "url": "https://open.spotify.com/track/5pvMXnhRKSAvO8qmfKU4Ys"
@@ -13408,10 +13462,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 355738,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/23QkQaKEEh9ChJlCsp3SlI"
+    },
+    {
+      "album": {
+        "name": "DreamySpaceyBlue",
+        "url": "https://open.spotify.com/album/04dTBVDqxwHiYWMskDHQIc"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355738,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/7MM6O0fZQbGrUvAa3gEftD"
     },
     {
       "album": {
@@ -13520,7 +13592,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 110142,
       "name": "feels",
       "url": "https://open.spotify.com/track/6TzJPBFGx8J3K9RenKUscg"
@@ -15444,7 +15516,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 146000,
       "name": "getting older",
       "url": "https://open.spotify.com/track/4ojKgnQLWOCKfqqcYsLH1m"
@@ -16754,6 +16826,24 @@
       "duration_ms": 170539,
       "name": "H34T RISES",
       "url": "https://open.spotify.com/track/3RyYEO5TEyTUP4t8fFDMzk"
+    },
+    {
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204067,
+      "name": "Habla Con Ella",
+      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
     },
     {
       "album": {
@@ -20292,6 +20382,24 @@
       "duration_ms": 162773,
       "name": "INNERSTATE",
       "url": "https://open.spotify.com/track/5yQK2KygOPaDjgFutqlqRv"
+    },
+    {
+      "album": {
+        "name": "Changing Channels",
+        "url": "https://open.spotify.com/album/3bKp9TUgbHGhfRBsTQTAxS"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Installation",
+      "url": "https://open.spotify.com/track/7BUGB7cqJQtyNdLD7MtrGr"
     },
     {
       "album": {
@@ -26166,7 +26274,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 146240,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
@@ -26986,7 +27094,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 196583,
       "name": "New Joy",
       "url": "https://open.spotify.com/track/2XWMDcbMGRypWYc58lOeTI"
@@ -27334,7 +27442,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 182153,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow"
@@ -27608,7 +27716,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 145945,
       "name": "NoNewNews!!! - Ben Hixon Remix",
       "url": "https://open.spotify.com/track/6aquBTxK51IypBHnGoJDTJ"
@@ -28604,6 +28712,28 @@
       "duration_ms": 284906,
       "name": "Once Twice Melody",
       "url": "https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R"
+    },
+    {
+      "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "ONE THING",
+      "url": "https://open.spotify.com/track/5XqCstp7T3HRbPUOuzvN6a"
     },
     {
       "album": {
@@ -29792,6 +29922,24 @@
       "duration_ms": 170191,
       "name": "Peppers and Onions",
       "url": "https://open.spotify.com/track/3EXtXbj00nX9aCHDz1yEJF"
+    },
+    {
+      "album": {
+        "name": "Galatea",
+        "url": "https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Perfection // T r u s t",
+      "url": "https://open.spotify.com/track/7FSSPtAThDqzlQuyIKvJdw"
     },
     {
       "album": {
@@ -36891,6 +37039,28 @@
     },
     {
       "album": {
+        "name": "Strawberry Perfume",
+        "url": "https://open.spotify.com/album/73fdLbhr35YUOF7IW8R6ZN"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        },
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162724,
+      "name": "Strawberry Perfume (feat. Essosa)",
+      "url": "https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT"
+    },
+    {
+      "album": {
         "name": "Stressed",
         "url": "https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8"
       },
@@ -41097,6 +41267,32 @@
     },
     {
       "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        },
+        {
+          "name": "FELIX!",
+          "url": "https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177899,
+      "name": "Upset (feat. Tommy Richman & FELIX!)",
+      "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl"
+    },
+    {
+      "album": {
         "name": "ULTRAVIOLET",
         "url": "https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT"
       },
@@ -41297,6 +41493,24 @@
     },
     {
       "album": {
+        "name": "vices",
+        "url": "https://open.spotify.com/album/0w9xGBHCzyiiSuxWdajWBc"
+      },
+      "artists": [
+        {
+          "name": "Kwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156628,
+      "name": "vices",
+      "url": "https://open.spotify.com/track/6TWYp6hVTLx9zbsac9cs3X"
+    },
+    {
+      "album": {
         "name": "Victorious//Bullets",
         "url": "https://open.spotify.com/album/0ExGbjosILPh9lf3dCIM9z"
       },
@@ -41450,7 +41664,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 136125,
       "name": "Vous Venez Souvent Ici?",
       "url": "https://open.spotify.com/track/7Fou7tDtiyNdHybKF1cDvQ"
@@ -44558,7 +44772,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 129173,
       "name": "ZOOMIES",
       "url": "https://open.spotify.com/track/7CqIleB7ogeQFT00U8MuD1"

@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 111702,
+  "num_followers": 111704,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjBjYTIxOGZlMTRmYTk2Y2EyZWNlYWM0MDMyZTU2ZjI0NjY5NDRi",
+  "snapshot_id": "MCwzZjdkYjlhOWExYzFiMzc4YWE3NDBmZGIzYjRjZDY1OTBmYzM0YTJk",
   "tracks": [
     {
       "added_at": "2023-09-15 05:31:39",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "GO LIVE",
         "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 167922,
       "name": "God\u2019s Menu",
       "url": "https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
+        "name": "Paint Me Naked - SM STATION",
+        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Paint Me Naked",
+      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 169566,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/2wVDWtLKXunswWecARNILj"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "Paint Me Naked - SM STATION",
-        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
-      },
-      "artists": [
-        {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Paint Me Naked",
-      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb"
+        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
       },
       "artists": [
         {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 209648,
-      "name": "LOVE SCENARIO",
-      "url": "https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l"
+      "duration_ms": 210817,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
+        "name": "Return",
+        "url": "https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
         }
       ],
-      "duration_ms": 210817,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
+      "duration_ms": 209648,
+      "name": "LOVE SCENARIO",
+      "url": "https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 189355,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "THE BADDEST",
         "url": "https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 162600,
       "name": "THE BADDEST",
       "url": "https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 189355,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "I am",
-        "url": "https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 202772,
-      "name": "LATATA",
-      "url": "https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 196160,
       "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "I am",
+        "url": "https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 202772,
+      "name": "LATATA",
+      "url": "https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "FATE NUMBER FOR",
-        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 203056,
-      "name": "REALLY REALLY",
-      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 222415,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 203056,
+      "name": "REALLY REALLY",
+      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2531,6 +2531,22 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
+        "name": "Lethality",
+        "url": "https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
         "name": "Love War",
         "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
       },
@@ -2547,22 +2563,6 @@
       "duration_ms": 188280,
       "name": "Love War (Feat. BE'O)",
       "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "Lethality",
-        "url": "https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf"
-      },
-      "artists": [
-        {
-          "name": "KWON EUNBI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2719,18 +2719,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
       },
       "artists": [
         {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
         }
       ],
-      "duration_ms": 196799,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1H0zKZDwR19OGD3zKrwuTG"
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2755,18 +2755,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
-        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
       "artists": [
         {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
         }
       ],
-      "duration_ms": 195480,
-      "name": "Rose Blossom",
-      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
+      "duration_ms": 196799,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1H0zKZDwR19OGD3zKrwuTG"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2951,6 +2951,26 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "I Need A Girl (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
         "name": "SUGA's Interlude",
         "url": "https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV"
       },
@@ -2971,26 +2991,6 @@
       "duration_ms": 138204,
       "name": "SUGA's Interlude",
       "url": "https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "I Need A Girl (Feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -3059,22 +3059,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
-      },
-      "artists": [
-        {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
-        }
-      ],
-      "duration_ms": 190050,
-      "name": "Tie a Cherry",
-      "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "Lucifer - The 2nd Album",
         "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
       },
@@ -3087,6 +3071,22 @@
       "duration_ms": 233986,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 190050,
+      "name": "Tie a Cherry",
+      "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -3191,22 +3191,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/4vuOLGwkgHN5UqkDqkThDB"
-      },
-      "artists": [
-        {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "PANORAMA",
-      "url": "https://open.spotify.com/track/7DwR5sQ0kpwvAz60Fm0FEk"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -3223,6 +3207,22 @@
       "duration_ms": 189920,
       "name": "Troll (Feat. DEAN)",
       "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/4vuOLGwkgHN5UqkDqkThDB"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "PANORAMA",
+      "url": "https://open.spotify.com/track/7DwR5sQ0kpwvAz60Fm0FEk"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -3275,22 +3275,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "DUMB DUMB",
-        "url": "https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 149446,
-      "name": "DUMB DUMB",
-      "url": "https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
@@ -3303,6 +3287,22 @@
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "DUMB DUMB",
+        "url": "https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "DUMB DUMB",
+      "url": "https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz"
     },
     {
       "added_at": "2023-09-15 05:31:39",

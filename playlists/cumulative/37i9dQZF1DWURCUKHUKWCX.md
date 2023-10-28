@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-181 songs - 10 hr 1 min
+182 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [cohesion](https://open.spotify.com/track/4IF2sXer3MvDQT7JHo546V) | [aaronk](https://open.spotify.com/artist/0hfc9fzWmuYbkQs9A20pbj), [Aaron K Peterson](https://open.spotify.com/artist/5uR0umVKI3KOwSC4MpJo1p) | [cohesion](https://open.spotify.com/album/2ThB99UVqC4PsUg0Nafuov) | 3:13 | 2022-01-28 |  |
 | [Dear, Dolores \- Dominique Charpentier Rework](https://open.spotify.com/track/4td4zI14Dq7ct7XHASNaoK) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Dear, Dolores \(Dominique Charpentier Rework\)](https://open.spotify.com/album/62cR9HzK7RSG2nE8KUKOVk) | 2:02 | 2021-12-10 |  |
 | [Dono Per un Addio](https://open.spotify.com/track/0u3w1DZDNaVkCIQCD5b4Mq) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#001 Coordinate](https://open.spotify.com/album/32zxMMLPHaqd6R5kEs1ayQ) | 4:21 | 2022-01-28 |  |
-| [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 | 2023-01-20 |  |
+| [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 | 2023-01-20 | 2023-10-28 |
+| [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 | 2023-09-20 |  |
 | [Dusk](https://open.spotify.com/track/2MhXwjK9gnKjfSAfdB9zrW) | [Nkeiru Okoye](https://open.spotify.com/artist/45HzYdqJbg8BPgQBDqra2V), [William Chapman Nyaho](https://open.spotify.com/artist/1MdLO15sS1LDVswSIyOXzo) | [Kete \- Piano Music of Africa and the African Diaspora](https://open.spotify.com/album/2p9Sb0tIEgL88LCXT7FMB2) | 3:24 | 2021-12-10 | 2022-01-05 |
 | [Duvet](https://open.spotify.com/track/1mJ7C0gZp95ZPqYrnYnliU) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Duvet](https://open.spotify.com/album/0nMFK7NgMeZD1xz1t384X3) | 3:24 | 2021-12-10 | 2022-07-29 |
 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 | 2022-07-22 |  |

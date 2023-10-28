@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: <a href=\"spotify:artist:77Zo41CMTIsSUP47AkNhie\">Jose Luis Reyes</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto: <a href=\"spotify:artist:4fdudhIT1GNNvtvM309dyM\">Indiomar,</a> <a href=\"spotify:artist:0WZOmdnCln6FK6GM9e2tGm\">Redimi2,</a> y <a href=\"spotify:artist:5njxJJEEXE6Kxkr4yiFeJi\">Kim Richards</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1629,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Causas Perdidas",
+        "url": "https://open.spotify.com/album/6T6nnQQ752QT3NYpM4pUhC"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        },
+        {
+          "name": "Ulises Eyherabide",
+          "url": "https://open.spotify.com/artist/39dKfPJ1GnRwCBjfaWVtUi"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275648,
+      "name": "Causas Perdidas",
+      "url": "https://open.spotify.com/track/4Biy5j7PsKgQxKNtut2y5j"
+    },
+    {
+      "album": {
         "name": "Celebra Victorioso",
         "url": "https://open.spotify.com/album/2qHcU5VILpvAe1B1tu53yA"
       },
@@ -1644,6 +1666,28 @@
       "duration_ms": 228576,
       "name": "Celebra Victorioso",
       "url": "https://open.spotify.com/track/5SalhBIQrEXU76v9QGL6Sh"
+    },
+    {
+      "album": {
+        "name": "Celebrar\u00e9 (Live)",
+        "url": "https://open.spotify.com/album/6Nfk8Ah8XL6RTBVw3QeCfS"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Jacobo Ramos",
+          "url": "https://open.spotify.com/artist/5Jk4hlJqKTKYq2xuPawYVP"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276828,
+      "name": "Celebrar\u00e9 - Live",
+      "url": "https://open.spotify.com/track/79BsOzYqQTomGNfjakLPls"
     },
     {
       "album": {
@@ -1958,7 +2002,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 261760,
       "name": "Con\u00e9ctate Conmigo",
       "url": "https://open.spotify.com/track/3lXn28wEvzS0MfqvICJuTg"
@@ -2266,7 +2310,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 151791,
       "name": "Cuando el pueblo alaba a Dios / Ven esp\u00edritu divino",
       "url": "https://open.spotify.com/track/09xu8zlhiI8FDruP1ZziiU"
@@ -2787,6 +2831,28 @@
     },
     {
       "album": {
+        "name": "Mi Religi\u00f3n",
+        "url": "https://open.spotify.com/album/3B51aJVMc4N4wUoYzC1JRb"
+      },
+      "artists": [
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210202,
+      "name": "dIOS",
+      "url": "https://open.spotify.com/track/6HcHD2UTjXUKrVT9oynGKj"
+    },
+    {
+      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
       },
@@ -3064,7 +3130,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 192095,
       "name": "DOPAMINA",
       "url": "https://open.spotify.com/track/2fAoXDTucWh63Pi6SADnpy"
@@ -3902,7 +3968,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 395757,
       "name": "Esa Es La Raz\u00f3n - Live",
       "url": "https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq"
@@ -6010,7 +6076,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 218696,
       "name": "Mi Anhelo",
       "url": "https://open.spotify.com/track/4iAJpme5FWkwb8gqH581v9"
@@ -8899,6 +8965,24 @@
     },
     {
       "album": {
+        "name": "Superpoderes",
+        "url": "https://open.spotify.com/album/2ws1rydosDqGsoz93MFu9t"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233521,
+      "name": "Superpoderes",
+      "url": "https://open.spotify.com/track/2iYbQogIZK1KkeF1gdAH6o"
+    },
+    {
+      "album": {
         "name": "S\u00c1NAME",
         "url": "https://open.spotify.com/album/4s3FBPFKLVx7orSMIUdsOJ"
       },
@@ -10518,6 +10602,28 @@
       "duration_ms": 515314,
       "name": "Yo Soy Tu Amado",
       "url": "https://open.spotify.com/track/30NS04CDhzMIsn44oKPthN"
+    },
+    {
+      "album": {
+        "name": "Yo S\u00e9 Quien Soy",
+        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
+      },
+      "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239294,
+      "name": "Yo S\u00e9 Quien Soy",
+      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-180 songs - 9 hr 36 min
+181 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2022-04-19 | 2023-03-04 |
 | [Better](https://open.spotify.com/track/4T3fNx3CgwDRRYgmFCbD4J) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Better](https://open.spotify.com/album/6Nd4PYvQ7aYid1Gn6sWgeG) | 3:49 | 2022-04-19 | 2022-04-29 |
 | [Better Alone](https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Better Alone](https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD) | 3:29 | 2022-07-28 |  |
+| [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 | 2023-10-26 |  |
 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 | 2022-09-12 |  |
 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-04-19 |  |
 | [Bloodline](https://open.spotify.com/track/6nmPxOhrkI0hXqOWHajpE9) | [Indyah](https://open.spotify.com/artist/5JOPsHUGjo5V5yPDUurZRy) | [Bloodline](https://open.spotify.com/album/0PZUuOvDyvcOAry5XCndao) | 3:01 | 2022-04-19 | 2023-03-27 |

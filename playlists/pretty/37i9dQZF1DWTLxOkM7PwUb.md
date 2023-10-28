@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,311 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,401 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 13 | [Además de Mí \- Remix](https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Además de Mí \(Remix\)](https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78) | 5:30 |
 | 14 | [Canela](https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38) | 3:24 |
 | 15 | [Loca \- Remix](https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Loca Remix](https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ) | 5:46 |
-| 16 | [Arriba](https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Arriba](https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb) | 2:54 |
-| 17 | [Vete Pal Carajo](https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Vete Pal Carajo](https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD) | 2:56 |
+| 16 | [Vete Pal Carajo](https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Vete Pal Carajo](https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD) | 2:56 |
+| 17 | [Arriba](https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Arriba](https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb) | 2:54 |
 | 18 | [Amorfoda](https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Amorfoda](https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg) | 2:33 |
 | 19 | [Nunca Me Amo](https://open.spotify.com/track/6jCF6MQ050engg73RJnN87) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [Nunca Me Amo](https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU) | 3:19 |
 | 20 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 77 | [INESTABLE](https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP) | 2:28 |
 | 78 | [Depues De Las 3](https://open.spotify.com/track/06jKQDYkunWZqiyUPln7RY) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Depues De Las 3](https://open.spotify.com/album/689g0N3bKawbL7LJtyRqDQ) | 3:11 |
 | 79 | [Ella busca](https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
-| 80 | [Wake Me](https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Wake Me](https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m) | 2:54 |
-| 81 | [Pa Mi](https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Pa Mi](https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K) | 3:48 |
+| 80 | [Pa Mi](https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Pa Mi](https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K) | 3:48 |
+| 81 | [Wake Me](https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Wake Me](https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m) | 2:54 |
 | 82 | [Lágrimas](https://open.spotify.com/track/6lqAPHFWOM0m6n6yHJxryB) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/1ohao2KDQwLkTR3shBAQKi) | 2:45 |
 | 83 | [Estrellas](https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Estrellas](https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06) | 3:06 |
 | 84 | [Slow](https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd) | [Slow](https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Te Vas](https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [L.O.V.E.](https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I) | 1:58 |
 | 100 | [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 |
 
-Snapshot ID: `MCw1ZGM4MWRhZWYxM2M5MzllNjZiYjU4NzkyY2Y1YjgyMGJjYTdjNjI0`
+Snapshot ID: `MCwwNGM0NDFiNTQ2OTU4NWZlYWVmMWE4MjAwNDM3NTgyNzUwZGU4NDY1`

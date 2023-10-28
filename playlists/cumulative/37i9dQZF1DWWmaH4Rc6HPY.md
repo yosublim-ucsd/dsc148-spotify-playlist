@@ -4,7 +4,7 @@
 
 > ¡Y regresaron las guitarras! Siddhartha y Leiva en portada.
 
-86 songs - 4 hr 34 min
+87 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [La Radio](https://open.spotify.com/track/7u5dWxjBLUGLZqYLwtvGPE) | [The Fam](https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH) | [Amor en Tiempos Modernos](https://open.spotify.com/album/0PgNKUnpukIOSFMszWueL7) | 2:58 | 2023-10-06 |  |
 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2023-10-06 |  |
 | [Llórale a tu madre](https://open.spotify.com/track/2EEu4bViqpDJnd161fKA5t) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Llórale a tu madre](https://open.spotify.com/album/3npXfJD4U0DnOWADS9l11f) | 3:27 | 2023-10-06 |  |
+| [Lo Que No Quieres Saber](https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Lo Que No Quieres Saber](https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ) | 2:33 | 2023-10-27 |  |
 | [Lo Que un Hombre Debería Saber](https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:14 | 2023-10-06 |  |
 | [Los Monstruos También Lloran](https://open.spotify.com/track/7k9n7SRHk7t3Cq7KFKXOSL) | [Magallanes](https://open.spotify.com/artist/5uM0oa3wpa97S8QsgP1Inf), [Alek Pérez](https://open.spotify.com/artist/05H2p5PxikH66EW7glgsHS) | [Los Monstruos También Lloran](https://open.spotify.com/album/5TmxheXDPdygnft9wkMDQ2) | 3:33 | 2023-10-06 |  |
 | [Lugar Favorito](https://open.spotify.com/track/1CMDM1eLFxjyyHVsk4TWYH) | [Marc!](https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF) | [Lugar Favorito](https://open.spotify.com/album/131xu07sOIBOK4VY3BOciQ) | 4:08 | 2023-10-06 |  |

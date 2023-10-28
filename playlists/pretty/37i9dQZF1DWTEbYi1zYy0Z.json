@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 55673,
+  "num_followers": 55710,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWRlMDdkYTY5MDA3YTI0OTI4MzVkYmNkMTI1MGVkMTZhN2I4ODMw",
+  "snapshot_id": "MCxmM2QyNGRmYTRkYzU1OTE2NmRhOTFiMGE0YjVhNWU3NzM3MWE1NGJl",
   "tracks": [
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Best of Tim Bowman",
+        "url": "https://open.spotify.com/album/5wRMa0KJ8fa7U8TxhEPvVI"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 706580,
+      "name": "Summer Groove",
+      "url": "https://open.spotify.com/track/1WeSHCWNKRixmn9tLNmvKH"
+    },
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
@@ -43,6 +59,22 @@
       "duration_ms": 242418,
       "name": "Shore Thing",
       "url": "https://open.spotify.com/track/4bSWGX8MISGps0O6u6RWXJ"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Smoothin'",
+        "url": "https://open.spotify.com/album/0JmnQpoXh1lL4y7FlDRjN0"
+      },
+      "artists": [
+        {
+          "name": "Christophe Goze",
+          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
+        }
+      ],
+      "duration_ms": 283602,
+      "name": "Smoothin'",
+      "url": "https://open.spotify.com/track/50ZmHXALKOhouCsYXXH9ps"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -961,22 +993,6 @@
       "url": "https://open.spotify.com/track/3v0OEwQsVjR5Rx2ESj5dSk"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "One More Night - Single Edit",
-      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
-    },
-    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -1551,22 +1567,6 @@
       "duration_ms": 216437,
       "name": "Donut Jam",
       "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 224237,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
       "added_at": "2022-07-01 04:02:00",

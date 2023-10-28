@@ -1,12 +1,12 @@
 {
   "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: NGHI; thi\u1ebft k\u1ebf: Isu Kim",
-  "num_followers": 20182,
+  "num_followers": 20199,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjNjMTllMjczZmYyM2ZmODEzMzhjZTkyYWEzN2QwYTVhYTdlYzQ4",
+  "snapshot_id": "MCwzYTIzZmQzMmVkY2QxOTNkM2NmZGE4YzgwYzFkNzNkZmQxNGIzN2Rh",
   "tracks": [
     {
       "added_at": "2023-10-26 17:00:00",
@@ -231,6 +231,42 @@
       "duration_ms": 169411,
       "name": "LAPLALAPLANH",
       "url": "https://open.spotify.com/track/12ekuo7nXFeuT7Q6NeZ2zO"
+    },
+    {
+      "added_at": "2023-10-26 17:00:00",
+      "album": {
+        "name": "H\u00f4m Nay Ta Chia Tay",
+        "url": "https://open.spotify.com/album/1qrNZHuHCshg4TcF5DtXr2"
+      },
+      "artists": [
+        {
+          "name": "Summer Vee",
+          "url": "https://open.spotify.com/artist/6gWEeFGU5pCS3WOabthYiI"
+        },
+        {
+          "name": "Niz",
+          "url": "https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS"
+        }
+      ],
+      "duration_ms": 222669,
+      "name": "H\u00f4m Nay Ta Chia Tay",
+      "url": "https://open.spotify.com/track/6Yw73JH1vRdSi7MJ5yE3uy"
+    },
+    {
+      "added_at": "2023-10-26 17:00:00",
+      "album": {
+        "name": "Ch\u1eb3ng Y\u00eau Em Th\u00ec D\u00e1m Y\u00eau Ai",
+        "url": "https://open.spotify.com/album/2W4DbN8LOZ3WsjUwGCHNlR"
+      },
+      "artists": [
+        {
+          "name": "N\u00c2N",
+          "url": "https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB"
+        }
+      ],
+      "duration_ms": 230243,
+      "name": "Ch\u1eb3ng Y\u00eau Em Th\u00ec D\u00e1m Y\u00eau Ai",
+      "url": "https://open.spotify.com/track/572GRcM5dOJJErxAvjQYhJ"
     },
     {
       "added_at": "2023-10-26 17:00:00",

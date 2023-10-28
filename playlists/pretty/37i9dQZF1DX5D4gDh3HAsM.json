@@ -1,18 +1,18 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 509620,
+  "num_followers": 509718,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGJlMWNlODQ0NjJkZmI3MTNkYWUyYWNmMzlmZGRlZGI1NjNmMGNi",
+  "snapshot_id": "MCwwNjE2OGM5OTk0MTgwMTZhMDVlODNmY2Q2MmRiODlmOWRhNzhmNjk1",
   "tracks": [
     {
-      "added_at": "2023-09-29 04:01:00",
+      "added_at": "2023-10-27 16:58:12",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/5b8kLtDCLWYKyJFemtmu73"
+        "name": "A Joyful Holiday",
+        "url": "https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 225640,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB"
+      "duration_ms": 206026,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -123,6 +123,22 @@
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/5b8kLtDCLWYKyJFemtmu73"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -616,7 +632,7 @@
       "added_at": "2022-12-02 05:01:00",
       "album": {
         "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
+        "url": "https://open.spotify.com/album/0sMsffrWHZtGjJxqddnYYk"
       },
       "artists": [
         {
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
         }
       ],
-      "duration_ms": 147861,
+      "duration_ms": 148885,
       "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/0DdRiJLOcekwfwLlAT79wU"
+      "url": "https://open.spotify.com/track/5yxQAcmVgzVr1PBpm3yF0g"
     },
     {
       "added_at": "2022-12-02 05:01:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The hottest Latin pop tracks right now. Cover: Reik & Carin Leon",
+  "description": "Latin pop tracks you need to hear. Cover: Greeicy",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 222461,
       "name": "BABY HELLO",
       "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
@@ -1403,6 +1403,32 @@
     },
     {
       "album": {
+        "name": "CARACAS EN EL 2000",
+        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227784,
+      "name": "CARACAS EN EL 2000",
+      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "album": {
         "name": "Carolina",
         "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
       },
@@ -1924,7 +1950,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 160535,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
@@ -2440,7 +2466,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189918,
       "name": "D\u00c9JALO EN VISTO",
       "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
@@ -2855,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158373,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
+    },
+    {
+      "album": {
         "name": "Eva",
         "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
       },
@@ -2972,6 +3016,24 @@
       "duration_ms": 209268,
       "name": "Felices Perdidos",
       "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
+    },
+    {
+      "album": {
+        "name": "Feliz Por Ti",
+        "url": "https://open.spotify.com/album/27XAaGZpB9Rogg30c9g9As"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Feliz Por Ti",
+      "url": "https://open.spotify.com/track/2e2dOJMIieLvAh2g7kN9dP"
     },
     {
       "album": {
@@ -4400,7 +4462,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 216809,
       "name": "Manos Fr\u00edas (con Reik, Be\u00e9le)",
       "url": "https://open.spotify.com/track/14SFx9btIIv81LSbaajTv1"
@@ -4790,7 +4852,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
@@ -4896,6 +4958,28 @@
       "duration_ms": 180374,
       "name": "Movezz en silencio",
       "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/2wz36egUnkqR7YfbadsI6T"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132300,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc"
     },
     {
       "album": {
@@ -5342,6 +5426,24 @@
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "album": {
+        "name": "Ojo X Ojo",
+        "url": "https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "Ojo X Ojo",
+      "url": "https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU"
     },
     {
       "album": {
@@ -5997,6 +6099,24 @@
     },
     {
       "album": {
+        "name": "quise quererte",
+        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219786,
+      "name": "quise quererte",
+      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
+    },
+    {
+      "album": {
         "name": "qu\u00e9 le pasa conmigo?",
         "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
       },
@@ -6192,7 +6312,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 173005,
       "name": "S91",
       "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
@@ -6767,6 +6887,32 @@
     },
     {
       "album": {
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/1PYSxOUcVNmB2mBRLLFEhH"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        },
+        {
+          "name": "marcos g",
+          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158974,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/213uZJMRoRXXthd2xBYW4D"
+    },
+    {
+      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -7064,7 +7210,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 154551,
       "name": "TUYA",
       "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"

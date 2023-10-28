@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Margo Cilker
 
-195 songs - 11 hr 56 min
+196 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Lyin' Low](https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 4:18 | 2023-05-05 |  |
 | [Lyin' Low](https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Lyin' Low](https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4) | 4:18 | 2022-01-28 | 2023-05-11 |
 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 | 2023-03-03 |  |
+| [Mellow War](https://open.spotify.com/track/0vWEwmCWLZ8QL3tPL7raD3) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Mellow War](https://open.spotify.com/album/2Fn1niT1bYVa6Mfd4b5jwC) | 4:07 | 2023-10-27 |  |
 | [Mercy](https://open.spotify.com/track/0ZewwU3gkgXbYr0ixnDco4) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Mercy](https://open.spotify.com/album/1GC1QuXfAaPTCScjnDChwl) | 4:02 | 2022-01-28 |  |
 | [Mercy](https://open.spotify.com/track/4w0QzyomWJrHmSTa5e4ewe) | [Zelly](https://open.spotify.com/artist/1qM5w3OHdjYkPRQi7pKM4F) | [Mercy EP](https://open.spotify.com/album/5vz8G9TxA2WmQuiClujyp8) | 3:09 | 2022-01-28 | 2023-08-26 |
 | [Merigold](https://open.spotify.com/track/2LtF7oIVC1x6SbQ27iywSb) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Merigold](https://open.spotify.com/album/5HURvzbiMiuYDPxsKmfGsP) | 4:12 | 2023-06-16 |  |

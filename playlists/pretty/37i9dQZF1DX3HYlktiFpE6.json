@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 101406,
+  "num_followers": 101407,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTcxYjYxNjY4NWFlYTBkM2IyM2E1MGY3NTcyOTYzNzI5ZmJhNDI0",
+  "snapshot_id": "MCxjMGE1N2I3ODY3YjE1NTllNDBmOGYyYjk5YjA1NzI1YzgyYTBjMjUz",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/5oEQ49k6hTkwkaRZ0uKB2I"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "bloom.",
+        "url": "https://open.spotify.com/album/1XzgUg7lAUwMHc3CbE8ITx"
+      },
+      "artists": [
+        {
+          "name": "AcaBelles",
+          "url": "https://open.spotify.com/artist/4tvkKHsjiEdmDvpMZhKNQ8"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "I Did Something Bad - 2023 Version",
+      "url": "https://open.spotify.com/track/5UptwdTRgaolwiHCV9UsDw"
+    },
+    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "Where Have You Been",
@@ -263,6 +279,22 @@
       "duration_ms": 197010,
       "name": "Delta Dawn",
       "url": "https://open.spotify.com/track/1sBbXkYUzsTnWfuzG0zeaf"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/7tCvGnaLWIhBYuUzrULOIC"
+      },
+      "artists": [
+        {
+          "name": "The Trills",
+          "url": "https://open.spotify.com/artist/1ndCTkNbTXQmLkuRZsh5qI"
+        }
+      ],
+      "duration_ms": 159602,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/0EUHkl8KfFzsru3TqyokPV"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1159,26 +1191,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
-      },
-      "artists": [
-        {
-          "name": "The Treblemakers",
-          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
-        },
-        {
-          "name": "Kay",
-          "url": "https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Right Round",
-      "url": "https://open.spotify.com/track/5JHCNnCSdJlxPIsTCxGdYJ"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/6bkOVixmGpSggcyGDLnYbW"
       },
@@ -1375,22 +1387,6 @@
       "duration_ms": 75360,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "The Sing-Off: Season 3: Episode 8 - New Country & Classic Rock",
-        "url": "https://open.spotify.com/album/7GMZZQIHIeqJXa5XHgFqhO"
-      },
-      "artists": [
-        {
-          "name": "Urban Method",
-          "url": "https://open.spotify.com/artist/4ZPJfyYZ239ucep2OC8qzs"
-        }
-      ],
-      "duration_ms": 105013,
-      "name": "Before He Cheats",
-      "url": "https://open.spotify.com/track/4xBmdY8IqVypz6M63YdiBN"
     },
     {
       "added_at": "2021-12-24 05:00:00",

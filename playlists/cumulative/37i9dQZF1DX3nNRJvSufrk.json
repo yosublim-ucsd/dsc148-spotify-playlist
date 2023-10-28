@@ -888,7 +888,7 @@
     {
       "album": {
         "name": "Double Cup",
-        "url": "https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7"
+        "url": "https://open.spotify.com/album/3pg82GyknT5unwBJdGffYQ"
       },
       "artists": [
         {
@@ -903,6 +903,28 @@
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216475,
+      "name": "Drank, Kush, Barz (feat. DJ Spinn)",
+      "url": "https://open.spotify.com/track/2RinWcesP24R8okRRoI6US"
+    },
+    {
+      "album": {
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7"
+      },
+      "artists": [
+        {
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        },
+        {
+          "name": "DJ Spinn",
+          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-28",
       "duration_ms": 216475,
       "name": "Drank, Kush, Barz (feat. DJ Spinn)",
       "url": "https://open.spotify.com/track/4JzbAa3b4fhWDbnR2j24a4"
@@ -2502,10 +2524,36 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 217412,
       "name": "She A Go (feat. DJ Spinn & Taso)",
       "url": "https://open.spotify.com/track/64ybRGYH1ftn9XIIeG6qFY"
+    },
+    {
+      "album": {
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/3pg82GyknT5unwBJdGffYQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        },
+        {
+          "name": "DJ Spinn",
+          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
+        },
+        {
+          "name": "Taso",
+          "url": "https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217435,
+      "name": "She A Go (feat. DJ Spinn & Taso)",
+      "url": "https://open.spotify.com/track/2ZvOA4qpCXmZfpYmcryXMV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best alternative rock tracks right now.
 
-477 songs - 1 day 3 hr 33 min
+480 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2022-11-18 | 2022-12-16 |
 | [God Mode](https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [God Mode](https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK) | 4:22 | 2022-01-27 | 2022-06-03 |
 | [Godzilla](https://open.spotify.com/track/6X3XvthYOhT8SHIJpY7sKw) | [Dude Safari](https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX) | [Godzilla](https://open.spotify.com/album/0xodabdosMvBKkBtTLfmuK) | 3:52 | 2022-09-22 | 2023-02-22 |
-| [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 | 2023-09-22 |  |
+| [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 | 2023-09-22 | 2023-10-28 |
 | [Goodbye](https://open.spotify.com/track/4vSnZR2POAHKIbE7B362Wd) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH \(Deluxe Edition\)](https://open.spotify.com/album/4JbHzfL3iwGrbYVOClW0n9) | 4:20 | 2022-12-09 | 2023-03-03 |
 | [Gotta Let It Go](https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Gotta Let It Go](https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb) | 1:56 | 2022-04-05 | 2022-07-29 |
 | [Gotta Let It Go](https://open.spotify.com/track/7Mu5u6zgKWRj020HFsEnFc) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:56 | 2022-06-30 | 2022-09-07 |
@@ -190,6 +190,7 @@
 | [Half Nelson](https://open.spotify.com/track/4DzKsnD6cZyI9Pc53cbBD6) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Half Nelson](https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb) | 3:11 | 2023-10-13 |  |
 | [Halley](https://open.spotify.com/track/5Hqumcun0UcSFX8HvqSXQD) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Split](https://open.spotify.com/album/2WvEGTkP8WlvsPitQUlFQ8) | 4:04 | 2023-10-13 |  |
 | [Happy In Town](https://open.spotify.com/track/5L48Q15bVzwtpffvEMbUQW) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Vs\. The Moths…College Sessions 2001](https://open.spotify.com/album/3J5aHKE557cEKYng7szNHD) | 3:39 | 2022-10-28 | 2022-11-26 |
+| [Hard To Breath](https://open.spotify.com/track/4rMyOa7oU75N4rA3mZERF0) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [I Used To Be](https://open.spotify.com/album/16Rp0EdydEECBnaNR1oSex) | 3:15 | 2023-10-27 |  |
 | [Haunted](https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Haunted](https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc) | 3:43 | 2023-05-19 | 2023-08-26 |
 | [Head First](https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Head First](https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7) | 3:32 | 2023-03-24 | 2023-06-10 |
 | [Heaven Can Wait](https://open.spotify.com/track/3hwq4JBViOyfXQWbthdraz) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/6r8Jingb2f6it20MpRLApT) | 3:00 | 2022-10-21 | 2022-11-26 |
@@ -244,6 +245,7 @@
 | [Leave Me Be](https://open.spotify.com/track/3KaMmABQSuoGCtmpOcRzPh) | [Giveaway](https://open.spotify.com/artist/4kwtZRR88YHWOMWhvb5M5A) | [Leave Me Be](https://open.spotify.com/album/1XfyZCM5UPmYfpreFU7S9h) | 3:48 | 2023-05-26 | 2023-09-01 |
 | [Leave This Place](https://open.spotify.com/track/6NAjfD8F26BcBP3E9D6VY5) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Leave This Place](https://open.spotify.com/album/4ilfyeO8iIQGWMO4Dqd20u) | 3:26 | 2023-03-10 | 2023-06-24 |
 | [Let It Sink](https://open.spotify.com/track/3oRrq1fkzb2aCznN0269mL) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Everything Is Closer Than It Seems](https://open.spotify.com/album/6O3ixSA4lGzIMR0qELaEFf) | 3:02 | 2022-11-04 | 2022-11-15 |
+| [Lie to Me](https://open.spotify.com/track/2f3oU7cZayaEMrEENEeaDf) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Lie to Me](https://open.spotify.com/album/6uouO8LIiv6yDsAkNY7FdN) | 3:19 | 2023-10-27 |  |
 | [Life Support](https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Life Support / Ms\. Supernova](https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy) | 3:11 | 2023-02-09 | 2023-07-15 |
 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 | 2022-03-10 | 2022-09-07 |
 | [Life's a Pill](https://open.spotify.com/track/4XvNALxzCzwFymLvN9Daes) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Life's a Pill](https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s) | 3:37 | 2023-09-08 |  |
@@ -319,11 +321,12 @@
 | [Parasite](https://open.spotify.com/track/3arD7QPp1MCbaNT5DraorN) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Parasite](https://open.spotify.com/album/0tnF85Qv9oNbmb5JLjPwrJ) | 3:50 | 2023-06-16 |  |
 | [Party Scene](https://open.spotify.com/track/3GTJ2lJxIlhoSyAznxNUWy) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Party Scene](https://open.spotify.com/album/3eYOamJN0c5EHXR81ZrRFE) | 2:56 | 2022-11-18 | 2022-12-16 |
 | [Peach](https://open.spotify.com/track/3HHcTqXCKDuUYTCH7ue9K8) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Peach](https://open.spotify.com/album/6A6oDzTGOLntd7edj7Cwv0) | 3:29 | 2022-09-06 | 2022-10-01 |
-| [Pendulum](https://open.spotify.com/track/5v2WvShCblt55NLy82Orod) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Pendulum](https://open.spotify.com/album/0euPsI7rBBsxArzy7gvgVF) | 3:34 | 2023-07-14 |  |
+| [Pendulum](https://open.spotify.com/track/5v2WvShCblt55NLy82Orod) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Pendulum](https://open.spotify.com/album/0euPsI7rBBsxArzy7gvgVF) | 3:34 | 2023-07-14 | 2023-10-28 |
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-09-06 | 2022-11-05 |
 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 | 2022-09-06 | 2022-11-12 |
 | [Personal Space](https://open.spotify.com/track/4QOTnsKNWG86hTp3AeFHsG) | [False Advertising](https://open.spotify.com/artist/0w0G0yLuHEK0PKsNnLytAp) | [Personal Space](https://open.spotify.com/album/26k38wPq6koIUKR7KtWXee) | 3:40 | 2021-12-16 | 2022-03-25 |
 | [Pig](https://open.spotify.com/track/6ZURd2x9YB980TbGTUG9fh) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Life's a Blur](https://open.spotify.com/album/7t00JaebsFO1LI5mPNMXm8) | 3:22 | 2023-06-09 |  |
+| [Plastic](https://open.spotify.com/track/5QNcjQ59mtn96GALPY1xBO) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Plastic](https://open.spotify.com/album/40xqzqZgP5bKNE0BIq8KnQ) | 1:24 | 2023-10-27 |  |
 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 | 2023-03-02 | 2023-07-07 |
 | [Playback '99 \(Burn the Cassette Deck\)](https://open.spotify.com/track/42aJXANJRz2Prmz48ZGElE) | [The Juliana Theory](https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m) | [Playback '99 \(Burn the Cassette Deck\)](https://open.spotify.com/album/3aBKxP5DFuVPGRLZmJVDrm) | 4:02 | 2022-03-31 | 2022-06-17 |
 | [Playing With Fire](https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:23 | 2023-10-13 |  |
@@ -346,7 +349,7 @@
 | [Right There With You](https://open.spotify.com/track/7fQr8pR6fIjlmnM5BNz62T) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 3:40 | 2023-04-07 | 2023-06-10 |
 | [Rinse and Repeat](https://open.spotify.com/track/5TFCatIcfeNVhoUpqHIlHg) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [Rinse and Repeat](https://open.spotify.com/album/59LnOVTUi3AkP948nZ54BS) | 4:31 | 2022-03-24 | 2022-04-22 |
 | [Roosevelt](https://open.spotify.com/track/2XKhUAh2I8FpTfWqOPi22E) | [MAYPINE](https://open.spotify.com/artist/5AwwX1P1Saf9dw2nq3oclb) | [Even in My Dreams I Can’t Find Peace](https://open.spotify.com/album/5KwFbgjNcgXJfTjXrrSr52) | 3:53 | 2022-11-11 | 2023-05-13 |
-| [Rose](https://open.spotify.com/track/3qIbYFc1e3ETWGVhvuDzRu) | [Wifecult](https://open.spotify.com/artist/3pSxlyCEcLbIhN4dXOMs2n) | [Kindness In Clarity, an EP](https://open.spotify.com/album/3ZbFcZvUBwOj3TFmQLOVTr) | 3:37 | 2023-06-09 |  |
+| [Rose](https://open.spotify.com/track/3qIbYFc1e3ETWGVhvuDzRu) | [Wifecult](https://open.spotify.com/artist/3pSxlyCEcLbIhN4dXOMs2n) | [Kindness In Clarity, an EP](https://open.spotify.com/album/3ZbFcZvUBwOj3TFmQLOVTr) | 3:37 | 2023-06-09 | 2023-10-28 |
 | [Roses](https://open.spotify.com/track/3lG1KQ70mUNVbYoOF21oUl) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Roses](https://open.spotify.com/album/0GBaXfDNx3iAuOLsw9szJ6) | 3:15 | 2022-02-03 | 2022-03-11 |
 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 | 2023-04-07 | 2023-05-04 |
 | [Royal Blue](https://open.spotify.com/track/3LoCslgbT6Z1hG0ZbrQahG) | [Suntitle](https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS) | [Royal Blue](https://open.spotify.com/album/2dVUZqatr2wPgg1M8r0DRz) | 2:56 | 2021-12-16 | 2022-04-01 |

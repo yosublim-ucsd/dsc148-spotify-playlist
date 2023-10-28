@@ -2,7 +2,7 @@
 
 ### [Portal](https://open.spotify.com/playlist/37i9dQZF1DWZaNRXtvIrDt)
 
-> a new world of alternative electronic music\. Cover: Logic1000
+> a new world of alternative electronic music\. Cover: RONA.
 
 493 songs - 1 day 12 hr 39 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Justo Antes de la Guerra con los Esquimales
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,295 likes - 85 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,308 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 2 | [Invisible](https://open.spotify.com/track/4KH1jzECxhbmwF60qh2un7) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [CLASE B](https://open.spotify.com/album/1jI8Ey2uycaiqlDy71xysm) | 3:12 |
 | 3 | [Salir del Confort](https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Salir del Confort](https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5) | 3:16 |
 | 4 | [Ceremonia](https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld) | [Pretoria](https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5) | [Ceremonia](https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J) | 3:14 |
-| 5 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
-| 6 | [Promesas](https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Promesas](https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB) | 4:31 |
-| 7 | [Cuidado](https://open.spotify.com/track/4FWInLlki1xvIHcRAbbY5c) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX), [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Cuidado](https://open.spotify.com/album/7IyGt8wniTS7XlDf5I3yRZ) | 2:14 |
-| 8 | [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 |
+| 5 | [Entre el Cielo y el Infierno](https://open.spotify.com/track/5gIwsOOF5mY18gyrGXr0Zb) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Entre el Cielo y el Infierno](https://open.spotify.com/album/3xew3ijgKqFp4YtkfuA55f) | 3:54 |
+| 6 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
+| 7 | [Promesas](https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Promesas](https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB) | 4:31 |
+| 8 | [Cuidado](https://open.spotify.com/track/4FWInLlki1xvIHcRAbbY5c) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX), [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Cuidado](https://open.spotify.com/album/7IyGt8wniTS7XlDf5I3yRZ) | 2:14 |
 | 9 | [Casa](https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casa](https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9) | 2:49 |
 | 10 | [Y no me digan nada](https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Y no me digan nada](https://open.spotify.com/album/2AvUr6qexfvypIPEcL1bRI) | 3:53 |
 | 11 | [El Primer Color](https://open.spotify.com/track/6qkSVGEDjdBmhQccU7CWaD) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [El Primer Color](https://open.spotify.com/album/4dp1QJTGojYEDSmdtzAG1M) | 5:25 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 84 | [Llueve](https://open.spotify.com/track/1gnzgNCAULZMgU3vsEwb9w) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Llueve](https://open.spotify.com/album/0qo6T7TGB8uh0ddsKXNwzo) | 2:15 |
 | 85 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 |
 
-Snapshot ID: `MCxkZTBlNDNkMTkxYjY5ZjA5Njk2YzFhZGZiMGFhOTBmZGJhY2E1YWQx`
+Snapshot ID: `MCw4ZWJmOGJiZTg3N2MzNGIxZmZkYWI5ODA1MWRmODRjNzkxNjZhMzY3`

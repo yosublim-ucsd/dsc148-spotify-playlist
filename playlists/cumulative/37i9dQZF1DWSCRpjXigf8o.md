@@ -4,10 +4,11 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-439 songs - 1 day 2 hr 53 min
+440 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-26 |  |
 | [20200817 Proud True Toyota](https://open.spotify.com/track/4OeO5Xc50TRVG3ofaxM1rn) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:02 | 2023-04-20 | 2023-07-14 |
 | [28](https://open.spotify.com/track/4x83cYbV42NT0z1QkTj4TN) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [28](https://open.spotify.com/album/3rogb53wBCNjq4oHV7Dy5p) | 2:44 | 2023-02-21 | 2023-03-01 |
 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 | 2023-05-30 | 2023-09-20 |

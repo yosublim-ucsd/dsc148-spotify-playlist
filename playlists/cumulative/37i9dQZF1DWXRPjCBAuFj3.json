@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 136711,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189901,
       "name": "Milo J: Bzrp Music Sessions, Vol. 57",
       "url": "https://open.spotify.com/track/1iLbUmb2b2btyAAcQ68a1p"
@@ -5572,7 +5572,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 170232,
       "name": "Moonwalking in Calabasas (feat. Blueface) - Remix",
       "url": "https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz"
@@ -5984,6 +5984,24 @@
       "duration_ms": 268320,
       "name": "No Estuviste En Lo Malo - REMIX",
       "url": "https://open.spotify.com/track/5hyKw9bjqXCcIxAoDmAxMJ"
+    },
+    {
+      "album": {
+        "name": "LET'S DO IT",
+        "url": "https://open.spotify.com/album/4I49kBApc9FV9oeAcIj9tK"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "NO FINSTA",
+      "url": "https://open.spotify.com/track/59GEWDzQgCXM55aGZDWSrQ"
     },
     {
       "album": {

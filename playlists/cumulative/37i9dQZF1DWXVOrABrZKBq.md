@@ -2,14 +2,14 @@
 
 ### [Connexion Rap](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: Ikaz Boi, Tiakola
+> Le rap francophone est en forme\. Photo: Leto
 
-106 songs - 5 hr 33 min
+108 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1942](https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [1942](https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm) | 3:39 | 2023-03-03 |  |
-| [21](https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [21](https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk) | 3:04 | 2023-07-28 |  |
+| [21](https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [21](https://open.spotify.com/album/7jMCdSNccIuSFNDfl8spLk) | 3:04 | 2023-07-28 | 2023-10-28 |
 | [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 | 2023-06-16 | 2023-07-01 |
 | [3 singes](https://open.spotify.com/track/57JhjU33uXlZtmr2Dsk8TX) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 3:02 | 2023-03-03 | 2023-03-18 |
 | [AMBER](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [AMBER](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2023-03-03 | 2023-05-06 |
@@ -33,6 +33,7 @@
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-24 | 2023-06-29 |
 | [Coeur De Pirate](https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Coeur De Pirate](https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY) | 3:00 | 2023-03-03 |  |
 | [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 | 2023-03-03 | 2023-09-09 |
+| [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 | 2023-10-27 |  |
 | [Death Note](https://open.spotify.com/track/5lK58jbXWVRXQ9EYvAWPse) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Death Note](https://open.spotify.com/album/2AVGEBmOIgBFwdtFLzARi4) | 2:47 | 2023-10-13 |  |
 | [Demain](https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 3:03 | 2023-04-21 |  |
 | [Diablo](https://open.spotify.com/track/4uUHWmCZYw49Ssd7de6Wwq) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:30 | 2023-08-25 | 2023-09-09 |
@@ -54,7 +55,7 @@
 | [Holla](https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Holla](https://open.spotify.com/album/5C9ivT1fN9yRG73t18040F) | 2:52 | 2023-03-24 |  |
 | [I love U](https://open.spotify.com/track/0raGPcDIOFBzYda5NQjbbF) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:47 | 2023-07-07 | 2023-08-26 |
 | [Ice](https://open.spotify.com/track/0HCuDi36FfephRRd37HrPd) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Kodes](https://open.spotify.com/artist/3fnfvu19t4JYyEkRldXsO5), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Monument](https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI) | 3:23 | 2023-03-03 | 2023-09-16 |
-| [Immonde](https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Immonde](https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3) | 2:42 | 2023-09-15 |  |
+| [Immonde](https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Immonde](https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3) | 2:42 | 2023-09-15 | 2023-10-28 |
 | [Ingé son](https://open.spotify.com/track/2ErHbTIS7IZVBw7TEejW37) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [Ingé son](https://open.spotify.com/album/51doi3zpTEFMUO3ccZcKL9) | 3:25 | 2023-03-03 | 2023-03-11 |
 | [J'Fonce](https://open.spotify.com/track/2HondNQ2pnnAYxRrWUDezm) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [J'Fonce](https://open.spotify.com/album/5F3UHcdI6u3T3C3l7ujJOM) | 3:09 | 2023-09-08 |  |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2023-03-03 | 2023-06-17 |
@@ -101,6 +102,7 @@
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-17 |  |
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-07-28 |  |
 | [Sosa](https://open.spotify.com/track/7rM7aSrcKeChtJA3Y6YFp4) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sosa](https://open.spotify.com/album/0zIgRy3ocqZBUl2C6b2625) | 2:37 | 2023-05-05 |  |
+| [Tiffany](https://open.spotify.com/track/3bKLR7Mc0SNBTBuN8OYPrj) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Tiffany](https://open.spotify.com/album/3Dy3beQddT9J0cTFje1uay) | 3:37 | 2023-10-27 |  |
 | [Toi\-même tu sais](https://open.spotify.com/track/0OCoD7jCBxX0tqwRHTX4tL) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:55 | 2023-10-20 |  |
 | [Tout c'que j'connais](https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Tout c'que j'connais](https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD) | 3:37 | 2023-03-03 | 2023-07-08 |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2023-03-03 |  |

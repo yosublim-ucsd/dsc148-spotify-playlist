@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 327022,
+  "num_followers": 327192,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzE2M2RmNzlmYjA2ZjZjNWE3YjNlZThjNzJkMDgyODQ0YzdmODk3",
+  "snapshot_id": "MCw4MmJkOTMyZmMwYTQ0OTYzZmZmNGRlMmIxZmJiMTc4ZjE0MjI2ODdi",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Donna - Single Version",
-      "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 167493,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Donna - Single Version",
+      "url": "https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "Devoted to You",
-      "url": "https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 140533,
       "name": "Tears on My Pillow",
       "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Devoted to You",
+      "url": "https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Presenting the Spaniels",
-        "url": "https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2"
-      },
-      "artists": [
-        {
-          "name": "The Spaniels",
-          "url": "https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "Goodnight, Sweetheart, Goodnight",
-      "url": "https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "It\u2019s All In The Game",
         "url": "https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 158520,
       "name": "It's All In The Game",
       "url": "https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Presenting the Spaniels",
+        "url": "https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2"
+      },
+      "artists": [
+        {
+          "name": "The Spaniels",
+          "url": "https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Goodnight, Sweetheart, Goodnight",
+      "url": "https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5"
     },
     {
       "added_at": "2022-05-30 12:59:00",

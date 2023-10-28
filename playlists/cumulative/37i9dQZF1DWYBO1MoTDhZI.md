@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-714 songs - 1 day 14 hr 36 min
+715 songs - 1 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 | 2021-10-04 | 2022-09-03 |
 | [Cleopatra](https://open.spotify.com/track/5UHNBHu9SWhlbVOlntdCWf) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Cleopatra](https://open.spotify.com/album/7oSTYFxPV06Fpp4lq2dntf) | 3:20 | 2022-05-20 | 2022-05-28 |
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2021-01-23 | 2022-02-26 |
-| [Cloud](https://open.spotify.com/track/4H3S0dQ6g8QwacSCp9W156) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Cloud](https://open.spotify.com/album/00m3LiJyqbMziKcN5eO67G) | 2:36 | 2023-09-08 |  |
+| [Cloud](https://open.spotify.com/track/4H3S0dQ6g8QwacSCp9W156) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Cloud](https://open.spotify.com/album/00m3LiJyqbMziKcN5eO67G) | 2:36 | 2023-09-08 | 2023-10-28 |
 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 | 2023-05-12 | 2023-08-12 |
 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2022-07-29 | 2023-08-12 |
 | [Coffee & Clouds](https://open.spotify.com/track/7xSeOWU5ppf7FnsnzlS2sk) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Coffee & Clouds](https://open.spotify.com/album/0laFZyoafxIqe8EtXa0kV9) | 2:48 | 2021-11-06 | 2021-12-04 |
@@ -597,6 +597,7 @@
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2023-07-18 |  |
 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 | 2021-07-16 | 2022-04-20 |
 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 | 2023-03-24 | 2023-05-27 |
+| [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 | 2023-10-27 |  |
 | [sunny day](https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:52 | 2023-05-19 |  |
 | [Sunroof](https://open.spotify.com/track/2UGbgIze4hB9GkdAte1eiV) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [NOW That's What I Call Music! Vol\. 84](https://open.spotify.com/album/1vDJyYjUUvXYJaZmKsukJJ) | 2:40 | 2022-10-28 | 2022-11-13 |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-12-11 | 2022-07-29 |
@@ -612,7 +613,7 @@
 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 | 2020-01-30 | 2023-01-14 |
 | [SUPER AVERAGE](https://open.spotify.com/track/0Wj3ixfJBgWj6KrgqOxa2X) | [Scotty Sire](https://open.spotify.com/artist/24vm5FBjvLpwUiVNcYc8qy) | [SUPER AVERAGE](https://open.spotify.com/album/5g43zkXxckx8Nb5fQRAMvw) | 3:12 | 2021-10-30 | 2022-01-15 |
 | [SUPERBLOOM](https://open.spotify.com/track/25ran9X0iBOYnxFdP6c28n) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [SUPERBLOOM](https://open.spotify.com/album/7j5TOzzzNrUREsXUq7Pmgp) | 3:33 | 2020-05-22 | 2022-07-02 |
-| [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2022-12-09 |  |
+| [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2022-12-09 | 2023-10-28 |
 | [Surprise](https://open.spotify.com/track/23yqxyylT3ksA2rLjk3SPC) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Surprise](https://open.spotify.com/album/5n9g4YNR0HwYounEZShI93) | 3:27 | 2023-02-10 | 2023-03-04 |
 | [Sway](https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Sway](https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD) | 2:16 | 2022-06-10 | 2022-07-30 |
 | [Sway](https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:08 | 2022-05-20 | 2022-10-15 |

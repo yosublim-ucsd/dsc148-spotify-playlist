@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Cloudy June
 
-257 songs - 13 hr 48 min
+258 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Hope](https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [The Pictures](https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1) | 7:28 | 2021-12-16 | 2022-05-20 |
 | [Hotel](https://open.spotify.com/track/3Ldae7O6YMFE7vxlTNocdQ) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Hotel](https://open.spotify.com/album/1naWv2unZPzXPa3UdQIdAb) | 2:43 | 2021-12-16 | 2022-07-15 |
 | [I See Love](https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Push Life](https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4) | 2:45 | 2022-03-31 |  |
-| [i see you](https://open.spotify.com/track/4FWN1eZehxMQtUDT9w9rVm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [utopia](https://open.spotify.com/album/7IHRaZLHGqnXJZ2npODrYO) | 3:35 | 2023-04-13 |  |
+| [i see you](https://open.spotify.com/track/4FWN1eZehxMQtUDT9w9rVm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [utopia](https://open.spotify.com/album/7IHRaZLHGqnXJZ2npODrYO) | 3:35 | 2023-04-13 | 2023-10-28 |
 | [I WANT TO BELIEVE](https://open.spotify.com/track/5FnDOZasaYRMDDuZQcds89) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WANT TO BELIEVE](https://open.spotify.com/album/1s9vPDAguhv8C237XokkMS) | 5:20 | 2022-07-21 | 2022-08-19 |
 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 | 2022-01-20 | 2022-07-22 |
 | [I Would Be Rich](https://open.spotify.com/track/0voEoD86osCqSZm6YnX41Q) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [I Would Be Rich](https://open.spotify.com/album/1hgaD8ZBdht7nSTHZ1RKdt) | 3:51 | 2022-05-05 | 2023-02-17 |
@@ -199,6 +199,7 @@
 | [Shirt & Handtuch](https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Shirt & Handtuch](https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq) | 3:34 | 2023-04-13 |  |
 | [Sicher](https://open.spotify.com/track/6qEykl5MTiALJndjT2lrPM) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Sicher](https://open.spotify.com/album/5qGB7Az88V3wMpeJw6uwOq) | 2:55 | 2022-04-07 | 2022-05-27 |
 | [Sick Of Being Sad](https://open.spotify.com/track/584NxuMTvdTausXZ9oT85R) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Sick Of Being Sad](https://open.spotify.com/album/4FD9TVJXqsT3OuCR1jZjXP) | 2:43 | 2022-04-07 | 2023-01-20 |
+| [sirens](https://open.spotify.com/track/5lehSTwJVN2ed0VawpFZF3) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [sirens](https://open.spotify.com/album/3FwlJZOsRiHYUdR7Iqp5Ca) | 3:08 | 2023-10-27 |  |
 | [SKELETON](https://open.spotify.com/track/53EfFnax4JFA93E5YFwR3f) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SKELETON](https://open.spotify.com/album/3BB0ddbSAWyFTxCCtI34GO) | 2:48 | 2023-06-15 | 2023-08-25 |
 | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/track/11erW7pKvrR399ymf1eZwl) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC) | 4:02 | 2021-12-16 | 2022-05-13 |
 | [Sleeping Beauty](https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Sleeping Beauty](https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf) | 3:29 | 2023-01-26 | 2023-04-21 |

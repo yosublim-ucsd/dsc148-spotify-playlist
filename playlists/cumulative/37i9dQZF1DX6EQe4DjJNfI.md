@@ -2,14 +2,14 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Kynnie
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: YOÚN
 
-159 songs - 8 hr 8 min
+161 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10%](https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz) | [Camaleoa](https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk) | [10%](https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O) | 2:49 | 2022-12-23 | 2023-03-25 |
-| [1001 Motivos](https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo) | [Jeff Black](https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs) | [1001 Motivos](https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS) | 2:43 | 2022-11-18 |  |
+| [1001 Motivos](https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo) | [Jeff Black](https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs) | [1001 Motivos](https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS) | 2:43 | 2022-11-18 | 2023-10-28 |
 | [22:50](https://open.spotify.com/track/4fhAcHeUevxayFBkoyDAeY) | [Janu](https://open.spotify.com/artist/6hJAzChzllkTwqTIU3NP1W), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf), [Dj Kaslu](https://open.spotify.com/artist/6ZP4IqLMMJNAXeXMehlO8S) | [22:50](https://open.spotify.com/album/2szD2sU7fHObX4eAPnKAho) | 3:24 | 2022-11-18 | 2022-12-03 |
 | [5458](https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [5458](https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV) | 3:07 | 2022-11-18 |  |
 | [A Noite Toda](https://open.spotify.com/track/7xr8FjbUs6rZjs3YikkDZn) | [Charm Mone](https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [A Noite Toda](https://open.spotify.com/album/23I05Wl6UdtEX9sgA2KtW5) | 3:04 | 2023-06-30 | 2023-07-15 |
@@ -23,7 +23,7 @@
 | [Auge](https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Auge](https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu) | 3:10 | 2022-11-18 |  |
 | [Azul \- Ao Vivo](https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Melly No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK) | 3:03 | 2022-12-23 | 2023-02-25 |
 | [Baby Quando Você Desce](https://open.spotify.com/track/21VJSpzpv7swj87x8bYSQd) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Play, Som e Sexo](https://open.spotify.com/album/5OmfAGtJ4AmzjaaDU1ObQL) | 2:56 | 2023-06-09 |  |
-| [Bad Girl](https://open.spotify.com/track/1whJBnBLwZcpMl9II6rOfB) | [Adi](https://open.spotify.com/artist/4AnpI5Laz6YeM09dMJNTaW) | [TRILOGIA](https://open.spotify.com/album/6nT5ttYMKVRMpEmNZTIL8H) | 2:15 | 2023-09-15 |  |
+| [Bad Girl](https://open.spotify.com/track/1whJBnBLwZcpMl9II6rOfB) | [Adi](https://open.spotify.com/artist/4AnpI5Laz6YeM09dMJNTaW) | [TRILOGIA](https://open.spotify.com/album/6nT5ttYMKVRMpEmNZTIL8H) | 2:15 | 2023-09-15 | 2023-10-28 |
 | [Bahamas](https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z) | [Jota SF](https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib) | [Éramos](https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i) | 3:38 | 2022-11-18 |  |
 | [Balé](https://open.spotify.com/track/7AD5Hbzsh4zsHCBDeMAqJh) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Malibbre](https://open.spotify.com/artist/67T2348EyWZ8v3mHJD2T4K) | [Balé](https://open.spotify.com/album/20Eeg7wH8X8Se1dylEDOzB) | 2:16 | 2023-10-06 |  |
 | [Bem Calma](https://open.spotify.com/track/6c3b87lxij2i7A4uFpcd1t) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Bem Calma](https://open.spotify.com/album/3yWAlfv8Jyw8ddRiLqWECS) | 3:00 | 2022-11-18 | 2023-01-14 |
@@ -57,9 +57,11 @@
 | [Fala, Fala](https://open.spotify.com/track/1OCTC8kofWuBp07FZIlUIX) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Fala, Fala](https://open.spotify.com/album/3VcWCaee9yKQEvioedeEYn) | 2:55 | 2023-01-13 | 2023-03-25 |
 | [Faz Arrepiar](https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz) | [Fashion Piva](https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk), [Ane](https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG) | [Faz Arrepiar](https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7) | 2:20 | 2023-02-17 |  |
 | [Forasteiro](https://open.spotify.com/track/2y3cSgjC0OJm18XCTAYL64) | [Matheus Telles](https://open.spotify.com/artist/3N6sxbTtkfFYeTHr8RO2qS) | [Forasteiro](https://open.spotify.com/album/4zOhy2vPHpmepLnLm8uTCA) | 2:58 | 2023-08-11 | 2023-09-02 |
+| [Freedom](https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Freedom](https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT) | 3:38 | 2023-10-27 |  |
 | [Fuder e Dormir Juntin](https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE) | [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN) | [Fuder e Dormir Juntin](https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA) | 3:00 | 2023-03-17 | 2023-09-02 |
 | [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 | 2023-01-20 | 2023-03-25 |
 | [Gosto de Você](https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Gosto de Você](https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw) | 2:50 | 2022-11-18 | 2023-10-21 |
+| [GUAPA](https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm) | [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Douglas Moda](https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK) | [GUAPA](https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO) | 2:19 | 2023-10-27 |  |
 | [Imaturos](https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Imaturos](https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr) | 3:32 | 2023-08-04 |  |
 | [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 | 2023-01-27 | 2023-08-05 |
 | [incomum](https://open.spotify.com/track/0h6oF0wN1AWD1waKl979Jp) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [jovemCARLOS](https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC) | 3:37 | 2023-04-07 | 2023-04-18 |

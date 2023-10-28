@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 25039,
+  "num_followers": 25066,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGNlMGY2NjY3YWE1MzMyMTRjYmMyNDVhNzkwYzM4MjRkOGY4MTFi",
+  "snapshot_id": "MCxjNjA5ZDBhMTFmZmFlYWE1ZjIxMWM2M2Y0M2QwODZiMzY3ZTQ5MTUy",
   "tracks": [
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Alright Tonight",
+        "url": "https://open.spotify.com/album/1VpmCbGbgKh6CS5sJ4uq7H"
+      },
+      "artists": [
+        {
+          "name": "Pigeons Playing Ping Pong",
+          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
+        }
+      ],
+      "duration_ms": 386917,
+      "name": "Alright Tonight",
+      "url": "https://open.spotify.com/track/4fTRP31lxI5Ab0QXFu429W"
+    },
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
@@ -851,22 +867,6 @@
       "duration_ms": 567173,
       "name": "Three Weeks",
       "url": "https://open.spotify.com/track/0WwN4zHEMtGrijkO0pKYGC"
-    },
-    {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "To Live A Making",
-        "url": "https://open.spotify.com/album/7gMrxYFvgxnlquxVUQ0kCp"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 417004,
-      "name": "Dare You",
-      "url": "https://open.spotify.com/track/5QOsdIQnOmP9AaKFGgBGio"
     },
     {
       "added_at": "2022-12-09 05:00:00",

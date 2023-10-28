@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,350 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,400 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 12 | [Vanish, Memoria](https://open.spotify.com/track/0aEiY6DWhcVpj4dLtR8GJq) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Greg Fox](https://open.spotify.com/artist/0TtmWFPYtp9OUobudWwIP0), [石塚 周太](https://open.spotify.com/artist/6gm2Ia2uZYgLOxoKIgCbW1) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 5:02 |
 | 13 | [Shadow Striker](https://open.spotify.com/track/7kKglAZzb2RdSyOAlQzqhN) | [河野啓三](https://open.spotify.com/artist/274QW59zwGhhYeXZmN0dij) | [Shadow Striker](https://open.spotify.com/album/5i5rg3GM9FLDvavDQSOBmP) | 5:28 |
 | 14 | [華火夜景](https://open.spotify.com/track/1RO9fAT9UQWSB8mVaxcvOI) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [華火夜景](https://open.spotify.com/album/57hUpIDR3di336V6dO6U8v) | 4:35 |
-| 15 | [Bright Life](https://open.spotify.com/track/25zdJ8RT8SNYECanlVfIxS) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Bright Life](https://open.spotify.com/album/0MuMPY3X9rYDzK7CxBE3NU) | 4:15 |
+| 15 | [Bright Life](https://open.spotify.com/track/6nboMcA31FtNfe2QBYaqZ4) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [M.R.I\_Mirai](https://open.spotify.com/album/1JlDJeBXxJqxAcbL5Sp7Vw) | 4:15 |
 | 16 | [Galactic Funk](https://open.spotify.com/track/3Y1k10FsXMXFw9H08dZlKl) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 5:24 |
 | 17 | [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 |
 | 18 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 49 | [Love Lights](https://open.spotify.com/track/4kQbWhGdyt1OHTutPHlcjm) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [PYRAMID4](https://open.spotify.com/album/1YeWcKq1F4VLvGescahAG7) | 5:06 |
 | 50 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
 
-Snapshot ID: `MCwxZmY0OWY1MTUwOGNhNGM4ZjM0M2RhOTQ2NTVhMzg5YmM1N2NiOTk0`
+Snapshot ID: `MCw1MmI2MDAzYWU5MGM1MmRjYmZmNzZjNWZkZTRjMDNjYWFhYzNjZjg4`

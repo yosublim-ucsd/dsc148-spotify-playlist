@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 62789,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
@@ -3160,6 +3160,32 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "album": {
+        "name": "Life is Once",
+        "url": "https://open.spotify.com/album/0P9J5KQksLJqjdwBlqVUP6"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146373,
+      "name": "Boys Like Girls (Feat. Gist, Jayci yucca)",
+      "url": "https://open.spotify.com/track/0zqGsExr8GxWqoaYaa78xU"
     },
     {
       "album": {
@@ -7086,7 +7112,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 238106,
       "name": "Father",
       "url": "https://open.spotify.com/track/365znJ27Fb3faGsctmQYWR"
@@ -7794,7 +7820,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 204576,
       "name": "Fry\u2019s Dream",
       "url": "https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV"
@@ -9112,7 +9138,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 216586,
       "name": "HERO",
       "url": "https://open.spotify.com/track/43u5DDtK4vQ1coWXb4S5a8"
@@ -22488,7 +22514,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"

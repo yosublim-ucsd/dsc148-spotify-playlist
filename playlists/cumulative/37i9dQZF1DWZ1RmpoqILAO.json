@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "indie tunes with country experimentation Cover: Arcy Drive",
+  "description": "indie tunes with country experimentation Cover: Faye Webster",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -958,6 +958,24 @@
       "duration_ms": 190955,
       "name": "Dog Has Its Day",
       "url": "https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV"
+    },
+    {
+      "album": {
+        "name": "DON'T YOU THINK IT'D BE NICE ?",
+        "url": "https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190292,
+      "name": "DON'T YOU THINK IT'D BE NICE ?",
+      "url": "https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D"
     },
     {
       "album": {

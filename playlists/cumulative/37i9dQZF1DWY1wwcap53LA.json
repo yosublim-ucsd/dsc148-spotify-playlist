@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Neon Cowboy",
+        "url": "https://open.spotify.com/album/0J8y3sEsIwLDv9k44tBzlc"
+      },
+      "artists": [
+        {
+          "name": "The Kentucky Gentlemen",
+          "url": "https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198273,
+      "name": "Neon Cowboy",
+      "url": "https://open.spotify.com/track/0IrWcbyRdfWARLLLZCLhuY"
+    },
+    {
+      "album": {
         "name": "Never Change",
         "url": "https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee"
       },

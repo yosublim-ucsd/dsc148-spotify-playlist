@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-433 songs - 1 day 13 hr 32 min
+434 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 | 2022-10-28 | 2023-09-18 |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-12-08 | 2022-11-20 |
 | [Mas](https://open.spotify.com/track/3i1zwjMO1fmW4uI9r7iiJW) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Mas](https://open.spotify.com/album/1dPZfWvc8Ojdpcz0naiIkH) | 7:46 | 2021-12-08 | 2022-11-17 |
-| [Medium](https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Medium](https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G) | 3:58 | 2023-02-22 |  |
+| [Medium](https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Medium](https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G) | 3:58 | 2023-02-22 | 2023-10-28 |
 | [Mellow](https://open.spotify.com/track/5dhQJgHeU8xa1OtEbPebVr) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Mellow](https://open.spotify.com/album/4uZzlvqWYyF8erhXX85QmB) | 7:56 | 2021-12-08 | 2022-05-22 |
 | [Memories](https://open.spotify.com/track/3wNi79QD5Jkz9yWFSGEeBl) | [LJ MASE](https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Memories](https://open.spotify.com/album/2eVjPnHAVEhHd4povh4dRg) | 5:06 | 2021-12-08 | 2022-11-17 |
 | [Midnight \- Original Mix](https://open.spotify.com/track/5jAAoKfKfENn8EfjqfItKX) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Midnight EP](https://open.spotify.com/album/0IO4rC04ohE3akbw7dQX8v) | 6:59 | 2022-05-03 |  |
@@ -236,6 +236,7 @@
 | [Money](https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:18 | 2022-10-28 |  |
 | [Moonlight](https://open.spotify.com/track/5VIMpwICCfIUv4noTcES9d) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Moonlight](https://open.spotify.com/album/4GVzzVyaPe7UJBHGO7Ee1f) | 6:56 | 2023-05-26 |  |
 | [More Than You Thought](https://open.spotify.com/track/6qoGexJZGrmeeNxFpk9RJ6) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [More Than You Thought EP](https://open.spotify.com/album/45cqR8LQeUBz9kzkHp0aNt) | 8:34 | 2021-12-08 |  |
+| [Moss](https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Moss](https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc) | 2:51 | 2023-10-24 |  |
 | [Moss](https://open.spotify.com/track/6tzJUHESntwmwNBJF4R5jD) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [The Moss EP](https://open.spotify.com/album/7y3IgHIyRADQv1SJvaK8Nf) | 8:53 | 2021-12-08 |  |
 | [Mountain \- Tornado Wallace Remix](https://open.spotify.com/track/6q0VRNXzaJssSM1V4zd6uR) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Tornado Wallace](https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT) | [Mountain](https://open.spotify.com/album/6leiaw0XcRmeYRsuCPjyu9) | 6:02 | 2021-12-08 | 2022-07-29 |
 | [Movement](https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Movement](https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq) | 6:11 | 2023-05-26 |  |

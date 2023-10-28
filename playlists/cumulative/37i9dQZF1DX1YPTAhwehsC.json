@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "24 hours to live",
+        "url": "https://open.spotify.com/album/73djAmtght7e1sfNLior3P"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208838,
+      "name": "24 hours to live",
+      "url": "https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1"
+    },
+    {
+      "album": {
         "name": "2daside",
         "url": "https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN"
       },
@@ -2231,6 +2249,28 @@
     },
     {
       "album": {
+        "name": "Brick by Brick",
+        "url": "https://open.spotify.com/album/0gIj2BQkFsWl2wemwpdGMr"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "Brick by Brick",
+      "url": "https://open.spotify.com/track/2Sr9XpAEpFSOk3EpowGyYp"
+    },
+    {
+      "album": {
         "name": "Bricks & Bags",
         "url": "https://open.spotify.com/album/03w4iGlVgjcP80VRmsa58D"
       },
@@ -2640,7 +2680,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 211006,
       "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
       "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
@@ -5044,7 +5084,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 200693,
       "name": "Fire At Ya Idle Mind",
       "url": "https://open.spotify.com/track/5LokWrVZtDH1UZvpeVfp8D"
@@ -5492,10 +5532,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 115973,
       "name": "G-UNIT!",
       "url": "https://open.spotify.com/track/3nWWQLTwwCAwfWQYazd6r7"
+    },
+    {
+      "album": {
+        "name": "Games",
+        "url": "https://open.spotify.com/album/432GE6uinoEWLytsNonxuv"
+      },
+      "artists": [
+        {
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96923,
+      "name": "Games",
+      "url": "https://open.spotify.com/track/6GUgd5uXPPLzNK94F7zO4Y"
     },
     {
       "album": {
@@ -6341,6 +6399,28 @@
     },
     {
       "album": {
+        "name": "Hard To Find",
+        "url": "https://open.spotify.com/album/27cW8vR5633qKUwM6DbRPF"
+      },
+      "artists": [
+        {
+          "name": "Chinese Kitty",
+          "url": "https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "Hard To Find",
+      "url": "https://open.spotify.com/track/23bcfKipPSnWI4ftEteRud"
+    },
+    {
+      "album": {
         "name": "Hate Me Now",
         "url": "https://open.spotify.com/album/0gxSyzdpvE1Nq4vfYD9M94"
       },
@@ -6454,7 +6534,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 191747,
       "name": "Hello My Name Is",
       "url": "https://open.spotify.com/track/5fnjwZ2M1GAlxiAH8wkTXu"
@@ -7490,7 +7570,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 97866,
       "name": "Isabel Marant",
       "url": "https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj"
@@ -14084,6 +14164,28 @@
       "duration_ms": 145714,
       "name": "Sim Simma",
       "url": "https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx"
+    },
+    {
+      "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/1NU1Ee13eBlicWPRgLNWOc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,668 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,726 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 10 | [Never Give Up](https://open.spotify.com/track/6snZcyxY401V8zPoWWf3w8) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6) | [Never Give Up](https://open.spotify.com/album/7MeWkn9Yzn3ZZeLTedcjHn) | 3:13 |
 | 11 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 |
 | 12 | [Sunday Morning](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:04 |
-| 13 | [DON'T YOU THINK IT'D BE NICE](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 |
+| 13 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 |
 | 14 | [Fool For You](https://open.spotify.com/track/1qJOKVRiiaqSpwB1UFPbnl) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Fool For You](https://open.spotify.com/album/3ldC2PLwazUJQTW18DsWLE) | 3:03 |
 | 15 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
 | 16 | [Chamallow](https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Carrossel Do Tempo](https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 |
 | 50 | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/track/05QklCPuKAyDce74SWqf6I) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg) | 3:15 |
 
-Snapshot ID: `MCw2MTA2ZDIwOTdkZWNjMjgxYzFlMjZmODY4ODNlMDI5OTlmZTFhODgy`
+Snapshot ID: `MCw3YjdkNTM4N2U2NGY2YzAyNzg4OGYzNzExMzYxYWYxYTQzZjY0M2Jh`

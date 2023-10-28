@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-178 songs - 11 hr 31 min
+179 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,8 +183,9 @@
 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2021-06-15 |  |
 | [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 | 2021-06-15 | 2022-10-13 |
 | [Youth](https://open.spotify.com/track/6tqzOYuE3lrNVPDgtF3MjM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:13 | 2021-06-15 | 2022-07-29 |
-| [Årstavikens strand](https://open.spotify.com/track/56d4NuZxjcm3gNyByWCImM) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/28HijYE8kCeXeQY7DXwRUS) | 4:44 | 2021-06-15 |  |
+| [Årstavikens strand](https://open.spotify.com/track/56d4NuZxjcm3gNyByWCImM) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/28HijYE8kCeXeQY7DXwRUS) | 4:44 | 2021-06-15 | 2023-10-28 |
 | [Årstavikens strand](https://open.spotify.com/track/5oYcNUFWEn9sYHB2dEVD52) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/5dJbYruKqC38JNvfjxV7xZ) | 4:44 | 2021-06-15 | 2022-07-29 |
+| [Årstavikens strand](https://open.spotify.com/track/6mfoV9F3RELVKLyUj9uPm5) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/6AQTNhCCvhdHFfqzBaN19p) | 4:44 | 2021-06-15 |  |
 | [Årstavikens Strand](https://open.spotify.com/track/5eZ6RcjaBUWYYv7IcxHIPX) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Årstavikens Strand](https://open.spotify.com/album/37sCpqJO7Kl7AolTiQWQkU) | 4:50 | 2021-06-15 | 2022-11-13 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

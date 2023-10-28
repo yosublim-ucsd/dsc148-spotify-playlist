@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,385 likes - 60 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,417 likes - 60 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Long Tall Sally \(The Thing\)](https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:07 |
+| 1 | [Tutti Frutti](https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:24 |
 | 2 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 |
 | 3 | [Rock Boys Rock](https://open.spotify.com/track/0YZ0npA4EPFkFwXlbgsLPS) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [The Devil Always Collects](https://open.spotify.com/album/4AxfzKTpdmkuue9MfXBr0h) | 3:05 |
 | 4 | [\(We're Gonna\) Rock Around The Clock](https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rock Around The Clock](https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK) | 2:09 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 7 | [At The Hop](https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rockin' With Danny And The Juniors \(Expanded Edition\)](https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq) | 2:30 |
 | 8 | [Let's Have A Party](https://open.spotify.com/track/4BdwYhbBITL4fytlFSwv9o) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Ultimate Collection](https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI) | 2:07 |
 | 9 | [Blue Suede Shoes](https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:14 |
-| 10 | [Tutti Frutti](https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:24 |
+| 10 | [Long Tall Sally \(The Thing\)](https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:07 |
 | 11 | [Hillbilly Rock'n'Roll](https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO) | [Voodoo Swing](https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA) | [Keep On Rollin'](https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE) | 2:30 |
 | 12 | [Right Now](https://open.spotify.com/track/10dIfQHkyn2SuJ6rtD7qrh) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Right Now](https://open.spotify.com/album/4aLW5xX8O4tuPi5E7T4494) | 2:19 |
 | 13 | [Baby Did A Bad Bad Thing](https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Forever Blue](https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY) | 2:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 59 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 |
 | 60 | [My Little Sister Gotta Motorbike](https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Our Own Way Of Rockin'](https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO) | 2:45 |
 
-Snapshot ID: `MCwwYTVlNzdjYzNmZTI0Nzc3Nzc5NTI3MjA2ZDFkZTVlY2EwMDNiM2Mz`
+Snapshot ID: `MCxjNTU4ZjdjM2RkZWYwYjJjNDM2ZTkzOTgzNTZiMGYzM2IzN2FkNGI3`

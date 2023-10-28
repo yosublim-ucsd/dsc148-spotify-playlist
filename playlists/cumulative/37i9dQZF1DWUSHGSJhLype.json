@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: Mc Kevin O Chris",
+  "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: Pedro Sampaio, MC Ryan SP",
   "name": "Puro SUCO DE BRASIL",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 156330,
       "name": "Americana Na Vaquejada",
       "url": "https://open.spotify.com/track/1M6rclDhYmqRBMFGNJOFKB"
@@ -593,6 +593,36 @@
     },
     {
       "album": {
+        "name": "BRUXARIA 3000",
+        "url": "https://open.spotify.com/album/4dSYs3xICrNR4Mob4nn3Sa"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Mc Aleff",
+          "url": "https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177782,
+      "name": "BRUXARIA 3000",
+      "url": "https://open.spotify.com/track/4WerFN1IRbgy8RGqpe08SH"
+    },
+    {
+      "album": {
         "name": "Caf\u00e9zin de V\u00f3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp"
       },
@@ -642,7 +672,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 118064,
       "name": "Calma Vai Devagar (Feat. Dj JR FELIX, DJ Yuri Chagas)",
       "url": "https://open.spotify.com/track/1ewBd65QHljy6vRabdxjt1"
@@ -894,7 +924,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 106784,
       "name": "Cria do Rio",
       "url": "https://open.spotify.com/track/444MfEcLpvrEQ4rMgAlUPV"
@@ -2190,7 +2220,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 112518,
       "name": "Mina Sensa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4NWqFtTU1wnvlsU7XjeIGM"
@@ -2272,6 +2302,28 @@
       "duration_ms": 164826,
       "name": "Na Contram\u00e3o",
       "url": "https://open.spotify.com/track/7kJ0aTB5gLMYrJjYft3Vx6"
+    },
+    {
+      "album": {
+        "name": "NEM A\u00cd",
+        "url": "https://open.spotify.com/album/14LmGIr2aU8m2UA4cQhdvu"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "NEM A\u00cd",
+      "url": "https://open.spotify.com/track/7CHfDDYWBiRH609GKdWgif"
     },
     {
       "album": {
@@ -2580,6 +2632,32 @@
       "duration_ms": 182640,
       "name": "Onde Tu Vai Sentar - Ao Vivo",
       "url": "https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI"
+    },
+    {
+      "album": {
+        "name": "Pane no Sistema",
+        "url": "https://open.spotify.com/album/2dmlFvtOu5sd5ktVMiNMNZ"
+      },
+      "artists": [
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "Paulo Pires",
+          "url": "https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214090,
+      "name": "Pane no Sistema",
+      "url": "https://open.spotify.com/track/7GjAXYuxjuXPbQJzRnNdob"
     },
     {
       "album": {
@@ -3270,6 +3348,52 @@
       "duration_ms": 508865,
       "name": "Set Dj Gm 4.0",
       "url": "https://open.spotify.com/track/1N6oQPKuRss4kpl4H2qt8K"
+    },
+    {
+      "album": {
+        "name": "SET DO PEDRINHO",
+        "url": "https://open.spotify.com/album/7mgy4Q1DHnkEbLHXaN4Epv"
+      },
+      "artists": [
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Mcs Nando and Luanzinho",
+          "url": "https://open.spotify.com/artist/4zXnXeaimhcUf7idYglLme"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491520,
+      "name": "SET DO PEDRINHO",
+      "url": "https://open.spotify.com/track/4OL89YnOX1tdh6zlDRW8fb"
     },
     {
       "album": {

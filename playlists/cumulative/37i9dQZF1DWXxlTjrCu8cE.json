@@ -2084,10 +2084,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 179445,
       "name": "Pensando Em N\u00f3s Dois",
       "url": "https://open.spotify.com/track/1kak3tKcHTQGqV5IaV7dup"
+    },
+    {
+      "album": {
+        "name": "Pensando em N\u00f3s Dois (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6kx0St9LB89PCuB2saQ4e2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179445,
+      "name": "Pensando em N\u00f3s Dois - Ao Vivo",
+      "url": "https://open.spotify.com/track/53sYs716ml8mbGzFkmayNy"
     },
     {
       "album": {

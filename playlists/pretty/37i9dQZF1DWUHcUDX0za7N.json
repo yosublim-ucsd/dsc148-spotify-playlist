@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=HVlq4wOvRTOtVCoJDJtpKA\"> Blaqbonez </a>  ",
-  "num_followers": 29365,
+  "num_followers": 29502,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWQ1YjQ5Y2ZlMzE1ZDU5MzZhNWQ3ZDgyYzUzYWJmMDIzN2RmYjlj",
+  "snapshot_id": "MCw0YjI2MTkxZTJkNGVkOTZkNGQxMjUxOTdlZDYyMTAxNTJhYjk0NThj",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -87,18 +87,26 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Big 7",
-        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+        "name": "Propeller (feat. Dave & BNXN)",
+        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 143042,
-      "name": "Big 7",
-      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
+      "duration_ms": 204440,
+      "name": "Propeller (feat. Dave & BNXN)",
+      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -143,26 +151,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Propeller (feat. Dave & BNXN)",
-        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
       },
       "artists": [
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 204440,
-      "name": "Propeller (feat. Dave & BNXN)",
-      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Kpe Paso",
-        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 177915,
-      "name": "Kpe Paso",
-      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "BAD TILL ETERNITY (feat. Zlatan)",
         "url": "https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi"
       },
@@ -607,18 +587,46 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
+        "name": "Kpe Paso",
+        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
       },
       "artists": [
         {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
+      "duration_ms": 177915,
+      "name": "Kpe Paso",
+      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/12KTYt5AkiDP3GL7QSXd6W"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
+      "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -655,6 +663,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "PAPILO / ABENA",
         "url": "https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup"
       },
@@ -671,30 +695,6 @@
       "duration_ms": 132173,
       "name": "PAPILO (Smadumodu)",
       "url": "https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/12KTYt5AkiDP3GL7QSXd6W"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
-      "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 145351,
-      "name": "In Charge",
-      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Pop Sermon",
         "url": "https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 149684,
       "name": "Pop Sermon",
       "url": "https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 145351,
+      "name": "In Charge",
+      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -899,6 +899,50 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/7qbMTYZNQiUFS3eZogAjDl"
+      },
+      "artists": [
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 123733,
+      "name": "Banger (feat. Boj)",
+      "url": "https://open.spotify.com/track/6GPxaASbGS5vbKaW7oYSvO"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Philo (Remix)",
+        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Philo - Remix",
+      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "BILLION DOLLAR DREAM (Deluxe Version)",
         "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
@@ -939,30 +983,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Banger",
-        "url": "https://open.spotify.com/album/7qbMTYZNQiUFS3eZogAjDl"
-      },
-      "artists": [
-        {
-          "name": "Kida Kudz",
-          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 123733,
-      "name": "Banger (feat. Boj)",
-      "url": "https://open.spotify.com/track/6GPxaASbGS5vbKaW7oYSvO"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "SHUT IT DOWN",
         "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 163813,
       "name": "Out There",
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Philo (Remix)",
-        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Philo - Remix",
-      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1131,6 +1131,22 @@
       "duration_ms": 300463,
       "name": "Bad Character - Remix",
       "url": "https://open.spotify.com/track/5TNLFv24z226zDK7aAYXjf"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Dunsin Wright",
+        "url": "https://open.spotify.com/album/1Cnl2eE34Pkxa6WvhwSPbI"
+      },
+      "artists": [
+        {
+          "name": "Fresh L.",
+          "url": "https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj"
+        }
+      ],
+      "duration_ms": 128809,
+      "name": "Dunsin Wright",
+      "url": "https://open.spotify.com/track/1yEUMs6qm47uQcnTWdc1BK"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Dunsin Wright",
-        "url": "https://open.spotify.com/album/1Cnl2eE34Pkxa6WvhwSPbI"
-      },
-      "artists": [
-        {
-          "name": "Fresh L.",
-          "url": "https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj"
-        }
-      ],
-      "duration_ms": 128809,
-      "name": "Dunsin Wright",
-      "url": "https://open.spotify.com/track/1yEUMs6qm47uQcnTWdc1BK"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "6am in Accra (Freestyle)",
         "url": "https://open.spotify.com/album/2PvPnsNQfY1iq5FtJI9Owq"
       },
@@ -1387,30 +1387,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "ATSG, Vol. 1",
-        "url": "https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn"
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
       },
       "artists": [
         {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Dremo",
-          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
-        },
-        {
-          "name": "Powpeezy",
-          "url": "https://open.spotify.com/artist/6x91G9xyfu0x9rFyUzk9Fv"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 155958,
-      "name": "Olu Maintain",
-      "url": "https://open.spotify.com/track/6Hc5qCdQekUa3ALn2KwsPc"
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
     }
   ],
   "unique_name": "Naija Bars ",

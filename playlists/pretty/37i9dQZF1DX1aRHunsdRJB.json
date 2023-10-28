@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10105,
+  "num_followers": 10109,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw",
+  "snapshot_id": "MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Braff",
-        "url": "https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        },
-        {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
-        }
-      ],
-      "duration_ms": 188842,
-      "name": "Braff",
-      "url": "https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Sick Jab Riddim (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 135941,
       "name": "The People Man (T.P.M.)",
       "url": "https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Braff",
+        "url": "https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        }
+      ],
+      "duration_ms": 188842,
+      "name": "Braff",
+      "url": "https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh"
     },
     {
       "added_at": "2022-02-24 18:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,861 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,891 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 13 | [Sing, Sing, Sing](https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 8:40 |
 | 14 | [Perhaps](https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Big Band Classics](https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm) | 2:29 |
 | 15 | [Straighten Up And Fly Right \- Single Version](https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [50th Anniversary Collection \(Vol\. 2\)](https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L) | 2:29 |
-| 16 | [Pistol Packin' Mama \- Single Version](https://open.spotify.com/track/2Pn1HP6ZTVpBaew1jHcs87) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:03 |
-| 17 | [Four Brothers](https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 2:58 |
+| 16 | [Four Brothers](https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 2:58 |
+| 17 | [Pistol Packin' Mama \- Single Version](https://open.spotify.com/track/2Pn1HP6ZTVpBaew1jHcs87) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:03 |
 | 18 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/1GERVZcph8qx09OR7Wo1UV) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:23 |
 | 19 | [Chattanooga Choo Choo](https://open.spotify.com/track/7a5VuzvBrtbqYT7kNlQlFd) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:26 |
 | 20 | [Let's Fall In Love](https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [To Ella With Love](https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz) | 2:46 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 47 | [The Waltz I Blew for You](https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX) | [Rob McConnell](https://open.spotify.com/artist/0I283aIonuly1I86RkxpXr), [The Boss Brass](https://open.spotify.com/artist/6JPFuxGY5ZvsAlznTmLTbT) | [Present Perfect](https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn) | 9:42 |
 | 48 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
 | 49 | [I Didn´t Tell Them Why](https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq) | [Andrea Motis](https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Didn´t Tell Them Why](https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7) | 4:57 |
-| 50 | [Your Mind Is on Vacation](https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ) | [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW), [David Clayton\-Thomas](https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa), [John Finley](https://open.spotify.com/artist/5jUfKEW1EYW7tpOerSOWWr) | [Your Mind Is on Vacation](https://open.spotify.com/album/7lDZoPjoOVUJaO08NtTGzK) | 3:06 |
+| 50 | [I Can't Turn You Loose](https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Can't Turn You Loose](https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z) | 5:14 |
 
-Snapshot ID: `MCw0N2I4MDY5NjYwZDdmMjA3NDk4ODQ0NTk0NGQ2ZDExODAwYmJjMDUz`
+Snapshot ID: `MCxjZjM1MGNhNzgyNGY2NTQyMGExM2Y5NGFjMTk5ODM1MjgyOTVmNWFh`

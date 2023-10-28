@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 236319,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/6WPm9arPzfEBqlPo1gtMzb"
@@ -3142,7 +3142,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 216173,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/1vlEpTUKHga9wAxpQYcrvR"
@@ -6146,6 +6146,24 @@
       "duration_ms": 307287,
       "name": "It Might As Well Be Spring",
       "url": "https://open.spotify.com/track/5I0lk3Rn3gSu6UVRdxFXkQ"
+    },
+    {
+      "album": {
+        "name": "It Never Entered My Mind",
+        "url": "https://open.spotify.com/album/6jT03zRg4WfbOjYGYVoXl5"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201448,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/7sB8c1y2VLN92mw6q3gWGu"
     },
     {
       "album": {
@@ -12391,6 +12409,40 @@
     },
     {
       "album": {
+        "name": "Tormento",
+        "url": "https://open.spotify.com/album/1i8k3JoTDSJwcwSbmQGmJ0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        },
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231349,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/5hUQiYplc53Z5zqW7OMQdn"
+    },
+    {
+      "album": {
         "name": "Train of Fragile Hearts",
         "url": "https://open.spotify.com/album/1DSQj1WRTHVnRwF90FmNmW"
       },
@@ -12984,7 +13036,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 311917,
       "name": "Walking",
       "url": "https://open.spotify.com/track/1xGKhNKnV4mBoFBdQ5XlnI"
@@ -13610,6 +13662,24 @@
       "duration_ms": 283377,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260918,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo"
     },
     {
       "album": {

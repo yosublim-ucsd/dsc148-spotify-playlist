@@ -2,7 +2,7 @@
 
 ### [Hot Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music served here\. Cover \- Animal
+> Hottest Hindi music served here\. Cover \- Tiger 3
 
 288 songs - 19 hr 12 min
 

@@ -4,7 +4,7 @@
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-157 songs - 8 hr 20 min
+158 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 | 2022-01-28 |  |
 | [Regalo Caro](https://open.spotify.com/track/5VQGHYoJGFFUUZFu12grRF) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [El Cartel De Los Cielos](https://open.spotify.com/album/1TSt8F0r3kjDNlz1QztfWT) | 3:56 | 2022-01-28 | 2022-07-29 |
 | [Regalo Caro](https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [El Cartel de Los Cielos](https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b) | 3:58 | 2022-01-28 |  |
+| [Roman Iriarte](https://open.spotify.com/track/7wUVcpOHa6xDl9YMuYyrZK) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:34 | 2023-10-13 |  |
 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 | 2022-01-28 |  |
 | [Se Mamó El Becerro](https://open.spotify.com/track/3cpBfqMWR414bbh8Q0ZlYW) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Se Mamó El Becerro](https://open.spotify.com/album/1pDmBQhwJk1CR9Y9eplQBy) | 3:24 | 2022-01-28 |  |
 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 | 2022-01-28 |  |
@@ -159,7 +160,7 @@
 | [Sucedio en el Aguaje](https://open.spotify.com/track/0EFFoYKXiYCL2JB95WGudt) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Corridos de Linares](https://open.spotify.com/album/1GGgcb6ByO3brtzRo5BjgN) | 2:25 | 2022-01-28 | 2022-11-13 |
 | [Sucedio en el Aguaje](https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Lupe Tijerina y Rosendo Cantu](https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 2:25 | 2022-01-28 | 2023-05-19 |
 | [Sucedio en el Aguaje](https://open.spotify.com/track/71MNeTkcM2ZRktfdDS6zZG) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Lupe Tijerina y Rosendo Cantu](https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD) | [12 Kilates Puros Corridos](https://open.spotify.com/album/5ZsOBQSfpD3odo1vSIUmMR) | 2:25 | 2022-01-28 | 2022-07-29 |
-| [Tragedia de la Plaza de las Tres Culturas \(Tragedy of Plaza of the Three Cultures\)](https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I) | [Judith Reyes](https://open.spotify.com/artist/1krCDSISPTMSQiJmIAXQUV) | [Mexico: Days of Struggle](https://open.spotify.com/album/6yoETsLDj9sIsVT8eLxQoi) | 5:30 | 2023-08-22 |  |
+| [Tragedia de la Plaza de las Tres Culturas \(Tragedy of Plaza of the Three Cultures\)](https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I) | [Judith Reyes](https://open.spotify.com/artist/1krCDSISPTMSQiJmIAXQUV) | [Mexico: Days of Struggle](https://open.spotify.com/album/6yoETsLDj9sIsVT8eLxQoi) | 5:30 | 2023-08-22 | 2023-10-28 |
 | [Tres Veces Mojado](https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 2:51 | 2022-05-03 | 2023-05-19 |
 | [Un Cruzado en Palestina](https://open.spotify.com/track/3HWKUvYb8H47YIKOghzPcR) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:38 | 2022-01-28 | 2023-07-18 |
 | [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 | 2022-01-28 | 2023-08-23 |

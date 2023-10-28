@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-109 songs - 4 hr 52 min
+110 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Estebania Se Acurruca](https://open.spotify.com/track/4IaVsUtAY3omovCDMK6vwf) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania Se Acurruca](https://open.spotify.com/album/66HQ6SFrna5kkzGdtJGPj4) | 2:52 | 2023-03-03 |  |
 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 | 2023-03-03 |  |
 | [Evening meditation](https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Evening meditation](https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u) | 2:09 | 2023-07-21 |  |
-| [Forest Dreams \(432 Hz\)](https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forest Dreams \(432 Hz\)](https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ) | 2:54 | 2023-10-26 |  |
+| [Forest Dreams \(432 Hz\)](https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forest Dreams \(432 Hz\)](https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ) | 2:54 | 2023-10-26 | 2023-10-28 |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-03 |  |
 | [Giardino Di Corde](https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Giardino Di Corde](https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR) | 2:41 | 2023-10-26 |  |
 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 | 2023-03-03 |  |
@@ -75,6 +75,7 @@
 | [New Lakes](https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:45 | 2023-03-03 |  |
 | [New Roads](https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:10 | 2023-03-03 |  |
 | [Noche De Otoño](https://open.spotify.com/track/4BiQv316kzweNWOmAxGFor) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noche De Otoño](https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO) | 3:25 | 2023-03-03 |  |
+| [Nonversations](https://open.spotify.com/track/29LiGEmCwtgvIATHl9kpwY) | [Nea Thomas](https://open.spotify.com/artist/28tnxZs2E0Gs4r8xGcgG8J) | [Nonversations](https://open.spotify.com/album/0LJEhErPCT94DCSflFQuVG) | 4:00 | 2023-10-26 |  |
 | [Noruega](https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noruega](https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx) | 3:45 | 2023-03-03 |  |
 | [Nota Placidità](https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Nota Placidità](https://open.spotify.com/album/0IPDQQA8WY1zdf0lkjOdDC) | 2:31 | 2023-03-03 |  |
 | [October 21st](https://open.spotify.com/track/76cFbynsPU5uVPXifbsmfZ) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [October 21st](https://open.spotify.com/album/5olmbwDm6khNLIvNyWSBpC) | 2:24 | 2023-03-03 |  |

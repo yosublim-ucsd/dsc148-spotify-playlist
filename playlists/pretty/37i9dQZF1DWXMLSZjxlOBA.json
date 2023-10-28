@@ -1,12 +1,12 @@
 {
   "description": "Dance hits to soundtrack your life",
-  "num_followers": 43974,
+  "num_followers": 44036,
   "original_name": "Electronic FM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTg0YzA3NTZmOTFmMWUyN2Q4YTJiZGYwODRiZDA2NGM3ZTFkYjYy",
+  "snapshot_id": "MCwzZWFhYWIyYzExNzViNGQ3ZTVlOGExOTc2MjVlNTU1ZDY1MzlhNGZi",
   "tracks": [
     {
       "added_at": "2023-08-24 13:40:12",
@@ -175,6 +175,26 @@
     {
       "added_at": "2023-08-24 13:40:12",
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "duration_ms": 219043,
+      "name": "Sugar (feat. Francesco Yates)",
+      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "added_at": "2023-08-24 13:40:12",
+      "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2023-08-24 13:40:12",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Francesco Yates",
-          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
-        }
-      ],
-      "duration_ms": 219043,
-      "name": "Sugar (feat. Francesco Yates)",
-      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
     },
     {
       "added_at": "2023-08-24 13:40:12",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-08-24 13:40:12",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
-    },
-    {
-      "added_at": "2023-08-24 13:40:12",
-      "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
+    },
+    {
+      "added_at": "2023-08-24 13:40:12",
+      "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2023-08-24 13:40:12",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-24 13:40:12",
       "album": {
-        "name": "Call on Me (Radio Mix)",
-        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
-    },
-    {
-      "added_at": "2023-08-24 13:40:12",
-      "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2023-08-24 13:40:12",
+      "album": {
+        "name": "Call on Me (Radio Mix)",
+        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2023-08-24 13:40:12",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-24 13:40:12",
       "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
-      },
-      "artists": [
-        {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
-    },
-    {
-      "added_at": "2023-08-24 13:40:12",
-      "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 165800,
       "name": "Kernkraft 400 (A Better Day)",
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
+    },
+    {
+      "added_at": "2023-08-24 13:40:12",
+      "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
     },
     {
       "added_at": "2023-08-24 13:40:12",
@@ -971,6 +971,26 @@
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
+    },
+    {
+      "added_at": "2023-08-24 13:40:12",
+      "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "MONEY ON THE DASH",
+      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
     },
     {
       "added_at": "2023-08-24 13:40:12",
@@ -1015,26 +1035,6 @@
       "duration_ms": 150483,
       "name": "Work With My Love",
       "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
-    },
-    {
-      "added_at": "2023-08-24 13:40:12",
-      "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "MONEY ON THE DASH",
-      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
     },
     {
       "added_at": "2023-08-24 13:40:12",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2023-08-24 13:40:12",
       "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
       "added_at": "2023-08-24 13:40:12",
@@ -1259,22 +1259,18 @@
     {
       "added_at": "2023-08-24 13:40:12",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
     },
     {
       "added_at": "2023-08-24 13:40:12",
@@ -1315,22 +1311,6 @@
       "duration_ms": 170437,
       "name": "messy in heaven",
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
-    },
-    {
-      "added_at": "2023-08-24 13:40:12",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 336924,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
     },
     {
       "added_at": "2023-08-24 13:40:12",
@@ -1395,6 +1375,34 @@
     {
       "added_at": "2023-08-24 13:40:12",
       "album": {
+        "name": "Music Sounds Better With You",
+        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
+      },
+      "artists": [
+        {
+          "name": "Stardust",
+          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
+        },
+        {
+          "name": "Benjamin Diamond",
+          "url": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Thomas Bangalter",
+          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
+        }
+      ],
+      "duration_ms": 403293,
+      "name": "Music Sounds Better With You",
+      "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt"
+    },
+    {
+      "added_at": "2023-08-24 13:40:12",
+      "album": {
         "name": "Won't Forget You",
         "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
       },
@@ -1431,34 +1439,6 @@
       "duration_ms": 177321,
       "name": "Dancing is Healing",
       "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
-    },
-    {
-      "added_at": "2023-08-24 13:40:12",
-      "album": {
-        "name": "Music Sounds Better With You",
-        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
-      },
-      "artists": [
-        {
-          "name": "Stardust",
-          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
-        },
-        {
-          "name": "Benjamin Diamond",
-          "url": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
-        },
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        },
-        {
-          "name": "Thomas Bangalter",
-          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
-        }
-      ],
-      "duration_ms": 403293,
-      "name": "Music Sounds Better With You",
-      "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt"
     },
     {
       "added_at": "2023-08-24 13:40:12",
@@ -1635,6 +1615,22 @@
       "duration_ms": 164693,
       "name": "Praising You (feat. Fatboy Slim)",
       "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
+    },
+    {
+      "added_at": "2023-08-24 13:40:12",
+      "album": {
+        "name": "Push Up (Original Mix)",
+        "url": "https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 240059,
+      "name": "Push Up - Original Mix",
+      "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
     }
   ],
   "unique_name": "Electronic FM",

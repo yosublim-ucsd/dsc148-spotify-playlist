@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 19475,
+  "num_followers": 19515,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWRkNTg3N2NlMjc5ZmFlOWJiMzgzOTAwYmY0MjRjMjcyN2NmOGMz",
+  "snapshot_id": "MCwxOTJhMDAwMTE1M2E0ZjUxMTNhYjlhNWZhYWM0YmY4ZDk3Y2QzMWEz",
   "tracks": [
     {
       "added_at": "2023-08-11 13:45:33",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
-        "name": "Soy la lluvia",
-        "url": "https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Vicky Ripa",
-          "url": "https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr"
-        }
-      ],
-      "duration_ms": 327912,
-      "name": "Soy la lluvia",
-      "url": "https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
         "name": "Los Andes",
         "url": "https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 155062,
       "name": "Los Andes",
       "url": "https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
+        "name": "Soy la lluvia",
+        "url": "https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Vicky Ripa",
+          "url": "https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr"
+        }
+      ],
+      "duration_ms": 327912,
+      "name": "Soy la lluvia",
+      "url": "https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r"
     },
     {
       "added_at": "2023-08-11 13:45:33",
@@ -1447,6 +1447,30 @@
     {
       "added_at": "2023-08-11 13:45:33",
       "album": {
+        "name": "Antikuna Anqa",
+        "url": "https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD"
+      },
+      "artists": [
+        {
+          "name": "Nintu",
+          "url": "https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5"
+        },
+        {
+          "name": "Mauricio Arratia",
+          "url": "https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai"
+        },
+        {
+          "name": "Pao Pamaki",
+          "url": "https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Antikuna Anqa",
+      "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
+    },
+    {
+      "added_at": "2023-08-11 13:45:33",
+      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
       },
@@ -1479,30 +1503,6 @@
       "duration_ms": 267353,
       "name": "La Fuerza",
       "url": "https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j"
-    },
-    {
-      "added_at": "2023-08-11 13:45:33",
-      "album": {
-        "name": "Antikuna Anqa",
-        "url": "https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD"
-      },
-      "artists": [
-        {
-          "name": "Nintu",
-          "url": "https://open.spotify.com/artist/6fhBqhLVgzSRQAvGxm4yt5"
-        },
-        {
-          "name": "Mauricio Arratia",
-          "url": "https://open.spotify.com/artist/42h2ekeqZDzgo6IcfiPpai"
-        },
-        {
-          "name": "Pao Pamaki",
-          "url": "https://open.spotify.com/artist/6vqF9GI9o8la8YpvWQaWbz"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Antikuna Anqa",
-      "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
     }
   ],
   "unique_name": "Electro Folklore",

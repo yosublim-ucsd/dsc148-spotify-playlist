@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Pakistani acts\.  Cover: Hassan & Roshaan
 
-63 songs - 3 hr 25 min
+64 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Akhiyaan](https://open.spotify.com/track/3EywoDCSQSykcVgdKvTgAQ) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Akhiyaan](https://open.spotify.com/album/0f5MUpT8lgjtlzJehqnxPI) | 4:28 | 2023-10-05 |  |
 | [Alvida](https://open.spotify.com/track/6WEL0IfG8t9dxlxFxhKPAC) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Diya](https://open.spotify.com/album/6ngQPB42n6qbvTHhoDHoNX) | 2:42 | 2023-10-05 |  |
 | [Andaaz\-E\-Karam](https://open.spotify.com/track/7iI9CyxhmRqqk6u8odtvAq) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Andaaz\-E\-Karam](https://open.spotify.com/album/4mccCSngQlhDBLMROPx5Ip) | 3:06 | 2023-10-05 |  |
+| [Andheri Raat](https://open.spotify.com/track/2ojtfOXp5BR9Jxh3GIdZ6h) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Andheri Raat](https://open.spotify.com/album/6CksTNpieRuo6cwoDBU5nI) | 3:06 | 2023-10-27 |  |
 | [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 | 2023-07-31 |  |
 | [CHAMKEELA](https://open.spotify.com/track/7BRB830qcAMXktLRnH9Lle) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Chamkeela](https://open.spotify.com/album/0UBowUDsgsONLykfLOV824) | 3:08 | 2023-07-31 |  |
 | [Chashme Badoor](https://open.spotify.com/track/05dKfHUSODo2y9aF8QEltf) | [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok) | [Chashme Badoor](https://open.spotify.com/album/10s72shVzavpDIKRvgyreQ) | 2:27 | 2023-09-03 |  |

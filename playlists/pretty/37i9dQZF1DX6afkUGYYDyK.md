@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,906 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,912 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 43 | [Give Thanks \- Live](https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 6:32 |
 | 44 | [Thank You \(Famine Or Feast\)](https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Thank You \(Famine Or Feast\)](https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q) | 3:23 |
 | 45 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 |
-| 46 | [Give Thanks](https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Give Thanks](https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK) | 4:31 |
-| 47 | [Give Thanks To The Lord \(Forever\)](https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Grace \- Live Worship From New Wine 2001](https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG) | 3:57 |
-| 48 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
-| 49 | [I Won't Forget \(Live\)](https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP) | [Lifepoint Worship](https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [I Won't Forget](https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7) | 8:41 |
-| 50 | [Thank You Lord \(He Did It All\) \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Strength \(feat\. John P\. Kee\)](https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT) | 5:14 |
+| 46 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
+| 47 | [Give Thanks](https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Give Thanks](https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK) | 4:31 |
+| 48 | [Give Thanks To The Lord \(Forever\)](https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Grace \- Live Worship From New Wine 2001](https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG) | 3:57 |
+| 49 | [Thank You Lord \(He Did It All\) \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Strength \(feat\. John P\. Kee\)](https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT) | 5:14 |
+| 50 | [I Won't Forget \(Live\)](https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP) | [Lifepoint Worship](https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [I Won't Forget](https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7) | 8:41 |
 | 51 | [Thank You](https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Words & Music: John Mellencamp's Greatest Hits](https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR) | 3:37 |
 | 52 | [Too Grateful](https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [You Find a Way](https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN) | 4:55 |
 | 53 | [For All You've Done \(I Worship You\) \(feat\. Jason Ingram\) \- Live](https://open.spotify.com/track/78BJN4Nya6inRz4OhEY6PH) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR) | [Live Worship From Vertical Church](https://open.spotify.com/album/3Cugb1EthU6slWVMkhqEBz) | 5:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Thankful](https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Faithful To Believe](https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61) | 6:26 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MCw3ZmIzMmEzM2E0ZjEyYTg2MTM1NjIyYjM0OGNkZjcxNzY3YjFkZDA5`
+Snapshot ID: `MCw1Y2E3M2MyNzBiZjNmN2ZiY2ZkMGEyMTc1MjBmMWRkMTVjMjZjNzFl`

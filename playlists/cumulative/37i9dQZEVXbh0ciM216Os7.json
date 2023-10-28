@@ -1607,6 +1607,28 @@
     },
     {
       "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/6loUqWwlUGbR2MOAaUxtz5"
+      },
+      "artists": [
+        {
+          "name": "Owueyh",
+          "url": "https://open.spotify.com/artist/3nd2n8FfLyVhQF69MBafRd"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161690,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/1f7Qc1b1MbQUFB9kUSpl6n"
+    },
+    {
+      "album": {
         "name": "Count The Clouds",
         "url": "https://open.spotify.com/album/0hYFW952nfZWyN5y1vxjdb"
       },
@@ -2929,6 +2951,28 @@
     },
     {
       "album": {
+        "name": "The Legacy Series Vol. 2",
+        "url": "https://open.spotify.com/album/45fQ7LLQ9s3cVQJrXf0LxR"
+      },
+      "artists": [
+        {
+          "name": "Q-Unique",
+          "url": "https://open.spotify.com/artist/6UWL7dFvtP5xef4wtaRBZY"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Cup of Tea",
+      "url": "https://open.spotify.com/track/4JBKPjRHlGBCXFH0R8A81l"
+    },
+    {
+      "album": {
         "name": "Nosebleeds",
         "url": "https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct"
       },
@@ -3414,6 +3458,28 @@
       "duration_ms": 165759,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
+    },
+    {
+      "album": {
+        "name": "Diabolical Swordsmen",
+        "url": "https://open.spotify.com/album/3qPtxtunjBOw8zIg1TqHO2"
+      },
+      "artists": [
+        {
+          "name": "Cedrick Bogan",
+          "url": "https://open.spotify.com/artist/1FkEIUlqPePELLE6R80zB8"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120032,
+      "name": "Diabolical Swordsmen",
+      "url": "https://open.spotify.com/track/7z9ntrrjkTKslZY5OCxmMy"
     },
     {
       "album": {
@@ -4164,6 +4230,28 @@
       "duration_ms": 248506,
       "name": "Dreams - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
       "url": "https://open.spotify.com/track/4u7yarl2MgYqmuyG8ruseL"
+    },
+    {
+      "album": {
+        "name": "Dreamteam",
+        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181312,
+      "name": "Dreamteam",
+      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
     },
     {
       "album": {
@@ -5036,6 +5124,28 @@
       "duration_ms": 185167,
       "name": "Fire Alarm (feat. Snow Strippers)",
       "url": "https://open.spotify.com/track/02Mqx9HzVRyfdCUpPNR6N3"
+    },
+    {
+      "album": {
+        "name": "Firework in the Falling Snow (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lcJdQR9siiIlAiLPmgHk5"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        },
+        {
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174160,
+      "name": "Firework in the Falling Snow - Acoustic Version",
+      "url": "https://open.spotify.com/track/3x1Oa8gNgiVvvAEXQb7kSl"
     },
     {
       "album": {
@@ -6742,7 +6852,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 237124,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/2GBTgnhUDZyweeg7mTwhOi"
@@ -6864,7 +6974,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 232311,
       "name": "I Thanks The Lord (feat. Kross)",
       "url": "https://open.spotify.com/track/07zehPWxhC7lTpMflzdWIS"
@@ -8108,7 +8218,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 194386,
       "name": "Koala - LOSTBOYJAY Remix",
       "url": "https://open.spotify.com/track/6t3fgZevGImXgT1yuNyNYE"
@@ -8182,6 +8292,28 @@
       "duration_ms": 328564,
       "name": "Land of Confusion (Metal Version)",
       "url": "https://open.spotify.com/track/1oe1dxFxBEVZK6YdPIShkn"
+    },
+    {
+      "album": {
+        "name": "LARP (Feat. Gorillaz)",
+        "url": "https://open.spotify.com/album/4dbx5Fdu1N2QocTr6eHzHs"
+      },
+      "artists": [
+        {
+          "name": "Uriel Bromberg",
+          "url": "https://open.spotify.com/artist/4nVMdaAC2qe0LLrTvBgaKb"
+        },
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251865,
+      "name": "LARP (Feat. Gorillaz)",
+      "url": "https://open.spotify.com/track/4Z1PGaoHtN4eHS5zyWPrEP"
     },
     {
       "album": {
@@ -10559,6 +10691,28 @@
     },
     {
       "album": {
+        "name": "Only the Young (Steve Perry & Bryce Miller Remix)",
+        "url": "https://open.spotify.com/album/1xG7RX2NZgW7jQWkJ7VfH0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        },
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215682,
+      "name": "Only the Young - Steve Perry & Bryce Miller Remix",
+      "url": "https://open.spotify.com/track/4qwEhHH34RHH1B16vXj93L"
+    },
+    {
+      "album": {
         "name": "Origin Story",
         "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
       },
@@ -11122,7 +11276,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 232923,
       "name": "Power of the Triforce",
       "url": "https://open.spotify.com/track/4UnxvpD2skPffB7Wsd2CIG"
@@ -12188,7 +12342,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 267337,
       "name": "Shadow Boxin' 2.0",
       "url": "https://open.spotify.com/track/0OMjDQ112ToLSSV7nCde4y"
@@ -12408,6 +12562,32 @@
       "duration_ms": 266338,
       "name": "Silent Running (feat. Adeleye Omotayo)",
       "url": "https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/2Vf11H8WREJzPPm57eqAS4"
+      },
+      "artists": [
+        {
+          "name": "Justdiba",
+          "url": "https://open.spotify.com/artist/74ka9AXPf2SfkytbNcRzV5"
+        },
+        {
+          "name": "Primus",
+          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
+        },
+        {
+          "name": "Yowdy",
+          "url": "https://open.spotify.com/artist/5m9RfrvhBU3rs02gydxFud"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "Simpe Ruhepo",
+      "url": "https://open.spotify.com/track/5zasT45VJQwjz5QKAjBYVo"
     },
     {
       "album": {
@@ -12962,6 +13142,32 @@
       "duration_ms": 236466,
       "name": "Staffan (Var En Stalledr\u00e4ng)",
       "url": "https://open.spotify.com/track/5NH850HLE8EKalHHtbQj0i"
+    },
+    {
+      "album": {
+        "name": "Starla",
+        "url": "https://open.spotify.com/album/2bIjr9wL104aZf6RlcbwT9"
+      },
+      "artists": [
+        {
+          "name": "COCO PUFF",
+          "url": "https://open.spotify.com/artist/5UvQZRSHZjE4Vj5JR4MRxA"
+        },
+        {
+          "name": "U-God",
+          "url": "https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196022,
+      "name": "Starla",
+      "url": "https://open.spotify.com/track/2nyf95vcNywPnHYxRBX1YV"
     },
     {
       "album": {
@@ -13885,6 +14091,24 @@
     },
     {
       "album": {
+        "name": "The American Dream Is Killing Me",
+        "url": "https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186270,
+      "name": "The American Dream Is Killing Me",
+      "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
+    },
+    {
+      "album": {
         "name": "Superb Name Poop Songs",
         "url": "https://open.spotify.com/album/3diYB1toXMSCOuKivz7zId"
       },
@@ -14448,6 +14672,32 @@
       "duration_ms": 621333,
       "name": "The Voice of King Nipsey (feat. Kamasi Washington, Robert 'Sput' Searight, Larry Goldings & Nir Felder)",
       "url": "https://open.spotify.com/track/5PO7nf7EyBSk4n4tyj6QSi"
+    },
+    {
+      "album": {
+        "name": "Planet Of The Blues: Part Two",
+        "url": "https://open.spotify.com/album/4ZfLONj7KcXjnQES3IttKz"
+      },
+      "artists": [
+        {
+          "name": "Lilblackkids",
+          "url": "https://open.spotify.com/artist/4JYRi0SBCkaspVNZxtIDSN"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        },
+        {
+          "name": "Keith Rice",
+          "url": "https://open.spotify.com/artist/3ZR45l2gVP68kMaKxREjmu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "The Wait",
+      "url": "https://open.spotify.com/track/6PTvInAzm8dBGaCkClTaqt"
     },
     {
       "album": {
@@ -16016,7 +16266,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 179623,
       "name": "When I Come Around - Cassette demo",
       "url": "https://open.spotify.com/track/4ECOhAff9rCHTgddtPO1Wa"

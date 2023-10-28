@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,860 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,885 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 49 | [Low \- Babeheaven Remix](https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Low \(Babeheaven Remix\)](https://open.spotify.com/album/6YHnk5GdCARNyCk6c3hgnG) | 4:07 |
 | 50 | [Untethered](https://open.spotify.com/track/377mv3pv1Nday6pjadqEwr) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Untethered](https://open.spotify.com/album/66j4okq2ZqszWa2e76yrdc) | 4:14 |
 
-Snapshot ID: `MCwwMWY4N2I4NzFlM2NiYmMxNzE0YzFmODRkNmRjOTdmMGZjNThmMmQ0`
+Snapshot ID: `MCxiMDc2YWE4MzdiYjQ3MDZhMGI5NTQ4YjY2ZDdiYmY4NWNhNjIxNzRk`

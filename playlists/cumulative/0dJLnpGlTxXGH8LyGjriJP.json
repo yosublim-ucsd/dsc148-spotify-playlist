@@ -3913,6 +3913,28 @@
     },
     {
       "album": {
+        "name": "Family Freestyle",
+        "url": "https://open.spotify.com/album/1QkPatRtkzJahrvBV56gJe"
+      },
+      "artists": [
+        {
+          "name": "Lil Dann",
+          "url": "https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215121,
+      "name": "Family Freestyle",
+      "url": "https://open.spotify.com/track/5u8m1YQAVoyu5k81b5DWvr"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
@@ -6574,6 +6596,28 @@
       "duration_ms": 177230,
       "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
+    },
+    {
+      "album": {
+        "name": "Rich Off Pints 3",
+        "url": "https://open.spotify.com/album/71AUiEqMJuQFGUzFmYYACn"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171946,
+      "name": "Know The Difference (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7jMjA7MmHeKcDH4MnSp5YF"
     },
     {
       "album": {

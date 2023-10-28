@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: Alexandra Kay",
+  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: Graham Barham",
   "name": "Young Nashville",
   "tracks": [
     {
@@ -3698,6 +3698,24 @@
       "duration_ms": 210496,
       "name": "Over the Weekend",
       "url": "https://open.spotify.com/track/14rwllmMI8akokL4gQPLIN"
+    },
+    {
+      "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190776,
+      "name": "Painted Him Perfect",
+      "url": "https://open.spotify.com/track/6eAN9q9pNr43bJE7RxVSDG"
     },
     {
       "album": {

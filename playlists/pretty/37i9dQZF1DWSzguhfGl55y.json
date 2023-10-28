@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 619680,
+  "num_followers": 619762,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTlkOWVmMWUwZjE0OWIyMjg2OGQ3OTRkMWU5YjkxNjQ0NDkzYmJk",
+  "snapshot_id": "MCxhMDcyNjJjOGVmMjhhMmU1ZTA3NmM3MWQ0MWI5NDc5MWEzMzI1YWM5",
   "tracks": [
     {
       "added_at": "2023-10-11 12:51:15",
@@ -787,22 +787,18 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU"
+        "name": "Bossaura",
+        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
       },
       "artists": [
         {
-          "name": "AZAD",
-          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
-        },
-        {
-          "name": "Cassandra Steen",
-          "url": "https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr"
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
         }
       ],
-      "duration_ms": 221346,
-      "name": "Eines Tages (feat. Cassandra Steen) - Single Edit",
-      "url": "https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU"
+      "duration_ms": 364720,
+      "name": "Bossaura",
+      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -823,18 +819,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Bossaura",
-        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU"
       },
       "artists": [
         {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+          "name": "AZAD",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        },
+        {
+          "name": "Cassandra Steen",
+          "url": "https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr"
         }
       ],
-      "duration_ms": 364720,
-      "name": "Bossaura",
-      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
+      "duration_ms": 221346,
+      "name": "Eines Tages (feat. Cassandra Steen) - Single Edit",
+      "url": "https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU"
     },
     {
       "added_at": "2023-10-11 12:51:15",

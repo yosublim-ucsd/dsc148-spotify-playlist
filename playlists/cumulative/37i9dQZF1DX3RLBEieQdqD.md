@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Manuel Turizo & Grupo Frontera
 
-137 songs - 8 hr 0 min
+138 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Como Si Nada](https://open.spotify.com/track/5M2rUcoW3Kffm6Iw0NOje4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Como Si Nada](https://open.spotify.com/album/23AVhkrU4uDEnSv0QaSRmI) | 3:09 | 2022-10-14 | 2022-11-14 |
 | [Como Si Nada](https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:09 | 2022-08-18 |  |
 | [Como Te Olvido](https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 4:50 | 2022-08-18 |  |
-| [Como una Pelota](https://open.spotify.com/track/5iJBBQOi25f86NEurPAszB) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Como una Pelota](https://open.spotify.com/album/306ib7yX5JegvImZ8VMrSF) | 2:55 | 2022-09-30 |  |
+| [Como una Pelota](https://open.spotify.com/track/5iJBBQOi25f86NEurPAszB) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Como una Pelota](https://open.spotify.com/album/306ib7yX5JegvImZ8VMrSF) | 2:55 | 2022-09-30 | 2023-10-28 |
 | [Como una Pelota \(feat\. Espinoza Paz\)](https://open.spotify.com/track/4wVmbrxbSos5XFSkxJgStl) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como una Pelota \(feat\. Espinoza Paz\)](https://open.spotify.com/album/3MIYSFtANScbsIejPwRZuP) | 2:55 | 2022-08-18 | 2022-10-03 |
 | [Corro A Tus Brazos](https://open.spotify.com/track/77jXK0SAJO3QlJUPeVqJ3K) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Corro A Tus Brazos](https://open.spotify.com/album/31MyEJ9tC42clCwri2yMQG) | 3:44 | 2023-09-01 | 2023-10-07 |
 | [Cuatro Rosas](https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:36 | 2022-08-18 |  |
@@ -99,6 +99,7 @@
 | [Mujeres Divinas](https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [México en Mi Voz](https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE) | 3:19 | 2023-10-18 |  |
 | [Muy Bandida](https://open.spotify.com/track/74Q5KgYnmaaD4onOW77Deu) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [De Regreso al Dolor](https://open.spotify.com/album/5g86joQp94OGhGhKrzU9Yc) | 3:01 | 2022-08-18 |  |
 | [Métete en el Viaje](https://open.spotify.com/track/4iraYjp8zy8JG4KFptSWFo) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Tuto López](https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8) | [Métete en el Viaje](https://open.spotify.com/album/4LvRWqfbUBfqyighpXs3Fm) | 3:54 | 2023-02-03 | 2023-04-22 |
+| [Necesito Un Segundo](https://open.spotify.com/track/5GNaL2WTTktz5QBFncqVHQ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailemos Otra Vez](https://open.spotify.com/album/1HatE1hzYec4CLoN4TJcKI) | 2:23 | 2023-10-27 |  |
 | [Niégame Tres Veces](https://open.spotify.com/track/4mGRIaDuszXYCTGZfLjjpA) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 4:29 | 2022-08-18 |  |
 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 | 2022-08-18 |  |
 | [niña bonita binomio de oro vallenato](https://open.spotify.com/track/0LoiirA5aUddQFAjYFpOkn) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 5:10 | 2022-10-14 | 2022-11-13 |

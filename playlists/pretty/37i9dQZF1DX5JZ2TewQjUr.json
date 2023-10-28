@@ -1,12 +1,12 @@
 {
   "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Zelos Wong",
-  "num_followers": 11410,
+  "num_followers": 11413,
   "original_name": "+852 Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTFkNTU2MGQ0NzhiODBlNTM3YzM1NDY0Nzk4NWVkM2UyYzgyZTJh",
+  "snapshot_id": "MCwyY2RjM2ZiMTNkZTM0YTE3MmE4NGU2ZWFhYzBiMjkwNWM5ZTU2ZTE2",
   "tracks": [
     {
       "added_at": "2023-10-26 16:00:00",
@@ -71,6 +71,42 @@
       "duration_ms": 170578,
       "name": "\u5929\u4f7f999%",
       "url": "https://open.spotify.com/track/5gheISXZ452VrOcVnpy69G"
+    },
+    {
+      "added_at": "2023-10-27 04:28:05",
+      "album": {
+        "name": "M.O.B (My Own Biz)",
+        "url": "https://open.spotify.com/album/2olCQySy1I4q9w0C47fGq1"
+      },
+      "artists": [
+        {
+          "name": "Big Sammy",
+          "url": "https://open.spotify.com/artist/1JsfjzT0JNGa8neELgJBhX"
+        }
+      ],
+      "duration_ms": 197607,
+      "name": "M.O.B (My Own Boss)",
+      "url": "https://open.spotify.com/track/7iNtZTnk5iXHYjQTZKZ4M3"
+    },
+    {
+      "added_at": "2023-10-26 16:00:00",
+      "album": {
+        "name": "Goodbye (While I Still Remember You)",
+        "url": "https://open.spotify.com/album/1sVlWhnJ3YcvPu2Huv026Y"
+      },
+      "artists": [
+        {
+          "name": "Walter Kwan",
+          "url": "https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot"
+        },
+        {
+          "name": "Cy Leo",
+          "url": "https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Goodbye (While I Still Remember You)",
+      "url": "https://open.spotify.com/track/4UxRLxVCveG0DrPm8tgqk1"
     },
     {
       "added_at": "2023-10-26 16:00:00",

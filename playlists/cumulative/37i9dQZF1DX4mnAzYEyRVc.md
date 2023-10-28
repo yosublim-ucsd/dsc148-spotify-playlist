@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-568 songs - 1 day 9 hr 1 min
+569 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Charade](https://open.spotify.com/track/4TU950aBQIwFjkuWk63shn) | [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn), [The Beverley's All Stars](https://open.spotify.com/artist/4YLJ8hO5NSk1uWjGUb0xlK) | [King of Ska: The Beverley's Records Singles Collection 1963 \- 1967](https://open.spotify.com/album/2rRn15y0Y7m6NKWL9QXo3Y) | 3:06 | 2023-09-01 | 2023-10-17 |
 | [Chupasangre](https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Chupasangre](https://open.spotify.com/album/6QuNQyIrZQGzzzx072piNU) | 3:16 | 2023-09-29 |  |
 | [Ciegos de Amor](https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Lágrimas y Risas](https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR) | 3:53 | 2021-12-06 |  |
-| [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 | 2021-12-06 |  |
+| [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 | 2021-12-06 | 2023-10-28 |
 | [Come on Eileen](https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 4:09 | 2021-12-06 |  |
 | [Confesión](https://open.spotify.com/track/4QR9arBY2SJRdetyPRDzhw) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [King Changó](https://open.spotify.com/album/3fINfP9orKcEtgwLTOdVyJ) | 5:40 | 2021-12-06 | 2023-04-22 |
 | [Confucius](https://open.spotify.com/track/0PID4nnqvsWwxK89BYuWCR) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Brass Mafia](https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1) | [Confucius](https://open.spotify.com/album/7xYCRdnpMwYAjQX7kj1grq) | 5:31 | 2023-07-28 | 2023-09-02 |
@@ -127,6 +127,7 @@
 | [Doin' What We Do](https://open.spotify.com/track/1wMxbY2NiEcMtpgExxsyKY) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Doin' What We Do](https://open.spotify.com/album/2bsry5FfdfgiABYGw77YHf) | 3:04 | 2023-09-01 | 2023-10-12 |
 | [Dolce far niente](https://open.spotify.com/track/6lC9Ylt9CMMlFt0qOJYhV4) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Dolce far niente](https://open.spotify.com/album/3eijO45zq05msPm09WUErh) | 2:55 | 2023-09-08 |  |
 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 | 2021-12-06 | 2023-04-22 |
+| [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 | 2023-10-27 |  |
 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 | 2021-12-06 | 2023-09-09 |
 | [Donde Quedó el Amor](https://open.spotify.com/track/0ISnnP3lKhl7IJvtlpyzY9) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Skaparate Fest, Vol\. 2](https://open.spotify.com/album/5ZoxGJIU4fn6F1gGlHZwOi) | 3:11 | 2021-12-06 | 2022-07-29 |
 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 | 2021-12-06 | 2023-04-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,911 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,915 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 74 | [Long Way From Home \(feat\. Eric Harland\)](https://open.spotify.com/track/4LvTgaYf1iMvkBPh9YMK54) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [Far Star](https://open.spotify.com/album/1AIF7npFznwVA8tnlSNock) | 5:17 |
 | 75 | [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 |
 
-Snapshot ID: `MCxmMmQxNGFlZjI2NGJjODIxZjg5YTU4YTkwNzFkZTQxNTZlZGRlYzY4`
+Snapshot ID: `MCw0MzA2ZjdmNmY4N2Q1YjYxZTI1ZDQ0NWEzMzQ4NWRlYTA4N2NiODA2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Sean Paul y Manuel Turizo.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Sky Rompiendo y Dei V.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 157000,
       "name": "Baby \u00c9lite",
       "url": "https://open.spotify.com/track/2liFagnUtFWuyN1I0gsqa1"
@@ -2781,6 +2781,32 @@
     },
     {
       "album": {
+        "name": "CARACAS EN EL 2000",
+        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227784,
+      "name": "CARACAS EN EL 2000",
+      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "album": {
         "name": "CARNET",
         "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
       },
@@ -3258,7 +3284,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 148825,
       "name": "Climax",
       "url": "https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI"
@@ -3677,6 +3703,28 @@
     },
     {
       "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+    },
+    {
+      "album": {
         "name": "Cuando Baila",
         "url": "https://open.spotify.com/album/0aVY56F9XWZwbxLQer40oB"
       },
@@ -3768,7 +3816,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 165714,
       "name": "CUKI",
       "url": "https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko"
@@ -5739,6 +5787,28 @@
     },
     {
       "album": {
+        "name": "Esteban Rojas Hotline: Cobuz & Bustta",
+        "url": "https://open.spotify.com/album/294JtJhmt9pSQARdmgEQBb"
+      },
+      "artists": [
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Esteban Rojas Hotline: Cobuz & Bustta",
+      "url": "https://open.spotify.com/track/1ekyUJAtwt1VvoUQNcgWrf"
+    },
+    {
+      "album": {
         "name": "Esto Reci\u00e9n Empieza",
         "url": "https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU"
       },
@@ -6082,6 +6152,28 @@
       "duration_ms": 191020,
       "name": "Fashion Girl - Remix",
       "url": "https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP"
+    },
+    {
+      "album": {
+        "name": "FATAL FANTASSY",
+        "url": "https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "FATAL FANTASSY",
+      "url": "https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh"
     },
     {
       "album": {
@@ -8460,7 +8552,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 176000,
       "name": "Los Polvos",
       "url": "https://open.spotify.com/track/1cIyCXCDtkP0a2v093PJbK"
@@ -8758,6 +8850,24 @@
       "duration_ms": 169378,
       "name": "Mami Mamacita",
       "url": "https://open.spotify.com/track/0O5nMKufxtdGryO2p7exyz"
+    },
+    {
+      "album": {
+        "name": "MAMI XULA",
+        "url": "https://open.spotify.com/album/2oxNYcVKNyq6ojuDE32pKx"
+      },
+      "artists": [
+        {
+          "name": "Briella",
+          "url": "https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "MAMI XULA",
+      "url": "https://open.spotify.com/track/2t4WmF6VwrEnii30Cy1Ke3"
     },
     {
       "album": {
@@ -9908,7 +10018,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
@@ -10280,6 +10390,24 @@
       "duration_ms": 213000,
       "name": "No Conf\u00edo",
       "url": "https://open.spotify.com/track/2UieOcTk0Kl4bzLVBW4oVj"
+    },
+    {
+      "album": {
+        "name": "The Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/7Fk8BYKoCrlqVHAyYY7yfP"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213463,
+      "name": "No Creo En Mujeres",
+      "url": "https://open.spotify.com/track/1khZCgEjEDU5O3SvFXhvAw"
     },
     {
       "album": {
@@ -14124,7 +14252,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 214986,
       "name": "SUKI",
       "url": "https://open.spotify.com/track/3PVuGa5aJe03VwaljEHyDi"

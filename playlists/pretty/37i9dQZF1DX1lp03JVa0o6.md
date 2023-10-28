@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: David Guetta, Ayra Starr, Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,774 likes - 98 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,855 likes - 98 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
 | 2 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 |
-| 3 | [Heart Still Beating](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp) | 2:29 |
+| 3 | [Heart Still Beating](https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m) | 2:29 |
 | 4 | [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 |
 | 5 | [Silversun](https://open.spotify.com/track/1SmQp1FgwDVYh1GGlSUHEC) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Silversun](https://open.spotify.com/album/0uw6zYAkDM9UQ7uzDciSzq) | 5:37 |
 | 6 | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Can't Play Myself \(A Tribute To Amy\)](https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35) | 2:54 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 97 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
 | 98 | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/track/4yWySFuYFhkVrHggrfnulp) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm), [Reckz'Capo](https://open.spotify.com/artist/0mmIDGCcblwYtZgsNPGDlo) | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/album/7uE7ppiL1rC4JOjfkYryay) | 3:15 |
 
-Snapshot ID: `MCw1MDc3NmUyYzkwZmVkOWFkOTc3ZjE0YTU1YTc4ODJiZTZhMTAxYWRi`
+Snapshot ID: `MCxhZTg4YTZkMDBlYzk1Njg1YjNiYTYwZjYzMjdhNzIzZTA4ZmI3ZWQz`

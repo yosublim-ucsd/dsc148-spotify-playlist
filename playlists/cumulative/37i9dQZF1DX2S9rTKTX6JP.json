@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "ARMY OF ME",
+        "url": "https://open.spotify.com/album/5Asim1a8EcJdU358R3hGpV"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190271,
+      "name": "ARMY OF ME",
+      "url": "https://open.spotify.com/track/2BlT24FgI1HCXif1VJlG0L"
+    },
+    {
+      "album": {
         "name": "Bad Guy",
         "url": "https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx"
       },
@@ -866,7 +884,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 182000,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d"
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 152377,
       "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
       "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
@@ -3817,6 +3835,24 @@
     },
     {
       "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
+    },
+    {
+      "album": {
         "name": "Gravity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2beLSssJ0YzmRbExW9IreE"
       },
@@ -4016,6 +4052,24 @@
       "duration_ms": 237653,
       "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5GYPG4kaMv1nSSQtMca3iM"
+    },
+    {
+      "album": {
+        "name": "Royals",
+        "url": "https://open.spotify.com/album/5s43GovfaEXhryRE71wH9c"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216193,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2kRzQJ6CBubjaLBbDIuLra"
     },
     {
       "album": {
@@ -5624,7 +5678,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 206133,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"

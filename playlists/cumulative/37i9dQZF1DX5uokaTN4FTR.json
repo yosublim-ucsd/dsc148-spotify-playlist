@@ -4312,7 +4312,7 @@
     {
       "album": {
         "name": "Heart Still Beating",
-        "url": "https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp"
+        "url": "https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m"
       },
       "artists": [
         {
@@ -4327,6 +4327,28 @@
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149163,
+      "name": "Heart Still Beating",
+      "url": "https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT"
+    },
+    {
+      "album": {
+        "name": "Heart Still Beating",
+        "url": "https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-28",
       "duration_ms": 149163,
       "name": "Heart Still Beating",
       "url": "https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU"
@@ -6698,7 +6720,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
@@ -8628,6 +8650,28 @@
       "duration_ms": 187320,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs"
+    },
+    {
+      "album": {
+        "name": "Same Old Song",
+        "url": "https://open.spotify.com/album/5iqxmTQSlUKzkU5SKRidQa"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/1b1U08Eqbx8f0QYyPTzqcU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,139 songs - 9 day 16 hr 39 min
+6,140 songs - 9 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1572,7 +1572,7 @@
 | [Echos](https://open.spotify.com/track/7ruubQWd9pge9BwU2kPWpT) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Echos](https://open.spotify.com/album/5K1VkXxDRwgLZY5ocWbxlB) | 2:15 | 2023-06-07 | 2023-09-30 |
 | [Eclipse](https://open.spotify.com/track/4QGHNcdcndYCxQNYvJhww4) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Eclipse](https://open.spotify.com/album/6v3cJc3QSWB2Fs9lGF2TlU) | 1:41 | 2022-07-22 | 2022-11-11 |
 | [Eden](https://open.spotify.com/track/6CrOi0YsjuIbVMvtEomcyD) | [Lullaby](https://open.spotify.com/artist/5PaPuLho34bZ8pxuI12ynz), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Eden](https://open.spotify.com/album/057Zc7igxGpyJ0BRk0bxq5) | 2:06 | 2022-09-02 | 2022-12-09 |
-| [Edgy Stripes](https://open.spotify.com/track/1HfvXRyfR8DPm9KK0PCOue) | [sunnee](https://open.spotify.com/artist/6lT0N3TbFSVDDPMAVXk32X) | [Edgy Stripes](https://open.spotify.com/album/18EGmKo4d938htKFBJOZyB) | 2:10 | 2023-10-27 |  |
+| [Edgy Stripes](https://open.spotify.com/track/1HfvXRyfR8DPm9KK0PCOue) | [sunnee](https://open.spotify.com/artist/6lT0N3TbFSVDDPMAVXk32X) | [Edgy Stripes](https://open.spotify.com/album/18EGmKo4d938htKFBJOZyB) | 2:10 | 2023-10-27 | 2023-10-28 |
 | [Effervescent](https://open.spotify.com/track/4pPL6ISxDI4k40xj2vN9Zh) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Effervescent](https://open.spotify.com/album/0CsShqHvizLnWq7Y0OoocG) | 2:17 | 2019-11-20 | 2021-07-01 |
 | [Effervescent](https://open.spotify.com/track/6IR6lNKONhV6tPn1dbq5lD) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Ambedo](https://open.spotify.com/album/0ZMuOWAgInjSRfHKfbntet) | 2:17 | 2021-10-26 | 2022-05-05 |
 | [Effortless](https://open.spotify.com/track/2uECuFneO3YfJjEv3kz68w) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Effortless](https://open.spotify.com/album/1ZK2ZibOj6CggnPP2arjLx) | 2:35 | 2022-05-27 | 2022-09-16 |
@@ -2003,6 +2003,7 @@
 | [Fresh Sushi In Zushy](https://open.spotify.com/track/1RSPsAhzHPaDurdFaHgmWi) | [JK Soul](https://open.spotify.com/artist/0OINA1IEY4yNLRFD5n10uS), [Teo Collori](https://open.spotify.com/artist/6NCmo1s0hwUAFNDAh1E9y4) | [Fresh Sushi In Zushy](https://open.spotify.com/album/27uYWR4E3gZsoPuIXkbK1m) | 2:59 | 2021-11-20 | 2022-06-10 |
 | [Fresher Under Pressure \- Me And Reed Soul Treat](https://open.spotify.com/track/3ub3ZmewP2UK5hfKZUlkcD) | [Me And Reed](https://open.spotify.com/artist/0pw9LkajPzbg25dq4pT2yW), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz), [Hot Border Special](https://open.spotify.com/artist/2EENeVJnY8pEog0nnHObRS) | [Soul Treats](https://open.spotify.com/album/2BOnB9mWqGYBs5BfEISTAh) | 2:29 | 2022-12-16 | 2023-02-11 |
 | [Freshly Paved](https://open.spotify.com/track/7g7Q0JsJPqcpXXl9LWqdkt) | [Kokta beats](https://open.spotify.com/artist/2ETiol5Kw5v2LFEjGLnlbS) | [Freshly Paved](https://open.spotify.com/album/1w5BRQgfbaIr5ZAjmIQEra) | 2:40 | 2023-08-10 |  |
+| [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2023-10-27 |  |
 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 |  |
 | [Friday Night](https://open.spotify.com/track/60xBFhU4ojvkFID0Le4XIw) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Friday Night](https://open.spotify.com/album/0KWrgf5GX7d2yd8PeVsiWY) | 1:58 | 2022-07-15 | 2022-11-11 |
 | [Fried Chicken](https://open.spotify.com/track/2967onGcEkaRUIR4op8y4N) | [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Fried Chicken](https://open.spotify.com/album/5a2F5NLYjR99o8Sa68KZ9G) | 1:35 | 2019-12-31 | 2021-04-15 |

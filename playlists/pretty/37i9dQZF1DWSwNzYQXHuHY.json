@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9042,
+  "num_followers": 9058,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTg3MjhjOWZlYmQzNGE1YTA0YjFiZGUyYTVlYmI3MWIzODQzN2Zi",
+  "snapshot_id": "MCw1YWQ0MDdkMjUyNmM1YjU2Y2FiNWM4ZjA3ODNlOTM1OTk1M2I2NmRj",
   "tracks": [
     {
       "added_at": "2023-10-16 07:48:41",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "flutter",
+      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
+    },
+    {
+      "added_at": "2023-10-16 07:48:41",
+      "album": {
         "name": "Our Spring : Who?",
         "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
-    },
-    {
-      "added_at": "2023-10-16 07:48:41",
-      "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "flutter",
-      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
     },
     {
       "added_at": "2023-10-16 07:48:41",

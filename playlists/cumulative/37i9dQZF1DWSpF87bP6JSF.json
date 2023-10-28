@@ -989,6 +989,32 @@
     },
     {
       "album": {
+        "name": "CARACAS EN EL 2000",
+        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227784,
+      "name": "CARACAS EN EL 2000",
+      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "album": {
         "name": "Carne y Hueso",
         "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
       },
@@ -1598,6 +1624,24 @@
       "duration_ms": 153960,
       "name": "Demasiadas Mujeres",
       "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
+    },
+    {
+      "album": {
+        "name": "Demasiado Lejos",
+        "url": "https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179123,
+      "name": "Demasiado Lejos",
+      "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
     },
     {
       "album": {
@@ -2346,7 +2390,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 177493,
       "name": "Feo",
       "url": "https://open.spotify.com/track/0zZzASdqR6KoTbwcSKplma"
@@ -3402,7 +3446,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
@@ -3985,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "Bailemos Otra Vez",
+        "url": "https://open.spotify.com/album/1HatE1hzYec4CLoN4TJcKI"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143018,
+      "name": "Necesito Un Segundo",
+      "url": "https://open.spotify.com/track/5GNaL2WTTktz5QBFncqVHQ"
+    },
+    {
+      "album": {
         "name": "No Apagues la Luz",
         "url": "https://open.spotify.com/album/5J2Jy4EEASBD0OOmKDvYG7"
       },
@@ -4397,6 +4459,24 @@
     },
     {
       "album": {
+        "name": "Ojo X Ojo",
+        "url": "https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "Ojo X Ojo",
+      "url": "https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU"
+    },
+    {
+      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
@@ -4434,6 +4514,24 @@
       "duration_ms": 198880,
       "name": "Ojos Marrones - Con Sebasti\u00e1n Yatra",
       "url": "https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU"
+    },
+    {
+      "album": {
+        "name": "ojos. labios. cara.",
+        "url": "https://open.spotify.com/album/1CTsEbkffQZulUwUZKzmCX"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173114,
+      "name": "ojos. labios. cara.",
+      "url": "https://open.spotify.com/track/0Ont2OoEaOYF9BYeSIhaFT"
     },
     {
       "album": {
@@ -4782,7 +4880,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184511,
       "name": "Que Se Parezca A Ti",
       "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
@@ -5238,7 +5336,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
@@ -5952,7 +6050,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 216666,
       "name": "T\u00fa Y T\u00fa",
       "url": "https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1"

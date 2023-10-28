@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-239 songs - 19 hr 0 min
+240 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bodies Of Water](https://open.spotify.com/track/5649TeZnAjSa6ENwPKG6h8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:04 | 2022-02-25 | 2022-08-25 |
 | [Brick Figures](https://open.spotify.com/track/72eT0Fpa5QBbzvteNIK1aE) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Brick Figures](https://open.spotify.com/album/49dWT6BEhoLm7QIiNWxCIA) | 3:00 | 2022-01-21 | 2022-03-18 |
 | [BUD](https://open.spotify.com/track/61PfhJNup3uF1msSd1US69) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [BUD](https://open.spotify.com/album/62E3FuXeBjp5e8bfvRf4xT) | 3:56 | 2021-10-15 | 2022-01-22 |
-| [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 | 2023-07-24 |  |
+| [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 | 2023-07-24 | 2023-10-28 |
 | [C.A.](https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [C.A.](https://open.spotify.com/album/5UguzHZtztr352RQ9froFT) | 3:06 | 2022-09-21 | 2023-02-02 |
 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 | 2022-09-21 |  |
 | [Calico](https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [kanashī](https://open.spotify.com/album/3y6f7n2bRBCXJLCrg3D4jp) | 4:51 | 2023-08-17 |  |
@@ -154,6 +154,7 @@
 | [Opak](https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Opak](https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz) | 5:37 | 2023-03-31 |  |
 | [Otomo](https://open.spotify.com/track/1W5uQX7z1bnsgIW4zSPD4a) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 6:11 | 2022-01-05 | 2022-06-08 |
 | [Outer Sunset](https://open.spotify.com/track/1PegwUCHFmpuV81dXMt3nh) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Outer Sunset](https://open.spotify.com/album/137NWAM1UiQ2cpJPidOhaG) | 4:10 | 2021-10-15 | 2022-04-12 |
+| [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 | 2023-10-27 |  |
 | [Parallel 4](https://open.spotify.com/track/1ZeDNZoKgEOTRmTTg1zQd4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 4:47 | 2021-10-15 | 2022-02-10 |
 | [Parallel 43](https://open.spotify.com/track/4rsZhH6Sw8s5mlGta3TvdP) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Parallel 43](https://open.spotify.com/album/701KrVPJbe3YxHsyFcacga) | 4:17 | 2022-01-20 | 2022-05-13 |
 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 | 2021-10-15 | 2022-04-24 |

@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 138285,
       "name": "ARCHIVO 1.wav",
       "url": "https://open.spotify.com/track/3t7n87HvJDzsJqadkISqUE"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 180949,
       "name": "Bayam\u00f3n",
       "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
@@ -1421,6 +1421,28 @@
     },
     {
       "album": {
+        "name": "Dem Time Deh",
+        "url": "https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167191,
+      "name": "Dem Time Deh",
+      "url": "https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf"
+    },
+    {
+      "album": {
         "name": "Desamor Feliz (Remix)",
         "url": "https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA"
       },
@@ -1608,6 +1630,24 @@
       "duration_ms": 243216,
       "name": "Dos Problemas (feat. Big Soto) - Remix",
       "url": "https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3fn1M68Gh002OTwb34c7Aq"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164324,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5dZ7znkYz4R9zCz8OHj5IK"
     },
     {
       "album": {
@@ -2308,7 +2348,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 200826,
       "name": "Kaprichosa",
       "url": "https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq"
@@ -2428,7 +2468,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 161206,
       "name": "LA DEL CAMP",
       "url": "https://open.spotify.com/track/3bs0jnlXhc0PDmyjgeOUcS"
@@ -3415,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/1jPR2A6dEXbgvVpIqhAbCQ"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/2cFENyu5u6AjeQANRp3IiF"
+    },
+    {
+      "album": {
         "name": "Morena Mujer",
         "url": "https://open.spotify.com/album/52Enkie6zGmASAECzepRp1"
       },
@@ -3661,6 +3719,28 @@
     },
     {
       "album": {
+        "name": "MILLAS",
+        "url": "https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119533,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/5bC850rBpoHkvF0Nx4t2YM"
+    },
+    {
+      "album": {
         "name": "NOW",
         "url": "https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC"
       },
@@ -3680,6 +3760,24 @@
       "duration_ms": 192507,
       "name": "NOW",
       "url": "https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx"
+    },
+    {
+      "album": {
+        "name": "Numb The Pain",
+        "url": "https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "Numb The Pain",
+      "url": "https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe"
     },
     {
       "album": {
@@ -3804,7 +3902,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202946,
       "name": "OTRO FILI",
       "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
@@ -4100,6 +4198,28 @@
       "duration_ms": 194446,
       "name": "Presente Y Futuro",
       "url": "https://open.spotify.com/track/4GpnuoBxRqKZUjZ5FdwPG2"
+    },
+    {
+      "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "PRIVILEGIOS",
+      "url": "https://open.spotify.com/track/2HFJ2nXf7Komq9a4Z0Bbrm"
     },
     {
       "album": {
@@ -4508,7 +4628,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 175384,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/5G1KCcMIWwbtdICHAMEkcj"
@@ -4702,7 +4822,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 191573,
       "name": "Si Te La Encuentras Por Ah\u00ed",
       "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
@@ -5456,6 +5576,24 @@
       "duration_ms": 188954,
       "name": "Viendo el Techo",
       "url": "https://open.spotify.com/track/0iWxrdjwEGOrTC9AszgAJk"
+    },
+    {
+      "album": {
+        "name": "VITAMINA D",
+        "url": "https://open.spotify.com/album/4psggAblmOxpE19d4XoDsw"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191370,
+      "name": "VITAMINA D",
+      "url": "https://open.spotify.com/track/3fyTzHQ46mylLRmHL1kphx"
     },
     {
       "album": {

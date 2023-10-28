@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: DarkoVibes",
-  "num_followers": 621480,
+  "num_followers": 621658,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzNmYjM0MzE3ODY5MmI1ZjYyZmIyMzRmMzY2NzM0MTg1ZTdiNTQ1",
+  "snapshot_id": "MCw3OThkMGM4YWY3ZjI5MDc4YzkwNDNiZGVhMmRiYzI3OGY1OWI0OGQy",
   "tracks": [
     {
       "added_at": "2023-10-15 15:54:19",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "added_at": "2023-10-15 15:54:19",
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 116727,
       "name": "ENERGY (feat. Beam)",
       "url": "https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K"
-    },
-    {
-      "added_at": "2023-10-15 15:54:19",
-      "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Charm",
-      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
     },
     {
       "added_at": "2023-10-15 15:54:19",
@@ -435,26 +435,22 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
-        "name": "People (Remixes)",
-        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
+        "name": "Trench to Triumph",
+        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
       "artists": [
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         },
         {
           "name": "Ayra Starr",
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 184633,
-      "name": "People (feat. Ayra Starr & Omah Lay)",
-      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
+      "duration_ms": 221217,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
     },
     {
       "added_at": "2023-10-15 15:54:19",
@@ -475,22 +471,26 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
-        "name": "Trench to Triumph",
-        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
+        "name": "People (Remixes)",
+        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
       },
       "artists": [
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         },
         {
           "name": "Ayra Starr",
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 221217,
-      "name": "Ngozi",
-      "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+      "duration_ms": 184633,
+      "name": "People (feat. Ayra Starr & Omah Lay)",
+      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
     },
     {
       "added_at": "2023-10-15 15:54:19",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Masculine (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
-    },
-    {
-      "added_at": "2023-10-15 15:54:19",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 196146,
       "name": "Ginger (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+    },
+    {
+      "added_at": "2023-10-15 15:54:19",
+      "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Masculine (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
     },
     {
       "added_at": "2023-10-15 15:54:19",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
+        "name": "Joro",
+        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 262736,
+      "name": "Joro",
+      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
+    },
+    {
+      "added_at": "2023-10-15 15:54:19",
+      "album": {
         "name": "Ole",
         "url": "https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 170000,
       "name": "Ole (feat. BNXN)",
       "url": "https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ"
-    },
-    {
-      "added_at": "2023-10-15 15:54:19",
-      "album": {
-        "name": "Joro",
-        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Joro",
-      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
     },
     {
       "added_at": "2023-10-15 15:54:19",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
-        "name": "Passport Bros (with J. Cole)",
-        "url": "https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 164551,
-      "name": "Passport Bros (with J. Cole)",
-      "url": "https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ"
-    },
-    {
-      "added_at": "2023-10-15 15:54:19",
-      "album": {
         "name": "Papi Chulo",
         "url": "https://open.spotify.com/album/7KsMCyObKQhX37pocZEUcQ"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 161667,
       "name": "Papi Chulo",
       "url": "https://open.spotify.com/track/1S1bZVv8sqYY39S6KWchuk"
+    },
+    {
+      "added_at": "2023-10-15 15:54:19",
+      "album": {
+        "name": "Passport Bros (with J. Cole)",
+        "url": "https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 164551,
+      "name": "Passport Bros (with J. Cole)",
+      "url": "https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ"
     },
     {
       "added_at": "2023-10-15 15:54:19",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Play Play (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
+    },
+    {
+      "added_at": "2023-10-15 15:54:19",
+      "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2023-10-15 15:54:19",
-      "album": {
-        "name": "Big Conspiracy",
-        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Play Play (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
     },
     {
       "added_at": "2023-10-15 15:54:19",
@@ -1275,42 +1275,6 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
-        "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
-        "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        },
-        {
-          "name": "Tony Duardo",
-          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
-        },
-        {
-          "name": "Justin99",
-          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
-        },
-        {
-          "name": "Pcee",
-          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
-          "name": "Chley",
-          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
-        }
-      ],
-      "duration_ms": 296975,
-      "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
-      "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
-    },
-    {
-      "added_at": "2023-10-15 15:54:19",
-      "album": {
         "name": "Testimony",
         "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
       },
@@ -1343,6 +1307,42 @@
       "duration_ms": 173571,
       "name": "Mumu",
       "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
+    },
+    {
+      "added_at": "2023-10-15 15:54:19",
+      "album": {
+        "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
+        "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Justin99",
+          "url": "https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "duration_ms": 296975,
+      "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
+      "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
     },
     {
       "added_at": "2023-10-15 15:54:19",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
+        "name": "Meridian & Special",
+        "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
+    },
+    {
+      "added_at": "2023-10-15 15:54:19",
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -1747,26 +1767,6 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
-        "name": "Hamba Wena",
-        "url": "https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51"
-      },
-      "artists": [
-        {
-          "name": "Deep London",
-          "url": "https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8"
-        },
-        {
-          "name": "Boohle",
-          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
-        }
-      ],
-      "duration_ms": 374848,
-      "name": "Hamba Wena",
-      "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
-    },
-    {
-      "added_at": "2023-10-15 15:54:19",
-      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -1787,18 +1787,22 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
-        "name": "Bloody Samaritan",
-        "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
+        "name": "Hamba Wena",
+        "url": "https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Deep London",
+          "url": "https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Bloody Samaritan",
-      "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
+      "duration_ms": 374848,
+      "name": "Hamba Wena",
+      "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
     },
     {
       "added_at": "2023-10-15 15:54:19",
@@ -1815,26 +1819,6 @@
       "duration_ms": 171730,
       "name": "Lo Lo",
       "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
-    },
-    {
-      "added_at": "2023-10-15 15:54:19",
-      "album": {
-        "name": "Lotto",
-        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
     },
     {
       "added_at": "2023-10-15 15:54:19",
@@ -1867,6 +1851,22 @@
     {
       "added_at": "2023-10-15 15:54:19",
       "album": {
+        "name": "Bloody Samaritan",
+        "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Bloody Samaritan",
+      "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
+    },
+    {
+      "added_at": "2023-10-15 15:54:19",
+      "album": {
         "name": "Lenu (Remix)",
         "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
       },
@@ -1883,6 +1883,26 @@
       "duration_ms": 213266,
       "name": "Lenu - Remix",
       "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
+    },
+    {
+      "added_at": "2023-10-15 15:54:19",
+      "album": {
+        "name": "Lotto",
+        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
     },
     {
       "added_at": "2023-10-15 15:54:19",
@@ -1987,30 +2007,6 @@
       "duration_ms": 159680,
       "name": "Reckless & Sweet",
       "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
-    },
-    {
-      "added_at": "2023-10-15 15:54:19",
-      "album": {
-        "name": "UNAVAILABLE (feat. Musa Keys) [Latto Remix]",
-        "url": "https://open.spotify.com/album/5bnvOHmaiVvrc4uz5LJojE"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "UNAVAILABLE (feat. Musa Keys) - Latto Remix",
-      "url": "https://open.spotify.com/track/29Mf5GsUgU3KLh3lAOGIU3"
     }
   ],
   "unique_name": "We Everywhere",

@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Any Other
 
-611 songs - 1 day 9 hr 56 min
+612 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Back in the loop](https://open.spotify.com/track/3INoRjtC6c0SZJaet3465R) | [MILANOSPORT](https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl) | [Back in the loop](https://open.spotify.com/album/6qtU0ESjKtzXKIJXABBN4C) | 3:47 | 2023-10-26 |  |
 | [Back To Bangkok](https://open.spotify.com/track/5RrtTSB9uvPFCWFJ8ViI94) | [The Manges](https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc) | [Back To Bangkok](https://open.spotify.com/album/17T80PkB923M3sQfkvkDQf) | 2:06 | 2022-07-14 | 2022-09-30 |
 | [Backrooms](https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Backrooms](https://open.spotify.com/album/6HGpsFbI1CcOCAd73mBVuJ) | 1:51 | 2023-03-23 | 2023-04-07 |
+| [Badabum](https://open.spotify.com/track/2PEwvgXfaQpa6bY749iqfm) | [Girless](https://open.spotify.com/artist/0I43z1XvY83Y2gdmT4ZSHk) | [Los de afuera son de palo](https://open.spotify.com/album/69NJYg8iCMWraa7Pkw9fh3) | 2:29 | 2023-10-27 |  |
 | [Bar Adriana](https://open.spotify.com/track/1168KypL7NOio4ccumuODe) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Bar Adriana](https://open.spotify.com/album/3st9TXc0K7h8TU3hlghgEw) | 3:15 | 2022-12-15 | 2023-01-20 |
 | [Barman](https://open.spotify.com/track/5IyY5hticbnFBR5ztmZ7cV) | [Divietø](https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN) | [Barman](https://open.spotify.com/album/2ZV2tXJRNnVZ8G8K9Ng4ez) | 2:30 | 2023-02-16 | 2023-02-24 |
 | [Battelli ebbri](https://open.spotify.com/track/2PHcFq8CAordszMzLS1dAs) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Cosmic Res](https://open.spotify.com/album/4Myim57HbNcJ46KqbYkqmP) | 3:17 | 2023-01-19 | 2023-04-28 |
@@ -225,7 +226,7 @@
 | [Gesù è il mio Beatles preferito](https://open.spotify.com/track/4TKVqhG7oFHb7e79eZ9ZDH) | [Onders](https://open.spotify.com/artist/4D7NyM1xpKyi59542kUQ6A) | [Neve Tropicale](https://open.spotify.com/album/2BYf3HETftokzJeHtLN4z5) | 2:50 | 2023-09-21 | 2023-10-20 |
 | [Ghibli](https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [Ghibli](https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As) | 3:55 | 2022-08-25 | 2022-09-30 |
 | [Ghicci ghicci](https://open.spotify.com/track/5QHlPJcnobVjeh4JkeGoBf) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Ghicci ghicci](https://open.spotify.com/album/2YYvugvmBJXu5fD8fr2Jy7) | 2:29 | 2023-05-18 | 2023-06-15 |
-| [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 | 2023-04-27 |  |
+| [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 | 2023-04-27 | 2023-10-28 |
 | [Giovedì al fiume](https://open.spotify.com/track/4VVVxQnFbWbsyrAmH2KDKp) | [Liquami](https://open.spotify.com/artist/7wyIRmUWGF1G4b0E2ZuHAa) | [PRIME DUE](https://open.spotify.com/album/0sb4eecDOevF7nhZCP1Nni) | 4:15 | 2023-07-18 | 2023-10-06 |
 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 | 2023-06-29 |  |
 | [Go Fuck Yourself](https://open.spotify.com/track/6VT9pC5hzmIMRxuzpnkOzm) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Go Fuck Yourself](https://open.spotify.com/album/3B0Ijyl3qisEw6fYXmG2fT) | 2:21 | 2022-07-07 | 2022-08-05 |

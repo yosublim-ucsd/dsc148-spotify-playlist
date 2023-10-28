@@ -2,9 +2,9 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters\. Cover: Alexandra Kay
+> Music from Nashville's emerging Singers and Songwriters\. Cover: Graham Barham
 
-306 songs - 16 hr 12 min
+307 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Out of That Memory](https://open.spotify.com/track/1jg2kF8lorLHICXD2vwZjI) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Out of That Memory](https://open.spotify.com/album/15fAc3aWRijNYBEiP2J80K) | 3:14 | 2022-02-11 |  |
 | [Over Me](https://open.spotify.com/track/0jXKRePIfoF4Cx85AySGv0) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Over Me](https://open.spotify.com/album/4cbl9hNkpawd8VCyGe8IiB) | 3:25 | 2022-02-11 |  |
 | [Over the Weekend](https://open.spotify.com/track/14rwllmMI8akokL4gQPLIN) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Over the Weekend](https://open.spotify.com/album/4LZNKWl3QV2ByeYItaYaec) | 3:30 | 2023-02-03 |  |
+| [Painted Him Perfect](https://open.spotify.com/track/6eAN9q9pNr43bJE7RxVSDG) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [All I've Ever Known](https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE) | 3:10 | 2023-10-27 |  |
 | [Petty in the 80s](https://open.spotify.com/track/5Mo1eAltBg5Mb3vR8ZYvwn) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Petty in the 80s](https://open.spotify.com/album/48Hpr0CUSFKnyCBAycvrrj) | 3:01 | 2023-03-01 |  |
 | [Phoenix](https://open.spotify.com/track/0jPfIZjJwNQ2kIJo9ud0c2) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Phoenix](https://open.spotify.com/album/0HFuOIg1YEfWUuL3retuGf) | 2:55 | 2022-01-21 | 2022-05-28 |
 | [Pieces](https://open.spotify.com/track/5h0xfskqYqiDYG4jc8EMyb) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Pieces](https://open.spotify.com/album/5FyigvplnzcKCIfAzvVAA9) | 3:07 | 2021-12-31 |  |

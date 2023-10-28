@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Still in rotation. Cover: Brent Faiyaz",
+  "description": "Still in rotation. Cover: Bryson Tiller",
   "name": "Gold Edition",
   "tracks": [
     {
@@ -2083,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187723,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
+    },
+    {
+      "album": {
         "name": "ANTI",
         "url": "https://open.spotify.com/album/3Q149ZH46Z0f3oDR7vlDYV"
       },
@@ -2318,7 +2336,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 207413,
       "name": "Over",
       "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
@@ -2453,6 +2471,32 @@
     },
     {
       "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "album": {
         "name": "Sex Playlist",
         "url": "https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D"
       },
@@ -2490,7 +2534,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 246773,
       "name": "PRBLMS",
       "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
@@ -2664,6 +2708,24 @@
       "duration_ms": 236893,
       "name": "Say It",
       "url": "https://open.spotify.com/track/610BVUQMZpmt3eROWX9ZC1"
+    },
+    {
+      "album": {
+        "name": "T R A P S O U L (Deluxe)",
+        "url": "https://open.spotify.com/album/54B6i7KlSGD9fAzKQB7n89"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241406,
+      "name": "Self Righteous",
+      "url": "https://open.spotify.com/track/4w9dTbEcJx8uBTxGvUYC0h"
     },
     {
       "album": {
@@ -3030,7 +3092,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 254493,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"

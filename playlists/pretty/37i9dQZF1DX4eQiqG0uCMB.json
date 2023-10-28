@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 24413,
+  "num_followers": 24450,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDIxYmYxYjUzYjM0Nzk0NGM3ZDc4Mjk1YmQ5YTIyOWNlN2I1ZmZm",
+  "snapshot_id": "MCw4NzkyMjM2OWIzYjFjYTI3NTY0NmFlZDhlMDNkYWUyODA0ZDU2MjA2",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Beautifully",
-        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 169844,
-      "name": "Beautifully",
-      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "To Last",
         "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
       },
@@ -343,18 +327,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Sweet Tea (Aduke)",
-        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
+        "name": "Beautifully",
+        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
+      "duration_ms": 169844,
+      "name": "Beautifully",
+      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -371,6 +355,22 @@
       "duration_ms": 209235,
       "name": "Jolie",
       "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Sweet Tea (Aduke)",
+        "url": "https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 149481,
+      "name": "Sweet Tea (Aduke)",
+      "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "MOTO",
-        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 178579,
-      "name": "MOTO",
-      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 203026,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "MOTO",
+        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 178579,
+      "name": "MOTO",
+      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
     },
     {
       "added_at": "2023-10-27 00:01:00",

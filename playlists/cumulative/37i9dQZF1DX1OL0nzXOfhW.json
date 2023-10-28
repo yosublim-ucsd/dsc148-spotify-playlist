@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/54jacCNqvBtQIAgBM6LtKe"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey \u9b4f\u6d5a\u7b19",
+          "url": "https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216727,
+      "name": "Never Say Never",
+      "url": "https://open.spotify.com/track/2WhmAUL2A1alXac2uCTBau"
+    },
+    {
+      "album": {
         "name": "Never-never Land",
         "url": "https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4"
       },

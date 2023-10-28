@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,889 likes - 93 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,961 likes - 93 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 51 | [Espirra o lança](https://open.spotify.com/track/5FTsdMGSSqWaFa3igQZ53p) | [DJ Kaue00s](https://open.spotify.com/artist/1XFWZNuLxDjQR35rEwbquF) | [Espirra o lança](https://open.spotify.com/album/2vVlusorMbZz0KabAljXLV) | 3:10 |
 | 52 | [Troféu do Ano](https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Mc Nando Dk](https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7), [DJ Cassula](https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny) | [Troféu do Ano](https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw) | 3:09 |
 | 53 | [Baile de Favela](https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB) | [Mc João](https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP) | [Mc João](https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo) | 2:50 |
-| 54 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
-| 55 | [É sempre assim](https://open.spotify.com/track/2dwkCNgPmMqTjofwDCUZHu) | [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Gui Andrade](https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI) | [É sempre assim](https://open.spotify.com/album/0rhRbPFgLhjibgPhUHYQU3) | 2:38 |
+| 54 | [É sempre assim](https://open.spotify.com/track/2dwkCNgPmMqTjofwDCUZHu) | [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Gui Andrade](https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI) | [É sempre assim](https://open.spotify.com/album/0rhRbPFgLhjibgPhUHYQU3) | 2:38 |
+| 55 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
 | 56 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 |
 | 57 | [ATENÇÃO](https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [ATENÇÃO](https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93) | 2:15 |
 | 58 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 75 | [FICA À VONTADE](https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [FICA À VONTADE](https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY) | 2:20 |
 | 76 | [Só Tapão Nervoso Vs Toma Catucada Violenta](https://open.spotify.com/track/2BEGTomoM88uGMOzRmZirl) | [DJ DN](https://open.spotify.com/artist/5mBzms8INTkASOeSDLvwoe), [MC Gui Andrade](https://open.spotify.com/artist/1UFLR3TTJAODTIog5FNv3e), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq) | [Só Tapão Nervoso Vs Toma Catucada Violenta](https://open.spotify.com/album/0FkHrCD8RzALIgBvzsqvXR) | 3:06 |
 | 77 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 |
-| 78 | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N) | 4:11 |
-| 79 | [Nem On Nem Off](https://open.spotify.com/track/6bgZv4VkqjBIS2vawz3RsU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Nem On Nem Off](https://open.spotify.com/album/1DUDX3Jz6dNvkYiWcgnKqS) | 2:34 |
+| 78 | [Nem On Nem Off](https://open.spotify.com/track/6bgZv4VkqjBIS2vawz3RsU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Nem On Nem Off](https://open.spotify.com/album/1DUDX3Jz6dNvkYiWcgnKqS) | 2:34 |
+| 79 | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N) | 4:11 |
 | 80 | [Senta braba](https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Senta braba](https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN) | 2:29 |
 | 81 | [MANO DO AK](https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427) | [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9), [MC Reis](https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO) | [MANO DO AK](https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1) | 3:04 |
 | 82 | [Baila Comigo \(feat\. Kelly Ruiz\) \- Rennan da Penha Remix](https://open.spotify.com/track/7M6D0ACikinC39ZtuEwMPo) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Comigo \(feat\. Kelly Ruiz\) \[Rennan da Penha Remix\]](https://open.spotify.com/album/3Gu3HmwNT034cGipAs175M) | 2:00 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 92 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 | 93 | [Devagarinho \- Remix](https://open.spotify.com/track/2XWIK4pG9LNstHUAZqZCV9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Dennis Dj Apresenta: Funk Now](https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5) | 2:15 |
 
-Snapshot ID: `MCxjOTQxNzY2ZjBhMGEwMDViMjNiZjQ1YjEwZDI3ZjdkYzY3NTlhY2Iz`
+Snapshot ID: `MCw5Y2VlNWJkYzBiOGI0ZjUwZGY3MTAzMmI0YWYzNGZiMjJkOTc2MTBi`

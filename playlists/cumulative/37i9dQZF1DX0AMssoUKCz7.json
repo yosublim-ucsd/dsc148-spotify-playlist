@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 153970,
       "name": "Another You",
       "url": "https://open.spotify.com/track/3G2XO4Ax0Wbv5s83cLqLFa"
@@ -2907,6 +2907,24 @@
     },
     {
       "album": {
+        "name": "Evening Walk",
+        "url": "https://open.spotify.com/album/5LfSmoxg4W4HnJpdVHsCRE"
+      },
+      "artists": [
+        {
+          "name": "Matt Bleu",
+          "url": "https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131186,
+      "name": "Evening Walk",
+      "url": "https://open.spotify.com/track/4uBqGpvf7WAIxFDPlhqnSA"
+    },
+    {
+      "album": {
         "name": "Every Single Piece (feat. She Keeps Bees) [LVNDSCAPE Remix]",
         "url": "https://open.spotify.com/album/1TsTiWqANXCdmXp5od13SG"
       },
@@ -3868,7 +3886,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 289322,
       "name": "Glowing State",
       "url": "https://open.spotify.com/track/3mHAqQWWO4BWRME0sSFzEj"
@@ -4880,7 +4898,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 141052,
       "name": "Home",
       "url": "https://open.spotify.com/track/2vzfY5QmzOhTBo7D2TwAQj"

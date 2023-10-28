@@ -2,9 +2,9 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Randy Rogers and Wade Bowen
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Flatland Cavalry
 
-556 songs - 1 day 9 hr 6 min
+557 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 | 2022-03-18 | 2023-04-29 |
 | [Southern Land](https://open.spotify.com/track/1gw7UEQMT2kM1H1zOSV4MJ) | [Trent Willmon](https://open.spotify.com/artist/42mKjKqNCSgHbxaBFcotDi) | [Southern Land](https://open.spotify.com/album/1mS6CmS6mZbQyM1orsTb2M) | 4:03 | 2023-01-20 | 2023-06-03 |
 | [Speed](https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Speed](https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4) | 4:30 | 2023-03-10 | 2023-09-02 |
+| [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 | 2023-10-27 |  |
 | [Starts in a Bar](https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 2:59 | 2023-09-01 |  |
 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 | 2023-03-17 |  |
 | [Stay Tuned](https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Stay Tuned](https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6) | 3:20 | 2022-04-01 |  |
@@ -513,7 +514,7 @@
 | [Watered Down Whiskey](https://open.spotify.com/track/5Qk8EDxYWjqlhyvGWvwuUY) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is For You](https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8) | 3:28 | 2023-06-09 | 2023-06-17 |
 | [Watered Down Whiskey](https://open.spotify.com/track/6F3ljY5dEQqgkinBfkffYc) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is for You](https://open.spotify.com/album/4JQRW8zHwam1pglpvoIxRy) | 3:28 | 2023-02-24 | 2023-06-10 |
 | [Wave Dancer](https://open.spotify.com/track/6CtAD61FXXrVBxa6ZpckHt) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Wave Dancer](https://open.spotify.com/album/78UZgsGs4m8Q8HD63Beglg) | 4:20 | 2022-02-11 | 2022-05-20 |
-| [We Ain't The Only Ones](https://open.spotify.com/track/48ff6zBV75v5nznK4vr9ZS) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 3](https://open.spotify.com/album/2uCfOVYQX0MJZ0OoLOA4Vx) | 3:24 | 2023-10-02 |  |
+| [We Ain't The Only Ones](https://open.spotify.com/track/48ff6zBV75v5nznK4vr9ZS) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 3](https://open.spotify.com/album/2uCfOVYQX0MJZ0OoLOA4Vx) | 3:24 | 2023-10-02 | 2023-10-28 |
 | [We Ain't The Only Ones](https://open.spotify.com/track/60cBV9G1mutufLZ9J3uIIt) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [We Ain't The Only Ones](https://open.spotify.com/album/2kQxMZAAEZlWdQBRb50qN0) | 3:24 | 2023-06-02 | 2023-07-24 |
 | [Weatherman](https://open.spotify.com/track/10Hq7zq6OwyyNlU6aRVWqZ) | [Matt Daniel](https://open.spotify.com/artist/6QiblG2jfJUChehe6UpFvT) | [Weatherman](https://open.spotify.com/album/22ZHQdzmigvcTeducRzmrg) | 3:45 | 2021-12-17 | 2022-02-12 |
 | [West Texas Is The Best Texas](https://open.spotify.com/track/1wPryUZlSKbRzmNgWozq1P) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [West Texas Is The Best Texas](https://open.spotify.com/album/5kQXCdeqBeYd08wVaZBv75) | 3:43 | 2022-10-07 | 2023-04-19 |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 上白石萌音
 
-1,862 songs - 5 day 0 hr 30 min
+1,863 songs - 5 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Flow](https://open.spotify.com/track/55HzAX2f4rVNpJ0XzyNHkP) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Flow](https://open.spotify.com/album/2gZy7QaMw8yS4JlJn1NuAE) | 3:04 | 2022-05-29 | 2022-10-26 |
 | [Flower In The Dark \- Synthesized](https://open.spotify.com/track/2CwCFiP0e7pMifbg8LwYkr) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming: Synthesized Symphony](https://open.spotify.com/album/0G4dt3QAptKXnpru2yEioj) | 3:17 | 2022-08-31 | 2022-09-07 |
 | [Flower In The Dark \- Synthesized](https://open.spotify.com/track/6mraHZJ5CazGfaSTj6rDq8) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming: Synthesized Symphony](https://open.spotify.com/album/2MqiL8uhKoSUN9tjhpMBCy) | 3:17 | 2022-08-30 | 2022-09-01 |
-| [flowers](https://open.spotify.com/track/7Eg3cExvmyurdw2VZwcOAJ) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [flowers](https://open.spotify.com/album/6dtq4C39es0fbPxv9o0jhY) | 4:20 | 2023-08-01 |  |
+| [flowers](https://open.spotify.com/track/7Eg3cExvmyurdw2VZwcOAJ) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [flowers](https://open.spotify.com/album/6dtq4C39es0fbPxv9o0jhY) | 4:20 | 2023-08-01 | 2023-10-28 |
 | [flowers\(English version\)](https://open.spotify.com/track/6lpSVuPXcCEXRVmivP4XAB) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [flowers\(English version\)](https://open.spotify.com/album/3fxUuJLYWwwUVD3fAR1wsG) | 4:20 | 2023-08-31 | 2023-09-06 |
 | [Fly High](https://open.spotify.com/track/7ddzu918Njs3S16DGWag6a) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Fly High](https://open.spotify.com/album/1M9qZianzqEvnaW8tBROT2) | 4:08 | 2022-05-29 | 2022-10-05 |
 | [Foreigner](https://open.spotify.com/track/4QknbULYyLuSuMuDtQA3Er) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL) | [Foreigner](https://open.spotify.com/album/5bxqzQA6p054On5eTCeABP) | 1:28 | 2023-10-17 | 2023-10-25 |
@@ -513,6 +513,7 @@
 | [Kono Taikutsu na Hibi o](https://open.spotify.com/track/2UEsZONjOITOjVRO9Elh6l) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Kono Taikutsu na Hibi o](https://open.spotify.com/album/4OAdfLLGLATHcMZuHoscqG) | 5:26 | 2023-08-30 | 2023-09-13 |
 | [Konomama](https://open.spotify.com/track/0vSM0LhHlbtl1kXm8kclOd) | [Ryo Yoshinaga](https://open.spotify.com/artist/1q2tledGNGBATHvZ3zecQI) | [Konomama](https://open.spotify.com/album/6qYCirlWlPRxuypTWp30KB) | 4:25 | 2022-07-14 | 2022-07-20 |
 | [Korigashi](https://open.spotify.com/track/3ElHlaELxi1vvXZWQp5hBh) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Korigashi](https://open.spotify.com/album/3OIAlcwdbGOlV1SVf44fwm) | 5:17 | 2023-07-11 | 2023-07-26 |
+| [Kosetsuran Suki Yori Aishiteru](https://open.spotify.com/track/3DpJekec48fIolX3wWDqUY) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [Kosetsuran Suki Yori Aishiteru](https://open.spotify.com/album/21tTHtQC88wPo2sLjJETT0) | 6:02 | 2023-10-26 |  |
 | [Krazy Salt](https://open.spotify.com/track/6E2J0fgj3HACa2pHiHBAIk) | [Eryyy](https://open.spotify.com/artist/05bLnicFOOWYmhoVx4FjMM), [Noriyuki Takagi a.k.a\. NT](https://open.spotify.com/artist/4fIgXEZosCpVykEuMaelYm) | [YO WAKARANGA](https://open.spotify.com/album/4xuOPbWMDqE3IHEZ56E4QO) | 3:07 | 2022-06-21 | 2022-06-29 |
 | [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 | 2023-02-22 |
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-03-21 |  |
@@ -1199,7 +1200,7 @@
 | [ひかりのあと](https://open.spotify.com/track/1O4fQNBqrJobEphruJJyjk) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [ひかりのあと / skip](https://open.spotify.com/album/0fWCvzwQ1YZD1qaxCEN54n) | 4:41 | 2023-10-24 |  |
 | [ひかりのはなし](https://open.spotify.com/track/3yxCQpvmHOd2OOLmcghJEA) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ひかりのはなし](https://open.spotify.com/album/6IFxKWApysHfpQIYN524xw) | 5:53 | 2022-07-26 | 2022-08-03 |
 | [ひかりの国](https://open.spotify.com/track/5fH0ynHoRCXR7VIYCflBPC) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりの国](https://open.spotify.com/album/15RcfQBTOcXLC1t5X9bn3r) | 5:16 | 2022-06-07 | 2022-07-06 |
-| [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 | 2022-10-04 | 2023-10-27 |
+| [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 | 2022-10-04 |  |
 | [ひとりじゃないから](https://open.spotify.com/track/60wJcpxSTj2uG90ym05f48) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ひとりじゃないから](https://open.spotify.com/album/00CjrzTKlfuDIeDyzxtV4u) | 3:34 | 2022-05-29 | 2022-07-27 |
 | [ひるねの国](https://open.spotify.com/track/7x0x7RjQ0xQEKsfds73MGW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ひるねの国](https://open.spotify.com/album/42FD62QpX9fh4PUcKjSRXM) | 3:06 | 2023-05-16 | 2023-05-18 |
 | [ふうらい](https://open.spotify.com/track/4oEvF0PQaGrsRUrLODHNIx) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [ふうらい](https://open.spotify.com/album/7gAtFAU2BNh9ofR9YBSz5q) | 3:48 | 2022-11-10 | 2022-11-16 |
@@ -1863,7 +1864,7 @@
 | [風結び](https://open.spotify.com/track/5lgpJ7yC1zJwaQUv5KArhr) | [Rimi Natsukawa](https://open.spotify.com/artist/2AAMBmrNdim79LRSv1kKFn) | [風結び](https://open.spotify.com/album/0931vzBPUfjaRVOj93XmAG) | 4:12 | 2022-06-07 | 2022-07-15 |
 | [飛来](https://open.spotify.com/track/1jHC0WboNCLXCNOFJ9lsjZ) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [飛来](https://open.spotify.com/album/0XhnWsOmT4glyMnAxlLlK4) | 4:09 | 2023-08-15 | 2023-08-23 |
 | [飽きるまで](https://open.spotify.com/track/3uAAjBSKudmmp1f1DaFiDs) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo) | [飽きるまで](https://open.spotify.com/album/4A8hy1U1Ozaq0NjWAO1vbu) | 3:25 | 2023-04-11 | 2023-04-19 |
-| [香雪蘭～好きより愛してる～](https://open.spotify.com/track/4qsINclA2ueiY5NbOnjcZg) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [香雪蘭～好きより愛してる～](https://open.spotify.com/album/35Xz4RG7yTO7WMXK91ZjZk) | 6:02 | 2023-10-26 |  |
+| [香雪蘭～好きより愛してる～](https://open.spotify.com/track/4qsINclA2ueiY5NbOnjcZg) | [Shizuka Kudo](https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W) | [香雪蘭～好きより愛してる～](https://open.spotify.com/album/35Xz4RG7yTO7WMXK91ZjZk) | 6:02 | 2023-10-26 | 2023-10-28 |
 | [駒沢公園](https://open.spotify.com/track/4HbI0Ub0XNyrQ5W0JFuWiC) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [さらりさら / ずっとそばで見守っているよ / Everybody needs a smile / 駒沢公園](https://open.spotify.com/album/3H8Cmaov0wOTqXMd964jRZ) | 5:21 | 2022-08-16 | 2022-08-24 |
 | [骨まで愛して](https://open.spotify.com/track/76eXC94QzPqx9XcxQSxcAZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [骨まで愛して](https://open.spotify.com/album/1zGhKpqriVQSXKLl4ItJI0) | 3:26 | 2023-01-19 | 2023-01-25 |
 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 | 2022-07-19 | 2023-10-20 |

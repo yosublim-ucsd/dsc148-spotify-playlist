@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 3337,
+  "num_followers": 3346,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzMzZWEzYzVmNjYyNzc4ZDcyZjQ2YjAyNTc5NmRlOTZlNjM4MDUx",
+  "snapshot_id": "MCxiNmNjMDk2NmFiMWQ2OGRjZGY2N2ExMDJkNjk5YTI4NzZiMGY5Y2Fk",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Oke Mmiri",
-        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 504000,
-      "name": "Oke Mmiri - Live",
-      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Kumama",
         "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 260064,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 504000,
+      "name": "Oke Mmiri - Live",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "WINNING",
         "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Narudisha",
         "url": "https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T"
       },
@@ -663,26 +663,6 @@
       "duration_ms": 269688,
       "name": "Narudisha",
       "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Tulia",
-        "url": "https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE"
-      },
-      "artists": [
-        {
-          "name": "Benachi",
-          "url": "https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD"
-        },
-        {
-          "name": "kaberere",
-          "url": "https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7"
-        }
-      ],
-      "duration_ms": 216607,
-      "name": "Mwanake (feat. Kaberere)",
-      "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -707,6 +687,26 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Tulia",
+        "url": "https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE"
+      },
+      "artists": [
+        {
+          "name": "Benachi",
+          "url": "https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD"
+        },
+        {
+          "name": "kaberere",
+          "url": "https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7"
+        }
+      ],
+      "duration_ms": 216607,
+      "name": "Mwanake (feat. Kaberere)",
+      "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Uko Single?",
         "url": "https://open.spotify.com/album/5ub2GKGHFCglwgxkpiq3v0"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 224189,
       "name": "Uko Single?",
       "url": "https://open.spotify.com/track/1LYgA4jCtKJQ3sx8WjMIcz"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "Nipe Macho",
+        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 353720,
+      "name": "Nipe Macho",
+      "url": "https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -779,22 +795,6 @@
       "duration_ms": 347593,
       "name": "Ipo Siku",
       "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "Nipe Macho",
-        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 353720,
-      "name": "Nipe Macho",
-      "url": "https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh"
     },
     {
       "added_at": "2023-10-20 00:01:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
+        "name": "Nipe Macho",
+        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 315213,
+      "name": "Thamani Ya Wokovu",
+      "url": "https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
         "name": "Hapa Nilipo",
         "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
       },
@@ -911,26 +927,6 @@
       "duration_ms": 261355,
       "name": "Upendo Wa Yesu",
       "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
-        "name": "KELELE ZA USHINDI",
-        "url": "https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp"
-      },
-      "artists": [
-        {
-          "name": "PAUL CLEMENT",
-          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
-        },
-        {
-          "name": "ZORAVO",
-          "url": "https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ"
-        }
-      ],
-      "duration_ms": 221936,
-      "name": "KELELE ZA USHINDI",
-      "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
     }
   ],
   "unique_name": "Sunday Service",

@@ -1603,6 +1603,28 @@
     },
     {
       "album": {
+        "name": "En La Calle",
+        "url": "https://open.spotify.com/album/1sdlYzUj8vYzzVuheawjqe"
+      },
+      "artists": [
+        {
+          "name": "Pedro Peligro",
+          "url": "https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237183,
+      "name": "En La Calle",
+      "url": "https://open.spotify.com/track/10hrydo6Lzikx92sQI025W"
+    },
+    {
+      "album": {
         "name": "Es Como",
         "url": "https://open.spotify.com/album/63tHVFdnWdxVAWJ7vPUBSk"
       },
@@ -4638,7 +4660,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 203083,
       "name": "Traici\u00f3n",
       "url": "https://open.spotify.com/track/6dInG46eWdpZkjOpD0Na3x"

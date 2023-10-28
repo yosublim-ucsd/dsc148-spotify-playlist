@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Averagekidluke ja ibe.
 
-138 songs - 6 hr 38 min
+139 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [40K](https://open.spotify.com/track/6WQihZyNHPQzaF7dx3Xmi6) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sextape II](https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR) | 2:34 | 2023-09-21 | 2023-09-29 |
 | [Aaltoi päin \(feat\. Jami Faltin\)](https://open.spotify.com/track/66BrGVswrL7ZPlumgSLRSs) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Aaltoi päin \(feat\. Jami Faltin\)](https://open.spotify.com/album/6GqaytWhywXWN9XmiZkpTj) | 2:14 | 2023-10-05 |  |
 | [Aina \- Julma H Remix](https://open.spotify.com/track/2fXkS7KWjPXjuwnOLv6WQJ) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o), [Timo Pieni Huijaus](https://open.spotify.com/artist/3QhMkujlcwd5TqLp4p3KUR), [Loasteeze](https://open.spotify.com/artist/5cWTEtVgv1VNBS9mBdQHOo) | [Aina \(Julma H Remix\)](https://open.spotify.com/album/2DsqHeCJpYTNtc0Yqovp0H) | 3:18 | 2023-09-21 | 2023-10-03 |
+| [Aji Aji](https://open.spotify.com/track/2lo7W7vYvMN3BOfKDxdxfB) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Aji Aji](https://open.spotify.com/album/1KsNClWF91RCnkBnqIVMam) | 2:46 | 2023-10-27 |  |
 | [Aki Palsanmäki](https://open.spotify.com/track/51GCWwcg1BvcEohqgMy3ol) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Stafa](https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5) | [Aki Palsanmäki](https://open.spotify.com/album/5djLeMnycGunj2cGDCcZFp) | 2:27 | 2023-09-21 | 2023-10-13 |
 | [Allstar \(feat\. ibe\)](https://open.spotify.com/track/6NSjIm8OZLsjcJQgUdsGNr) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Allstar \(feat\. ibe\)](https://open.spotify.com/album/6wyZ9WblNTfN4LGHcsg7cf) | 3:01 | 2023-09-21 |  |
 | [Aminata](https://open.spotify.com/track/5aT7OMRbJ67AzZBMUdMUtm) | [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Aminata](https://open.spotify.com/album/7JjnuWWACcwZwdt4rmKIWu) | 2:49 | 2023-09-28 | 2023-10-06 |
@@ -115,7 +116,7 @@
 | [SKIP FAME](https://open.spotify.com/track/3EhXJ06VuTmalwPy9DlXFj) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MOSHIT](https://open.spotify.com/album/7puLbLXfzZa1W3W0q2STEw) | 2:23 | 2023-09-21 | 2023-10-20 |
 | [Smash Baby \(feat\. JVG\)](https://open.spotify.com/track/43aRo9Yxlj97ZlEOwCGJXk) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Smash Baby \(feat\. JVG\)](https://open.spotify.com/album/70f1d91RA2xKzbbHStUhsF) | 2:21 | 2023-09-21 |  |
 | [Sori](https://open.spotify.com/track/7tSbasJQ6SYeDwEhyeUYUa) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Sori](https://open.spotify.com/album/59JKgG2HfalOrIOYYLyXdH) | 2:16 | 2023-09-21 |  |
-| [Sotku \(feat\. Lauri Haav\)](https://open.spotify.com/track/5MqxviceOm4UfwjcYsgLqZ) | [Chede](https://open.spotify.com/artist/1dn8NIyCz1o0BwEcYl9QWG), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Sotku \(feat\. Lauri Haav\)](https://open.spotify.com/album/1sqwhGwcOPYycPA8KtqtdD) | 3:23 | 2023-09-21 |  |
+| [Sotku \(feat\. Lauri Haav\)](https://open.spotify.com/track/5MqxviceOm4UfwjcYsgLqZ) | [Chede](https://open.spotify.com/artist/1dn8NIyCz1o0BwEcYl9QWG), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Sotku \(feat\. Lauri Haav\)](https://open.spotify.com/album/1sqwhGwcOPYycPA8KtqtdD) | 3:23 | 2023-09-21 | 2023-10-28 |
 | [STARTED](https://open.spotify.com/track/3mzR4sjEsW3dgIzFR8EbbA) | [Nick\-E Maggz](https://open.spotify.com/artist/4THoP0ZeHikbfshug7w8RG) | [STARTED](https://open.spotify.com/album/5zLrcqHBJNI0ciAdhj60YP) | 2:46 | 2023-10-05 | 2023-10-20 |
 | [Starttaa](https://open.spotify.com/track/0rWf0xkyuKaIqqd8zA2Aqt) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [Starttaa](https://open.spotify.com/album/0v09NIc0OvPEKNveP5E3TC) | 2:34 | 2023-09-21 |  |
 | [Sun vika](https://open.spotify.com/track/2sQ2CJXifP3ydr5cM0v1EO) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Helsingis on tulva \- EP](https://open.spotify.com/album/2459H0Xc9lago9C1d1S3eE) | 2:55 | 2023-10-05 | 2023-10-20 |

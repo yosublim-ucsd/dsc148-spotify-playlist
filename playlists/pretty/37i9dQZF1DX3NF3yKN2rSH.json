@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53668,
+  "num_followers": 53665,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmVhOTNkZGFjZDYwMDA3YjdkM2YyODY1YzkzNzM0NWQ1MDRkZTE2",
+  "snapshot_id": "MCw1OWY4YTFjMmU3OTA5ZmY2ZWVjYzJiZGEwNjM1NzJhYmIyZDgzODg2",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Already Won - Live",
+      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Trin-i-tee 5:7",
         "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+        "name": "Hold Up The Light",
+        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "New Jersey Mass Choir",
+          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
         }
       ],
-      "duration_ms": 211880,
-      "name": "Already Won - Live",
-      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
+      "duration_ms": 286040,
+      "name": "O the Blood",
+      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -871,22 +887,6 @@
       "duration_ms": 416213,
       "name": "Endow Me",
       "url": "https://open.spotify.com/track/6BvbwCuCVobHdwOn7I6Orw"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Hold Up The Light",
-        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
-      },
-      "artists": [
-        {
-          "name": "New Jersey Mass Choir",
-          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
-        }
-      ],
-      "duration_ms": 286040,
-      "name": "O the Blood",
-      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 373986,
-      "name": "Jesus I Love You",
-      "url": "https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg"
     },
     {
       "added_at": "2023-04-09 08:49:39",

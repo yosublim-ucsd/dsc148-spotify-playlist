@@ -1,12 +1,12 @@
 {
   "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu?si=V-INLW0zRN-JAv5SQGYvog\">Mionette</a> ",
-  "num_followers": 14402,
+  "num_followers": 14444,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTljNWMxZjUxNTIzMzZmNDkyZGUwMjc4MWJlOWFmYjMyMmE3M2Y4",
+  "snapshot_id": "MCwzZjk2NWUwOGJkYWVkNjUyY2Q0MjcyNjU4NjY4ZWU2NzVmNzg2N2Fl",
   "tracks": [
     {
       "added_at": "2023-10-26 22:00:00",
@@ -433,6 +433,26 @@
       "url": "https://open.spotify.com/track/7CTLsUcL3OVROwQR6xujI7"
     },
     {
+      "added_at": "2023-10-27 11:09:17",
+      "album": {
+        "name": "Die Son En Die Maan",
+        "url": "https://open.spotify.com/album/5UCX2FqNAGCXiA4H7nvB6A"
+      },
+      "artists": [
+        {
+          "name": "John Rock Prophet",
+          "url": "https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw"
+        },
+        {
+          "name": "Debbie K",
+          "url": "https://open.spotify.com/artist/4xjBPreViFD3bCcjv19IlC"
+        }
+      ],
+      "duration_ms": 199959,
+      "name": "Die Son En Die Maan",
+      "url": "https://open.spotify.com/track/008OjhPrh7EKg6iF9dp0fh"
+    },
+    {
       "added_at": "2023-09-14 21:59:00",
       "album": {
         "name": "Die Rower",
@@ -759,22 +779,6 @@
       "duration_ms": 228465,
       "name": "Pap Sop Nat 2 - Remix",
       "url": "https://open.spotify.com/track/5ylPWsKCNGAdSVpWjI0JdM"
-    },
-    {
-      "added_at": "2023-09-21 21:59:00",
-      "album": {
-        "name": "Koue Vuur",
-        "url": "https://open.spotify.com/album/1Jxed9z30ngdnoRHEzJZdG"
-      },
-      "artists": [
-        {
-          "name": "John Rock Prophet",
-          "url": "https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw"
-        }
-      ],
-      "duration_ms": 179330,
-      "name": "Koue Vuur",
-      "url": "https://open.spotify.com/track/5x69AyZLZzxcuFlNECjtUw"
     },
     {
       "added_at": "2023-09-14 21:59:00",

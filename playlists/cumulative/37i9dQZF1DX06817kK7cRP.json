@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 180000,
       "name": "Harvest Time",
       "url": "https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z"
@@ -1976,6 +1976,24 @@
       "duration_ms": 151624,
       "name": "overtake on the outside",
       "url": "https://open.spotify.com/track/13wgIAjCCWKkebdUlPnS70"
+    },
+    {
+      "album": {
+        "name": "Paks",
+        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
+      },
+      "artists": [
+        {
+          "name": "Lndoner",
+          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "Paks",
+      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
     },
     {
       "album": {

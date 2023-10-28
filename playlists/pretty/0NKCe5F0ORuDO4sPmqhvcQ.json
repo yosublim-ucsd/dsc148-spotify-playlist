@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1NDEsYjNmZTdkNDkwM2MyMGU2ODFlZjQzMzNlNWNmOTM4MzRhZDU3ODBhMA==",
+  "snapshot_id": "MTA1NDUsYWRlYWI3YTFiNjg5YmI5Y2NkYmNmOWM1NGZkNjU3NDhiMGI2ZmQ0MA==",
   "tracks": [
     {
       "added_at": "2023-10-06 14:55:50",
@@ -2263,6 +2263,74 @@
       "duration_ms": 168653,
       "name": "cold showers",
       "url": "https://open.spotify.com/track/4N4M6MYPCpgJxKyv5fpgzg"
+    },
+    {
+      "added_at": "2023-10-27 18:43:11",
+      "album": {
+        "name": "Gradient",
+        "url": "https://open.spotify.com/album/3WJrVYaL23cnjReefwIBWs"
+      },
+      "artists": [
+        {
+          "name": "Starya",
+          "url": "https://open.spotify.com/artist/0vbBnL6lV4Gn3PA11vmKjX"
+        }
+      ],
+      "duration_ms": 220776,
+      "name": "Gradient",
+      "url": "https://open.spotify.com/track/3lyF43hdw1AULXQyvrfRpa"
+    },
+    {
+      "added_at": "2023-10-27 19:51:18",
+      "album": {
+        "name": "MACH 10",
+        "url": "https://open.spotify.com/album/3Uj5FjcVPVhC8UHUt1wfhV"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 199790,
+      "name": "MACH 10",
+      "url": "https://open.spotify.com/track/1lBkr90r5ayibZw92Be7RJ"
+    },
+    {
+      "added_at": "2023-10-27 19:51:47",
+      "album": {
+        "name": "Carbonceramics",
+        "url": "https://open.spotify.com/album/5gHTMLQLOaWiDT1navoLut"
+      },
+      "artists": [
+        {
+          "name": "Re:abel",
+          "url": "https://open.spotify.com/artist/15iuCconBCNg86K2nVPNkd"
+        }
+      ],
+      "duration_ms": 280875,
+      "name": "Carbonceramics",
+      "url": "https://open.spotify.com/track/7ERuaaH2MUZ6W4tPt7SfEG"
+    },
+    {
+      "added_at": "2023-10-27 19:51:58",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/7tkgjZAdCf4dqqAY80V5D5"
+      },
+      "artists": [
+        {
+          "name": "Jantoje",
+          "url": "https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx"
+        },
+        {
+          "name": "Beach Season",
+          "url": "https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw"
+        }
+      ],
+      "duration_ms": 190355,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/1mZTaOUyj9f1NqBuD85Gti"
     }
   ],
   "unique_name": "Moving Castle Monthly",

@@ -1,12 +1,12 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 475546,
+  "num_followers": 475664,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTJlODkxZmVmZDdiYmFhNzBiMzA1ZTRkNDViMGNlOTk5OWVhMDcw",
+  "snapshot_id": "MCwzNGM5MzU5MWMyOGZkMDEzZTc3YjgyNDkzZjdjY2I0ZTQzZGYwNjEy",
   "tracks": [
     {
       "added_at": "2023-10-17 16:13:12",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-17 16:13:12",
       "album": {
-        "name": "Bloody Tourists",
-        "url": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Dreadlock Holiday",
-      "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
-    },
-    {
-      "added_at": "2023-10-17 16:13:12",
-      "album": {
         "name": "Pleasure & Pain",
         "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 178826,
       "name": "When You're In Love With A Beautiful Woman",
       "url": "https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv"
+    },
+    {
+      "added_at": "2023-10-17 16:13:12",
+      "album": {
+        "name": "Bloody Tourists",
+        "url": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Dreadlock Holiday",
+      "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
     },
     {
       "added_at": "2023-10-17 16:13:12",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-10-17 16:13:12",
       "album": {
+        "name": "Everybody Plays The Fool: The Best Of The Main Ingredient",
+        "url": "https://open.spotify.com/album/6jsWa1n8iL7fJYfMJaWa7K"
+      },
+      "artists": [
+        {
+          "name": "The Main Ingredient",
+          "url": "https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Everybody Plays the Fool",
+      "url": "https://open.spotify.com/track/3DkqEHCCqlkknDfksHWWu0"
+    },
+    {
+      "added_at": "2023-10-17 16:13:12",
+      "album": {
         "name": "REACH FOR THE SKY",
         "url": "https://open.spotify.com/album/250pi4BXKaHZKZg7Q4nnAo"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 157200,
       "name": "Arms of Mary",
       "url": "https://open.spotify.com/track/6287Wj4s5fDLLxZPQFCwZq"
-    },
-    {
-      "added_at": "2023-10-17 16:13:12",
-      "album": {
-        "name": "Everybody Plays The Fool: The Best Of The Main Ingredient",
-        "url": "https://open.spotify.com/album/6jsWa1n8iL7fJYfMJaWa7K"
-      },
-      "artists": [
-        {
-          "name": "The Main Ingredient",
-          "url": "https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Everybody Plays the Fool",
-      "url": "https://open.spotify.com/track/3DkqEHCCqlkknDfksHWWu0"
     },
     {
       "added_at": "2023-10-17 16:13:12",

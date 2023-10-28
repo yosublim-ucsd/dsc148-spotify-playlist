@@ -4,7 +4,7 @@
 
 > 
 
-379 songs - 20 hr 5 min
+380 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [My Confidant](https://open.spotify.com/track/1Dpp6Mfle3B7LOYMu2oFD9) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [My Confidant](https://open.spotify.com/album/5j4kWDbtE1ImHbXjKViBPH) | 3:00 | 2023-08-11 |  |
 | [My Favorite Things](https://open.spotify.com/track/29Z43s5cYYulFEkGJYMLkb) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [My Favorite Things](https://open.spotify.com/album/678aa3LRKcsZilzocaADh1) | 2:53 | 2023-03-23 |  |
 | [My Foolish Heart](https://open.spotify.com/track/5abQoyD2C7Uh7jL8lzZ26X) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [My Foolish Heart](https://open.spotify.com/album/5lXdRcDwhDBavsabE7E437) | 4:40 | 2023-03-23 |  |
+| [My Foolishness](https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe) | [Franck Byrne](https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq) | [My Foolishness](https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ) | 2:46 | 2023-10-27 |  |
 | [My Funny Valentine](https://open.spotify.com/track/2qDbvpn37DrsHSU3UCZdCP) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [My Funny Valentine](https://open.spotify.com/album/4PyUkpWF5RXco0nsjQH0DW) | 3:53 | 2023-06-08 |  |
 | [My Funny Valentine](https://open.spotify.com/track/16ux8DXCSRapY8mxHavplM) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [My Funny Valentine](https://open.spotify.com/album/0N33fi2a8iGqcs5WWbnIdC) | 2:50 | 2023-03-23 | 2023-09-14 |
 | [My Golden Hour](https://open.spotify.com/track/3IpJ670QsPqQqRXiR0puyR) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [My Golden Hour](https://open.spotify.com/album/7qNYGiFeAi8W0xvEuetOhj) | 2:18 | 2023-03-23 |  |
@@ -309,7 +310,7 @@
 | [Strasbourg](https://open.spotify.com/track/3i4NoQWDcWEZ2q7TYqj5r1) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Strasbourg](https://open.spotify.com/album/04tdMaGADr9577CFzyqoLY) | 2:22 | 2023-06-08 |  |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 | 2023-09-14 |
 | [Streets of Gold](https://open.spotify.com/track/5CLGKbMa7u0QZe6nLOQEe9) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [Streets of Gold](https://open.spotify.com/album/3HRAv95HLT2CXEVQRJSvhV) | 2:02 | 2023-05-25 |  |
-| [Sudden Light](https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Sudden Light](https://open.spotify.com/album/5A6oIf1TnaPU8NJL6MKLq4) | 3:23 | 2023-10-27 |  |
+| [Sudden Light](https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Sudden Light](https://open.spotify.com/album/5A6oIf1TnaPU8NJL6MKLq4) | 3:23 | 2023-10-27 | 2023-10-28 |
 | [Summer in Central Park](https://open.spotify.com/track/1LI1odohhRVtGSqRuEABw9) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Summer in Central Park](https://open.spotify.com/album/6KlLMcXaSJtFeUvWexpaEA) | 3:31 | 2023-09-13 |  |
 | [Summer Love](https://open.spotify.com/track/3V0JLSKOckMOO9Eh2N5rbT) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Summer Love](https://open.spotify.com/album/6S7rGAffgFdrMIHY6DjUAv) | 3:33 | 2023-08-24 |  |
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2023-03-23 |  |

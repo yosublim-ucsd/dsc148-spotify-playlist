@@ -4,7 +4,7 @@
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu?si=V\-INLW0zRN\-JAv5SQGYvog">Mionette</a>
 
-584 songs - 1 day 9 hr 1 min
+585 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Die Seën](https://open.spotify.com/track/2JrpZZXrSjd6FeWsMYlZ9Z) | [Johan Anker](https://open.spotify.com/artist/3VawlZLcw70cya2MhFCj5b) | [Die Seën](https://open.spotify.com/album/79zq6kAHXeUyMLu6CWDrQV) | 6:56 | 2022-11-04 | 2022-11-25 |
 | [Die Sommige A\-Span Ouers Blues](https://open.spotify.com/track/2Ek4M3TvRfO5hTdii48bsm) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Die Sommige A\-Span Ouers Blues](https://open.spotify.com/album/3n16g4kYJtI23k1smFDPim) | 3:51 | 2023-02-23 | 2023-03-18 |
 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 | 2022-11-24 | 2022-12-16 |
+| [Die Son En Die Maan](https://open.spotify.com/track/008OjhPrh7EKg6iF9dp0fh) | [John Rock Prophet](https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw), [Debbie K](https://open.spotify.com/artist/4xjBPreViFD3bCcjv19IlC) | [Die Son En Die Maan](https://open.spotify.com/album/5UCX2FqNAGCXiA4H7nvB6A) | 3:19 | 2023-10-27 |  |
 | [Die Son Kom Op](https://open.spotify.com/track/7qCrASJyo3JTjEpUauJMEA) | [Tiaan Massyn](https://open.spotify.com/artist/5kBNVv1oDDlPfx7mmf8ZGB) | [Die Son Kom Op](https://open.spotify.com/album/5QB0DEXPWE4fWHM7cohmnk) | 3:56 | 2023-03-30 | 2023-04-21 |
 | [Die Sonskyn en Die Reën](https://open.spotify.com/track/16msFCHm7rvxMKgVQnHRaX) | [RAAF](https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi) | [Die Sonskyn en Die Reën](https://open.spotify.com/album/1G1I8b6QO6p7r8IM94C0cR) | 3:05 | 2023-10-19 |  |
 | [Die Vakansie Song](https://open.spotify.com/track/08Mazf5v3uQRhbS7y46wHn) | [Chris Duvenage](https://open.spotify.com/artist/1p3GqqXMmPVzDnpqhWCf6O) | [Die Vakansie Song \- Shokbasse Remix](https://open.spotify.com/album/3zUSxdod87bOZ8I8hNjU0O) | 3:40 | 2023-03-09 | 2023-03-25 |
@@ -277,7 +278,7 @@
 | [Kortbroek](https://open.spotify.com/track/2BSoAJMG0fr4v9q8AIc8PY) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Kortbroek](https://open.spotify.com/album/0OTo3ycGnUOP1AEVTn20vH) | 2:56 | 2023-04-27 | 2023-06-30 |
 | [Koue Kole](https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Koue Kole](https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE) | 3:50 | 2023-05-11 | 2023-09-01 |
 | [Koue Pizza](https://open.spotify.com/track/1fEZOVHd17gcqv0ND1fpcV) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Koue Pizza](https://open.spotify.com/album/0UE7Fs2XSTfjAtcwNKe439) | 3:01 | 2022-10-20 | 2022-11-25 |
-| [Koue Vuur](https://open.spotify.com/track/5x69AyZLZzxcuFlNECjtUw) | [John Rock Prophet](https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw) | [Koue Vuur](https://open.spotify.com/album/1Jxed9z30ngdnoRHEzJZdG) | 2:59 | 2023-09-21 |  |
+| [Koue Vuur](https://open.spotify.com/track/5x69AyZLZzxcuFlNECjtUw) | [John Rock Prophet](https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw) | [Koue Vuur](https://open.spotify.com/album/1Jxed9z30ngdnoRHEzJZdG) | 2:59 | 2023-09-21 | 2023-10-28 |
 | [Krake](https://open.spotify.com/track/7zbzs0Yui6coONwXJogM7J) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Krake](https://open.spotify.com/album/4KUsDuiUR5ZCPRxhMhajh6) | 3:38 | 2023-02-16 | 2023-03-10 |
 | [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 | 2022-08-11 | 2023-01-02 |
 | [Kwagga Karnaval](https://open.spotify.com/track/0YibPa1JNIDIvubnDjrDFF) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Kwagga Karnaval](https://open.spotify.com/album/7J8QRwCuKTylCzzhObMTTc) | 3:30 | 2023-08-24 |  |

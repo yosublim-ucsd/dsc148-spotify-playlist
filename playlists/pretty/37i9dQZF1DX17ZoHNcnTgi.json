@@ -1,12 +1,12 @@
 {
   "description": "Una uni\u00f3n que no sabr\u00e1s olvidar. Escucha la Fusi\u00f3n entre Jos\u00e9 Alfredo y Silvana Estrada. ",
-  "num_followers": 18997,
+  "num_followers": 19063,
   "original_name": "Silvana Estrada + Jos\u00e9 Alfredo Jim\u00e9nez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWUyMjFkNmIyYzgxZDY4MDRiZmU5YjkwNzEzZjBiMjgyYzMzZmVj",
+  "snapshot_id": "MCxlNTM5MDQ2ZjI0MzZjODlhYzNmY2YzNzVhOTE0MGU5ODc3NTBmOTdm",
   "tracks": [
     {
       "added_at": "2023-10-17 06:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "En el Palacio de Bellas Artes",
-        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Te Lo Pido por Favor - En Vivo [En el Palacio de Bellas Artes]",
-      "url": "https://open.spotify.com/track/4tC3FF7ExJRq6cDuwuOLII"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Primera Fila (Edici\u00f3n Especial [En Vivo])",
         "url": "https://open.spotify.com/album/3hNJfS7dWIu5yFiaDJA1LI"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 221306,
       "name": "Pa' Todo el A\u00f1o (with Paquita la del Barrio) - Primera Fila [En Vivo]",
       "url": "https://open.spotify.com/track/34DKQzeut1KanGlRmSDW92"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Te Lo Pido por Favor - En Vivo [En el Palacio de Bellas Artes]",
+      "url": "https://open.spotify.com/track/4tC3FF7ExJRq6cDuwuOLII"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Si Me Comprendieras",
-        "url": "https://open.spotify.com/album/3UUaw8f5kgt8YcviM66sJt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Antonio Mendez",
-          "url": "https://open.spotify.com/artist/6H86gCQqtt9URO8GmYdhdX"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "Si Me Comprendieras",
-      "url": "https://open.spotify.com/track/1LsJ6CihB1X4nnsdYjQzzf"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/0eU0VNeD4aSjjaTeyBrlyT"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
+        "name": "Si Me Comprendieras",
+        "url": "https://open.spotify.com/album/3UUaw8f5kgt8YcviM66sJt"
       },
       "artists": [
         {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+          "name": "Jos\u00e9 Antonio Mendez",
+          "url": "https://open.spotify.com/artist/6H86gCQqtt9URO8GmYdhdX"
         }
       ],
-      "duration_ms": 167226,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/74wCVAy23zlSs39EP2A4u4"
+      "duration_ms": 190253,
+      "name": "Si Me Comprendieras",
+      "url": "https://open.spotify.com/track/1LsJ6CihB1X4nnsdYjQzzf"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -755,6 +739,22 @@
       "duration_ms": 308000,
       "name": "Ven",
       "url": "https://open.spotify.com/track/7lNybkl7h3byaFgxyxlLlk"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 167226,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/74wCVAy23zlSs39EP2A4u4"
     },
     {
       "added_at": "2023-10-17 06:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
-        "name": "Tata Cunengue",
-        "url": "https://open.spotify.com/album/19YWaxyv6kEH1ozuh5V17V"
-      },
-      "artists": [
-        {
-          "name": "Bola De Nieve",
-          "url": "https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ"
-        }
-      ],
-      "duration_ms": 170492,
-      "name": "Si me pudieras querer",
-      "url": "https://open.spotify.com/track/0BcLzcWBhWR3MowpcxhYEa"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
         "name": "Homenaje A Violeta Parra",
         "url": "https://open.spotify.com/album/36yAwraxsgTgpguSVpHnHd"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 293173,
       "name": "Defensa De Violeta",
       "url": "https://open.spotify.com/track/7rK6SMGudpGhD3MurXJXsy"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
+        "name": "Tata Cunengue",
+        "url": "https://open.spotify.com/album/19YWaxyv6kEH1ozuh5V17V"
+      },
+      "artists": [
+        {
+          "name": "Bola De Nieve",
+          "url": "https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ"
+        }
+      ],
+      "duration_ms": 170492,
+      "name": "Si me pudieras querer",
+      "url": "https://open.spotify.com/track/0BcLzcWBhWR3MowpcxhYEa"
     },
     {
       "added_at": "2023-10-17 06:00:00",

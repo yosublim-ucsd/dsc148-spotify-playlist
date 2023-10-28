@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of electronic trap. Cover: RL Grime",
+  "description": "The best of electronic trap. Cover: G Jones",
   "name": "Trap Mojito",
   "tracks": [
     {
@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 180000,
       "name": "Makin Moves",
       "url": "https://open.spotify.com/track/3QwYSJpsLN0qannLsQqdVE"
@@ -3464,7 +3464,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 178333,
       "name": "Mumbai Mode",
       "url": "https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW"
@@ -4501,6 +4501,28 @@
     },
     {
       "album": {
+        "name": "Shut Shit Down",
+        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Shut Shit Down",
+      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
+    },
+    {
+      "album": {
         "name": "SIDE2SIDE",
         "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
       },
@@ -5072,6 +5094,24 @@
       "duration_ms": 105000,
       "name": "TIDES",
       "url": "https://open.spotify.com/track/6h0o08bDtg1DpSkMTfwaEP"
+    },
+    {
+      "album": {
+        "name": "Paths",
+        "url": "https://open.spotify.com/album/4FL3BPEqVAxOEtvjDgLlc9"
+      },
+      "artists": [
+        {
+          "name": "G Jones",
+          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Too Far Gone",
+      "url": "https://open.spotify.com/track/6UK3DJjALEcDdqehJvkjP4"
     },
     {
       "album": {

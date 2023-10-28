@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Lee Seol Ah\(이설아\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Won Tae Rim\(원태림\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,797 likes - 52 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,866 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [친구야 My Friend \(feat\. Kim Sawol\)](https://open.spotify.com/track/6GYfwuyeSLiNIbG8twrg40) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [작은 마을 Tiny Village](https://open.spotify.com/album/4qcORqrwArG9CxHYEN3x8d) | 4:24 |
+| 1 | [Clover](https://open.spotify.com/track/6KboAbHVBi95z5UAkeaJV6) | [Won Tae Rim](https://open.spotify.com/artist/4d6JLYUpsguDgSmUSmbi50) | [Clover](https://open.spotify.com/album/7F0h3aAEjQdQIZrLO4Lz95) | 3:46 |
 | 2 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 |
 | 3 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 |
 | 4 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 |
 | 52 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
 
-Snapshot ID: `MCxjZTc1ZGRhMTM1YTZmNjNmY2VhNDg1Mzc1NDQ5ZDFlNDg0ODU0ZmNl`
+Snapshot ID: `MCwzMjU0OTNlMmRkNDdiNzI3NGYxODhiY2QzY2E4NGQ5M2M0ZjMyZDgz`

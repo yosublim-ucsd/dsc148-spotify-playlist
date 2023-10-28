@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: VIZE, Leony, Niklas Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,792,987 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,793,229 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 |
 | 50 | [Better Me](https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Better Me](https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL) | 2:46 |
 
-Snapshot ID: `MCw0MGM2YTMyYWE4ZmY1NDE5ODNmZTZmYzAwNDdkOTY5YTNkMjA1NzRi`
+Snapshot ID: `MCw0MzdkYTAyNTRjZjgwYTdkMjljMThiN2VlNjZlNzdlNGViYWI3ZWQx`

@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 193920,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/6Z3fxMhJqzXHvD6aPqevWQ"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 222923,
       "name": "Cold",
       "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
@@ -450,6 +450,24 @@
       "duration_ms": 187257,
       "name": "C\u00e9u e Mar",
       "url": "https://open.spotify.com/track/1WtaYIG5cJyBzqfCmgTbKY"
+    },
+    {
+      "album": {
+        "name": "Desce",
+        "url": "https://open.spotify.com/album/4znhwDlqA9l1Bezbs28IT0"
+      },
+      "artists": [
+        {
+          "name": "Low Disco",
+          "url": "https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Desce",
+      "url": "https://open.spotify.com/track/6bTlmguryAksEPZSi40KTY"
     },
     {
       "album": {
@@ -644,10 +662,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 180937,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/5mvXTMweaYmTbHy4ccC9wQ"
+    },
+    {
+      "album": {
+        "name": "Flexin",
+        "url": "https://open.spotify.com/album/1gvmDauEydTvcxloQa0SZ8"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        },
+        {
+          "name": "Screechy",
+          "url": "https://open.spotify.com/artist/4Ts1L827tQWBpc9I2GekWG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Flexin",
+      "url": "https://open.spotify.com/track/5iYGvYHWSudzMiK5FTPCFA"
     },
     {
       "album": {
@@ -852,7 +892,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 185160,
       "name": "High",
       "url": "https://open.spotify.com/track/6n4GYiUFj4A67Cc7U4j4Uq"
@@ -1028,6 +1068,32 @@
       "duration_ms": 206000,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/37Bz57c2aHf0G1SZSNlyYt"
+    },
+    {
+      "album": {
+        "name": "Infected",
+        "url": "https://open.spotify.com/album/0ynFfv3WKVqhY8kmDbvWVy"
+      },
+      "artists": [
+        {
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+        },
+        {
+          "name": "PRADOV",
+          "url": "https://open.spotify.com/artist/14uwOzdZsatM87tYaUXywO"
+        },
+        {
+          "name": "Anna De Ferran",
+          "url": "https://open.spotify.com/artist/0uGRpGp5fkrpsq7PC20Rz7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179525,
+      "name": "Infected",
+      "url": "https://open.spotify.com/track/0XpLNTDWM8fPzW53Cj0yub"
     },
     {
       "album": {
@@ -1240,7 +1306,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 179166,
       "name": "Love & War",
       "url": "https://open.spotify.com/track/3Fry2XZgv6rVFPtJqHnh2V"
@@ -1534,7 +1600,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 333952,
       "name": "Overload",
       "url": "https://open.spotify.com/track/4i8yLP8Ev25ol5Jd5yVzY0"
@@ -1596,7 +1662,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 209572,
       "name": "Perreo Caliente",
       "url": "https://open.spotify.com/track/6e99qOpsvWOBQbL1ZgEhbf"
@@ -2620,6 +2686,24 @@
       "duration_ms": 174761,
       "name": "Your Hands",
       "url": "https://open.spotify.com/track/21BVw3x8eljRQ7MHPV4vn6"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/0kddw46pffTJYmcFW6m6R6"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148297,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1q8yCt1HfuUkEe061plA6w"
     },
     {
       "album": {

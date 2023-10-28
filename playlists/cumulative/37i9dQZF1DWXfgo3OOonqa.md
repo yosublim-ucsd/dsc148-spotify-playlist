@@ -4,7 +4,7 @@
 
 > HIPHOP 50!
 
-1,258 songs - 2 day 7 hr 31 min
+1,259 songs - 2 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -978,6 +978,7 @@
 | [Scener](https://open.spotify.com/track/2mfGWs6c63zWiO36xx4raA) | [Georgios Barbanos](https://open.spotify.com/artist/0n4qD1LR233g1LdGBp1BEE) | [Scener](https://open.spotify.com/album/3XNMEjpA19Sn0WpSdd6pIt) | 2:10 | 2022-02-17 | 2022-03-11 |
 | [Schack](https://open.spotify.com/track/2B4GEg6cLD3YlzOIBdOD7x) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Schack](https://open.spotify.com/album/1n7deqmRb4GVEgsNoFyGLZ) | 2:29 | 2022-11-17 | 2023-02-10 |
 | [Schack](https://open.spotify.com/track/7AixXilko7j5AToF0fQ0aQ) | [Yocee](https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6), [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Schack](https://open.spotify.com/album/1OOALqKKHDvdiPXVckvbXb) | 3:34 | 2023-05-04 | 2023-05-19 |
+| [Se & Lär](https://open.spotify.com/track/0LGsfY6XeIJtx8K3YJbWJf) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Se & Lär](https://open.spotify.com/album/1pc3MNrUfjUZ8atQ2D6ynv) | 2:23 | 2023-10-27 |  |
 | [SE DIG OMKRING](https://open.spotify.com/track/29zXVASHgYRx5mmDQmhUZr) | [Alex Ceesay](https://open.spotify.com/artist/5LaRXB9yoFyBoTNwmXyl6W) | [SE DIG OMKRING](https://open.spotify.com/album/1z1mrFk2fxJniRhwhckodf) | 3:07 | 2022-03-04 | 2022-04-22 |
 | [Sedan start](https://open.spotify.com/track/4rpdNg2kSv8bMXmC5mUxiw) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Sedan start](https://open.spotify.com/album/5EMQu4MkRNeljsQ6UtacqX) | 2:49 | 2022-07-25 | 2022-08-19 |
 | [Selfmade](https://open.spotify.com/track/4Hf6kEGsZmIdTzar565Gn1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade](https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt) | 2:11 | 2022-06-23 | 2022-09-09 |

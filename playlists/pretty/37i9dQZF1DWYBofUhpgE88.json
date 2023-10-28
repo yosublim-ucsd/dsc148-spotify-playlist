@@ -1,12 +1,12 @@
 {
   "description": "Rap per non smettere mai di crederci \ud83d\udcaa",
-  "num_followers": 327459,
+  "num_followers": 327590,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDE1ODc2Y2ZlMzA3MTdhODEyN2FiNzIzODVkOTFmOGI0Zjk1MDMw",
+  "snapshot_id": "MCxlYmNhNzI5MWUxMmJkODEwN2M5Zjc0ZjJlOGY0NGNiMGQxNDZlMjQw",
   "tracks": [
     {
       "added_at": "2023-10-26 12:27:15",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-10-26 12:27:15",
       "album": {
-        "name": "Syrup",
-        "url": "https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 188654,
-      "name": "Syrup",
-      "url": "https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff"
-    },
-    {
-      "added_at": "2023-10-26 12:27:15",
-      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 139741,
       "name": "WHATS POPPIN",
       "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
+    },
+    {
+      "added_at": "2023-10-26 12:27:15",
+      "album": {
+        "name": "Syrup",
+        "url": "https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 188654,
+      "name": "Syrup",
+      "url": "https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff"
     },
     {
       "added_at": "2023-10-26 12:27:15",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-10-26 12:27:15",
       "album": {
-        "name": "Pel\u00e9",
-        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
-        }
-      ],
-      "duration_ms": 133858,
-      "name": "Pel\u00e9",
-      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2023-10-26 12:27:15",
-      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 143375,
       "name": "Spicy (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
+    },
+    {
+      "added_at": "2023-10-26 12:27:15",
+      "album": {
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "duration_ms": 133858,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
       "added_at": "2023-10-26 12:27:15",

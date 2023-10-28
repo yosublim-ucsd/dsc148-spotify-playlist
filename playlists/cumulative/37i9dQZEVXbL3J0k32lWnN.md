@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,262 songs - 2 day 17 hr 53 min
+1,263 songs - 2 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 | 2021-11-05 | 2022-02-20 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:05 | 2022-06-04 | 2022-06-19 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-14 | 2022-06-05 |
-| [Copenhagen](https://open.spotify.com/track/1ic0b3srMKuadfg4z9TSLK) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:46 | 2023-10-14 |  |
+| [Copenhagen](https://open.spotify.com/track/1ic0b3srMKuadfg4z9TSLK) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:46 | 2023-10-14 | 2023-10-28 |
 | [COSA NOSTRA](https://open.spotify.com/track/02mMmj7gfNXb7Z1OuqgoYj) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:34 | 2021-09-25 | 2021-10-03 |
 | [Count Me Out](https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:43 | 2022-05-14 | 2022-05-21 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-08 | 2023-05-14 |
@@ -410,6 +410,7 @@
 | [Fuld Dominans](https://open.spotify.com/track/4EMHfX4rQ8kueS1buqtHsk) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [Ancient Aliens](https://open.spotify.com/album/28IluAyMTOOBzrMs8NKTUl) | 5:28 | 2023-09-18 | 2023-09-20 |
 | [føler mig selv 100](https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [føler mig selv 100](https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF) | 3:27 | 2021-03-29 | 2023-04-26 |
 | [Føles Godt \(feat\. Mekdes\)](https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Føles Godt](https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX) | 2:50 | 2023-04-21 |  |
+| [Første Dag](https://open.spotify.com/track/2XxRgaOO73AtKS3bPciDSL) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Første Dag](https://open.spotify.com/album/4UlublRVVPERXTBrzYjhWo) | 3:13 | 2023-10-27 |  |
 | [Gamle Vaner](https://open.spotify.com/track/1cSuZS4kWkpDRCXpMLDfsp) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 1:40 | 2021-05-30 | 2021-05-31 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-02 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-15 |

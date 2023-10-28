@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 87500,
+  "num_followers": 87541,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2IwYTc0MWRjMDM0MDIxMzVhNmE3ZTk3OWZjYWY2MGYzYTBkYTMz",
+  "snapshot_id": "MCxkMDFmOTNkYWFlZDBhM2M0OGI1NmM2YmU4OWE0YmNiMjcyNDc3ZmMz",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Dreaming in Electric Blue",
-        "url": "https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 192005,
-      "name": "Dreaming in Electric Blue",
-      "url": "https://open.spotify.com/track/680DQctfdFDsuO0Dt1QV3a"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Out of Body",
         "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 267213,
       "name": "Survival (feat. Drew Holcomb & Ellie Holcomb)",
       "url": "https://open.spotify.com/track/4os91DjSzBTVk2GaPtkrMp"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Dreaming in Electric Blue",
+        "url": "https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 192005,
+      "name": "Dreaming in Electric Blue",
+      "url": "https://open.spotify.com/track/680DQctfdFDsuO0Dt1QV3a"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Carrollton",
-        "url": "https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf"
-      },
-      "artists": [
-        {
-          "name": "Carrollton",
-          "url": "https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs"
-        }
-      ],
-      "duration_ms": 232683,
-      "name": "Not Afraid Of The Dark",
-      "url": "https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Like Myself",
         "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 148571,
       "name": "Like Myself",
       "url": "https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Carrollton",
+        "url": "https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf"
+      },
+      "artists": [
+        {
+          "name": "Carrollton",
+          "url": "https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs"
+        }
+      ],
+      "duration_ms": 232683,
+      "name": "Not Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "THRESHOLDS",
+        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
+      },
+      "artists": [
+        {
+          "name": "Mike Edel",
+          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Go With You",
+      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Grateful (feat. Poo Bear)",
         "url": "https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 246081,
       "name": "Grateful (feat. Poo Bear)",
       "url": "https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "THRESHOLDS",
-        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
-      },
-      "artists": [
-        {
-          "name": "Mike Edel",
-          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Go With You",
-      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
+      },
+      "artists": [
+        {
+          "name": "Molly Kate Kestner",
+          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Unshackled",
         "url": "https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 198026,
       "name": "Constellate",
       "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Compromise",
-        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
-      },
-      "artists": [
-        {
-          "name": "Molly Kate Kestner",
-          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "Compromise",
-      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
     },
     {
       "added_at": "2020-09-04 04:02:00",

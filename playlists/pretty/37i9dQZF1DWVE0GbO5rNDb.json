@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023! \u2600\ufe0f\ud83c\udf79\ud83c\udfdd\ufe0f",
-  "num_followers": 101990,
+  "num_followers": 102030,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODMyMTZhZGE1MDcyYmNmZWQ5ZmI4NWE2MDI5OWM1YTBmNjhjOGZh",
+  "snapshot_id": "MCw4MGYyZDYwYWVjMzI0ZDFkMjM1MjUxZDJlZDkyMmZhYzRjMWM0Njgy",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -271,26 +271,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Car Keys (Ayla)",
-        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 147211,
-      "name": "Car Keys (Ayla)",
-      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -339,22 +339,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+        "name": "Car Keys (Ayla)",
+        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+      "duration_ms": 147211,
+      "name": "Car Keys (Ayla)",
+      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+      "duration_ms": 230945,
+      "name": "Won't Forget You (Edit)",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+        "name": "Marea (we\u2019ve lost dancing)",
+        "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
         }
       ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You (Edit)",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+      "duration_ms": 285375,
+      "name": "Marea (we\u2019ve lost dancing)",
+      "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Marea (we\u2019ve lost dancing)",
-        "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 285375,
-      "name": "Marea (we\u2019ve lost dancing)",
-      "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -783,6 +763,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "See Your Face (feat. Electric Fields)",
         "url": "https://open.spotify.com/album/2Ldc0NaOt4KCtMsaaCpwi9"
       },
@@ -799,22 +795,6 @@
       "duration_ms": 221695,
       "name": "See Your Face (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/4Pbmk0yGKoDJm3kdMg3JWI"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -843,26 +823,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Bless Me (with Discrete)",
-        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "Bless Me (with Discrete)",
-      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "What It Feels Like",
         "url": "https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5"
       },
@@ -883,6 +843,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Bless Me (with Discrete)",
+        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "Bless Me (with Discrete)",
+      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Easy On My Heart",
         "url": "https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab"
       },
@@ -895,26 +875,6 @@
       "duration_ms": 178593,
       "name": "Easy On My Heart",
       "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Off My Mind",
-        "url": "https://open.spotify.com/album/2wfCtn1trmG5Vtq5emR0jc"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "SAM WHITE",
-          "url": "https://open.spotify.com/artist/1YPTXq9n1T2Zlw3dLR3Zdf"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "Off My Mind",
-      "url": "https://open.spotify.com/track/2S2uzei41Epnb1TndFTS9l"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -939,6 +899,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Off My Mind",
+        "url": "https://open.spotify.com/album/2wfCtn1trmG5Vtq5emR0jc"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "SAM WHITE",
+          "url": "https://open.spotify.com/artist/1YPTXq9n1T2Zlw3dLR3Zdf"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/2S2uzei41Epnb1TndFTS9l"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Some Say (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
@@ -955,6 +935,22 @@
       "duration_ms": 186878,
       "name": "Some Say - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Baila Conmigo",
+        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -979,18 +975,30 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Baila Conmigo",
-        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
+        "name": "So Close (feat. Georgia Ku)",
+        "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Captain Cuts",
+          "url": "https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
         }
       ],
-      "duration_ms": 146249,
-      "name": "Baila Conmigo",
-      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
+      "duration_ms": 190302,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1039,34 +1047,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "So Close (feat. Georgia Ku)",
-        "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Captain Cuts",
-          "url": "https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 190302,
-      "name": "So Close",
-      "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -1111,22 +1091,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/1fWvjg33oklUf7Y9qzhpJp"
-      },
-      "artists": [
-        {
-          "name": "Jamie Unknown",
-          "url": "https://open.spotify.com/artist/36R06i2wVdVfHNfyyGtrzF"
-        }
-      ],
-      "duration_ms": 215294,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/6pvWQ658tA5tXa07TGAb0i"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
       },
@@ -1139,6 +1103,22 @@
       "duration_ms": 196224,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/1fWvjg33oklUf7Y9qzhpJp"
+      },
+      "artists": [
+        {
+          "name": "Jamie Unknown",
+          "url": "https://open.spotify.com/artist/36R06i2wVdVfHNfyyGtrzF"
+        }
+      ],
+      "duration_ms": 215294,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/6pvWQ658tA5tXa07TGAb0i"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1159,18 +1139,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
       "artists": [
         {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
+      "duration_ms": 129817,
+      "name": "Hot In It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 188731,
       "name": "Run",
       "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Sun Will Shine",
-        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Sun Will Shine",
-      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "So Far So Good",
         "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
       },
@@ -1427,22 +1407,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+        "name": "Sun Will Shine",
+        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
       },
       "artists": [
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
         }
       ],
-      "duration_ms": 192614,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
+      "duration_ms": 201700,
+      "name": "Sun Will Shine",
+      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1463,6 +1443,26 @@
       "duration_ms": 203946,
       "name": "Stop This Flame - Celeste x MK",
       "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 192614,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1575,22 +1575,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "I Need to Know (feat. Flynn)",
-        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
+        "name": "World, Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
         },
         {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         }
       ],
-      "duration_ms": 155519,
-      "name": "I Need to Know (feat. Flynn)",
-      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
+      "duration_ms": 178304,
+      "name": "World, Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1619,26 +1623,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "World, Hold On (FISHER Rework)",
-        "url": "https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3"
+        "name": "I Need to Know (feat. Flynn)",
+        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
         },
         {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
         }
       ],
-      "duration_ms": 178304,
-      "name": "World, Hold On - FISHER Rework",
-      "url": "https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1"
+      "duration_ms": 155519,
+      "name": "I Need to Know (feat. Flynn)",
+      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1755,22 +1755,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Leave A Little Love",
-        "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         },
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         }
       ],
-      "duration_ms": 187029,
-      "name": "Leave A Little Love",
-      "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
+      "duration_ms": 197573,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 284886,
       "name": "Fresh - House of Prayers Poolside Edit",
       "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Leave A Little Love",
+        "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 187029,
+      "name": "Leave A Little Love",
+      "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1999,6 +1999,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -2015,26 +2035,6 @@
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Legit",
-        "url": "https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH"
-      },
-      "artists": [
-        {
-          "name": "Erlandsson",
-          "url": "https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm"
-        },
-        {
-          "name": "The High",
-          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Legit",
-      "url": "https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz"
     }
   ],
   "unique_name": "Estate Dance",

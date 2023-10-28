@@ -1989,6 +1989,28 @@
     },
     {
       "album": {
+        "name": "Heart To Break",
+        "url": "https://open.spotify.com/album/6RWa7xGVC3i21oEpbScePa"
+      },
+      "artists": [
+        {
+          "name": "PRATAMA",
+          "url": "https://open.spotify.com/artist/7bts4mZSgz00gAAyL8Kb6M"
+        },
+        {
+          "name": "Tweellve",
+          "url": "https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203906,
+      "name": "Heart To Break",
+      "url": "https://open.spotify.com/track/7atMbgCHuRqcC5IlzJ1ZCs"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/1aWLROPBF29zW8hahI43J0"
       },

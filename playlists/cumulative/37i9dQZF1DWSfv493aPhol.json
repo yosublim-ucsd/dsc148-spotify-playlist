@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 303426,
       "name": "Emojis de Corazones (feat. Los Legendarios)",
       "url": "https://open.spotify.com/track/5Mw46yRtdiOdjqSG0eDItr"
@@ -1392,6 +1392,28 @@
       "duration_ms": 159381,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
+    },
+    {
+      "album": {
+        "name": "FATAL FANTASSY",
+        "url": "https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "FATAL FANTASSY",
+      "url": "https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh"
     },
     {
       "album": {

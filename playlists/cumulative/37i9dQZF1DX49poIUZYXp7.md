@@ -2,9 +2,9 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Tenille Townes
+> The extraordinary women making great country music today\. Cover: Carly Pearce
 
-343 songs - 18 hr 46 min
+345 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Get My Shit Together](https://open.spotify.com/track/1QY5PMjs1fXc9hbgjJZ01R) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Get My Shit Together](https://open.spotify.com/album/0Jef9w9ZIQ2uVMde5W7kUT) | 3:26 | 2021-12-01 | 2022-03-01 |
 | [Getting Good](https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Getting Good](https://open.spotify.com/album/5dWadf8VCafr7fXtBFYcbd) | 3:21 | 2021-12-01 | 2022-07-28 |
 | [Getting Over Him](https://open.spotify.com/track/0OCY4cY7ZhmFMLR8Zipb51) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Getting Over Him](https://open.spotify.com/album/5Nnd51BWrdzEI2xTkTvjQ4) | 2:47 | 2021-12-01 | 2022-09-03 |
-| [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-04-08 |  |
+| [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-04-08 | 2023-10-28 |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-02-17 |  |
 | [Girl Go](https://open.spotify.com/track/3dpq9duXCd1E5wbOjIL4DG) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Girl Go](https://open.spotify.com/album/384TelfAeK7dD1Is1k1u3b) | 3:11 | 2021-12-01 | 2022-07-29 |
 | [Girl Who Didn't Care](https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Girl Who Didn't Care](https://open.spotify.com/album/40Y4YFAKYGg0vP0gvG7M90) | 3:12 | 2021-12-01 | 2022-09-17 |
@@ -117,6 +117,7 @@
 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 | 2022-04-08 |  |
 | [Heavenly](https://open.spotify.com/track/0fx1Oyto2wN6gLenluWyYJ) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Heavenly](https://open.spotify.com/album/2M5Y6YoELhOhQcgY1nGL9X) | 3:12 | 2022-02-04 | 2022-10-13 |
 | [Heavyweight](https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Heavyweight](https://open.spotify.com/album/1llat1Rc2C5UKq6G6bSU51) | 3:37 | 2021-12-01 | 2022-06-30 |
+| [Heels Over Head](https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Heels Over Head](https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt) | 3:14 | 2023-10-27 |  |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-03-02 | 2022-07-29 |
 | [History Of Repeating](https://open.spotify.com/track/49BOywRTICAn5UxVoTtt3L) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [History Of Repeating](https://open.spotify.com/album/51gd1r5IT0mPSJ0iajOwN1) | 3:14 | 2023-09-22 |  |
 | [Holding Out For A Cowboy](https://open.spotify.com/track/1q9RqY2hjH5e8U3NrrjWpN) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Holding Out For A Cowboy](https://open.spotify.com/album/4UQ2Y5t92FjXIjeIY9PKzR) | 3:30 | 2021-12-01 | 2022-07-27 |
@@ -196,6 +197,7 @@
 | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/4BQxMO6PoNJzY410N8YjsT) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/album/3rw1zkeAmrZvDd60WwAJgj) | 3:25 | 2023-06-23 | 2023-07-01 |
 | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/73vGr4FjFvY2TgndujZYDa) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:25 | 2023-07-14 |  |
 | [Mean Something](https://open.spotify.com/track/2z0GgJjQShQbEWwfXlfrzW) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:14 | 2021-12-01 | 2022-06-30 |
+| [Melt](https://open.spotify.com/track/1clurKfZZ1ScMCJIb6RUck) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Melt](https://open.spotify.com/album/2y0nOvxDP9sQ4fwUvUKM45) | 3:27 | 2023-10-27 |  |
 | [Miss Me More](https://open.spotify.com/track/4ZwLDLTkFfy45yYA39kYOQ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Miss Me More](https://open.spotify.com/album/39wJJPpL0ukNLWsU2Z3XIv) | 3:12 | 2021-12-01 | 2022-07-28 |
 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 | 2022-07-22 |  |
 | [Miss Us Then](https://open.spotify.com/track/3v7t1HDVDKCwa5QB9GUy4I) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Miss Us Then](https://open.spotify.com/album/4NmOlKfPRKxL8Oe1pFKnnw) | 3:13 | 2022-03-25 | 2022-04-20 |
@@ -291,7 +293,7 @@
 | [The Girl I Was](https://open.spotify.com/track/1vDIn9JZ1fxRL5zkmyTFvy) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [The Girl I Was](https://open.spotify.com/album/3rKxMNBmnC7PhoRvUZNyvY) | 3:38 | 2023-07-14 |  |
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2021-12-01 |  |
 | [The Last One](https://open.spotify.com/track/0GG6NLm8QLCV55TPXrBkUK) | [Regan Stewart](https://open.spotify.com/artist/0ni8Vfv1R0NcA0bkAaa9tE) | [The Last One](https://open.spotify.com/album/1j4HCkPYegl1wGFwMrF9G9) | 3:29 | 2022-03-25 | 2022-04-17 |
-| [The Last Time](https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Last Time](https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo) | 3:30 | 2023-03-31 |  |
+| [The Last Time](https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Last Time](https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo) | 3:30 | 2023-03-31 | 2023-10-28 |
 | [The Neon](https://open.spotify.com/track/3TVC6xnaZ9A7sljAn96Xsk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Neon](https://open.spotify.com/album/7CQGgKnzZNeP8ej48hOYng) | 3:34 | 2022-03-01 | 2022-07-03 |
 | [The Night \(Part 2\)](https://open.spotify.com/track/4GVIjpSUWDTv2vLGetJAuF) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [The Night Part 1 & 2](https://open.spotify.com/album/3tnZZseudiVenMD2sVAQk8) | 3:20 | 2023-03-01 | 2023-04-19 |
 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 | 2022-03-02 | 2022-07-29 |

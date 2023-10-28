@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Stony
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,195 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,277 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 18 | [Mélodie](https://open.spotify.com/track/4ZO1Hmv2h3bmDp3Sxy8z2d) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6), [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC) | [Corps à corps](https://open.spotify.com/album/5d5N6iuCaYio9EGBxDkYyg) | 2:58 |
 | 19 | [Baby Oh](https://open.spotify.com/track/6w08Z9Jgjkh1A4jjbhZKZg) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Baby Oh](https://open.spotify.com/album/5Ru2z5Wz4hgmle5aexU4pM) | 2:37 |
 | 20 | [On a changé](https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [On a changé](https://open.spotify.com/album/3zrtguwuRFGcshPO6QGON6) | 2:41 |
-| 21 | [Jessica \(Island Remix\)](https://open.spotify.com/track/0RUPASmo0mJgjOx30NoYO5) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Jessica](https://open.spotify.com/album/1hoA7oUcaigr1g671sYAz8) | 2:51 |
+| 21 | [Jessica \(Island Remix\)](https://open.spotify.com/track/0RUPASmo0mJgjOx30NoYO5) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Jessica \(Island Remix\)](https://open.spotify.com/album/1hoA7oUcaigr1g671sYAz8) | 2:51 |
 | 22 | [Limbisa \- Kriolu Version](https://open.spotify.com/track/0e8djkn3TGLjP9VstMyOZt) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Limbisa \(Kriolu Version\)](https://open.spotify.com/album/7EqW8r7VH9W0E2JeQAcfq1) | 2:43 |
 | 23 | [Nous deux](https://open.spotify.com/track/0szzlgPOFtP4zkT0PwCYhm) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Nous deux](https://open.spotify.com/album/71F50RsJ4zLG8TgmYRVppT) | 3:19 |
 | 24 | [Visa](https://open.spotify.com/track/5DBZASQQb9BjZeYyjuA1WG) | [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Visa](https://open.spotify.com/album/0SAjOy3Wii7Tet7MIA7Sia) | 3:41 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Kè m Nan Men w](https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Kè m Nan Men w](https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76) | 4:35 |
 | 40 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 |
 
-Snapshot ID: `MCxhNGMyOTA5YzM4YjllODE2ZmY0OTlmZTI0NmZkYTJkN2FiYzI0NDVl`
+Snapshot ID: `MCwwYjJjYTgxMDQxNTcwMGEzYTdjM2Y5YzNiYmViMDg5MDM5ODU0OTE4`

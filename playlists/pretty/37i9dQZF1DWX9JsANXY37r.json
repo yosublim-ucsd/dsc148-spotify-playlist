@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 116748,
+  "num_followers": 116815,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWNmNDcyYWYxMmE3ZThkMTJhMzI3MjJmNjEyZjAyNTcxZjM3MGI5",
+  "snapshot_id": "MCw2YjE5ZGUwODNiYTIxYmUwNzQ1NTJkYTUyNjA2MTYxZTMyODU1MTI3",
   "tracks": [
     {
       "added_at": "2023-08-18 17:57:01",
@@ -791,18 +791,22 @@
     {
       "added_at": "2023-08-18 17:57:01",
       "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+        "name": "Pressure (with SG Lewis)",
+        "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 247455,
-      "name": "Ruthless",
-      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
+      "duration_ms": 169411,
+      "name": "Pressure (with SG Lewis)",
+      "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
     },
     {
       "added_at": "2023-08-18 17:57:01",
@@ -823,22 +827,18 @@
     {
       "added_at": "2023-08-18 17:57:01",
       "album": {
-        "name": "Pressure (with SG Lewis)",
-        "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
       },
       "artists": [
         {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Pressure (with SG Lewis)",
-      "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
+      "duration_ms": 247455,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
     },
     {
       "added_at": "2023-08-18 17:57:01",

@@ -2,13 +2,14 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Jasiel Nuñez & DannyLux en portada.
 
-232 songs - 13 hr 6 min
+235 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$AD BOYZ II](https://open.spotify.com/track/68cUJFq7aAbgeurngTmngL) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:28 | 2023-10-06 |  |
+| [100 Millas \(En Vivo\)](https://open.spotify.com/track/6EcLxxKgtYaTcrHwCw8fcd) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [100 Millas \(En Vivo\)](https://open.spotify.com/album/003vc3E77TtvcjWX6oVa8F) | 3:38 | 2023-10-27 |  |
 | [1004 Kilómetros](https://open.spotify.com/track/0pt0wjZNeFOMIeCudmXRrl) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Edición Mexico](https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv) | 4:37 | 2021-11-22 | 2022-07-09 |
 | [1004 KM](https://open.spotify.com/track/54udnumOCHpq4SRpbKleat) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:42 | 2023-05-12 |  |
 | [123](https://open.spotify.com/track/2HpaoTOD7dojn7e7S0NLzc) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [123](https://open.spotify.com/album/5Uj1vT6mKxxDjuzUb5DQFC) | 3:33 | 2023-07-14 | 2023-08-26 |
@@ -53,7 +54,7 @@
 | [Dices Que Me Quieres](https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente \(Vol 2\)](https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN) | 3:36 | 2022-11-11 | 2023-01-28 |
 | [Distantes](https://open.spotify.com/track/0o3DbryDgbWANJNZJo8x9R) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Distantes](https://open.spotify.com/album/2bLiF7ZGHwIHco3WGb9vsM) | 3:33 | 2022-06-24 | 2022-08-06 |
 | [Donde Estás](https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Donde Estás](https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb) | 4:09 | 2023-10-13 |  |
-| [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 | 2023-09-08 |  |
+| [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 | 2023-09-08 | 2023-10-28 |
 | [DOS MORRITAS](https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:58 | 2022-05-06 | 2022-06-25 |
 | [Dulcito e Coco](https://open.spotify.com/track/3tD4abUOGHZHeL1eOl0gyy) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Dulcito e Coco](https://open.spotify.com/album/74yUD8QPWPKOFsyLS93g92) | 3:18 | 2022-06-24 | 2022-11-26 |
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-10 | 2023-05-27 |
@@ -140,7 +141,7 @@
 | [No te comparas](https://open.spotify.com/track/7HyCxqj6QSH6XDpyfooAlo) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [Corazón Confundido](https://open.spotify.com/album/5TCnntTixw3ZRlIfghFYzE) | 3:43 | 2023-06-16 | 2023-07-15 |
 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 | 2022-09-02 | 2023-07-01 |
 | [No Tengo Escape](https://open.spotify.com/track/7vHICHFIVRi5lTMaAOPEoB) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Una Ocasión De Verano](https://open.spotify.com/album/5DYMmAQ5sUT2eXmmGReLfO) | 2:35 | 2022-08-05 | 2023-01-28 |
-| [Normal](https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Jupiter](https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K) | 3:02 | 2023-07-07 |  |
+| [Normal](https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Jupiter](https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K) | 3:02 | 2023-07-07 | 2023-10-28 |
 | [Nuestra Felicidad](https://open.spotify.com/track/7f2mAgfVjPp2m0hfVKrHN9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:18 | 2021-11-26 | 2022-07-09 |
 | [Nuestras metas](https://open.spotify.com/track/3jAm5zs7oSKWv5UkrTFYBQ) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Nuestras metas](https://open.spotify.com/album/1K1EUCVp9qWENfEG0ShLBK) | 4:14 | 2022-05-23 | 2023-07-15 |
 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 | 2023-10-13 |  |
@@ -167,7 +168,7 @@
 | [Que Linda Se Le Ve](https://open.spotify.com/track/2OqxU44QdNmVanpNxqHBbe) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Que Linda Se Le Ve](https://open.spotify.com/album/7Jjms4SHlgcXgiK9aZKO2O) | 3:12 | 2023-09-22 | 2023-10-14 |
 | [Que Me Hiciste](https://open.spotify.com/track/7DODSQw9dsnwETuU1UtlSn) | [Estilo Noreste](https://open.spotify.com/artist/1vdVGzUNrVi6PFCUTeFY7r) | [Que Me Hiciste](https://open.spotify.com/album/7vUpsaiqHYSAo9PUqharum) | 4:07 | 2022-07-08 | 2023-02-25 |
 | [Que Te Vas](https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:26 | 2021-11-22 | 2022-07-09 |
-| [Quiero Saber](https://open.spotify.com/track/7i7CIvRUCMtHiB2EtvXgcv) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Quiero Saber](https://open.spotify.com/album/2YrzNSfq5RgieOYHuuIboJ) | 3:05 | 2023-10-06 |  |
+| [Quiero Saber](https://open.spotify.com/track/7i7CIvRUCMtHiB2EtvXgcv) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Quiero Saber](https://open.spotify.com/album/2YrzNSfq5RgieOYHuuIboJ) | 3:05 | 2023-10-06 | 2023-10-28 |
 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \(Remix\)](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 | 2023-06-23 | 2023-09-23 |
 | [Qué Te Pasó](https://open.spotify.com/track/7BVHWUOsmn3NcptPMpQ8vo) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Qué Te Pasó](https://open.spotify.com/album/3rqTW2aAuGgzRY4uOUYEMx) | 2:58 | 2022-08-05 | 2023-01-14 |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2023-10-13 |  |
@@ -195,9 +196,11 @@
 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 | 2022-07-22 | 2023-08-05 |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-03-28 | 2022-07-29 |
 | [Substancias](https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Substancias](https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb) | 3:24 | 2022-06-10 | 2022-11-26 |
+| [Sueño Lucido](https://open.spotify.com/track/3U48aBGPmYVfxnJrT820mS) | [Hermanos De La Vibra](https://open.spotify.com/artist/24iikwybit4U9z1Jv1pzNm) | [Sueño Lucido](https://open.spotify.com/album/3GadQKd7mqLM3ugvfY9SqO) | 3:05 | 2023-10-27 |  |
 | [Sueños Encontrados](https://open.spotify.com/track/4woSlUDnWJQK6fKvGMxnne) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Sueños Encontrados](https://open.spotify.com/album/7dTwMNd9TJrsx4zjpKwKmt) | 3:09 | 2022-03-07 | 2022-05-24 |
 | [Sufro Sin Ti](https://open.spotify.com/track/4GIsUzUtNNZP891PHfnCcD) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Sufro Sin Ti](https://open.spotify.com/album/7vKjcKHK1pziNP4hvDfq9U) | 2:39 | 2022-04-22 | 2022-05-28 |
 | [Superando](https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB) | [Angel Arevalo](https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV) | [Superando...y Mas](https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7) | 4:20 | 2023-06-09 | 2023-08-05 |
+| [Tal Vez Mañana](https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 3:33 | 2023-10-27 |  |
 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 | 2023-01-13 |  |
 | [Te Creí](https://open.spotify.com/track/4lO8cuxrYtgMGe15RJpm0f) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Te Creí](https://open.spotify.com/album/0yNjMJrt4BgcK3VTp4HUHT) | 3:57 | 2023-06-23 | 2023-09-23 |
 | [Te Excitas](https://open.spotify.com/track/4UD4wSysN1dcnV79Zlp1Jz) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [Te Excitas \(Single\)](https://open.spotify.com/album/7m7CAVltTzxH9ZYYR0dWhQ) | 5:38 | 2023-02-17 | 2023-03-18 |

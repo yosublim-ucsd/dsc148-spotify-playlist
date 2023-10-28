@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,868 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,897 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 40 | [Huwag Na Lang Kaya](https://open.spotify.com/track/6v5gynE8gZcLwipN1UjCaD) | [True Faith](https://open.spotify.com/artist/6RV3CKY0UJIPKXyGs85Thm) | [Beyond Doubt](https://open.spotify.com/album/7AetQy7fe8Nt13bSJCELXH) | 3:31 |
 | 41 | [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 |
 | 42 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 |
-| 43 | [Kahit Di Mo Alam](https://open.spotify.com/track/6GIzDc4xBUeYHwubWwTrhC) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Kahit Di Mo Alam](https://open.spotify.com/album/1aUdCxhin4mQevKWVLrtNN) | 4:42 |
-| 44 | [Halfway There](https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Halfway There](https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg) | 2:35 |
-| 45 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 |
+| 43 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 |
+| 44 | [Kahit Di Mo Alam](https://open.spotify.com/track/6GIzDc4xBUeYHwubWwTrhC) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Kahit Di Mo Alam](https://open.spotify.com/album/1aUdCxhin4mQevKWVLrtNN) | 4:42 |
+| 45 | [Halfway There](https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Halfway There](https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg) | 2:35 |
 | 46 | [Till My Heartaches End \- From "The Significant Other"](https://open.spotify.com/track/5nWswD8icrEB76JAckDoxY) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Till My Heartaches End \(From "The Significant Other"\)](https://open.spotify.com/album/7KcUkMbUny7VAOzGjIkFhJ) | 4:16 |
-| 47 | [Could Be Something](https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Could Be Something](https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI) | 3:16 |
-| 48 | [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/track/2wffLiu6MCIL4TQd7hvf5m) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI) | 4:22 |
-| 49 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 |
+| 47 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 |
+| 48 | [Could Be Something](https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Could Be Something](https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI) | 3:16 |
+| 49 | [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/track/2wffLiu6MCIL4TQd7hvf5m) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI) | 4:22 |
 | 50 | [Catriona](https://open.spotify.com/track/4YMfE4r1JWADFw2Fn74XW2) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw) | [Catriona](https://open.spotify.com/album/6epJqGK57I0W0PMN2kyTso) | 3:24 |
 
-Snapshot ID: `MCw0OGYzYzY1YmEwYjdiODc5ZDg5Y2UwZmEwNmYzZjRiZmNlMmZhMzkx`
+Snapshot ID: `MCw2MjQ5ZWJiNjlmZDVjMjgzOTI2ZWJkMmMzYjU5ZDMxZGRlNzVkMjcz`

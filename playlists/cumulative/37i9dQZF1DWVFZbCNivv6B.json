@@ -3783,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Imaginando Voy",
+        "url": "https://open.spotify.com/album/2LrxtY5hsCCZFKIq5VmNbh"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162866,
+      "name": "Imaginando Voy",
+      "url": "https://open.spotify.com/track/2woVDlN4GzCB2LUQSd4QAA"
+    },
+    {
+      "album": {
         "name": "INTACHABLE",
         "url": "https://open.spotify.com/album/2QTOMPn2LhgdaUdZ01cIWX"
       },
@@ -6384,7 +6402,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 226280,
       "name": "Pesadilla en el Cielo",
       "url": "https://open.spotify.com/track/1Ca6Oy2hd13ZlGTvmXgAGH"
@@ -7299,6 +7317,28 @@
     },
     {
       "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
+    },
+    {
+      "album": {
         "name": "Claridad",
         "url": "https://open.spotify.com/album/4vE4DvXmBT3N9I0lSv5snI"
       },
@@ -8160,7 +8200,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 198000,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3t7VkGSIUSUgXBhSGeRrnU"

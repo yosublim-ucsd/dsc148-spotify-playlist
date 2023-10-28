@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 123879,
+  "num_followers": 123961,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Nzk5YzI4M2FiNDA3OWU5N2U0M2MwOTVmNGZiMGU2ZmViYjU1NTA3",
+  "snapshot_id": "MCxkYmNkMjlhY2ZiZWE4N2UzMWRiNWY2ZDkwOGZmNmMyMDJjYzQ3NDMx",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -427,6 +427,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "A River In The Desert",
+        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "The East from the West",
+      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 220773,
       "name": "Creepin'",
       "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Touchdown",
-        "url": "https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6"
-      },
-      "artists": [
-        {
-          "name": "Bob James",
-          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
-        }
-      ],
-      "duration_ms": 344773,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -475,18 +475,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "A River In The Desert",
-        "url": "https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX"
+        "name": "Touchdown",
+        "url": "https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6"
       },
       "artists": [
         {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+          "name": "Bob James",
+          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
         }
       ],
-      "duration_ms": 338933,
-      "name": "The East from the West",
-      "url": "https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O"
+      "duration_ms": 344773,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Just Between Us",
-      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "The Power Of Touch",
         "url": "https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9"
       },
@@ -571,22 +555,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Urban Knights",
-        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
-      },
-      "artists": [
-        {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
-        }
-      ],
-      "duration_ms": 437133,
-      "name": "Hearts Of Longing",
-      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Long Night Out",
         "url": "https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC"
       },
@@ -599,6 +567,38 @@
       "duration_ms": 334160,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Urban Knights",
+        "url": "https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW"
+      },
+      "artists": [
+        {
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
+        }
+      ],
+      "duration_ms": 437133,
+      "name": "Hearts Of Longing",
+      "url": "https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "East",
-        "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
-      },
-      "artists": [
-        {
-          "name": "Hiroshima",
-          "url": "https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc"
-        }
-      ],
-      "duration_ms": 327733,
-      "name": "Daydreamer",
-      "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Intimacy",
         "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 256933,
       "name": "Just Hold Me",
       "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "East",
+        "url": "https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT"
+      },
+      "artists": [
+        {
+          "name": "Hiroshima",
+          "url": "https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc"
+        }
+      ],
+      "duration_ms": 327733,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19"
     },
     {
       "added_at": "2020-08-19 00:00:21",

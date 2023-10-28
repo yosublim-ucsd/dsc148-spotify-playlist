@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-163 songs - 9 hr 24 min
+164 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-21 |  |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 4:13 | 2022-12-21 | 2022-12-29 |
 | [Something New](https://open.spotify.com/track/3vs3XiQGucSykqp8AbfYY7) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Something New](https://open.spotify.com/album/4XWeyoqL8oLXPIuuyFkm9Y) | 4:10 | 2022-12-21 | 2023-05-18 |
+| [Start Over](https://open.spotify.com/track/0Xxa8lYebLD3EPYUUqfikf) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Start Over](https://open.spotify.com/album/6Lq7GuN8trgDLXgqHBV0VM) | 2:54 | 2023-10-27 |  |
 | [Start over](https://open.spotify.com/track/1VYWPQx1sOyByTKTOARHZs) | [Victor Mechanick](https://open.spotify.com/artist/3GVjKlC2DChNqIEgXjSYmr) | [YUMA](https://open.spotify.com/album/2vWf2mPJe2KIsQxyEmablS) | 3:31 | 2023-06-09 |  |
 | [Stay](https://open.spotify.com/track/5QnArCvhVH3TqZGuhwycRV) | [LUHA](https://open.spotify.com/artist/5axqcjmAhPJq0CHjtu8Ztv) | [Stay](https://open.spotify.com/album/7yP4Il1RMSvzNBxKFUPuoj) | 3:44 | 2023-05-25 |  |
 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2022-12-21 | 2023-02-18 |
@@ -170,6 +171,6 @@
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-19 | 2023-06-20 |
 | [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 | 2023-01-06 | 2023-06-02 |
 | [Who Knows Where the Time Goes](https://open.spotify.com/track/6xrZRS55yzDaQclNPxwiJI) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Who Knows Where the Time Goes / Yerre Blues](https://open.spotify.com/album/3UL9xJ9KWT3BQvU8ewWvjf) | 4:26 | 2022-12-21 | 2023-02-04 |
-| [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 | 2023-04-27 |  |
+| [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 | 2023-04-27 | 2023-10-28 |
 
 \*This playlist was first scraped on 2022-12-28. Prior content cannot be recovered.

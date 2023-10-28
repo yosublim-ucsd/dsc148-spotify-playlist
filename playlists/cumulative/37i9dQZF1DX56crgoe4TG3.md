@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-244 songs - 15 hr 37 min
+245 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Gin and Juice](https://open.spotify.com/track/44eriZvPXHtb065mbCAfeg) | [Hayseed Dixie](https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi) | [Grasswhoopin' Party Pack, Vol\. 2](https://open.spotify.com/album/0CcwYASwggPkViUxIWFCUA) | 6:26 | 2021-08-20 |  |
 | [Gin and Juice](https://open.spotify.com/track/6CeszonFOlgp7HiawTSqCu) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/2Ril3zeU3IlvS6e4NQLWd2) | 6:23 | 2022-05-27 |  |
 | [Gin and Juice](https://open.spotify.com/track/7v7ytRZIWuZuNxXSGwxIhK) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/6tqUpnBCm5rYkmVdHfJjzP) | 6:23 | 2021-08-20 | 2022-07-29 |
+| [Girl From the North Country \(Bob Dylan Cover\)](https://open.spotify.com/track/2wQLflu5Z6WQE5LVEfQTQD) | [Hayde Bluegrass Orchestra](https://open.spotify.com/artist/5L3ac0hlDxpbLBj3oQq3Ly) | [Amerikakoffert](https://open.spotify.com/album/2oi19N452zDFw7zbsnRiac) | 4:18 | 2023-10-27 |  |
 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 | 2023-02-03 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/3V0vJXkBDGEZsG2mMzm32S) | [Fireside Collective](https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/1XtucozRRB6IZq6m8vj8nm) | 4:29 | 2023-03-10 |  |
 | [Graceland \(Live Session\)](https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4) | [Ramsey Thornton](https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL) | [Graceland \(Live Session\)](https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A) | 3:06 | 2023-09-22 |  |

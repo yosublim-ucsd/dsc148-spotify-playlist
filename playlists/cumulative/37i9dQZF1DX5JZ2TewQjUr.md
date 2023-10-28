@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Zelos Wong
 
-728 songs - 1 day 17 hr 10 min
+730 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [GODSROOM 殿](https://open.spotify.com/track/6cq3QFJfZMi2IReXNsJjro) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [GODSROOM 殿](https://open.spotify.com/album/6lSTMCNUXWFX1Rq5XSJGda) | 3:14 | 2023-06-22 |  |
 | [GOLDEN BOYS!](https://open.spotify.com/track/0LBjHIfdzv76vvZF4z2sAT) | [Jayj](https://open.spotify.com/artist/3kH3cdvEQ8E33l3eOQC2N9) | [GOLDEN BOYS!](https://open.spotify.com/album/4jEySCSHXFnaBLnfi41LWf) | 2:47 | 2023-05-11 | 2023-09-01 |
 | [Goodbye](https://open.spotify.com/track/0aNKJq3HKyHtC0XTadVJm6) | [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D) | [日曜日](https://open.spotify.com/album/5wuSotju31MyCj12UnI8iD) | 3:57 | 2022-09-01 | 2023-01-06 |
+| [Goodbye \(While I Still Remember You\)](https://open.spotify.com/track/4UxRLxVCveG0DrPm8tgqk1) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot), [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5) | [Goodbye \(While I Still Remember You\)](https://open.spotify.com/album/1sVlWhnJ3YcvPu2Huv026Y) | 4:00 | 2023-10-26 |  |
 | [Guaranteed](https://open.spotify.com/track/7Fu0tzqKMEZPgogTkfY9aF) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Guaranteed](https://open.spotify.com/album/4bjBunt43qGNuRyhGysUaV) | 2:55 | 2023-02-23 | 2023-03-18 |
 | [gömböc](https://open.spotify.com/track/3BzCye7qSkPzUvjITcgR6Y) | [hirsk](https://open.spotify.com/artist/1WxYe59SGsEY1e6fLII0hB), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [gömböc](https://open.spotify.com/album/3ynKmPgPzFzTT8krlAXBen) | 2:29 | 2023-03-02 | 2023-07-14 |
 | [Hang你老母 MeowMeow](https://open.spotify.com/track/42GaSRx19HNDyRBntX48Ux) | [Chrisok](https://open.spotify.com/artist/1DixYkPHal3npqnOSLyZaA) | [Hang你老母 MeowMeow](https://open.spotify.com/album/6xSiSkRW0zPgkF6r5P8F9J) | 1:52 | 2022-06-30 | 2022-09-09 |
@@ -249,6 +250,7 @@
 | [Loving You](https://open.spotify.com/track/0gTOErq4clTiWU0OIctMqH) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Loving You](https://open.spotify.com/album/0fSvXwuH5NivmGJdqaDlaR) | 2:15 | 2022-05-26 | 2022-07-29 |
 | [Lucky Girl Syndrome](https://open.spotify.com/track/3cjzj5M52Jl0u6JHNTU7z8) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lucky Girl Syndrome](https://open.spotify.com/album/4LA9YSzUkfXimeP4Tq7xmC) | 2:36 | 2023-08-10 |  |
 | [Lurch](https://open.spotify.com/track/23UHhRbTmYijznf3RTbO9O) | [The Crush](https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb) | [Lurch](https://open.spotify.com/album/3hmBRBfr7oQeDH1WjVs0uG) | 4:39 | 2023-03-16 | 2023-07-14 |
+| [M.O.B \(My Own Boss\)](https://open.spotify.com/track/7iNtZTnk5iXHYjQTZKZ4M3) | [Big Sammy](https://open.spotify.com/artist/1JsfjzT0JNGa8neELgJBhX) | [M.O.B \(My Own Biz\)](https://open.spotify.com/album/2olCQySy1I4q9w0C47fGq1) | 3:17 | 2023-10-27 |  |
 | [Magnetism of Hades Remix](https://open.spotify.com/track/2Bp5WUDxtrbF5hUwJrCfoF) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [DylanHing](https://open.spotify.com/artist/0fJGSPa3GA3WshZq490glo) | [Magnetism of Hades Remix](https://open.spotify.com/album/41uGtFXeAgO78jm5QwzBsF) | 3:30 | 2022-05-26 | 2022-09-09 |
 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 | 2023-03-16 | 2023-07-14 |
 | [Matter of a Second](https://open.spotify.com/track/7nLgGo8UT0Nd8SFi2FiDLB) | [STRAYZ](https://open.spotify.com/artist/7buoV5WKCKE71FjDvBm7l3) | [Matter of a Second](https://open.spotify.com/album/4oT2r2qDnL4wua356GdBHh) | 3:03 | 2023-05-04 | 2023-09-01 |

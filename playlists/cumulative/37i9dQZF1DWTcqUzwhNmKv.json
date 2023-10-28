@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Catch Your Breath on top of the biggest Metal playlist.",
+  "description": "Of Virtue on top of the biggest Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Cut Me Open",
+        "url": "https://open.spotify.com/album/4I6HDYKbgn6ImOpvgUqyNV"
+      },
+      "artists": [
+        {
+          "name": "Of Virtue",
+          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169553,
+      "name": "Cut Me Open",
+      "url": "https://open.spotify.com/track/0XrjH7Y2BBPCV58EnrcUPS"
+    },
+    {
+      "album": {
         "name": "Cut Throat",
         "url": "https://open.spotify.com/album/4NKyOHHQpw04ELBF9w5bur"
       },
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 208645,
       "name": "Dreamlike",
       "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
@@ -5735,6 +5753,24 @@
     },
     {
       "album": {
+        "name": "on the verge",
+        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "on the verge",
+      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
+    },
+    {
+      "album": {
         "name": "Only Human (feat. AJ Channer)",
         "url": "https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE"
       },
@@ -8076,7 +8112,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 244597,
       "name": "The Dirt I'm Buried In",
       "url": "https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw"

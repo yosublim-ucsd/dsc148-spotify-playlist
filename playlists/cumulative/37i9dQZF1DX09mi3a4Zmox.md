@@ -4,7 +4,7 @@
 
 > Música para enamorarse.
 
-185 songs - 11 hr 45 min
+186 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [El Amar y el Querer](https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 3:54 | 2022-02-01 |  |
 | [El Amor](https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 4:11 | 2022-09-06 |  |
 | [El Amor De Mi Vida](https://open.spotify.com/track/5RELLT2r8WuuLmOFBTZP2b) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [17](https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE) | 3:57 | 2021-12-06 | 2022-07-29 |
-| [El Amor Que Me Tenía \- Versión Acústica](https://open.spotify.com/track/0OzlamwH7ExWvidVp2f9oK) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Blanco](https://open.spotify.com/album/519UdgyNfgG6LCTTLNjirk) | 3:34 | 2021-12-06 |  |
+| [El Amor Que Me Tenía \- Versión Acústica](https://open.spotify.com/track/0OzlamwH7ExWvidVp2f9oK) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Blanco](https://open.spotify.com/album/519UdgyNfgG6LCTTLNjirk) | 3:34 | 2021-12-06 | 2023-10-28 |
 | [El Destino \(with Juan Gabriel\)](https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [La Absoluta Colección](https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law) | 4:44 | 2021-12-06 | 2022-07-29 |
 | [El Mismo Aire](https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:06 | 2022-02-01 |  |
 | [El Perdedor](https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 3:11 | 2021-12-06 |  |
@@ -72,6 +72,7 @@
 | [Estar contigo](https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Mentiras sinceras](https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF) | 3:52 | 2021-12-06 |  |
 | [Este Corazón](https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Nuestro Amor](https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF) | 3:30 | 2021-12-06 |  |
 | [Falta Amor](https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Falta Amor](https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m) | 3:23 | 2022-02-01 |  |
+| [Feliz Por Ti](https://open.spotify.com/track/2e2dOJMIieLvAh2g7kN9dP) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Feliz Por Ti](https://open.spotify.com/album/27XAaGZpB9Rogg30c9g9As) | 2:57 | 2023-10-27 |  |
 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 | 2022-02-01 |  |
 | [Hablemos de amor](https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:29 | 2021-12-06 | 2023-02-10 |
 | [Hasta Ese Día](https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Hasta Ese Día](https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw) | 3:23 | 2023-01-13 | 2023-04-09 |

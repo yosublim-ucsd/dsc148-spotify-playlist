@@ -4,7 +4,7 @@
 
 > Afrobeats love stories have the best beginnings
 
-357 songs - 17 hr 50 min
+358 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Dangerous Hearts](https://open.spotify.com/track/2FmOfwMOIL2WFEOcV08AKd) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Signs](https://open.spotify.com/album/6BK6S6VtshawDNE1MGT3eK) | 3:30 | 2022-12-18 | 2023-01-20 |
 | [Different](https://open.spotify.com/track/7BaPu3b5wbBtQ6Z09XL05O) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Not My Concern / Different](https://open.spotify.com/album/6sgnWlAAGZI5p1FHoWTXFE) | 2:11 | 2023-09-14 | 2023-09-29 |
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-05-26 | 2022-08-26 |
-| [Distance](https://open.spotify.com/track/0ggCD4HQ0FdHQL23yHLTBV) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Distance](https://open.spotify.com/album/31UrS5lzAhtQLtNKQqb9Hl) | 3:53 | 2023-10-27 |  |
+| [Distance](https://open.spotify.com/track/0ggCD4HQ0FdHQL23yHLTBV) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Distance](https://open.spotify.com/album/31UrS5lzAhtQLtNKQqb9Hl) | 3:53 | 2023-10-27 | 2023-10-28 |
+| [Distance](https://open.spotify.com/track/4VfXcG4R34Wu0AMsQCMQKu) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Loved Ones](https://open.spotify.com/album/2uVBRxKpcJAh0LwANbtmRa) | 3:53 | 2023-10-27 |  |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-02-11 |  |
 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2023-10-24 |
 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-27 |  |

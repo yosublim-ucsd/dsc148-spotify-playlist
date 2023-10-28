@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,364 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,420 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,15 +76,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 66 | [Tengo Lo Que Tengo](https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E) | [Tengo Lo Que Tengo](https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE) | 3:23 |
 | 67 | [Caminito](https://open.spotify.com/track/6g0HKbe7QjZTaBLAfgR8yL) | [Swing Original Monks](https://open.spotify.com/artist/1nV4bRtpwOUY2BAoxsLcpq) | [Somos](https://open.spotify.com/album/1nMVeppV67Pys7MZEoLj3T) | 3:48 |
 | 68 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/5cymR1aelP1UGn0wSsLLcq) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/05NsUQd42tUf0YWSuqZW8d) | 3:27 |
-| 69 | [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 |
+| 69 | [Mis Muertos](https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu) | 2:21 |
 | 70 | [Post Química](https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Post Química](https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR) | 3:08 |
-| 71 | [Guayaba](https://open.spotify.com/track/6Po685xMKAviFTftDPyEkk) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Anakena](https://open.spotify.com/album/6ck1uJ9NESkBlk3qCAWVtd) | 3:32 |
-| 72 | [Mis Muertos](https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu) | 2:21 |
+| 71 | [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 |
+| 72 | [Guayaba](https://open.spotify.com/track/6Po685xMKAviFTftDPyEkk) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Anakena](https://open.spotify.com/album/6ck1uJ9NESkBlk3qCAWVtd) | 3:32 |
 | 73 | [Quema](https://open.spotify.com/track/6A6cCw7LCB5ob9LRsQwc7I) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX) | 3:26 |
 | 74 | [Ghost Dance](https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 3:38 |
 | 75 | [cumbia aesthetic](https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [cumbia aesthetic](https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo) | 2:50 |
-| 76 | [Temes](https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:16 |
-| 77 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
+| 76 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
+| 77 | [Temes](https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:16 |
 | 78 | [Shulaguapa](https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Shulaguapa](https://open.spotify.com/album/5uXS2XeWDDHbWeB3lfmTzi) | 3:07 |
 | 79 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
 | 80 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 84 | [Pool Party](https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Skin and Bones](https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi) | 3:58 |
 | 85 | [Canario](https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:09 |
 | 86 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 |
-| 87 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
-| 88 | [Aguacate](https://open.spotify.com/track/6BKJgPiy3tYKnW7bIWiDej) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Aguacate](https://open.spotify.com/album/1TArVEfPbbOXvsY84OuZBh) | 3:27 |
+| 87 | [Aguacate](https://open.spotify.com/track/6BKJgPiy3tYKnW7bIWiDej) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Aguacate](https://open.spotify.com/album/1TArVEfPbbOXvsY84OuZBh) | 3:27 |
+| 88 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
 | 89 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
 | 90 | [Cambiarás](https://open.spotify.com/track/3IJX2DqFm8G6joQQsbQrqC) | [Altoparlante](https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU) | [Cambiarás](https://open.spotify.com/album/1x73tbGDGSdOSer7ctL5xl) | 4:03 |
 | 91 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 99 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 |
 | 100 | [Vértigo](https://open.spotify.com/track/227nezDEiXyyQvUyGsB2S0) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:27 |
 
-Snapshot ID: `MCwyMjBjMGRiMmM1ODcxNWQzY2M3ODBmODVhZDAyZjI0Y2JkNTI5N2Y3`
+Snapshot ID: `MCw1YjU0NjM1NzNhOGMyN2I0YTQwZjBlOGE1MmQ3MWU2NjA5MjlmMTUw`

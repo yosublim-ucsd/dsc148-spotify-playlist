@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,353 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,383 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 44 | [Autosabotear](https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Autosabotear](https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a) | 3:12 |
 | 45 | [el paso](https://open.spotify.com/track/7HcQBE9ta9PGy54XbYr3dt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Cumbialicious](https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG) | 3:05 |
 | 46 | [Oye Mi Canto \- Original mix](https://open.spotify.com/track/5AktTJkEm84tZsFxTcRNKC) | [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm) | [Oye Mi Canto](https://open.spotify.com/album/3YPTsnZGVVqjnPrliYoSuB) | 2:23 |
-| 47 | [GAS](https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [GAS](https://open.spotify.com/album/1E9i3K2aDCotq9DN9D3ZWB) | 2:27 |
-| 48 | [El Guero Bastidas \- En Vivo](https://open.spotify.com/track/0AfqrWVNOWmACxoGUjEl2N) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Guero Bastidas \(En Vivo\)](https://open.spotify.com/album/4WzSs2BDthgpsLOyohIyPt) | 3:19 |
+| 47 | [El Guero Bastidas \- En Vivo](https://open.spotify.com/track/0AfqrWVNOWmACxoGUjEl2N) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Guero Bastidas \(En Vivo\)](https://open.spotify.com/album/4WzSs2BDthgpsLOyohIyPt) | 3:19 |
+| 48 | [GAS](https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [GAS](https://open.spotify.com/album/1E9i3K2aDCotq9DN9D3ZWB) | 2:27 |
 | 49 | [Dile Que No](https://open.spotify.com/track/3kFLhQ7tOovutkhVjvc9ax) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Conjunto Brio Norteño](https://open.spotify.com/artist/0DjscwAusQfeGfhAtTjczy) | [Dile Que No](https://open.spotify.com/album/6CxhgIBZ58cKISoJWOkkBF) | 3:05 |
 | 50 | [LA TANGA](https://open.spotify.com/track/100QTgMwBISQLjrime1jF8) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [LA TANGA](https://open.spotify.com/album/0S6Z8MgGVuGxC3ubKfEQSf) | 2:18 |
 
-Snapshot ID: `MCwyNmNkNTQxMmJjNjIxZmUwOGJmNWE1OGY3YTFhYzRhYjEyYjAyNjBi`
+Snapshot ID: `MCw2NDM2OWI5OWJiNjQwZTMxOWI5ZTJkYWI2ZWRkMjAxZmZjMDVjMjAy`

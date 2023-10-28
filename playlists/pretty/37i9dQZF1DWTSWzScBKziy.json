@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 92743,
+  "num_followers": 92796,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjE4MGMwNWFjZWZlODQ0N2E3ZjlhMzJmMTdmZGQ0NTIyNDIxOGI2",
+  "snapshot_id": "MCw3MjFiNzMwOWExZTE2NTdjODNhMGVjMTczOWEwOGVlMTQyNGRkYmYw",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "I Speak Jesus",
+        "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 233301,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "The Goodness",
         "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 225228,
       "name": "The Goodness (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "I Speak Jesus",
-        "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 233301,
-      "name": "I Speak Jesus",
-      "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Fight On My Knees",
-        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        }
-      ],
-      "duration_ms": 188499,
-      "name": "Fight On My Knees",
-      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Good Feeling (Radio Version)",
         "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 161583,
       "name": "Good Feeling - Radio Version",
       "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Fight On My Knees",
+        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 188499,
+      "name": "Fight On My Knees",
+      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "a thousand shores",
-        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "a thousand shores",
-      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Show Up Choose Love",
         "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
+        "name": "a thousand shores",
+        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
       },
       "artists": [
         {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 238757,
-      "name": "We Come Alive",
-      "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
+      "duration_ms": 255586,
+      "name": "a thousand shores",
+      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 238757,
+      "name": "We Come Alive",
+      "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 184000,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Already Blessed",
-        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
-      },
-      "artists": [
-        {
-          "name": "Chidiya Ohiagu",
-          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
-        }
-      ],
-      "duration_ms": 228068,
-      "name": "Already Blessed",
-      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+        "name": "Already Blessed",
+        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
       },
       "artists": [
         {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
         }
       ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
+      "duration_ms": 228068,
+      "name": "Already Blessed",
+      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1247,6 +1231,22 @@
       "duration_ms": 203507,
       "name": "Live Out Loud",
       "url": "https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Doss",
-          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
-        }
-      ],
-      "duration_ms": 209262,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "In Good Hands",
         "url": "https://open.spotify.com/album/78YcAcIlPislZ3egxPnPOt"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 281080,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/4reyRIw1xIeMAa5lylm6ow"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Doss",
+          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
+        }
+      ],
+      "duration_ms": 209262,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "God Thing",
+        "url": "https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "God Thing",
+      "url": "https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/1IYrmNaXSihfAfvDkfwIWn"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "God Thing",
-        "url": "https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW"
+        "name": "If It Comes From You",
+        "url": "https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA"
       },
       "artists": [
         {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
         }
       ],
-      "duration_ms": 199093,
-      "name": "God Thing",
-      "url": "https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM"
+      "duration_ms": 294349,
+      "name": "If It Comes From You",
+      "url": "https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1679,22 +1695,6 @@
       "duration_ms": 254099,
       "name": "Walls",
       "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "If It Comes From You",
-        "url": "https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 294349,
-      "name": "If It Comes From You",
-      "url": "https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf"
     },
     {
       "added_at": "2022-10-29 07:17:38",

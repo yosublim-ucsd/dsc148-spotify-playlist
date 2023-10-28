@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "4#TRAX",
+        "url": "https://open.spotify.com/album/1d4UulScUQloV42jkZN4cn"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199413,
+      "name": "CAPONE",
+      "url": "https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69"
+    },
+    {
+      "album": {
         "name": "Chaos Space Marine",
         "url": "https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko"
       },
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 228750,
       "name": "Forever (Solomun Remix)",
       "url": "https://open.spotify.com/track/6Y99Pdmhbg5GhAAxwjcbhR"
@@ -1718,6 +1736,24 @@
       "duration_ms": 138951,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7"
+    },
+    {
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283074,
+      "name": "How Music Makes You Feel Better",
+      "url": "https://open.spotify.com/track/2WNdPUwVf0OFsvWfpT6jKN"
     },
     {
       "album": {
@@ -3453,6 +3489,24 @@
     },
     {
       "album": {
+        "name": "DJ Friendly",
+        "url": "https://open.spotify.com/album/0wrBtOddeFuzNoYO6aLFlx"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311671,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/2Buoe3DXKE5VL5w0JCeuQz"
+    },
+    {
+      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i"
       },
@@ -3716,7 +3770,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 175991,
       "name": "Tumbling Dice",
       "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
@@ -3770,7 +3824,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 260493,
       "name": "Up Song - Live at Bush Hall",
       "url": "https://open.spotify.com/track/3b6suhvxtWPIF0tZe5xDCL"

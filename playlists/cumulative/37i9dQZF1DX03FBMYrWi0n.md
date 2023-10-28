@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Bibi Club
 
-143 songs - 8 hr 21 min
+144 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 | 2023-02-10 | 2023-05-23 |
 | [K9](https://open.spotify.com/track/6vKKnSBuPeE7ZQLfwjW4re) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Stay Safe!](https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1) | 5:02 | 2023-06-16 | 2023-09-17 |
 | [Kaléidoscope](https://open.spotify.com/track/0Ftgq4He4Gf6llPi0sJfaY) | [Caravane](https://open.spotify.com/artist/6hCBXCqoy6C3nNddhQsWRT) | [Kaléidoscope](https://open.spotify.com/album/27nWncmd558GGghngqlC4T) | 2:07 | 2023-10-20 |  |
+| [L'heure des fontaines](https://open.spotify.com/track/1r5bR0LbpqBVHQqZvzICuJ) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [L'heure des fontaines](https://open.spotify.com/album/2bjM6zDrQDanqa1AGX2QWA) | 2:58 | 2023-10-27 |  |
 | [l'Île](https://open.spotify.com/track/10wZLG9ttpMIiYCaJsRvGs) | [Joseph Carré](https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44) | [l'Île](https://open.spotify.com/album/3AkriQvlkrwcr3Nq22hp1U) | 3:02 | 2023-06-02 | 2023-09-30 |
 | [La hiérarchill](https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 4:46 | 2023-02-10 |  |
 | [La photo](https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:39 | 2023-02-10 |  |
@@ -137,7 +138,7 @@
 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-15 |  |
 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 | 2023-08-25 |  |
 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 | 2023-03-17 | 2023-10-24 |
-| [Vitesse](https://open.spotify.com/track/4Wtf5MWtWQ0t5mSk9xwJks) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Vitesse](https://open.spotify.com/album/4Xx7ZyYbDFcHycDtffNjzf) | 3:15 | 2023-09-08 |  |
+| [Vitesse](https://open.spotify.com/track/4Wtf5MWtWQ0t5mSk9xwJks) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Vitesse](https://open.spotify.com/album/4Xx7ZyYbDFcHycDtffNjzf) | 3:15 | 2023-09-08 | 2023-10-28 |
 | [Voiture de course](https://open.spotify.com/track/5AbHwqS90lmbvhNX733j0z) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Voiture de course](https://open.spotify.com/album/7m2z2S45pCXwA8tzDV8pdK) | 3:25 | 2023-09-08 | 2023-09-27 |
 | [Wave](https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [Wave](https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE) | 3:59 | 2023-02-10 | 2023-05-20 |
 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 | 2023-03-24 |  |

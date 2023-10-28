@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Offset, Drake, Nasty C, Cardi B & Megan Thee Stallion, Doja Cat and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Kid Cudi, Offset, Drake, Nasty C, Megan Thee Stallion, Doja Cat and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -1339,6 +1339,28 @@
     },
     {
       "album": {
+        "name": "Glizock & Wizop (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192508,
+      "name": "Glizock & Wizop (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
+    },
+    {
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -1552,7 +1574,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 227184,
       "name": "Hope You Know",
       "url": "https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql"
@@ -1610,7 +1632,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -1662,6 +1684,24 @@
       "duration_ms": 152043,
       "name": "I'M THAT BITCH",
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
+    },
+    {
+      "album": {
+        "name": "ILL WHAT I BLEED",
+        "url": "https://open.spotify.com/album/13qwsJ7ZhrTSPJLN8nhBCH"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173440,
+      "name": "ILL WHAT I BLEED",
+      "url": "https://open.spotify.com/track/2k8JxnsUCkaxpE50KTGFHn"
     },
     {
       "album": {
@@ -3148,7 +3188,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 178340,
       "name": "SIMMER DOWN",
       "url": "https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5"

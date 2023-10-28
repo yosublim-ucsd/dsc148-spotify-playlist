@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 62076,
+  "num_followers": 62124,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGIyOWM1MmNhOTMwM2M0YzA0YzZhOTNlMTk1OTgwNzhjZGExN2Nh",
+  "snapshot_id": "MCwyMTE4ZTZjNDFmNzY1ZWU0MGJiM2FmZmI3MmRlNDY3OGFjYmIyZjM5",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Minha Vida \u00c9 uma Viagem 6",
+        "url": "https://open.spotify.com/album/1A7Sa3Wv1F3XhTcaLug07F"
+      },
+      "artists": [
+        {
+          "name": "Minha Vida \u00e9 Uma Viagem",
+          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
+        }
+      ],
+      "duration_ms": 231778,
+      "name": "Coral dos Bichos",
+      "url": "https://open.spotify.com/track/0pWnhGVmpCVXcKe4DZnQXR"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Reluz",
         "url": "https://open.spotify.com/album/4Oolk7dVn9F9EfQoomK1w8"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 197893,
       "name": "Erguei as M\u00e3os",
       "url": "https://open.spotify.com/track/7GTVVZiren9LxoyNW4pATK"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Minha Vida \u00c9 uma Viagem 6",
-        "url": "https://open.spotify.com/album/1A7Sa3Wv1F3XhTcaLug07F"
-      },
-      "artists": [
-        {
-          "name": "Minha Vida \u00e9 Uma Viagem",
-          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
-        }
-      ],
-      "duration_ms": 231778,
-      "name": "Coral dos Bichos",
-      "url": "https://open.spotify.com/track/0pWnhGVmpCVXcKe4DZnQXR"
     },
     {
       "added_at": "2023-10-20 03:00:00",

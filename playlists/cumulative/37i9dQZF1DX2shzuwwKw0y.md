@@ -2,9 +2,9 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Fuerza Regida en portada.
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Los Tucanes De Tijuana en portada.
 
-270 songs - 13 hr 38 min
+271 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [La Bolsita](https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Bolsita](https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB) | 3:00 | 2022-09-30 | 2022-11-05 |
 | [La Captura III](https://open.spotify.com/track/1y1zGvNOVkURLr8TzqWjXA) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Captura III](https://open.spotify.com/album/2Dx9DX0zG74oF0x4vqyAOx) | 3:08 | 2022-02-21 | 2022-03-30 |
 | [La Escuela No Me Gustó](https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:56 | 2022-02-21 |  |
+| [La Firma del Flaquito](https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Firma del Flaquito](https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3) | 3:51 | 2023-10-27 |  |
 | [La Hummer Y El Camaro](https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl), [Jorge Santacruz](https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx) | [Los Mejores Corridos De](https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x) | 3:31 | 2022-02-21 | 2022-04-09 |
 | [La Ley Del Chinito](https://open.spotify.com/track/1LMZS8DmTcwQTm5ai7H40G) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Ley Del Chinito](https://open.spotify.com/album/0TB5MpDerNgoZayZw4i4YR) | 2:20 | 2022-04-22 | 2022-05-14 |
 | [La Ley del Mayo](https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Ley del Mayo](https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH) | 3:36 | 2023-02-03 | 2023-03-25 |

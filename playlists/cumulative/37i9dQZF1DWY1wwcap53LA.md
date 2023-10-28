@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Reyna Roberts
 
-169 songs - 8 hr 43 min
+170 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Missing Nothing](https://open.spotify.com/track/3ARM0QYcfyLZuci5WuTynO) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Missing Nothing](https://open.spotify.com/album/2E1kBO77PoakfIp5yUIFpx) | 2:36 | 2023-06-16 |  |
 | [My Masterpiece](https://open.spotify.com/track/5SlOBlrnxsuhOGMQEVZeZ0) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [My Masterpiece](https://open.spotify.com/album/10QTTpkxjazlLxVPmDu400) | 3:30 | 2021-12-03 |  |
 | [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:41 | 2022-06-17 | 2023-02-18 |
+| [Neon Cowboy](https://open.spotify.com/track/0IrWcbyRdfWARLLLZCLhuY) | [The Kentucky Gentlemen](https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86) | [Neon Cowboy](https://open.spotify.com/album/0J8y3sEsIwLDv9k44tBzlc) | 3:18 | 2023-10-27 |  |
 | [Never Change](https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Never Change](https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee) | 3:10 | 2021-12-03 |  |
 | [Never Gonna Tame You \(Original Song from "The Mustangs: America's Wild Horses"\)](https://open.spotify.com/track/1FSYsYrfOKa6nBHVEBWUQC) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Never Gonna Tame You \(Original Song from "The Mustangs: America's Wild Horses"\)](https://open.spotify.com/album/1v3UJ3V5ChGeHPoKzhcyy3) | 3:41 | 2021-12-03 | 2023-02-18 |
 | [Night To Go](https://open.spotify.com/track/65JhcwbMrDlQAxrRDi79Ns) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Night To Go](https://open.spotify.com/album/0NmgdVPj95vVLLxDor1R8T) | 2:43 | 2023-08-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 21091,
+  "num_followers": 21101,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTUzZDVhNTQzMzQ2ZjEzMjNkZDk0ZGRkNjVmZjZlODk1Mjg2MDU4",
+  "snapshot_id": "MCw4ZTk0OTdmMTc2M2IzODJhNDMyNDA2NzIyZWYxOTEyYzE4MmE5MTlh",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -363,30 +363,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Der Rosenkavalier",
-        "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Munich Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Der Rosenkavalier, Op. 59 / Act 1: Introduction",
-      "url": "https://open.spotify.com/track/0l0weeIrC9ueCHJPi3XLlh"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
         "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
       },
@@ -411,6 +387,30 @@
       "duration_ms": 276080,
       "name": "4 Lieder, Op. 27, TrV 170: No. 1, Ruhe, meine Seele!",
       "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Der Rosenkavalier",
+        "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Munich Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Der Rosenkavalier, Op. 59 / Act 1: Introduction",
+      "url": "https://open.spotify.com/track/0l0weeIrC9ueCHJPi3XLlh"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -511,26 +511,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
-        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Stefan Veselka",
-          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Piano Sonata in B Minor, Op. 5, TrV 103: II. Adagio cantabile",
-      "url": "https://open.spotify.com/track/2ywE1VwAIPDBUTmoVQuy42"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Highlights from Salome, Ariadne of Naxos, Die Liebe der Danae & Capiriccio",
         "url": "https://open.spotify.com/album/48NMqcp6NAJ0aZKuAX2hpw"
       },
@@ -587,8 +567,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Highlights from Salome, Ariadne of Naxos, Die Liebe der Danae & Capiriccio",
-        "url": "https://open.spotify.com/album/48NMqcp6NAJ0aZKuAX2hpw"
+        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
+        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
       },
       "artists": [
         {
@@ -596,21 +576,13 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Julia Varady",
-          "url": "https://open.spotify.com/artist/75dN1x42c0LtoRuBOz2huI"
-        },
-        {
-          "name": "Bamberg Symphony",
-          "url": "https://open.spotify.com/artist/7qs9lBPZgZzLAYAWfHLAll"
-        },
-        {
-          "name": "Dietrich Fischer-Dieskau",
-          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
+          "name": "Stefan Veselka",
+          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
         }
       ],
-      "duration_ms": 270240,
-      "name": "Die Liebe der Danae, Op. 83, TrV 278: Wie ungibst du mich mit frieden",
-      "url": "https://open.spotify.com/track/1aOVTTniKZA9cIOq6DBKLi"
+      "duration_ms": 336253,
+      "name": "Piano Sonata in B Minor, Op. 5, TrV 103: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/2ywE1VwAIPDBUTmoVQuy42"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -639,6 +611,34 @@
       "duration_ms": 266160,
       "name": "4 Letzte Lieder, TrV 296: No. 2, September",
       "url": "https://open.spotify.com/track/3zsCas0Qw2bew1AtdxQb3M"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Highlights from Salome, Ariadne of Naxos, Die Liebe der Danae & Capiriccio",
+        "url": "https://open.spotify.com/album/48NMqcp6NAJ0aZKuAX2hpw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Julia Varady",
+          "url": "https://open.spotify.com/artist/75dN1x42c0LtoRuBOz2huI"
+        },
+        {
+          "name": "Bamberg Symphony",
+          "url": "https://open.spotify.com/artist/7qs9lBPZgZzLAYAWfHLAll"
+        },
+        {
+          "name": "Dietrich Fischer-Dieskau",
+          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
+        }
+      ],
+      "duration_ms": 270240,
+      "name": "Die Liebe der Danae, Op. 83, TrV 278: Wie ungibst du mich mit frieden",
+      "url": "https://open.spotify.com/track/1aOVTTniKZA9cIOq6DBKLi"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -915,30 +915,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Songs of Love and Death",
-        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Hedwig Fassbender",
-          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
-        },
-        {
-          "name": "Hilko Dumno",
-          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
-        }
-      ],
-      "duration_ms": 327266,
-      "name": "5 Lieder, Op. 39, TrV 189: No. 4. Befreit",
-      "url": "https://open.spotify.com/track/4a3jCbhZo3KPvLbz8bUmMh"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
         "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
       },
@@ -963,6 +939,30 @@
       "duration_ms": 907586,
       "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
       "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Songs of Love and Death",
+        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Hedwig Fassbender",
+          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
+        },
+        {
+          "name": "Hilko Dumno",
+          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
+        }
+      ],
+      "duration_ms": 327266,
+      "name": "5 Lieder, Op. 39, TrV 189: No. 4. Befreit",
+      "url": "https://open.spotify.com/track/4a3jCbhZo3KPvLbz8bUmMh"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
-        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        },
-        {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
-        }
-      ],
-      "duration_ms": 348533,
-      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
-      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "R. Strauss: Die Frau ohne Schatten, Op. 65, TrV 234",
         "url": "https://open.spotify.com/album/5UXb5sRnaECl1gBvNACRIk"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 330720,
       "name": "Die Frau ohne Schatten, Op. 65, TrV 234, Act I: Act I: Licht uberm see (Amme, Geisterbote)",
       "url": "https://open.spotify.com/track/3Z4GGSM0ZzA9eMdEsjAtrt"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
+        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "duration_ms": 348533,
+      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
+      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1415,34 +1415,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "\"Homage\" - The Age of the Diva",
-        "url": "https://open.spotify.com/album/1ctlAZPfAzx2pp8ObmA3bt"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "Mariinsky Orchestra",
-          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        }
-      ],
-      "duration_ms": 291786,
-      "name": "Die Liebe der Danae: \"Wie umgibst du mich mit Frieden\"",
-      "url": "https://open.spotify.com/track/1lDXttEeQgf55CNp8YebTF"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R.: Der Rosenkavalier",
         "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
       },
@@ -1467,6 +1439,34 @@
       "duration_ms": 330920,
       "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Da geht er hin, der aufgeblasene schlechte Kerl\"",
       "url": "https://open.spotify.com/track/433MQfeWscw5iOydbZjy5c"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "\"Homage\" - The Age of the Diva",
+        "url": "https://open.spotify.com/album/1ctlAZPfAzx2pp8ObmA3bt"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "duration_ms": 291786,
+      "name": "Die Liebe der Danae: \"Wie umgibst du mich mit Frieden\"",
+      "url": "https://open.spotify.com/track/1lDXttEeQgf55CNp8YebTF"
     },
     {
       "added_at": "2022-06-20 09:55:21",

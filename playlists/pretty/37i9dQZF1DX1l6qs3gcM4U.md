@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dj Black Spygo, Djodje and Chelsea Dinorath.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,622 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,706 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 38 | [Clima](https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Clima](https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX) | 4:03 |
 | 39 | [Faço Como](https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Menina Mulher](https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm) | 3:21 |
 | 40 | [TROMPETE](https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [TROMPETE](https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS) | 4:17 |
-| 41 | [Nha Mos](https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nha Mos](https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0) | 3:16 |
-| 42 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 |
+| 41 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 |
+| 42 | [Nha Mos](https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nha Mos](https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0) | 3:16 |
 | 43 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 |
 | 44 | [Dando Love](https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Dando Love](https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz) | 3:02 |
 | 45 | [Sabi](https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Sabi](https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj) | 3:20 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 62 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
 | 63 | [Mad Love](https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mad Love](https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ) | 3:12 |
 | 64 | [Momentos](https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Momentos](https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B) | 3:30 |
-| 65 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 |
+| 65 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 |
 | 66 | [Cuiar Assim](https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Arieth Feijó](https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA) | [Cuiar Assim](https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM) | 3:50 |
-| 67 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 |
+| 67 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 |
 | 68 | [Não vai lá](https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Sincera](https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo) | 3:07 |
 | 69 | [Boda](https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj), [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G) | [Boda](https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR) | 2:53 |
 | 70 | [Sinto Falta](https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq) | 3:22 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 95 | [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 |
 | 96 | [Ser Feliz](https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Ser Feliz](https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR) | 3:25 |
 | 97 | [Reagi](https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9) | [Elsy](https://open.spotify.com/artist/0MQ5pkCrgpk3D9efPa4vSu) | [Reagi](https://open.spotify.com/album/5H2uPj4d6xWVUDZvrqFPtr) | 3:38 |
-| 98 | [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 |
-| 99 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 |
-| 100 | [Belissima](https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP) | [Charbel](https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B) | [Apaxonado](https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb) | 4:51 |
+| 98 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 |
+| 99 | [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 |
+| 100 | [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 |
 
-Snapshot ID: `MCw2NjYzNzRhN2RhMTRjNGMxN2E1OGRlYmRlMzk3NzZhYmM4OTEyMmQz`
+Snapshot ID: `MCwyZGEzMGIyYjFmNDk4ZTlhYWQzMWMxNzc4MWU5YjZiYjVkMjg1NmQ3`

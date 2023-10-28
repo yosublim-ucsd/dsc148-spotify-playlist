@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Latin music bangers for your gaming session! Cover: Feid",
+  "description": "Latin music bangers for your gaming session! Cover: Bad Bunny ",
   "name": "Latin Gaming",
   "tracks": [
     {
@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Bandidona",
+        "url": "https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Bandidona",
+      "url": "https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi"
+    },
+    {
+      "album": {
         "name": "LVV the Real Rondon",
         "url": "https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR"
       },
@@ -1707,6 +1725,28 @@
     },
     {
       "album": {
+        "name": "BROWN BOY",
+        "url": "https://open.spotify.com/album/7uUv4tpHPGzcw8NDv5H7Yx"
+      },
+      "artists": [
+        {
+          "name": "Abhir Hathi",
+          "url": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206151,
+      "name": "CA' MANOLO",
+      "url": "https://open.spotify.com/track/0lJHvFF2Jur0KowHti4jUg"
+    },
+    {
+      "album": {
         "name": "CAIRO",
         "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
       },
@@ -2015,6 +2055,32 @@
     },
     {
       "album": {
+        "name": "Cloniao",
+        "url": "https://open.spotify.com/album/3LJewxppDnhU0Iqm6EERR6"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Cloniao",
+      "url": "https://open.spotify.com/track/4SThCZl3NDMjRiuS57P6EN"
+    },
+    {
+      "album": {
         "name": "Querian Perreo?",
         "url": "https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU"
       },
@@ -2187,6 +2253,32 @@
     },
     {
       "album": {
+        "name": "TRAPPii",
+        "url": "https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "COMPLICADO",
+      "url": "https://open.spotify.com/track/0qhm6rORlUSxLuyG8mABNn"
+    },
+    {
+      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe"
       },
@@ -2240,7 +2332,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 171221,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/3wpukX8pJ6wNLECrQlhUq5"
@@ -2348,7 +2440,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 223402,
       "name": "Count Money",
       "url": "https://open.spotify.com/track/7LmPLDKwlYZLscMSH16maY"
@@ -3396,7 +3488,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 179999,
       "name": "EL NENE",
       "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
@@ -3986,6 +4078,28 @@
       "duration_ms": 186382,
       "name": "FANTASY",
       "url": "https://open.spotify.com/track/1IJk7ciVxrLdutcQdnDXYW"
+    },
+    {
+      "album": {
+        "name": "FATAL FANTASSY",
+        "url": "https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "FATAL FANTASSY",
+      "url": "https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh"
     },
     {
       "album": {
@@ -5134,7 +5248,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 152571,
       "name": "Katteyes | Omar Algo Anda Mal #7",
       "url": "https://open.spotify.com/track/73PfF0cZt7xpsZdHQjE9Qp"
@@ -6014,6 +6128,24 @@
       "duration_ms": 169000,
       "name": "LE GUSTA QUE LA VEAN",
       "url": "https://open.spotify.com/track/1VkfjnJvS5Q5Zn5TmqvcFZ"
+    },
+    {
+      "album": {
+        "name": "Le Mete",
+        "url": "https://open.spotify.com/album/5u7LRnrAU0iWKQdO0XyOqO"
+      },
+      "artists": [
+        {
+          "name": "Chikis RA",
+          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168680,
+      "name": "Le Mete",
+      "url": "https://open.spotify.com/track/5ZMz7ZUtLXfRChCR9Y3FFw"
     },
     {
       "album": {
@@ -7270,6 +7402,28 @@
       "duration_ms": 160243,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+    },
+    {
+      "album": {
+        "name": "Modo Insano",
+        "url": "https://open.spotify.com/album/7lBfRdPNlcHz3aXk9FhY5I"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196551,
+      "name": "Modo Insano",
+      "url": "https://open.spotify.com/track/45vfToGB9uCeIJ0nceD8Xi"
     },
     {
       "album": {
@@ -9554,7 +9708,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 132041,
       "name": "Recoger",
       "url": "https://open.spotify.com/track/66UNqQkLP3vwoAK9FnxFca"
@@ -11374,7 +11528,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 144193,
       "name": "Toto",
       "url": "https://open.spotify.com/track/6X6jlvBAIC3EFjcKT3eMmt"
@@ -12686,7 +12840,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 204693,
       "name": "Y Si Tratan",
       "url": "https://open.spotify.com/track/4PtSWPKgZHV2XXyPBlWVQp"

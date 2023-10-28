@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Valeria Jasso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,644 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,661 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 57 | [La Lista](https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Boleros que me dictó el gallo](https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX) | 4:15 |
 | 58 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
 | 59 | [Te había contao](https://open.spotify.com/track/00pEWo382r8gERWquqG1wS) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb), [Pororó](https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:38 |
-| 60 | [Llegas Tú](https://open.spotify.com/track/6hTueX70hZWte9EIZT8gVY) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Llegas Tú](https://open.spotify.com/album/1FpQMUoPBbW919ow0vVqA9) | 3:17 |
-| 61 | [Te Rendiste en Mi](https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Te Rendiste en Mi](https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK) | 2:28 |
+| 60 | [Te Rendiste en Mi](https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Te Rendiste en Mi](https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK) | 2:28 |
+| 61 | [Llegas Tú](https://open.spotify.com/track/6hTueX70hZWte9EIZT8gVY) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Llegas Tú](https://open.spotify.com/album/1FpQMUoPBbW919ow0vVqA9) | 3:17 |
 | 62 | [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 |
 | 63 | [Sobre el Mar](https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Sobre el Mar](https://open.spotify.com/album/4ss0ZG3vjtuYtvbM1fgab0) | 3:47 |
 | 64 | [Todo Lo Que Hay](https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t) | [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg), [Venado Meraki](https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB) | [Todo Lo Que Hay](https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7) | 2:49 |
-| 65 | [Vuelvo Pronto](https://open.spotify.com/track/2HECQdPQtR1K9DfEdCBAoa) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Canciones Secretas](https://open.spotify.com/album/6CrUSUaGNBRz8MNYTkvNm1) | 2:32 |
-| 66 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
+| 65 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
+| 66 | [Vuelvo Pronto](https://open.spotify.com/track/2HECQdPQtR1K9DfEdCBAoa) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Canciones Secretas](https://open.spotify.com/album/6CrUSUaGNBRz8MNYTkvNm1) | 2:32 |
 | 67 | [Que no me encuentre](https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:06 |
 | 68 | [Dejar Ir](https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Dejar Ir](https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA) | 4:49 |
 | 69 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 76 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 |
 | 77 | [Herido :\(](https://open.spotify.com/track/3nOVioPlgs8GxvCVQJ0jKV) | [SHAO](https://open.spotify.com/artist/6rGxc2bEuNfj8aNtGh7TQS) | [Terciopelo](https://open.spotify.com/album/0uOOazj0IXyUab4OVT9rIz) | 3:43 |
 | 78 | [La Balada de Sarah Lynn](https://open.spotify.com/track/358ITOTwU2zByvL2YftgGn) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7) | [La Balada de Sarah Lynn](https://open.spotify.com/album/04SGJp6OGTuWtAycY4oOtY) | 2:34 |
-| 79 | [Dulce Veneno \- Sigues Aquí](https://open.spotify.com/track/2u0bUWgV8Ac8O3gnnA5xI0) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [De Todo un Poco](https://open.spotify.com/album/28FDFSEkA2zhVB5q6GL6CS) | 4:18 |
+| 79 | [Repetir](https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Repetir](https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5) | 2:43 |
 | 80 | [Místico Desierto](https://open.spotify.com/track/5AnG5RoXwxs16RlIprIzHA) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Místico Desierto](https://open.spotify.com/album/4OUAnAu3mmXKsMSD7X0sCa) | 3:45 |
 
-Snapshot ID: `MCxiZTQxNzVjY2I5ZmU0NTBmNTJkYzNjODEwODkzOGQ4YjA0MTg5ZTA4`
+Snapshot ID: `MCwwZThmOGRiZDkzNDhjYjNjYjA3NTY0ZTYxMjY4YTg3ZWNhNTAwMzBi`

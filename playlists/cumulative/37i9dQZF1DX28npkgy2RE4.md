@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Tré Burt
 
-428 songs - 1 day 2 hr 19 min
+429 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Don't Go Far](https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:39 | 2022-07-11 |  |
 | [Don't Think About Me](https://open.spotify.com/track/5BfhJ9N50RVkDtkZuu3hZs) | [Laura Stevenson](https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg) | [Don't Think About Me](https://open.spotify.com/album/67DBeQ0CWU1R9SU7fVeN05) | 2:54 | 2021-11-12 | 2022-07-28 |
 | [Don't Want You To Know](https://open.spotify.com/track/0EBp8oLuOJhPLfCLkPqPhS) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Don't Want You To Know](https://open.spotify.com/album/4AaeRHinhgo8s6Bokl8sjb) | 3:56 | 2022-10-14 | 2022-11-21 |
-| [Don't Want You To Know](https://open.spotify.com/track/3IJjf4p7B7qaKnt93zpm6T) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Sentimental Garbage](https://open.spotify.com/album/2iiRsnJVF6kpFMA30U6nif) | 3:56 | 2022-10-14 |  |
+| [Don't Want You To Know](https://open.spotify.com/track/3IJjf4p7B7qaKnt93zpm6T) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Sentimental Garbage](https://open.spotify.com/album/2iiRsnJVF6kpFMA30U6nif) | 3:56 | 2022-10-14 | 2023-10-28 |
 | [Don't Want Your Love](https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Don't Want Your Love](https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d) | 3:32 | 2022-05-25 | 2023-06-22 |
 | [Doobie Bronson](https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:23 | 2021-11-12 | 2023-10-23 |
 | [Dope Queen Blues](https://open.spotify.com/track/5FixijSOYM02IlrVTGm0Z8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Silences](https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3) | 3:06 | 2021-11-12 | 2022-03-05 |
@@ -163,7 +163,7 @@
 | [Got a Lotta Love](https://open.spotify.com/track/2eudmfFsYkZv1MEI1acWih) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/3fE0XsKfZtrTFVcVGIQWBX) | 3:02 | 2021-11-12 | 2022-07-29 |
 | [Greatest Weapon](https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Greatest Weapon / Under The Water](https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo) | 2:54 | 2022-09-16 | 2022-11-14 |
 | [Halo \- Acoustic Version](https://open.spotify.com/track/2Wx5BMeAMNFHdE0f4LXh3V) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Halo & Begin Again \(Unplugged\)](https://open.spotify.com/album/6kx90x1EqvEtJWBrRqJstU) | 3:37 | 2022-04-01 | 2022-04-19 |
-| [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-10-14 |  |
+| [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-10-14 | 2023-10-28 |
 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 | 2022-07-11 |  |
 | [Hear It Again](https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Hear It Again](https://open.spotify.com/album/6vR4nfemxHqPfzlv4dVp8i) | 3:53 | 2021-11-12 | 2022-07-28 |
 | [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2022-07-11 | 2022-12-13 |
@@ -207,7 +207,7 @@
 | [Judy](https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L), [Kim Harris](https://open.spotify.com/artist/4Z4L0pVDUIQuI48pBKlij6) | [Champagne Problems](https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz) | 3:21 | 2023-09-22 | 2023-09-27 |
 | [Just For Love](https://open.spotify.com/track/2246ZUM5h7YS1Lz9AokksS) | [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Dixie Blur](https://open.spotify.com/album/2J7ySwyyvdBeP8EcNYrgZv) | 3:15 | 2021-11-12 | 2022-07-21 |
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/3XnpvaKBaEhdzDbLdIhcKs) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/60XvBfx16DrRu5GKrH4E5E) | 2:53 | 2021-11-12 | 2022-07-29 |
-| [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 | 2022-07-11 | 2023-05-09 |
+| [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 | 2022-07-11 |  |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-05-25 |  |
 | [Keeps Me Light](https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Keeps Me Light](https://open.spotify.com/album/4X2JS2pMQD9NmoN6FhZCW6) | 3:46 | 2022-07-11 | 2023-07-23 |
 | [Keeps Me Light](https://open.spotify.com/track/5l43igI28lTXnPK0KQsHQc) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Keeps Me Light](https://open.spotify.com/album/48WCft0nRsNOfquczKAH04) | 3:46 | 2021-11-12 | 2022-07-28 |
@@ -252,6 +252,7 @@
 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2022-07-11 |  |
 | [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-11-12 | 2023-02-17 |
 | [Moontalk](https://open.spotify.com/track/4IfJK8MICEM41IIlDcelG9) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Moontalk](https://open.spotify.com/album/1u6P3Xd6avKoYiTfMF6kx6) | 3:11 | 2021-11-12 | 2022-07-27 |
+| [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-10-27 |  |
 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ) | 5:32 | 2022-04-01 | 2022-07-29 |
 | [Mouth \(feat\. Luke Krutzke\)](https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3), [Luke Krutzke](https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL) | [Mouth \(feat\. Luke Krutzke\)](https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg) | 3:56 | 2021-11-12 | 2022-07-29 |
 | [mud](https://open.spotify.com/track/5irN1VPsOqBPpmyHu8Mh9X) | [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [deer](https://open.spotify.com/album/5hxy6Yf0wLnB106AqTbOC7) | 2:06 | 2022-07-11 | 2022-07-25 |

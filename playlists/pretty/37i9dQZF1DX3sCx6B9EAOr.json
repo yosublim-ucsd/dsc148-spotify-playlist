@@ -1,12 +1,12 @@
 {
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
-  "num_followers": 118941,
+  "num_followers": 118957,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzgzZGE0NjcxNDk4Y2JlMmFiNTY0N2E4OTFlMjgwMjhmMzQzMWNm",
+  "snapshot_id": "MCw5ZGY2NmY0MmE1MDc1OWIzY2YzN2U2YjU5Njg2MmE5ZWRjNzEzNzEz",
   "tracks": [
     {
       "added_at": "2023-10-20 02:05:20",
@@ -323,8 +323,8 @@
     {
       "added_at": "2023-10-20 02:05:20",
       "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+      "duration_ms": 154360,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
     },
     {
       "added_at": "2023-10-20 02:05:20",
@@ -471,8 +471,8 @@
     {
       "added_at": "2023-10-20 02:05:20",
       "album": {
-        "name": "I'VE MINE",
-        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 154360,
-      "name": "Baddie",
-      "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
       "added_at": "2023-10-20 02:05:20",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-10-20 02:05:20",
       "album": {
+        "name": "Paint Me Naked - SM STATION",
+        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Paint Me Naked",
+      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
+    },
+    {
+      "added_at": "2023-10-20 02:05:20",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2023-10-20 02:05:20",
       "album": {
-        "name": "Paint Me Naked - SM STATION",
-        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
       },
       "artists": [
         {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Paint Me Naked",
-      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
+      "duration_ms": 135428,
+      "name": "Chili",
+      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
     },
     {
       "added_at": "2023-10-20 02:05:20",
@@ -907,22 +923,6 @@
       "duration_ms": 183266,
       "name": "Thunderous",
       "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
-    },
-    {
-      "added_at": "2023-10-20 02:05:20",
-      "album": {
-        "name": "Chili",
-        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Chili",
-      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
     },
     {
       "added_at": "2023-10-20 02:05:20",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-10-20 02:05:20",
       "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
-    },
-    {
-      "added_at": "2023-10-20 02:05:20",
-      "album": {
         "name": "COLOR*IZ",
         "url": "https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 218993,
       "name": "La Vie en Rose",
       "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
+    },
+    {
+      "added_at": "2023-10-20 02:05:20",
+      "album": {
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2023-10-20 02:05:20",
@@ -1907,6 +1907,26 @@
       "duration_ms": 181432,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
+    },
+    {
+      "added_at": "2023-10-20 02:05:20",
+      "album": {
+        "name": "An Iron Hand In A Velvet Glove",
+        "url": "https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL"
+      },
+      "artists": [
+        {
+          "name": "JINI",
+          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "C'mon (feat. Amin\u00e9)",
+      "url": "https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK"
     },
     {
       "added_at": "2023-10-20 02:05:20",
@@ -1963,22 +1983,6 @@
     {
       "added_at": "2023-10-20 02:05:20",
       "album": {
-        "name": "Oneiric Diary",
-        "url": "https://open.spotify.com/album/1XuKR0Qguy1b0Vne8hv5Pd"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "Secret Story of the Swan",
-      "url": "https://open.spotify.com/track/7G6WuVZuTbF6JcnA9wOvsD"
-    },
-    {
-      "added_at": "2023-10-20 02:05:20",
-      "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293"
       },
@@ -1995,22 +1999,18 @@
     {
       "added_at": "2023-10-20 02:05:20",
       "album": {
-        "name": "An Iron Hand In A Velvet Glove",
-        "url": "https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL"
+        "name": "Oneiric Diary",
+        "url": "https://open.spotify.com/album/1XuKR0Qguy1b0Vne8hv5Pd"
       },
       "artists": [
         {
-          "name": "JINI",
-          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
         }
       ],
-      "duration_ms": 193400,
-      "name": "C'mon (feat. Amin\u00e9)",
-      "url": "https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK"
+      "duration_ms": 192333,
+      "name": "Secret Story of the Swan",
+      "url": "https://open.spotify.com/track/7G6WuVZuTbF6JcnA9wOvsD"
     },
     {
       "added_at": "2023-10-20 02:05:20",
@@ -2083,22 +2083,6 @@
       "duration_ms": 173413,
       "name": "SMILEY(Feat. BIBI)",
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
-    },
-    {
-      "added_at": "2023-10-20 02:05:20",
-      "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 217760,
-      "name": "FIESTA",
-      "url": "https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA"
     },
     {
       "added_at": "2023-10-20 02:05:20",
@@ -2179,6 +2163,22 @@
       "duration_ms": 181196,
       "name": "Not For Sale",
       "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
+    },
+    {
+      "added_at": "2023-10-20 02:05:20",
+      "album": {
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 217760,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA"
     },
     {
       "added_at": "2023-10-20 02:05:20",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-10-20 02:05:20",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Room",
-      "url": "https://open.spotify.com/track/0qcMgoijmPzjpdqin1VQlc"
-    },
-    {
-      "added_at": "2023-10-20 02:05:20",
-      "album": {
         "name": "I Need The Light",
         "url": "https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 185293,
       "name": "I Need The Light",
       "url": "https://open.spotify.com/track/69mhZKG0nDbSK7NoINWEsE"
+    },
+    {
+      "added_at": "2023-10-20 02:05:20",
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Room",
+      "url": "https://open.spotify.com/track/0qcMgoijmPzjpdqin1VQlc"
     },
     {
       "added_at": "2023-10-20 02:05:20",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2023-10-20 02:05:20",
       "album": {
-        "name": "Don't Call Me - The 7th Album",
-        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Don't Call Me",
-      "url": "https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U"
-    },
-    {
-      "added_at": "2023-10-20 02:05:20",
-      "album": {
         "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
         "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 216440,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
+    },
+    {
+      "added_at": "2023-10-20 02:05:20",
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Don't Call Me",
+      "url": "https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U"
     },
     {
       "added_at": "2023-10-20 02:05:20",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2023-10-20 02:05:20",
       "album": {
-        "name": "Return of The Girl",
-        "url": "https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD"
-      },
-      "artists": [
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Pirate",
-      "url": "https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1"
-    },
-    {
-      "added_at": "2023-10-20 02:05:20",
-      "album": {
         "name": "Heart Burn",
         "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 193173,
       "name": "Heart Burn",
       "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
+    },
+    {
+      "added_at": "2023-10-20 02:05:20",
+      "album": {
+        "name": "Return of The Girl",
+        "url": "https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Pirate",
+      "url": "https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1"
     },
     {
       "added_at": "2023-10-20 02:05:20",

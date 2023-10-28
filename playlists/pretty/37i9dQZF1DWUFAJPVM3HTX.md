@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW?si=MFWuaGKSRFCepbJ4nBSpCg">OSA</a>\. Updates every Wednesday.
+> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv?si=Dtfw4jkmT1\-06BCtssgYtA">Lekan</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,488 likes - 243 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,548 likes - 243 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 95 | [Sleep In](https://open.spotify.com/track/3tUs1HNIBaVGeIP0TnMcl9) | [Carvena](https://open.spotify.com/artist/3rjSCrORMjZpQAjcglAnHl) | [Sleep In](https://open.spotify.com/album/2IK7CO3ubdJ7OUMefz2EOW) | 2:47 |
 | 96 | [Renata](https://open.spotify.com/track/6ayG9P7pZh5uzOioDCnsap) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Renata](https://open.spotify.com/album/6QyRqDmyqo7IIA6H0mWr5c) | 2:00 |
 | 97 | [Spend My Days](https://open.spotify.com/track/03qshjNjaZJ9YmuyX9malT) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Spend My Days](https://open.spotify.com/album/1i6kNaAWplITA9Q9cUwj7A) | 2:33 |
-| 98 | [Wasting Time](https://open.spotify.com/track/40Wc4TCv8Z0IiSX4UV3bwL) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR) | [Wasting Time](https://open.spotify.com/album/6iOd2SCeSVgV7wjHuqywgq) | 2:25 |
+| 98 | [Wasting Time \- Single Version](https://open.spotify.com/track/40Wc4TCv8Z0IiSX4UV3bwL) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR) | [Wasting Time](https://open.spotify.com/album/6iOd2SCeSVgV7wjHuqywgq) | 2:25 |
 | 99 | [From You](https://open.spotify.com/track/52cMqFjKP9O7fwyTS0uAQQ) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [From You](https://open.spotify.com/album/0WEBDFGiPBFoDx55iNQU7M) | 2:55 |
 | 100 | [Messy](https://open.spotify.com/track/7LtALDdCgKr8rAI0Hww2fV) | [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [Messy](https://open.spotify.com/album/2leTPsqoiGVvk61RfG15me) | 3:42 |
 | 101 | [Forever & A Day](https://open.spotify.com/track/1nwfMW5zWjfjTqYCHJ8xKg) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [Forever & A Day](https://open.spotify.com/album/5kc8fel1fPNOGmoDgRtRhz) | 2:55 |
@@ -174,7 +174,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 164 | [Excited](https://open.spotify.com/track/3wb0gBezq4XuMyjvWwhAEL) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Excited](https://open.spotify.com/album/5xJQwzCA5XbKQLlNIcBHiq) | 2:40 |
 | 165 | [nowhere to go](https://open.spotify.com/track/244XWLmemNFjKIEoSGG43B) | [gny](https://open.spotify.com/artist/3TkW2R9Gxxh01XyuyrmqcJ) | [nowhere to go](https://open.spotify.com/album/285fQtUmTZsZtDt7fFllWB) | 3:04 |
 | 166 | [Love Outloud](https://open.spotify.com/track/0jj4TBUdZK5IekIzzYnqyU) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives](https://open.spotify.com/album/0gb4DvjQAURA9LEu7RQr9A) | 2:57 |
-| 167 | [Get Back](https://open.spotify.com/track/4lgaAcJuVx9HpAq86PA41J) | [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [Get Back](https://open.spotify.com/album/6ECWMYaP6WjVX8IUdtnfaf) | 1:41 |
+| 167 | [get back](https://open.spotify.com/track/1kr266GQyqocYCrfcYz2lH) | [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2) | [brownboy](https://open.spotify.com/album/2mbgV2Ofl5xsTcOH9uOgaV) | 1:41 |
 | 168 | [Wishes Love Could Stand On](https://open.spotify.com/track/24AZ0QtDphqW23S1ceNZUY) | [sectiontoo](https://open.spotify.com/artist/3AfDFNOpXAPEPlFFrBMOL3), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [Wishes Love Could Stand On](https://open.spotify.com/album/1YCjioNSKFBzvxwIcKR6xV) | 3:25 |
 | 169 | [In Due Time](https://open.spotify.com/track/5tDNtILTVMWi41s4dXXRkB) | [7TEN](https://open.spotify.com/artist/1HwqBieupHIE95yfdPxLge), [Aniya Teno](https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW), [7](https://open.spotify.com/artist/57XmGSfCeU9Q1dhznMcvt5), [JoshSimmons](https://open.spotify.com/artist/0JFppXf80RNwxZ2nrtdh4H) | [In Due Time](https://open.spotify.com/album/3mkncf9tteEk1EhGuH74uK) | 3:33 |
 | 170 | [Either Way](https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Either Way](https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv) | 2:55 |
@@ -252,4 +252,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 242 | [All Roads](https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [All Roads](https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9) | 3:17 |
 | 243 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
 
-Snapshot ID: `MCwwNmJlYjU3NDQ3YjljMDM5OTVlYzNkMmUzZTEyYzZkZGZhN2FkNDM2`
+Snapshot ID: `MCwxNGE1NjdmZTUxMTZhM2QyYTE2NDNjZDc1MjU3ZDVlNzJiZGY3ZTlk`

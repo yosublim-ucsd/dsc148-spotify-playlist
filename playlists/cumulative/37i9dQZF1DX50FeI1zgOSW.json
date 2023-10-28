@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Martin Kartenjer",
+  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sanathan Shree Krishnan",
   "name": "RADAR Tamil",
   "tracks": [
     {
@@ -3072,6 +3072,24 @@
       "duration_ms": 187692,
       "name": "Tholayure Naane",
       "url": "https://open.spotify.com/track/0D0ZSPvk2MBrs1eZHvoKUH"
+    },
+    {
+      "album": {
+        "name": "Thoongaadha",
+        "url": "https://open.spotify.com/album/4v7rbU7QBrOUJ0ZFgXBa7q"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184821,
+      "name": "Thoongaadha",
+      "url": "https://open.spotify.com/track/4LQA5c88VBjFmsLy4RRD0x"
     },
     {
       "album": {

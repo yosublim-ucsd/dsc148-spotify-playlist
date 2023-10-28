@@ -1570,10 +1570,32 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 147861,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/0DdRiJLOcekwfwLlAT79wU"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/0sMsffrWHZtGjJxqddnYYk"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148885,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/5yxQAcmVgzVr1PBpm3yF0g"
     },
     {
       "album": {
@@ -1934,6 +1956,24 @@
       "duration_ms": 290459,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/1jvGwqlG8cTkqWW9udG2VW"
+    },
+    {
+      "album": {
+        "name": "A Joyful Holiday",
+        "url": "https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206026,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh"
     },
     {
       "album": {

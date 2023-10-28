@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,250 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,440 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 26 | [Psychotic Reaction](https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 3:05 |
 | 27 | [The Good Mr\. Square](https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Parachute](https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK) | 1:26 |
 | 28 | [In\-A\-Gadda\-Da\-Vida \- Single Version](https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [Light and Heavy/The Best of...](https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X) | 2:53 |
-| 29 | [The Pusher](https://open.spotify.com/track/29HbMTL672MugzhklYvStz) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 5:52 |
-| 30 | [Crimson & Clover \- Single Version](https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [The Essentials: Tommy James & The Shondells](https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ) | 3:28 |
+| 29 | [Crimson & Clover \- Single Version](https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [The Essentials: Tommy James & The Shondells](https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ) | 3:28 |
+| 30 | [The Pusher](https://open.spotify.com/track/29HbMTL672MugzhklYvStz) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 5:52 |
 | 31 | [My Back Pages](https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Younger Than Yesterday](https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1) | 3:08 |
 | 32 | [I Can See For Miles \- Mono Version](https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 4:07 |
 | 33 | [You're Gonna Miss Me \(2008 Remastered Original Mono LP Version\)](https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [The Psychedelic Sounds of the 13th Floor Elevators \- 2008 Remaster](https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG) | 2:26 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 51 | [Shapes of Things \- 2015 Remaster](https://open.spotify.com/track/4OjqrdD3QILzxkGwNoMk0c) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Shapes of Things \(2015 Remaster\)](https://open.spotify.com/album/3meFfjNEebexMTZOqT0Dx5) | 2:25 |
 | 52 | [Mama Roux](https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 3:00 |
 | 53 | [Flying High](https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 2:41 |
-| 54 | [Citadel \- Remastered 2017 / Stereo](https://open.spotify.com/track/4GOpMcPnnF9mtHNYgUPep6) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Their Satanic Majesties Request \(50th Anniversary Special Edition / Remastered\)](https://open.spotify.com/album/2SE7fs002NlNc3cw3SQLRC) | 2:50 |
-| 55 | [8:05](https://open.spotify.com/track/58divL3uaZBaxs73jVHisg) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Moby Grape \(with Bonus Tracks\)](https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi) | 2:20 |
+| 54 | [8:05](https://open.spotify.com/track/58divL3uaZBaxs73jVHisg) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Moby Grape \(with Bonus Tracks\)](https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi) | 2:20 |
+| 55 | [Citadel \- Remastered 2017 / Stereo](https://open.spotify.com/track/4GOpMcPnnF9mtHNYgUPep6) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Their Satanic Majesties Request \(50th Anniversary Special Edition / Remastered\)](https://open.spotify.com/album/2SE7fs002NlNc3cw3SQLRC) | 2:50 |
 | 56 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
 | 57 | [Heartbreaker](https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 5:41 |
 | 58 | [The Red Telephone \- 2015 Remaster](https://open.spotify.com/track/3URRBJKRfCnlit1jVoncUD) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 4:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 74 | [Lazy Sunday \(Stereo Version\) \(2018 Remaster\)](https://open.spotify.com/track/6w78eLPBj0fTq6jp3wUIRy) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Ogdens' Nut Gone Flake \- 50th Anniversary Edition \(2018 Remaster\)](https://open.spotify.com/album/2pM93DS0vpM3wt6ooVx5LS) | 3:05 |
 | 75 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
 
-Snapshot ID: `MCxlMzdhNjMxYTllODg2MzliZmI4NGNhZGE4ZTMzNzU5NDgxZTU4YTIx`
+Snapshot ID: `MCw1NmYwMTc4OTA2ZTdkYWU2N2ZjZGIyMmY5ZTA5M2M2OWE0MDU3MDFm`

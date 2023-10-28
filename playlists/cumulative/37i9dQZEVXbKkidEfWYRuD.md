@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,260 songs - 2 day 10 hr 12 min
+1,261 songs - 2 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,7 @@
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-03 |
 | [psiblades](https://open.spotify.com/track/3auzaPW4fXa8oI4KbTalAU) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o), [babyswishh1](https://open.spotify.com/artist/7tKvlpqru29X8gAwQ4aP0F) | [psiblades](https://open.spotify.com/album/2NUSLnsIWcBYyDy7POwCYR) | 2:11 | 2021-11-02 | 2022-05-17 |
 | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/4rhFCNBhQwQmrNzN6WcPTQ) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/3mLQegxjqs7kk2tgSh6gJP) | 2:03 | 2023-03-29 | 2023-07-27 |
-| [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/6yt46G7lWn0oC2FEZZDsi6) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/37mwjcyGBEk4D3BGL0MKfO) | 2:03 | 2023-07-26 |  |
+| [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/6yt46G7lWn0oC2FEZZDsi6) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/37mwjcyGBEk4D3BGL0MKfO) | 2:03 | 2023-07-26 | 2023-10-28 |
 | [PUFF \(feat\. MAYOT\)](https://open.spotify.com/track/56oCqAlqxfRNMBDDtq395J) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:06 | 2021-07-18 | 2021-10-22 |
 | [PULL UP](https://open.spotify.com/track/4Ft9USn7HYIEpBXi7tSUIA) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:12 | 2021-05-30 | 2021-06-13 |
 | [PUSSY BOY](https://open.spotify.com/track/2CyGcy1HPxcFfmeUxKnAoe) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:14 | 2021-07-18 | 2021-09-12 |
@@ -1205,6 +1205,7 @@
 | [Хто ти](https://open.spotify.com/track/2DHoodRL3ttSQDFLx60QPl) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:14 | 2023-10-12 |  |
 | [ХУДРИЧ](https://open.spotify.com/track/7Ia618v9vTRNpaZXtBsHrt) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [ХУДРИЧ](https://open.spotify.com/album/3yhmLyUNT9SHNBd4cg72D9) | 2:18 | 2023-10-14 | 2023-10-17 |
 | [Хэллоу Китти](https://open.spotify.com/track/2zHLOJoeSs3OpW8aR19AuS) | [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Хэллоу Китти](https://open.spotify.com/album/473DLb6Gjj0aHISsdqD7kZ) | 2:06 | 2022-11-22 | 2022-12-14 |
+| [Царица](https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb) | [ANNA ASTI](https://open.spotify.com/artist/40YXr3tdSqFv0kfmgjj8vP) | [Царица](https://open.spotify.com/album/2rnuTMnUTPZOZQUw99TleP) | 3:35 | 2023-10-27 |  |
 | [Цветами радуги](https://open.spotify.com/track/4h5oHfU4P7yWzeykGX2a86) | [pyrokinesis](https://open.spotify.com/artist/5rXtHvb8jMNgmSX7Khd77x) | [МОЯ МИЛАЯ ПУСТОТА](https://open.spotify.com/album/1tmh2HnfvTE5806wxgS0DA) | 4:00 | 2021-10-12 | 2021-11-10 |
 | [Цифры](https://open.spotify.com/track/4m5olwfzFs9DYa5CZwFJwz) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn), [Индаблэк](https://open.spotify.com/artist/46qyo3WiGJbyfXh7XI25ut), [qurt](https://open.spotify.com/artist/3FV5Pa1PcxwHzc4rVEWVrW), [Rodionis](https://open.spotify.com/artist/0NwHP2UPexnet2CwYsqxJY) | [Цифры](https://open.spotify.com/album/5CjZHTKkrNT7YJtYjlQRle) | 3:28 | 2021-07-28 | 2021-08-08 |
 | [ЦУНАМИ](https://open.spotify.com/track/7qCVgOCMrIGgNY0IgFcoYQ) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [ЦУНАМИ](https://open.spotify.com/album/0gG7yuYcOLGwpvaZzwEWH7) | 2:44 | 2021-11-08 | 2021-11-12 |

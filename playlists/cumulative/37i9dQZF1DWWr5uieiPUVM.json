@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "A noite toda",
+        "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
+      },
+      "artists": [
+        {
+          "name": "Lionel",
+          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "A noite toda",
+      "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
+    },
+    {
+      "album": {
         "name": "A Nova Era",
         "url": "https://open.spotify.com/album/3sIthkLCUPdx9Sk18gFTSL"
       },
@@ -1107,7 +1129,7 @@
     },
     {
       "album": {
-        "name": "Atlanta",
+        "name": "Atlanta - Spotify Singles",
         "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
       },
       "artists": [
@@ -1120,7 +1142,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 121031,
-      "name": "Atlanta",
+      "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
@@ -2277,6 +2299,36 @@
     },
     {
       "album": {
+        "name": "Confort\u00e1vel 2 (feat. Derek, Dfideliz & MC Igu)",
+        "url": "https://open.spotify.com/album/6itBlccE31MIyEUQT8lwem"
+      },
+      "artists": [
+        {
+          "name": "Recayd Mob",
+          "url": "https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/6q63S1EK0rwrdYj1ktmxRO"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209647,
+      "name": "Confort\u00e1vel 2 (feat. Derek, Dfideliz & MC Igu)",
+      "url": "https://open.spotify.com/track/2HxVWu9eBKtmGdC5Gwpaeg"
+    },
+    {
+      "album": {
         "name": "Conhe\u00e7o Bem",
         "url": "https://open.spotify.com/album/1DRLjY4tANJLbTtwEfc53S"
       },
@@ -2634,6 +2686,32 @@
       "duration_ms": 159048,
       "name": "Daqui de Cima",
       "url": "https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww"
+    },
+    {
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "album": {
@@ -8538,7 +8616,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 213333,
       "name": "RIP POP",
       "url": "https://open.spotify.com/track/3gcNVS47VjDSV32Y9VnuNK"
@@ -9992,7 +10070,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 159298,
       "name": "Vandame",
       "url": "https://open.spotify.com/track/33pxk7eQUhrZI2tiuMd4zZ"
@@ -10686,7 +10764,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 170571,
       "name": "\u00daltima Coisa",
       "url": "https://open.spotify.com/track/7LNOsASVhU3pO6WlmNjt26"

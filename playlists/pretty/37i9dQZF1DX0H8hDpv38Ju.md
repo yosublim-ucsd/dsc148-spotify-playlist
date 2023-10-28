@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,788 likes - 40 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,958 likes - 40 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 39 | [Off on Your Own \(Girl\)](https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [In Effect Mode](https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu) | 4:09 |
 | 40 | [I Want Her](https://open.spotify.com/track/24gxdUxufJ5eSamdYcPAKH) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [The Best of Keith Sweat: Make You Sweat](https://open.spotify.com/album/6GXk2hxl4q5GoPHarlUet8) | 3:41 |
 
-Snapshot ID: `MCwyZjQ5OWEyMjk5MTEzM2IyODVjNjRmYTljNmQ2NWU5MGY4Mzk0ZDdm`
+Snapshot ID: `MCxjMTc4ZTA0M2FkOTNmYmViNWFjMDc3ZmM1N2UyYjM3ZGIwOTM0Y2U5`

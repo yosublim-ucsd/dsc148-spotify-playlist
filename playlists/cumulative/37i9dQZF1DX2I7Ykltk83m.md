@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-370 songs - 22 hr 29 min
+372 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2022-05-20 |  |
 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 | 2021-11-14 | 2022-07-29 |
 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2023-04-26 |  |
-| [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 | 2022-10-07 |  |
+| [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 | 2022-10-07 | 2023-10-28 |
 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2023-01-27 |  |
 | [Be Careful With Yourself](https://open.spotify.com/track/0c8dhGhpolT4ByZ28RgIti) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 3:47 | 2022-10-07 |  |
 | [Be Careful With Yourself](https://open.spotify.com/track/12j3RsAjTt9oGnZno4lq8k) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Be Careful With Yourself](https://open.spotify.com/album/5QBwF6Ep55I0QqklKvedFz) | 3:47 | 2022-10-07 | 2022-11-28 |
@@ -146,7 +146,7 @@
 | [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2022-05-20 | 2022-12-31 |
 | [Heart of Gold](https://open.spotify.com/track/6llEKdd9fteEPFnyV0OLZc) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Heart of Gold](https://open.spotify.com/album/5tYPEtQgBSORry07FxxmO7) | 2:51 | 2021-11-14 | 2022-07-29 |
 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 | 2021-11-14 | 2023-01-01 |
-| [Homesick Honeybee \- Edit](https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Homesick Honeybee](https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz) | 2:58 | 2023-07-28 |  |
+| [Homesick Honeybee \- Edit](https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Homesick Honeybee](https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz) | 2:58 | 2023-07-28 | 2023-10-28 |
 | [Honey](https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Honey](https://open.spotify.com/album/6vkuAUXk0Gm8xizHhtjx0w) | 3:44 | 2021-11-14 | 2022-04-14 |
 | [Honey](https://open.spotify.com/track/5GL1bMkfFdclBzQOMjfIT9) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Breathing Song / Honey](https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36) | 3:23 | 2023-01-27 |  |
 | [Honey Understand](https://open.spotify.com/track/1FnqKOwkmTClK22zr3kWuH) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Honey Understand](https://open.spotify.com/album/5RltgL786Wbbtt2TT4rWsR) | 4:01 | 2022-02-04 | 2023-09-21 |
@@ -168,6 +168,7 @@
 | [I Don't Recognise You](https://open.spotify.com/track/2W94sTwflT0Fg2tQc0vlfG) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 4:35 | 2022-05-20 | 2022-10-14 |
 | [I Don't Recognise You](https://open.spotify.com/track/75Ss2YNZCqlEPk6iH1cm8U) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [I Don't Recognise You](https://open.spotify.com/album/1Pj2P9Bc6COE71akjb8MyR) | 4:35 | 2021-11-14 | 2022-07-29 |
 | [I Don’t Have Control Sometimes](https://open.spotify.com/track/4iuyaXj8B2WPjcqqbOSMB6) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [I Don’t Have Control Sometimes](https://open.spotify.com/album/1q6sKXBOqyDL5iv1A89wqa) | 2:33 | 2022-04-15 | 2022-07-28 |
+| [I Don’t Know You Like I Used To](https://open.spotify.com/track/2Pc89ZBdas5FqLAB3JOILo) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [I Don’t Know You Like I Used To](https://open.spotify.com/album/4KJOsmC2iMZGvNE83iQPaf) | 4:19 | 2023-10-27 |  |
 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 | 2021-11-14 | 2023-05-08 |
 | [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 | 2023-09-15 |  |
 | [Idaho](https://open.spotify.com/track/4FvqAI5GwPspJE3TkMGnEb) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 4:05 | 2022-05-20 |  |
@@ -211,6 +212,7 @@
 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 | 2022-10-07 |  |
 | [Lydia Wears A Cross](https://open.spotify.com/track/5qRm3dQteQORvgsK7QkM6N) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:01 | 2022-10-07 | 2022-12-01 |
 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 | 2021-11-14 |  |
+| [Making It Through](https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Making It Through](https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8) | 4:42 | 2023-10-27 |  |
 | [Maps](https://open.spotify.com/track/4g5OxMb78e7GdHUdjxIplK) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Maps / Country](https://open.spotify.com/album/0M8c1kEUcKhN5pPz4Vv0Rw) | 3:27 | 2023-04-28 | 2023-09-12 |
 | [Medicine](https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 4:14 | 2023-01-27 |  |
 | [Medicine](https://open.spotify.com/track/6P35XBAEzdCPgbMuP49cxC) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Medicine](https://open.spotify.com/album/7f7bav5WirOo4GctDwQ7tp) | 4:14 | 2022-01-18 | 2023-01-27 |

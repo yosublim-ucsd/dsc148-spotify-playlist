@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-337 songs - 18 hr 46 min
+338 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,8 +108,8 @@
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-03-17 | 2023-05-27 |
 | [Feel Good Too](https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:59 | 2023-06-23 |  |
 | [feel it now \(alive\)](https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:31 | 2023-04-21 |  |
-| [Feelings](https://open.spotify.com/track/0PNijikiRzvpXqY6bpyrfZ) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky](https://open.spotify.com/album/0b1Sv51qVCHVQJwv9J7UOY) | 3:04 | 2023-04-21 |  |
-| [Find My Way](https://open.spotify.com/track/5oP725PoN0QHZ0T8kDt8I4) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Find My Way](https://open.spotify.com/album/2fsJgdAtuJx5hHt8YU6DuZ) | 2:53 | 2023-05-19 |  |
+| [Feelings](https://open.spotify.com/track/0PNijikiRzvpXqY6bpyrfZ) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky](https://open.spotify.com/album/0b1Sv51qVCHVQJwv9J7UOY) | 3:04 | 2023-04-21 | 2023-10-28 |
+| [Find My Way](https://open.spotify.com/track/5oP725PoN0QHZ0T8kDt8I4) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Find My Way](https://open.spotify.com/album/2fsJgdAtuJx5hHt8YU6DuZ) | 2:53 | 2023-05-19 | 2023-10-28 |
 | [Finish Line](https://open.spotify.com/track/3nRnQHg6DkhWMEIm4iJYdV) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Finish Line](https://open.spotify.com/album/5VhP72XtpbnGMOKTOjvAKK) | 3:22 | 2023-09-29 | 2023-10-21 |
 | [Fire](https://open.spotify.com/track/4j5x8nURU1SNMFvVxcJj65) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 | 2022-01-19 | 2023-04-22 |
 | [fire](https://open.spotify.com/track/1wj2rMWn0jqMSFzwcUfKyE) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Love? Songs](https://open.spotify.com/album/2TdZAtLwl4wurksd6oYRnt) | 3:09 | 2021-08-05 | 2022-01-20 |
@@ -149,6 +149,7 @@
 | [High Water](https://open.spotify.com/track/0ZrHaA9ei55Km65yBodElf) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [High Water / Art of Survival](https://open.spotify.com/album/35Wec8JgWduyeZnMsvPpym) | 3:09 | 2022-04-08 | 2023-09-23 |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2022-01-19 | 2023-04-22 |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2021-08-05 | 2022-01-20 |
+| [Holding on to Us](https://open.spotify.com/track/7pgjXQqGqzUi0Wp3ySvhTc) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Holding on to Us](https://open.spotify.com/album/5SwqkXIOm7AbNgMxnB1FSh) | 3:24 | 2023-10-27 |  |
 | [Honest](https://open.spotify.com/track/0dRNcDDeWJlbKfSzaA1KDf) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Honest](https://open.spotify.com/album/3kiJ8i6P5iYcBnL2bobWfW) | 3:18 | 2022-03-18 | 2023-04-22 |
 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 | 2022-01-21 | 2023-04-22 |
 | [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 | 2022-08-20 |

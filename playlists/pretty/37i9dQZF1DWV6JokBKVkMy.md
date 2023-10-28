@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,913 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,919 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 28 | [Sa Pa Zot Traka](https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL) | [Lin](https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN) | [Sa Pa Zot Traka](https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H) | 4:45 |
 | 29 | [Mario](https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm), [Bomboclak](https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf), [Frank J](https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT) | [Mario](https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv) | 3:50 |
 | 30 | [La Route Karanbol](https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2) | [Jason Lejuste](https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7) | [La Route Karanbol](https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6) | 4:47 |
-| 31 | [Bhai Aboo](https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw) | [Claudio](https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT) | [Soul Sok Séga](https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f) | 4:21 |
-| 32 | [Ti lipié fer rozet](https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7), [Julien Verloppe](https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:10 |
+| 31 | [Ti lipié fer rozet](https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7), [Julien Verloppe](https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:10 |
+| 32 | [Bhai Aboo](https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw) | [Claudio](https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT) | [Soul Sok Séga](https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f) | 4:21 |
 | 33 | [Atrap Mo lame](https://open.spotify.com/track/1s2wYId2KCCnytXzgDMVWS) | [MR LOVE](https://open.spotify.com/artist/2vQzCnVISITDwQgyIsg6RL), [Désiré François](https://open.spotify.com/artist/5mIOt0E1ya9g3Veq3VU0S8) | [Love Ambassador](https://open.spotify.com/album/6n5gNprPy0D1rHWbWWeq0b) | 4:43 |
 | 34 | [Ma demand aou pardon](https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W) | [Morgan](https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d) | [Sort' dovan \(La compil\)](https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0) | 4:45 |
 | 35 | [Fiesta Ravanna](https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [Fiesta Ravanna](https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ) | 4:25 |
-| 36 | [Sega Champagne](https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc) | [Dj sebak](https://open.spotify.com/artist/2UuZrG6o0LIr6DHfRmaCaW), [Allkind](https://open.spotify.com/artist/4wwdxuQPc2GPHX7floaX97) | [Sega Champagne](https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q) | 3:51 |
-| 37 | [Séga Li Lao](https://open.spotify.com/track/4d24yIdgzXxr9MrV4sCoBo) | [Valo](https://open.spotify.com/artist/6jCKvZ3AkM4jHLlSbS2s3o) | [Séga Li Lao](https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX) | 4:39 |
-| 38 | [Madame ohh](https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:41 |
-| 39 | [Kitole](https://open.spotify.com/track/7iWQimkoqXZcrpINhfvjuZ) | [Clarel Armelle](https://open.spotify.com/artist/41OTWU0wQbtHwPDYCChtq2) | [A nou santt Cassya](https://open.spotify.com/album/241lyCwOGhmRLROixQD046) | 4:46 |
+| 36 | [Séga Li Lao](https://open.spotify.com/track/4d24yIdgzXxr9MrV4sCoBo) | [Valo](https://open.spotify.com/artist/6jCKvZ3AkM4jHLlSbS2s3o) | [Séga Li Lao](https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX) | 4:39 |
+| 37 | [Kitole](https://open.spotify.com/track/7iWQimkoqXZcrpINhfvjuZ) | [Clarel Armelle](https://open.spotify.com/artist/41OTWU0wQbtHwPDYCChtq2) | [A nou santt Cassya](https://open.spotify.com/album/241lyCwOGhmRLROixQD046) | 4:46 |
+| 38 | [Sega Champagne](https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc) | [Dj sebak](https://open.spotify.com/artist/2UuZrG6o0LIr6DHfRmaCaW), [Allkind](https://open.spotify.com/artist/4wwdxuQPc2GPHX7floaX97) | [Sega Champagne](https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q) | 3:51 |
+| 39 | [Madame ohh](https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:41 |
 | 40 | [Eliza](https://open.spotify.com/track/15fYq0hQa3jljdJpYKm1X3) | [Christopher Warren Permal](https://open.spotify.com/artist/1Pg7v37Gg31eCaI93ym1ry) | [Eliza](https://open.spotify.com/album/5xUYCT6hrnMS2o2G6PUrOp) | 5:08 |
 | 41 | [Séga Jacquot](https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm) | [Luc Donat](https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm) | [Le Roi du séga](https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h) | 3:12 |
 | 42 | [Vandredi Sen](https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB) | [Jean\-Marc Volcy](https://open.spotify.com/artist/5wLnu3r3e2M86e58aFW2Ot), [Jany Letourdi](https://open.spotify.com/artist/2UavPhDBdrlSVwUyZP4GJ3) | [The Best of Jean\-Marc Volcy](https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [Anita\-Papa / Creole\-Barè](https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a) | [Denis Azor](https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf) | [Music from Mauritius](https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3) | 6:10 |
 | 50 | [Medley: créole comme l'espagnol / Séga charlot](https://open.spotify.com/track/2DwjoEPD7o6fibRYnd4Zyd) | [Narmine Ducap](https://open.spotify.com/artist/5Y9cLaiuHNHVI6cXDcBpbC) | [Crazé salle verte](https://open.spotify.com/album/3u7u5R4RCYrLbQSmUuoFKK) | 3:35 |
 
-Snapshot ID: `MCxiZmJjMzM1NDUzNzZjZTZhZDk4NDk2NmM3ZWVjNTU5NzU4ZjI2N2U0`
+Snapshot ID: `MCw4YjFiNmIxNDQ4MGFlODc0OTFmZGQwNGJlMDA2ZTdmYTcxNDdlYWJh`

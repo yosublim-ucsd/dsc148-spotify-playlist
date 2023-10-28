@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: AR Paisley, Chani Nattan, Inderpal Moga",
+  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Classified",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "ALA BEKE 2 (feat. ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG"
+      },
+      "artists": [
+        {
+          "name": "EverythingOShauN",
+          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179571,
+      "name": "ALA BEKE 2 (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN"
+    },
+    {
+      "album": {
         "name": "Alejandro Sosa",
         "url": "https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF"
       },
@@ -2122,6 +2140,24 @@
       "duration_ms": 113016,
       "name": "Beam",
       "url": "https://open.spotify.com/track/6cLnWqr4JNSAPoNmLUPe5a"
+    },
+    {
+      "album": {
+        "name": "Beams Don't Lose Balance",
+        "url": "https://open.spotify.com/album/5vK5KcBpEAh6FGX5ZfITbv"
+      },
+      "artists": [
+        {
+          "name": "Zeuce",
+          "url": "https://open.spotify.com/artist/1QIW19JeWy2vtQDvH3JXkj"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "Beams Don't Lose Balance",
+      "url": "https://open.spotify.com/track/4v2tggb0uijJLiRqgSD0RU"
     },
     {
       "album": {
@@ -5024,7 +5060,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 169088,
       "name": "DESTINATION",
       "url": "https://open.spotify.com/track/0WiTZQvkMQylVlkKcaid6K"
@@ -9935,6 +9971,24 @@
     },
     {
       "album": {
+        "name": "I Got Paid Today",
+        "url": "https://open.spotify.com/album/4DsaSDzXR06Zr1IBVFPa0i"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212357,
+      "name": "I Got Paid Today",
+      "url": "https://open.spotify.com/track/0e956pEKFmTCHO5fSwFXP8"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/3zGcFDAOyBmP9ZPFY5aIFd"
       },
@@ -10496,6 +10550,28 @@
       "duration_ms": 234004,
       "name": "INCOMING (feat. Que Heffe)",
       "url": "https://open.spotify.com/track/3DojeHtTQyGGP5Y3gc14fs"
+    },
+    {
+      "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/0TdfxCusCSwmfQWM6u95Br"
+      },
+      "artists": [
+        {
+          "name": "Versvs",
+          "url": "https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK"
+        },
+        {
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162797,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/1vzSwBeXpVwDfCoIG65jdd"
     },
     {
       "album": {
@@ -11230,7 +11306,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 170731,
       "name": "Kill The Noise (The Valley)",
       "url": "https://open.spotify.com/track/5XDqSzO7cz1mCEAHUclvf4"
@@ -13698,7 +13774,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 113142,
       "name": "Ms. Do You Wrong",
       "url": "https://open.spotify.com/track/3kuby3Wz1hjeSgCFVB4Xn1"
@@ -13974,6 +14050,32 @@
       "duration_ms": 148693,
       "name": "NAFAS JAAN",
       "url": "https://open.spotify.com/track/5vSLoi3axfpz0MjNfQnwZp"
+    },
+    {
+      "album": {
+        "name": "Nai Reesa",
+        "url": "https://open.spotify.com/album/0gGAr7LZK0I6LEVQ2HHXgA"
+      },
+      "artists": [
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        },
+        {
+          "name": "Shipra Goyal",
+          "url": "https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119714,
+      "name": "Nai Reesa",
+      "url": "https://open.spotify.com/track/6pfiPyvtL69rsT5w7rRKS5"
     },
     {
       "album": {
@@ -14273,6 +14375,24 @@
     },
     {
       "album": {
+        "name": "PUPPET MASTER",
+        "url": "https://open.spotify.com/album/0gCBt7D7XVdjbGl5h8Q7pm"
+      },
+      "artists": [
+        {
+          "name": "JUGGER",
+          "url": "https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247259,
+      "name": "NIGHTMARE",
+      "url": "https://open.spotify.com/track/5zgro8fLgFXEuePTWWQ7ZC"
+    },
+    {
+      "album": {
         "name": "Nightmare on Peachtree Street (feat. Freddie Dredd)",
         "url": "https://open.spotify.com/album/6bgMTwZUkaJeNvlvlM8u9R"
       },
@@ -14362,7 +14482,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 175714,
       "name": "No Chance",
       "url": "https://open.spotify.com/track/1csR4nn83cWor5bUYnAFdQ"
@@ -15316,7 +15436,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 202743,
       "name": "Oldboy",
       "url": "https://open.spotify.com/track/2TbsDfAB5IaOisyU13Gpup"
@@ -19403,6 +19523,28 @@
     },
     {
       "album": {
+        "name": "Stash",
+        "url": "https://open.spotify.com/album/6BJF0hLxqyvtLl2exI1dyX"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        },
+        {
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103985,
+      "name": "Stash",
+      "url": "https://open.spotify.com/track/5UFhsTLoUugjkO7LHDTWvu"
+    },
+    {
+      "album": {
         "name": "STATEMENT",
         "url": "https://open.spotify.com/album/5xYyqytAOdlE6fMm4ONtAi"
       },
@@ -20634,7 +20776,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 176898,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/3JJ70Yq4PzMCTha53z8hxo"
@@ -21070,7 +21212,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 119175,
       "name": "Thinking About Drilling",
       "url": "https://open.spotify.com/track/1QLgRHLG9sQXq4Plb600kj"
@@ -22280,7 +22422,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 149380,
       "name": "VENTRILOQUIST",
       "url": "https://open.spotify.com/track/6DSBcwuz3OnlGEIoueZ3XB"
@@ -22838,7 +22980,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 148800,
       "name": "what the funk",
       "url": "https://open.spotify.com/track/1vGS1oeykk8jntKLxH2cPp"
@@ -23215,6 +23357,28 @@
     },
     {
       "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/0WNKfdhHM2B4j9NpDe0tPd"
+      },
+      "artists": [
+        {
+          "name": "Dr. Bushman",
+          "url": "https://open.spotify.com/artist/67CMLRzkbiW2rmBS6LzhZ7"
+        },
+        {
+          "name": "BiigSlime",
+          "url": "https://open.spotify.com/artist/3ah8lDlN0dpzcSiuhh4zhq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183037,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/304gunsibSamxVUt17GrLv"
+    },
+    {
+      "album": {
         "name": "WINNING",
         "url": "https://open.spotify.com/album/3vIF0PTXPI4yucAnvwS1l3"
       },
@@ -23380,6 +23544,28 @@
       "duration_ms": 120888,
       "name": "Woke up",
       "url": "https://open.spotify.com/track/2hoe9iD2gecT97dkq9QsdU"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/0U8ZxJRdNXUGFwpJFqQm9D"
+      },
+      "artists": [
+        {
+          "name": "Classified",
+          "url": "https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN"
+        },
+        {
+          "name": "Ian Janes",
+          "url": "https://open.spotify.com/artist/6P4BsECLsxl8Xxdd9TMOjB"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207220,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5uTK6cOfvHjOPV6e2XWltx"
     },
     {
       "album": {

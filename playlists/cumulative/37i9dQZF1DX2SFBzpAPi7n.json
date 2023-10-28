@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: QWER) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: cotoba(\ucf54\ud1a0\ubc14)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1277,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Catch me",
+        "url": "https://open.spotify.com/album/17B8NJ6VWj6JjlNvYo0z4j"
+      },
+      "artists": [
+        {
+          "name": "bandi",
+          "url": "https://open.spotify.com/artist/1ZAcR8cdwu2BbwPAzE0Ntd"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167733,
+      "name": "Catch me",
+      "url": "https://open.spotify.com/track/0L4fQABUpqfxzJdTD0QGCC"
+    },
+    {
+      "album": {
         "name": "Lord of Heroes OST Part 1",
         "url": "https://open.spotify.com/album/75ZMTjX52zVKPRXnHbwNve"
       },
@@ -1390,6 +1408,24 @@
       "duration_ms": 220177,
       "name": "Classic (feat. MRCH)",
       "url": "https://open.spotify.com/track/04nm6ulhFSxi1xejIFWsmW"
+    },
+    {
+      "album": {
+        "name": "co-isolation",
+        "url": "https://open.spotify.com/album/4Dayk4y6uYUwI5Ok1Hfxa5"
+      },
+      "artists": [
+        {
+          "name": "cotoba",
+          "url": "https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302026,
+      "name": "coii - Single Verion",
+      "url": "https://open.spotify.com/track/1f7c2QDWM7KWVQMXmarNbF"
     },
     {
       "album": {
@@ -2934,7 +2970,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 224015,
       "name": "HAPPENING",
       "url": "https://open.spotify.com/track/5dpQn0AXTRnJV0Ik1FcU47"
@@ -3354,7 +3390,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 190000,
       "name": "I hate you",
       "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
@@ -5021,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Navillera",
+        "url": "https://open.spotify.com/album/2pLW8MHtuFT62bk9WC7oA4"
+      },
+      "artists": [
+        {
+          "name": "Biuret",
+          "url": "https://open.spotify.com/artist/3ebT6m7SiOMVzQKgc3y9yn"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192170,
+      "name": "Navillera",
+      "url": "https://open.spotify.com/track/5J4E8EChG1AJWFwxZNgn76"
+    },
+    {
+      "album": {
         "name": "[Dystopia : Road to Utopia]",
         "url": "https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG"
       },
@@ -5747,6 +5801,24 @@
     },
     {
       "album": {
+        "name": "OOHYO Returns",
+        "url": "https://open.spotify.com/album/5iPXqgnaZVmXwIv9acle9Q"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243827,
+      "name": "Perhaps Maybe Returns",
+      "url": "https://open.spotify.com/track/7LueEdOMcCfcCGbxDtvw1O"
+    },
+    {
+      "album": {
         "name": "Rocksteric",
         "url": "https://open.spotify.com/album/3HWyyy6xnbKLRuLv5skOnJ"
       },
@@ -5812,7 +5884,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 206820,
       "name": "PIRI",
       "url": "https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69"
@@ -8930,7 +9002,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"

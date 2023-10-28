@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 Justo Antes de la Guerra con los Esquimales
 
-184 songs - 10 hr 29 min
+185 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [El Primer Color](https://open.spotify.com/track/6qkSVGEDjdBmhQccU7CWaD) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [El Primer Color](https://open.spotify.com/album/4dp1QJTGojYEDSmdtzAG1M) | 5:25 | 2023-03-23 |  |
 | [El Próximo Verano](https://open.spotify.com/track/6Ff9Z5bPflRCCRFBt6jtk0) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:29 | 2023-03-23 |  |
 | [El Viaje](https://open.spotify.com/track/4CZzNgqOqB8nvcJz1sG3AE) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [La Gracia De No Estar Solas](https://open.spotify.com/album/788Pukbo3xwJXaSBPzYEBh) | 2:45 | 2023-03-23 |  |
+| [Entre el Cielo y el Infierno](https://open.spotify.com/track/5gIwsOOF5mY18gyrGXr0Zb) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Entre el Cielo y el Infierno](https://open.spotify.com/album/3xew3ijgKqFp4YtkfuA55f) | 3:54 | 2023-10-27 |  |
 | [Era un Día Perfecto](https://open.spotify.com/track/2p4q16NmSsr8vobCRfigQl) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC), [Chary Loquero](https://open.spotify.com/artist/2js5TqocdHmmCV22px3iDE) | [Era un Día Perfecto](https://open.spotify.com/album/2I4sJxvwWdkpeIJ6Y8UboE) | 2:58 | 2022-03-25 | 2023-03-25 |
 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 | 2023-03-23 |  |
 | [Escape a Plutón](https://open.spotify.com/track/77p7tm1xAoZaMIouZNKkPp) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Escape a Plutón](https://open.spotify.com/album/50jmo3TCxTOYM1yBIpykqm) | 2:23 | 2022-03-25 | 2023-03-25 |
@@ -129,7 +130,7 @@
 | [no puedo volver](https://open.spotify.com/track/2LN4fRBRHEmhipl7OjQ9e1) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Medianoche Radio Club](https://open.spotify.com/album/1Bhx6as8YJyXPhRUS8rHj1) | 3:46 | 2022-03-25 | 2023-03-25 |
 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 | 2022-03-25 |  |
 | [No Voy a Salir de la Cama](https://open.spotify.com/track/7gZnkVesq9YHoXpe6Jmoh4) | [La Real Academia](https://open.spotify.com/artist/4Rin3fJL3HmFKZsoJ2OzZm) | [Programa](https://open.spotify.com/album/22bH5HAEXK1gBETj87xxXm) | 2:26 | 2023-04-07 |  |
-| [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 | 2023-07-14 |  |
+| [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 | 2023-07-14 | 2023-10-28 |
 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 | 2023-03-31 |  |
 | [Nube](https://open.spotify.com/track/0ptdCEFJjqE7hJJrUVz29z) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 1:10 | 2022-03-25 | 2023-03-25 |
 | [Nube](https://open.spotify.com/track/6016U5kfHuP9AEktlYZfzr) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 1:10 | 2022-03-25 | 2022-07-29 |

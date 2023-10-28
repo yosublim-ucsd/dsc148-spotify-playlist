@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: AMÉM
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,945 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,164 likes - 80 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 43 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 |
 | 44 | [Som das Águas \- Acústico](https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Som das Águas \(Acústico\)](https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB) | 3:45 |
 | 45 | [Espera Só Mais um Pouquinho](https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Espera Só Mais um Pouquinho](https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu) | 3:49 |
-| 46 | [Deserto](https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Rastros e Trilha](https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA) | 5:02 |
-| 47 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 |
+| 46 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 |
+| 47 | [Deserto](https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Rastros e Trilha](https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA) | 5:02 |
 | 48 | [Meu Barquinho](https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Meu Barquinho](https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va) | 3:56 |
 | 49 | [Se Não Fosse Ele](https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ) | [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Se Não Fosse Ele](https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr) | 4:49 |
 | 50 | [Promessa \- Ao Vivo](https://open.spotify.com/track/1FOrlR1cxL3edaOIoH4uVn) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Promessa \(Ao Vivo\)](https://open.spotify.com/album/4exZVjNV5GZpCJa8iMVSgT) | 4:16 |
 | 51 | [Seu Amor: YOUnique \- Acústico](https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor: YOUnique \(Acústico\)](https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA) | 7:24 |
 | 52 | [Ninguém Explica Deus](https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ninguém Explica Deus](https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3) | 5:01 |
-| 53 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 |
-| 54 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 |
+| 53 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 |
+| 54 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 |
 | 55 | [Intimidade \- Ao Vivo](https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Intimidade \(Ao Vivo\)](https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T) | 3:39 |
 | 56 | [Quanto Amor \- Acústico](https://open.spotify.com/track/4oTqFJc5YtuYNNM5VsgkKT) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Quanto Amor \(Acústico\)](https://open.spotify.com/album/7nwC2hRmSCpMHwLBGfcmyL) | 4:12 |
 | 57 | [Tuas Águas \- Acústico](https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Tuas Águas \(Acústico\)](https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t) | 4:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Além do Rio](https://open.spotify.com/track/5sqGOZkwV4UZkZGzJ9srrK) | [Laura Siderac](https://open.spotify.com/artist/2IBBRq3EVSXhA92tT5LAUl), [Jader Santos](https://open.spotify.com/artist/0LgOPOdCNpAxAkFWiliKpx), [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e) | [Além do Rio](https://open.spotify.com/album/0ClOudFFEe8XqjDnFJxQyS) | 4:11 |
 | 80 | [Nada vai me separar \(Acústico\)](https://open.spotify.com/track/3lvW6YlRwTIhRkrFsqpXyD) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/2LEQUVyuNA0EveW6JSeIGw) | 4:38 |
 
-Snapshot ID: `MCw3M2IxOTgxOTE3NzE4YzY0YjY0N2MyNzE1NjUzZTk1OWI4MWJhYWNl`
+Snapshot ID: `MCwzNTNiZDM5OTg5N2E3NjcxMTc0ZmMwYzdlNGRmNDJkNTQxN2IwOTg5`

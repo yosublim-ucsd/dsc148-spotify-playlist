@@ -4,7 +4,7 @@
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-256 songs - 15 hr 7 min
+257 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 | 2019-07-29\* | 2020-02-21 |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2023-03-03 |  |
 | [ivy](https://open.spotify.com/track/19CSr8rwW05VJL2F91KFNK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:20 | 2021-10-09 | 2022-10-22 |
+| [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 | 2023-10-27 |  |
 | [Kiss Me](https://open.spotify.com/track/0Tel1fmuCxEFV6wBLXsEdk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:40 | 2019-07-29\* |  |
 | [La Vie En Rose](https://open.spotify.com/track/2BAsBkA10fTRZhF5iMs0Dh) | [Emily Watts](https://open.spotify.com/artist/2xlXhojRv11o5sWDjOx8lp) | [La Vie En Rose](https://open.spotify.com/album/5Q4ygTh5Iv6FpNxcKE6uU5) | 2:37 | 2022-07-28 | 2023-02-15 |
 | [La Vie En Rose](https://open.spotify.com/track/3PV8uIQnxD4Qiimn3x6PVr) | [Emily Watts](https://open.spotify.com/artist/2xlXhojRv11o5sWDjOx8lp) | [La Vie En Rose](https://open.spotify.com/album/3J0bVl3H4NtLL64ghrER4r) | 2:37 | 2023-03-03 |  |
@@ -170,7 +171,7 @@
 | [Oh What A Love](https://open.spotify.com/track/5Z8O4RFAmjA13jrOYIgyXA) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Oh What A Love](https://open.spotify.com/album/5JO8VbjPy4ZGpL1qYC9gPv) | 3:55 | 2020-12-25 | 2022-07-29 |
 | [On Your Way Home](https://open.spotify.com/track/4sFhD0PjpNgV8M8yIzt7C2) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 2:45 | 2021-05-22 | 2022-11-13 |
 | [One Call Away](https://open.spotify.com/track/2uEJanMvnA1dXgX1ASnPQm) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away](https://open.spotify.com/album/2xxwxdvN2zjplMH7gsy2QM) | 3:12 | 2019-07-29\* | 2020-04-23 |
-| [ONE IN A MILLION](https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:14 | 2022-07-28 |  |
+| [ONE IN A MILLION](https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:14 | 2022-07-28 | 2023-10-28 |
 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 | 2022-02-11 |  |
 | [One More Time Around](https://open.spotify.com/track/3DyhwZyBFedvnt68fMi6vf) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Karis](https://open.spotify.com/artist/1U9tVmBqCyiaP2gDSVwDIX), [Ray Lorraine](https://open.spotify.com/artist/4lf5sycK82JMzmkebi1Kic) | [One More Time Around](https://open.spotify.com/album/1reyQmIGDNOUhJiVd78sZZ) | 3:25 | 2019-10-18 | 2022-07-29 |
 | [Paperweight by Joshua Radin and Schuyler Fisk](https://open.spotify.com/track/7IjL4IoQZMk1dOI4MH1T0i) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Paperweight by Joshua Radin and Schuyler Fisk](https://open.spotify.com/album/1llgroOoPNwILl0RNnHoh7) | 3:24 | 2019-07-29\* | 2019-08-16 |

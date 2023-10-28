@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys?si=\_SkkIr7mTK\-80NWvju\_itw"> Spyro </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,615 likes - 78 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,624 likes - 78 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 19 | [LEANING](https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL), [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [LEANING](https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO) | 2:33 |
 | 20 | [Holiday Sniping](https://open.spotify.com/track/1fZS5QzwiwU3BvE9FJHo6d) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Holiday Sniping](https://open.spotify.com/album/2bByla9AqUB3Rqgz2nFd0F) | 2:22 |
 | 21 | [No Room For Love](https://open.spotify.com/track/3UsjXOmKtQhUs9yD9cd05F) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Bitter Sweet](https://open.spotify.com/album/7J6cbhhY4seRJ9d9VUzjnY) | 3:09 |
-| 22 | [Distance](https://open.spotify.com/track/0ggCD4HQ0FdHQL23yHLTBV) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Distance](https://open.spotify.com/album/31UrS5lzAhtQLtNKQqb9Hl) | 3:53 |
+| 22 | [Distance](https://open.spotify.com/track/4VfXcG4R34Wu0AMsQCMQKu) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Loved Ones](https://open.spotify.com/album/2uVBRxKpcJAh0LwANbtmRa) | 3:53 |
 | 23 | [Again](https://open.spotify.com/track/6zDZvJJRxofaA7c9ombPIH) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Again](https://open.spotify.com/album/0FbNfX2DcyFNvgrSe0ZLba) | 3:04 |
 | 24 | [7 in the Morning](https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [7 in the Morning](https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7) | 3:34 |
 | 25 | [High](https://open.spotify.com/track/0wDtgVTuZi9CI7ZgmGpUte) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [High](https://open.spotify.com/album/1id8REDDhCTpmR2jX7poYf) | 2:50 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 77 | [Hypnotic](https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:07 |
 | 78 | [Love Dimension](https://open.spotify.com/track/4UCwWL7cXSnRzQQzqnPZVN) | [MOONLIGHT AFRIQA](https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF) | [Love Dimension](https://open.spotify.com/album/5WwKRfcpYRBA8MSuLHoetx) | 2:25 |
 
-Snapshot ID: `MCw5NmUwOGMzMWU1ZTEwMWJjNzhkMDI0NWVjOGY1NTdjMjU5YWM0Yjc1`
+Snapshot ID: `MCw2YzcwNGI0NjJhYjFkYjNiNDk4YWJhNTEwNDQ4MDRmOTY5MTcxZjk5`

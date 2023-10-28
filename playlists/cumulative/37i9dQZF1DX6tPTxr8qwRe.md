@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Dove Cameron
 
-519 songs - 23 hr 50 min
+521 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Make A Wish](https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Make A Wish](https://open.spotify.com/album/7nUfxVkgiGGaPddm8Y4ojp) | 2:38 | 2022-02-25 | 2022-05-07 |
 | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/track/2iv9L7pBxfuGIRbJx7ip1D) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Deadbeat Girl](https://open.spotify.com/artist/6V267iCF72e4eP1L3ZkKQt) | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/album/2DiEV6hfnGqeCud4kf5gyK) | 3:30 | 2023-08-04 | 2023-09-16 |
 | [Man On The Moon](https://open.spotify.com/track/0OnON3yLi4ZSzqhgyFxwdi) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Man On The Moon](https://open.spotify.com/album/5Okndjg5uas9PGvm8SIRAl) | 2:47 | 2023-06-30 | 2023-09-09 |
-| [Mantrum](https://open.spotify.com/track/60521PjAnsrU4eC0BX46WB) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Mantrum](https://open.spotify.com/album/197HGDLjmzlE8MZT8SrZPm) | 2:34 | 2023-01-27 |  |
+| [Mantrum](https://open.spotify.com/track/60521PjAnsrU4eC0BX46WB) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Mantrum](https://open.spotify.com/album/197HGDLjmzlE8MZT8SrZPm) | 2:34 | 2023-01-27 | 2023-10-28 |
 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 | 2022-10-14 | 2023-07-08 |
 | [MASOCHIST](https://open.spotify.com/track/3wlU8UYOvnnbt9BYkBqrgH) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [OVER HER DEAD BODY](https://open.spotify.com/album/16VkEvSvpJZVdqchm8E6F2) | 2:23 | 2023-10-13 |  |
 | [Masterclass](https://open.spotify.com/track/0H5nic3dfKXg09HQGmcmTq) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Masterclass](https://open.spotify.com/album/5s865EPaHzPgrilRTsz1GA) | 2:52 | 2022-04-29 | 2022-06-18 |
@@ -381,7 +381,7 @@
 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-10 | 2023-07-15 |
 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 | 2023-08-18 |  |
 | [RUDE](https://open.spotify.com/track/2PXHdc5d8Uuckc2e9hhBEV) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [RUDE](https://open.spotify.com/album/05iSGiCNkYxLUThUK2C4Ob) | 2:24 | 2023-02-24 | 2023-08-19 |
-| [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 | 2023-06-23 |  |
+| [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 | 2023-06-23 | 2023-10-28 |
 | [RÉSUMÉ](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [RÉSUMÉ](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 | 2022-05-06 | 2022-05-20 |
 | [SACRILEGIOUS \(with TOKYO'S REVENGE\)](https://open.spotify.com/track/47mzGm0Jp2OzKOuK1T7mYI) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [SACRILEGIOUS \(with TOKYO'S REVENGE\)](https://open.spotify.com/album/6NcKtumpdHtY6Mbcmb4nci) | 2:42 | 2022-02-11 | 2022-02-19 |
 | [SAD B!TCH](https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [SAD B!TCH](https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ) | 2:12 | 2023-02-03 | 2023-09-23 |
@@ -423,6 +423,7 @@
 | [Soul](https://open.spotify.com/track/6WNIUgZ7i8GliBVohtkIEt) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Soul](https://open.spotify.com/album/6dfu73S0vDUoTOF7Dh4ZXS) | 3:30 | 2022-09-16 | 2022-10-08 |
 | [Soul Sucker, Pt\. 2](https://open.spotify.com/track/7lSRoGGERYMfi5mDotavru) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Soul Sucker, Pt\. 2](https://open.spotify.com/album/5DkmK3sQcBanrRg1lFHlMs) | 2:41 | 2021-11-12 | 2022-03-12 |
 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 | 2023-10-13 | 2023-10-21 |
+| [Spooked](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [Spooked](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 | 2023-10-27 |  |
 | [STFU](https://open.spotify.com/track/7KDs1jdpDww170OCpPsjV4) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [STFU](https://open.spotify.com/album/13xF7dlZO7Y8wUM1g4Hvrl) | 2:21 | 2022-07-22 | 2022-09-24 |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-03 | 2023-03-18 |
 | [Strongly Worded Letter](https://open.spotify.com/track/0ZuQFjhs929dxImCpeomRE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:18 | 2023-10-06 |  |
@@ -525,6 +526,7 @@
 | [Yes No Okay](https://open.spotify.com/track/6GQzzmWX9hUV23fyhbFNm7) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BOTTOMS \(Original Motion Picture Score\)](https://open.spotify.com/album/48ZXLW2ZEThXeScpsxelMa) | 3:04 | 2023-09-03 | 2023-09-23 |
 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-17 | 2023-06-03 |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-07-09 |
+| [You're Not A God](https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [You're Not A God](https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys) | 3:03 | 2023-10-27 |  |
 | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ) | 2:57 | 2023-09-22 |  |
 | [ZOMBIE](https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ZOMBIE](https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv) | 3:13 | 2023-01-27 | 2023-06-17 |
 

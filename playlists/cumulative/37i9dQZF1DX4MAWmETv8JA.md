@@ -2,9 +2,9 @@
 
 ### [Trance Latino](https://open.spotify.com/playlist/37i9dQZF1DX4MAWmETv8JA)
 
-> O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
+> O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Delta Species, Middle\-D
 
-85 songs - 8 hr 14 min
+86 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Synapses in Amsterdam](https://open.spotify.com/track/1ZnHUp5jiWFkkN5u26UlmG) | [A\-Dyad](https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6) | [Synapses in Amsterdam](https://open.spotify.com/album/6iwNOZtaXqpD1qxlAJQpub) | 6:44 | 2022-03-04 |  |
 | [Technical Journey](https://open.spotify.com/track/6pgLNcfT7CknMmjYYgBZwD) | [D\-Stroyer](https://open.spotify.com/artist/2WRMUXhCDLTcEzLzlIhPre) | [Technical Journey](https://open.spotify.com/album/38pRM4c3oPXMRxeSkJeSrB) | 2:45 | 2022-03-04 |  |
 | [The Answer \- Original mix](https://open.spotify.com/track/1Ihgvz6cEsutxYzz8IXePE) | [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4), [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [The Answer](https://open.spotify.com/album/2WXbIGXbHCIDVxRaEt69iF) | 7:02 | 2022-03-04 |  |
+| [The Hell \(That You Want\)](https://open.spotify.com/track/2m1SfeXdbxcI9VmUKTGc92) | [Delta Species](https://open.spotify.com/artist/6XHNTLKZijuqf1N7Frab5Y), [Middle\-D](https://open.spotify.com/artist/6oIjHF0fYF8U4cJ0x21ojF) | [The Hell \(That You Want\)](https://open.spotify.com/album/5iWh1b787En1vAjNISJ8Iz) | 8:55 | 2023-10-27 |  |
 | [Time Travel](https://open.spotify.com/track/3ZVyByS3n7fD4pAlHKSRfe) | [Audiophonic](https://open.spotify.com/artist/44ryvVYKLCi6LWlS4w81sK), [Cosmic Energy](https://open.spotify.com/artist/1Hsp6WoqluMRY5ZqMzuGkt) | [Time Travel](https://open.spotify.com/album/1QwOYb82h3LxtiraU28XcP) | 6:03 | 2022-03-04 |  |
 | [Tomorrow](https://open.spotify.com/track/0wjtSNSggD1hG7Fblcvscg) | [Paranormal Attack](https://open.spotify.com/artist/3XFXGwdeqcU5eBVSJd0pt3), [HACOON](https://open.spotify.com/artist/1Ez24RpFrEgoQK3MalsCiC) | [Tomorrow](https://open.spotify.com/album/1ZphlDr7w7ToL8cQm1unH6) | 3:58 | 2023-07-07 |  |
 | [Wake Up](https://open.spotify.com/track/5DF2hq3nskYLTZZMbQLbmn) | [Odiseo](https://open.spotify.com/artist/6eSdhw46riw2OUHgMwR8B5), [Physis](https://open.spotify.com/artist/1IM0Mnml2ITEkXZoULnu6Z) | [Wake Up](https://open.spotify.com/album/3L7IXtt5whtwMYePdfyQvq) | 6:04 | 2022-03-04 |  |

@@ -854,7 +854,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 218482,
       "name": "Boi",
       "url": "https://open.spotify.com/track/7aCc1Qi6GLpzR3yOzgGJnl"
@@ -2582,6 +2582,28 @@
       "duration_ms": 331680,
       "name": "Everything We Stand For",
       "url": "https://open.spotify.com/track/15WWkNz6GxqbgDXeji1pop"
+    },
+    {
+      "album": {
+        "name": "EVERYTHINGSALRIGHT (Ivy Lab Remix)",
+        "url": "https://open.spotify.com/album/0TWJEJVJcaR8NQcoxZcfhB"
+      },
+      "artists": [
+        {
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+        },
+        {
+          "name": "Ivy Lab",
+          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "EVERYTHINGSALRIGHT - Ivy Lab Remix",
+      "url": "https://open.spotify.com/track/4FosLIMN3mm6rQ7YztuKdS"
     },
     {
       "album": {

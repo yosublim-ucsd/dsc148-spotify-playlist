@@ -1,12 +1,12 @@
 {
   "description": "canzoni su cui piangere \ud83e\udd40",
-  "num_followers": 108524,
+  "num_followers": 108609,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzU5YmM0NmFiYzg3OTkzNmNlM2M3MjY0ZTc3NWE5MzVjOWRmZmNm",
+  "snapshot_id": "MCwzZmY4MDllMTgzYzQ3YzcwMzk2YjUyMzNiOTM5NWZlNjdhM2M0NDZm",
   "tracks": [
     {
       "added_at": "2023-10-18 15:42:11",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-18 15:42:11",
       "album": {
-        "name": "A Little Bit Yours",
-        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "A Little Bit Yours",
-      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
-    },
-    {
-      "added_at": "2023-10-18 15:42:11",
-      "album": {
         "name": "mama's boy",
         "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 203853,
       "name": "if this is the last time",
       "url": "https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc"
+    },
+    {
+      "added_at": "2023-10-18 15:42:11",
+      "album": {
+        "name": "A Little Bit Yours",
+        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "A Little Bit Yours",
+      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
     },
     {
       "added_at": "2023-10-18 15:42:11",

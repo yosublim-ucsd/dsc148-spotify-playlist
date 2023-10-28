@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Elmiene",
+  "description": "R&B of the moment by the artists of the future. Cover: Chxrry22",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
@@ -222,6 +222,24 @@
       "duration_ms": 167364,
       "name": "Achy",
       "url": "https://open.spotify.com/track/3BZEl44UzEcZA9t4lTCD6F"
+    },
+    {
+      "album": {
+        "name": "AFTER HOURS",
+        "url": "https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "AFTER HOURS",
+      "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
     },
     {
       "album": {
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 176720,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 169143,
       "name": "butterflies (feat. Rexx Life Raj)",
       "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
@@ -2352,6 +2370,24 @@
       "duration_ms": 153529,
       "name": "corazon (with French Montana)",
       "url": "https://open.spotify.com/track/01EFzBpejKX2wzFdMHKGR9"
+    },
+    {
+      "album": {
+        "name": "Counting Thunder",
+        "url": "https://open.spotify.com/album/3tPOrTz9PROAgrRWkiL1x8"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198578,
+      "name": "Counting Thunder",
+      "url": "https://open.spotify.com/track/0s754byjLl95PM4g25ZSmT"
     },
     {
       "album": {
@@ -3452,6 +3488,24 @@
     {
       "album": {
         "name": "Fake Love",
+        "url": "https://open.spotify.com/album/5uXuP0rY36kFwr3Ea2mBXF"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175966,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5EqNG2VsfilMEadJzoh6Af"
+    },
+    {
+      "album": {
+        "name": "Fake Love",
         "url": "https://open.spotify.com/album/5AIm2CIN2dIIlcsdgaAoHe"
       },
       "artists": [
@@ -3586,6 +3640,28 @@
       "duration_ms": 199426,
       "name": "Far Away (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/14qNHvX8h6HoynFuV0RxWS"
+    },
+    {
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183346,
+      "name": "Favorite Girl (feat. Offset)",
+      "url": "https://open.spotify.com/track/1FLoO1AlfxAqJ84FIeJrKZ"
     },
     {
       "album": {
@@ -6406,7 +6482,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 217902,
       "name": "Layin Next to Me",
       "url": "https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt"
@@ -6530,6 +6606,24 @@
       "duration_ms": 225933,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/5fbiUB75zbrp6EY44IalDK"
+    },
+    {
+      "album": {
+        "name": "Let This Go",
+        "url": "https://open.spotify.com/album/4JtkxBWC37gnLUi1oWid1V"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177363,
+      "name": "Let This Go",
+      "url": "https://open.spotify.com/track/5AvT8QuysDMHiqKD9lDulK"
     },
     {
       "album": {
@@ -7707,6 +7801,28 @@
     },
     {
       "album": {
+        "name": "Need U Tonite",
+        "url": "https://open.spotify.com/album/1fosbY1jCipe3rYvEU8S8V"
+      },
+      "artists": [
+        {
+          "name": "Breez Kennedy",
+          "url": "https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p"
+        },
+        {
+          "name": "Genia",
+          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145813,
+      "name": "Need U Tonite (with Genia)",
+      "url": "https://open.spotify.com/track/0DFrS6DTGOH3CEWFuPDKtk"
+    },
+    {
+      "album": {
         "name": "Needs & Wants",
         "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
       },
@@ -7838,7 +7954,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 169428,
       "name": "No Feelings",
       "url": "https://open.spotify.com/track/7KQPINPzT8M3ynLnWhl45M"
@@ -8287,6 +8403,28 @@
     },
     {
       "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "ONE THING",
+      "url": "https://open.spotify.com/track/5XqCstp7T3HRbPUOuzvN6a"
+    },
+    {
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg"
       },
@@ -8588,7 +8726,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 152396,
       "name": "Palace",
       "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
@@ -9026,6 +9164,24 @@
       "duration_ms": 174330,
       "name": "Poster Girl",
       "url": "https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn"
+    },
+    {
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224606,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
     },
     {
       "album": {
@@ -10221,6 +10377,28 @@
     },
     {
       "album": {
+        "name": "GHS Pt. 2",
+        "url": "https://open.spotify.com/album/6O6sUvzt2rp0ZyKPpiOZtp"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197784,
+      "name": "Separate (feat. Bibi Bourelly)",
+      "url": "https://open.spotify.com/track/1tPZvWPG2WyOP69lD1wE4w"
+    },
+    {
+      "album": {
         "name": "Serial Fboy",
         "url": "https://open.spotify.com/album/4VcIRSsRXAs7e1Xy9rxmaM"
       },
@@ -10566,7 +10744,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189546,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
@@ -12424,7 +12602,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -12976,7 +13154,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 174304,
       "name": "wish you hell",
       "url": "https://open.spotify.com/track/5QTpJCeiyOyBVaeThyMQUV"
@@ -13336,6 +13514,24 @@
       "duration_ms": 251582,
       "name": "YOU UNDERSTAND",
       "url": "https://open.spotify.com/track/4TOPfXVRCzqxEFqSQPlSXZ"
+    },
+    {
+      "album": {
+        "name": "You, The World Vs Me",
+        "url": "https://open.spotify.com/album/4V49T04xtT0ZAN5I6wmHWr"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123319,
+      "name": "You, The World Vs Me",
+      "url": "https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI"
     },
     {
       "album": {

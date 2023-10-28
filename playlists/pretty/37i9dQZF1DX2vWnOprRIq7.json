@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Carolo.",
-  "num_followers": 16644,
+  "num_followers": 16652,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmNlNGU3ZTM4NTdjMjI4NDE0NjcwZGJhMGZkNjA1ZWUwMmE1NDRj",
+  "snapshot_id": "MCw3MWI3ZDRhZWVjZTEyOGEyNjA1ZmI0OWY0ZTQwMTA3MGIyNzA5Nzdm",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Xtasis",
         "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 203125,
       "name": "Xtasis",
       "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "CONSTITUCI\u00d3N",
+        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 161977,
+      "name": "CONSTITUCI\u00d3N",
+      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "CONSTITUCI\u00d3N",
-        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
+        "name": "El d\u00eda libre de Polux",
+        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
       },
       "artists": [
         {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
         }
       ],
-      "duration_ms": 161977,
-      "name": "CONSTITUCI\u00d3N",
-      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
+      "duration_ms": 229010,
+      "name": "Venenos",
+      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -383,22 +399,6 @@
       "duration_ms": 249148,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "El d\u00eda libre de Polux",
-        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 229010,
-      "name": "Venenos",
-      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "mejor me voy: )",
-        "url": "https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 182591,
-      "name": "mejor me voy :)",
-      "url": "https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "C\u00f3mplices",
         "url": "https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE"
       },
@@ -503,22 +487,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Fuera de Campo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz"
+        "name": "mejor me voy: )",
+        "url": "https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs"
       },
       "artists": [
         {
-          "name": "D\u00ebnver",
-          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
-        },
-        {
-          "name": "Alejandro Paz",
-          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
         }
       ],
-      "duration_ms": 296909,
-      "name": "Revista de Gimnasia - Alejandro Paz Remix",
-      "url": "https://open.spotify.com/track/5FR4gA58DZ7rzDb3LQVYyW"
+      "duration_ms": 182591,
+      "name": "mejor me voy :)",
+      "url": "https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -543,6 +523,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Fuera de Campo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz"
+      },
+      "artists": [
+        {
+          "name": "D\u00ebnver",
+          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
+        },
+        {
+          "name": "Alejandro Paz",
+          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+        }
+      ],
+      "duration_ms": 296909,
+      "name": "Revista de Gimnasia - Alejandro Paz Remix",
+      "url": "https://open.spotify.com/track/5FR4gA58DZ7rzDb3LQVYyW"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "No te sueltes",
         "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
       },
@@ -559,6 +559,26 @@
       "duration_ms": 225002,
       "name": "No te sueltes",
       "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Salto al Alba",
+        "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
+      },
+      "artists": [
+        {
+          "name": "Florencia Lira",
+          "url": "https://open.spotify.com/artist/2hM4CiRoa5h6YTiUfbWTCo"
+        },
+        {
+          "name": "PORO",
+          "url": "https://open.spotify.com/artist/4DqLqBHceXcFZVxFTF2cgS"
+        }
+      ],
+      "duration_ms": 247149,
+      "name": "Tiene Sentido",
+      "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -591,26 +611,6 @@
       "duration_ms": 178773,
       "name": "Nunca Estuvo en Ti el Litoral",
       "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Salto al Alba",
-        "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
-      },
-      "artists": [
-        {
-          "name": "Florencia Lira",
-          "url": "https://open.spotify.com/artist/2hM4CiRoa5h6YTiUfbWTCo"
-        },
-        {
-          "name": "PORO",
-          "url": "https://open.spotify.com/artist/4DqLqBHceXcFZVxFTF2cgS"
-        }
-      ],
-      "duration_ms": 247149,
-      "name": "Tiene Sentido",
-      "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -783,30 +783,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Pervertida",
-        "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
-      },
-      "artists": [
-        {
-          "name": "Vera Frod",
-          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
-        },
-        {
-          "name": "Punga",
-          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
-        },
-        {
-          "name": "MAG",
-          "url": "https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Pervertida",
-      "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Consenso",
         "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
       },
@@ -847,22 +823,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Tan besh",
-        "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
+        "name": "Pervertida",
+        "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
       },
       "artists": [
         {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+          "name": "Vera Frod",
+          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
         },
         {
-          "name": "Nan Que",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+          "name": "Punga",
+          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
+        },
+        {
+          "name": "MAG",
+          "url": "https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz"
         }
       ],
-      "duration_ms": 171162,
-      "name": "Tan besh",
-      "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
+      "duration_ms": 149538,
+      "name": "Pervertida",
+      "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -883,8 +863,28 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Cerca",
-        "url": "https://open.spotify.com/album/1aJhI4ScKLiPEFTkVSjZhx"
+        "name": "Tan besh",
+        "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        },
+        {
+          "name": "Nan Que",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        }
+      ],
+      "duration_ms": 171162,
+      "name": "Tan besh",
+      "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Bajo la piel",
+        "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
       },
       "artists": [
         {
@@ -892,13 +892,13 @@
           "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
         },
         {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
         }
       ],
-      "duration_ms": 242238,
-      "name": "Cerca",
-      "url": "https://open.spotify.com/track/0zwXoziSBZBHK6Z0HDBxJc"
+      "duration_ms": 240113,
+      "name": "Bajo la piel",
+      "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Bajo la piel",
-        "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
+        "name": "Cerca",
+        "url": "https://open.spotify.com/album/1aJhI4ScKLiPEFTkVSjZhx"
       },
       "artists": [
         {
@@ -1064,13 +1064,13 @@
           "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
         },
         {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
         }
       ],
-      "duration_ms": 240113,
-      "name": "Bajo la piel",
-      "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+      "duration_ms": 242238,
+      "name": "Cerca",
+      "url": "https://open.spotify.com/track/0zwXoziSBZBHK6Z0HDBxJc"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Aparecido",
+        "url": "https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 201102,
+      "name": "Sue\u00f1o e Inteligencia",
+      "url": "https://open.spotify.com/track/49rugM5SCkP2HNgebx8Xi7"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "El Estado de las Cosas Como Son",
         "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
       },
@@ -1275,18 +1291,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Aparecido",
-        "url": "https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T"
+        "name": "Caracoles (Remix)",
+        "url": "https://open.spotify.com/album/0AldwRiyQ2Ui16BgplO8vM"
       },
       "artists": [
         {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+          "name": "Mati y Adri",
+          "url": "https://open.spotify.com/artist/5NHx8y3GfAe3Xaxt6mxU1s"
+        },
+        {
+          "name": "La Familia de Ukeleles",
+          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
         }
       ],
-      "duration_ms": 201102,
-      "name": "Sue\u00f1o e Inteligencia",
-      "url": "https://open.spotify.com/track/49rugM5SCkP2HNgebx8Xi7"
+      "duration_ms": 197810,
+      "name": "Caracoles - Remix",
+      "url": "https://open.spotify.com/track/2sWGZbEYl4zlqKcqxrhcUH"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1323,26 +1343,6 @@
       "duration_ms": 163676,
       "name": "Azar",
       "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Caracoles (Remix)",
-        "url": "https://open.spotify.com/album/0AldwRiyQ2Ui16BgplO8vM"
-      },
-      "artists": [
-        {
-          "name": "Mati y Adri",
-          "url": "https://open.spotify.com/artist/5NHx8y3GfAe3Xaxt6mxU1s"
-        },
-        {
-          "name": "La Familia de Ukeleles",
-          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
-        }
-      ],
-      "duration_ms": 197810,
-      "name": "Caracoles - Remix",
-      "url": "https://open.spotify.com/track/2sWGZbEYl4zlqKcqxrhcUH"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Lineas del Cielo",
-        "url": "https://open.spotify.com/album/5ho7ZrIlccfeO2hXnVmYmc"
-      },
-      "artists": [
-        {
-          "name": "Alfonsina",
-          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
-        },
-        {
-          "name": "MaisonMusic",
-          "url": "https://open.spotify.com/artist/4sVdc8xEu0jQAB77aq1Cd9"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "Lineas del Cielo",
-      "url": "https://open.spotify.com/track/462HCRcBrPdgOULlkefcmK"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Tiempo Sin Piel",
         "url": "https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 248700,
       "name": "Tiempo Sin Piel",
       "url": "https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Lineas del Cielo",
+        "url": "https://open.spotify.com/album/5ho7ZrIlccfeO2hXnVmYmc"
+      },
+      "artists": [
+        {
+          "name": "Alfonsina",
+          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
+        },
+        {
+          "name": "MaisonMusic",
+          "url": "https://open.spotify.com/artist/4sVdc8xEu0jQAB77aq1Cd9"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Lineas del Cielo",
+      "url": "https://open.spotify.com/track/462HCRcBrPdgOULlkefcmK"
     },
     {
       "added_at": "2023-10-06 03:00:00",

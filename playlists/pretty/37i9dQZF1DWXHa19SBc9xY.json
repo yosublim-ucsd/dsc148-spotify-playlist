@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 79970,
+  "num_followers": 80064,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzY4MjMzYTEzMjQ5NTY0YzYwNzE0YjQzNTU2NTA4ZjQyYmJlOTc5",
+  "snapshot_id": "MCxkNTQ1MDJmMzQ0MTU1MmNkZmYyOGNiYmJhMjQ0MTU3NmVjZWFiOWJm",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -243,22 +243,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "15b",
-        "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
         }
       ],
-      "duration_ms": 161000,
-      "name": "15b",
-      "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -299,18 +295,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+        "name": "15b",
+        "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
       },
       "artists": [
         {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+      "duration_ms": 161000,
+      "name": "15b",
+      "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "\u00c1gua Salgada",
         "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 201558,
       "name": "\u00c1gua Salgada",
       "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -783,22 +783,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "N\u00f3s Dois Aqui",
-        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
         }
       ],
-      "duration_ms": 241572,
-      "name": "N\u00f3s Dois Aqui",
-      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
+      "duration_ms": 197610,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -819,18 +815,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+        "name": "N\u00f3s Dois Aqui",
+        "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
         }
       ],
-      "duration_ms": 197610,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
+      "duration_ms": 241572,
+      "name": "N\u00f3s Dois Aqui",
+      "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
     },
     {
       "added_at": "2023-10-20 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: City and Colour",
-  "num_followers": 62884,
+  "num_followers": 62936,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWRkYmY2ZTNhZmEzOWVmMDNmZjk1ZGU1ODY4YjA2ZGU1YWMyMDBk",
+  "snapshot_id": "MCxlODQzNjU5MzY1NzkwOTAwOGIwZTU1ZWUzNjE3NzdjYzNhMWMzMjIz",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Disobey",
         "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 254805,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 186813,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "parents",
-      "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "parents",
+      "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "EDGING",
-        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "EDGING",
-      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 237986,
       "name": "Hypersonic Missiles",
       "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "EDGING",
+        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "EDGING",
+      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
     },
     {
       "added_at": "2023-10-20 04:00:00",

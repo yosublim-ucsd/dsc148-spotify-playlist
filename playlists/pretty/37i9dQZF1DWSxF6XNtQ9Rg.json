@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Marra e Gu\u00e8",
-  "num_followers": 195993,
+  "num_followers": 196085,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjllNjkyZDYzYzQ5YWViODdjNDNhMjA2MWQ0NmJiODQ5YTA0MTkx",
+  "snapshot_id": "MCxjOTYyYTE1MTVhYjQ5OTljZjQ3ZmMxZTc4OGNhMWM3ZWMyZTEyNzBh",
   "tracks": [
     {
       "added_at": "2023-09-21 22:01:00",
@@ -63,42 +63,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Pel\u00e9",
-        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
-        }
-      ],
-      "duration_ms": 133858,
-      "name": "Pel\u00e9",
-      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "MOLOTOV",
-        "url": "https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 160204,
-      "name": "MOLOTOV",
-      "url": "https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "M' Manc (con Geolier & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm"
       },
@@ -119,6 +83,42 @@
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "MOLOTOV",
+        "url": "https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 160204,
+      "name": "MOLOTOV",
+      "url": "https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "duration_ms": 133858,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
       },
       "artists": [
         {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 144930,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
+      "duration_ms": 192688,
+      "name": "CRAZY LOVE",
+      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 133217,
       "name": "Marocchino",
       "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 192688,
-      "name": "CRAZY LOVE",
-      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 176245,
+      "name": "Pensando a lei",
+      "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 154960,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Dark Love EP",
-        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 176245,
-      "name": "Pensando a lei",
-      "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "Come Uccidere Un Usignolo",
+        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 206510,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "Ma Jolie (feat. ANNA)",
         "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Come Uccidere Un Usignolo",
-        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 206510,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Davide",
         "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
@@ -1279,26 +1279,6 @@
       "duration_ms": 180346,
       "name": "Lo Sai Che Ci Penso",
       "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "GIOVANE RONDO",
-        "url": "https://open.spotify.com/album/19go1SwCMtX80cSTF7C8Qf"
-      },
-      "artists": [
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 217443,
-      "name": "SLATT (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/1YvhcTM8aIRTg03AavA2HJ"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1319,6 +1299,26 @@
       "duration_ms": 224150,
       "name": "Mon Fre - feat. Emis Killa",
       "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "GIOVANE RONDO",
+        "url": "https://open.spotify.com/album/19go1SwCMtX80cSTF7C8Qf"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 217443,
+      "name": "SLATT (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/1YvhcTM8aIRTg03AavA2HJ"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Angelina Jolie",
-        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
-        }
-      ],
-      "duration_ms": 169671,
-      "name": "Angelina Jolie",
-      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Bimbi",
         "url": "https://open.spotify.com/album/1UrR17tCBddq6cbSKQQWA2"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 240245,
       "name": "Bimbi",
       "url": "https://open.spotify.com/track/4JJtZMgxQgTlBBg7E9Qeac"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Angelina Jolie",
+        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "duration_ms": 169671,
+      "name": "Angelina Jolie",
+      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "Filtri",
+        "url": "https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "duration_ms": 169683,
+      "name": "Rompo (feat. Boro)",
+      "url": "https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1547,26 +1567,6 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Filtri",
-        "url": "https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        },
-        {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        }
-      ],
-      "duration_ms": 169683,
-      "name": "Rompo (feat. Boro)",
-      "url": "https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
         "name": "Famoso",
         "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 193554,
       "name": "Baby (with J Balvin)",
       "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1611,22 +1627,6 @@
       "duration_ms": 252991,
       "name": "Polvere (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/0ZzXPo0gS5h718w7WErG44"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1699,8 +1699,8 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Vero",
-        "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
       },
       "artists": [
         {
@@ -1708,9 +1708,9 @@
           "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 182232,
-      "name": "Eravamo Re",
-      "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
+      "duration_ms": 208506,
+      "name": "Bling Bling (Oro)",
+      "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "Vero",
+        "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 182232,
+      "name": "Eravamo Re",
+      "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -1819,34 +1835,18 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
+        "name": "Emanuele",
+        "url": "https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 208506,
-      "name": "Bling Bling (Oro)",
-      "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Malammore",
-        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 218695,
-      "name": "Che Dio Mi Benedica",
-      "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
+      "duration_ms": 196000,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/1BdmcsFAODQR4x7eiOuRVf"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Emanuele",
-        "url": "https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl"
+        "name": "Malammore",
+        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Narcos",
-      "url": "https://open.spotify.com/track/1BdmcsFAODQR4x7eiOuRVf"
+      "duration_ms": 218695,
+      "name": "Che Dio Mi Benedica",
+      "url": "https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d"
     },
     {
       "added_at": "2023-09-21 22:01:00",

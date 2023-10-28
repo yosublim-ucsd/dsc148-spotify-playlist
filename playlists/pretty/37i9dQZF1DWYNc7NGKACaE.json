@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 70551,
+  "num_followers": 70693,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjgzNjEzNDRjYzM0YzlhMTljYjI0ZDE0MzRjMjBkZGU3OWFjMTg3",
+  "snapshot_id": "MCwxODFjYjNiMjczYzdhYzU1NTI1NjY4ODZiNDM2MGJhNDE5Zjc4ZjRl",
   "tracks": [
     {
       "added_at": "2023-09-26 16:36:45",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-26 16:36:45",
       "album": {
-        "name": "Ah Vai Ter Que Descer - Remix",
-        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
-      },
-      "artists": [
-        {
-          "name": "LC DE VV",
-          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
-        }
-      ],
-      "duration_ms": 102511,
-      "name": "Ah Vai Ter Que Descer - Remix",
-      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
-    },
-    {
-      "added_at": "2023-09-26 16:36:45",
-      "album": {
         "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
         "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 160421,
       "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
       "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
+    },
+    {
+      "added_at": "2023-09-26 16:36:45",
+      "album": {
+        "name": "Ah Vai Ter Que Descer - Remix",
+        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
+      },
+      "artists": [
+        {
+          "name": "LC DE VV",
+          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
+        }
+      ],
+      "duration_ms": 102511,
+      "name": "Ah Vai Ter Que Descer - Remix",
+      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
     },
     {
       "added_at": "2023-09-26 16:36:45",

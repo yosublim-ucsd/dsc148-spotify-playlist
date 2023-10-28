@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: James Francis",
-  "num_followers": 35163,
+  "num_followers": 35257,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmMxODFjNGYzMDBhNTIwNzBhYmU2OGQ4NTg4ZDM3NzY0MjkyNjQ3",
+  "snapshot_id": "MCw4MTVjM2FlZmY5MDVhNmIzNGY4YzdkMGJmYmQwOTYwMzQ1NzA2OTBm",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Comedown",
-        "url": "https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk"
-      },
-      "artists": [
-        {
-          "name": "Jazzbois",
-          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
-        }
-      ],
-      "duration_ms": 159228,
-      "name": "Comedown",
-      "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Watercolors",
         "url": "https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 136946,
       "name": "While She Waits",
       "url": "https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Comedown",
+        "url": "https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        }
+      ],
+      "duration_ms": 159228,
+      "name": "Comedown",
+      "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Focus Up",
-        "url": "https://open.spotify.com/album/1oweSRD0bh09QJRCedoGkg"
-      },
-      "artists": [
-        {
-          "name": "Emperose",
-          "url": "https://open.spotify.com/artist/0BRMPrv2B9YgQuYQ3H4fja"
-        }
-      ],
-      "duration_ms": 161032,
-      "name": "Focus Up",
-      "url": "https://open.spotify.com/track/484tt1h7RV28dZ9swDWhKp"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "folding edges",
         "url": "https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 141882,
       "name": "folding edges",
       "url": "https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Focus Up",
+        "url": "https://open.spotify.com/album/1oweSRD0bh09QJRCedoGkg"
+      },
+      "artists": [
+        {
+          "name": "Emperose",
+          "url": "https://open.spotify.com/artist/0BRMPrv2B9YgQuYQ3H4fja"
+        }
+      ],
+      "duration_ms": 161032,
+      "name": "Focus Up",
+      "url": "https://open.spotify.com/track/484tt1h7RV28dZ9swDWhKp"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Routes To Knowledge",
+        "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
+      },
+      "artists": [
+        {
+          "name": "The Golden Eternity",
+          "url": "https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu"
+        }
+      ],
+      "duration_ms": 177201,
+      "name": "Routes To Knowledge",
+      "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "fugla",
         "url": "https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 130240,
       "name": "fugla",
       "url": "https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Routes To Knowledge",
-        "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
-      },
-      "artists": [
-        {
-          "name": "The Golden Eternity",
-          "url": "https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu"
-        }
-      ],
-      "duration_ms": 177201,
-      "name": "Routes To Knowledge",
-      "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1239,18 +1239,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
+        "name": "Cape Cod Cottage",
+        "url": "https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg"
       },
       "artists": [
         {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        },
+        {
+          "name": "Edward Blankman",
+          "url": "https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo"
         }
       ],
-      "duration_ms": 272124,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
+      "duration_ms": 148556,
+      "name": "Discovery at the Beach",
+      "url": "https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Cape Cod Cottage",
-        "url": "https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg"
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
       },
       "artists": [
         {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        },
-        {
-          "name": "Edward Blankman",
-          "url": "https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo"
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
         }
       ],
-      "duration_ms": 148556,
-      "name": "Discovery at the Beach",
-      "url": "https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo"
+      "duration_ms": 272124,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Tool Box",
-        "url": "https://open.spotify.com/album/60foAlPlTrG424X5Agh7Yh"
-      },
-      "artists": [
-        {
-          "name": "Noflik",
-          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
-        },
-        {
-          "name": ".multibeat",
-          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
-        }
-      ],
-      "duration_ms": 152937,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "This Was Once Out of Shape",
         "url": "https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2"
       },
@@ -1635,18 +1615,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Saucisses",
-        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
+        "name": "Tool Box",
+        "url": "https://open.spotify.com/album/60foAlPlTrG424X5Agh7Yh"
       },
       "artists": [
         {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        },
+        {
+          "name": ".multibeat",
+          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Saucisses",
-      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
+      "duration_ms": 152937,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1667,6 +1651,22 @@
       "duration_ms": 340000,
       "name": "Langeland Frukt & Tobakk",
       "url": "https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Saucisses",
+        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
+      },
+      "artists": [
+        {
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Saucisses",
+      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Goldfoil",
-        "url": "https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC"
-      },
-      "artists": [
-        {
-          "name": "lophiile",
-          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
-        }
-      ],
-      "duration_ms": 154972,
-      "name": "Goldfoil",
-      "url": "https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "How It is Now",
         "url": "https://open.spotify.com/album/2ok0mKvIlEg7jsFGYEZcV5"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 294085,
       "name": "Yield",
       "url": "https://open.spotify.com/track/1lFql1YShXyrUMMMd8St6U"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Goldfoil",
+        "url": "https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC"
+      },
+      "artists": [
+        {
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
+        }
+      ],
+      "duration_ms": 154972,
+      "name": "Goldfoil",
+      "url": "https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Be Water / You Can Fly",
-        "url": "https://open.spotify.com/album/68TYTxBLueBYiXeV5XNQur"
-      },
-      "artists": [
-        {
-          "name": "Klaus Layer",
-          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
-        }
-      ],
-      "duration_ms": 80875,
-      "name": "Be Water",
-      "url": "https://open.spotify.com/track/1FaBri7R5R5g3yIvjuMKXa"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/5tF9qI8ae8ieur4U7SSFow"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 204118,
       "name": "Up",
       "url": "https://open.spotify.com/track/2KM2zleCL1o3ruHOic7ZLY"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Be Water / You Can Fly",
+        "url": "https://open.spotify.com/album/68TYTxBLueBYiXeV5XNQur"
+      },
+      "artists": [
+        {
+          "name": "Klaus Layer",
+          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
+        }
+      ],
+      "duration_ms": 80875,
+      "name": "Be Water",
+      "url": "https://open.spotify.com/track/1FaBri7R5R5g3yIvjuMKXa"
     },
     {
       "added_at": "2023-10-27 00:01:00",

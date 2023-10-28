@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167865,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d"
+    },
+    {
+      "album": {
         "name": "Better Version",
         "url": "https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd"
       },

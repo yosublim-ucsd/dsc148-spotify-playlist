@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Julius Popper
 
-269 songs - 17 hr 7 min
+271 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Amar en Silencio](https://open.spotify.com/track/1VzT9tQGhJIxfPo6ydPBiV) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Amar en Silencio](https://open.spotify.com/album/6hoovBhEVxWz74nN37ZCoU) | 3:11 | 2022-04-08 | 2022-12-17 |
 | [Amor Violento](https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres Unplugged 20 Años](https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P) | 4:45 | 2022-04-08 |  |
 | [Arauco Tiene una Pena](https://open.spotify.com/track/2cBNm3iPJeD0nLiE6KB4Dc) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD), [Juanita Parra](https://open.spotify.com/artist/1cHf0iGXPhUQLfdkoE29Cj) | [Arauco Tiene una Pena](https://open.spotify.com/album/4WI0nDxBevacGtx4K2NFW9) | 5:48 | 2023-09-08 |  |
-| [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 | 2023-06-23 |  |
+| [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 | 2023-06-23 | 2023-10-28 |
 | [Autodaño](https://open.spotify.com/track/5hn4Hto1X3BKt8zqNQ6Cn2) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/0vMvyrCPhbm7gYDhUYr9Nu) | 3:09 | 2022-04-08 | 2023-02-01 |
 | [Autodaño](https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR) | 3:15 | 2023-03-03 |  |
 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 | 2023-04-28 |  |
@@ -43,6 +43,7 @@
 | [Casualidades](https://open.spotify.com/track/6SzCC78V5SvyB1bRJCcIx6) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 3:19 | 2022-04-08 | 2023-03-03 |
 | [Cayeron Lágrimas](https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Cayeron Lágrimas](https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak) | 3:35 | 2023-05-26 |  |
 | [Cerca del Sol](https://open.spotify.com/track/4LoB0vpJvhlROCaOMNJP78) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cerca del Sol](https://open.spotify.com/album/2JyB6oVNlkblXEsdHlBks6) | 4:32 | 2022-04-08 | 2023-03-03 |
+| [Cielo](https://open.spotify.com/track/0edQQyB3klYXb3ptkcdDIo) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cielo](https://open.spotify.com/album/7qsBFKGtx7itrfVd7fOxiE) | 3:40 | 2023-10-27 |  |
 | [Clara](https://open.spotify.com/track/07tq9iJkXzRgvgA4vsM80b) | [Enei](https://open.spotify.com/artist/3ychxeKDZNc3ITaeJfz7GO) | [Clara](https://open.spotify.com/album/7EQNBGyaddHvNToBCFHvNi) | 3:17 | 2022-04-08 | 2022-07-24 |
 | [Clavelito Antártico](https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw) | [Hijo de Ladrón](https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM) | [Clavelito Antártico](https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj) | 5:21 | 2022-07-01 | 2023-03-03 |
 | [Como Caes](https://open.spotify.com/track/1UYbrhb57tGcZtYOq9sdRA) | [Ermitaño](https://open.spotify.com/artist/6ICRv7oox3xRu0WxvELbqO) | [La Balada de la Muerte](https://open.spotify.com/album/0o9tgfIzCwid0QI6OnTcy2) | 3:28 | 2022-04-08 | 2022-07-23 |
@@ -111,7 +112,7 @@
 | [Hay Fuego en Los Andes](https://open.spotify.com/track/7s18XNjnKPqcGSzKThyChu) | [Los Desaparecidos](https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N) | [Hay Fuego en Los Andes](https://open.spotify.com/album/0fb6c3y3Mg7HTk0OJYl6Ym) | 4:06 | 2023-04-28 |  |
 | [He Barrido el Sol](https://open.spotify.com/track/4d4JNtg5fvLenZVXK3JJfT) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Grandes Exitos](https://open.spotify.com/album/6Nvv5Jrk3cg5BdplDxEsHq) | 3:44 | 2022-04-08 | 2022-12-17 |
 | [Hojas de té \- 2023](https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hojas de té \(2023\)](https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe) | 3:29 | 2023-10-13 |  |
-| [Holly Molly](https://open.spotify.com/track/1OvqY0ZLfYy8nFChHpUN7G) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [UPA!](https://open.spotify.com/album/3WuhBuFkEOgnZVaLyC5UtQ) | 2:11 | 2023-10-13 |  |
+| [Holly Molly](https://open.spotify.com/track/1OvqY0ZLfYy8nFChHpUN7G) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [UPA!](https://open.spotify.com/album/3WuhBuFkEOgnZVaLyC5UtQ) | 2:11 | 2023-10-13 | 2023-10-28 |
 | [Hollywood](https://open.spotify.com/track/71qDE7UIjXoFFuMQix4aGE) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Hollywood](https://open.spotify.com/album/3VzbW4VDd8N5d0UwCMsVZC) | 3:35 | 2023-01-27 | 2023-04-28 |
 | [Hollywood](https://open.spotify.com/track/7drgoOz9TjniNAP79jB7Us) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Blue Dalom](https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8) | 3:35 | 2023-10-13 |  |
 | [Humedad](https://open.spotify.com/track/71JlWe6b281dzhGZVZS0Tc) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 4:13 | 2022-04-08 | 2022-12-17 |
@@ -122,7 +123,7 @@
 | [Kumbagüe](https://open.spotify.com/track/4aRbL1mzAOym948InLY9cC) | [Mawiza](https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt) | [Kollong](https://open.spotify.com/album/1JMbEcPOXo8DKOMsu7Rmo1) | 4:02 | 2022-10-14 | 2022-12-17 |
 | [Kumbagüe](https://open.spotify.com/track/1FaKFinuCoWMuViMMZNscl) | [Nunca Seremos Dichosos](https://open.spotify.com/artist/0XLQ3xZLk6ptsTLMHDKgTR) | [Kollong](https://open.spotify.com/album/5ZWWaYGC3xjLgYrJbXb3IN) | 4:02 | 2022-04-08 | 2022-10-21 |
 | [La Culebra](https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [La Culebra](https://open.spotify.com/album/5mu4eaFjnSI1jDizjUTus1) | 4:57 | 2022-04-08 | 2023-03-03 |
-| [La Despedida](https://open.spotify.com/track/61WO3yJRK8S39cmHetyw1J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [La Despedida](https://open.spotify.com/album/3FbrykEyfG0L7Cz2QFN8HK) | 3:12 | 2023-10-13 |  |
+| [La Despedida](https://open.spotify.com/track/61WO3yJRK8S39cmHetyw1J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [La Despedida](https://open.spotify.com/album/3FbrykEyfG0L7Cz2QFN8HK) | 3:12 | 2023-10-13 | 2023-10-28 |
 | [La Espada & la Pared](https://open.spotify.com/track/3E5wpa4PEgtP6iHVzpIYS9) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La Espada & la Pared](https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0) | 5:03 | 2022-04-08 | 2022-12-17 |
 | [La Innombrable](https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Julius Popper?](https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W) | 4:07 | 2022-04-08 |  |
 | [La Libertad Absoluta y el Terror](https://open.spotify.com/track/0VvDqUV0iYW93tl0neTXu1) | [Tenemos Explosivos](https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS) | [Victoria](https://open.spotify.com/album/2tUA7PMKfRfb7xxk8E5hUV) | 4:19 | 2022-04-08 | 2022-12-17 |
@@ -154,6 +155,7 @@
 | [Los Demás](https://open.spotify.com/track/3q1hA7KOkM8Xm48PKikJxM) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Chocadito](https://open.spotify.com/album/1U2hMdtzxdLE82QxEVd6c2) | 4:45 | 2022-04-08 | 2022-12-17 |
 | [Los Niños Cuicos No Saben Rockear](https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Políticamente Incorrectos \(Soeces y Anacrónicos\)](https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU) | 2:41 | 2023-08-25 |  |
 | [LSD](https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [LSD](https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD) | 3:36 | 2022-04-08 | 2023-10-21 |
+| [Lucero](https://open.spotify.com/track/2VT5GfzNkU69TCNxpTvwXs) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Drama](https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb) | 3:28 | 2023-10-27 |  |
 | [Lugares Que Hablan](https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4) | [Angel Parra Orrego](https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy) | [Travesuras](https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo) | 1:37 | 2022-04-08 | 2022-12-17 |
 | [Luna](https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Relatos Falsos De Historias Verdaderas](https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS) | 3:56 | 2023-10-20 |  |
 | [Luna Amarilla](https://open.spotify.com/track/4p3ztBZL2hIwDpaERqjQVB) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Luna Amarilla](https://open.spotify.com/album/6q9cTnFyVu2c0b4XvGolg4) | 2:54 | 2022-04-08 | 2023-01-26 |

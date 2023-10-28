@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like this Cover: Holly Humberstone",
+  "description": "heartbreak feels good in a place like this Cover: Thomas Day",
   "name": "sad hour",
   "tracks": [
     {
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 178099,
       "name": "break my heart",
       "url": "https://open.spotify.com/track/4qQJIuWmMXbtMAy3pnBpso"
@@ -1699,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183566,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
+    },
+    {
+      "album": {
         "name": "cold feet",
         "url": "https://open.spotify.com/album/0eZLBuwE1gXZ7gXVa6h70G"
       },
@@ -1804,6 +1822,24 @@
       "duration_ms": 179076,
       "name": "Confessions",
       "url": "https://open.spotify.com/track/1vW6daDWuHrfyNw5K5t5EJ"
+    },
+    {
+      "album": {
+        "name": "all my bad feelings",
+        "url": "https://open.spotify.com/album/2bEwaSsN7sejL5mHncKsBH"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195946,
+      "name": "control",
+      "url": "https://open.spotify.com/track/08Dzq5yOCVQzGcsGp5egm5"
     },
     {
       "album": {
@@ -2240,7 +2276,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 189287,
       "name": "Don't Tell My Mom",
       "url": "https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ"
@@ -2564,7 +2600,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 184746,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/3rhWu9LLv0LleWbO9LuQrO"
@@ -5347,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201058,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
+    },
+    {
+      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz"
       },
@@ -6268,7 +6322,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 249825,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V"
@@ -6524,7 +6578,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 176086,
       "name": "Love's The Worst",
       "url": "https://open.spotify.com/track/6ETjGrxmdsUESckxPGCpKN"
@@ -6740,7 +6794,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 220798,
       "name": "Men On The Moon",
       "url": "https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ"
@@ -8383,6 +8437,24 @@
     },
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279833,
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
+    },
+    {
+      "album": {
         "name": "Second to Last",
         "url": "https://open.spotify.com/album/0AwxkrLnKxKZHwGb2WZyP2"
       },
@@ -8787,6 +8859,24 @@
     },
     {
       "album": {
+        "name": "something to remember",
+        "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162224,
+      "name": "something to remember",
+      "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
+    },
+    {
+      "album": {
         "name": "South Dakota",
         "url": "https://open.spotify.com/album/7pXsFVBKdJdyLEXUJ3j3oV"
       },
@@ -8932,6 +9022,24 @@
       "duration_ms": 255986,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
+    },
+    {
+      "album": {
+        "name": "Love Me For Another Day",
+        "url": "https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3Sda4D07uUlpyI0aa9WMWH"
     },
     {
       "album": {

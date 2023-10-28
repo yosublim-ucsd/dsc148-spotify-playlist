@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-107 songs - 6 hr 29 min
+108 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Big Time](https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Big Time](https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx) | 4:07 | 2023-02-23 |  |
 | [Bittersweet](https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl) | [Rich McFeather](https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm) | [Bittersweet](https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb) | 3:35 | 2023-03-16 | 2023-07-28 |
 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 | 2023-02-23 |  |
-| [Burlesque Desert Window](https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Burlesque Desert Window](https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4) | 2:59 | 2023-02-23 |  |
+| [Burlesque Desert Window](https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Burlesque Desert Window](https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4) | 2:59 | 2023-02-23 | 2023-10-28 |
 | [Burning Down the Prairie](https://open.spotify.com/track/3TlfVUdNVzHttc04CBYQQR) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Burning Down the Prairie](https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb) | 3:01 | 2023-02-23 | 2023-09-08 |
 | [By My Side](https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [By My Side](https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT) | 2:53 | 2023-04-27 | 2023-09-01 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2023-02-23 |  |
@@ -25,13 +25,13 @@
 | [Changing Lanes](https://open.spotify.com/track/2Llgpo9AXTBNNHfGwfJzVN) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/5jhFRab152NcnXSPab5GNO) | 2:58 | 2023-08-17 | 2023-09-01 |
 | [Changing Lanes](https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/72aGx6oYmgBLunbmHbgmPE) | 2:58 | 2023-05-11 | 2023-08-19 |
 | [Closing Time](https://open.spotify.com/track/0CIfnjBJxhYbL69mU4K4yl) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl), [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Closing Time](https://open.spotify.com/album/75jo912nYXWzN6TY8bBFgO) | 3:22 | 2023-04-27 | 2023-05-13 |
-| [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 | 2023-02-23 |  |
+| [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 | 2023-02-23 | 2023-10-28 |
 | [Coyotes](https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Coyotes](https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy) | 4:56 | 2023-02-23 | 2023-03-18 |
 | [Dead End Street](https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG) | [Femke](https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w) | [Safe in the Suburbs](https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi) | 2:58 | 2023-09-22 |  |
 | [Desire](https://open.spotify.com/track/5vuOY89Toj7pBC2YhLG8rX) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [Desire](https://open.spotify.com/album/351qO6P8FcABXFsYPUfdDf) | 4:58 | 2023-02-23 | 2023-03-31 |
 | [DNA](https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [DNA](https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY) | 3:14 | 2023-09-07 |  |
 | [Dreamer](https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dreamer](https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg) | 2:53 | 2023-02-23 | 2023-09-01 |
-| [Driving Like A Dream Car Should](https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Driving Like A Dream Car Should](https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ) | 3:07 | 2023-04-27 | 2023-05-01 |
+| [Driving Like A Dream Car Should](https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Driving Like A Dream Car Should](https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ) | 3:07 | 2023-04-27 |  |
 | [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 | 2023-09-07 |  |
 | [Eyes On The Road](https://open.spotify.com/track/3EMW8uImDU4SfrtNMleX7v) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Eyes On The Road](https://open.spotify.com/album/59ZMGrtibbHBmCM1QnFhue) | 3:10 | 2023-04-27 | 2023-05-01 |
 | [Factory](https://open.spotify.com/track/0P9JBppEaWN9m6yLW0wCBe) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Factory](https://open.spotify.com/album/5qyjhFDGMggOa3rP493M7u) | 3:20 | 2023-08-17 | 2023-10-18 |
@@ -85,6 +85,7 @@
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2023-02-23 |  |
 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 | 2023-09-29 |  |
 | [Sunrise](https://open.spotify.com/track/4sf3h7pItFhKub8I57Tl04) | [The Golden Glows](https://open.spotify.com/artist/5CMKkypfO8LrvYHEoTment) | [Sunrise](https://open.spotify.com/album/2m4JpjrTwYc9qGASbsbrJT) | 3:27 | 2023-09-07 |  |
+| [Sweet Sweet Honey](https://open.spotify.com/track/7Ar25ZQBS3no4k5X0hGrcP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Sweet Sweet Honey](https://open.spotify.com/album/4K1XPMLh8ixfLJ00FgyvFj) | 2:37 | 2023-10-05 |  |
 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 | 2023-02-23 |  |
 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 | 2023-02-23 | 2023-04-02 |
 | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/track/1PDGJwXHeE6cMQaZjLXNTX) | [Jasper Schalks](https://open.spotify.com/artist/1rVfa0RepB2c2WIQeaetbL) | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/album/0Ccia2X6qrLwws03GhJNvK) | 5:58 | 2023-06-22 | 2023-06-30 |

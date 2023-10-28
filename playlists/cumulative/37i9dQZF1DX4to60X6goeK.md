@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Bou
 
-150 songs - 10 hr 14 min
+152 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Hands Up](https://open.spotify.com/track/3xHyg6aNGOQawpeKeI1rFK) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Hands Up](https://open.spotify.com/album/0KDRj5G1bqmjNieEHtzWBy) | 4:31 | 2022-05-06 |  |
 | [Hazard](https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z) | [JMullaUK](https://open.spotify.com/artist/79ACLCWpSfLNDGbCBzMK3T), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7), [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG) | [Hazard](https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8) | 4:08 | 2022-05-06 | 2023-09-22 |
 | [Headshot](https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX) | [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Shaolin Fist](https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip) | 4:01 | 2022-05-06 | 2023-10-21 |
+| [Heaven](https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Heaven](https://open.spotify.com/album/5utKEyKtyUReHABwsSJtjV) | 3:25 | 2023-10-27 |  |
 | [Hello \(feat\. Maozon & Azumai\)](https://open.spotify.com/track/23Vn7VE8KRQ8S97YtWqHQs) | [Mountain](https://open.spotify.com/artist/44kGywk9AMdPUJwqU03q2p), [Maozon](https://open.spotify.com/artist/1U5zkI2XNuCMR219oZt3VV), [Azumai](https://open.spotify.com/artist/2eUnNDjJJgJRJwMzN9N3je) | [Hello / Brexit](https://open.spotify.com/album/6XcTt08jXK1VtnmPLx00pg) | 3:46 | 2022-05-06 | 2022-07-20 |
 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 | 2022-05-06 |  |
 | [Hot One](https://open.spotify.com/track/6dOzrKH4AkC0QKVyhB7yBc) | [Teej](https://open.spotify.com/artist/6Ul7DXJIfPhwGBIP3J96U7), [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug), [Medic MC](https://open.spotify.com/artist/5LJaCsgkAQDsyjvGaoXGYN) | [Hot One](https://open.spotify.com/album/0YvOq6M3HWa5lokBUNwfwi) | 3:40 | 2022-05-06 | 2022-07-29 |
@@ -78,6 +79,7 @@
 | [Kickons](https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9) | 3:55 | 2022-08-12 | 2023-10-19 |
 | [Kickons](https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7) | 3:55 | 2022-05-06 | 2023-05-19 |
 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 | 2022-05-06 |  |
+| [Lana](https://open.spotify.com/track/33VXCIGxpVYgntrRjhCsJo) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Viper Style / Lana](https://open.spotify.com/album/7Ad97zEHtyN7GNLN9lGhGc) | 3:26 | 2023-10-27 |  |
 | [Laser](https://open.spotify.com/track/6A8xdDCg9ZXX7ixqADU4Sp) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Let's Play](https://open.spotify.com/album/2bnmP4Sddqbmx5YqRTeKDt) | 4:11 | 2022-05-06 | 2022-07-28 |
 | [Last Time](https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Last Time](https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D) | 3:21 | 2022-05-06 |  |
 | [Let You Go](https://open.spotify.com/track/13UCK8NNturjjCdAweLwGa) | [Bare Up](https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC) | [Let You Go](https://open.spotify.com/album/3p79c5Eixp07HMYxzDVwBi) | 3:44 | 2022-05-06 | 2022-07-29 |
@@ -101,7 +103,7 @@
 | [Nerd Starter Pack](https://open.spotify.com/track/4Be86Iyz32bO0CJAjhSQDg) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Nerd Starter Pack](https://open.spotify.com/album/1sgucleIJWW1ei72uWzuZs) | 4:30 | 2022-05-06 | 2023-02-26 |
 | [Nightmares](https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Nightmares](https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK) | 3:01 | 2022-05-06 |  |
 | [No Excuses \- Hedex Remix](https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [No Excuses \(Hedex Remix\)](https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4) | 2:43 | 2022-08-12 |  |
-| [Now Wait](https://open.spotify.com/track/6lIl5VaoIh9NnG73KJtiAm) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Now Wait](https://open.spotify.com/album/29zLqmECn4j5RLalG5Mu1g) | 4:31 | 2022-08-12 |  |
+| [Now Wait](https://open.spotify.com/track/6lIl5VaoIh9NnG73KJtiAm) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Now Wait](https://open.spotify.com/album/29zLqmECn4j5RLalG5Mu1g) | 4:31 | 2022-08-12 | 2023-10-28 |
 | [Offender](https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Offender](https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh) | 3:43 | 2022-05-06 |  |
 | [Operator](https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 4:27 | 2022-06-20 | 2023-10-16 |
 | [Operator](https://open.spotify.com/track/2ajRKo1dsleuWOj6ukRUqi) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Operator](https://open.spotify.com/album/52YV9NRavLk76L9Pb3P3Wv) | 4:27 | 2022-05-06 | 2022-07-29 |
@@ -121,7 +123,7 @@
 | [Somebody Else Part 2](https://open.spotify.com/track/0D8LbRJfY6AtnmBsNAxW9R) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Lydia Plain](https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs) | [Overload / Somebody Else Part 2](https://open.spotify.com/album/6Preo4wcIUwWO8Pu6Mu6IL) | 3:17 | 2022-05-06 | 2023-09-08 |
 | [Somebody Else, Pt\. 2](https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Lydia Plain](https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs) | [Overload / Somebody Else, Pt\. 2](https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl) | 3:17 | 2022-08-12 |  |
 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 | 2022-05-06 |  |
-| [Spotlight](https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 3:45 | 2022-08-12 |  |
+| [Spotlight](https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 3:45 | 2022-08-12 | 2023-10-28 |
 | [Spotlight](https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Spotlight](https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa) | 3:45 | 2022-05-06 | 2023-05-19 |
 | [Staying Up Late Making Music](https://open.spotify.com/track/1vtnJhymEYOqmJ3zYHOUnd) | [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs) | [Staying Up Late Making Music](https://open.spotify.com/album/0347DLprmjLf5c0czi24Ja) | 4:13 | 2022-08-12 | 2023-10-21 |
 | [Step It Up](https://open.spotify.com/track/608TATD49stSCcojEMTwmX) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Step It Up / Lights](https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj) | 4:30 | 2022-05-06 |  |

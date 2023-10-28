@@ -2283,6 +2283,32 @@
     },
     {
       "album": {
+        "name": "chiaroscuro",
+        "url": "https://open.spotify.com/album/6IF0K41GIEmHd6zx3DYuH7"
+      },
+      "artists": [
+        {
+          "name": "Foreverboymush",
+          "url": "https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE"
+        },
+        {
+          "name": "Saint Abel",
+          "url": "https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt"
+        },
+        {
+          "name": "Moskova Div",
+          "url": "https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "chiaroscuro",
+      "url": "https://open.spotify.com/track/0RfrHDSuwVNXeTz2Epoq8J"
+    },
+    {
+      "album": {
         "name": "FALSO NUEVE",
         "url": "https://open.spotify.com/album/2WSTRYVg6eFuer1IIRr7Tr"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 235047,
+  "num_followers": 235114,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjk2MThiODJmMGNhMmYzMjBlNDg2MTM3ZjkyMTQyMzVmNjYxMzEw",
+  "snapshot_id": "MCwyOGExMGMzYWMxMTkxZDllZjM5M2M1Mzc2NjFlNDU3YjcyZmRiNjA4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Nothing To Buy",
-        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Nothing To Buy",
-      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Rooftops",
         "url": "https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 232040,
       "name": "Still Mighty",
       "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Nothing To Buy",
+        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        },
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Nothing To Buy",
+      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
-      },
-      "artists": [
-        {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        }
-      ],
-      "duration_ms": 252520,
-      "name": "Love Over Religion",
-      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "BURNING IN THE RAIN",
         "url": "https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 202000,
       "name": "BURNING IN THE RAIN",
       "url": "https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Love Over Religion",
+      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Keep Your Head Up (Radio Version)",
-        "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
-      },
-      "artists": [
-        {
-          "name": "Fireflight",
-          "url": "https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy"
-        }
-      ],
-      "duration_ms": 215603,
-      "name": "Keep Your Head Up - Radio Version",
-      "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Keep Your Head Up (Radio Version)",
+        "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
+      },
+      "artists": [
+        {
+          "name": "Fireflight",
+          "url": "https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy"
+        }
+      ],
+      "duration_ms": 215603,
+      "name": "Keep Your Head Up - Radio Version",
+      "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "OLDER",
         "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 202386,
       "name": "OLDER",
       "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Mountains",
-        "url": "https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Myrin",
-          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1239,6 +1223,22 @@
       "duration_ms": 173500,
       "name": "Way, Truth, Life",
       "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Myrin",
+          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1483,70 +1483,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
-      },
-      "artists": [
-        {
-          "name": "Whitefield",
-          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
-        }
-      ],
-      "duration_ms": 269353,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "W O U N D E D H E A R T",
-        "url": "https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "W O U N D E D H E A R T",
-      "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Coming Clean",
-      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Break Out (Live)",
-        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
-      },
-      "artists": [
-        {
-          "name": "Woodlands Worship",
-          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Break Out - Live",
-      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "We Won't Bow",
         "url": "https://open.spotify.com/album/6uVhZExWu73pEfcx9TDXew"
       },
@@ -1559,6 +1495,22 @@
       "duration_ms": 172552,
       "name": "We Won't Bow",
       "url": "https://open.spotify.com/track/4ojRBPB2zTHdEN1k7Xjf2U"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
+      },
+      "artists": [
+        {
+          "name": "Whitefield",
+          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
+        }
+      ],
+      "duration_ms": 269353,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1579,6 +1531,54 @@
       "duration_ms": 141177,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1eI2tJUhgaC1b0cYmvzUaa"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Coming Clean",
+      "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "W O U N D E D H E A R T",
+        "url": "https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+        }
+      ],
+      "duration_ms": 166186,
+      "name": "W O U N D E D H E A R T",
+      "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Break Out (Live)",
+        "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
+      },
+      "artists": [
+        {
+          "name": "Woodlands Worship",
+          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "Break Out - Live",
+      "url": "https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Get A Life",
-        "url": "https://open.spotify.com/album/7LemReJ7Gyy6N0ssYBUBKQ"
-      },
-      "artists": [
-        {
-          "name": "Brady James",
-          "url": "https://open.spotify.com/artist/2GSov2kK4wpeRDrCxT6EWe"
-        }
-      ],
-      "duration_ms": 110413,
-      "name": "Get A Life",
-      "url": "https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Can't Stop My Heart From Singing",
         "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 234925,
       "name": "Can't Stop My Heart From Singing",
       "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Get A Life",
+        "url": "https://open.spotify.com/album/7LemReJ7Gyy6N0ssYBUBKQ"
+      },
+      "artists": [
+        {
+          "name": "Brady James",
+          "url": "https://open.spotify.com/artist/2GSov2kK4wpeRDrCxT6EWe"
+        }
+      ],
+      "duration_ms": 110413,
+      "name": "Get A Life",
+      "url": "https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC"
     },
     {
       "added_at": "2022-12-16 05:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 118009,
+  "num_followers": 118061,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzdmMzBiOTYxZWVmNjgyMWQ4ZmU1ZjQ2ODU3M2VhYTZhNWM2Y2Ji",
+  "snapshot_id": "MCw1OWUxM2Q0ZGFlYzAzMjk2MTE4NjZlMjY2YzQwNjc1MjBmMGMzMjBj",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Contigo Todo Es Posible",
-        "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
-      },
-      "artists": [
-        {
-          "name": "Redimidos",
-          "url": "https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Vivo por Cristo",
-      "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+        "name": "Contigo Todo Es Posible",
+        "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
       },
       "artists": [
         {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
+          "name": "Redimidos",
+          "url": "https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7"
         }
       ],
-      "duration_ms": 268613,
-      "name": "Sinceridad",
-      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
+      "duration_ms": 245173,
+      "name": "Vivo por Cristo",
+      "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -495,6 +479,22 @@
       "duration_ms": 221544,
       "name": "El Barrio Lo Sabe",
       "url": "https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "Sinceridad",
+      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -683,30 +683,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Party Love",
-        "url": "https://open.spotify.com/album/4L66sciwtXBjMMNgVwlqXy"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        },
-        {
-          "name": "DOMINICO GONZALEZ",
-          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Party Love",
-      "url": "https://open.spotify.com/track/7adbOWjIdUJC6oBFSfVO1h"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Lo Que Dice El Alma",
         "url": "https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu"
       },
@@ -723,6 +699,22 @@
       "duration_ms": 257230,
       "name": "El Mismo De Ayer",
       "url": "https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Fragments Of Heaven",
+        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 242244,
+      "name": "Forever Endless Love",
+      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -771,22 +763,6 @@
       "duration_ms": 259626,
       "name": "Un adorador",
       "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Fragments Of Heaven",
-        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 242244,
-      "name": "Forever Endless Love",
-      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -871,6 +847,22 @@
       "duration_ms": 271053,
       "name": "Motivo de mi cancion",
       "url": "https://open.spotify.com/track/2PNGkt8Xu4ex0e38LwBQVI"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Poniendo el Estilo",
+        "url": "https://open.spotify.com/album/3SjkzgltzANAGQHgXaTiMI"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Bless",
+          "url": "https://open.spotify.com/artist/46dFxTjmPw26bu8MlY2UNv"
+        }
+      ],
+      "duration_ms": 258504,
+      "name": "Poniendo el Estilo",
+      "url": "https://open.spotify.com/track/2DlM2uGla4yP6PRfszVDI5"
     }
   ],
   "unique_name": "Baila Con Dios",

@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 871862,
+  "num_followers": 871899,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTdhY2FhZWZiNGM0YzM0NzYzYWFkMzczNzA2MzYwNWU1MDEyOGE4",
+  "snapshot_id": "MCxkMzE2NzVlMjZmYjE4NmFhZjZhMmQyZjhiOTkzNmU3NmM1Zjc1Y2M1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 240586,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Long Blue Light",
         "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 240586,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 295454,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Slow Reveal: Chapter One",
         "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
       },
@@ -367,18 +351,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
       "artists": [
         {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+      "duration_ms": 295454,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -395,6 +379,22 @@
       "duration_ms": 262520,
       "name": "Every Time the Sun Comes Up",
       "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 240277,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 210725,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 240277,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "My Ego Dies At The End",
         "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 250574,
-      "name": "Strawberry Woman",
-      "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -891,6 +875,38 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Another good year for the roses",
+        "url": "https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Another good year for the roses",
+      "url": "https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 250574,
+      "name": "Strawberry Woman",
+      "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -911,22 +927,6 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Another good year for the roses",
-        "url": "https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Another good year for the roses",
-      "url": "https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "I Won't",
         "url": "https://open.spotify.com/album/0JY74Lv3SoBtoWWorW5j6s"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Northern Attitude",
-        "url": "https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR"
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
         }
       ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq"
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1267,6 +1251,22 @@
       "duration_ms": 198266,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Northern Attitude",
+        "url": "https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Mipso",
         "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 215040,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+        "name": "Carolina Rolling By",
+        "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+      "duration_ms": 295380,
+      "name": "Carolina Rolling By",
+      "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1451,38 +1451,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "What If I EP",
-        "url": "https://open.spotify.com/album/2R49Epd53NfwBsHuPO9PZu"
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        },
-        {
-          "name": "Charlie Gabriel",
-          "url": "https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 269015,
-      "name": "Slow Pace Of Time [Feat. Charlie Gabriel]",
-      "url": "https://open.spotify.com/track/3BXlWG4SqubAmdcGac4cNR"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Carolina Rolling By",
-        "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 295380,
-      "name": "Carolina Rolling By",
-      "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1499,6 +1479,26 @@
       "duration_ms": 234799,
       "name": "Song For The Thankful",
       "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "What If I EP",
+        "url": "https://open.spotify.com/album/2R49Epd53NfwBsHuPO9PZu"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        },
+        {
+          "name": "Charlie Gabriel",
+          "url": "https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Slow Pace Of Time [Feat. Charlie Gabriel]",
+      "url": "https://open.spotify.com/track/3BXlWG4SqubAmdcGac4cNR"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1531,22 +1531,6 @@
       "duration_ms": 181270,
       "name": "All The Way Back",
       "url": "https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Western White Pines (Deluxe)",
-        "url": "https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae"
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
       "artists": [
         {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 278256,
-      "name": "Cherokee Rose",
-      "url": "https://open.spotify.com/track/0gMbLowa83Vxrkmy1tfdgk"
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1615,6 +1599,22 @@
       "duration_ms": 170213,
       "name": "Stanley Park",
       "url": "https://open.spotify.com/track/55AYJIzCkooNo1rycySEok"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Western White Pines (Deluxe)",
+        "url": "https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "duration_ms": 278256,
+      "name": "Cherokee Rose",
+      "url": "https://open.spotify.com/track/0gMbLowa83Vxrkmy1tfdgk"
     },
     {
       "added_at": "2023-10-20 04:00:00",

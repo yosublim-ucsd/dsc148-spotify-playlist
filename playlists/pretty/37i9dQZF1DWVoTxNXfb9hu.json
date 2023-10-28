@@ -1,12 +1,12 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 109183,
+  "num_followers": 109174,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjA3NDcxYzhiZGY2YjdhMDNiMzY4YjMwN2IzN2NjNjQ1YjVmZDJj",
+  "snapshot_id": "MCwwMTc1ZjJlMTI3ZmZjYTMyOTQ0MmNmOWRhNThkZmEyN2YxNTFmN2Y5",
   "tracks": [
     {
       "added_at": "2023-06-15 12:16:01",
@@ -732,7 +732,7 @@
       "added_at": "2023-06-15 12:16:01",
       "album": {
         "name": "Cocktail",
-        "url": "https://open.spotify.com/album/5iLKGxWb2JqrgJqbcVkroS"
+        "url": "https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui"
       },
       "artists": [
         {
@@ -742,11 +742,15 @@
         {
           "name": "Kavita Seth",
           "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         }
       ],
-      "duration_ms": 283693,
-      "name": "Tum Hi Ho Bandhu",
-      "url": "https://open.spotify.com/track/0F7SLEIzDQFAMYrC3hDrQg"
+      "duration_ms": 282012,
+      "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
+      "url": "https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47"
     },
     {
       "added_at": "2023-06-15 12:16:01",

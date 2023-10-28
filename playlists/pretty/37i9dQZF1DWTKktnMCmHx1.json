@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 94604,
+  "num_followers": 94619,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTFmZDU2ZWUwMmUwNjA1ZTY3ODMwZDI3OGVkZmZlOTM0ZjliMGU1",
+  "snapshot_id": "MCwyYmIxNjc3MDc2ZGMyNmQ2MmE2MTAwZDA1NTliODEyZWYwNzE5OTll",
   "tracks": [
     {
       "added_at": "2023-10-26 12:25:20",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-10-26 12:25:20",
       "album": {
-        "name": "Pel\u00e9",
-        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
-        }
-      ],
-      "duration_ms": 133858,
-      "name": "Pel\u00e9",
-      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2023-10-26 12:25:20",
-      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
+    },
+    {
+      "added_at": "2023-10-26 12:25:20",
+      "album": {
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "duration_ms": 133858,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
       "added_at": "2023-10-26 12:25:20",

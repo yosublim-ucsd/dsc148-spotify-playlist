@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Mocco Genius
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,960 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,001 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Maokoto](https://open.spotify.com/track/0ldVedbqs0hXp8ijwVUQoQ) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Maokoto](https://open.spotify.com/album/6pn4PsDQDZ5BE2f50TihaU) | 3:36 |
 | 70 | [Nakuja \(feat\. Marioo, Darassa & Maua Sama\) \- Remix](https://open.spotify.com/track/5X0Y53r6h3CDzTl7nsbdPA) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nakuja \(feat\. Marioo, Darassa & Maua Sama\) \[Remix\]](https://open.spotify.com/album/2MIMHlmrVh5RpxUsIlwaqi) | 3:38 |
 
-Snapshot ID: `MCw4NGMwZjQ0MmE3MWM1ZDA2ZmMyMWJlNThkZGU5NGRjNDgyN2FkYTM0`
+Snapshot ID: `MCwxYmVkOWViYzIxOGE4ZTQ3NmJlZDIyOWMyM2Y3YWEzYzY2Zjc2ODFm`

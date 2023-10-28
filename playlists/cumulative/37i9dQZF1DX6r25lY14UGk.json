@@ -90,7 +90,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 209593,
       "name": "Aster & Goldenrod",
       "url": "https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5"
@@ -270,6 +270,24 @@
       "duration_ms": 137904,
       "name": "Born From The Land",
       "url": "https://open.spotify.com/track/57t47oUQJIpKD0s4hNASYj"
+    },
+    {
+      "album": {
+        "name": "The Best of The Wiggles",
+        "url": "https://open.spotify.com/album/2Z6oTz5KsqixztbpSHD92c"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153385,
+      "name": "Bouncing Balls",
+      "url": "https://open.spotify.com/track/23AkwIiWew8fwKZqPB0eU8"
     },
     {
       "album": {
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 97906,
       "name": "It's You I Like",
       "url": "https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0"
@@ -2031,6 +2049,24 @@
     },
     {
       "album": {
+        "name": "Pop Go The Vowels",
+        "url": "https://open.spotify.com/album/1EjT2bBtv4ceFDZC5cjKjS"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124625,
+      "name": "Pop Go The Vowels",
+      "url": "https://open.spotify.com/track/0cXIz2TzTbWPvhBNjdrxe3"
+    },
+    {
+      "album": {
         "name": "Rainbow Connection",
         "url": "https://open.spotify.com/album/5xIGxeL9Rl9FmWCbB4AR9y"
       },
@@ -2266,7 +2302,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 229776,
       "name": "Star Time",
       "url": "https://open.spotify.com/track/0qAXuuf6hqTwHuwUkXET6m"
@@ -3022,6 +3058,24 @@
       "duration_ms": 204740,
       "name": "You Are Not Alone",
       "url": "https://open.spotify.com/track/2KgDN89wIbocdgIBXrCi0b"
+    },
+    {
+      "album": {
+        "name": "songs for pixie",
+        "url": "https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121881,
+      "name": "you can fly",
+      "url": "https://open.spotify.com/track/0zquapxRr9z4nFyC4eQ6CA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6r25lY14UGk"

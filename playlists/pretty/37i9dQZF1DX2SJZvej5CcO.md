@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SJZvej5CcO.md) - [plain]
 
 > Apasiónate con sus éxitos en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,741 likes - 82 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,819 likes - 82 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SJZvej5CcO.md) - [plain]
 | 11 | [Pero](https://open.spotify.com/track/05gyYNhI8lUtyFxaoQDZRd) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:33 |
 | 12 | [Flashback](https://open.spotify.com/track/2izgZtTWV6x0gXUpq047gj) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:08 |
 | 13 | [Venus](https://open.spotify.com/track/1mH6dAaWJzrmoqpSs1MjEK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:31 |
-| 14 | [Vale la pena \- Spanish](https://open.spotify.com/track/5PbOX7sRkGZBRIRYyisto0) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 2:59 |
+| 14 | [Vale la pena](https://open.spotify.com/track/5PbOX7sRkGZBRIRYyisto0) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 2:59 |
 | 15 | [Más allá de la superficie](https://open.spotify.com/track/7LSVOi0SpjNRy6ud0dRxSX) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:19 |
 | 16 | [Frente a nosotros](https://open.spotify.com/track/7ejgpCjT3L5JRJWKnqeSbV) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Frente a nosotros](https://open.spotify.com/album/2tlRHyJYMznfBLjYEY69zt) | 2:59 |
 | 17 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SJZvej5CcO.md) - [plain]
 | 81 | [Donde quedo solo yo \(with Alex Ubago\)](https://open.spotify.com/track/1BoeL6LCpjViLGIdKrcYGT) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Donde quedo solo yo \(with Alex Ubago\)](https://open.spotify.com/album/6loE6FrLzjVFKWgXOout5r) | 3:41 |
 | 82 | [Verdades a medias](https://open.spotify.com/track/5rHP4mgLryrfQIGUiSWU8B) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Verdades a medias](https://open.spotify.com/album/4DjvUxpQOBDBlpXD5NFydK) | 4:00 |
 
-Snapshot ID: `MCxkNTUzMDkwOGRiOGM1MzNkNDUwMzEwNTgwNTUxZWY2MzZkYmRiZDRh`
+Snapshot ID: `MCxmZjk1OWVlNGZlYmU4MjQ1MTRhYjU5NmRhMzJmNjllZmYzYmRiNjQx`

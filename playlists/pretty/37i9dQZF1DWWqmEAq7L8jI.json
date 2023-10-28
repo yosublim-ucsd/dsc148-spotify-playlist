@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 265241,
+  "num_followers": 265308,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGM3ODg5NGMyZWVlMWE5ZWI1MTJjOGQ0M2E0ZWY2NjI3ZGUxZDhi",
+  "snapshot_id": "MCxlNzE5YjM2ZGJlNDBjYTNjMzRkMjAwN2U5M2FhOGJmZjZlMWIzZGVk",
   "tracks": [
     {
       "added_at": "2023-10-19 21:15:12",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-10-19 21:15:12",
       "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 202063,
+      "name": "A Las Nueve",
+      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
+    },
+    {
+      "added_at": "2023-10-19 21:15:12",
+      "album": {
         "name": "Empezar Desde Cero",
         "url": "https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 254773,
       "name": "Inalcanzable",
       "url": "https://open.spotify.com/track/3VlS9yWZ9WkzaePi8oobTj"
-    },
-    {
-      "added_at": "2023-10-19 21:15:12",
-      "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 202063,
-      "name": "A Las Nueve",
-      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
     },
     {
       "added_at": "2023-10-19 21:15:12",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-10-19 21:15:12",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Oncemil",
-      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
-    },
-    {
-      "added_at": "2023-10-19 21:15:12",
-      "album": {
         "name": "Guerra (+ Sessions Recorded at Abbey Road)",
         "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-10-19 21:15:12",
       "album": {
-        "name": "La Voz Del Viento",
-        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
+        "name": "11",
+        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
       },
       "artists": [
         {
-          "name": "Los Huayra",
-          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 258826,
-      "name": "La Noche Sin T\u00ed",
-      "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
+      "duration_ms": 221080,
+      "name": "Oncemil",
+      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
     },
     {
       "added_at": "2023-10-19 21:15:12",
@@ -1263,6 +1247,22 @@
       "duration_ms": 231708,
       "name": "2:50 Remix",
       "url": "https://open.spotify.com/track/5eyO0n1HiiSWdGaaSoK731"
+    },
+    {
+      "added_at": "2023-10-19 21:15:12",
+      "album": {
+        "name": "La Voz Del Viento",
+        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
+      },
+      "artists": [
+        {
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "La Noche Sin T\u00ed",
+      "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
     },
     {
       "added_at": "2023-10-19 21:15:12",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-10-19 21:15:12",
       "album": {
-        "name": "Yo No Te Pido la Luna",
-        "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 171153,
-      "name": "Yo No Te Pido la Luna",
-      "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
-    },
-    {
-      "added_at": "2023-10-19 21:15:12",
-      "album": {
         "name": "Baloncito Viejo",
         "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
       },
@@ -1363,6 +1343,26 @@
     {
       "added_at": "2023-10-19 21:15:12",
       "album": {
+        "name": "Yo No Te Pido la Luna",
+        "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 171153,
+      "name": "Yo No Te Pido la Luna",
+      "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
+    },
+    {
+      "added_at": "2023-10-19 21:15:12",
+      "album": {
         "name": "A la Vez",
         "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 182876,
       "name": "A la Vez",
       "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
-    },
-    {
-      "added_at": "2023-10-19 21:15:12",
-      "album": {
-        "name": "SloMo",
-        "url": "https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "SloMo",
-      "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
     },
     {
       "added_at": "2023-10-19 21:15:12",
@@ -1411,6 +1395,22 @@
       "duration_ms": 232655,
       "name": "Lo siento (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r"
+    },
+    {
+      "added_at": "2023-10-19 21:15:12",
+      "album": {
+        "name": "SloMo",
+        "url": "https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "SloMo",
+      "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
     },
     {
       "added_at": "2023-10-19 21:15:12",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-10-19 21:15:12",
       "album": {
-        "name": "DPM (De Pxta Madre)",
-        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 181684,
-      "name": "DPM (De Pxta Madre)",
-      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
-    },
-    {
-      "added_at": "2023-10-19 21:15:12",
-      "album": {
         "name": "El d\u00eda menos pensado",
         "url": "https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 224675,
       "name": "El d\u00eda menos pensado",
       "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
+    },
+    {
+      "added_at": "2023-10-19 21:15:12",
+      "album": {
+        "name": "DPM (De Pxta Madre)",
+        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 181684,
+      "name": "DPM (De Pxta Madre)",
+      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
     },
     {
       "added_at": "2023-10-19 21:15:12",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-10-19 21:15:12",
       "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/2aiC1DHkCfDeUClyKukRPm"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 126958,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun"
+    },
+    {
+      "added_at": "2023-10-19 21:15:12",
+      "album": {
         "name": "Uno los Dos",
         "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
-    },
-    {
-      "added_at": "2023-10-19 21:15:12",
-      "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/2aiC1DHkCfDeUClyKukRPm"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 126958,
-      "name": "Se\u00f1ales",
-      "url": "https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun"
     },
     {
       "added_at": "2023-10-19 21:15:12",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-10-19 21:15:12",
       "album": {
-        "name": "Hotel Miranda!",
-        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 188501,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/7j2KGu5tIRjWfOb2LxPoFR"
-    },
-    {
-      "added_at": "2023-10-19 21:15:12",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -1771,6 +1751,26 @@
     {
       "added_at": "2023-10-19 21:15:12",
       "album": {
+        "name": "Hotel Miranda!",
+        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 188501,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/7j2KGu5tIRjWfOb2LxPoFR"
+    },
+    {
+      "added_at": "2023-10-19 21:15:12",
+      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p"
       },
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-10-19 21:15:12",
       "album": {
-        "name": "INTENSIDAD",
-        "url": "https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "INTENSIDAD",
-      "url": "https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ"
-    },
-    {
-      "added_at": "2023-10-19 21:15:12",
-      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+    },
+    {
+      "added_at": "2023-10-19 21:15:12",
+      "album": {
+        "name": "INTENSIDAD",
+        "url": "https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "INTENSIDAD",
+      "url": "https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ"
     },
     {
       "added_at": "2023-10-19 21:15:12",

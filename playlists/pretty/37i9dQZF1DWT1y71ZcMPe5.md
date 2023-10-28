@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: The Kid LAROI, Jung Kook, Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,340,248 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,340,411 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Out Of My League](https://open.spotify.com/track/0O7V6ItLSmWsh8qisU8mTr) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:26 |
 | 50 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
 
-Snapshot ID: `MCwxNjE3YWVhZTZmM2FhYTJmZjVmNzgxNGU0Y2JmYjk4MzcyMzI1YTY1`
+Snapshot ID: `MCwxNmRhM2ZlYjhhMDNjYWU4YmNkZDJhM2U3ZTFlNThjNjAwMzcxOTg2`

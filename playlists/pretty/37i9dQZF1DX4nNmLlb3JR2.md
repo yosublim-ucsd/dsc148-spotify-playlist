@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,804 likes - 164 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,948 likes - 164 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 91 | [Umbrella](https://open.spotify.com/track/5cfUalgs5w98W14C4Lt0Xh) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Umbrella](https://open.spotify.com/album/7nhVqmRzva6w501zTLcZJn) | 1:48 |
 | 92 | [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 |
 | 93 | [You'll Be In My Heart](https://open.spotify.com/track/3XXemjIqQleJMVtae2Vsb6) | [Jeff Kaale](https://open.spotify.com/artist/6HbFnvkO1zsyxqyyfbNRwL), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Chill](https://open.spotify.com/album/37Fq2lVxXUoEVOekYAo9Pm) | 4:48 |
-| 94 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 |
+| 94 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [HUGØ](https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 |
 | 95 | [Children](https://open.spotify.com/track/7JcLj7YKRbjFnoMFHOPTi3) | [RetroBlend](https://open.spotify.com/artist/0RbBkpf8a8qyPt7hi8ouT7), [Vincent Lee](https://open.spotify.com/artist/0cuXND9aMsZhko0y3w8uxw), [2Bough](https://open.spotify.com/artist/5oie92RnkCpuSHGWiReZtq) | [Children](https://open.spotify.com/album/6geMwmmof8UzPHf1Sa601e) | 2:05 |
 | 96 | [Numb](https://open.spotify.com/track/2XBFv43iLJAgc0tFLwpvSB) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y), [holydope](https://open.spotify.com/artist/0xxzcwAkvq75H2kNaZVLxD), [Gletscher](https://open.spotify.com/artist/2XvOqRc89ghu9XuYotuqDj) | [Numb](https://open.spotify.com/album/7zSYpDlrN7u5RYDSkDcHpz) | 2:06 |
 | 97 | [Love Yourself](https://open.spotify.com/track/3ZTOe4igHH1Di0taZWXJh7) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Love Yourself](https://open.spotify.com/album/5w0HSHiP2Dzfq9W4kOTO10) | 1:50 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 163 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 |
 | 164 | [Jimmy Cooks \- Lofi Cover](https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl), [Wild Issues](https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S) | [Lo\-Fi Rap Caviar, Vol\. 4](https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ) | 1:09 |
 
-Snapshot ID: `MCw1OTU5NzhhOWM0ZTYxYTAwZDhmYTkzMDNhYzUxZTMzMGVkMTViNGYx`
+Snapshot ID: `MCxjY2ZiODk1ZWZmMDFkMmQzMDQzMjExYWRmOGUyZTI5ZmY3ODc4OGVj`

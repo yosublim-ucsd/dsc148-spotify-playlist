@@ -1,13 +1,29 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 61920,
+  "description": "The best newly released songs of the week. Cover: Taylor Swift",
+  "num_followers": 61925,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGVmOWYxNDRkYjU1OWUzOGRmZTI1YzkxYTg3NjBhODJlMTNkYzlk",
+  "snapshot_id": "MCw0ZThmMDU0Y2EyZWQxN2Y0MmU4Y2M0NDA1ZjIyNzg4OWVlMjgwNGY1",
   "tracks": [
+    {
+      "added_at": "2023-10-26 16:00:00",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
     {
       "added_at": "2023-10-26 16:00:00",
       "album": {
@@ -179,6 +195,22 @@
     {
       "added_at": "2023-10-26 16:00:00",
       "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "added_at": "2023-10-26 16:00:00",
+      "album": {
         "name": "Gum",
         "url": "https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T"
       },
@@ -211,8 +243,24 @@
     {
       "added_at": "2023-10-26 16:00:00",
       "album": {
+        "name": "Talk Saxy",
+        "url": "https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 190941,
+      "name": "Talk Saxy",
+      "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
+    },
+    {
+      "added_at": "2023-10-26 16:00:00",
+      "album": {
         "name": "Heart Still Beating",
-        "url": "https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp"
+        "url": "https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m"
       },
       "artists": [
         {
@@ -226,7 +274,7 @@
       ],
       "duration_ms": 149163,
       "name": "Heart Still Beating",
-      "url": "https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU"
+      "url": "https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT"
     },
     {
       "added_at": "2023-10-26 16:00:00",
@@ -1339,6 +1387,22 @@
     {
       "added_at": "2023-10-26 16:00:00",
       "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/4evGd8mUzlrFVh1lzC4FE8"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/5yk91oiAKqpQG6R2mmpmvB"
+    },
+    {
+      "added_at": "2023-10-26 16:00:00",
+      "album": {
         "name": "The Day We Met",
         "url": "https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx"
       },
@@ -1603,7 +1667,7 @@
     {
       "added_at": "2023-10-26 16:00:00",
       "album": {
-        "name": "Tip Toe",
+        "name": "Tiptoe",
         "url": "https://open.spotify.com/album/3ZaOGN3CcaDODlENMBJLIj"
       },
       "artists": [

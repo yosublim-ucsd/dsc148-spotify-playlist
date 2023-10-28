@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 17906,
+  "num_followers": 17912,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmIzMmEzM2E0ZjEyYTg2MTM1NjIyYjM0OGNkZjcxNzY3YjFkZDA5",
+  "snapshot_id": "MCw1Y2E3M2MyNzBiZjNmN2ZiY2ZkMGEyMTc1MjBmMWRkMTVjMjZjNzFl",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK"
       },
@@ -831,18 +847,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+        "name": "Strength (feat. John P. Kee)",
+        "url": "https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
         }
       ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
+      "duration_ms": 314600,
+      "name": "Thank You Lord (He Did It All) (feat. John P. Kee) - Live",
+      "url": "https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -863,26 +883,6 @@
       "duration_ms": 521973,
       "name": "I Won't Forget (Live)",
       "url": "https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Strength (feat. John P. Kee)",
-        "url": "https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT"
-      },
-      "artists": [
-        {
-          "name": "The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "Thank You Lord (He Did It All) (feat. John P. Kee) - Live",
-      "url": "https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6"
     },
     {
       "added_at": "2022-11-23 15:01:23",

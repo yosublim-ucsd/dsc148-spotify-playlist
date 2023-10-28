@@ -1,31 +1,35 @@
 {
-  "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 98884,
+  "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
+  "num_followers": 99006,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjVkOGFiYTg1N2Y3YmJjOWU1YTkxM2M5ZGQ2NjBiZmRlNjZhNjVm",
+  "snapshot_id": "MCxhMTdmYmI0ZjViNDM1YWZkNmQ2ODA3ZmVlZDM3ZWY1NTFmMjUzNDM2",
   "tracks": [
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+        "name": "A Tribute To The Judds",
+        "url": "https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 293706,
-      "name": "Cover Me Up",
-      "url": "https://open.spotify.com/track/0mKnuxVkPi5h0kuvZl44VM"
+      "duration_ms": 197637,
+      "name": "Mama He's Crazy",
+      "url": "https://open.spotify.com/track/3uuAVN4ZepStnZvWZqzBDD"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -41,7 +45,7 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Wasting All These Tears",
         "url": "https://open.spotify.com/album/3ZGKM41lZMynyRwVgGPmez"
@@ -57,7 +61,7 @@
       "url": "https://open.spotify.com/track/4flWHSLV6ut0sPu0nQ1lCE"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ"
@@ -73,7 +77,7 @@
       "url": "https://open.spotify.com/track/5ysaeGRQwnO01L6OjXq8PA"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "if i ever get there: a day at blackbird studio",
         "url": "https://open.spotify.com/album/4N6uVFBQiz6x4UqRmClANc"
@@ -89,7 +93,7 @@
       "url": "https://open.spotify.com/track/46Qrlkk74beV2EUTmGKLRg"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Carrying Your Love With Me (Spotify Singles)",
         "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
@@ -105,7 +109,7 @@
       "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Feathered Indians",
         "url": "https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL"
@@ -121,7 +125,7 @@
       "url": "https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
@@ -137,7 +141,7 @@
       "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Funny How Time Slips Away (from Long Story Short: Willie Nelson 90 - Live)",
         "url": "https://open.spotify.com/album/4rgcCRcwpmWK4PqMvnYJsl"
@@ -153,7 +157,7 @@
       "url": "https://open.spotify.com/track/6P61IM7ZYZZBkGWLCiBo06"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Strawberry Wine - Spotify Singles",
         "url": "https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy"
@@ -169,7 +173,23 @@
       "url": "https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 293706,
+      "name": "Cover Me Up",
+      "url": "https://open.spotify.com/track/0mKnuxVkPi5h0kuvZl44VM"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Me And My Gang",
         "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
@@ -185,23 +205,7 @@
       "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 243804,
-      "name": "Girl Crush - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
@@ -217,23 +221,23 @@
       "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Vienna",
-        "url": "https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
       },
       "artists": [
         {
-          "name": "Matt Schuster",
-          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW"
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Across The Sheets",
         "url": "https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu"
@@ -249,7 +253,7 @@
       "url": "https://open.spotify.com/track/1MgF4Za06e1KQxzCYqGChf"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/6p0DLh5SXE1bXBwf22QKdH"
@@ -265,7 +269,7 @@
       "url": "https://open.spotify.com/track/0sBwJpFob6KmGmbu0Yln3a"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/5ADQNJnzQw34bJAEL3bjWL"
@@ -281,7 +285,7 @@
       "url": "https://open.spotify.com/track/0rYXSQ5SztqtP3DfBAHoA6"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "ERNEST & The Fellas Unplugged",
         "url": "https://open.spotify.com/album/0lxxrZlnRP8K7gIqspSDjU"
@@ -297,23 +301,23 @@
       "url": "https://open.spotify.com/track/5lc6hhwOvfNJjZy5EyrbxG"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "2022",
-        "url": "https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC"
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK"
       },
       "artists": [
         {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
         }
       ],
-      "duration_ms": 146250,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3"
+      "duration_ms": 189000,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Shallow (The Duet with Garth Brooks and Trisha Yearwood)",
         "url": "https://open.spotify.com/album/3cWhv1rqi54T1eRzM9kfPJ"
@@ -329,7 +333,23 @@
       "url": "https://open.spotify.com/track/0SA1RVvy3x161K2PcW2CSO"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
@@ -345,23 +365,7 @@
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Now That I've Found You: A Collection",
-        "url": "https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        }
-      ],
-      "duration_ms": 260800,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
@@ -377,7 +381,7 @@
       "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2l64EH6TtWunXz3z2fM9u8"
@@ -397,39 +401,39 @@
       "url": "https://open.spotify.com/track/7xQHkdNrmdGb5kh56MSoRr"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Million Eyes",
-        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
+        "name": "A Tribute To The Judds",
+        "url": "https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 186635,
-      "name": "Dancing in the Sky",
-      "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
+      "duration_ms": 203681,
+      "name": "Why Not Me",
+      "url": "https://open.spotify.com/track/0Tdxk8PVyfbxKm3USoPHu2"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Judge Jerrod & The Hung Jury",
-        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
+        "name": "Now That I've Found You: A Collection",
+        "url": "https://open.spotify.com/album/32y7QMTFfQC3ZZB3rb2RFs"
       },
       "artists": [
         {
-          "name": "Jerrod Niemann",
-          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Lover, Lover",
-      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
+      "duration_ms": 260800,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Never Giving Up On That",
         "url": "https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD"
@@ -445,39 +449,47 @@
       "url": "https://open.spotify.com/track/2zlTyYbE5pUZnzPVHa9o7N"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+        "name": "A Tribute To The Judds",
+        "url": "https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        },
+        {
+          "name": "The Fisk Jubilee Singers",
+          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
         }
       ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+      "duration_ms": 277856,
+      "name": "Love Can Build A Bridge",
+      "url": "https://open.spotify.com/track/0TaJn96DJs4zDmlrlcH7ha"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "I'm Alright",
-        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
+        "name": "Million Eyes",
+        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
       },
       "artists": [
         {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
         }
       ],
-      "duration_ms": 220200,
-      "name": "Lesson In Leavin'",
-      "url": "https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6"
+      "duration_ms": 186635,
+      "name": "Dancing in the Sky",
+      "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Something Borrowed, Something New: A Tribute to John Anderson",
         "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
@@ -493,7 +505,7 @@
       "url": "https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
@@ -509,23 +521,23 @@
       "url": "https://open.spotify.com/track/5FonXR4yh9PWNbQCHQn5I0"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Jersey Giant",
-        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
+        "name": "Judge Jerrod & The Hung Jury",
+        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
         }
       ],
-      "duration_ms": 266320,
-      "name": "Jersey Giant",
-      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
+      "duration_ms": 193733,
+      "name": "Lover, Lover",
+      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "If It Makes You Happy",
         "url": "https://open.spotify.com/album/7ldbJFeq7hcpCJjQxYhZFd"
@@ -541,23 +553,23 @@
       "url": "https://open.spotify.com/track/30gZwjtb11DhFSnMYYeoZc"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 177867,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
         "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
@@ -577,7 +589,87 @@
       "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "I'm Alright",
+        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
+      },
+      "artists": [
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "Lesson In Leavin'",
+      "url": "https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 177867,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Stoned Cold Country",
+        "url": "https://open.spotify.com/album/2RGLCcJebUVtIIyHeffqSQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 432040,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/6DsqyOvPEcasb72iQwxgPe"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Acoustic Covers (Deluxe)",
         "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
@@ -597,7 +689,7 @@
       "url": "https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "I'm A Ram",
         "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
@@ -613,23 +705,7 @@
       "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Grandpa (Tell Me 'bout the Good Old Days)",
         "url": "https://open.spotify.com/album/69gvhvwY7jEIwYi0MahrtD"
@@ -645,23 +721,7 @@
       "url": "https://open.spotify.com/track/1XhDpX7rrCFrI3ExwrNoU3"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Stoned Cold Country",
-        "url": "https://open.spotify.com/album/2RGLCcJebUVtIIyHeffqSQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 432040,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/6DsqyOvPEcasb72iQwxgPe"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "What's Up?",
         "url": "https://open.spotify.com/album/74p9zXtOsvboiAi9srfb6l"
@@ -681,55 +741,7 @@
       "url": "https://open.spotify.com/track/7meXWIzJ01VGReBK26gtvw"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Heartbroken",
-        "url": "https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc"
-      },
-      "artists": [
-        {
-          "name": "David J",
-          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "Heartbroken",
-      "url": "https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
@@ -749,23 +761,23 @@
       "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+        "name": "Heartbroken",
+        "url": "https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
         }
       ],
-      "duration_ms": 157025,
-      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
+      "duration_ms": 174320,
+      "name": "Heartbroken",
+      "url": "https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n"
@@ -781,7 +793,71 @@
       "url": "https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Bohemian Rhapsody (Live at The SSE Arena, Wembley, London, UK, 09.25.2015)",
+        "url": "https://open.spotify.com/album/0gBdgaNKELXZyHCBCfVWxb"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 353582,
+      "name": "Bohemian Rhapsody - Live at The SSE Arena, Wembley, London, UK, 09.25.2015",
+      "url": "https://open.spotify.com/track/06IcvzBG1BCxpBoDKEM9fG"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
@@ -809,39 +885,7 @@
       "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Bohemian Rhapsody (Live at The SSE Arena, Wembley, London, UK, 09.25.2015)",
-        "url": "https://open.spotify.com/album/0gBdgaNKELXZyHCBCfVWxb"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 353582,
-      "name": "Bohemian Rhapsody - Live at The SSE Arena, Wembley, London, UK, 09.25.2015",
-      "url": "https://open.spotify.com/track/06IcvzBG1BCxpBoDKEM9fG"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "I Wanna Dance With Somebody (Who Loves Me)",
         "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
@@ -857,47 +901,7 @@
       "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Cypress Hills and the Big Country",
-        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Let's All Help the Cowboys (Sing the Blues)",
-      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
-        "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
-      "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Flowers (Country Version)",
         "url": "https://open.spotify.com/album/5v4cqsC4ClbfO04ZeJLJhF"
@@ -913,7 +917,7 @@
       "url": "https://open.spotify.com/track/0QaCLt0Zgkuadn0seBouFh"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Islands In The Stream",
         "url": "https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq"
@@ -937,7 +941,95 @@
       "url": "https://open.spotify.com/track/2etkMv2Oj2aZCmvmUG1P3e"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Cypress Hills and the Big Country",
+        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Let's All Help the Cowboys (Sing the Blues)",
+      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Waters Band",
+          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "duration_ms": 228021,
+      "name": "Steal My Girl",
+      "url": "https://open.spotify.com/track/5nraaaIIPnVoXFLcFA1MDJ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
+        "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
+      "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Reba Duets",
         "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
@@ -957,59 +1049,23 @@
       "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG"
+        "name": "True Believers",
+        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
       },
       "artists": [
         {
-          "name": "Ryan Waters Band",
-          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 237613,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe"
+      "duration_ms": 298373,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y"
-      },
-      "artists": [
-        {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        }
-      ],
-      "duration_ms": 228021,
-      "name": "Steal My Girl",
-      "url": "https://open.spotify.com/track/5nraaaIIPnVoXFLcFA1MDJ"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 255013,
-      "name": "Margaritaville (with Jimmy Buffett)",
-      "url": "https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "The Way You Look Tonight (Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016)",
         "url": "https://open.spotify.com/album/2WuFm7aAOlcyGhDC4BDkLt"
@@ -1025,7 +1081,43 @@
       "url": "https://open.spotify.com/track/0xN5D4yc3mJyU42fUzU6hC"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "A Tribute To The Judds",
+        "url": "https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Sonya Isaacs",
+          "url": "https://open.spotify.com/artist/4weums6IzU9u5hNt7lR31b"
+        }
+      ],
+      "duration_ms": 228582,
+      "name": "Grandpa (Tell Me 'Bout The Good Old Days) [feat. Sonya Isaacs]",
+      "url": "https://open.spotify.com/track/6873g9ht9LPVroFgMyyZDO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "From Now On",
+        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Love Is Alive",
         "url": "https://open.spotify.com/album/6crsCEK6qj2PmK00pETlAK"
@@ -1045,39 +1137,7 @@
       "url": "https://open.spotify.com/track/65Tyq0mmbLzayumvoK6Ixw"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "True Believers",
-        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Whoever's in New England",
-      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Eastside",
         "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
@@ -1093,23 +1153,43 @@
       "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "From Now On",
-        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
       },
       "artists": [
         {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 242746,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
+      "duration_ms": 255013,
+      "name": "Margaritaville (with Jimmy Buffett)",
+      "url": "https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Big Machine Undercover",
+        "url": "https://open.spotify.com/album/3rWSVlSY22f5XwgMUK2bwf"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 226747,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/2Fv1cWu2Hg2Z4UXsu3fbrx"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Simply The Hits",
         "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
@@ -1125,7 +1205,23 @@
       "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Whoever's in New England",
+      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
@@ -1161,7 +1257,7 @@
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
@@ -1177,23 +1273,7 @@
       "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Big Machine Undercover",
-        "url": "https://open.spotify.com/album/3rWSVlSY22f5XwgMUK2bwf"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 226747,
-      "name": "When I Was Your Man",
-      "url": "https://open.spotify.com/track/2Fv1cWu2Hg2Z4UXsu3fbrx"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Maoli Music Overload",
         "url": "https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA"
@@ -1209,7 +1289,7 @@
       "url": "https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "The Foundation",
         "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
@@ -1225,7 +1305,7 @@
       "url": "https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
@@ -1257,7 +1337,7 @@
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "It's Only Rock 'N' Roll (But I Like It)",
         "url": "https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS"
@@ -1277,71 +1357,7 @@
       "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "15 Years, the Wild Ride",
-        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "3 Am",
-      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Footloose",
-        "url": "https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Footloose",
-      "url": "https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 494800,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "No Holdin' Back",
-        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "It's Just a Matter of Time",
-      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "The Devil Went Down to Georgia - Remastered",
         "url": "https://open.spotify.com/album/79xtbCxVx1XB1YM5Ocr8gC"
@@ -1357,7 +1373,71 @@
       "url": "https://open.spotify.com/track/6E7l20drqpZjMTqY5w3G8f"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "15 Years, the Wild Ride",
+        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Footloose",
+        "url": "https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 494800,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "No Holdin' Back",
+        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "It's Just a Matter of Time",
+      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "If You Want Love",
         "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
@@ -1373,7 +1453,7 @@
       "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
@@ -1393,7 +1473,7 @@
       "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Cowboy Take Me Away",
         "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
@@ -1409,7 +1489,7 @@
       "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
@@ -1425,7 +1505,7 @@
       "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
@@ -1441,7 +1521,7 @@
       "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Bless the Broken Road",
         "url": "https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo"
@@ -1457,7 +1537,7 @@
       "url": "https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm"
@@ -1477,7 +1557,7 @@
       "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Dancing On My Own (Acoustic)",
         "url": "https://open.spotify.com/album/72ov5JIcL7C7DA3rOOVEtu"
@@ -1493,7 +1573,7 @@
       "url": "https://open.spotify.com/track/36HaY0w1BAbM6w1zWxguPu"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Dammit",
         "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
@@ -1509,7 +1589,7 @@
       "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Listen To The Radio",
         "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
@@ -1529,7 +1609,7 @@
       "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Dreams (The Campfire Sessions)",
         "url": "https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb"
@@ -1545,7 +1625,7 @@
       "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "He Got the Best of Me",
         "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
@@ -1561,7 +1641,7 @@
       "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Feeling Whitney",
         "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
@@ -1577,7 +1657,7 @@
       "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Wild And Blue",
         "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
@@ -1593,7 +1673,7 @@
       "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Outskirts of Heaven",
         "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
@@ -1609,7 +1689,7 @@
       "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "I Don't Want To Miss A Thing",
         "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
@@ -1625,7 +1705,7 @@
       "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Western",
         "url": "https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy"
@@ -1641,7 +1721,7 @@
       "url": "https://open.spotify.com/track/1Lmtr7tJasX392hKpbHPx1"
     },
     {
-      "added_at": "2023-10-20 16:59:55",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Acoustic Covers (Deluxe)",
         "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
@@ -1655,74 +1735,6 @@
       "duration_ms": 271771,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Loud and Heavy",
-        "url": "https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U"
-      },
-      "artists": [
-        {
-          "name": "State of Mine",
-          "url": "https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh"
-        },
-        {
-          "name": "Drew Jacobs",
-          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
-        }
-      ],
-      "duration_ms": 201076,
-      "name": "Loud and Heavy",
-      "url": "https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Palace (Cover) / Diane",
-        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 229496,
-      "name": "Palace - Cover",
-      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
-    },
-    {
-      "added_at": "2023-10-20 16:59:55",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 194459,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
     }
   ],
   "unique_name": "Country Covers",

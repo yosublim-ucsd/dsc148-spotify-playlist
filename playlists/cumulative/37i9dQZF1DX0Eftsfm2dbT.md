@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Awich
 
-193 songs - 9 hr 52 min
+194 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-09-21 |  |
 | [Psychedelic](https://open.spotify.com/track/4WcpmNZaCVS3OWNoRehz7b) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [莉子](https://open.spotify.com/album/2P2gIq8l9Rk4EYPErK9KRb) | 3:21 | 2023-10-10 |  |
 | [RANDO](https://open.spotify.com/track/5fJZDfgIiQgjzTlRxR6Q5G) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [RANDO](https://open.spotify.com/album/4NQ2zVZ53ndO3XCMTuhOj5) | 2:26 | 2023-09-21 |  |
-| [RASEN in OKINAWA](https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y) | 4:49 | 2023-09-21 |  |
+| [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 | 2023-10-19 |  |
+| [RASEN in OKINAWA](https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y) | 4:49 | 2023-09-21 | 2023-10-28 |
 | [Reach \(feat\. C.O.S.A.\)](https://open.spotify.com/track/2esBmM9PGpDIjydVegNLy9) | [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [My Mind](https://open.spotify.com/album/6bbPfBJXoz1ISxx4T48krs) | 2:57 | 2023-10-19 |  |
 | [REMEMBER](https://open.spotify.com/track/3gafWlZ2JkzxjFMWekqcQk) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [REMEMBER](https://open.spotify.com/album/6tEEc0Afxp3keGmu7fItcy) | 2:22 | 2023-09-26 | 2023-09-28 |
 | [REMEMBER](https://open.spotify.com/track/6BENxiVRwDYnr8KlX5w1bB) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [REMEMBER](https://open.spotify.com/album/55eCIsQ6HPgugMaEmQbBbV) | 2:22 | 2023-09-26 | 2023-10-04 |

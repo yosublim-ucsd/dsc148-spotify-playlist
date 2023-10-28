@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,591 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,740 likes - 100 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 28 | [Digno](https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:24 |
 | 29 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 10:12 |
 | 30 | [Cielo En La Tierra](https://open.spotify.com/track/4LTqkLILC2Vfrbg0C85i5b) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Cielo En La Tierra](https://open.spotify.com/album/62ZcFS2JhS73t3fhAZ6rZX) | 6:26 |
-| 31 | [La Cruz](https://open.spotify.com/track/64YUdJTdhkXJgvbKZpQtJa) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Amor Palabra Poder](https://open.spotify.com/album/0QmZYNcLZ9Vh3QM4fZWLY6) | 5:46 |
-| 32 | [Exagerado Amor](https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 4:39 |
+| 31 | [Exagerado Amor](https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 4:39 |
+| 32 | [La Cruz](https://open.spotify.com/track/64YUdJTdhkXJgvbKZpQtJa) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Amor Palabra Poder](https://open.spotify.com/album/0QmZYNcLZ9Vh3QM4fZWLY6) | 5:46 |
 | 33 | [Toda la Gloria](https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Fuego](https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi) | 6:00 |
 | 34 | [Jesús, Has Mi Carácter](https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Sólo Tu Gracia](https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi) | 4:42 |
 | 35 | [Tu Reino Está Aquí](https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 5:33 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 91 | [Mateo 17](https://open.spotify.com/track/6phOeAec12tnILyQPwNmej) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:25 |
 | 92 | [Gracias](https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Gracias](https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd) | 6:33 |
 | 93 | [Encontré Mi Lugar](https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu) | [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Encontré Mi Lugar](https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf) | 4:56 |
-| 94 | [Barra Libre](https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj), [Mariana Michelle](https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU) | [Barra Libre](https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ) | 3:26 |
-| 95 | [Mi Corazón Te Anhela](https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y) | [Andrea Bernal](https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6) | [Mi Corazón Te Anhela](https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE) | 4:55 |
-| 96 | [Tengo Sed de Ti](https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y) | [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl) | [Tengo Sed de Ti](https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh) | 5:02 |
+| 94 | [Mi Corazón Te Anhela](https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y) | [Andrea Bernal](https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6) | [Mi Corazón Te Anhela](https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE) | 4:55 |
+| 95 | [Tengo Sed de Ti](https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y) | [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl) | [Tengo Sed de Ti](https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh) | 5:02 |
+| 96 | [Barra Libre](https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj), [Mariana Michelle](https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU) | [Barra Libre](https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ) | 3:26 |
 | 97 | [Alabaré Al Señor \(Anástasis\)](https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 5:27 |
 | 98 | [Vives Tú Vivo Yo \- Acústico](https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Como en Casa \(Acústico\)](https://open.spotify.com/album/73FehpfDRan2EMqqnlyW5V) | 6:03 |
 | 99 | [Nunca Fallas](https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu) | [MIMY](https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Nunca Fallas](https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2) | 5:39 |
 | 100 | [Hasta el Final](https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 3:42 |
 
-Snapshot ID: `MCxlMWRlYWFmZjFkMmM5OTI5OTVmNWNlYTAyMzI2MmFmNjgzMzc5N2Jj`
+Snapshot ID: `MCw4MGMyYTBkYjYwMzIyZTVhZWZiZjFlNzEzNTI4Yzc3NmRmZWM3NDZm`

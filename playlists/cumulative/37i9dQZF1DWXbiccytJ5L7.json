@@ -1443,6 +1443,28 @@
     },
     {
       "album": {
+        "name": "Kuntry Till I Die",
+        "url": "https://open.spotify.com/album/5UphQrCEMtGP9d2jTDbl02"
+      },
+      "artists": [
+        {
+          "name": "SMO",
+          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
+        },
+        {
+          "name": "SB the Queen",
+          "url": "https://open.spotify.com/artist/6KqXuBuC5LedSWM73bixOa"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Kuntry Till I Die",
+      "url": "https://open.spotify.com/track/3KXgEbDeVZc8AeOKQkt7hw"
+    },
+    {
+      "album": {
         "name": "Rosap",
         "url": "https://open.spotify.com/album/02UEIpucuJMIqjifFgCh8c"
       },

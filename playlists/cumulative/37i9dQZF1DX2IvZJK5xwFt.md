@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-501 songs - 1 day 7 hr 18 min
+502 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Angel Numbers](https://open.spotify.com/track/6ND0L5nr36N57nWWGbuY4F) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [Angel Numbers](https://open.spotify.com/album/4QgETdX1QjaF27i2OrSNqB) | 3:07 | 2022-06-16 | 2022-07-01 |
 | [Angst](https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:44 | 2022-05-06 | 2022-05-13 |
 | [Animal](https://open.spotify.com/track/7G1Y5i1Hc4uUm57dqz7pAd) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Animal](https://open.spotify.com/album/1CNvsKCyvEW8X3rlLyx31L) | 4:03 | 2023-03-16 | 2023-04-14 |
+| [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-27 |  |
 | [Artificial](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Artificial](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 | 2023-08-10 | 2023-09-29 |
 | [As The Night Coalesces](https://open.spotify.com/track/6rQbBPBwt8UBDLTrc4RoT3) | [Lockeheart](https://open.spotify.com/artist/2JcsjQjqf2XWY0tkwDtblL), [Hắc Lệ](https://open.spotify.com/artist/5AX4LOJJ5MIPig6fULZo77) | [As The Night Coalesces](https://open.spotify.com/album/3hT0xU7WrQLxBtzSXkzjys) | 4:14 | 2022-09-29 | 2023-04-14 |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-28 |  |
@@ -314,7 +315,7 @@
 | [One \- Songs Of Surrender](https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [One \(Songs Of Surrender\)](https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq) | 3:36 | 2023-02-16 | 2023-02-24 |
 | [One Last Time](https://open.spotify.com/track/3Yr7P9agDOwYOWjJVHd5oi) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Churches](https://open.spotify.com/album/3zCRGOg6XKOtJAsvZPSiHG) | 3:13 | 2023-01-16 | 2023-05-26 |
 | [One Last Time](https://open.spotify.com/track/5uRa4je68U6oSiPKTiX1MW) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [One Last Time](https://open.spotify.com/album/4xL0dVYk7SJYPhMlfFUXeS) | 3:13 | 2022-05-06 | 2022-06-03 |
-| [ONE MORE TIME](https://open.spotify.com/track/1ja4311zfLHqUL96poSXfP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:28 | 2023-10-26 |  |
+| [ONE MORE TIME](https://open.spotify.com/track/1ja4311zfLHqUL96poSXfP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:28 | 2023-10-26 | 2023-10-28 |
 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2023-09-22 |  |
 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 | 2023-05-25 | 2023-07-14 |
 | [One of Those Days \(feat\. Eric Clapton\)](https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:40 | 2022-09-08 | 2023-07-14 |

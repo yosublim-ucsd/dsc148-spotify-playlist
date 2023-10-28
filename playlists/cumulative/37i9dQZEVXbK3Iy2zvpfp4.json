@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 170390,
       "name": "33 Max Verstappen",
       "url": "https://open.spotify.com/track/4nKRZAONxGgcKCMin730Ai"
@@ -3958,7 +3958,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 123692,
       "name": "Broken Trust",
       "url": "https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte"
@@ -12235,6 +12235,24 @@
     },
     {
       "album": {
+        "name": "It's a Fine Day",
+        "url": "https://open.spotify.com/album/31t5xfyX0K01OEvXOYoKyk"
+      },
+      "artists": [
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152608,
+      "name": "It's a Fine Day",
+      "url": "https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp"
+    },
+    {
+      "album": {
         "name": "How to: Friend, Love, Freefall",
         "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
       },
@@ -12668,6 +12686,24 @@
       "duration_ms": 158133,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
+    },
+    {
+      "album": {
+        "name": "JERSEY",
+        "url": "https://open.spotify.com/album/7AG9L8sH90FUufqsuGPHFc"
+      },
+      "artists": [
+        {
+          "name": "Chri$tofer",
+          "url": "https://open.spotify.com/artist/5VOwwt6zccjmMXNxZeyhGt"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178730,
+      "name": "JERSEY",
+      "url": "https://open.spotify.com/track/76ispGfBt4o87PWbgfCI3U"
     },
     {
       "album": {
@@ -27546,7 +27582,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "VZH\u016eRU CELOU NOC",
       "url": "https://open.spotify.com/track/47amAylHisxb5vuPLGQ72x"
@@ -27626,7 +27662,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 188773,
       "name": "W Moim Ogr\u00f3decku",
       "url": "https://open.spotify.com/track/5ocvSdRfpII0dBBIL1HCCq"

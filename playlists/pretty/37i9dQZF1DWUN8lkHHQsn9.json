@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:4GUR4UKtbNQiAV2h5qV2df\">Kamil Kempi\u0144ski</a>",
-  "num_followers": 6696,
+  "num_followers": 6697,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2E1NzE3ZjU4YjliNjlkN2Q4NzU4MjA3ZThkNjAzMDljYWZjZTk4",
+  "snapshot_id": "MCw2NzhlNzM4MTUxNjQ2MDVmNDhmYTQwYjUxYThjZjMwMThhOTljZGFl",
   "tracks": [
     {
       "added_at": "2023-10-20 09:12:18",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
+        "name": "GEJSZA",
+        "url": "https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl"
+      },
+      "artists": [
+        {
+          "name": "RUSKIEFAJKI",
+          "url": "https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "GEJSZA",
+      "url": "https://open.spotify.com/track/1f5HTAc76fgz4rMcs6dmKv"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
         "name": "Diva (feat. Lolita Leopard)",
         "url": "https://open.spotify.com/album/2K5A3vvcxsEpQ43tl7CcfG"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 177113,
       "name": "Diva (feat. Lolita Leopard)",
       "url": "https://open.spotify.com/track/3ox0k1TwVFAhserUA9cubK"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "GEJSZA",
-        "url": "https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl"
-      },
-      "artists": [
-        {
-          "name": "RUSKIEFAJKI",
-          "url": "https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "GEJSZA",
-      "url": "https://open.spotify.com/track/1f5HTAc76fgz4rMcs6dmKv"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -359,42 +359,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Can't Stand",
-        "url": "https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml"
-      },
-      "artists": [
-        {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "ZenSoFly",
-          "url": "https://open.spotify.com/artist/4tDTF2Ho65ijdmMHbtgJ1h"
-        }
-      ],
-      "duration_ms": 326769,
-      "name": "Can't Stand feat. ZensoFly",
-      "url": "https://open.spotify.com/track/7t5E6WC2HIeAAAKWUymNzs"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "MAJU\u015a",
-        "url": "https://open.spotify.com/album/35FokD9pQ8OMZ1C0ZJHz7b"
-      },
-      "artists": [
-        {
-          "name": "27.Fuckdemons",
-          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
-        }
-      ],
-      "duration_ms": 137166,
-      "name": "MAJU\u015a",
-      "url": "https://open.spotify.com/track/5fPPFNftcGOcQOFerDTRwY"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/0ehpKSEaud7WMcMNUNiPui"
       },
@@ -411,6 +375,22 @@
       "duration_ms": 230489,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/1tEGMBP6luVt9q9nImOooY"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "MAJU\u015a",
+        "url": "https://open.spotify.com/album/35FokD9pQ8OMZ1C0ZJHz7b"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        }
+      ],
+      "duration_ms": 137166,
+      "name": "MAJU\u015a",
+      "url": "https://open.spotify.com/track/5fPPFNftcGOcQOFerDTRwY"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -463,6 +443,26 @@
       "duration_ms": 181823,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Can't Stand",
+        "url": "https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "ZenSoFly",
+          "url": "https://open.spotify.com/artist/4tDTF2Ho65ijdmMHbtgJ1h"
+        }
+      ],
+      "duration_ms": 326769,
+      "name": "Can't Stand feat. ZensoFly",
+      "url": "https://open.spotify.com/track/7t5E6WC2HIeAAAKWUymNzs"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -547,22 +547,18 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
-        "url": "https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd"
+        "name": "Straty",
+        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
       },
       "artists": [
         {
           "name": "MAS",
           "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        },
-        {
-          "name": "Bart Ga\u0142\u0105zka",
-          "url": "https://open.spotify.com/artist/1Uem85RHws6LkjjfsX285A"
         }
       ],
-      "duration_ms": 250259,
-      "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
-      "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
+      "duration_ms": 193942,
+      "name": "Spytaj mnie",
+      "url": "https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -631,18 +627,22 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Straty",
-        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
+        "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
+        "url": "https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd"
       },
       "artists": [
         {
           "name": "MAS",
           "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        },
+        {
+          "name": "Bart Ga\u0142\u0105zka",
+          "url": "https://open.spotify.com/artist/1Uem85RHws6LkjjfsX285A"
         }
       ],
-      "duration_ms": 193942,
-      "name": "Spytaj mnie",
-      "url": "https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b"
+      "duration_ms": 250259,
+      "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
+      "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Diego M.",
-        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 165991,
-      "name": "Diego M.",
-      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "SLAY",
         "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+        "name": "Diego M.",
+        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
         }
       ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
+      "duration_ms": 165991,
+      "name": "Diego M.",
+      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -883,6 +867,22 @@
       "duration_ms": 190000,
       "name": "priorytetem",
       "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -907,18 +907,22 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Scarchest",
-        "url": "https://open.spotify.com/album/5uRIdLZnznQsisjxhqFZ8P"
+        "name": "Pokussa Na Parkiecie",
+        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Scarchest",
-      "url": "https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY"
+      "duration_ms": 176000,
+      "name": "POKUSSA",
+      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -935,6 +939,22 @@
       "duration_ms": 190443,
       "name": "Przypadki",
       "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Scarchest",
+        "url": "https://open.spotify.com/album/5uRIdLZnznQsisjxhqFZ8P"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Scarchest",
+      "url": "https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -999,26 +1019,6 @@
       "duration_ms": 186468,
       "name": "J\u0119zyk",
       "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "Pokussa Na Parkiecie",
-        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "POKUSSA",
-      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 262014,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Technikolor",
         "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 220000,
       "name": "Dziewczyna z NASA",
       "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 262014,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
+        "name": "Maski",
+        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
+      },
+      "artists": [
+        {
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+        }
+      ],
+      "duration_ms": 239354,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
         "name": "Don't Collapse",
         "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
       },
@@ -1247,38 +1263,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Rojava",
-        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Rojava",
-      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "Maski",
-        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
-      },
-      "artists": [
-        {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
-        }
-      ],
-      "duration_ms": 239354,
-      "name": "Bum Bum",
-      "url": "https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "4900 Groszy",
         "url": "https://open.spotify.com/album/4YLvr3nm2e4Dt8L04dwu2a"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 129500,
       "name": "49 Groszy - Remix",
       "url": "https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Rojava",
+        "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
+      },
+      "artists": [
+        {
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Rojava",
+      "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Organic Love",
-        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
+        "name": "Maski",
+        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
       "artists": [
         {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Organic Love",
-      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
+      "duration_ms": 254436,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
     }
   ],
   "unique_name": "GLOW Polska",

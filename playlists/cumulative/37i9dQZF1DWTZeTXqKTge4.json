@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Yes*",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Lary Kidd",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -895,6 +895,28 @@
     },
     {
       "album": {
+        "name": "BAD JAZZ",
+        "url": "https://open.spotify.com/album/5ZN9KLtdqUQ4GwAEcIUSPa"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        },
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/3GnqIZzxJ0seRHycNu1kfH"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110503,
+      "name": "BAD JAZZ",
+      "url": "https://open.spotify.com/track/7ittTYPZNiwNpoAOTHgbcr"
+    },
+    {
+      "album": {
         "name": "Balan\u00e7oires",
         "url": "https://open.spotify.com/album/4GETwpQ6EHDbv0IbatN7Lc"
       },
@@ -958,6 +980,28 @@
       "duration_ms": 192333,
       "name": "Bando",
       "url": "https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl"
+    },
+    {
+      "album": {
+        "name": "Sang pour Sang 99%",
+        "url": "https://open.spotify.com/album/40p9Bnjb3vS74xasSHRnkG"
+      },
+      "artists": [
+        {
+          "name": "Joey G",
+          "url": "https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf"
+        },
+        {
+          "name": "Guessmi",
+          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Bandz",
+      "url": "https://open.spotify.com/track/2rlEaQFrTtQ0f0PaYWl9A2"
     },
     {
       "album": {
@@ -1298,7 +1342,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 162750,
       "name": "Billie",
       "url": "https://open.spotify.com/track/0AKpIDr4aCRTQY8ebSlbes"
@@ -1486,7 +1530,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 134260,
       "name": "BRILLES",
       "url": "https://open.spotify.com/track/4CAGAkTcc1jUWP7COxfzFb"
@@ -3216,7 +3260,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 132923,
       "name": "Emballer",
       "url": "https://open.spotify.com/track/0eOFvt23wFrXi7j6QH9lgz"
@@ -5139,6 +5183,24 @@
     },
     {
       "album": {
+        "name": "La fess\u00e9e",
+        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237691,
+      "name": "La fess\u00e9e",
+      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
+    },
+    {
+      "album": {
         "name": "Bienvenue \u00e0 Baveuse City",
         "url": "https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC"
       },
@@ -5328,7 +5390,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 231382,
       "name": "Led Lights",
       "url": "https://open.spotify.com/track/0f9DSgM7W2EmLgRNuLA5jJ"
@@ -6092,7 +6154,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 182256,
       "name": "Montego Bay",
       "url": "https://open.spotify.com/track/7u3hvzsMpRgV3o8PHSFMS0"
@@ -6826,6 +6888,24 @@
       "duration_ms": 174053,
       "name": "Palmar\u00e8s",
       "url": "https://open.spotify.com/track/4SQJV1rXqaYhdIa1nl8R2o"
+    },
+    {
+      "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/34jUHU7NDgnnklEkN0Y0HX"
+      },
+      "artists": [
+        {
+          "name": "Nikki-B",
+          "url": "https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205984,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/1w3nU10eoDD3ASiUC7m47f"
     },
     {
       "album": {
@@ -8071,6 +8151,24 @@
     },
     {
       "album": {
+        "name": "Rapide et Dangereux",
+        "url": "https://open.spotify.com/album/4K8f3c06ixYA14n5Saswpi"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87619,
+      "name": "Sacr\u00e9 fils",
+      "url": "https://open.spotify.com/track/5E1bugHfL83ZJX9IcuWd9l"
+    },
+    {
+      "album": {
         "name": "SAL Tour",
         "url": "https://open.spotify.com/album/4sNa8HLLS8mfIYJlVUcQe7"
       },
@@ -8184,7 +8282,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 165407,
       "name": "Sandy",
       "url": "https://open.spotify.com/track/1szKZnGxBmd1JgMzPEzF8G"
@@ -8562,6 +8660,24 @@
       "duration_ms": 204800,
       "name": "Sous les \u00e9toiles",
       "url": "https://open.spotify.com/track/2kkkIDj5jtz0Owk7FbLH7d"
+    },
+    {
+      "album": {
+        "name": "Speak White",
+        "url": "https://open.spotify.com/album/4kHRu7779hubGFySAxxrU9"
+      },
+      "artists": [
+        {
+          "name": "Lary Kidd",
+          "url": "https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225253,
+      "name": "Speak White",
+      "url": "https://open.spotify.com/track/1tGFhpQ2UsTHlMKVTsGwMX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XWJkYVfE4v.md) - [plain]
 
 > Soft, shimmering strings to help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,985 likes - 72 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,999 likes - 72 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XWJkYVfE4v.md) - [plain]
 | 37 | [Romance sans Paroles \- Bonus Track](https://open.spotify.com/track/4PNvAI6JjAyfFhAZvkdtAm) | [Felix Godefroid](https://open.spotify.com/artist/1Qtna8v0vWJLmT3MSF0IvO), [Sarah O'Brien](https://open.spotify.com/artist/4zO7mLEq76fAfPau6es6lm) | [Impromptu](https://open.spotify.com/album/3chncWqSySIsq63y17njdc) | 2:25 |
 | 38 | [Night on the Balcony](https://open.spotify.com/track/1Iksy9DnilSiEjCdDsICKT) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp), [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Autumn](https://open.spotify.com/album/1RfMMbOvEdHIscrFZ8OgbI) | 2:42 |
 | 39 | [Notturno in F Major, P\. 106: III\. Adagio](https://open.spotify.com/track/3In7WkeiZeAN8d94842bc4) | [Michael Haydn](https://open.spotify.com/artist/3rGstcVKQhx8DhhJzIVQoe), [German Chamber Academy Neuss](https://open.spotify.com/artist/18xTTgRfO22IVadjh3QTf3), [Johannes Goritzki](https://open.spotify.com/artist/6zRcWmgjxSyFzRql5bjL4u) | [Haydn, M.: Incidental Music To Zaire / Notturno Solenne in E\-Flat Major / Notturno in F Major](https://open.spotify.com/album/6Oa5zCIjXhsSfqHdv8ceB3) | 4:47 |
-| 40 | [Gnossiennes \(Excerpts Arr\. for Guitar\): No\. 3, Lent](https://open.spotify.com/track/2Jbc34QUiQoPbD4fLJ2Kew) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Satie: Works \(Arr\. for Guitar\)](https://open.spotify.com/album/3owGubmGOsoInNwq80dbDw) | 2:48 |
+| 40 | [Gnossiennes \(Arr\. S\. Shibe for Guitar\): No\. 3, Lent](https://open.spotify.com/track/77uEBoWh3wk5hJO9G4JLWb) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Sean Shibe: Satie](https://open.spotify.com/album/2nmol9qliJpacZHaemDBVu) | 2:48 |
 | 41 | [Blow The Wind Southerly \(Arr\. Kanneh\-Mason for Cello\)](https://open.spotify.com/track/5NHQ6e1JkQ5zsvzIRkqDhh) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 2:22 |
 | 42 | [Beau soir, L\. 6 \(Arranged for Violin and Piano by Jascha Heifetz\)](https://open.spotify.com/track/1DsqYVJjTCfYmxOnlDPQPr) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom) | [Voice of the Violin](https://open.spotify.com/album/1BXO57T2KEgCS6ca9tlmZ6) | 2:27 |
 | 43 | [Josquiniana: I\. Helas madame](https://open.spotify.com/track/30HvTNx4XWK8mOYf0wEauq) | [Charles Wuorinen](https://open.spotify.com/artist/5XymGDm97lwt7hLHZJ0zq6), [Brentano String Quartet](https://open.spotify.com/artist/6Wiv9xGo79scEcv8r5yIwj) | [Wuorinen: Ashberyana / Fenton Songs I and Ii / Josquiniana](https://open.spotify.com/album/7GVU2fSx2qNwEwHifR4lpk) | 3:16 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XWJkYVfE4v.md) - [plain]
 | 71 | [Sicilienne \(Arr\. by Söllscher\)](https://open.spotify.com/track/0fNr9GAypfX7roqk9sFyI0) | [Maria Theresia von Paradis](https://open.spotify.com/artist/2BboNNLVkfkH1Sx745yQgd), [Jian Wang](https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5), [Göran Söllscher](https://open.spotify.com/artist/5jF2METFutHd3av3ITYTrL) | [Reverie](https://open.spotify.com/album/6oZKt8yzDHcVPKRC4oiUAk) | 3:08 |
 | 72 | [Si vous saviez](https://open.spotify.com/track/13QuxpGCcz599af8FoVLrc) | [Eugène Ysaÿe](https://open.spotify.com/artist/662RkpOvE7MIPWnfYbY5xs), [Marc Bouchkov](https://open.spotify.com/artist/682vGXK3e7Y2fddU84fwAf), [Georgiy Dubko](https://open.spotify.com/artist/6PvGzxfV4Ayh94B7n4f8Di) | [Marc Bouchkov & Georgiy Dubko \- harmonia nova \#2](https://open.spotify.com/album/7LmGijZeH6a8gNjmV9VjZW) | 3:23 |
 
-Snapshot ID: `MCw1YTVlMTAwZmJkMzIzNjY2ZDBkMGU1YjRkNTgwMGI2MWM0ZTQwMGVl`
+Snapshot ID: `MCw3Yzg2OTBmOWUwNzRmYzRlYTU2Njk0ZTY4YjU2MjcyYzJlNmM4Yzkx`

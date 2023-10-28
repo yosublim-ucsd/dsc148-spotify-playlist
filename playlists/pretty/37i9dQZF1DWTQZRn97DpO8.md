@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : LYNN
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,553 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,631 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 25 | [Ce que tu m'as fait](https://open.spotify.com/track/6Sc1mL3Bie74NTiu6JTyb3) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Ce que tu m'as fait](https://open.spotify.com/album/5V8dJ9scc4SX0nJ9o32kBW) | 3:03 |
 | 26 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 |
 | 27 | [Violence](https://open.spotify.com/track/5B6u3uSnl7aBwOrwpLxsMJ) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Jusqu'à l'aube](https://open.spotify.com/album/3cuZcv4o0IuNuxPBiq0axn) | 3:08 |
-| 28 | [Des bisous](https://open.spotify.com/track/0J1rfWxfvcmoFQnN1Z0iFf) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Des bisous](https://open.spotify.com/album/2BNHfSQ6WMakKIf7mCYpuq) | 2:52 |
+| 28 | [des bisous](https://open.spotify.com/track/0J1rfWxfvcmoFQnN1Z0iFf) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [des bisous](https://open.spotify.com/album/2BNHfSQ6WMakKIf7mCYpuq) | 2:52 |
 | 29 | [Coup de fil](https://open.spotify.com/track/2xrPOmiTWiuiLMRMj5li5A) | [Oscar Emch](https://open.spotify.com/artist/07n9zp5Qfn9tIPMhQlYzqm), [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Coup de fil](https://open.spotify.com/album/7jWw0c7G2psVC9ZmV7U2gB) | 4:24 |
 | 30 | [P1M2+](https://open.spotify.com/track/1J83mrCrM6SHUd6Oex6BJT) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [UV](https://open.spotify.com/album/3M6wxcxqY9NfeRTkynRQAA) | 2:38 |
 | 31 | [Nous Deux](https://open.spotify.com/track/1Vr26bojJG8VZzg7JYql03) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Idéal](https://open.spotify.com/album/4cyrwuyOwNd6YHf3Gi2cI4) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Corps Accord](https://open.spotify.com/track/76Fx5ruanK52uVQVTYtVlM) | [Lamarre](https://open.spotify.com/artist/6IX0WXkIrQX6mLHzCDf5oB) | [Corps Accord](https://open.spotify.com/album/0u75F1YavDI1EmhTtbD4OC) | 3:20 |
 | 50 | [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 |
 
-Snapshot ID: `MCwwYzY2MjczMTIxZDhlN2I5MzFmYTlkNDFjZTQ5Y2M3ZjcwNDliYmU1`
+Snapshot ID: `MCw0Nzk3MmE2OWIyNGZkNTA1NDU4ODU3ODZmMWU3MWUxNzQwYzcxNjhm`

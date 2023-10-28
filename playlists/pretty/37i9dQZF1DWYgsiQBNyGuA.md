@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,777 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,834 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 79 | [Glimmer](https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju) | [Velvet Bloom](https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55) | [Glimmer](https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD) | 3:11 |
 | 80 | [Motorway](https://open.spotify.com/track/4x1wEZiMblCHTpsO3HviGV) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Motorway](https://open.spotify.com/album/5K458YIkowsLUlFzo6ENsG) | 3:35 |
 
-Snapshot ID: `MCxhMzYxYzkyNGJmMDY5MzQ4YjYwZGUwZDU1YTk1ZDU4ZDUwMDZhZTY1`
+Snapshot ID: `MCwyMTFhNTA0MzYyYzljOTcyMjYwMWE2YmJiYzdkOWRkYmUxZmRjYWZl`

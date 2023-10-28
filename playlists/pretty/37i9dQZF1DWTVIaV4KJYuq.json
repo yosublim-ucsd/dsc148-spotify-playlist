@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 686774,
+  "num_followers": 686852,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTZkZDM0ZTdiZjBiZmM3ZThjZGMzMWNjZTkyYTI4MTliNWE4YjRh",
+  "snapshot_id": "MCw3ODdmZjJlNjIyZjIzZTFkYjcwY2E1NDRkYjc2ODkyMzE5NzQ2ZTJk",
   "tracks": [
     {
       "added_at": "2023-10-20 16:58:03",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 141653,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Sunshine on a Cloudy Day",
         "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 166438,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 141653,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Between the Bars",
         "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Love Goes: Live at Abbey Road Studios",
-        "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 232128,
-      "name": "Time After Time - Live At Abbey Road Studios",
-      "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
+      "duration_ms": 177000,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -775,6 +759,22 @@
       "duration_ms": 198800,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Love Goes: Live at Abbey Road Studios",
+        "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 232128,
+      "name": "Time After Time - Live At Abbey Road Studios",
+      "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 219960,
       "name": "I Wanna Dance with Somebody",
       "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -972,22 +972,6 @@
       "added_at": "2023-10-20 16:58:03",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Dreams - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
       "artists": [
@@ -999,6 +983,22 @@
       "duration_ms": 196772,
       "name": "I Can't Make You Love Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Recycled Recipes",
-        "url": "https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb"
-      },
-      "artists": [
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
-        }
-      ],
-      "duration_ms": 160160,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/63vZ8WlRIufZiJMMnWUCZh"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Judah & The Lion (Unplugged)",
         "url": "https://open.spotify.com/album/6YdwCaQPQ4j3h8F8fFWeUi"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 251805,
       "name": "Soak up the Sun - Unplugged",
       "url": "https://open.spotify.com/track/0eUty3IjjOqEheyWEb9Rsb"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Recycled Recipes",
+        "url": "https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 160160,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/63vZ8WlRIufZiJMMnWUCZh"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 154869,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Portfolio",
-        "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
-      },
-      "artists": [
-        {
-          "name": "Genevi\u00e8ve Leclerc",
-          "url": "https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "What's up",
-      "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "Dreams (Lanie's Version)",
         "url": "https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 260000,
       "name": "Dreams - Lanie's Version",
       "url": "https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Leclerc",
+          "url": "https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "What's up",
+      "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "A Whiter Shade of Pale",
-        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 285428,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "What a Wonderful World",
         "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 162907,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "A Whiter Shade of Pale",
+        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 285428,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
     },
     {
       "added_at": "2023-10-20 16:58:03",

@@ -6489,6 +6489,24 @@
     },
     {
       "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
+    },
+    {
+      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/7r47EiktL01BmvI7NHdgcA"
       },
@@ -8004,7 +8022,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 224516,
       "name": "Gold",
       "url": "https://open.spotify.com/track/4pvluLhHImzU3wDZ0HWMjI"
@@ -13276,6 +13294,24 @@
       "duration_ms": 206616,
       "name": "Looking For Loving",
       "url": "https://open.spotify.com/track/4C7iQhNkgLRKGngGen5g23"
+    },
+    {
+      "album": {
+        "name": "Mimesis, Pt. 2",
+        "url": "https://open.spotify.com/album/1Rp8lrDzW4N6UzFmFOxnMF"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190440,
+      "name": "Looking for Someone",
+      "url": "https://open.spotify.com/track/0itdqhILsN7MBOYr8M9DFw"
     },
     {
       "album": {
@@ -20324,7 +20360,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 302400,
       "name": "Stars Belong With You",
       "url": "https://open.spotify.com/track/3Y2fxq2ynv6ByypMJ2mX5H"

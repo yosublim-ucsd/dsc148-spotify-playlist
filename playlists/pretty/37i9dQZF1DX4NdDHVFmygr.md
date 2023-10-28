@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,042 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,246 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 36 | [Ojos Sin Ver](https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:11 |
 | 37 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 |
 | 38 | [غبرتي عليا \- Cover libianca people \- 2023 \- nouveauté](https://open.spotify.com/track/1F4AZDDP7VW3DTDOBtaO39) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [غبرتي عليا \(Cover libianca people \- 2023 \- nouveauté\)](https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w) | 3:21 |
-| 39 | [Ya Nari](https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Ya Nari](https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB) | 2:10 |
-| 40 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
-| 41 | [La Tete](https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 2:57 |
-| 42 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 |
-| 43 | [Khssara](https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/46ePq8td3sKropIMIV3ahj) | 2:32 |
-| 44 | [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 |
+| 39 | [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 |
+| 40 | [Ya Nari](https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Ya Nari](https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB) | 2:10 |
+| 41 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
+| 42 | [La Tete](https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 2:57 |
+| 43 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 |
+| 44 | [Khssara](https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/46ePq8td3sKropIMIV3ahj) | 2:32 |
 | 45 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 |
 | 46 | [Original](https://open.spotify.com/track/7jUxtWSgaVzJ4C6wEA0LQ6) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Original](https://open.spotify.com/album/7vCo5OA7SXaGSa1ntOcnHl) | 2:08 |
 | 47 | [Ajini](https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [WILI](https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [WILI](https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1) | 3:10 |
 | 50 | [Skati](https://open.spotify.com/track/7ungXHBRDqUW3s5iy5aEcI) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Skati](https://open.spotify.com/album/5KDd8Sv0z9yKzEvfNSh8am) | 4:12 |
 
-Snapshot ID: `MCw5MTIwNDZlZTZhNjhhOTYxYTA1NDQ3ZjI1ZWY5MDZkY2NiNWQyYzJl`
+Snapshot ID: `MCw1OTEzYzQ5YjgyOTRmZDlhYmI0MDFmMmNiYTgyNzE1Zjg4ZTBlNjdl`

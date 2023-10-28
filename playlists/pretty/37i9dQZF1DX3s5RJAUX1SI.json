@@ -1,12 +1,12 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 104269,
+  "num_followers": 104480,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjE4ZGQ4ZjBmZjkzN2ZmNmMzNGU1OTBlOGQ5Njk5Y2Q2MTdiZDE2",
+  "snapshot_id": "MCwwNzg2MzQyZGJkNzMwNzYzNDIwN2M3NzBjYzlkMzI4ZmVmZTYyZWQ4",
   "tracks": [
     {
       "added_at": "2023-08-08 23:46:08",
@@ -75,26 +75,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 177791,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 177791,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -675,8 +675,8 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "La basurita",
-      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "El Amor Que Nunca Fue",
         "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 204360,
       "name": "Basta Ya",
       "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "La basurita",
+      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 159573,
-      "name": "Esta Noche Voy a Verla",
-      "url": "https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "Perdoname Mi Amor",
         "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 225973,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/7cmdmDyKZDgK92uPlTBg6m"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 159573,
+      "name": "Esta Noche Voy a Verla",
+      "url": "https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Dos Mundos Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/2NLAraJgphfdy2sWQ4LWm4"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "En Vivo Para Ti",
         "url": "https://open.spotify.com/album/62WpT7OULJFmbpS9CAWD7b"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 155466,
       "name": "Por Las Calles De Chihuahua - En Vivo",
       "url": "https://open.spotify.com/track/0oH9BvTBasSw2Uqc16INwz"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Dos Mundos Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Estuve",
+      "url": "https://open.spotify.com/track/2NLAraJgphfdy2sWQ4LWm4"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+        "name": "Para Dejarte de Querer",
+        "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
         }
       ],
-      "duration_ms": 146693,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX"
+      "duration_ms": 228982,
+      "name": "Como Tu Querer - Con Banda",
+      "url": "https://open.spotify.com/track/3C1LJd8eEGuN9AzyQbueLS"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Para Dejarte de Querer",
-        "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
       "artists": [
         {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 228982,
-      "name": "Como Tu Querer - Con Banda",
-      "url": "https://open.spotify.com/track/3C1LJd8eEGuN9AzyQbueLS"
+      "duration_ms": 146693,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Esta Noche Tu Vendr\u00e1s",
-      "url": "https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Gerardo Reyes",
         "url": "https://open.spotify.com/album/2BFXXLvrX2PZ5WqWxAzg39"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 379306,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Esta Noche Tu Vendr\u00e1s",
+      "url": "https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1855,8 +1855,8 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Pegadito Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
       "artists": [
         {
@@ -1864,9 +1864,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 176320,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
     },
     {
       "added_at": "2023-08-08 23:46:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,710 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,828 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 40 | [Que Me Puedas Amar](https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:26 |
 | 41 | [Cuatro Rosas](https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:36 |
 | 42 | [Que No Se enteren](https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Original](https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P) | 4:30 |
-| 43 | [Mi Primera Cana](https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Titulo De Amor](https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne) | 4:17 |
+| 43 | [Lo Busqué](https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA) | [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB) | [Ave Libre](https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn) | 4:53 |
 | 44 | [Traga'O De Tí](https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Caballero Del Vallenato](https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9) | 4:07 |
 | 45 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:35 |
-| 46 | [Lo Busqué](https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA) | [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB) | [Ave Libre](https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn) | 4:53 |
+| 46 | [Mi Primera Cana](https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Titulo De Amor](https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne) | 4:17 |
 | 47 | [Infiel](https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX) | 4:06 |
 | 48 | [Mi Diosa Humana](https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:46 |
 | 49 | [Todo Daria por Ti](https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [Amantes Inocentes](https://open.spotify.com/track/4DgZ6w7btR0E4pAb7I3bLs) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Gigantes Del Vallenato](https://open.spotify.com/artist/5Xze4GSrC0iPwUdulpUxSu) | [La Combinacion Vallenata Vol\. 3](https://open.spotify.com/album/3YvmSceIoFKWBoUPb2VciJ) | 5:14 |
 | 60 | [Casualidad](https://open.spotify.com/track/7tyIylqZUGEcJ9W280KcJe) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Super Vallenatos 2008](https://open.spotify.com/album/1AhZ43USD4PzQwrtXsoJ4w) | 4:52 |
 
-Snapshot ID: `MCw2ZmZjYmZkNmIyZGZkOGNkZjEzZWYyNjBlMTNjNzIzZjlhOTA5YWE4`
+Snapshot ID: `MCxlMTJjNjdkZjZhNmNlNDFhYmVkODk0NzVjMmNiNGI4OTFjZTdkNTM4`

@@ -32177,6 +32177,24 @@
     },
     {
       "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226188,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH"
+    },
+    {
+      "album": {
         "name": "Tr\u00e8s Jolie",
         "url": "https://open.spotify.com/album/52eph7Xq39vIhwT65uNNn3"
       },

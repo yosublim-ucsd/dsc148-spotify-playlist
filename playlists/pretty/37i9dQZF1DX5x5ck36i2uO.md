@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 960 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 980 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 17 | [BASS](https://open.spotify.com/track/19QvAYMXYN4iQMlzer1JEC) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [BASS](https://open.spotify.com/album/1h7jDj6mhlPnArM1blyqy4) | 3:20 |
 | 18 | [Too Far \(Feat\. Beenzino\)](https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary And The Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 4:07 |
 | 19 | [under the ground \(feat\. Dean\)](https://open.spotify.com/track/6EU4Ox9nBAE4BMatsggp8i) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [u n u, Pt\. 2](https://open.spotify.com/album/4R3JUAwCwCLp4vUDK5TLrZ) | 3:42 |
-| 20 | [a fence](https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [af](https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8) | 3:27 |
-| 21 | [010](https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:02 |
+| 20 | [010](https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:02 |
+| 21 | [a fence](https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [af](https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8) | 3:27 |
 | 22 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 |
 | 23 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
 | 24 | [In The Morning \(Feat\. Bryn\)](https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [In The Morning](https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu) | 3:15 |
 | 25 | [ice coffee](https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 2:53 |
 | 26 | [Gyeongsan\-si](https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:05 |
-| 27 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 |
-| 28 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 |
+| 27 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 |
+| 28 | [Roommate](https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:50 |
 | 29 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
 | 30 | [Mannequin \(Feat\. Beenzino & SURAN\)](https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [2](https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA) | 3:53 |
 | 31 | [Daydreamin \(Feat\. sogumm & Woo\) \(Prod\. Yosi & CODE KUNST\)](https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 |
 | 50 | [GOOD NIGHT](https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T) | [TRAVEL: NOAH](https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5) | 3:35 |
 
-Snapshot ID: `MCxiMDk5ODRlNjk4YjZhMGJiYjhmOGQ2YWU3ZjYzYzVhNzY1NjUyODdh`
+Snapshot ID: `MCw1YjljNmRjYjg0OTQ0YzdlNTJjYWFjN2MyYWU0YjIzZmRmYjk3N2Rl`

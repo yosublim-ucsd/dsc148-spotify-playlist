@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: SNOW WIFE
 
-201 songs - 10 hr 20 min
+203 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,14 +18,16 @@
 | [Am I Human?](https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Am I Human?](https://open.spotify.com/album/2wagkL8o47G71cciBICnsI) | 2:32 | 2023-08-25 |  |
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-08-11 |  |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-28 |  |
+| [APESHIT](https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [APESHIT](https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y) | 2:31 | 2023-10-27 |  |
 | [At the Party](https://open.spotify.com/track/47WxJ89JybSnYFswKjpaxx) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Nicole Kidman / Anne Hathaway](https://open.spotify.com/album/69JQT4Se7KeweFlgdmXNpA) | 2:37 | 2021-12-03 | 2023-05-19 |
+| [Bad Girls Behave](https://open.spotify.com/track/2CspyaDniJQAhgAYamTyI3) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/6c6ObiguaXrGWxcy3kP0pJ) | 2:50 | 2023-10-27 |  |
 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4) | 2:35 | 2021-12-03 |  |
 | [Better Than the Boys](https://open.spotify.com/track/6sHVzNuJ95MQOuZoCXKSJw) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/2CQMZOxrA5pmFlbwLtHQEy) | 2:34 | 2023-08-25 |  |
 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 | 2023-03-10 | 2023-08-31 |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-12-03 |  |
 | [Black Hole](https://open.spotify.com/track/0hZerqDIkaub67oHqFWjk8) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole \(Dan D’Lion Remix\)](https://open.spotify.com/album/30IVvHqLBq3tVycrSMTXlu) | 3:20 | 2021-12-03 | 2022-07-29 |
 | [Blossom](https://open.spotify.com/track/57u4qXUFPo9MtMPTjQXv8Y) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Blossom](https://open.spotify.com/album/6Iv9EOdA8QZEugV2V5X0yd) | 1:54 | 2021-12-03 | 2022-07-29 |
-| [Blush](https://open.spotify.com/track/1SFtNl1fToY45Siz65CnSa) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [Blush](https://open.spotify.com/album/34V8K95l5c3Idr3TwDpclN) | 3:33 | 2023-05-19 |  |
+| [Blush](https://open.spotify.com/track/1SFtNl1fToY45Siz65CnSa) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [Blush](https://open.spotify.com/album/34V8K95l5c3Idr3TwDpclN) | 3:33 | 2023-05-19 | 2023-10-28 |
 | [Blush](https://open.spotify.com/track/3Yq6TLvajhIBIIGtx57r3N) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [Blush](https://open.spotify.com/album/5IwO8jLcDjEip9Y3t2t0tq) | 3:33 | 2021-12-03 | 2023-04-30 |
 | [BLUSH!](https://open.spotify.com/track/3RbesFxKsq6J5NGVtm3ZRW) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [BLUSH!](https://open.spotify.com/album/2RCJtGEsBWrRxpDgeptGSF) | 2:34 | 2022-08-12 | 2023-01-10 |
 | [Body](https://open.spotify.com/track/51vqvrBQaAruPhyowV2Z8V) | [Serena Sun](https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG) | [Body](https://open.spotify.com/album/6mGbgQSiEErQMR5Qrl7zGx) | 2:39 | 2022-03-11 | 2022-07-28 |
@@ -62,7 +64,7 @@
 | [Do Over](https://open.spotify.com/track/5w2BeuJogvcGbSdc07DdJl) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Do Over](https://open.spotify.com/album/5BuOTw8w1ZefJ8j3qaQsgU) | 2:57 | 2022-04-15 | 2022-11-28 |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-15 |  |
 | [Dramamine](https://open.spotify.com/track/2MCcUgZVe1RH8beGoeA4bE) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s) | 2:55 | 2021-12-03 | 2022-07-24 |
-| [Dramamine](https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi) | 2:55 | 2023-01-09 |  |
+| [Dramamine](https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi) | 2:55 | 2023-01-09 | 2023-10-28 |
 | [Drunk Sleeping In Taxis](https://open.spotify.com/track/6JsTJ7ScTRdqz2yotO5aNe) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Drunk Sleeping In Taxis](https://open.spotify.com/album/0SHth88PCHEHHhf2nysItm) | 3:33 | 2021-12-03 | 2023-04-29 |
 | [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 | 2022-01-07 | 2023-03-04 |
 | [Emo Song](https://open.spotify.com/track/5hQjB552fc7TQAtdzJTzLo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:38 | 2021-12-03 | 2023-04-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Joyce Blessing
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,183 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,220 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 45 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 |
 | 46 | [Adom Bi](https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU) | [Prophet Dominion](https://open.spotify.com/artist/3oZ9HnpUIgWhWcSFO1ocsc), [Brother Sammy](https://open.spotify.com/artist/462css63bI6oOmHwsofdDM) | [Adom Bi](https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO) | 5:19 |
 | 47 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
-| 48 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
-| 49 | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/track/45Jaa9BfSzCWck93WKD9EA) | [De.ViZION](https://open.spotify.com/artist/73WpLtkNbaWoFvefZcOdtB) | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/album/4jYS7PnRh5Pv2ym6pmmmOe) | 2:56 |
-| 50 | [Amenuveve \(Grace\)](https://open.spotify.com/track/2DX6n0p3S4IZk7PwemK7J9) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Final Say \(Live\)](https://open.spotify.com/album/5ArIzKQKQdpVAQAxY2cZFy) | 6:48 |
+| 48 | [Amenuveve \(Grace\)](https://open.spotify.com/track/2DX6n0p3S4IZk7PwemK7J9) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Final Say \(Live\)](https://open.spotify.com/album/5ArIzKQKQdpVAQAxY2cZFy) | 6:48 |
+| 49 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
+| 50 | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/track/45Jaa9BfSzCWck93WKD9EA) | [De.ViZION](https://open.spotify.com/artist/73WpLtkNbaWoFvefZcOdtB) | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/album/4jYS7PnRh5Pv2ym6pmmmOe) | 2:56 |
 
-Snapshot ID: `MCwzZDZlNjU0OGUwZDFiOTM0NDZkYmYyMTk1MzlkMzNkMmFjMDkyNGM3`
+Snapshot ID: `MCxlNjg0YWQ2NThmMjE5YzMwODgyYmI2ZTY2NTNlMzk2YTIyODRhNGRj`

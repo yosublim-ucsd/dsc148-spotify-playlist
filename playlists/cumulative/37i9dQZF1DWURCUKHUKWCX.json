@@ -724,10 +724,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 179800,
       "name": "Dreamy",
       "url": "https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn"
+    },
+    {
+      "album": {
+        "name": "On Giacometti",
+        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Dreamy",
+      "url": "https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J"
     },
     {
       "album": {

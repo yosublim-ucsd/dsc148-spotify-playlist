@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,562 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,584 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 6 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
 | 7 | [Balearic Incarnation](https://open.spotify.com/track/6HxN4OABi6VovLm3VigN6o) | [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Balearic Incarnation \(Todd Terje Rmx\)](https://open.spotify.com/album/51keyf40DWWo50Vbd7n4mF) | 6:19 |
 | 8 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 |
-| 9 | [I'll Be Okay](https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP) | [Kasket Club](https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy), [Soul Gem](https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB) | [I'll Be Okay](https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex) | 3:16 |
-| 10 | [Clean Air](https://open.spotify.com/track/4EdyO4xkUucQiXbuLpSgmo) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Byen](https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD) | 7:54 |
+| 9 | [Clean Air](https://open.spotify.com/track/4EdyO4xkUucQiXbuLpSgmo) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Byen](https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD) | 7:54 |
+| 10 | [I'll Be Okay](https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP) | [Kasket Club](https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy), [Soul Gem](https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB) | [I'll Be Okay](https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex) | 3:16 |
 | 11 | [Nocturne](https://open.spotify.com/track/6p29k5SH6WAqHOjf5l4fW6) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61) | [Songs From the End of the World](https://open.spotify.com/album/6VkHZKzQFZgnGy70mxeojF) | 6:17 |
 | 12 | [This Time, This Place…](https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Beki Mari](https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6) | [This Time, This Place…](https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25) | 7:44 |
 | 13 | [Strandbar](https://open.spotify.com/track/2j0dO7PzxiZxa5RDUl5IuV) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2) | 4:28 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 36 | [Curse Of The Cancelled](https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Curse of the Cancelled](https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW) | 2:22 |
 | 37 | [Thirst Issues](https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W) | [Melkeveien](https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8) | [Full Pupp Splits 004 \- Hamar\-O\-Ramah!](https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy) | 5:58 |
 | 38 | [Andromeda \(Prelude to the Future\)](https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D) | [Meanderthals](https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is) | [Desire Lines](https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn) | 4:34 |
-| 39 | [The Walk](https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [The Walk](https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG) | 4:24 |
-| 40 | [The Point At The End Of Infinity](https://open.spotify.com/track/6qLlOzNGfbYAOs1wIM0ecT) | [Of Norway](https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz) | [The Point At The End Of Infinity](https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ) | 4:04 |
+| 39 | [The Point At The End Of Infinity](https://open.spotify.com/track/6qLlOzNGfbYAOs1wIM0ecT) | [Of Norway](https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz) | [The Point At The End Of Infinity](https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ) | 4:04 |
+| 40 | [The Walk](https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [The Walk](https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG) | 4:24 |
 | 41 | [Like A Petal But Not Really](https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Like a Petal but Not Really](https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD) | 3:24 |
-| 42 | [Tidløs \- Kohib Remix](https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k) | [Aggie Frost](https://open.spotify.com/artist/6KuOR1yUOE16fw6IwThbC0), [Kohib](https://open.spotify.com/artist/26oQRM3dr784QWCkxn38kw) | [Tidløs \(Remixes\)](https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli) | 7:04 |
-| 43 | [Kuk Av Stal](https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL) | [Kuk Av Stal / November](https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z) | 12:22 |
+| 42 | [Kuk Av Stal](https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL) | [Kuk Av Stal / November](https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z) | 12:22 |
+| 43 | [Tidløs \- Kohib Remix](https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k) | [Aggie Frost](https://open.spotify.com/artist/6KuOR1yUOE16fw6IwThbC0), [Kohib](https://open.spotify.com/artist/26oQRM3dr784QWCkxn38kw) | [Tidløs \(Remixes\)](https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli) | 7:04 |
 | 44 | [Langt Der Borte](https://open.spotify.com/track/4bj0QaHFcnQTGhkAMtZAvk) | [Angermund](https://open.spotify.com/artist/6lEonesLdaKa759afymnJv) | [Pass Deg For Trancen](https://open.spotify.com/album/56nwZDDlMEx2qcAh2FSYd1) | 6:38 |
 | 45 | [Bommelom](https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Ramma EP](https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG) | 7:06 |
 | 46 | [Motown](https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Tracee Meyn](https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly) | [Motown](https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l) | 6:28 |
 | 47 | [Low](https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:07 |
-| 48 | [HS](https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Pax Americana](https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF) | 4:51 |
-| 49 | [This Soft Apocalypse](https://open.spotify.com/track/19SLtZkiiimfEy1mwWGFeM) | [Of Norway](https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz) | [This Soft Apocalypse](https://open.spotify.com/album/17IgvKjvNvTamb9NGboCpI) | 3:21 |
+| 48 | [This Soft Apocalypse](https://open.spotify.com/track/19SLtZkiiimfEy1mwWGFeM) | [Of Norway](https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz) | [This Soft Apocalypse](https://open.spotify.com/album/17IgvKjvNvTamb9NGboCpI) | 3:21 |
+| 49 | [HS](https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Pax Americana](https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF) | 4:51 |
 | 50 | [Real Life](https://open.spotify.com/track/7JQS0KugXwJEJrN0EX7HGf) | [Lost Girls](https://open.spotify.com/artist/6Kw9BTxzFraz25S8HCe8pQ), [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7), [Håvard Volden](https://open.spotify.com/artist/5qfLwIMPtIom9LXgMoRcw0) | [Menneskekollektivet](https://open.spotify.com/album/2s78eWRhSxsb7KaEbi4p4Q) | 6:03 |
 
-Snapshot ID: `MCxlZGJmNjNkNTIyMGU2M2M2ZWFjOTU2YjZmYmViNmI3OTFiOGY0Yzg4`
+Snapshot ID: `MCwyNWIzZDliYjJjNzZhODlkYTgxMzE4NTY0MTZlMDBlNzk2OGFkZGFk`

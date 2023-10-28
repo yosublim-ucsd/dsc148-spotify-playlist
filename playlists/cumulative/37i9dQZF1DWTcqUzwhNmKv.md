@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Catch Your Breath on top of the biggest Metal playlist.
+> Of Virtue on top of the biggest Metal playlist.
 
-537 songs - 1 day 12 hr 10 min
+539 songs - 1 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Crooked Halos](https://open.spotify.com/track/4zeNxJEOwvTIZex4kKEzCE) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Crooked Halos](https://open.spotify.com/album/2Kw1QJg6Js78qgqCAENY7W) | 3:17 | 2022-04-15 | 2022-07-08 |
 | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/track/35S0Oh0JrXAhGzrLHzUvw8) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/album/0b2vVXjAlHWSyLfnQAUmtv) | 3:29 | 2022-06-24 | 2023-02-18 |
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-08-12 | 2022-10-01 |
+| [Cut Me Open](https://open.spotify.com/track/0XrjH7Y2BBPCV58EnrcUPS) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Cut Me Open](https://open.spotify.com/album/4I6HDYKbgn6ImOpvgUqyNV) | 2:49 | 2023-10-27 |  |
 | [Cut Throat](https://open.spotify.com/track/2sICZQ4Ixmet50hroTflc3) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Cut Throat](https://open.spotify.com/album/4NKyOHHQpw04ELBF9w5bur) | 3:07 | 2022-05-20 | 2022-07-08 |
 | [Cyberhex](https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Lindsay Schoolcraft](https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ) | [Cyberhex](https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA) | 4:35 | 2022-03-11 | 2022-04-15 |
 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 | 2021-12-20 | 2022-04-22 |
@@ -139,7 +140,7 @@
 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 | 2022-10-28 | 2023-01-21 |
 | [Doubt Me](https://open.spotify.com/track/2eagADnpxQacZXpQxlZ8n3) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:10 | 2023-10-13 | 2023-10-21 |
 | [Doubt Me](https://open.spotify.com/track/6dxTJRZFB3mU9MvuX7OqJ0) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Doubt Me](https://open.spotify.com/album/4BzqS85ljr08WHx0Qiy5rl) | 3:10 | 2023-09-01 | 2023-10-15 |
-| [Dreamlike](https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike](https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW) | 3:28 | 2023-04-14 |  |
+| [Dreamlike](https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike](https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW) | 3:28 | 2023-04-14 | 2023-10-28 |
 | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 | 2023-09-29 |  |
 | [Drowning](https://open.spotify.com/track/1knxUcq12YCES1O1Q6ImCY) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Moment You Find Your Flame](https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v) | 2:45 | 2023-08-18 | 2023-10-14 |
 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-02-03 | 2023-08-19 |
@@ -315,6 +316,7 @@
 | [Omen](https://open.spotify.com/track/2zCwpuQuSzm2Mk7h7JYNtS) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Omen](https://open.spotify.com/album/18NPrDrGXVfQDHOXUTUxSA) | 3:53 | 2022-04-08 | 2022-05-27 |
 | [Omens](https://open.spotify.com/track/1sA4cTWNcQMwzrqYG0hCci) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO) | 3:47 | 2022-07-29 | 2022-11-26 |
 | [On The Dark Waters](https://open.spotify.com/track/2ieTWHUMtiLaUhA0G9uTal) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [On The Dark Waters](https://open.spotify.com/album/6ihUByrh3f1BUgOKWbe1NN) | 4:47 | 2022-01-28 | 2022-04-22 |
+| [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 | 2023-10-27 |  |
 | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [AJ Channer](https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd) | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE) | 3:02 | 2022-04-01 | 2022-04-29 |
 | [Orphan](https://open.spotify.com/track/0P9Qos8So9CvtFPjgQq3Ns) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Orphan](https://open.spotify.com/album/1PVryA7iRIu5MlIinvQv5G) | 4:40 | 2021-12-20 | 2022-01-21 |
 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 | 2022-10-28 | 2023-06-24 |
@@ -440,7 +442,7 @@
 | [The Death We Seek](https://open.spotify.com/track/6NYdAmvdebGyB2zASPBEKg) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Death We Seek](https://open.spotify.com/album/7uIpT4POQxZW0LQK3eu7q0) | 4:05 | 2022-11-25 | 2022-12-03 |
 | [The Deathless Sun](https://open.spotify.com/track/0A4Xb4Io50uHnHZ1V8x2KC) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Opvs Contra Natvram](https://open.spotify.com/album/4HJqsD4Aw2HHa24liDoxFe) | 4:43 | 2022-09-30 | 2022-10-29 |
 | [The Deathless Sun](https://open.spotify.com/track/6b0HdwX9k0RtOUHRvWYl4J) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Deathless Sun](https://open.spotify.com/album/1gMfx6El7vzamoJJi6J7u3) | 4:43 | 2022-08-05 | 2022-09-03 |
-| [The Dirt I'm Buried In](https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2) | 4:04 | 2023-10-20 |  |
+| [The Dirt I'm Buried In](https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2) | 4:04 | 2023-10-20 | 2023-10-28 |
 | [The Dirt I'm Buried In](https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [The Dirt I'm Buried In](https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr) | 4:04 | 2023-01-13 | 2023-10-22 |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 | 2022-08-13 |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2022-10-14 | 2023-02-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Marz23
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,407 likes - 72 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,419 likes - 72 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [Target \(feat\. Karencici\)](https://open.spotify.com/track/2ulcss4bdzR92Sa8BM3MZn) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Target \(feat\. Karencici\)](https://open.spotify.com/album/6smv82OAQXXhbok6DFCp0y) | 2:58 |
 | 72 | [你哪位?](https://open.spotify.com/track/0xi0ZWfJ60gG6QBccnziSc) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [你哪位?](https://open.spotify.com/album/3eWiFgiKcR03wd33WLRnRE) | 1:48 |
 
-Snapshot ID: `MCxiZTQ2YjkyMGZmZmVmNzJiNTdmMjM0Yjg5Y2FkNTZmYmNjZTYzNzJl`
+Snapshot ID: `MCwyZDM0Mzg2ODllZTljNTFlMTBiMDM1OTNlZTg2NWJkMGU2ZTMxZmIy`

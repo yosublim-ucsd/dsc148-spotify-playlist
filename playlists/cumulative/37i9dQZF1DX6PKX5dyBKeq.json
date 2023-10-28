@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: The Plug ",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Unknown T & Digga D",
   "name": "Rap UK",
   "tracks": [
     {
@@ -1448,6 +1448,28 @@
       "duration_ms": 216480,
       "name": "Addicts (feat. M Huncho)",
       "url": "https://open.spotify.com/track/0QJRDx111g3E2GfM24DMyo"
+    },
+    {
+      "album": {
+        "name": "Adolescence (Ft. Digga D)",
+        "url": "https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171764,
+      "name": "Adolescence (Ft. Digga D)",
+      "url": "https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf"
     },
     {
       "album": {
@@ -3683,6 +3705,24 @@
     },
     {
       "album": {
+        "name": "Innit Innit Girl",
+        "url": "https://open.spotify.com/album/6u2qBJetEpcVOLMiovtLzT"
+      },
+      "artists": [
+        {
+          "name": "Br3nya",
+          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178231,
+      "name": "Betting On Me",
+      "url": "https://open.spotify.com/track/316rEtzvFnNMbjTLnYicJj"
+    },
+    {
+      "album": {
         "name": "Betty / Bang Out",
         "url": "https://open.spotify.com/album/147B0jeQbl6hdOVoeWL6xK"
       },
@@ -5792,6 +5832,24 @@
       "duration_ms": 228000,
       "name": "Candy Remix",
       "url": "https://open.spotify.com/track/4JCMgch82iDW2Q4LRk7OFW"
+    },
+    {
+      "album": {
+        "name": "Capri-Sun",
+        "url": "https://open.spotify.com/album/6TN0q8rUBBC375qtkbbBi9"
+      },
+      "artists": [
+        {
+          "name": "AE",
+          "url": "https://open.spotify.com/artist/4UWcOm40hIpudoHIcpQQxg"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "Capri-Sun",
+      "url": "https://open.spotify.com/track/5r5T65MwdI0mCYSnFamnqc"
     },
     {
       "album": {
@@ -12726,7 +12784,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 192000,
       "name": "Hackney",
       "url": "https://open.spotify.com/track/4afmKYuTcUCeKqRWPCQgBU"
@@ -13430,6 +13488,24 @@
       "duration_ms": 168342,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7uTUhuuY58iwjFBQij9FJM"
+    },
+    {
+      "album": {
+        "name": "Honeybun",
+        "url": "https://open.spotify.com/album/6BJLFkMbbpa9yTjsEb9a7h"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128195,
+      "name": "Honeybun",
+      "url": "https://open.spotify.com/track/2fM2PrwFBbaiK88Nw6CjdK"
     },
     {
       "album": {
@@ -15328,7 +15404,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 160000,
       "name": "Kindness For Weakness",
       "url": "https://open.spotify.com/track/4XDcZALxM9M91BiUeaWCdq"
@@ -15506,6 +15582,46 @@
       "duration_ms": 201230,
       "name": "Lake 29",
       "url": "https://open.spotify.com/track/3gEeq53vYRAGOqXXE1yBoz"
+    },
+    {
+      "album": {
+        "name": "Laps (feat. Moonchild Sanelly)",
+        "url": "https://open.spotify.com/album/4jeyWF5FJIbkcTPKAC8glW"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229226,
+      "name": "Laps (feat. Moonchild Sanelly)",
+      "url": "https://open.spotify.com/track/4JlfLLKYzjNRsJKm3o5z88"
+    },
+    {
+      "album": {
+        "name": "Last Laugh",
+        "url": "https://open.spotify.com/album/6saP11UTdkJ9SaIS2125Ng"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175880,
+      "name": "Last Laugh",
+      "url": "https://open.spotify.com/track/5xZuFADmP2SXXQUJEJL7Tv"
     },
     {
       "album": {
@@ -17009,6 +17125,32 @@
     },
     {
       "album": {
+        "name": "Mad About Bars",
+        "url": "https://open.spotify.com/album/5EGWmBFcBnieAh2Vvxwlpm"
+      },
+      "artists": [
+        {
+          "name": "Tunde",
+          "url": "https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi"
+        },
+        {
+          "name": "Kenny Allstar",
+          "url": "https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203328,
+      "name": "Mad About Bars",
+      "url": "https://open.spotify.com/track/4iMF1asNndv4NyNsi12xGD"
+    },
+    {
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2nrlNcLil4q2z2mcbGZAfB"
       },
@@ -17392,7 +17534,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 241567,
       "name": "Mandem",
       "url": "https://open.spotify.com/track/3oXsp44OaIdNIsFCqiGkDw"
@@ -20350,7 +20492,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 160496,
       "name": "of course",
       "url": "https://open.spotify.com/track/67ZEHFld41PZdanUBCilfN"
@@ -22317,6 +22459,28 @@
     },
     {
       "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228253,
+      "name": "POCKET-WATCHING (feat. Tion Wayne)",
+      "url": "https://open.spotify.com/track/0wB2uGdzargbAye60WZ74E"
+    },
+    {
+      "album": {
         "name": "Podium",
         "url": "https://open.spotify.com/album/4Y2mDVFYNlMIdYqzZL2cyi"
       },
@@ -24101,6 +24265,24 @@
     },
     {
       "album": {
+        "name": "Risk My Freedom",
+        "url": "https://open.spotify.com/album/2xf71Lcg4my6pScZtwn9c9"
+      },
+      "artists": [
+        {
+          "name": "CB",
+          "url": "https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210410,
+      "name": "Risk My Freedom",
+      "url": "https://open.spotify.com/track/6LkBFBUd48BhFLIlFaxEQA"
+    },
+    {
+      "album": {
         "name": "Rivals",
         "url": "https://open.spotify.com/album/6JYhJCc9FbuiXhFFDWjAb3"
       },
@@ -24684,7 +24866,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 128457,
       "name": "ROYALE",
       "url": "https://open.spotify.com/track/2av7d4HqKii7a9deQeuo5V"
@@ -25069,6 +25251,28 @@
     },
     {
       "album": {
+        "name": "Scary (feat. Aitch)",
+        "url": "https://open.spotify.com/album/35Fe3Uvw64VWPPYLdf9Ts9"
+      },
+      "artists": [
+        {
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144204,
+      "name": "Scary (feat. Aitch)",
+      "url": "https://open.spotify.com/track/1FuNxUJozvzMV2AvxFDCMo"
+    },
+    {
+      "album": {
         "name": "SCHWEET",
         "url": "https://open.spotify.com/album/1dXgfb8uvbKdGHoyRlNYqD"
       },
@@ -25280,6 +25484,24 @@
       "duration_ms": 146893,
       "name": "Segregation",
       "url": "https://open.spotify.com/track/3nc374lq4X7iQYTCx5F3tb"
+    },
+    {
+      "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196280,
+      "name": "SEIHOR",
+      "url": "https://open.spotify.com/track/4t2qLFHPbjO7phudQm94Pr"
     },
     {
       "album": {
@@ -27108,6 +27330,28 @@
       "duration_ms": 202676,
       "name": "Stepped In (feat. Giggs)",
       "url": "https://open.spotify.com/track/7f6fOXbUHSGgIdwwJ8Mcdh"
+    },
+    {
+      "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "STEVIE WONDER (feat. Aitch)",
+      "url": "https://open.spotify.com/track/6xqT4aPEqQIoZ0SUp7zwEr"
     },
     {
       "album": {

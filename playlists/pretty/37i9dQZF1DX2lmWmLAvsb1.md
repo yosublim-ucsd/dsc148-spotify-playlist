@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 
 > The biggest songs in Latin America in 2019\. Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,449 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,484 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 | 26 | [Infeliz](https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Historias de un Capricornio](https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K) | 3:41 |
 | 27 | [HP](https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:04 |
 | 28 | [Hola \- Remix](https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Hola \(Remix\)](https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ) | 4:09 |
-| 29 | [Verte Ir](https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR) | [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Verte Ir](https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3) | 4:27 |
-| 30 | [Velitas](https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Velitas](https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA) | 3:45 |
+| 29 | [Velitas](https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Velitas](https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA) | 3:45 |
+| 30 | [Verte Ir](https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR) | [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Verte Ir](https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3) | 4:27 |
 | 31 | [Otro Trago](https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:45 |
 | 32 | [Cristina](https://open.spotify.com/track/703iVQrfbQsXt7Uzgy1h8k) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:21 |
 | 33 | [Soltera \(Remix\)](https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soltera \(Remix\)](https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 | 49 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 |
 | 50 | [Te Quemaste](https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:19 |
 
-Snapshot ID: `MCw3MjQxOGZhOWVhNmFjZTVlMzQ1NjFlYTAzNThhNjU5ZTJhNThlNTJk`
+Snapshot ID: `MCwxODVkMmUwNmZiMmM5YTgyZTllNWJiZTlhOTRhMjg5YTE3YWY0ZGIz`

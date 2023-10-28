@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 256372,
       "name": "Ahora Lo S\u00e9",
       "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 211937,
       "name": "Amares",
       "url": "https://open.spotify.com/track/0hM3wjGKeVuc8p20YNyNWv"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 224033,
       "name": "Aprendiendo a Respirar",
       "url": "https://open.spotify.com/track/4ZAdkrbDTzYhz6siCsMHmW"
@@ -506,6 +506,28 @@
       "duration_ms": 251680,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
+    },
+    {
+      "album": {
+        "name": "Rutas Interestelares",
+        "url": "https://open.spotify.com/album/5gRMXbnASEPtEC1IWiflyy"
+      },
+      "artists": [
+        {
+          "name": "Sr. Wilson",
+          "url": "https://open.spotify.com/artist/7GIl95Mqt4DmPOiVghXffy"
+        },
+        {
+          "name": "Griffi",
+          "url": "https://open.spotify.com/artist/3qqRmPv82dU1KrGy21ZSQD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "AY MI F\u00c9!",
+      "url": "https://open.spotify.com/track/1VW20Xk91ZpAffsBVeew5n"
     },
     {
       "album": {
@@ -1501,6 +1523,28 @@
     },
     {
       "album": {
+        "name": "Desde Arriba",
+        "url": "https://open.spotify.com/album/5y6ly94fNVJDDw7rHe7wCa"
+      },
+      "artists": [
+        {
+          "name": "Sie777e",
+          "url": "https://open.spotify.com/artist/3giR2g0pDG47aDohrUqBg4"
+        },
+        {
+          "name": "Rastachai",
+          "url": "https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213488,
+      "name": "Desde Arriba",
+      "url": "https://open.spotify.com/track/3PvLJaSRm8cZioNsLJYZWI"
+    },
+    {
+      "album": {
         "name": "Desenvaina",
         "url": "https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY"
       },
@@ -1596,7 +1640,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 159892,
       "name": "Dimelo Ayer",
       "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
@@ -2312,7 +2356,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 255744,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
@@ -2749,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "La Gente de la Calle",
+        "url": "https://open.spotify.com/album/3gEofvpFHAdzBqeCSpavuo"
+      },
+      "artists": [
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "La Gente de la Calle",
+      "url": "https://open.spotify.com/track/3OJM4RAS5S1ovhCEPYIbK6"
+    },
+    {
+      "album": {
         "name": "The King Is Back",
         "url": "https://open.spotify.com/album/5NfRSBalg4W9v2E01yHRzF"
       },
@@ -3131,6 +3193,28 @@
     },
     {
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/3bYCecmSCv0PklE1HhTawz"
+      },
+      "artists": [
+        {
+          "name": "Shabu",
+          "url": "https://open.spotify.com/artist/7yI6f6KLTIotYOuspbjPMP"
+        },
+        {
+          "name": "Accion Sanchez",
+          "url": "https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185892,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/1YwrDg9kZuvabihjdS8J2d"
+    },
+    {
+      "album": {
         "name": "Limonadita Fresca",
         "url": "https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH"
       },
@@ -3150,6 +3234,28 @@
       "duration_ms": 200000,
       "name": "Limonadita Fresca",
       "url": "https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6"
+    },
+    {
+      "album": {
+        "name": "Llegaste A M\u00ed",
+        "url": "https://open.spotify.com/album/29bASZaLBI3n4wfIh9dren"
+      },
+      "artists": [
+        {
+          "name": "De Bruces A Mi",
+          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
+        },
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212342,
+      "name": "Llegaste A M\u00ed",
+      "url": "https://open.spotify.com/track/5grcUqpWzP1TPr4cmTGGnR"
     },
     {
       "album": {
@@ -3430,6 +3536,24 @@
       "duration_ms": 151926,
       "name": "Lun\u00e1tico",
       "url": "https://open.spotify.com/track/1Mmil8flc62PPJO79zyGTN"
+    },
+    {
+      "album": {
+        "name": "Mama No Cry",
+        "url": "https://open.spotify.com/album/62sgydRnwBccdy7T4zT54l"
+      },
+      "artists": [
+        {
+          "name": "Chusterfield",
+          "url": "https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206595,
+      "name": "Mama No Cry",
+      "url": "https://open.spotify.com/track/6GNeG8hpDoXBwPPueaHzd7"
     },
     {
       "album": {
@@ -3848,6 +3972,28 @@
       "duration_ms": 258709,
       "name": "Moreno",
       "url": "https://open.spotify.com/track/0Cj7uNieo8kJ7RIijZBbJl"
+    },
+    {
+      "album": {
+        "name": "Mr. Muzik",
+        "url": "https://open.spotify.com/album/4rgzDFnVuLX99mznGaD1EO"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "David Cairol",
+          "url": "https://open.spotify.com/artist/11k7hhvKabBFlR9LkBflig"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282493,
+      "name": "Mr. Muzik",
+      "url": "https://open.spotify.com/track/3jKAJ7fNBY0Y1aETUDFr5i"
     },
     {
       "album": {
@@ -4304,7 +4450,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 218173,
       "name": "Parece",
       "url": "https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu"
@@ -4592,7 +4738,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
@@ -4772,6 +4918,24 @@
       "duration_ms": 296666,
       "name": "Reggae Para Los Amigos",
       "url": "https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i"
+    },
+    {
+      "album": {
+        "name": "Reggae Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5CgoACKArr2wOaJiz0TthJ"
+      },
+      "artists": [
+        {
+          "name": "Maritune",
+          "url": "https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210086,
+      "name": "Reggae Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/64PEqNkG3GWJIEu4klZbP1"
     },
     {
       "album": {
@@ -6018,7 +6182,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 227439,
       "name": "Vuela Alto",
       "url": "https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7"
@@ -6040,7 +6204,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 221240,
       "name": "Vueltas (feat. Pure Negga)",
       "url": "https://open.spotify.com/track/2JzU1TFL91aJFyCfrEMQND"
@@ -6138,7 +6302,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 201194,
       "name": "V\u00e9ngase II",
       "url": "https://open.spotify.com/track/3pzM6wDql5VklfF8E0ZmdY"

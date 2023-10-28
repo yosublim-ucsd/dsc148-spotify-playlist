@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Juliana Gattas",
-  "num_followers": 39418,
+  "num_followers": 39423,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGJiMjQwOWY5ZmQ4NDc2NzNjOGY2ZDY4YmNhYzk3NjkyNGNjNjBh",
+  "snapshot_id": "MCwyMGJmNzRhYjI5Mzc5MDI1ZTllYTVhN2Q1N2U3YjQzNWNmOWVlYTAy",
   "tracks": [
     {
       "added_at": "2023-10-04 03:00:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
+        "name": "Que poco saben de m\u00ed",
+        "url": "https://open.spotify.com/album/1aqUCKeSXnMeAQnrAxq6SM"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lynch",
+          "url": "https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM"
+        }
+      ],
+      "duration_ms": 224821,
+      "name": "Que poco saben de m\u00ed",
+      "url": "https://open.spotify.com/track/7DJnS2omEQOjU1hbLCPUH7"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
         "name": "Olvidarte nunca",
         "url": "https://open.spotify.com/album/1joVpTnFL8za0eR9pGqHfk"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 173159,
       "name": "Olvidarte nunca",
       "url": "https://open.spotify.com/track/7ctPbxkeGmXUqq85ZJ4kwD"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
-        "name": "Que poco saben de m\u00ed",
-        "url": "https://open.spotify.com/album/1aqUCKeSXnMeAQnrAxq6SM"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lynch",
-          "url": "https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM"
-        }
-      ],
-      "duration_ms": 224821,
-      "name": "Que poco saben de m\u00ed",
-      "url": "https://open.spotify.com/track/7DJnS2omEQOjU1hbLCPUH7"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "El Final de Las Cosas",
-        "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 319807,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "Cardo o Ceniza",
         "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 183434,
       "name": "Reina",
       "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "El Final de Las Cosas",
+        "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 319807,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Llorar en un ba\u00f1o p\u00fablico",
-        "url": "https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA"
-      },
-      "artists": [
-        {
-          "name": "Babeblade",
-          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
-        }
-      ],
-      "duration_ms": 167665,
-      "name": "sola otra vez",
-      "url": "https://open.spotify.com/track/65tHJ2o2hFDyBPghXWLYtv"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "mejor me voy: )",
         "url": "https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 182591,
       "name": "mejor me voy :)",
       "url": "https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Llorar en un ba\u00f1o p\u00fablico",
+        "url": "https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA"
+      },
+      "artists": [
+        {
+          "name": "Babeblade",
+          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
+        }
+      ],
+      "duration_ms": 167665,
+      "name": "sola otra vez",
+      "url": "https://open.spotify.com/track/65tHJ2o2hFDyBPghXWLYtv"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Festejar",
-        "url": "https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY"
-      },
-      "artists": [
-        {
-          "name": "Emme",
-          "url": "https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW"
-        }
-      ],
-      "duration_ms": 228290,
-      "name": "Festejar",
-      "url": "https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "Blue Planet",
         "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 153193,
       "name": "Blue Planet",
       "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Festejar",
+        "url": "https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY"
+      },
+      "artists": [
+        {
+          "name": "Emme",
+          "url": "https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW"
+        }
+      ],
+      "duration_ms": 228290,
+      "name": "Festejar",
+      "url": "https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh"
     },
     {
       "added_at": "2023-10-04 03:00:00",

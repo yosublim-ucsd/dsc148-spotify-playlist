@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,671 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,679 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 19 | [Chavo de onda](https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 3:30 |
 | 20 | [Somebody To Love](https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 3:04 |
 | 21 | [Latin Feelin'](https://open.spotify.com/track/4bj6HSXySYNpMO2f38P8Kp) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 6:57 |
-| 22 | [Preludio de la Felicidad](https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 3:08 |
-| 23 | [Back](https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Back](https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw) | 4:10 |
+| 22 | [Back](https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Back](https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw) | 4:10 |
+| 23 | [Preludio de la Felicidad](https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 3:08 |
 | 24 | [Fuego](https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw) | [La Máquina Del Sonido](https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg) | [Fuego](https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN) | 2:53 |
 | 25 | [No One to Depend On](https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(III\)](https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI) | 5:31 |
 | 26 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
 | 27 | [Peace and Love](https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 2:19 |
-| 28 | [La Ciudad Perdída](https://open.spotify.com/track/2HUStBRlw7k3zbEsAA7Aw4) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 8:14 |
-| 29 | [Once Upon a Time There Was a World](https://open.spotify.com/track/6EQiAGhNZarnbYfP078nSw) | [Kaleidoscope](https://open.spotify.com/artist/14c0CEGVWU6eO48Su2PiMf), [Frank Tirado](https://open.spotify.com/artist/2kkBRGpjJ91l3G7RzUm4r6) | [Kaleidoscope](https://open.spotify.com/album/5rKS4yZgNS23kiB5ccZbNS) | 8:09 |
+| 28 | [Once Upon a Time There Was a World](https://open.spotify.com/track/6EQiAGhNZarnbYfP078nSw) | [Kaleidoscope](https://open.spotify.com/artist/14c0CEGVWU6eO48Su2PiMf), [Frank Tirado](https://open.spotify.com/artist/2kkBRGpjJ91l3G7RzUm4r6) | [Kaleidoscope](https://open.spotify.com/album/5rKS4yZgNS23kiB5ccZbNS) | 8:09 |
+| 29 | [La Ciudad Perdída](https://open.spotify.com/track/2HUStBRlw7k3zbEsAA7Aw4) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 8:14 |
 | 30 | [El Hongo](https://open.spotify.com/track/11nP4a0rGP0UWyFWUpI70r) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:51 |
 | 31 | [In\-a\-Gadda\-da\-Vida](https://open.spotify.com/track/27bwyWQYuTFwvvks3JkeF7) | [La Máquina Del Sonido](https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 1:55 |
 | 32 | [Tommy Lyz](https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Toncho Pilatos](https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 49 | [Tal Vez](https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:49 |
 | 50 | [Libertad](https://open.spotify.com/track/3oCXeYBiZODvdaXHranRHd) | [Los Soul Master's](https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 2:49 |
 
-Snapshot ID: `MCw5MzViNWY4YmUzYWRkYmZlOWJkMGJkMmZlNzQwNzJmNzcyZmFiYmFh`
+Snapshot ID: `MCwxMmFmMzNjOGQ5NDk1NWI3MTg0MWY3ODBmMzYxOTZhMzQxMWYyYmEx`

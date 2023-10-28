@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-115 songs - 6 hr 20 min
+116 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 | 2023-03-17 |  |
 | [Kinna Wanna](https://open.spotify.com/track/384pDNdIcOq4bAQSYthQkb) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [Kinna Wanna](https://open.spotify.com/album/1zPwfwHZaTH8qRg7NWhvTL) | 2:16 | 2023-09-22 |  |
 | [Knock 'Em Dead](https://open.spotify.com/track/2bGNFu7Hp1ZZFEaJEWy7ln) | [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Mud Digger 4](https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh) | 3:30 | 2023-03-17 |  |
+| [Kuntry Till I Die](https://open.spotify.com/track/3KXgEbDeVZc8AeOKQkt7hw) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [SB the Queen](https://open.spotify.com/artist/6KqXuBuC5LedSWM73bixOa) | [Kuntry Till I Die](https://open.spotify.com/album/5UphQrCEMtGP9d2jTDbl02) | 4:02 | 2023-10-27 |  |
 | [Lifted](https://open.spotify.com/track/3CsdmO3Uh0qqlIli1wvnjM) | [Alexander King](https://open.spotify.com/artist/5hvNjGBoEkn4ENKwDvtouW), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Rosap](https://open.spotify.com/album/02UEIpucuJMIqjifFgCh8c) | 4:04 | 2023-03-17 |  |
 | [Live For The Moment](https://open.spotify.com/track/6bxDIFhdLKpeyGo0PBIz4w) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Haystak](https://open.spotify.com/artist/1Cv4OTcRrMvpUqKQftW88M), [Kevin Cummings](https://open.spotify.com/artist/5CreTojV18Ps5Bl4AOn5Nh) | [9\-5 or 20\-Life](https://open.spotify.com/album/4Zk61choxayZFVg3qIk7DL) | 3:13 | 2023-03-17 |  |
 | [Long Bumpy Road \(feat\. SMO\) \- Remix](https://open.spotify.com/track/7mHQvybBKPU8U2q1WVhj0j) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22), [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Paving My Way](https://open.spotify.com/album/6XgqbPax3lypTi5EikNsMA) | 5:46 | 2023-03-17 |  |

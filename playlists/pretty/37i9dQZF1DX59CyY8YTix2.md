@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese female rock icons\. Cover: 黒子首\(Hockrockb\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,817 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,830 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 37 | [電波塔](https://open.spotify.com/track/22y60BNAziN5GToE8HO3H9) | [美根](https://open.spotify.com/artist/5NDtujcf6hBmjyLI89Y11g) | [電波塔](https://open.spotify.com/album/5UtEXEpFIdumkGHLv4oe6v) | 4:09 |
 | 38 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 |
 | 39 | [あいつは江國香織であの娘を奪う](https://open.spotify.com/track/5ZiZKrS1QCWvP5Do8TpRg3) | [毎晩揺れてスカート](https://open.spotify.com/artist/6IvxcMAeLdqm8vGjSiTxwv) | [あいつは江國香織であの娘を奪う](https://open.spotify.com/album/0D6XVg9OWgoErEDKpWh99r) | 3:19 |
-| 40 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
+| 40 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 |
 | 41 | [Under the suicide](https://open.spotify.com/track/3MdOCYnlPAyP2cU7EoA6fx) | [Palastleben](https://open.spotify.com/artist/013gpHYkD441u1fupn3vXF) | [Under the suicide](https://open.spotify.com/album/6SrAUVyRja0qDTA3cvehxC) | 4:03 |
-| 42 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 |
+| 42 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
 | 43 | [バク](https://open.spotify.com/track/0pPbHXnXkJbcE6Bhn4nFeS) | [komsume](https://open.spotify.com/artist/7AQrLTNwPQzoRHmZ5IRpbo) | [バク](https://open.spotify.com/album/3YNUL1TXxOWCQuDvZKBo0c) | 2:39 |
 | 44 | [Kiddy](https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Kiddy](https://open.spotify.com/album/52rgoVYXzK00nZMHDGHFSn) | 3:18 |
 | 45 | [Virus Buster](https://open.spotify.com/track/47ghKf5vH4unAKTXLkvoWu) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [Virus Buster](https://open.spotify.com/album/08yJkMIGw3ATCmqGoGXl6F) | 3:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 69 | [スケベなだけで金がない](https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [スケベなだけで金がない](https://open.spotify.com/album/5Ar3B8oObwuJfIuHQQIpDg) | 2:39 |
 | 70 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 |
 
-Snapshot ID: `MCw3MmYwZjE2ZjIxMjY4NTM0MDliN2Y5NWFjYWM2NWJiNDhhOWJlZjM5`
+Snapshot ID: `MCwzZDU4YTA3MzU0NjIwYWYxMGY5MGY2NDM1OGE3OTk0OTJmYmIxMGNl`

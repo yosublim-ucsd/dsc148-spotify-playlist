@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,970 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,064 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 11 | [samba do moço bonito](https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [samba do moço bonito](https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ) | 3:17 |
 | 12 | [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 |
 | 13 | [Acalanto](https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 3:44 |
-| 14 | [15b](https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [15b](https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc) | 2:41 |
+| 14 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
 | 15 | [Hoje Eu Quero Me Perder \- Acústico](https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Hoje Eu Quero Me Perder \(Acústico\)](https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe) | 2:25 |
 | 16 | [Algum Ritmo](https://open.spotify.com/track/5EVv8M3vhByFLLqT1dkdGd) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Algum Ritmo](https://open.spotify.com/album/4v4NXk4pD9IcbquIVSJvcV) | 3:35 |
-| 17 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
+| 17 | [15b](https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [15b](https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc) | 2:41 |
 | 18 | [X](https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:46 |
 | 19 | [Te Vi Na Rua](https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Te Vi Na Rua](https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB) | 2:54 |
 | 20 | [Oceana](https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Oceana](https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN) | 2:28 |
-| 21 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
-| 22 | [Água Salgada](https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Água Salgada](https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv) | 3:21 |
+| 21 | [Água Salgada](https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Água Salgada](https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv) | 3:21 |
+| 22 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
 | 23 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 |
 | 24 | [Meu Xodó](https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Meu Xodó](https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS) | 3:17 |
 | 25 | [Banho de Mar](https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Re.Significa](https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ) | [Banho de Mar](https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2) | 2:49 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 40 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
 | 41 | [Juntin](https://open.spotify.com/track/1sOoISLSEm5oyDkTfdxiph) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Juntin](https://open.spotify.com/album/4wN9p2830m4vGoUrlZCV9L) | 2:59 |
 | 42 | [Maior Que Nós](https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Maior Que Nós](https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51) | 2:52 |
-| 43 | [Nós Dois Aqui](https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Nós Dois Aqui](https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q) | 4:01 |
+| 43 | [Menina](https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:17 |
 | 44 | [Fiz Esse Som Pra Você \- Acústica](https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Fiz Esse Som Pra Você](https://open.spotify.com/album/3toYATEN96msGnJ34emqb5) | 3:29 |
-| 45 | [Menina](https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:17 |
+| 45 | [Nós Dois Aqui](https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Nós Dois Aqui](https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q) | 4:01 |
 | 46 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 |
 | 47 | [Conto as Horas](https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Início](https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr) | 3:12 |
 | 48 | [Amanheceu \- Acústico](https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Amanheceu \(Acústico\)](https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM) | 3:16 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 84 | [Vem de Lá](https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Pra Gente Acordar](https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI) | 3:00 |
 | 85 | [Sorriso De Agogô](https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Sorriso De Agogô](https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9) | 3:16 |
 
-Snapshot ID: `MCxjMzY4MjMzYTEzMjQ5NTY0YzYwNzE0YjQzNTU2NTA4ZjQyYmJlOTc5`
+Snapshot ID: `MCxkNTQ1MDJmMzQ0MTU1MmNkZmYyOGNiYmJhMjQ0MTU3NmVjZWFiOWJm`

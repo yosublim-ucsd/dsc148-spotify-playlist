@@ -4,13 +4,14 @@
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-156 songs - 13 hr 13 min
+157 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Evil](https://open.spotify.com/track/253d4aC4Tj6HBzA8mfwcbm) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Chris Cheek](https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1) | [Let's Call the Whole Thing Off](https://open.spotify.com/album/4jWRaPmgnSrobk6RLirNOG) | 5:31 | 2021-12-17 |  |
 | [Amanecer Contigo](https://open.spotify.com/track/2MYRUIraCra1ZrIqQRL8GY) | [Dafnis Prieto Sextet](https://open.spotify.com/artist/1IxYKYyHFmwGIqdI0zkcze) | [Amanecer Contigo](https://open.spotify.com/album/4L3hp7B19QX8YGFjcxBwqJ) | 6:21 | 2021-12-17 |  |
-| [Anything Goes](https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 3:39 | 2021-12-17 |  |
+| [Anything Goes](https://open.spotify.com/track/1VGjnaotsGHOoYBgPkfskN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 3:39 | 2023-10-26 |  |
+| [Anything Goes](https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 3:39 | 2021-12-17 | 2023-10-28 |
 | [Around the World](https://open.spotify.com/track/72dRQ0TXjgpKfSL5MXYXnj) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Around the World](https://open.spotify.com/album/5aAAWjKyIFCxAgU43bdgXP) | 7:49 | 2022-02-18 |  |
 | [Au Privave](https://open.spotify.com/track/1PA0tI1YObjGqpTKgKoUJP) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Sonny Stitt Sits In With The Oscar Peterson Trio](https://open.spotify.com/album/2Od5gIW3c3szwoTxl0Hhu7) | 3:58 | 2022-03-04 | 2022-07-29 |
 | [Au Privave](https://open.spotify.com/track/1751FZhDYecAN3xLPXL4BP) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Jazz Dinner](https://open.spotify.com/album/5f0Nbo8Ih7cOFR15fnprEK) | 3:59 | 2022-11-09 | 2022-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 71489,
+  "num_followers": 71521,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDlhNDY2MzI2YzllYzBkNjliY2IwMjY5ZjlmNTk4MDc1MmI3YTFh",
+  "snapshot_id": "MCwzNTAwZDkyYzVlODM0ZDU5NmJlYzM1OTI2OTk0M2UwMDA0ZjRmYmM3",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Det jeg vil ha (fra deg)",
+        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 203263,
+      "name": "Det jeg vil ha (fra deg)",
+      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Sol\u00f8ye",
         "url": "https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 203937,
       "name": "\u00c5 Kunne \u00c6 Skrive",
       "url": "https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Det jeg vil ha (fra deg)",
-        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
-      },
-      "artists": [
-        {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
-        }
-      ],
-      "duration_ms": 203263,
-      "name": "Det jeg vil ha (fra deg)",
-      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Jovial",
-        "url": "https://open.spotify.com/album/55G0O9SlnAKfWtbG6l2w8A"
+        "name": "P\u00e5 vei",
+        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 170893,
-      "name": "Jovial",
-      "url": "https://open.spotify.com/track/79A8w2MEID8RIM6rzgtrtR"
+      "duration_ms": 279240,
+      "name": "P\u00e5 vei",
+      "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "P\u00e5 vei",
-        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
+        "name": "Jovial",
+        "url": "https://open.spotify.com/album/55G0O9SlnAKfWtbG6l2w8A"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 279240,
-      "name": "P\u00e5 vei",
-      "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
+      "duration_ms": 170893,
+      "name": "Jovial",
+      "url": "https://open.spotify.com/track/79A8w2MEID8RIM6rzgtrtR"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -567,42 +567,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Fra 4 Til 70",
-        "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
-      },
-      "artists": [
-        {
-          "name": "Inger Lise Rypdal",
-          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "En Spennende Dag for Josefine",
-      "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Du ga m\u00e6 viljestyrke",
-        "url": "https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Du ga m\u00e6 viljestyrke",
-      "url": "https://open.spotify.com/track/2CmPtitvLJxUscTLe5FntO"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
         "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
       },
@@ -619,18 +583,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+        "name": "Fra 4 Til 70",
+        "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
       },
       "artists": [
         {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+          "name": "Inger Lise Rypdal",
+          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
         }
       ],
-      "duration_ms": 168373,
-      "name": "Alle Snakker Sant",
-      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
+      "duration_ms": 222146,
+      "name": "En Spennende Dag for Josefine",
+      "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -651,6 +615,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+      },
+      "artists": [
+        {
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+        }
+      ],
+      "duration_ms": 168373,
+      "name": "Alle Snakker Sant",
+      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "1988 EP",
         "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
       },
@@ -667,8 +647,8 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Ka e du redd for",
-        "url": "https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB"
+        "name": "Du ga m\u00e6 viljestyrke",
+        "url": "https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP"
       },
       "artists": [
         {
@@ -676,17 +656,13 @@
           "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
         },
         {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
-        },
-        {
           "name": "Hver gang vi m\u00f8tes",
           "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 244640,
-      "name": "Ka e du redd for",
-      "url": "https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW"
+      "duration_ms": 218160,
+      "name": "Du ga m\u00e6 viljestyrke",
+      "url": "https://open.spotify.com/track/2CmPtitvLJxUscTLe5FntO"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -759,6 +735,30 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Ka e du redd for",
+        "url": "https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Ka e du redd for",
+      "url": "https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Imellom to Evigheter",
         "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
       },
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "De Beste",
-        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "Mysteriet deg",
-      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Club 7",
         "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
       },
@@ -847,18 +827,42 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Flyge Fra",
-        "url": "https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9"
+        "name": "Langt heimafr\u00e5",
+        "url": "https://open.spotify.com/album/5o51rxUIsacezjv3q6ahxO"
       },
       "artists": [
         {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 276333,
-      "name": "Ved Sida Av Deg",
-      "url": "https://open.spotify.com/track/5kebMyBE7ZTMnHZh6RaoSm"
+      "duration_ms": 273853,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/6ASAAhsCVhPnkqMhQEOBDj"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "De Beste",
+        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Mysteriet deg",
+      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
     }
   ],
   "unique_name": "Norske viser",

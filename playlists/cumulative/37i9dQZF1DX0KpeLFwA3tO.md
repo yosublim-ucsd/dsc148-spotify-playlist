@@ -2,7 +2,7 @@
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: blink\-182
+> The best new music from the wide world of punk\. Cover: Green Day
 
 1,414 songs - 2 day 22 hr 46 min
 

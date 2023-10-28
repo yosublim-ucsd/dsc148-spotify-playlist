@@ -2,9 +2,9 @@
 
 ### [RADAR Tamil](https://open.spotify.com/playlist/37i9dQZF1DX50FeI1zgOSW)
 
-> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
+> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sanathan Shree Krishnan
 
-157 songs - 8 hr 57 min
+158 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Theendum Dhooram \- Unplugged](https://open.spotify.com/track/0bp4VHhD7BmOaIDSAhRhSA) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd) | [Theendum Dhooram \(Unplugged\)](https://open.spotify.com/album/66k08a6WrDYlmZ5HDqYQmt) | 3:26 | 2023-04-06 | 2023-08-08 |
 | [Theera](https://open.spotify.com/track/2lQ49y0CZ9jhfINsc7NuZO) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Theera](https://open.spotify.com/album/0pXbIwIirbseVMHcbLyKtp) | 4:02 | 2023-07-17 |  |
 | [Tholayure Naane](https://open.spotify.com/track/0D0ZSPvk2MBrs1eZHvoKUH) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Melvin Miranda](https://open.spotify.com/artist/3MExCdgEfpNZSuyTNpSOoM), [Ramya Thayaparan](https://open.spotify.com/artist/6KYB4Y0VbDZctjudPJW64n) | [Tholayure Naane](https://open.spotify.com/album/0p0gT8n4fce9bX7mvElJpN) | 3:07 | 2023-03-21 | 2023-09-26 |
+| [Thoongaadha](https://open.spotify.com/track/4LQA5c88VBjFmsLy4RRD0x) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Thoongaadha](https://open.spotify.com/album/4v7rbU7QBrOUJ0ZFgXBa7q) | 3:04 | 2023-10-27 |  |
 | [Tiku Tiku](https://open.spotify.com/track/2zkaNq1IKAMj6ZJtrnJ8QS) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3), [Semma Beatz](https://open.spotify.com/artist/4tsBTuI0pVEH7tcFVf2AT0) | [Tiku Tiku](https://open.spotify.com/album/6RgQLkX8shhcr54Ptc2lJ0) | 2:33 | 2023-08-31 | 2023-10-07 |
 | [Un Kaadhalaal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/5jXXPxjxHz3jElEhThuf4h) | [Santhosh Balaji](https://open.spotify.com/artist/3DvjtASVI8Czc44WMEn3js), [Amina Rafiq](https://open.spotify.com/artist/5MeaQZAAyaP41gzU4FOGMu), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi), [Ziya Hadhijath](https://open.spotify.com/artist/1sxG5QLaWGQgod5F65vloL) | [Un Kaadhalaal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/1hVP6zvpF7uwYodfGhy3os) | 3:44 | 2023-08-04 |  |
 | [Unakae](https://open.spotify.com/track/7BWRT8MEZc1jlwuDHvpmnN) | [Prasad S.N](https://open.spotify.com/artist/1deQgLe6eU8iiEwkRZDdc4), [Reshma Shyam](https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB) | [Unakae](https://open.spotify.com/album/2F9itCoOPrrMvj18OiDr6F) | 3:37 | 2023-09-08 |  |

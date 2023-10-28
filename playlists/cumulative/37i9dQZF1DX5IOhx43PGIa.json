@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 124371,
       "name": "ANGEL",
       "url": "https://open.spotify.com/track/1Hlb5As8d3o1wiWou14m2R"
@@ -732,6 +732,28 @@
       "duration_ms": 131140,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/7vxvK8mCE55uVSCRSHFvwB"
+    },
+    {
+      "album": {
+        "name": "B.A.D.",
+        "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "B.A.D.",
+      "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
     },
     {
       "album": {
@@ -5286,7 +5308,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 223026,
       "name": "I Miss My Friends (feat. Phum Viphurit)",
       "url": "https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr"
@@ -5428,6 +5450,24 @@
       "duration_ms": 230704,
       "name": "If I Say I Love You",
       "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
+    },
+    {
+      "album": {
+        "name": "If It's Time",
+        "url": "https://open.spotify.com/album/2PgVfs8f6XAgI5AAdvirWW"
+      },
+      "artists": [
+        {
+          "name": "Simu Liu",
+          "url": "https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167845,
+      "name": "If It's Time",
+      "url": "https://open.spotify.com/track/6tl3V3Br8AFYE6q9khDdR6"
     },
     {
       "album": {
@@ -8337,6 +8377,28 @@
     },
     {
       "album": {
+        "name": "Pop Star (Chaeyoung Remix)",
+        "url": "https://open.spotify.com/album/6r0xsy4FAx4p2Fc2WZxVR0"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        },
+        {
+          "name": "Chaeyoung",
+          "url": "https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Pop Star - Chaeyoung Remix",
+      "url": "https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG"
+    },
+    {
+      "album": {
         "name": "Postman b/w Magazine",
         "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
       },
@@ -10450,7 +10512,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 227927,
       "name": "the american dream",
       "url": "https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR"

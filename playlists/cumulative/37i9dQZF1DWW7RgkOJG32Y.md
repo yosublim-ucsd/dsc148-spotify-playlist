@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Dylan Gossett
+> Top trending country tracks from the last few months\. Cover: Jessie Murph and Jelly Roll
 
-341 songs - 18 hr 12 min
+343 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Boyfriend Season](https://open.spotify.com/track/3lFM6nfTMY13O8eGTAq4LX) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Boyfriend Season](https://open.spotify.com/album/1bRk2nXO3rZWIYGgeJGO5R) | 3:09 | 2021-12-17 | 2022-05-14 |
 | [Break Like You Do](https://open.spotify.com/track/7wYCzc3UhMJi2lz8flyUxB) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Break Like You Do](https://open.spotify.com/album/5xY7GlwUtjA7KP7OPQ5E9M) | 3:16 | 2021-12-17 | 2022-03-26 |
 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 | 2022-01-21 | 2022-11-03 |
+| [Breakin' in Boots](https://open.spotify.com/track/4usnf7irdy9PrVsmb82BXI) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots](https://open.spotify.com/album/1sHuCLfs5sMWVneNgcCoqS) | 2:35 | 2023-10-27 |  |
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-29 | 2023-01-06 |
 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 | 2022-10-07 | 2022-12-03 |
 | [Buy A Girl A Drink](https://open.spotify.com/track/3WXWxyUcD9HQBQcNaFN6xd) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Buy A Girl A Drink](https://open.spotify.com/album/36tVeUCmIWva4RKFBN0OG8) | 3:16 | 2022-07-22 | 2023-01-14 |
@@ -188,7 +189,7 @@
 | [mean girl \(feat\. Colbie Caillat\)](https://open.spotify.com/track/73vGr4FjFvY2TgndujZYDa) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 3:25 | 2023-07-28 |  |
 | [Mean Something](https://open.spotify.com/track/5kw5FXkySDRD90byTk4RoX) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Mean Something](https://open.spotify.com/album/5u7Aa2EgdoshTix08lz5Dx) | 3:20 | 2022-08-19 | 2022-11-03 |
 | [Mind On You](https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Mind On You](https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL) | 2:57 | 2022-03-18 | 2023-04-09 |
-| [Mine for the Summer](https://open.spotify.com/track/60zG892nrTd3vHhsJXWEEw) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Mine for the Summer](https://open.spotify.com/album/4OAdcwdCF7Z42GqRQiHF7D) | 3:29 | 2023-08-11 |  |
+| [Mine for the Summer](https://open.spotify.com/track/60zG892nrTd3vHhsJXWEEw) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Mine for the Summer](https://open.spotify.com/album/4OAdcwdCF7Z42GqRQiHF7D) | 3:29 | 2023-08-11 | 2023-10-28 |
 | [Miss Us Then](https://open.spotify.com/track/3v7t1HDVDKCwa5QB9GUy4I) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Miss Us Then](https://open.spotify.com/album/4NmOlKfPRKxL8Oe1pFKnnw) | 3:13 | 2022-03-04 | 2022-12-03 |
 | [Missing One](https://open.spotify.com/track/6boItJTxu8c9PdSbVqbAUF) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Bet You're from a Small Town](https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo) | 3:22 | 2022-03-04 | 2023-01-06 |
 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 | 2022-04-29 | 2023-02-25 |
@@ -213,7 +214,7 @@
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-05 | 2022-10-29 |
 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 | 2023-09-29 |  |
 | [One Day Tonight](https://open.spotify.com/track/45MQs7EiPglAvyYg9fkjzA) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [One Day Tonight](https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl) | 2:45 | 2022-09-16 | 2023-04-01 |
-| [One Of Us](https://open.spotify.com/track/4G1i8QJ2htH4Syo2vDeqSt) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [One Of Us](https://open.spotify.com/album/23xj6FVIi4bGBMevFQWQn8) | 3:02 | 2023-06-30 |  |
+| [One Of Us](https://open.spotify.com/track/4G1i8QJ2htH4Syo2vDeqSt) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [One Of Us](https://open.spotify.com/album/23xj6FVIi4bGBMevFQWQn8) | 3:02 | 2023-06-30 | 2023-10-28 |
 | [One Thing At A Time](https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:26 | 2022-12-16 | 2023-04-01 |
 | [Only Us](https://open.spotify.com/track/4k98tAWO0N5hMkZnx13TfJ) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Only Us](https://open.spotify.com/album/3BfpheJUxjdVBG51HHIeUD) | 2:42 | 2021-12-17 | 2022-05-14 |
 | [Out in the Middle](https://open.spotify.com/track/2Dacmfq3VLY1miVcU2SMIt) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 2:46 | 2022-06-17 | 2022-06-25 |
@@ -292,6 +293,7 @@
 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 | 2023-08-25 |  |
 | [Therapy](https://open.spotify.com/track/1Hvx88ks6xcxmX0aBi6kOS) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Therapy](https://open.spotify.com/album/1VKT3dlNWRsdqINYD4jxik) | 2:50 | 2022-03-04 | 2023-02-11 |
 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 | 2023-07-14 |  |
+| [Things I Take For Granted](https://open.spotify.com/track/2d3KkBpDlOCLT5Wlhrwhfd) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Earned It](https://open.spotify.com/album/182iKgpkS0r9XZDsjojCTP) | 3:26 | 2023-10-27 |  |
 | [Think About Me](https://open.spotify.com/track/0onq6klC19tB7MT54gob65) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Think About Me](https://open.spotify.com/album/0PRgtSEi8WEu8AHNNFNK9d) | 3:37 | 2021-12-17 | 2022-03-18 |
 | [Think About That](https://open.spotify.com/track/0ZKJTquGSbkNpgTlQBWXAD) | [Chase Bryant](https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA) | [Think About That](https://open.spotify.com/album/61rLv4iz256rZ5ZliRWsDz) | 3:51 | 2021-12-17 | 2022-02-12 |
 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2023-09-22 |  |

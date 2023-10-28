@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "ARC",
+        "url": "https://open.spotify.com/album/6c7WxPBam3QF2RaHzXCuB2"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422023,
+      "name": "ARC",
+      "url": "https://open.spotify.com/track/0BHo6ymQzMoayckXEvbTqq"
+    },
+    {
+      "album": {
         "name": "Ghost Stories EP",
         "url": "https://open.spotify.com/album/5W8kZ9fPalKBMe5BEhQ5A8"
       },
@@ -1066,6 +1084,28 @@
       "duration_ms": 408669,
       "name": "Believe",
       "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+    },
+    {
+      "album": {
+        "name": "Black & White",
+        "url": "https://open.spotify.com/album/16t53ko2zK600KU8fQ5Xcb"
+      },
+      "artists": [
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        },
+        {
+          "name": "TIWEA",
+          "url": "https://open.spotify.com/artist/4qpycLwFvhnR0o3U9GsmwW"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218507,
+      "name": "Black & White",
+      "url": "https://open.spotify.com/track/0ocXmNWJB0FIxqBVfldnlO"
     },
     {
       "album": {
@@ -3963,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "Glitch In Time EP",
+        "url": "https://open.spotify.com/album/2cX9QC3jope2AZovyjGmih"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515820,
+      "name": "Glitch In Time",
+      "url": "https://open.spotify.com/track/5VbAmXpu7hkFdF31o0FSYZ"
+    },
+    {
+      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2cuIYvl4ZtyQpl2LafPH8M"
       },
@@ -4282,6 +4340,24 @@
       "duration_ms": 305538,
       "name": "Hela",
       "url": "https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk"
+    },
+    {
+      "album": {
+        "name": "Hell Or Heaven",
+        "url": "https://open.spotify.com/album/2CVepRrDlY2Fieqxze7L4J"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253043,
+      "name": "Hell Or Heaven",
+      "url": "https://open.spotify.com/track/7DvL6EIGUSajp8qJSDgiEu"
     },
     {
       "album": {
@@ -6517,6 +6593,24 @@
     },
     {
       "album": {
+        "name": "Night Ride",
+        "url": "https://open.spotify.com/album/27gc1ZmAw2gbs9b7Za1PaX"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330685,
+      "name": "Night Ride",
+      "url": "https://open.spotify.com/track/1DcGChFmYbGkTjSjFeJQ8d"
+    },
+    {
+      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/5DclYvRURZ4Z8RAvDm0Rx3"
       },
@@ -7470,7 +7564,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 338165,
       "name": "Radiance",
       "url": "https://open.spotify.com/track/4Z086HzCQqB2M0m8jme8rY"
@@ -7612,7 +7706,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 336004,
       "name": "Reality Is a Lie",
       "url": "https://open.spotify.com/track/3PZFVZiGtkN8I16WZyrcsH"
@@ -10390,7 +10484,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 232941,
       "name": "Venezia",
       "url": "https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l"
@@ -10408,7 +10502,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 426000,
       "name": "Veritas",
       "url": "https://open.spotify.com/track/6KVUpPL8NJSDHt6OYAi2A8"
@@ -11128,7 +11222,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-28",
       "duration_ms": 366968,
       "name": "ZOY.AYN - Original",
       "url": "https://open.spotify.com/track/4DZdgHxftinsAKFXCSiEvb"

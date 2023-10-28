@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: bar italia",
-  "num_followers": 113744,
+  "num_followers": 113746,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmFkMTU3ZWIxNzNiZDdmNWMxMzE4NDBjYjM1YTE3MGQ5N2FjODJh",
+  "snapshot_id": "MCxhY2VmYTM2MTNmZmM4NmFiNjQ2MzhkOWU5ZGZiMzZkZDI3OTBkMWU0",
   "tracks": [
     {
       "added_at": "2023-10-26 23:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "MUD",
-      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "Run Run Run",
         "url": "https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 173028,
       "name": "Run Run Run",
       "url": "https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "Waiting to Spill",
         "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 320186,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Me & Me",
-        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 147596,
-      "name": "Me & Me",
-      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "The Ballad of Darren",
         "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
         }
       ],
-      "duration_ms": 155733,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
+      "duration_ms": 210173,
+      "name": "Turn The World On",
+      "url": "https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 134252,
-      "name": "Never Going Under",
-      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "Nothing Works",
         "url": "https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 210173,
-      "name": "Turn The World On",
-      "url": "https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0"
+      "duration_ms": 134252,
+      "name": "Never Going Under",
+      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
         "name": "dazies",
         "url": "https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
       "artists": [
         {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
         }
       ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+      "duration_ms": 361840,
+      "name": "Onward",
+      "url": "https://open.spotify.com/track/6LxqraiUfqeViP5BsTVCP6"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Lifetime of Wanting",
-        "url": "https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS"
-      },
-      "artists": [
-        {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
-        }
-      ],
-      "duration_ms": 184881,
-      "name": "Car Park",
-      "url": "https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "The Overload",
         "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
@@ -1279,34 +1279,18 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Cramps",
-        "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
+        "name": "Lifetime of Wanting",
+        "url": "https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
         }
       ],
-      "duration_ms": 171493,
-      "name": "Cramps",
-      "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 361840,
-      "name": "Onward",
-      "url": "https://open.spotify.com/track/6LxqraiUfqeViP5BsTVCP6"
+      "duration_ms": 184881,
+      "name": "Car Park",
+      "url": "https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 160853,
       "name": "Waste My Life",
       "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
+        "name": "Cramps",
+        "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "Cramps",
+      "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
     }
   ],
   "unique_name": "pulp",

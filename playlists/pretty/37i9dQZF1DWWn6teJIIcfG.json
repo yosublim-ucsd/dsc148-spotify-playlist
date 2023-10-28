@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 181484,
+  "num_followers": 181545,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTcyMmI1ZmYwMWIwNWFlNzZiOTczNmMwYzUzOTU2YzgwYjBhMjlh",
+  "snapshot_id": "MCw5MWE2Y2MyYzg1NDk0MDM2NzZjNjdiNzBhOTRhYzI1NTRmY2QwMjVl",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -491,6 +491,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Mozart: Piano Sonatas, Vol. 2 (Piano Sonatas Nos. 9, 12, 16 and 17)",
+        "url": "https://open.spotify.com/album/4HcdQvJCxT9LdkOcvDaeYB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
+      "url": "https://open.spotify.com/track/2wZktCFcNrvxle7jWXDv8c"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Purcell / Handel: Theatre Music",
         "url": "https://open.spotify.com/album/5hDM58o2ym0GwqFVOg3FN5"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 85933,
       "name": "King Arthur, Z. 628, \"The British Worthy\": Air",
       "url": "https://open.spotify.com/track/3snc9m6T0b0TuxtSEsmP4U"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Mozart: Piano Sonatas, Vol. 2 (Piano Sonatas Nos. 9, 12, 16 and 17)",
-        "url": "https://open.spotify.com/album/4HcdQvJCxT9LdkOcvDaeYB"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
-      "url": "https://open.spotify.com/track/2wZktCFcNrvxle7jWXDv8c"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -735,6 +735,30 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
+        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Andreas Staier",
+          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
+        },
+        {
+          "name": "Alexander Melnikov",
+          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
+        }
+      ],
+      "duration_ms": 123906,
+      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
+      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Faur\u00e9: Music for Piano",
         "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
       },
@@ -775,30 +799,6 @@
       "duration_ms": 244333,
       "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
       "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
-        "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Andreas Staier",
-          "url": "https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq"
-        },
-        {
-          "name": "Alexander Melnikov",
-          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
-        }
-      ],
-      "duration_ms": 123906,
-      "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
-      "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
         "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 54520,
       "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
       "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2023-02-09 09:05:31",

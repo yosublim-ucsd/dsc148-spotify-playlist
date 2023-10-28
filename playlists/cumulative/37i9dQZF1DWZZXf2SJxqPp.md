@@ -4,7 +4,7 @@
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-127 songs - 8 hr 32 min
+128 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Feels Right](https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:34 | 2023-03-20 |  |
 | [Flash](https://open.spotify.com/track/52d8baQxvV3AkHcAyXCkkO) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Flash](https://open.spotify.com/album/5ydGen2aXGjy4rawJIKhe5) | 2:59 | 2023-03-20 |  |
 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 | 2023-08-14 |  |
-| [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 | 2023-08-14 |  |
+| [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 | 2023-08-14 | 2023-10-28 |
 | [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 | 2023-03-20 | 2023-08-14 |
 | [Han Pan \- Original Mix](https://open.spotify.com/track/6z7Y23tSMqnHVDU51I3VjT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Moment EP](https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM) | 6:41 | 2023-03-20 |  |
 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 | 2023-03-20 |  |
@@ -76,6 +76,7 @@
 | [Lost in Music](https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Lost in Music](https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG) | 3:28 | 2023-03-20 |  |
 | [Luv Is Not Enough](https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Forrest Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa) | 3:17 | 2023-03-20 |  |
 | [Luv Is Not Enough \- Cabu Remix](https://open.spotify.com/track/2RGLP4kZKLmTgxva9QE5Qx) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Forrest Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa) | 2:55 | 2023-03-20 |  |
+| [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-10-28 |  |
 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 | 2023-08-04 |  |
 | [Mania De Você \- Dubdogz & Watzgood Remix / Radio Edit](https://open.spotify.com/track/6oxlS3jlN3aVslynpnCEe5) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Rita Lee & Roberto – Classix Remix Vol\. l](https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm) | 3:15 | 2023-03-20 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2023-03-20 | 2023-05-26 |
