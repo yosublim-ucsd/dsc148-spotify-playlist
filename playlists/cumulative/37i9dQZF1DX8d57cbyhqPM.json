@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 331199,
       "name": "Diemba (Balan\u00e7oire) - G\u00e9n\u00e9rique",
       "url": "https://open.spotify.com/track/423bpv5RaWC3xEm2j2iAjv"
@@ -2899,6 +2899,28 @@
     },
     {
       "album": {
+        "name": "Lipeka",
+        "url": "https://open.spotify.com/album/4ic6LQoZ1bBuU3WMoXBWfp"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Lipeka",
+      "url": "https://open.spotify.com/track/5Q92Lz6MiwfmIIly1vs9ar"
+    },
+    {
+      "album": {
         "name": "Loi",
         "url": "https://open.spotify.com/album/3GTtST9Tk2rcDNxV5YFIBy"
       },
@@ -3732,7 +3754,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 202733,
       "name": "Ndombolo",
       "url": "https://open.spotify.com/track/2DzhQ5UXu8fDQaQ0WaMYHK"
@@ -4154,7 +4176,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 194612,
       "name": "Paka",
       "url": "https://open.spotify.com/track/1KbEjbFZlGJv37Lm6XCfbl"
@@ -5599,6 +5621,24 @@
     },
     {
       "album": {
+        "name": "What It Do Baby",
+        "url": "https://open.spotify.com/album/2BNJwGkYA8mmSLAnVQQ2Cu"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176637,
+      "name": "What It Do Baby",
+      "url": "https://open.spotify.com/track/2cSlM8aBaXFNoj7QBSXLmZ"
+    },
+    {
+      "album": {
         "name": "Who Dembi",
         "url": "https://open.spotify.com/album/1FA9LlthaSq66VHen2U2c6"
       },
@@ -5904,6 +5944,24 @@
       "duration_ms": 200866,
       "name": "\u039a. Kin la belle",
       "url": "https://open.spotify.com/track/6YuSiFqJP4MUo88RtUAfAX"
+    },
+    {
+      "album": {
+        "name": "QALF infinity",
+        "url": "https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263576,
+      "name": "\u03a3. MOROSE",
+      "url": "https://open.spotify.com/track/0fukO3WYYUHaXOrvEohpEG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM"

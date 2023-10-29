@@ -181,6 +181,32 @@
     },
     {
       "album": {
+        "name": "A\u00ed \u00e9 Bom Demais",
+        "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
+      },
+      "artists": [
+        {
+          "name": "Garius",
+          "url": "https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Deagaene",
+          "url": "https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197667,
+      "name": "A\u00ed \u00e9 Bom Demais",
+      "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
+    },
+    {
+      "album": {
         "name": "Cabeza",
         "url": "https://open.spotify.com/album/5OYa7DkVEnROKwcKybrBdl"
       },
@@ -1486,7 +1512,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 215572,
       "name": "T\u00f4 Aqui de Novo",
       "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"

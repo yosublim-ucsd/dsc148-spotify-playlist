@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-814 songs - 1 day 7 hr 40 min
+815 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Bonafide Bars](https://open.spotify.com/track/5PsHl5DtzhLij9jRwZXnlJ) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Bonafide Bars](https://open.spotify.com/album/2vzK9BHm6HX2jLVfLPlDuP) | 2:29 | 2023-01-20 |  |
 | [Brainstem](https://open.spotify.com/track/7ahd8hgfj5z3rOhbKdGNJU) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Brainstem](https://open.spotify.com/album/3YvmHeYv5MU6vvZbIOekB3) | 2:02 | 2022-06-03 |  |
-| [Brand New](https://open.spotify.com/track/4vG978wvqQa5Z94IRGAC6Z) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Brand New](https://open.spotify.com/album/1W77dzsL2owEUFC3bHpT1j) | 2:21 | 2022-08-19 |  |
+| [Brand New](https://open.spotify.com/track/4vG978wvqQa5Z94IRGAC6Z) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Brand New](https://open.spotify.com/album/1W77dzsL2owEUFC3bHpT1j) | 2:21 | 2022-08-19 | 2023-10-29 |
 | [Breathe](https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7) | 2:14 | 2022-07-29 |  |
 | [Breathe](https://open.spotify.com/track/4ScuIvlR3YPeRicTQ37Ftz) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/5ZUdrgtFWsHUlKf1y0QF7Z) | 2:14 | 2022-07-15 | 2022-07-29 |
 | [Buena Vista](https://open.spotify.com/track/3s3cLWqJtfAUgCZQOtpFLw) | [Doctor Gosso & the Samplers](https://open.spotify.com/artist/1evlSNsQeX4LimNdMSrNRu), [Telica](https://open.spotify.com/artist/2535WOR5wDMhBYz4yReLMc) | [Buena Vista](https://open.spotify.com/album/7aMySGhfU7O2JzlvjO1jXl) | 2:16 | 2022-04-15 | 2023-10-13 |
@@ -607,6 +607,7 @@
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2022-04-15 |  |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2022-04-15 | 2022-08-12 |
 | [silly me](https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [silly me](https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt) | 1:30 | 2022-09-02 |  |
+| [silver sky](https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [silver sky](https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh) | 2:01 | 2023-10-27 |  |
 | [Simple](https://open.spotify.com/track/7rOXbaE7eR2EckA348ui2m) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Simple](https://open.spotify.com/album/5D3DbCzuUxS5QtbVi14YpZ) | 2:09 | 2023-09-04 | 2023-09-29 |
 | [Simple Solitude](https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Simple Solitude](https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p) | 2:33 | 2023-09-22 |  |
 | [Since Day One](https://open.spotify.com/track/7p00qzU7Rg9dHYn1dJ9nAr) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [Since Day One](https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6) | 2:30 | 2022-04-15 | 2022-06-03 |
@@ -679,7 +680,7 @@
 | [Sunset Wish](https://open.spotify.com/track/5OuutCf0GMIB0fSyI2kHNr) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Sunset Wish](https://open.spotify.com/album/63RgFySdicgg8HLgCbSTen) | 2:14 | 2022-04-15 | 2023-10-13 |
 | [Sunshine](https://open.spotify.com/track/4noLQWyJ28F0zFz6eTSOOW) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Ultramarinblau](https://open.spotify.com/artist/0ZzVsShp5a93vikX006voH) | [Sunshine](https://open.spotify.com/album/5ufcAAHfkltz0Ch9ZDTWTX) | 2:24 | 2023-03-13 | 2023-10-06 |
 | [Sunshine](https://open.spotify.com/track/0jI9YXwJOdw9qScRjns6TG) | [Xblaze](https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j) | [Sunshine](https://open.spotify.com/album/4SMjgiYm2cBcaYdeADCDZs) | 2:08 | 2022-09-30 |  |
-| [Sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 | 2023-10-06 |  |
+| [sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 | 2023-10-06 |  |
 | [Supalonley](https://open.spotify.com/track/3Bhi8rQjwOviWEpnt17Ser) | [Instant Influence](https://open.spotify.com/artist/5Enyz9z97MuIj0QCfUOT1X) | [Supalonely](https://open.spotify.com/album/3gT6m4IDzhjMUot8ZgKAIM) | 3:07 | 2022-11-25 |  |
 | [Superfly](https://open.spotify.com/track/6jT11modKRcuxt9pmvAzy2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Superfly](https://open.spotify.com/album/4jqthv8J5DGQ40yFC2zNjF) | 1:51 | 2022-04-15 | 2022-07-29 |
 | [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 | 2023-10-20 |

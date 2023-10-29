@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Taylor Swift \(pictured\), Nathan Dawe, Rema and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,919 likes - 152 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,011 likes - 152 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 55 | [Wavy](https://open.spotify.com/track/7uXkkKFh12JmV6xkjqaA90) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [Wavy](https://open.spotify.com/album/48Fiqk4Ujof4ZB9kxc7v2H) | 2:39 |
 | 56 | [MY LUV](https://open.spotify.com/track/70n1xQFzzWiOecwe7d9zTa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [MY LUV](https://open.spotify.com/album/0REbM9wwrpALt47XRDI5jc) | 2:32 |
 | 57 | [Homework](https://open.spotify.com/track/42llopuPT07jtnXsuTuV7u) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [Homework](https://open.spotify.com/album/1i7ZG1ax4aMbJqCjqEAd5N) | 3:34 |
-| 58 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 |
+| 58 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS) | 2:22 |
 | 59 | [Actin’ Up](https://open.spotify.com/track/5UotrcvXr7FSMY6Mw7PhFk) | [CASISDEAD](https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs), [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Famous Last Words](https://open.spotify.com/album/3aNfU7QqGoJrWbZEWUi879) | 3:26 |
 | 60 | [Young Folks](https://open.spotify.com/track/0XMWc0qrKeJnRzzyMj9Q7D) | [Dom Valentino](https://open.spotify.com/artist/1eWXBPrs5K5aZXTIWdIlPe), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Young Folks](https://open.spotify.com/album/1Wr3TqDX4bDzWELjH0kTE5) | 4:09 |
 | 61 | [Feeling Alright](https://open.spotify.com/track/2ImmcMcg2xlKwKXIzinlKK) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Feeling Alright](https://open.spotify.com/album/4yKCw9bersno18GJdoQDpI) | 3:37 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 151 | [Who Dunnit?](https://open.spotify.com/track/2rcKuc6LBiOQFSzYIa5CsW) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Who Dunnit?](https://open.spotify.com/album/65zcWNbHC9PzhkrBw3Mtcx) | 2:59 |
 | 152 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 |
 
-Snapshot ID: `MCxkYTc5YTNkZDU3ZTgzMmU3MGJhYzIyNjZhYjgzZmIzZWEzZDg1NDQ1`
+Snapshot ID: `MCwwYWI1OWNiOWJiNmIyYmQzZWQxMmFkYTIxMWIwMmFmMmI3MWE4ZDAw`

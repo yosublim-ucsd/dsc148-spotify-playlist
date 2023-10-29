@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,218 songs - 2 day 6 hr 11 min
+1,219 songs - 2 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Careless](https://open.spotify.com/track/69PYB04q2aTC3i9wFzRC3T) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM) | [Careless](https://open.spotify.com/album/0QDeDHId4agJs6w0G630zO) | 2:03 | 2023-09-22 |  |
 | [Cashmere](https://open.spotify.com/track/6PUX34fm55gE5HpJNZsNZn) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Cashmere](https://open.spotify.com/album/3ZraK1gDYuNEnL1x0QZ5PM) | 2:42 | 2023-09-29 | 2023-10-20 |
 | [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2023-09-22 |  |
+| [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 | 2023-10-27 |  |
 | [Catchin' The Vibe](https://open.spotify.com/track/0zWSkVjrsxfqHBx6WAfdFA) | [404flipp](https://open.spotify.com/artist/0JAoyodhQGwikUsJp8FKNV), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Catchin' The Vibe](https://open.spotify.com/album/3WcDo0yzRMbqTBWEQ0qSnq) | 2:07 | 2023-09-08 |  |
 | [Cavaquinho](https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Cavaquinho](https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS) | 2:18 | 2023-09-08 |  |
 | [chapter one](https://open.spotify.com/track/3KWCSFlXzN09GtiLCuRBKn) | [Emaso](https://open.spotify.com/artist/5nsxk8zPqHAFqADVsLy45c) | [chapter one](https://open.spotify.com/album/5sa4owS9NBpq0u5xi5Trso) | 1:37 | 2023-09-22 |  |
@@ -243,7 +244,7 @@
 | [cloudyhead](https://open.spotify.com/track/34Ypo4hhKwo8IQRGJHGWr9) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [cloudyhead](https://open.spotify.com/album/2MbXVSmzStW4mUMFiUEHdJ) | 2:29 | 2023-09-08 | 2023-09-23 |
 | [Club der Ewigkeiten](https://open.spotify.com/track/2ywFTaCXKedBFlYA0XcHJM) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 4:09 | 2022-04-12 | 2023-09-09 |
 | [Coastal Rock Cafe](https://open.spotify.com/track/0EIHrZotApWG5NtQUwTrEL) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [The Roar Shack](https://open.spotify.com/album/6ZOBFrnnIHJHLI7Vkh9T5s) | 2:38 | 2023-09-22 |  |
-| [Cockpit Country](https://open.spotify.com/track/2C1NJiTMTVsLzpEn2BYw6e) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Cockpit Country](https://open.spotify.com/album/1GKmHhrSTwZnN2HnBwslqr) | 1:39 | 2023-09-08 |  |
+| [Cockpit Country](https://open.spotify.com/track/2C1NJiTMTVsLzpEn2BYw6e) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Cockpit Country](https://open.spotify.com/album/1GKmHhrSTwZnN2HnBwslqr) | 1:39 | 2023-09-08 | 2023-10-29 |
 | [Coconut Crab](https://open.spotify.com/track/4qtD8XG4cpzW8nLSAVhA78) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Coconut Crab](https://open.spotify.com/album/4pWZhL6HlW8FQLtEbtC0Rx) | 1:47 | 2023-09-08 |  |
 | [Coffee time](https://open.spotify.com/track/2huCpFPJIw4BDRO5CHmfLZ) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Coffee time](https://open.spotify.com/album/2LnSDFQhZItxPBOgSfQN9u) | 2:43 | 2023-09-22 |  |
 | [Coffee Wave](https://open.spotify.com/track/0ptmO1SUF54yDzbZA1U3hb) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Coffee Wave](https://open.spotify.com/album/3YM7gWij3jM4I9uSIxykXS) | 2:32 | 2023-09-08 |  |
@@ -1026,7 +1027,7 @@
 | [Sunset](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Sunset](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 2:17 | 2023-09-22 |  |
 | [Sunset lointain](https://open.spotify.com/track/52h5FSpV5OysOWoLk7qsYV) | [Papillon](https://open.spotify.com/artist/5iwgB05OKM42R6wQSMeChU), [Chill Sax](https://open.spotify.com/artist/4BoLCYUvlbgWYGq28UWepS) | [Sunset lointain](https://open.spotify.com/album/5CplK2uYndSmSeE8SvK8Gf) | 2:18 | 2023-09-08 |  |
 | [sunshine](https://open.spotify.com/track/6PhsEeekyldBPZ55toYDDE) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [sunshine](https://open.spotify.com/album/25DoamTx8yHEhwGQ4nWEIG) | 2:18 | 2022-12-09 | 2023-09-09 |
-| [Sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 | 2023-10-06 |  |
+| [sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 | 2023-10-06 |  |
 | [Sunsoak](https://open.spotify.com/track/0GiZGyGx5A5r1zDxARPdkl) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Sunsoak](https://open.spotify.com/album/5tcXUxmQFntGbhJJcmsjVD) | 2:11 | 2023-09-08 |  |
 | [Super Film](https://open.spotify.com/track/7IQo63pHyV9TR9QS59TY4Q) | [Nizmar Ola](https://open.spotify.com/artist/7hoiEgMS78aEnIy44lmSwh) | [Catch Me Lofi](https://open.spotify.com/album/7JdNOgdGS6ve2x7caUpeKO) | 1:46 | 2023-09-08 | 2023-09-23 |
 | [Superbloom](https://open.spotify.com/track/4ztHQlDj5rCNWiSg3DAYWG) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O), [Premes](https://open.spotify.com/artist/1ZbaKBbzutbVyG2GIJH5EI), [Jameson Hodge](https://open.spotify.com/artist/6eoS42oBq9Et9uY0NKYAKs) | [Superbloom](https://open.spotify.com/album/6HU9QXLiiiDHtNpUK8G0dg) | 2:55 | 2022-04-12 | 2023-09-09 |

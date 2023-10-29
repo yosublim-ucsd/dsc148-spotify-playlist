@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese female rock icons. Cover: \u9ed2\u5b50\u9996(Hockrockb)",
-  "num_followers": 45830,
+  "num_followers": 45849,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDU4YTA3MzU0NjIwYWYxMGY5MGY2NDM1OGE3OTk0OTJmYmIxMGNl",
+  "snapshot_id": "MCw3MmYwZjE2ZjIxMjY4NTM0MDliN2Y5NWFjYWM2NWJiNDhhOWJlZjM5",
   "tracks": [
     {
       "added_at": "2023-10-26 15:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Shambles",
-        "url": "https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w"
-      },
-      "artists": [
-        {
-          "name": "BAND-MAID",
-          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Shambles",
-      "url": "https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk"
-    },
-    {
-      "added_at": "2023-10-26 15:00:00",
-      "album": {
         "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
         "url": "https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "you n me",
-        "url": "https://open.spotify.com/album/4ysSkJfyOvJ8QEj0FGhIHw"
+        "name": "Shambles",
+        "url": "https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w"
       },
       "artists": [
         {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
         }
       ],
-      "duration_ms": 268398,
-      "name": "you n me",
-      "url": "https://open.spotify.com/track/0rcm0k91Fhlh9AK8pbWbU0"
+      "duration_ms": 202000,
+      "name": "Shambles",
+      "url": "https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -811,6 +795,22 @@
       "duration_ms": 324184,
       "name": "\u5922\u3092\u307f\u305b\u3066",
       "url": "https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID"
+    },
+    {
+      "added_at": "2023-10-26 15:00:00",
+      "album": {
+        "name": "you n me",
+        "url": "https://open.spotify.com/album/4ysSkJfyOvJ8QEj0FGhIHw"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "duration_ms": 268398,
+      "name": "you n me",
+      "url": "https://open.spotify.com/track/0rcm0k91Fhlh9AK8pbWbU0"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
+        "name": "Burn The Fire",
+        "url": "https://open.spotify.com/album/01F2KOw5jXOkJDBAeDLAWs"
+      },
+      "artists": [
+        {
+          "name": "C\u00f6 shu Nie",
+          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+        }
+      ],
+      "duration_ms": 235637,
+      "name": "Burn The Fire",
+      "url": "https://open.spotify.com/track/6FqxaTZhLuGWc89hc9ZOMe"
+    },
+    {
+      "added_at": "2023-10-26 15:00:00",
+      "album": {
         "name": "BiSH THE BEST",
         "url": "https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 211833,
       "name": "aaa",
       "url": "https://open.spotify.com/track/2Srt34brSW8VItRqJStPAV"
-    },
-    {
-      "added_at": "2023-10-26 15:00:00",
-      "album": {
-        "name": "Burn The Fire",
-        "url": "https://open.spotify.com/album/01F2KOw5jXOkJDBAeDLAWs"
-      },
-      "artists": [
-        {
-          "name": "C\u00f6 shu Nie",
-          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
-        }
-      ],
-      "duration_ms": 235637,
-      "name": "Burn The Fire",
-      "url": "https://open.spotify.com/track/6FqxaTZhLuGWc89hc9ZOMe"
     },
     {
       "added_at": "2023-10-26 15:00:00",

@@ -353,24 +353,6 @@
     },
     {
       "album": {
-        "name": "\u300e\u5287\u5834\u7248\u30a2\u30a4\u30ab\u30c4\u30d7\u30e9\u30cd\u30c3\u30c8!\u300f\u30dc\u30fc\u30ab\u30eb&\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u5287\u5834\u7248\u30a2\u30a4\u30ab\u30c4\u30d7\u30e9\u30cd\u30c3\u30c8!\u306e\u97f3\u697d!!\u300d",
-        "url": "https://open.spotify.com/album/660ZOCBe3HaOgDVGkvl98D"
-      },
-      "artists": [
-        {
-          "name": "STARRY PLANET",
-          "url": "https://open.spotify.com/artist/690O3fK4s8hR73DJHBBJju"
-        }
-      ],
-      "date_added": "2022-07-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224613,
-      "name": "HAPPY\u221e\u30a2\u30a4\u30ab\u30c4!",
-      "url": "https://open.spotify.com/track/7bxZVwJRRZzGds4jgzZ2Uj"
-    },
-    {
-      "album": {
         "name": "\u30c6\u3099\u30fc\u30bf\u30ab\u30fc\u30c8\u3099\u30bf\u3099\u30b9\u300c\u30a2\u30a4\u30ab\u30c4\u30d5\u309a\u30e9\u30cd\u30c3\u30c8!\u300d1\u5f3e\u697d\u66f2",
         "url": "https://open.spotify.com/album/2uaNgkJCd5v97SxB0b8OA1"
       },
@@ -386,6 +368,24 @@
       "duration_ms": 130769,
       "name": "HAPPY\u221e\u30a2\u30a4\u30ab\u30c4! - Short Size",
       "url": "https://open.spotify.com/track/4fyHvSsV3ZOUK0fFdTuyPs"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248\u30a2\u30a4\u30ab\u30c4\u30d7\u30e9\u30cd\u30c3\u30c8\uff01\u300f\u30dc\u30fc\u30ab\u30eb\uff06\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u5287\u5834\u7248\u30a2\u30a4\u30ab\u30c4\u30d7\u30e9\u30cd\u30c3\u30c8\uff01\u306e\u97f3\u697d!!\u300d",
+        "url": "https://open.spotify.com/album/660ZOCBe3HaOgDVGkvl98D"
+      },
+      "artists": [
+        {
+          "name": "STARRY PLANET",
+          "url": "https://open.spotify.com/artist/690O3fK4s8hR73DJHBBJju"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224613,
+      "name": "HAPPY\u221e\u30a2\u30a4\u30ab\u30c4\uff01",
+      "url": "https://open.spotify.com/track/7bxZVwJRRZzGds4jgzZ2Uj"
     },
     {
       "album": {
@@ -868,8 +868,8 @@
       },
       "artists": [
         {
-          "name": "\u821e\u685c from STARRY PLANET\u2606",
-          "url": "https://open.spotify.com/artist/2SRrKpFyZQlcZpKguNFXEu"
+          "name": "\u821e\u685c",
+          "url": "https://open.spotify.com/artist/16EtUJfkCwNt2FYIWbzJnq"
         },
         {
           "name": "\u3089\u304d from BEST FRIENDS!",

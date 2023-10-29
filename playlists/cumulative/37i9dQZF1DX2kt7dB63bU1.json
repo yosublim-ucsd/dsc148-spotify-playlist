@@ -4665,6 +4665,24 @@
     },
     {
       "album": {
+        "name": "Veronica Swift",
+        "url": "https://open.spotify.com/album/053XeiFx1CVMD0sU3gZ8f8"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332262,
+      "name": "I Am What I Am",
+      "url": "https://open.spotify.com/track/2yNAX7gJ7d8jInRnXtINEE"
+    },
+    {
+      "album": {
         "name": "I Am What I Am",
         "url": "https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv"
       },
@@ -4676,7 +4694,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 332262,
       "name": "I Am What I Am",
       "url": "https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8"

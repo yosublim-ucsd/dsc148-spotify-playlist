@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,745 likes - 82 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,982 likes - 82 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 42 | [Down The Drain](https://open.spotify.com/track/62SaDdv956IYAt5nS1nWx7) | [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [Thabza Tee](https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn) | [Down The Drain](https://open.spotify.com/album/4RrEXzYVPDRdYUufiCw2W2) | 6:08 |
 | 43 | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80) | 5:29 |
 | 44 | [John Wick](https://open.spotify.com/track/4nLJnkaFq9VNYVz1SxJsXi) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve) | [Ace Of Spades \(Reshuffle\)](https://open.spotify.com/album/2kE4dNChxoaS64Xdt6XLvu) | 6:56 |
-| 45 | [The Fxckin Injury](https://open.spotify.com/track/4TI2IiuzHSG0ZSiWHpcI1k) | [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [DJ SOL K](https://open.spotify.com/artist/5LmpP7fU5Vdsf79FrrREK4) | [The Fxckin Injury](https://open.spotify.com/album/4nRqcmsWYPF9ubAM7Csq81) | 6:50 |
+| 45 | [The Fxckin Injury \(feat\. Mellow & Sleazy & DJ SOL K\)](https://open.spotify.com/track/2B1NVmSoy7g9JAn83YaycC) | [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [DJ SOL K](https://open.spotify.com/artist/5LmpP7fU5Vdsf79FrrREK4), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [The Fxckin Injury \(feat\. Mellow & Sleazy & DJ SOL K\)](https://open.spotify.com/album/1HRsDyoMFxfl13HTAyr8Gd) | 6:50 |
 | 46 | [GUPTA](https://open.spotify.com/track/3ZDWlHNxPkVcjhRWJUvPz0) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [GUPTA](https://open.spotify.com/album/5O4ZXfp5cjeK0ClZzjRT3X) | 6:09 |
 | 47 | [Salary Salary](https://open.spotify.com/track/2icgqIMkjpToStO1FRAoyj) | [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Soul Revolver](https://open.spotify.com/artist/1Z4N6qo86BmXMr5SqkHP1r), [Shaun MusiQ](https://open.spotify.com/artist/4GxjM4diRMDmrJgOBSeoBL), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7) | [Salary Salary](https://open.spotify.com/album/4quyAgJ23twffpKkEgfhji) | 6:46 |
 | 48 | [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/track/7IAMurey3mCF73caRZcdOC) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/album/1MOJaKNs5h3Pz5gA8WAc7r) | 5:55 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 81 | [Ede Weri \(Srananpiano\)](https://open.spotify.com/track/51XMfEXGLn4kIuhcZ0xZYA) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [S!RENE](https://open.spotify.com/artist/5cZy9VxDFRxCj7tRu5sPpl), [Dotboi](https://open.spotify.com/artist/0MeavZmhmsmyyL3NVnoziM) | [Ede Weri \(Srananpiano\)](https://open.spotify.com/album/4SoctD06nQGh2KfwlXuBr6) | 4:57 |
 | 82 | [Location](https://open.spotify.com/track/7ogZ485BlYFPUymcrTC0Is) | [Sje Konka](https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l), [Freddy K](https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp) | [Location](https://open.spotify.com/album/73w9zUGjkV9TqlzROMOclV) | 5:44 |
 
-Snapshot ID: `MCxiZDAzYThmYmVjOGUwNTgxNzE5OGQzOGE2NzEwNzJkZGUzOTUwNDM5`
+Snapshot ID: `MCxhOTczZTgyOTI4NDM4YTZjYmY1MzRjNTM5MjM4ZjMzZTg5NGRjZjJm`

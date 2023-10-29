@@ -1,6 +1,6 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bSung Si Kyung x NAUL(\uc131\uc2dc\uacbd x \ub098\uc5bc)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 325751,
+  "num_followers": 325802,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 203269,
-      "name": "SUNSET WITH YOU",
-      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
         "name": "Purpose - The 2nd Album",
         "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 239499,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 203269,
+      "name": "SUNSET WITH YOU",
+      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "Be ordinary",
-        "url": "https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe"
-      },
-      "artists": [
-        {
-          "name": "Hwang Chi Yeul",
-          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
-        }
-      ],
-      "duration_ms": 258950,
-      "name": "A Daily Song",
-      "url": "https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
         "name": "Naul <Ballad Pop City>",
         "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 260668,
       "name": "Nights Into Days (Prod. by Naul)",
       "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "Be ordinary",
+        "url": "https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "duration_ms": 258950,
+      "name": "A Daily Song",
+      "url": "https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
+        "name": "haeyo (2022)",
+        "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
+      },
+      "artists": [
+        {
+          "name": "An Nyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "duration_ms": 238071,
+      "name": "haeyo (2022)",
+      "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "haeyo (2022)",
-        "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
+        "name": "Myo (Cat)",
+        "url": "https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT"
       },
       "artists": [
         {
-          "name": "An Nyeong",
-          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 238071,
-      "name": "haeyo (2022)",
-      "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
+      "duration_ms": 217640,
+      "name": "Myo (Cat)",
+      "url": "https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -899,22 +915,6 @@
       "duration_ms": 210106,
       "name": "I Want to Be Closer to You",
       "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
-        "name": "Myo (Cat)",
-        "url": "https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Myo (Cat)",
-      "url": "https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "my life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
-      },
-      "artists": [
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 174990,
-      "name": "my life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
         "name": "Story Of Two Years",
         "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 246293,
       "name": "\ub108\ub97c \uc704\ud574",
       "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
+        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
         "name": "Need you (With Sung Si Kyung)",
         "url": "https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 240066,
       "name": "Need you (With Sung Si Kyung)",
       "url": "https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
-        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "My Liberation Notes OST Part 1",
-        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
-      },
-      "artists": [
-        {
-          "name": "HEN",
-          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
-        }
-      ],
-      "duration_ms": 218621,
-      "name": "Deeply",
-      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
         "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "My Liberation Notes OST Part 1",
+        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
+      },
+      "artists": [
+        {
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+        }
+      ],
+      "duration_ms": 218621,
+      "name": "Deeply",
+      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "Love Me Love Me",
-        "url": "https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Love Me Love Me",
-      "url": "https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
         "name": "The Fairy Tale",
         "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
+        "name": "Love Me Love Me",
+        "url": "https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Love Me Love Me",
+      "url": "https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
-    },
-    {
-      "added_at": "2023-10-19 09:51:38",
-      "album": {
-        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
-      },
-      "artists": [
-        {
-          "name": "Kim Min-seok (MeloMance)",
-          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1631,22 +1615,18 @@
     {
       "added_at": "2023-10-19 09:51:38",
       "album": {
-        "name": "Burn Like A Star",
-        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
+        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
       },
       "artists": [
         {
-          "name": "Ahn Ye Eun",
-          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
-        },
-        {
-          "name": "Woo Ye Rin",
-          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
+          "name": "Kim Min-seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
         }
       ],
-      "duration_ms": 188253,
-      "name": "Burn Like A Star",
-      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+      "duration_ms": 272946,
+      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
     },
     {
       "added_at": "2023-10-19 09:51:38",
@@ -1663,6 +1643,26 @@
       "duration_ms": 208649,
       "name": "come as you are",
       "url": "https://open.spotify.com/track/1B8rGBG1v6y6hdvJmw4z0O"
+    },
+    {
+      "added_at": "2023-10-19 09:51:38",
+      "album": {
+        "name": "Burn Like A Star",
+        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        },
+        {
+          "name": "Woo Ye Rin",
+          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "Burn Like A Star",
+      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
     },
     {
       "added_at": "2023-10-19 09:51:38",

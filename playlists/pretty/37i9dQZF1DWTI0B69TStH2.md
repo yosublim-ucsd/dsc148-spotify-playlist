@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:52x2PpXaL6h6JesQPInDei">didi</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,364 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,360 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [PIRUET](https://open.spotify.com/track/6JhRgP2grP9aD22M6XQMww) | [Karolina Prasał](https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr) | [PIRUET](https://open.spotify.com/album/23xMwIHak1SGxdaPv5x5Vr) | 3:06 |
 | 100 | [Cały Świat](https://open.spotify.com/track/5Q49ihsa7fEzLnQb9YSTGy) | [Robert Wojciechowski](https://open.spotify.com/artist/488R2UBrXX5qEFYsdvr56S) | [Robson Po Polsku](https://open.spotify.com/album/2cepFAtBgckCoWsjEZXezM) | 3:50 |
 
-Snapshot ID: `MCw4NDA3MmY1OWU4MmIxNjk3NTM4Njc2OTRkZWRkY2UyMjE5ZGI5M2Fj`
+Snapshot ID: `MCxiMTQ2NGNjYjAzMDQzMmZlNzQzZDBjZjMzYWUwOTczMTI2YjQyNGU5`

@@ -5665,6 +5665,28 @@
     },
     {
       "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245574,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
+    },
+    {
+      "album": {
         "name": "Mother's Eyes",
         "url": "https://open.spotify.com/album/1Tl1nnsj6RgqgS7kWbNRcs"
       },
@@ -6968,7 +6990,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 177635,
       "name": "Reflexion",
       "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"

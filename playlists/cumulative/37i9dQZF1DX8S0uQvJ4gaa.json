@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Chris Lane",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Carter Faith",
   "name": "New Boots",
   "tracks": [
     {
@@ -3407,6 +3407,28 @@
     },
     {
       "album": {
+        "name": "Boys Back Home",
+        "url": "https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        },
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165835,
+      "name": "Boys Back Home",
+      "url": "https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2"
+    },
+    {
+      "album": {
         "name": "Boys Don't Cry",
         "url": "https://open.spotify.com/album/1RTswTqWDKA8plGuRWjIC3"
       },
@@ -4442,7 +4464,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 177008,
       "name": "Chasing Tornadoes",
       "url": "https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx"
@@ -5432,6 +5454,28 @@
       "duration_ms": 208063,
       "name": "Cowboys and Plowboys",
       "url": "https://open.spotify.com/track/1YfyfFBZ7cY7wgwtZEq3tf"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Cowgirls (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
     },
     {
       "album": {
@@ -8246,7 +8290,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 216295,
       "name": "Fearless - The Echo",
       "url": "https://open.spotify.com/track/1xVjqCBkpIUMe3EmW0PxTM"
@@ -8738,6 +8782,24 @@
       "duration_ms": 232894,
       "name": "Fix'n To Break",
       "url": "https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX"
+    },
+    {
+      "album": {
+        "name": "Fixer Upper / CRZY",
+        "url": "https://open.spotify.com/album/56AIOeQtl7IA1MjMyFtyZu"
+      },
+      "artists": [
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187111,
+      "name": "Fixer Upper",
+      "url": "https://open.spotify.com/track/1zsOdeipHnfc4MdzvFpktu"
     },
     {
       "album": {
@@ -15712,7 +15774,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 146866,
       "name": "I\u2019m In Love",
       "url": "https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4"
@@ -16159,6 +16221,24 @@
     },
     {
       "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163110,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E"
+    },
+    {
+      "album": {
         "name": "Killed The Cowboy",
         "url": "https://open.spotify.com/album/120PgtD9yJIkX79XmBSwAa"
       },
@@ -16210,6 +16290,24 @@
       "duration_ms": 172720,
       "name": "Kiss Her",
       "url": "https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv"
+    },
+    {
+      "album": {
+        "name": "Kiss Of Death",
+        "url": "https://open.spotify.com/album/3tNYJylSZw5wiJEu1pekcZ"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160138,
+      "name": "Kiss Of Death",
+      "url": "https://open.spotify.com/track/66UwsbwSTHbG5EPPHrCo9i"
     },
     {
       "album": {
@@ -18203,6 +18301,24 @@
     },
     {
       "album": {
+        "name": "Man",
+        "url": "https://open.spotify.com/album/5Paf4g7Jw9SXsPaTHCqWwp"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166769,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/55f35jEFEDIWCY9YDwf9r0"
+    },
+    {
+      "album": {
         "name": "Man Enough Now",
         "url": "https://open.spotify.com/album/0NfZ6OpnTi7tOi97Jw2rPx"
       },
@@ -18612,7 +18728,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 205842,
       "name": "mean girl (feat. Colbie Caillat)",
       "url": "https://open.spotify.com/track/73vGr4FjFvY2TgndujZYDa"
@@ -20144,7 +20260,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 177924,
       "name": "Never Not Remember You",
       "url": "https://open.spotify.com/track/3PigB8AnVf6zPtWvVC5fJL"
@@ -27372,7 +27488,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 168524,
       "name": "Summer Don't Go",
       "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
@@ -32718,7 +32834,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 216809,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6l3bRfHOeki9Qvwtto6gvJ"
@@ -33217,6 +33333,24 @@
     },
     {
       "album": {
+        "name": "Wonder Woman",
+        "url": "https://open.spotify.com/album/30ptHEO695RvtGdyEMAeDZ"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205626,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH"
+    },
+    {
+      "album": {
         "name": "Re-Dunn",
         "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
       },
@@ -33336,7 +33470,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 149973,
       "name": "Worst In Me",
       "url": "https://open.spotify.com/track/2jMetr6nF6WLRPzRmGh1Pc"
@@ -34087,6 +34221,24 @@
     },
     {
       "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/72m1mEu0Q1JuLAlWY9UGLo"
+      },
+      "artists": [
+        {
+          "name": "Greylan James",
+          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227548,
+      "name": "Young Man",
+      "url": "https://open.spotify.com/track/2L9D3jDJw9LE6tO34HlwE0"
+    },
+    {
+      "album": {
         "name": "Young Man's Blues",
         "url": "https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j"
       },
@@ -34177,6 +34329,24 @@
     },
     {
       "album": {
+        "name": "shot in the dark",
+        "url": "https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182086,
+      "name": "your place",
+      "url": "https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo"
+    },
+    {
+      "album": {
         "name": "Yours or Mine",
         "url": "https://open.spotify.com/album/46CUngGoezyZYlcXXIwRPt"
       },
@@ -34242,7 +34412,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 178704,
       "name": "\u201998 Braves",
       "url": "https://open.spotify.com/track/3oZ6dlSfCE9gZ55MGPJctc"

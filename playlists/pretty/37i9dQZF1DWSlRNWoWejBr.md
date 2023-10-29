@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > dá o play e fica suave ai ô bactério
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,220 likes - 76 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,051 likes - 76 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 9 | [Então Ta, Quando Tu Quiser Foder É Só Me Ligar](https://open.spotify.com/track/1FDW4AbYuE3EaylVp1QsIq) | [MC Carioca do Sem Terra](https://open.spotify.com/artist/4a4DaxCOxUypZT0qWVw2wQ), [DJ GUILHERME DUARTE](https://open.spotify.com/artist/36bD6Tr7rBa8rpA2GvO5F6) | [Então Ta, Quando Tu Quiser Foder É Só Me Ligar](https://open.spotify.com/album/6x9bf9fsEMZAEwBiljUF72) | 2:23 |
 | 10 | [Quer Ser Minha Atriz \(feat\. DJ Lc do Martins\)](https://open.spotify.com/track/6GBwa8Kb3hGyf4Gk9Bs2qb) | [DJ Fb de Niteroi](https://open.spotify.com/artist/0t4tLEUHkkktoY9vnaLW3B), [PL Torvic](https://open.spotify.com/artist/6EsIkeJwPhFIfzJ5l8CGSm), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Lc do Martins](https://open.spotify.com/artist/4F8L071IkAkc3QaNKuUReg) | [Quer Ser Minha Atriz \[Remix Funk RJ\]](https://open.spotify.com/album/61bnAZo53stAlV7Moq5pEM) | 2:11 |
 | 11 | [Vulgo Mc Paiva](https://open.spotify.com/track/6S2336rQHx8rcEGuCETufv) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50) | [Vulgo Mc Paiva](https://open.spotify.com/album/7nAqWtxAmYqQuSMGSahW9X) | 2:00 |
-| 12 | [MEU PILOTO ELETROFUNK](https://open.spotify.com/track/4Ile5l3VkVVEuHjDNOMVER) | [SO ELETROFUNK BOM](https://open.spotify.com/artist/51YTokYMt4tkeMnHVeD2sf), [DJ PH Alves](https://open.spotify.com/artist/3dzC9CfoLrmn0E1kp9EAXe) | [ELETROFUNK BOM](https://open.spotify.com/album/762nMCpAYk5hwbv7IjL33N) | 2:19 |
+| 12 | [MEU PILOTO ELETROFUNK](https://open.spotify.com/track/4rAWBICfXpUpU5njMqYMAO) | [SO ELETROFUNK BOM](https://open.spotify.com/artist/51YTokYMt4tkeMnHVeD2sf), [GABRIEL APGO](https://open.spotify.com/artist/0vFr9eIywFwrm2UnYZO2QG) | [SO ELETROFUNK BOM](https://open.spotify.com/album/39enMTm7Wh89torkqpUNZY) | 2:19 |
 | 13 | [Calma Amor, Calma Bb](https://open.spotify.com/track/4nHN8qxD9UJCSqqvFmRBzq) | [Dj Bruninho Pzs](https://open.spotify.com/artist/5bSWLXu8tYxI5ISra9j6IF), [Dj Mano Lost](https://open.spotify.com/artist/32u1p6WuDcC7EUh7iWQPAg), [MC MENOR KAUAN](https://open.spotify.com/artist/0zi2XpPvQum7s1oIBFmufL) | [Calma Amor, Calma Bb](https://open.spotify.com/album/0KnF9KhEoQSLvtUOXdZixU) | 2:46 |
 | 14 | [Automotivo Bate Bate](https://open.spotify.com/track/2LqkqDPbkAwiUFxpI2iiFO) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Ariel B](https://open.spotify.com/artist/3SBOxPJ9Ilvge7XrOJb01C), [MC Gedai](https://open.spotify.com/artist/2lQhWQaSLJiJrhIcf7ncf0), [MC W1](https://open.spotify.com/artist/1pc2LERxjl2FZ3Ir5rYBqj), [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp) | [Automotivo Bate Bate](https://open.spotify.com/album/570osdi7zEZYOnHSCl9yP6) | 2:48 |
 | 15 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 75 | [Automotivo dos Maloqueiro Chique](https://open.spotify.com/track/2gqWOOwS0m048Uryo4zdZt) | [DJ Erik JP](https://open.spotify.com/artist/0G50WjP6s1v6zLeOl33BwK), [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [MC Renatinho Falcão](https://open.spotify.com/artist/5ni5kHDqfUWwlJNpJcCdnO) | [Automotivo dos Maloqueiro Chique](https://open.spotify.com/album/3ROvdfNMXWMwEuXhYTkfBR) | 2:26 |
 | 76 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 
-Snapshot ID: `MCw2MWQ3YTZjMTQ1Zjg5MTgyZTU2ZWY4MTM2ZDQ1MDFlMWM4MTM4ZDdi`
+Snapshot ID: `MCw0M2JhNzNmZDAxMjgzNDdmODAwNGYxY2E1NWMwMjVkNTMyM2NlODBl`

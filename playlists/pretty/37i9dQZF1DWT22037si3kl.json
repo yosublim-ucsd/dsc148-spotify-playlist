@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Ig\u00e3o",
-  "num_followers": 131063,
+  "num_followers": 131269,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YThiZWExOGMyNzI3M2I2YzQ2ZWEyM2ViMzJmYWMyMjFhNjlhYjA0",
+  "snapshot_id": "MCwxYzY4ODAxMGQ0YTk2MGIxM2E1ZGRmMDM3YjRjYTcwZjk3NWQ0MGNj",
   "tracks": [
     {
       "added_at": "2023-10-27 23:09:16",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2023-10-27 23:09:16",
       "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
+    },
+    {
+      "added_at": "2023-10-27 23:09:16",
+      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -1215,30 +1239,6 @@
     {
       "added_at": "2023-10-27 23:09:16",
       "album": {
-        "name": "Sem Amizade",
-        "url": "https://open.spotify.com/album/5UkoPUcqUxtkDLOQzjDdIs"
-      },
-      "artists": [
-        {
-          "name": "zero.og",
-          "url": "https://open.spotify.com/artist/4DuWHxZyzuP9ZCuIsHscce"
-        },
-        {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
-        },
-        {
-          "name": "!Flue",
-          "url": "https://open.spotify.com/artist/54AgxeFNMslDuJqNastdG0"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Sem Amizade",
-      "url": "https://open.spotify.com/track/09IjUOcVzLeDEmwGwCp1UQ"
-    },
-    {
-      "added_at": "2023-10-27 23:09:16",
-      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -1271,26 +1271,26 @@
     {
       "added_at": "2023-10-27 23:09:16",
       "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+        "name": "Sem Amizade",
+        "url": "https://open.spotify.com/album/5UkoPUcqUxtkDLOQzjDdIs"
       },
       "artists": [
         {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+          "name": "zero.og",
+          "url": "https://open.spotify.com/artist/4DuWHxZyzuP9ZCuIsHscce"
         },
         {
-          "name": "Ike Avila",
-          "url": "https://open.spotify.com/artist/5lhE76UOmRgymO8trdoYCH"
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
         },
         {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
+          "name": "!Flue",
+          "url": "https://open.spotify.com/artist/54AgxeFNMslDuJqNastdG0"
         }
       ],
-      "duration_ms": 186514,
-      "name": "Processo",
-      "url": "https://open.spotify.com/track/0LKvEb3dAuhIrlY2oMRVVg"
+      "duration_ms": 136000,
+      "name": "Sem Amizade",
+      "url": "https://open.spotify.com/track/09IjUOcVzLeDEmwGwCp1UQ"
     },
     {
       "added_at": "2023-10-27 23:09:16",
@@ -1319,26 +1319,26 @@
     {
       "added_at": "2023-10-27 23:09:16",
       "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
       "artists": [
         {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+          "name": "Ike Avila",
+          "url": "https://open.spotify.com/artist/5lhE76UOmRgymO8trdoYCH"
         },
         {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
         }
       ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
+      "duration_ms": 186514,
+      "name": "Processo",
+      "url": "https://open.spotify.com/track/0LKvEb3dAuhIrlY2oMRVVg"
     }
   ],
   "unique_name": "O Drip",

@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-197 songs - 8 hr 2 min
+201 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,10 @@
 | [Amber](https://open.spotify.com/track/1evwA28dL7t3r5eG3DOmmj) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Amber](https://open.spotify.com/album/5Ugj8cXqKSZ1YLNQ5dLTZT) | 2:48 | 2022-04-22 |  |
 | [Animal Lounge](https://open.spotify.com/track/0NksmvvLWEDGbMBfl2Uyqi) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Marble Man](https://open.spotify.com/album/6NEtdVFyAVtH2IJJz1YGOa) | 2:51 | 2022-04-22 | 2023-09-09 |
 | [apple pie](https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU) | [wildflower waltz](https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp) | [apple pie](https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO) | 1:16 | 2023-09-08 |  |
+| [b side](https://open.spotify.com/track/6hUbKFoBqMOGJG5rnQ8qpd) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [b side](https://open.spotify.com/album/17LmbYfU3fBzqxWG9miISo) | 1:50 | 2023-10-27 |  |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-08 |  |
 | [barred](https://open.spotify.com/track/5G8twxy897fzWrjYgrt6Mi) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [barred](https://open.spotify.com/album/7p996F0pe2XTafw6uyQoD1) | 1:56 | 2023-09-29 |  |
-| [Be Alright](https://open.spotify.com/track/7ymPlo1nmsg5g5bGfrrqmh) | [Beation](https://open.spotify.com/artist/6V0pdsJyn81xdeFmeHWQfa) | [Be Alright](https://open.spotify.com/album/59gXyig25Qw52kJr4rtgQP) | 2:12 | 2023-01-20 |  |
+| [Be Alright](https://open.spotify.com/track/7ymPlo1nmsg5g5bGfrrqmh) | [Beation](https://open.spotify.com/artist/6V0pdsJyn81xdeFmeHWQfa) | [Be Alright](https://open.spotify.com/album/59gXyig25Qw52kJr4rtgQP) | 2:12 | 2023-01-20 | 2023-10-29 |
 | [be glossy](https://open.spotify.com/track/2D2dkAz0unaWMCgSadf7Yp) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [double espresso](https://open.spotify.com/album/1PxI6cttkIIoRuwqgWS6GU) | 1:34 | 2023-10-20 |  |
 | [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-22 | 2023-01-11 |
 | [Beauty](https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Beauty](https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE) | 1:51 | 2023-09-29 |  |
@@ -53,7 +54,7 @@
 | [Dry Wine](https://open.spotify.com/track/2Xpgzqx7aZctiXu9To6Hv7) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Dry Wine](https://open.spotify.com/album/1RDeyyqIGuEYKWU98lR4tb) | 2:30 | 2023-10-06 |  |
 | [Dryer](https://open.spotify.com/track/3qHPIeckBEFVGEaYdKXbTJ) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Dryer](https://open.spotify.com/album/3dkqT9bcNiPXM0gzcAjfgV) | 2:33 | 2023-01-06 | 2023-09-09 |
 | [Emotions](https://open.spotify.com/track/0GX01FogF0EeJYXKTYwhMp) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Emotions](https://open.spotify.com/album/61boJpcbCcJogaxhegOHwN) | 2:24 | 2023-09-29 |  |
-| [Empire](https://open.spotify.com/track/7yf1m8NM5zIr5VXIAVvhEv) | [Canola Dreams](https://open.spotify.com/artist/5Bm1cVeLBJNcGXfyAwhMQt) | [Empire](https://open.spotify.com/album/3uoE4uG6XV5fXQLIMi0YGB) | 2:26 | 2023-01-20 |  |
+| [Empire](https://open.spotify.com/track/7yf1m8NM5zIr5VXIAVvhEv) | [Canola Dreams](https://open.spotify.com/artist/5Bm1cVeLBJNcGXfyAwhMQt) | [Empire](https://open.spotify.com/album/3uoE4uG6XV5fXQLIMi0YGB) | 2:26 | 2023-01-20 | 2023-10-29 |
 | [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 | 2022-04-22 |  |
 | [Favorbook](https://open.spotify.com/track/3p8aZOtWjsg9QlhvCbOBxO) | [Hatchio](https://open.spotify.com/artist/2yJIW1Ej1HulMn17JJ4kaC) | [Meowmalade](https://open.spotify.com/album/3BPl9HBiCR2AWKTbQSS5bC) | 2:42 | 2022-04-22 | 2023-09-09 |
 | [Flama](https://open.spotify.com/track/0uVboTc1k0nzI2JPyXMdSB) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [Flama](https://open.spotify.com/album/1tJjd2MpdngE0wVVkNZiXE) | 2:43 | 2023-09-29 |  |
@@ -108,7 +109,7 @@
 | [millions](https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt) | [heading\_\_](https://open.spotify.com/artist/3aE2ahDVUX4Pd0KKkWOfmS) | [outwards](https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk) | 1:48 | 2022-04-22 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-22 |  |
 | [Miscellaneous](https://open.spotify.com/track/5hA8bjM7r4SyiNzngr2Edv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [Floris van der Vlugt](https://open.spotify.com/artist/2s0GB9h7qb9UAum2R2Z06O) | [Miscellaneous](https://open.spotify.com/album/08zV9UWheKMDLzLAqi1oIJ) | 3:22 | 2022-04-22 |  |
-| [Mollusk](https://open.spotify.com/track/3ayZLIPnbKmirM9XKPpw5z) | [Mello Cotton](https://open.spotify.com/artist/1inhmE1btx8aeNDB9QiDPx) | [Mollusk](https://open.spotify.com/album/39xIOYAisIUGBygeBWoE2Y) | 2:22 | 2023-09-29 |  |
+| [Mollusk](https://open.spotify.com/track/3ayZLIPnbKmirM9XKPpw5z) | [Mello Cotton](https://open.spotify.com/artist/1inhmE1btx8aeNDB9QiDPx) | [Mollusk](https://open.spotify.com/album/39xIOYAisIUGBygeBWoE2Y) | 2:22 | 2023-09-29 | 2023-10-29 |
 | [morning coffe](https://open.spotify.com/track/1H86TtgCH7wlztTQjIJCXo) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [morning coffe](https://open.spotify.com/album/1RajhsnKrQOlMAZkJkItg2) | 2:09 | 2023-09-29 |  |
 | [Morning Vibes](https://open.spotify.com/track/0Dwo6odrEUVCNcm8IJFd5g) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/7qVtOLDgRzWmoI1bMW9SXl) | 2:35 | 2022-09-16 |  |
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2022-04-22 | 2022-11-20 |
@@ -122,6 +123,7 @@
 | [New York Moonlight](https://open.spotify.com/track/1I3c85KVlj1VgjnVf6bQ20) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [New York Moonlight](https://open.spotify.com/album/4wHaNXifn7ItMoWWXjp4d8) | 1:59 | 2022-04-22 |  |
 | [Night Ride](https://open.spotify.com/track/2iOoOLkA4AQSdNwxPJlBxH) | [Ganther](https://open.spotify.com/artist/2XP4QAz4wvP1pOO7NprFbJ) | [Night Ride](https://open.spotify.com/album/0NVIX55zaGhZV7GlpMQPQe) | 3:17 | 2022-04-22 |  |
 | [No New Friends](https://open.spotify.com/track/7DZdYHRUXHDfabjkHKoLpf) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [No New Friends](https://open.spotify.com/album/5mzHrv24KXDI1ZYuOm5kNg) | 2:52 | 2023-01-06 | 2023-09-09 |
+| [No Worries](https://open.spotify.com/track/1N3Itp1ooPiPNctk0MlkdA) | [AHOSHI](https://open.spotify.com/artist/3srMUKCuz2uyIDil2av4aU) | [No Worries](https://open.spotify.com/album/3IYlfKlLTilQXgerBfyZYk) | 2:15 | 2023-10-27 |  |
 | [Nostalgic Noodles](https://open.spotify.com/track/639IKfmKDbCl4mVt02t1Wa) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nostalgic Noodles](https://open.spotify.com/album/7wcmvwXKitFGIE9yIPm5Cj) | 1:59 | 2023-09-29 |  |
 | [Not Like This](https://open.spotify.com/track/7HY7caGt2kKJAtu756UcB8) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Not Like This](https://open.spotify.com/album/7eWBzYLHIvD6Tj1JeG8NUX) | 2:43 | 2023-09-29 |  |
 | [oasis](https://open.spotify.com/track/7GIBH22qY9MFfnoZZtBn4P) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [oasis](https://open.spotify.com/album/0quVUjufhVdhBPiggdCl3k) | 2:10 | 2023-09-29 |  |
@@ -140,7 +142,7 @@
 | [Peck](https://open.spotify.com/track/3xgFr4QwSRmIVqllKr6xkX) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Peck](https://open.spotify.com/album/3DhrVEfaXbnnScAh2FIVRO) | 1:50 | 2022-04-22 |  |
 | [Peep](https://open.spotify.com/track/79S0qKFlhMvRgV2gTgyrUi) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Peep](https://open.spotify.com/album/1H1BSktT6OnfBx8Alr3CKR) | 1:37 | 2023-01-20 |  |
 | [Peoples Plan](https://open.spotify.com/track/7GtYYBupIPtnzdmviZyLfR) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [Peoples Plan](https://open.spotify.com/album/2idlBBN2mSxgUS5GWJEl4t) | 2:22 | 2023-09-29 |  |
-| [petite java sip](https://open.spotify.com/track/2CilDammNAvbTU1SJISPje) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [aloe vera chill](https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw) | 2:08 | 2022-04-22 |  |
+| [petite java sip](https://open.spotify.com/track/2CilDammNAvbTU1SJISPje) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [aloe vera chill](https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw) | 2:08 | 2022-04-22 | 2023-10-29 |
 | [Progression](https://open.spotify.com/track/5FGgQIo3AeeyqNVe7324Ey) | [Iddy P](https://open.spotify.com/artist/0JZwamLi5bDuUwYybNnFoF) | [Progression](https://open.spotify.com/album/7p6gW7y7B59rX4FKNgasGg) | 2:19 | 2022-04-22 | 2023-09-09 |
 | [Punch Tropical](https://open.spotify.com/track/2oS6CVKvmSq7W3w1csy6jn) | [Mellowdrastic](https://open.spotify.com/artist/5iM6lzU1v2k5FbuTUG2FnV) | [The Cotton Candy Creamery](https://open.spotify.com/album/7469geWNpqJN2D3sOYZCsH) | 2:56 | 2022-04-22 |  |
 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 | 2023-09-08 |  |
@@ -196,9 +198,11 @@
 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 | 2022-04-22 |  |
 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 | 2022-04-22 |  |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2023-09-29 |  |
+| [Weightless](https://open.spotify.com/track/1X6Y4v1seN9P8uUj2VAwMr) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Weightless](https://open.spotify.com/album/4cnTvUTgOTDIbiLh4eBwxK) | 2:34 | 2023-10-27 |  |
 | [Westminster](https://open.spotify.com/track/4xJIJavUzBatJRvs8v48dF) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [Westminster](https://open.spotify.com/album/2QC94ST7Lx4VaHNarIk6zc) | 2:44 | 2022-04-22 |  |
 | [why it can't be](https://open.spotify.com/track/2OtHVCoDfgVML6XtAOyBaF) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [why it can't be](https://open.spotify.com/album/5BC8qtNQap7ekRV5LaV6jW) | 3:04 | 2022-09-16 |  |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-22 | 2023-09-09 |
+| [Winding Heart Strings](https://open.spotify.com/track/4gEpB17YYmSOiSzqlkrMRW) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Winding Heart Strings](https://open.spotify.com/album/2axNdMLjeB0xgTxu6WAOaS) | 3:44 | 2023-10-27 |  |
 | [Worth It](https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Worth It](https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x) | 2:46 | 2022-05-16 |  |
 | [Write Off](https://open.spotify.com/track/621MnT5Wi73X0Gp2lmwZ0M) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Write Off](https://open.spotify.com/album/3pgXKSIeRbS7RLbeLnubHd) | 2:44 | 2022-04-22 |  |
 | [Yahooee](https://open.spotify.com/track/1Ou9wBe9oTjj4Seohu0Vvf) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Yahooee](https://open.spotify.com/album/5z9Clk4g8ToC3tuU0yPQ13) | 2:18 | 2023-10-20 |  |

@@ -9657,6 +9657,24 @@
     },
     {
       "album": {
+        "name": "Ghetto Rhythm",
+        "url": "https://open.spotify.com/album/5k2C4gtwxZqlAEeht121by"
+      },
+      "artists": [
+        {
+          "name": "Nolek",
+          "url": "https://open.spotify.com/artist/3lqYpuRWMveuEstXognq7q"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "Ghetto Rhythm",
+      "url": "https://open.spotify.com/track/2R7oSXecf52jz4VoG3hpmE"
+    },
+    {
+      "album": {
         "name": "Ghosts In My Bed",
         "url": "https://open.spotify.com/album/4P469Mu97SlHlaPxzkrXdQ"
       },
@@ -14671,7 +14689,7 @@
     },
     {
       "album": {
-        "name": "Lonely (Feat. Abi Flynn)",
+        "name": "Lonely (feat. Abi Flynn)",
         "url": "https://open.spotify.com/album/2wqG0ayOFL9ubvUMppABJs"
       },
       "artists": [
@@ -14688,7 +14706,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171083,
-      "name": "Lonely (Feat. Abi Flynn)",
+      "name": "Lonely (feat. Abi Flynn)",
       "url": "https://open.spotify.com/track/1F39SR0Mf8b6DkJHG0SIUQ"
     },
     {

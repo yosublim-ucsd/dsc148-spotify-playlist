@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Picture Parlour",
-  "num_followers": 115689,
+  "num_followers": 115712,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTFlMzNjYTU0MmI2N2RjMjA0YjgyZjIzNGVlMWRmMmFmYjdlM2M3",
+  "snapshot_id": "MCxiMWU2ZDc2OTE4YWU5Y2M3NmE4ODA0YjhhMDkzYTkxYjE0YzRmYzE4",
   "tracks": [
     {
       "added_at": "2023-10-27 10:55:40",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/3uRlTeGvjVcrNYk1mqJTgf"
-      },
-      "artists": [
-        {
-          "name": "Louis Dunford",
-          "url": "https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342"
-        }
-      ],
-      "duration_ms": 260462,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Time Of Your Life",
         "url": "https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 187566,
       "name": "Time Of Your Life",
       "url": "https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/3uRlTeGvjVcrNYk1mqJTgf"
+      },
+      "artists": [
+        {
+          "name": "Louis Dunford",
+          "url": "https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342"
+        }
+      ],
+      "duration_ms": 260462,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -639,8 +639,8 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Black Cat",
-        "url": "https://open.spotify.com/album/4nbnUaUzLFai1ZW3SP8vOb"
+        "name": "Godless",
+        "url": "https://open.spotify.com/album/5tQEXsq6dauitENEbbcqPs"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
         }
       ],
-      "duration_ms": 140613,
-      "name": "Black Cat",
-      "url": "https://open.spotify.com/track/3dw3CbKSsae5LFuP5uRIeV"
+      "duration_ms": 199381,
+      "name": "Godless",
+      "url": "https://open.spotify.com/track/2i5hj65DeRRQFaI2Rv5rrw"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "somebody to talk about",
-        "url": "https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA"
-      },
-      "artists": [
-        {
-          "name": "second thoughts",
-          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
-        }
-      ],
-      "duration_ms": 199513,
-      "name": "somebody to talk about",
-      "url": "https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "An Ocean Full of Islands",
         "url": "https://open.spotify.com/album/01FjLg54vBily703i6K8bT"
       },
@@ -781,10 +765,26 @@
       "url": "https://open.spotify.com/track/5omsPZVDwJS3Jt2Ivlv7J2"
     },
     {
+      "added_at": "2023-10-27 10:55:40",
+      "album": {
+        "name": "Happy Cars",
+        "url": "https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw"
+      },
+      "artists": [
+        {
+          "name": "Peace",
+          "url": "https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS"
+        }
+      ],
+      "duration_ms": 197485,
+      "name": "Happy Cars",
+      "url": "https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv"
+    },
+    {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Godless",
-        "url": "https://open.spotify.com/album/5tQEXsq6dauitENEbbcqPs"
+        "name": "Black Cat",
+        "url": "https://open.spotify.com/album/4nbnUaUzLFai1ZW3SP8vOb"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
         }
       ],
-      "duration_ms": 199381,
-      "name": "Godless",
-      "url": "https://open.spotify.com/track/2i5hj65DeRRQFaI2Rv5rrw"
+      "duration_ms": 140613,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/3dw3CbKSsae5LFuP5uRIeV"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -811,6 +811,22 @@
       "duration_ms": 240214,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "somebody to talk about",
+        "url": "https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA"
+      },
+      "artists": [
+        {
+          "name": "second thoughts",
+          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
+        }
+      ],
+      "duration_ms": 199513,
+      "name": "somebody to talk about",
+      "url": "https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -893,6 +909,22 @@
       "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
     },
     {
+      "added_at": "2023-10-27 10:55:40",
+      "album": {
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/7LRaEYO1IbbqjIm8hyxmLu"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB"
+    },
+    {
       "added_at": "2023-10-20 00:13:22",
       "album": {
         "name": "Never Good Enough",
@@ -971,6 +1003,22 @@
       "duration_ms": 152714,
       "name": "Hold Yr Horses",
       "url": "https://open.spotify.com/track/5gKekPljHBtFvuQcaMOnii"
+    },
+    {
+      "added_at": "2023-10-27 10:55:40",
+      "album": {
+        "name": "Up in the Air",
+        "url": "https://open.spotify.com/album/30JsqeAvmGjYsrzVOr6s1a"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+        }
+      ],
+      "duration_ms": 160996,
+      "name": "Up in the Air",
+      "url": "https://open.spotify.com/track/1sBIJ6xCgg0uDzTd9M9u5u"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1183,6 +1231,22 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
+        "name": "Exposed to Some Light",
+        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
+      },
+      "artists": [
+        {
+          "name": "Nightbus",
+          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+        }
+      ],
+      "duration_ms": 239250,
+      "name": "Exposed to Some Light",
+      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
         "name": "Smashed Up My Fender",
         "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
       },
@@ -1211,22 +1275,6 @@
       "duration_ms": 174829,
       "name": "little victories",
       "url": "https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
-        "name": "Exposed to Some Light",
-        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
-      },
-      "artists": [
-        {
-          "name": "Nightbus",
-          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
-        }
-      ],
-      "duration_ms": 239250,
-      "name": "Exposed to Some Light",
-      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1263,22 +1311,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Panic Prevention",
-        "url": "https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 259813,
-      "name": "Sheila",
-      "url": "https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Emergency (15 Year Anniversary Version)",
         "url": "https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS"
       },
@@ -1291,6 +1323,22 @@
       "duration_ms": 154453,
       "name": "Lets Stay out Tonight",
       "url": "https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Panic Prevention",
+        "url": "https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 259813,
+      "name": "Sheila",
+      "url": "https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1325,38 +1373,6 @@
       "url": "https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3"
     },
     {
-      "added_at": "2023-10-27 10:55:40",
-      "album": {
-        "name": "Happy Cars",
-        "url": "https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw"
-      },
-      "artists": [
-        {
-          "name": "Peace",
-          "url": "https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS"
-        }
-      ],
-      "duration_ms": 197485,
-      "name": "Happy Cars",
-      "url": "https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv"
-    },
-    {
-      "added_at": "2023-10-27 10:55:40",
-      "album": {
-        "name": "Up in the Air",
-        "url": "https://open.spotify.com/album/30JsqeAvmGjYsrzVOr6s1a"
-      },
-      "artists": [
-        {
-          "name": "Dylan John Thomas",
-          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
-        }
-      ],
-      "duration_ms": 160996,
-      "name": "Up in the Air",
-      "url": "https://open.spotify.com/track/1sBIJ6xCgg0uDzTd9M9u5u"
-    },
-    {
       "added_at": "2023-10-20 00:13:22",
       "album": {
         "name": "Wide Asleep",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Lovers Come and Lovers Go",
-        "url": "https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS"
-      },
-      "artists": [
-        {
-          "name": "The Pigeon Detectives",
-          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "Lovers Come and Lovers Go",
-      "url": "https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "A Sense Of Doubt",
         "url": "https://open.spotify.com/album/7rarto0TdC6zceBil7cgxK"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 186500,
       "name": "Female of the Species",
       "url": "https://open.spotify.com/track/2K8kox96chIc5gFJVRWJgg"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Lovers Come and Lovers Go",
+        "url": "https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS"
+      },
+      "artists": [
+        {
+          "name": "The Pigeon Detectives",
+          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "Lovers Come and Lovers Go",
+      "url": "https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-10-20 00:13:22",
       "album": {
-        "name": "Propaganda",
-        "url": "https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr"
-      },
-      "artists": [
-        {
-          "name": "Hannah Grae",
-          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "Propaganda",
-      "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
         "name": "Jenny / Patsy Decline",
         "url": "https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 166698,
       "name": "Patsy Decline",
       "url": "https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0"
+    },
+    {
+      "added_at": "2023-10-20 00:13:22",
+      "album": {
+        "name": "Propaganda",
+        "url": "https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
     },
     {
       "added_at": "2023-10-20 00:13:22",
@@ -1595,22 +1611,6 @@
       "duration_ms": 186432,
       "name": "Third Time Lucky",
       "url": "https://open.spotify.com/track/49HgyKaneQrj1YeJp6OvUC"
-    },
-    {
-      "added_at": "2023-10-20 00:13:22",
-      "album": {
-        "name": "How Will I Know If Heaven Will Find Me?",
-        "url": "https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Wait For Me",
-      "url": "https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG"
     }
   ],
   "unique_name": "Proper Belters",

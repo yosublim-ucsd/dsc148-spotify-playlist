@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 221613,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3"
@@ -7440,6 +7440,32 @@
       "duration_ms": 651160,
       "name": "Si c'\u00e9tait le dernier",
       "url": "https://open.spotify.com/track/5wYIOyOaWKLkx3Pde6qstp"
+    },
+    {
+      "album": {
+        "name": "froge.mp3",
+        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "silver lining",
+      "url": "https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy"
     },
     {
       "album": {

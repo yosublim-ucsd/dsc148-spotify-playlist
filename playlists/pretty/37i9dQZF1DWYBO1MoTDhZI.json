@@ -1,12 +1,12 @@
 {
   "description": "Just good vibes all day long",
-  "num_followers": 3241646,
+  "num_followers": 3242011,
   "original_name": "Good Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2RiM2RkNDVhYzFhNjdhZTlhNTIyZDlmZDE0MTFkZWFkYjkwZDE4",
+  "snapshot_id": "MCxiOGY1MzNjODhhNzNmZDY5YWYwM2E2NzNlYjU4MGUyZWFlZDcyNTY2",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -86,6 +86,10 @@
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
       "duration_ms": 195873,
@@ -1031,6 +1035,22 @@
       "duration_ms": 172354,
       "name": "sunny day",
       "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:4GUR4UKtbNQiAV2h5qV2df\">Kamil Kempi\u0144ski</a>",
-  "num_followers": 6697,
+  "num_followers": 6696,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzhlNzM4MTUxNjQ2MDVmNDhmYTQwYjUxYThjZjMwMThhOTljZGFl",
+  "snapshot_id": "MCw5M2E1NzE3ZjU4YjliNjlkN2Q4NzU4MjA3ZThkNjAzMDljYWZjZTk4",
   "tracks": [
     {
       "added_at": "2023-10-20 09:12:18",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "tw\u00f3j zapach",
-        "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
-      },
-      "artists": [
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "tw\u00f3j zapach",
-      "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "oddaj\u0119 Ci melodi\u0119",
         "url": "https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 143443,
       "name": "oddaj\u0119 Ci melodi\u0119",
       "url": "https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "tw\u00f3j zapach",
+        "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "tw\u00f3j zapach",
+      "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
-      },
-      "artists": [
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 211555,
-      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
-      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Le$bijka",
         "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
       },
@@ -595,18 +579,38 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "miss u",
-        "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
+        "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+        "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
       },
       "artists": [
         {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
         }
       ],
-      "duration_ms": 150001,
-      "name": "miss u",
-      "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
+      "duration_ms": 211555,
+      "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
+      "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Przekle\u0144stwa Niewinno\u015bci",
+        "url": "https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "H8",
+          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
+        }
+      ],
+      "duration_ms": 171379,
+      "name": "Wiem, \u017ce Smakuj\u0119 Jak...",
+      "url": "https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -647,38 +651,38 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Przekle\u0144stwa Niewinno\u015bci",
-        "url": "https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5"
+        "name": "The Moon",
+        "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
       },
       "artists": [
         {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+          "name": "Youth Novels",
+          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
         },
         {
-          "name": "H8",
-          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
         }
       ],
-      "duration_ms": 171379,
-      "name": "Wiem, \u017ce Smakuj\u0119 Jak...",
-      "url": "https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4"
+      "duration_ms": 284422,
+      "name": "The Moon",
+      "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
     },
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Hydra",
-        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
+        "name": "miss u",
+        "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
       },
       "artists": [
         {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
         }
       ],
-      "duration_ms": 288480,
-      "name": "Hydra",
-      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
+      "duration_ms": 150001,
+      "name": "miss u",
+      "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -699,22 +703,18 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "The Moon",
-        "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/7A7tpEscBr4gb6G5dJAqZv"
       },
       "artists": [
         {
-          "name": "Youth Novels",
-          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
-        },
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 284422,
-      "name": "The Moon",
-      "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
+      "duration_ms": 288480,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/5IIkGVU8NWqjWmxWSKyD6u"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -855,6 +855,38 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
+        "name": "Nie ma",
+        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 202419,
+      "name": "Nie ma",
+      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
         "name": "psychodynamiczne",
         "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
       },
@@ -867,42 +899,6 @@
       "duration_ms": 190000,
       "name": "priorytetem",
       "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "Spicy",
-        "url": "https://open.spotify.com/album/5s9O3oTtIG0TscYAG8gRaH"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
-        },
-        {
-          "name": "H8",
-          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
-        }
-      ],
-      "duration_ms": 159985,
-      "name": "Spicy",
-      "url": "https://open.spotify.com/track/0L6WdUBOquVBQ8Gu3ASpZZ"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -927,18 +923,38 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+        "name": "Spicy",
+        "url": "https://open.spotify.com/album/5s9O3oTtIG0TscYAG8gRaH"
       },
       "artists": [
         {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "H8",
+          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
         }
       ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+      "duration_ms": 159985,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/0L6WdUBOquVBQ8Gu3ASpZZ"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -955,22 +971,6 @@
       "duration_ms": 154000,
       "name": "Scarchest",
       "url": "https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
-        "name": "Nie ma",
-        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 202419,
-      "name": "Nie ma",
-      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Polska",
         "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 230906,
       "name": "Technikolor",
       "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
-        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Po Szkole",
-      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Bezpowrotnie",
         "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 182219,
       "name": "Bezpowrotnie",
       "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
+        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Po Szkole",
+      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
     },
     {
       "added_at": "2023-10-20 09:12:18",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 248202,
-      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Gus\u0142a (Human Rites)",
         "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
       },
@@ -1331,22 +1315,6 @@
     {
       "added_at": "2023-10-20 09:12:18",
       "album": {
-        "name": "POT\u0118\u017bNE LESBIJKI Z MIECZAMI",
-        "url": "https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7"
-      },
-      "artists": [
-        {
-          "name": "Brokatowe Damy",
-          "url": "https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cztery Dwa Zero",
-      "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
-    },
-    {
-      "added_at": "2023-10-20 09:12:18",
-      "album": {
         "name": "Girls, Gays, People",
         "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
       },
@@ -1359,6 +1327,38 @@
       "duration_ms": 395000,
       "name": "Girls, Gays, People",
       "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 248202,
+      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
+    },
+    {
+      "added_at": "2023-10-20 09:12:18",
+      "album": {
+        "name": "POT\u0118\u017bNE LESBIJKI Z MIECZAMI",
+        "url": "https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7"
+      },
+      "artists": [
+        {
+          "name": "Brokatowe Damy",
+          "url": "https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cztery Dwa Zero",
+      "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
     },
     {
       "added_at": "2023-10-20 09:12:18",

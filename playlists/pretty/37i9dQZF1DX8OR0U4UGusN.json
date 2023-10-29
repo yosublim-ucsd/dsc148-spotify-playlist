@@ -1,12 +1,12 @@
 {
   "description": "be on your way with the sturniolo triplets",
-  "num_followers": 224522,
+  "num_followers": 225007,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGE5NGRhNmE3ZGViYWVhNjdmZTNkM2NmM2VlNGJhOTVkMTZlZDZh",
+  "snapshot_id": "MCw4YzBlNGE0NWQ0MTFjNzdhY2JjMzE4OGZhOWRlOTAxYmNmN2YxOWI4",
   "tracks": [
     {
       "added_at": "2023-10-03 04:00:00",
@@ -1108,12 +1108,12 @@
           "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
         },
         {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        },
-        {
           "name": "Wiz Khalifa",
           "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
         }
       ],
       "duration_ms": 151057,

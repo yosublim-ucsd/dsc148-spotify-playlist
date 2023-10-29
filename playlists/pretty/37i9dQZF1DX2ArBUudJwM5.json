@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Juliana Gattas",
-  "num_followers": 39423,
+  "num_followers": 39419,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGJmNzRhYjI5Mzc5MDI1ZTllYTVhN2Q1N2U3YjQzNWNmOWVlYTAy",
+  "snapshot_id": "MCwzY2VhNzRiMjdmZTgyYjU0Yzk3ZmEyYTc0ODNhMjg4OTRmMjc5YjA4",
   "tracks": [
     {
       "added_at": "2023-10-04 03:00:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
+        "name": "Xtasis",
+        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 203125,
+      "name": "Xtasis",
+      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 153000,
       "name": "Cosa Suya",
       "url": "https://open.spotify.com/track/1Z74xogis6AXH1khWQRJ95"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
-        "name": "Xtasis",
-        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 203125,
-      "name": "Xtasis",
-      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Affaire",
-        "url": "https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE"
-      },
-      "artists": [
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Despejarte",
-      "url": "https://open.spotify.com/track/1FLNgasNG7B2OXdJKplNCd"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "A Veces No Da",
         "url": "https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 194750,
       "name": "A Veces No Da",
       "url": "https://open.spotify.com/track/4oSj4VDcYCjt74sswuw7Ou"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Affaire",
+        "url": "https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE"
+      },
+      "artists": [
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Despejarte",
+      "url": "https://open.spotify.com/track/1FLNgasNG7B2OXdJKplNCd"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "M\u00e1gica Intuici\u00f3n",
-        "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
-      },
-      "artists": [
-        {
-          "name": "La Piba Berreta",
-          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 190393,
-      "name": "M\u00e1gica Intuici\u00f3n",
-      "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "Varias Artistas - Pap\u00e1",
         "url": "https://open.spotify.com/album/02XtGpkPOvmvKFEt2TPERg"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 246600,
       "name": "Diario \u00cdntimo",
       "url": "https://open.spotify.com/track/79k7bVBxAbInkypkIcfyKO"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "M\u00e1gica Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
+      },
+      "artists": [
+        {
+          "name": "La Piba Berreta",
+          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 190393,
+      "name": "M\u00e1gica Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Blue Planet",
-        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 153193,
-      "name": "Blue Planet",
-      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "Festejar",
         "url": "https://open.spotify.com/album/160XSHPMZFnnDpPH9sUxdY"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 228290,
       "name": "Festejar",
       "url": "https://open.spotify.com/track/2Pl3nggNkBrthtJofSiPfh"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Blue Planet",
+        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 153193,
+      "name": "Blue Planet",
+      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
     },
     {
       "added_at": "2023-10-04 03:00:00",

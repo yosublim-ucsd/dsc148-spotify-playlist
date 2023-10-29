@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 183404,
       "name": "(i)",
       "url": "https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 203333,
       "name": "1982 - Remix",
       "url": "https://open.spotify.com/track/0EG54WPNcosMeybB8AdgOP"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 185013,
       "name": "Addicted to Romance - from the film 'She Came to Me'",
       "url": "https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1"
@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "Call Your Name - Andromedik Remix",
       "url": "https://open.spotify.com/track/2ZKB2c2R5pWjRJoRbpL0mR"
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 160500,
       "name": "Call Your Name - Andromedik Remix",
       "url": "https://open.spotify.com/track/2ktvmX53byZmws2q2qMRiI"
@@ -5303,6 +5303,24 @@
     },
     {
       "album": {
+        "name": "Live in Switzerland (Remastered 2023)",
+        "url": "https://open.spotify.com/album/1DLdNlZoXWPL3ooXijwcEI"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395000,
+      "name": "Farm On The Freeway - Live - Remastered 2023",
+      "url": "https://open.spotify.com/track/7Iq3UghudyQNWGbJ8mg7cG"
+    },
+    {
+      "album": {
         "name": "Fathomless Maw",
         "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
       },
@@ -5633,6 +5651,24 @@
     },
     {
       "album": {
+        "name": "In Utero (30th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/68uIz7DtgDoPUFTKxdzL9t"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Frances Farmer Will Have Her Revenge On Seattle - Live In Los Angeles, Great Western Forum - December 30, 1993",
+      "url": "https://open.spotify.com/track/1KxYekYpnaLDTMtqOv1xqx"
+    },
+    {
+      "album": {
         "name": "In Utero 30th Live",
         "url": "https://open.spotify.com/album/59l8Nwhl8l7mmxiVv9Bzbk"
       },
@@ -5644,7 +5680,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 233890,
       "name": "Frances Farmer Will Have Her Revenge On Seattle - Live In Seattle, Seattle Center Arena - January 7, 1994",
       "url": "https://open.spotify.com/track/3N8SPI3gLlikVYJL1d7Xpn"
@@ -7734,7 +7770,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 205653,
       "name": "I'm On The Lamb But I Ain't No Sheep - Live",
       "url": "https://open.spotify.com/track/2n31ApOKHdhiqZkT7iK0sd"
@@ -7770,7 +7806,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 231093,
       "name": "I've Seen All Good People: Your Move / All Good People (Early Take) - 2023 Remaster",
       "url": "https://open.spotify.com/track/2VXqRP3kCtw3yGentTz16W"
@@ -10382,7 +10418,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 208821,
       "name": "Lucero",
       "url": "https://open.spotify.com/track/2VT5GfzNkU69TCNxpTvwXs"
@@ -11420,10 +11456,32 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 176529,
       "name": "Naughty Girl",
       "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
+    },
+    {
+      "album": {
+        "name": "Naughty Girl",
+        "url": "https://open.spotify.com/album/7bhmi0fi3gB7PXRKfeE4jQ"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176529,
+      "name": "Naughty Girl",
+      "url": "https://open.spotify.com/track/6N1T8r7vpVoxUIwdMCihKr"
     },
     {
       "album": {
@@ -13502,10 +13560,36 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 177577,
       "name": "Real Love - Liva K Remix",
       "url": "https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg"
+    },
+    {
+      "album": {
+        "name": "Real Love (Liva K Remix)",
+        "url": "https://open.spotify.com/album/3rmNlvswDE9CQIl3pElKXP"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        },
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177577,
+      "name": "Real Love - Liva K Remix",
+      "url": "https://open.spotify.com/track/6OBEM2Laa2NNsuCaWd3YDv"
     },
     {
       "album": {
@@ -13630,6 +13714,24 @@
       "duration_ms": 304000,
       "name": "Release My Soul - Blutengel Mix",
       "url": "https://open.spotify.com/track/1EUc6WWBdyHxGHmWU8cN07"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199158,
+      "name": "Reloj de Viento",
+      "url": "https://open.spotify.com/track/0cGG17lAn1vhWje5CbVbQ0"
     },
     {
       "album": {
@@ -14680,7 +14782,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 370107,
       "name": "Seven O'clock",
       "url": "https://open.spotify.com/track/4NGqlZCxg1woTyYU1iZAix"
@@ -16766,10 +16868,44 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 139466,
       "name": "The Nutcracker Suite: II. Toot Toot Tootie Toot (Dance of the Reed-Pipes)",
       "url": "https://open.spotify.com/track/1S1Vh3Ti0L0xsQ8dqrQ4kj"
+    },
+    {
+      "album": {
+        "name": "The Nutcracker Suite",
+        "url": "https://open.spotify.com/album/3mCPacNsUFWiAuI2qRgzj6"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "Billy Strayhorn",
+          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        },
+        {
+          "name": "Andrew Grams",
+          "url": "https://open.spotify.com/artist/358cR0CgJSkJSCbBDWTifa"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175546,
+      "name": "The Nutcracker Suite: IV. Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
+      "url": "https://open.spotify.com/track/4O7Z4EpCzkboRQ5R1Z4t4L"
     },
     {
       "album": {
@@ -19482,7 +19618,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 298184,
       "name": "Wolf Unchained - Alternative Mix",
       "url": "https://open.spotify.com/track/79ZzFRDXRNaOL3qGn7pffa"
@@ -19791,6 +19927,24 @@
     },
     {
       "album": {
+        "name": "Yessingles",
+        "url": "https://open.spotify.com/album/7BCKqUPSw6Y3Ih5Pk7otGY"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178053,
+      "name": "Your Move",
+      "url": "https://open.spotify.com/track/7zgAvKRTfhUMHCv2s5Dgf5"
+    },
+    {
+      "album": {
         "name": "Live USA... '71",
         "url": "https://open.spotify.com/album/0l0c222KP2LfzeXfQTCrTo"
       },
@@ -19820,7 +19974,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 191470,
       "name": "Z0mbie",
       "url": "https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj"

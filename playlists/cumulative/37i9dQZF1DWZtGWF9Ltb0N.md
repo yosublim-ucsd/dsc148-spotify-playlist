@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-513 songs - 1 day 13 hr 31 min
+515 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Bussin](https://open.spotify.com/track/4RBA9yaG5qpxcS8ZIXRDza) | [MIRR.IMG](https://open.spotify.com/artist/4oLpXAfGMBkks9xfcLKCGM), [Corey Divine](https://open.spotify.com/artist/3i8QaYMWgXwJO6FKxXcYeh) | [Bussin](https://open.spotify.com/album/2WeSo01aagmULmvqHBWCEF) | 3:56 | 2022-11-18 |  |
 | [Bête Noire](https://open.spotify.com/track/7GUxMroK17pTi0Nmy4ujcr) | [Zygos](https://open.spotify.com/artist/7555FTON3X5sDFo7SD2W4o) | [Various Visions 02](https://open.spotify.com/album/26dvq1wPV9zwPVdNULQdn1) | 5:30 | 2022-02-17 | 2022-07-30 |
 | [Call](https://open.spotify.com/track/1Q9sqJ2fGODwIaYzJ7RhxG) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk), [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Call](https://open.spotify.com/album/2G8aFQihMD4IhyBq49bWse) | 2:59 | 2023-03-17 | 2023-06-10 |
+| [CAPONE](https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [4\#TRAX](https://open.spotify.com/album/1d4UulScUQloV42jkZN4cn) | 3:19 | 2023-10-27 |  |
 | [Cartel](https://open.spotify.com/track/59IiQCRjKBFmjPbFd0MOzs) | [Sub Basics](https://open.spotify.com/artist/6zpwlKhz2dq8BlG1BME5Zh) | [Horus / Cartel](https://open.spotify.com/album/6E99Te82rtI1y9rXKdLZgQ) | 4:26 | 2022-02-17 | 2023-08-07 |
 | [CBDUB \- Wake and Bake Mix](https://open.spotify.com/track/4SkXv0xdoJHmBocbtsG5Es) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Rico O.B.F](https://open.spotify.com/artist/3WQz2q2oUIdhBTxoCexWuH) | [Patience](https://open.spotify.com/album/1OxYshleIbIpM22OjG3Dlp) | 4:09 | 2022-03-25 | 2022-10-25 |
 | [Certified](https://open.spotify.com/track/3mYP9Tec1OzcwNKuCEqJzE) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv), [MontyCler](https://open.spotify.com/artist/58pVdkxx4UZqPrNAWDdOEw) | [Certified](https://open.spotify.com/album/70eXJWr1u3t8PF81jx6mLL) | 3:39 | 2023-09-15 |  |
@@ -112,7 +113,7 @@
 | [Dem Tuff](https://open.spotify.com/track/3eIX6FvKnHXO9iy0i1fHTz) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Mr\. K](https://open.spotify.com/artist/1g6naH1LUQbliNJGswFSpC) | [DOR007](https://open.spotify.com/album/68SJQK1l7kWi1bAlwkHWFZ) | 4:43 | 2022-02-17 | 2022-08-30 |
 | [Deposition](https://open.spotify.com/track/4RE5lIMbBsS7FhhMX2nFSo) | [Oddkut](https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ) | [Loud](https://open.spotify.com/album/4SQ5ZlYYGUFuEWWl5zkr5j) | 4:44 | 2022-02-17 | 2022-07-28 |
 | [Diamonds](https://open.spotify.com/track/4eCKotoixCMh0U6Gfp7XI9) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Diamonds](https://open.spotify.com/album/1jJKIyew4UcjGVZ33wZrpL) | 3:42 | 2023-05-05 |  |
-| [Disarray](https://open.spotify.com/track/0g8mhmcojAvyBZVAzfcjVO) | [Kercha](https://open.spotify.com/artist/3wCMW7RUGv6X3ZduZxiFYW) | [Witness EP](https://open.spotify.com/album/0bOW6rAqopRCVEnMRrMlp1) | 4:51 | 2022-09-30 |  |
+| [Disarray](https://open.spotify.com/track/0g8mhmcojAvyBZVAzfcjVO) | [Kercha](https://open.spotify.com/artist/3wCMW7RUGv6X3ZduZxiFYW) | [Witness EP](https://open.spotify.com/album/0bOW6rAqopRCVEnMRrMlp1) | 4:51 | 2022-09-30 | 2023-10-29 |
 | [Discovery](https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Discovery](https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A) | 4:20 | 2022-09-23 |  |
 | [Dissonance](https://open.spotify.com/track/24r2tiw6Ywi28T07oSbk0S) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [Dissonance](https://open.spotify.com/album/2wdEqqIVyVyiVVByRKduOr) | 5:32 | 2022-02-17 | 2022-07-29 |
 | [Dissonance](https://open.spotify.com/track/5MmEgl5zr8lTmu30HO00Fw) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [Dissonance](https://open.spotify.com/album/1YI0DOkY7g3M4fsMYuMycJ) | 5:32 | 2022-07-08 | 2022-07-30 |
@@ -244,6 +245,7 @@
 | [Life Without Meaning](https://open.spotify.com/track/56mPUqA3PwxGKTNXR9giQu) | [Soukah](https://open.spotify.com/artist/243gr62h7yfUDhuznWXRpF) | [Life Without Meaning / You Can Run Much Faster](https://open.spotify.com/album/52xZv0kPf4kxhWvlnYlp9A) | 5:16 | 2022-02-17 |  |
 | [Light Transmission](https://open.spotify.com/track/0JyboEk7HNGbCBfyAHUIbR) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Alandazu EP](https://open.spotify.com/album/4XlxezT0hwytoRYiMYMa88) | 5:39 | 2022-03-25 | 2022-04-26 |
 | [Lightspeed \(feat\. dêtre\)](https://open.spotify.com/track/4LVcRkElDaOWOC4SfO3LRm) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC), [dêtre](https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT) | [Lightspeed \(feat\. dêtre\)](https://open.spotify.com/album/0IuffqK8EOxmYQfAlis7QF) | 2:38 | 2023-09-29 |  |
+| [Like That](https://open.spotify.com/track/3FDyCoOHVoiSRmNeAlZnM0) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Like That](https://open.spotify.com/album/0WHJCUT9x9kd3FyjAPZS3b) | 3:12 | 2023-10-27 |  |
 | [Limits](https://open.spotify.com/track/0I9tcuy5MfjZQyVrtJXUxy) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Fractals](https://open.spotify.com/album/7exs0W7HrIu3T3oR0kX9oS) | 5:58 | 2022-02-17 | 2022-07-02 |
 | [Lion](https://open.spotify.com/track/5vrN7cbh6FK5ThqdtbQQPW) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Lion EP](https://open.spotify.com/album/7a7AK0fIqXXx3m40R18Df1) | 4:29 | 2022-02-17 | 2022-07-28 |
 | [Lion \(feat Taso\)](https://open.spotify.com/track/0IvYno5HGUyEGjvsLoG7Bg) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [Lion EP ‎](https://open.spotify.com/album/3UjQpyEBXYYdhUsA2nvGEI) | 4:29 | 2022-07-08 |  |
@@ -453,7 +455,7 @@
 | [Telling Me Nothing](https://open.spotify.com/track/4oZzKl23R31U9yhCtXaC7x) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Method Sound](https://open.spotify.com/artist/3bdo0nDKT9KoqHhmJiowqT), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [Stutter \- EP](https://open.spotify.com/album/2ywexsHX1MUToJaByaEYYQ) | 5:08 | 2022-09-02 |  |
 | [Terrorist](https://open.spotify.com/track/3sTILrfXTqgroX8Wo5ZxAs) | [Karma](https://open.spotify.com/artist/1ddaxtrmw7YbvxBWXWN33T) | [Terrorist](https://open.spotify.com/album/4HCyrvjUbe7DU7ohhAUwuu) | 5:27 | 2022-02-17 | 2022-07-02 |
 | [Testing Sound](https://open.spotify.com/track/4cbLvZqHpxSNlqGhfTNflt) | [Angelic Root](https://open.spotify.com/artist/2IGcAJYGBT9FtD8mgcfbKg) | [Motion EP](https://open.spotify.com/album/5GxyfDU6P0uu0EpFIT67tM) | 6:10 | 2022-02-17 | 2022-11-19 |
-| [The 14th](https://open.spotify.com/track/7CHsUpayQRImko52ncm6nX) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Far North Dubs EP](https://open.spotify.com/album/25iJRCx5VAdSDFFWCWlIjy) | 6:29 | 2022-02-17 |  |
+| [The 14th](https://open.spotify.com/track/7CHsUpayQRImko52ncm6nX) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Far North Dubs EP](https://open.spotify.com/album/25iJRCx5VAdSDFFWCWlIjy) | 6:29 | 2022-02-17 | 2023-10-29 |
 | [The Beez](https://open.spotify.com/track/4W1esPFRUVXBd8TQnIEJ3g) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO) | [The Beez / Eye2Eye](https://open.spotify.com/album/3PSQYHwiwkljes7cC3h0za) | 4:32 | 2022-02-17 | 2022-07-22 |
 | [The Boxer \- Kromestar’s Southpaw Mix](https://open.spotify.com/track/12FMwQAwDtfKnrG8RmQdo0) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW), [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO) | [The Boxer / Swish \(Kromestar Remixes\)](https://open.spotify.com/album/2TmTOGesWGTAcEdfybwrmo) | 5:36 | 2022-02-17 | 2022-07-08 |
 | [The Circle](https://open.spotify.com/track/1go8uqfAPRG3gQzpxHGFG1) | [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [The Circle](https://open.spotify.com/album/7xNlJgqyqS423FzTUXOea7) | 3:49 | 2023-04-28 |  |

@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-324 songs - 23 hr 25 min
+325 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Nika's Dream](https://open.spotify.com/track/5AyOFrWHuWBhUnuSfla0Ys) | [Nils Wülker](https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o), [Munich Radio Orchestra](https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX), [Patrick Hahn](https://open.spotify.com/artist/31BzMXuwWSXeEDfmr8KKnK) | [Nika's Dream](https://open.spotify.com/album/7AjHM0rq9v2fUFdITi9vtB) | 4:29 | 2022-03-11 | 2022-05-26 |
 | [Niobe](https://open.spotify.com/track/1cG3AuFMfDyVCMb5BbYFLo) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Niobe](https://open.spotify.com/album/46vWorTcjLlFIAYR1ua95i) | 6:20 | 2021-12-17 |  |
 | [Nocturnal Serenade](https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Nocturnal Serenade](https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ) | 4:12 | 2023-05-04 |  |
+| [Nocturnal Whispers](https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Nocturnal Whispers](https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9) | 4:27 | 2023-10-27 |  |
 | [Not Nice At All](https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Not Nice At All](https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH) | 2:56 | 2023-09-22 |  |
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-11-11 |  |
 | [Oasis](https://open.spotify.com/track/5id8E9yAsSjcuSyCqTQEXp) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Watercolors](https://open.spotify.com/album/0zlSV683pRVrcTmtyQ8IZ9) | 4:02 | 2022-06-29 | 2023-01-15 |
@@ -241,7 +242,7 @@
 | [Skulde Jeg Min Gud Ei Prise](https://open.spotify.com/track/1HXwAUJtPHyERRMGktllqi) | [Ingebrigt Håker Flaten & Håkon Kornstad](https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF) | [Elise](https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d) | 3:33 | 2021-12-17 | 2022-10-07 |
 | [Slaraffenland](https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN) | [Jakob Dinesen](https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0) | [One Kiss Too Many](https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM) | 3:20 | 2021-12-17 |  |
 | [Sleep Safe and Warm](https://open.spotify.com/track/3hJRy5BPeQ9a0aL0UPLByG) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Summerwind](https://open.spotify.com/album/4O3nk9VY0eisrO7ElPQguX) | 4:25 | 2022-05-25 | 2022-09-01 |
-| [Solstice](https://open.spotify.com/track/6AE9COwzDi5jf92AQgGWKE) | [Kaisa](https://open.spotify.com/artist/1GbJRt2lt5B6xqHE7DzDL1) | [Circuits](https://open.spotify.com/album/5lI3qpMTIWBJxuk5cVVQMw) | 4:10 | 2023-06-21 |  |
+| [Solstice](https://open.spotify.com/track/6AE9COwzDi5jf92AQgGWKE) | [Kaisa](https://open.spotify.com/artist/1GbJRt2lt5B6xqHE7DzDL1) | [Circuits](https://open.spotify.com/album/5lI3qpMTIWBJxuk5cVVQMw) | 4:10 | 2023-06-21 | 2023-10-29 |
 | [Sometimes It Snows In April](https://open.spotify.com/track/4o7cuGElwNfemVOs49Ye4b) | [Julia Hülsmann Quartet](https://open.spotify.com/artist/4F07h7WrleCZq4b6YLlBrd) | [The Next Door](https://open.spotify.com/album/0nHbsspbfUrQvpR5XcGZsL) | 3:59 | 2022-08-31 |  |
 | [Sometimes We Do](https://open.spotify.com/track/4iWhQq5tD1XZVRhhpFdIS4) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Sometimes We Do](https://open.spotify.com/album/7cr2yeKvQHEpvvTPcl29zs) | 3:24 | 2023-02-14 |  |
 | [Song Dust](https://open.spotify.com/track/6xyDGPD0MeceKsXQ0OcZ8y) | [Karl Strømme](https://open.spotify.com/artist/5jw4NHPslG7CRCah8PbK7F) | [Song Dust](https://open.spotify.com/album/3gjZxipq6EELnrScGPc750) | 5:33 | 2022-02-03 |  |

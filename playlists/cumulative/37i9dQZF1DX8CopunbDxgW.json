@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Indigo Jack",
+        "url": "https://open.spotify.com/album/3wdYd1iZDlAH4wXNz9VPoK"
+      },
+      "artists": [
+        {
+          "name": "Huron John",
+          "url": "https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172311,
+      "name": "3D PICTURES",
+      "url": "https://open.spotify.com/track/6pDMpZkD5slXJgJAWfiSqv"
+    },
+    {
+      "album": {
         "name": "3rd floor",
         "url": "https://open.spotify.com/album/4MEyXHjdufmgdEHTaeMlCU"
       },
@@ -850,7 +868,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 188800,
       "name": "All the Good Times Never Die",
       "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 253200,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w"
@@ -6921,6 +6939,28 @@
     },
     {
       "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/6PBYAA2PcyiiB8p6dYAGyV"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        },
+        {
+          "name": "Taylor Skye",
+          "url": "https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242362,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/2Hgtu5s75EqH0skGGdICIr"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/0mP4FWMK4wPnA3WCH6VxTz"
       },
@@ -7132,6 +7172,24 @@
       "duration_ms": 260169,
       "name": "Guy - L\u2019Imp\u00e9ratrice Remix",
       "url": "https://open.spotify.com/track/5wsKiOZoRGpSbPS0bidI4D"
+    },
+    {
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204067,
+      "name": "Habla Con Ella",
+      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
     },
     {
       "album": {
@@ -7394,7 +7452,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 257799,
       "name": "Heavier",
       "url": "https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18"
@@ -10067,6 +10125,24 @@
     },
     {
       "album": {
+        "name": "In Touch",
+        "url": "https://open.spotify.com/album/1tTTWPiuqDvopsS3bY1pj1"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225320,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3uBukmF5QcHj4RjX7EV5wU"
+    },
+    {
+      "album": {
         "name": "let me go*",
         "url": "https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK"
       },
@@ -10968,7 +11044,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 262369,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2S3nwkJOnoNGGL40EWCBWW"
@@ -11078,7 +11154,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 172004,
       "name": "lovergirl - veggi remix",
       "url": "https://open.spotify.com/track/0t0FRj21IhRtgxbV5BNf1b"
@@ -13807,6 +13883,24 @@
     },
     {
       "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/0l85VvoNCFxwZfXYZ50pU3"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291637,
+      "name": "People In Motion",
+      "url": "https://open.spotify.com/track/70c00UZyEeUF7VdEbSNMT5"
+    },
+    {
+      "album": {
         "name": "Personal Effects",
         "url": "https://open.spotify.com/album/7KqU1iCysBTl3Q8DH3oma9"
       },
@@ -15103,6 +15197,24 @@
     },
     {
       "album": {
+        "name": "Satisfy You",
+        "url": "https://open.spotify.com/album/5tkytLQFtBzhfXtXhrWVYg"
+      },
+      "artists": [
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "Satisfy You",
+      "url": "https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq"
+    },
+    {
+      "album": {
         "name": "SATURDAY",
         "url": "https://open.spotify.com/album/3IGh2i915r40b1qHzWwx8m"
       },
@@ -16311,6 +16423,24 @@
     },
     {
       "album": {
+        "name": "Jaguar",
+        "url": "https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215158,
+      "name": "Stolen",
+      "url": "https://open.spotify.com/track/1ykt4FccCEkspnAP8G5544"
+    },
+    {
+      "album": {
         "name": "STR8 UP",
         "url": "https://open.spotify.com/album/0H0iipofZO30cxecdHGALI"
       },
@@ -16764,7 +16894,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 172533,
       "name": "Sushi in Wyoming",
       "url": "https://open.spotify.com/track/0Cl6j6DgLeGhnyI1FR7eY6"
@@ -18278,7 +18408,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 206000,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/0J1UJG2vXr9CL2p7dppSjb"
@@ -19936,7 +20066,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 190600,
       "name": "You Don't Ignore (Too Late)",
       "url": "https://open.spotify.com/track/2uWCpK3UYOCF4lDcE36XHM"
@@ -20042,6 +20172,32 @@
       "duration_ms": 226779,
       "name": "Young",
       "url": "https://open.spotify.com/track/70STqK5eCMIxVJ6zMFMGrZ"
+    },
+    {
+      "album": {
+        "name": "Young Folks",
+        "url": "https://open.spotify.com/album/1Wr3TqDX4bDzWELjH0kTE5"
+      },
+      "artists": [
+        {
+          "name": "Dom Valentino",
+          "url": "https://open.spotify.com/artist/1eWXBPrs5K5aZXTIWdIlPe"
+        },
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        },
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249022,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/0XMWc0qrKeJnRzzyMj9Q7D"
     },
     {
       "album": {

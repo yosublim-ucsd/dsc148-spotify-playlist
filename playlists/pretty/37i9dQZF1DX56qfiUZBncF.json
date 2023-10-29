@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 379609,
+  "num_followers": 379621,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjcwOTJlNjEwOTU5Y2VmZmFkZjE4YzQwYWMxZjk3ZWM5NDY1ZDQx",
+  "snapshot_id": "MCxiOGM0MjkzNjgzMmQ0YTcxMjBmYzlmODI3ODMzMDRkN2YxOTI1ZjMz",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "In Cold Blood",
+      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "RELAXER",
-        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "In Cold Blood",
-      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Until We Meet Again",
-        "url": "https://open.spotify.com/album/4rYFRnhDXnSduTCS4BgAZd"
+        "name": "Romantic Images",
+        "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        },
+        {
+          "name": "Wild Nothing",
+          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
         }
       ],
-      "duration_ms": 268000,
-      "name": "I Can't Believe I Had You",
-      "url": "https://open.spotify.com/track/7n4UFFZEY1HfF87DfG2LZ4"
+      "duration_ms": 247934,
+      "name": "Emotion feat. Wild Nothing",
+      "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1071,22 +1075,42 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Romantic Images",
-        "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/4rYFRnhDXnSduTCS4BgAZd"
       },
       "artists": [
         {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        },
-        {
-          "name": "Wild Nothing",
-          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 247934,
-      "name": "Emotion feat. Wild Nothing",
-      "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
+      "duration_ms": 268000,
+      "name": "I Can't Believe I Had You",
+      "url": "https://open.spotify.com/track/7n4UFFZEY1HfF87DfG2LZ4"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 199768,
+      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1135,30 +1159,6 @@
       "duration_ms": 234811,
       "name": "Frail State Of Mind",
       "url": "https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Subconsciously",
-        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 199768,
-      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
-      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Beverly Blues",
+        "url": "https://open.spotify.com/album/35YyNe6AI5txgMjdHrhl4Y"
+      },
+      "artists": [
+        {
+          "name": "Opia",
+          "url": "https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "Four Winds",
+      "url": "https://open.spotify.com/track/18ZlXU6zRcjPcxdGwr8gC9"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "What Kinda Music (Jordan Rakei Remix)",
         "url": "https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 340729,
       "name": "What Kinda Music - Jordan Rakei Remix",
       "url": "https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Beverly Blues",
-        "url": "https://open.spotify.com/album/35YyNe6AI5txgMjdHrhl4Y"
-      },
-      "artists": [
-        {
-          "name": "Opia",
-          "url": "https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "Four Winds",
-      "url": "https://open.spotify.com/track/18ZlXU6zRcjPcxdGwr8gC9"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
-      },
-      "artists": [
-        {
-          "name": "Oceanic",
-          "url": "https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Iridescent",
         "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 202906,
       "name": "Santa Monica",
       "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
+      },
+      "artists": [
+        {
+          "name": "Oceanic",
+          "url": "https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
     },
     {
       "added_at": "2023-01-11 21:01:15",

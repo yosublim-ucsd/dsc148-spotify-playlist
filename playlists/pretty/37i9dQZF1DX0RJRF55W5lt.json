@@ -1,12 +1,12 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 505627,
+  "num_followers": 505815,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWE4NDUwMDAzMDlkYjE4YmY2YWE4ZWZlNDllOGVmNDE4Y2EwYTBj",
+  "snapshot_id": "MCw2Yjg4OTJkZDU0MDZhYmQ5MThlODYxNzE5NTBlY2MzMzMyMDYyYWNk",
   "tracks": [
     {
       "added_at": "2023-08-11 10:13:10",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
+        "name": "RIP Groove",
+        "url": "https://open.spotify.com/album/1b5NUoEx4BCuzQgg0X2ZXE"
+      },
+      "artists": [
+        {
+          "name": "Double 99",
+          "url": "https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "RIP Groove - Radio Edit",
+      "url": "https://open.spotify.com/track/47zdicM0GhuAVBNUBvBbf0"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
         "name": "Garage Girls",
         "url": "https://open.spotify.com/album/1fL1Un5OtmTDzL8jWOfy0M"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 200333,
       "name": "Garage Girls - Sunship Radio Edit",
       "url": "https://open.spotify.com/track/4P5Rntc1SI0IGeqlrWJQCq"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
-        "name": "RIP Groove",
-        "url": "https://open.spotify.com/album/1b5NUoEx4BCuzQgg0X2ZXE"
-      },
-      "artists": [
-        {
-          "name": "Double 99",
-          "url": "https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "RIP Groove - Radio Edit",
-      "url": "https://open.spotify.com/track/47zdicM0GhuAVBNUBvBbf0"
     },
     {
       "added_at": "2023-08-11 10:13:10",
@@ -579,46 +579,6 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
-        "name": "Woman Trouble",
-        "url": "https://open.spotify.com/album/1RclMI8jt1X283Rebj2yt7"
-      },
-      "artists": [
-        {
-          "name": "Artful Dodger",
-          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
-        },
-        {
-          "name": "Robbie Craig",
-          "url": "https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 423250,
-      "name": "Woman Trouble - Remix",
-      "url": "https://open.spotify.com/track/6PsWyOvFbmIprcCc56ua46"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
-        "name": "They Don't Know",
-        "url": "https://open.spotify.com/album/39adZ9WsxbgqLpHP2FLDWO"
-      },
-      "artists": [
-        {
-          "name": "So Solid Crew",
-          "url": "https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH"
-        }
-      ],
-      "duration_ms": 348160,
-      "name": "Envy (They Don't Know Vocal Remix)",
-      "url": "https://open.spotify.com/track/1GpOWSP9X3lo05xbtEmvuV"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
         "name": "Freak Like Me",
         "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
       },
@@ -639,6 +599,46 @@
       "duration_ms": 292533,
       "name": "Freak Like Me - Dome's Peak Freak Remix",
       "url": "https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/39adZ9WsxbgqLpHP2FLDWO"
+      },
+      "artists": [
+        {
+          "name": "So Solid Crew",
+          "url": "https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH"
+        }
+      ],
+      "duration_ms": 348160,
+      "name": "Envy (They Don't Know Vocal Remix)",
+      "url": "https://open.spotify.com/track/1GpOWSP9X3lo05xbtEmvuV"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
+        "name": "Woman Trouble",
+        "url": "https://open.spotify.com/album/1RclMI8jt1X283Rebj2yt7"
+      },
+      "artists": [
+        {
+          "name": "Artful Dodger",
+          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
+        },
+        {
+          "name": "Robbie Craig",
+          "url": "https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 423250,
+      "name": "Woman Trouble - Remix",
+      "url": "https://open.spotify.com/track/6PsWyOvFbmIprcCc56ua46"
     },
     {
       "added_at": "2023-08-11 10:13:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
-        "name": "Deep Inside (Remixes)",
-        "url": "https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 145940,
-      "name": "Deep Inside - Shadow Child Remix Edit",
-      "url": "https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
         "name": "Friendly Pressure (Sunship Remixes)",
         "url": "https://open.spotify.com/album/4xL1q1T0osu9ecX7OCbf84"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 229760,
       "name": "Friendly Pressure - Into The Sunshine Edit",
       "url": "https://open.spotify.com/track/7vfIghWey3FItmcZXZy2fE"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
+        "name": "Deep Inside (Remixes)",
+        "url": "https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 145940,
+      "name": "Deep Inside - Shadow Child Remix Edit",
+      "url": "https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM"
     },
     {
       "added_at": "2023-08-11 10:13:10",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
+        "name": "PAY CLOSE ATTENTION: XL Recordings",
+        "url": "https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw"
+      },
+      "artists": [
+        {
+          "name": "NuBirth",
+          "url": "https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G"
+        }
+      ],
+      "duration_ms": 320156,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
         "name": "Rewind - The Collection",
         "url": "https://open.spotify.com/album/1YI5yNJkzhBpN0BoK9AO4B"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 215106,
       "name": "Where's Your Love (feat. Tinchy Stryder)",
       "url": "https://open.spotify.com/track/5TqqQILsOAUHTnaTieeMBN"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
-        "name": "PAY CLOSE ATTENTION: XL Recordings",
-        "url": "https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw"
-      },
-      "artists": [
-        {
-          "name": "NuBirth",
-          "url": "https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G"
-        }
-      ],
-      "duration_ms": 320156,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc"
     },
     {
       "added_at": "2023-08-11 10:13:10",
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI"
+        "name": "Oyster Music - The MJ Cole Mixes",
+        "url": "https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY"
       },
       "artists": [
         {
-          "name": "Gerideau",
-          "url": "https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ"
+          "name": "Shaun Escoffery",
+          "url": "https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz"
         },
         {
           "name": "MJ Cole",
           "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
         }
       ],
-      "duration_ms": 389600,
-      "name": "Masquerade - MJ Cole Vocal",
-      "url": "https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ"
+      "duration_ms": 315040,
+      "name": "Space Rider - MJ Cole Vocal Mix",
+      "url": "https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW"
     }
   ],
   "unique_name": "UK Garage Classics",

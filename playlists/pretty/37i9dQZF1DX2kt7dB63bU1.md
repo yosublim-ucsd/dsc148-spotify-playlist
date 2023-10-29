@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,387 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,453 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 21 | [Who Are You Dreaming Of](https://open.spotify.com/track/1NmjyMJ8V0vJyKnqujBvCT) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:25 |
 | 22 | [A Fine Romance](https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [You're Alike, You Two](https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz) | 4:13 |
 | 23 | [Peach Velvet Sky](https://open.spotify.com/track/1r9Xoxz09kMbcIEm7WfjkF) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Peach Velvet Sky](https://open.spotify.com/album/4kaMFxOjrLmf2jEQWJkNW9) | 5:50 |
-| 24 | [I Am What I Am](https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [I Am What I Am](https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv) | 5:32 |
+| 24 | [I Am What I Am](https://open.spotify.com/track/2yNAX7gJ7d8jInRnXtINEE) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Veronica Swift](https://open.spotify.com/album/053XeiFx1CVMD0sU3gZ8f8) | 5:32 |
 | 25 | [The Healing](https://open.spotify.com/track/0ZkpaZtDYH1ibxz3rfXApD) | [Raina Sokolov\-Gonzalez](https://open.spotify.com/artist/0o5z8wisVmLT0Ta3vxOPjU) | [The Healing](https://open.spotify.com/album/1zshc1VJ8P9b852xdHybMC) | 3:59 |
 | 26 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
 | 27 | [Pick Yourself Up](https://open.spotify.com/track/7ivKNAmR9kyuWNIDqZ09n3) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Pick Yourself Up](https://open.spotify.com/album/6VMr6sgE1dyMAas9ntv4WB) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Brighter Sun](https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Brighter Sun](https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N) | 4:06 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCxlZjEzMzlhNmQ1ZmM4YzRjNTg1NmUzMzJjYmVlZTMxNjhiOGIyMjc2`
+Snapshot ID: `MCw4ZGQwMzQ1NTJlNzQzNmM1Yzk0MGNlNzdhMDU2MGZjYTYxNTJmNTgy`

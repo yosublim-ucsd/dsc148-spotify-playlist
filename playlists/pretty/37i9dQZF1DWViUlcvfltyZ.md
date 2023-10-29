@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Any Other
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,483 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,504 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 74 | [Rossetto](https://open.spotify.com/track/65TUe2ZU0gG23xANNj3q6g) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Rossetto](https://open.spotify.com/album/6zUBlbn5dgLDIfsku4zQqy) | 2:50 |
 | 75 | [Medioriente](https://open.spotify.com/track/1DRTAkWNgNyjUknJ5zcXQE) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Medioriente / Miku五](https://open.spotify.com/album/2f31VolieJe7o0J9m1en3I) | 6:21 |
 
-Snapshot ID: `MCw4ZGMyZjg3OTAzNGU1MjUwNmY4ZWMyOTZhYTY1M2JjODlhMzExYjEy`
+Snapshot ID: `MCwzYTU1M2M1NjQyZGU2Y2JlYzM1ODBlMDc4NDVlMzIzOTI0ZmY4M2Vm`

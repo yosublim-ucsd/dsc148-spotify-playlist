@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-487 songs - 1 day 5 hr 12 min
+488 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 | 2023-03-31 | 2023-07-04 |
 | [Duda Morena](https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX) | 4:53 | 2021-10-20 | 2023-10-15 |
 | [Duda Morena](https://open.spotify.com/track/3U0VWhffr8bNtIb9NXLsAF) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/14izgFmt2bYnz6GT6utXKG) | 4:53 | 2021-10-20 | 2022-07-27 |
+| [Duda Morena](https://open.spotify.com/track/77DfJYwlIxQFbcNoZcVjuh) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/1n7pvXzyXqEDCrCaR7SJbc) | 4:53 | 2021-10-20 |  |
 | [Dulce Pa' Mí](https://open.spotify.com/track/1NU1H9woXBAeu31yHSrw6u) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | [Dulce Pa' Mí](https://open.spotify.com/album/4sb1Sjex902EaMNRHvY5eO) | 2:33 | 2021-10-20 | 2023-04-01 |
 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 | 2021-10-20 | 2022-07-17 |
 | [El Amor de Mis Amores](https://open.spotify.com/track/3VMeU0sACQdj1UARj7ocL6) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [El Amor De Mis Amores](https://open.spotify.com/album/1iMMo1XpLmlVMtYMxLYDqS) | 3:24 | 2021-10-20 | 2022-07-29 |
@@ -472,7 +473,7 @@
 | [Vámonos al Mar \(Con Dr\. Shenka\)](https://open.spotify.com/track/4gxmMu1wYIK3x8kSgRBbjD) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Vámonos al Mar \(Con Dr\. Shenka\)](https://open.spotify.com/album/0WPEKy8mfwAZlltviK2KdD) | 4:10 | 2021-10-20 | 2022-07-29 |
 | [Váyanse Todos A Mamá](https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 4:59 | 2021-10-20 |  |
 | [Vértigo](https://open.spotify.com/track/1VgQ6AZ8tVV0uhvhH9usuj) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vértigo](https://open.spotify.com/album/19MUIINT0CT8vfZwAGW3RR) | 3:26 | 2021-10-20 | 2022-04-13 |
-| [Vértigo](https://open.spotify.com/track/227nezDEiXyyQvUyGsB2S0) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:27 | 2021-10-20 |  |
+| [Vértigo](https://open.spotify.com/track/227nezDEiXyyQvUyGsB2S0) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:27 | 2021-10-20 | 2023-10-29 |
 | [Wannajuato](https://open.spotify.com/track/43CGfpQS2COhomAP9V6Dhf) | [Fideo y los del mondo](https://open.spotify.com/artist/3ehZ9dXAC3o9SXooeNSeN8) | [Wannajuato](https://open.spotify.com/album/0b3SzKRYVbtzi04Bp7uGFT) | 3:00 | 2021-10-20 | 2022-07-28 |
 | [Whisky](https://open.spotify.com/track/3YNtQ1j13MNwbOY1KxtTcS) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Whisky](https://open.spotify.com/album/4HYSkSJVXmPqv7gIt6cSTq) | 3:15 | 2022-03-18 | 2022-07-19 |
 | [Wifi Beach](https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:12 | 2021-10-20 | 2022-08-05 |

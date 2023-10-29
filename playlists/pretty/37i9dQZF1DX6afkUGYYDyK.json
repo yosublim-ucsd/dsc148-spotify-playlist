@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 17912,
+  "num_followers": 17924,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2E3M2MyNzBiZjNmN2ZiY2ZkMGEyMTc1MjBmMWRkMTVjMjZjNzFl",
+  "snapshot_id": "MCwxNzkyOTFiYWRmNDM1ZGRmYWYwZTQ5MTY5NWQ5N2RmZmU0MzU4N2Nk",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -599,38 +599,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Give Thanks (Live)",
-        "url": "https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        }
-      ],
-      "duration_ms": 254426,
-      "name": "Give Thanks - Live",
-      "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Pour Your Spirit Out (Live)",
-        "url": "https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        }
-      ],
-      "duration_ms": 353282,
-      "name": "Always So Good - Live",
-      "url": "https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "God of the Ages (Live At The Manor)",
         "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
       },
@@ -655,6 +623,38 @@
       "duration_ms": 256437,
       "name": "God of the Ages - Single Version - Live",
       "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Pour Your Spirit Out (Live)",
+        "url": "https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        }
+      ],
+      "duration_ms": 353282,
+      "name": "Always So Good - Live",
+      "url": "https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Give Thanks (Live)",
+        "url": "https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
+        }
+      ],
+      "duration_ms": 254426,
+      "name": "Give Thanks - Live",
+      "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
     },
     {
       "added_at": "2022-11-23 15:01:23",

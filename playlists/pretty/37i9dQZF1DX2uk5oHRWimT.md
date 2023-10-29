@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,973 likes - 134 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,003 likes - 134 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'll Be Home for Christmas](https://open.spotify.com/track/4jbe59AoOM81GJQ8tT8IZy) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [I'll Be Home for Christmas](https://open.spotify.com/album/5bniqKvnu2j876NboUuw0Y) | 2:01 |
 | 2 | [Holy, Holy, Holy](https://open.spotify.com/track/4NTab2bmkCKaCB4F2qvDdg) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:50 |
-| 3 | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/00BFJckRTYu3QeeZRq15qf) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/album/6KWhYyuzKStMgcvDdRJFwW) | 3:35 |
+| 3 | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/1mcK8CwRiYfxW3Bq0yaZQr) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Christmas Together \(Wherever We Are\)](https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx) | 3:35 |
 | 4 | [Silent Night](https://open.spotify.com/track/4tKvRSfIjFQyrPMEes4uGd) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [It's Our Favorite Time of Year](https://open.spotify.com/album/0L9g2oXz83mY783Motpo94) | 5:08 |
 | 5 | [O Come All Ye Faithful](https://open.spotify.com/track/1p1E8aR3qUxZZ1uC65qRz4) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 5:27 |
 | 6 | [Silver Bells](https://open.spotify.com/track/24Vowd4cVtxt1WcahC23dZ) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Jingle Your Bells](https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6) | 4:10 |
 | 7 | [O Holy Night](https://open.spotify.com/track/7hWs7SHdvZQVtEyWBha5QG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [O Holy Night](https://open.spotify.com/album/0xj9dGod1YUIMOgYHto1nU) | 2:35 |
-| 8 | [Little Drummer Boy](https://open.spotify.com/track/29fdyIvVGmhRqj0rMOfaJi) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [On Christmas Day](https://open.spotify.com/album/0Enxtkz1M9zc020K4qVrc3) | 3:10 |
+| 8 | [Little Drummer Boy](https://open.spotify.com/track/1MsQrudFU2meSwhQufVqVZ) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Mellow Christmas Acoustic](https://open.spotify.com/album/7a9xO4nvdqFcrMb2eHtojJ) | 3:10 |
 | 9 | [Silver Bells](https://open.spotify.com/track/6g2yyTTnyEVr9VZjVexg1J) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Fireside](https://open.spotify.com/album/1RQbuf7X5Xy2KfrTwi6DR9) | 2:43 |
 | 10 | [Blue Christmas](https://open.spotify.com/track/7rTHZv5l8ibgPUW24qfmwj) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Blue Christmas](https://open.spotify.com/album/2NnZ0WkPHuDd3IYiROdB7E) | 2:05 |
 | 11 | [Christmas Dream](https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Maybe This Christmas, Vol\. 7: The Christmas Cottage](https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2) | 2:57 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 91 | [Christmas Day](https://open.spotify.com/track/6QfjvDB63IGxWNtjySyh9F) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:28 |
 | 92 | [The First Noel](https://open.spotify.com/track/0xo74ue4eAko2WXco63cfv) | [The Ruby Pines](https://open.spotify.com/artist/4KO4HRGHPSH7HtGn8gAOpl) | [Walker in a Winter Wonderland](https://open.spotify.com/album/0UhF379fa6PvnfLTsBngqa) | 2:21 |
 | 93 | [Christmas Eve](https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2) | 4:22 |
-| 94 | [Christmas TV](https://open.spotify.com/track/0kHjHqxChomxRGyemgnPZb) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Christmas Thanks For Nothing EP](https://open.spotify.com/album/5XYnX9vysTaxSLegXX4ML2) | 4:32 |
+| 94 | [Christmas TV](https://open.spotify.com/track/6MqcFVnTw1hUuNxx6SiJQf) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Yeah So \(Deluxe\)](https://open.spotify.com/album/0NvgdpQFW2id6ilhNJ3YH9) | 4:32 |
 | 95 | [Have Yourself a Merry Little Christmas \- Live at the Mac](https://open.spotify.com/track/1WHRjzb9yzWvawfIQDvZln) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Have Yourself a Merry Little Christmas \(Live at the Mac\)](https://open.spotify.com/album/5CNa7ShStDgPpCNu6Firf8) | 4:10 |
 | 96 | [Christmas Song](https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Bands Under the Radar, Vol\. 3: A Very Indie Xmas](https://open.spotify.com/album/5h9XjfTvHmyyEguisaCi8F) | 3:11 |
 | 97 | [This December](https://open.spotify.com/track/03jjfF3WRY8cUOsf8yFIVw) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 3:56 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 133 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 134 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MCwzMTYyZjZiMjhkNjkyMzg2YjU3ZjgyNTY5NWE4OWU0MGMzZTJiZDI2`
+Snapshot ID: `MCw3ZGIyYWI0M2Q5YzEwN2ZiNTU3Zjk4NWYyMjcxMmQ3Y2YwMzBlNDRk`

@@ -4,7 +4,7 @@
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 
-32 songs - 2 hr 6 min
+33 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/1dnTzkUEdwm9jrmdpKSfWU) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/1tIrtPivfbpXp1Fp9fdhsg) | 3:16 | 2019-06-18 | 2022-07-29 |
 | [Message From A Black Man](https://open.spotify.com/track/7uwymVAAwqC5VI5IUkGt6s) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Psychedelic Soul](https://open.spotify.com/album/5zPOHYH3syqB7vMfo6hs6G) | 6:04 | 2019-06-18 |  |
 | [My People...Hold On](https://open.spotify.com/track/5zKAlrdrdEkBkylhwT3cqH) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 5:40 | 2019-06-18 |  |
-| [O\-o\-h Child](https://open.spotify.com/track/4huOPF1DlqeSkF3PPcUYcJ) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Best Of The Spinners](https://open.spotify.com/album/1YtoIFW84QtpYVlkOR8xTe) | 3:13 | 2019-06-18 |  |
+| [O\-o\-h Child](https://open.spotify.com/track/0VJoFFSeE2s60sjbKrtLfV) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:13 | 2019-06-18 |  |
+| [O\-o\-h Child](https://open.spotify.com/track/4huOPF1DlqeSkF3PPcUYcJ) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Best Of The Spinners](https://open.spotify.com/album/1YtoIFW84QtpYVlkOR8xTe) | 3:13 | 2019-06-18 | 2023-10-29 |
 | [Penitentiary Philosophy](https://open.spotify.com/track/4Nngx0azfbJibdS5oT3dG8) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:09 | 2019-06-18 |  |
 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 | 2019-06-18 |  |
 | [Standing In The Shadows Of Love](https://open.spotify.com/track/2sD2XkPogLt7keXttj7F9o) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:37 | 2019-06-18 |  |

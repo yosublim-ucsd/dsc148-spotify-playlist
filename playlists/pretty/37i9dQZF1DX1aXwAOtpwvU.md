@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>, <a href="spotify:artist:6W1NclX9rP93bkhQEOQtm4">Frank Leen</a>, <a href="spotify:artist:4ccurDUZ48cXNrcrLsA9ub">IGNACY</a>, <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>, <a href="spotify:artist:5kH7ZateqBrrUv6u6snhnp">ta Ukrainka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,056 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,059 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 5 | [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 |
 | 6 | [Most](https://open.spotify.com/track/0fXNGgMLZB6jbh7RPOYBzW) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Most](https://open.spotify.com/album/2teOtNxv6PC6wvDk9UQKXf) | 2:55 |
 | 7 | [Bez](https://open.spotify.com/track/6w3REoiYbuW9QxpRBJqnTt) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Bez](https://open.spotify.com/album/37ThOEHqHwrI6oNLaZujtH) | 3:23 |
-| 8 | [Millie Walky](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [Millie Walky](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 |
+| 8 | [MILLIE WALKY](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [MILLIE WALKY](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 |
 | 9 | [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 |
 | 10 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 |
 | 11 | [Złudzenia](https://open.spotify.com/track/2n5jDzn5XWO90vc6C7zRAs) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Złudzenia](https://open.spotify.com/album/2ISFdvufeOH0wtRUfF39RZ) | 3:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/track/76jCSzHssCZuaQ1rEyi8Df) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs) | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/album/6baYZ2q3O6NqAjB6FZ0lhX) | 2:13 |
 | 60 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `MCw4Y2M5YjVkNWY3ZjMzM2Y4YzlkMDEzMDkxMzY0Y2RmMWJiODg3OTEw`
+Snapshot ID: `MCwxODQ3ZDIxYzkyZTJkODhjYjhlOTgxMDhmNTJmOWFmZTllOGJhZWI2`

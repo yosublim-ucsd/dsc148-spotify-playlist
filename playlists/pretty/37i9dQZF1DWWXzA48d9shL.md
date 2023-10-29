@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,901 likes - 117 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,222 likes - 117 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 39 | [There Goes My Mind](https://open.spotify.com/track/2N5xS8yA9NYU5UTduTpr2l) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [There Goes My Mind](https://open.spotify.com/album/7fwRXiCAcXsWASv4XDzMY6) | 3:38 |
 | 40 | [Midnight Sun](https://open.spotify.com/track/6VruexMGmO8zonX9LIU4cK) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Midnight Sun](https://open.spotify.com/album/0CHvMh24eRmthzRALhsDR4) | 2:04 |
 | 41 | [Remote Viewing](https://open.spotify.com/track/1eI8HkKNt9li7iU4CYcPS7) | [Reptilian God Mana](https://open.spotify.com/artist/160Gy6ij0e6apiTHlAnZOd) | [Remote Viewing](https://open.spotify.com/album/18bDk9vXpDfQdUQCm20mqp) | 1:31 |
-| 42 | [Hurt You Left Inside My Heart](https://open.spotify.com/track/4jSSC6071YIpaZ2y7hBCXV) | [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K) | [Hurt You Left Inside My Heart](https://open.spotify.com/album/2Vz3nlwKS7Id9ceQaSuMHD) | 2:25 |
+| 42 | [Hurt You Left Inside My Heart](https://open.spotify.com/track/6kExzgxrfvldLFsyth3Qt2) | [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K) | [Hurt You Left Inside My Heart](https://open.spotify.com/album/1MgqW7az7PlE29YvEWWhfR) | 2:25 |
 | 43 | [JUNK BUNK FREESTYLE](https://open.spotify.com/track/03SH0B5uTEeiOqGQg3TXoX) | [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [JUNK BUNK FREESTYLE](https://open.spotify.com/album/05ZPaRg4xcVaMJsBRYQe3C) | 1:42 |
 | 44 | [DESIRE](https://open.spotify.com/track/25sabs7iC9eESyOpf0b6CY) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [DESIRE](https://open.spotify.com/album/4HRlH8H0ujyz46QqdEBI51) | 2:21 |
 | 45 | [Atxmic\-Bxmb.](https://open.spotify.com/track/14anA5oIZszxWvvOAfoE8y) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Atxmic\-Bxmb.](https://open.spotify.com/album/5m31ElwTduQrxwXOkAaIPc) | 2:37 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 116 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 | 117 | [GOD MODE!](https://open.spotify.com/track/21yw08HRAH2A7XAse3huYT) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [GOD MODE!](https://open.spotify.com/album/2zHlG0i6QwyFox9mhxynMO) | 2:43 |
 
-Snapshot ID: `MCwyNzdhYWYwMzU2ODQwNTg0OTQ1MTNjN2UyOWFkNWJmNmM2Nzg2M2Yz`
+Snapshot ID: `MCxjZTZhYzZkYmM0MjgyNmJmNDc0MDhhMWRjYTUwMTBjOTAxYTI3M2Yz`

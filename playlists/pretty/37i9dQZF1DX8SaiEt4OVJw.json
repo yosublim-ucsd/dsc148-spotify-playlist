@@ -1,13 +1,45 @@
 {
-  "description": "The Rugby World Cup is here!",
-  "num_followers": 6452,
+  "description": "The Final is here! GO BOKKE!",
+  "num_followers": 9290,
   "original_name": "Locker Room ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTZhNDNhNmE0ZDI2ODhmYjdjZGJhNmRiYTI2YTNlYjY1YmY0OWRi",
+  "snapshot_id": "MCwzOTRkZDQwNDU5MTM3ODQwYjE3ZGMxNDMyOTkzN2VhMjFhNTU0YjA3",
   "tracks": [
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Bokke",
+        "url": "https://open.spotify.com/album/1H5nFZEkb4hE2FYqWdUz18"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "duration_ms": 232330,
+      "name": "Bokke",
+      "url": "https://open.spotify.com/track/4yu5rGWvXcv6Yih8NC3iL7"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Nkalakatha",
+        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
+      },
+      "artists": [
+        {
+          "name": "Mandoza",
+          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Nkalakatha",
+      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
+    },
     {
       "added_at": "2023-09-07 21:59:00",
       "album": {
@@ -45,20 +77,40 @@
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
-      "added_at": "2023-09-07 21:59:00",
+      "added_at": "2023-10-27 05:35:14",
       "album": {
-        "name": "Nkalakatha",
-        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
+        "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+        "url": "https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC"
       },
       "artists": [
         {
-          "name": "Mandoza",
-          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Tyrondee",
+          "url": "https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat"
         }
       ],
-      "duration_ms": 285933,
-      "name": "Nkalakatha",
-      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
+      "duration_ms": 391888,
+      "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+      "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -79,18 +131,38 @@
     {
       "added_at": "2023-09-07 21:59:00",
       "album": {
-        "name": "Springbok Warriors",
-        "url": "https://open.spotify.com/album/4lzgYBUB0Nz9ryhOgn1OcD"
+        "name": "Die Bokmasjien",
+        "url": "https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm"
       },
       "artists": [
         {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+          "name": "Leon Schuster",
+          "url": "https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs"
         }
       ],
-      "duration_ms": 173774,
-      "name": "Springbok Warriors",
-      "url": "https://open.spotify.com/track/79VxpsHEZrgsJxsBetnAJ2"
+      "duration_ms": 226539,
+      "name": "Die Bokmasjien",
+      "url": "https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK"
+    },
+    {
+      "added_at": "2023-10-27 05:35:14",
+      "album": {
+        "name": "Khusela (feat. Msaki)",
+        "url": "https://open.spotify.com/album/2sfjcZkqiS1bQT3zb4EiVL"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 501283,
+      "name": "Khusela (feat. Msaki)",
+      "url": "https://open.spotify.com/track/1mg27ci1uDANuJ2ghZBrir"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -143,6 +215,42 @@
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Hie' Kommie Bokke!",
+        "url": "https://open.spotify.com/album/76zShryg86e4jHykCwBLzm"
+      },
+      "artists": [
+        {
+          "name": "Leon Schuster",
+          "url": "https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs"
+        }
+      ],
+      "duration_ms": 341682,
+      "name": "Hie' Kommie Bokke",
+      "url": "https://open.spotify.com/track/6KRsQtqdY4EilCDbWW1EgV"
+    },
+    {
+      "added_at": "2023-10-27 05:35:14",
+      "album": {
+        "name": "Osama",
+        "url": "https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "duration_ms": 409180,
+      "name": "Osama",
+      "url": "https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -213,20 +321,40 @@
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
     },
     {
-      "added_at": "2023-09-07 21:59:00",
+      "added_at": "2023-10-28 06:31:50",
       "album": {
-        "name": "Bokke",
-        "url": "https://open.spotify.com/album/1H5nFZEkb4hE2FYqWdUz18"
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
       },
       "artists": [
         {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 232330,
-      "name": "Bokke",
-      "url": "https://open.spotify.com/track/4yu5rGWvXcv6Yih8NC3iL7"
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+    },
+    {
+      "added_at": "2023-10-27 05:35:14",
+      "album": {
+        "name": "Jerusalema",
+        "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "duration_ms": 342612,
+      "name": "Jerusalema (feat. Nomcebo Zikode)",
+      "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -281,20 +409,24 @@
       "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
-      "added_at": "2023-09-07 21:59:00",
+      "added_at": "2023-10-27 05:35:14",
       "album": {
-        "name": "Die Bokmasjien",
-        "url": "https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm"
+        "name": "Ka Valungu",
+        "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
       },
       "artists": [
         {
-          "name": "Leon Schuster",
-          "url": "https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs"
+          "name": "Tebza De DJ",
+          "url": "https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez"
+        },
+        {
+          "name": "DJ Nomza The King",
+          "url": "https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie"
         }
       ],
-      "duration_ms": 226539,
-      "name": "Die Bokmasjien",
-      "url": "https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK"
+      "duration_ms": 300302,
+      "name": "Ka Valungu",
+      "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -345,20 +477,20 @@
       "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
     },
     {
-      "added_at": "2023-09-07 21:59:00",
+      "added_at": "2023-10-28 06:31:50",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+        "name": "(It Goes Like) Nanana",
+        "url": "https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+      "duration_ms": 367613,
+      "name": "(It Goes Like) Nanana",
+      "url": "https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -375,6 +507,70 @@
       "duration_ms": 373093,
       "name": "Sister Bethina",
       "url": "https://open.spotify.com/track/3OFwjx4x49bqIi8W7kRzzV"
+    },
+    {
+      "added_at": "2023-10-27 05:35:14",
+      "album": {
+        "name": "Bok Bevange",
+        "url": "https://open.spotify.com/album/5QuA5gCCshTdWEyziA63B3"
+      },
+      "artists": [
+        {
+          "name": "MAEZTRO",
+          "url": "https://open.spotify.com/artist/4SXPlxI5H5fY9JaVAjFqc1"
+        }
+      ],
+      "duration_ms": 192385,
+      "name": "Bok Bevange",
+      "url": "https://open.spotify.com/track/5906qYKTgWzrRrzHOMALZ5"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+    },
+    {
+      "added_at": "2023-10-27 05:35:14",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Springbok Warriors",
+        "url": "https://open.spotify.com/album/4lzgYBUB0Nz9ryhOgn1OcD"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 173774,
+      "name": "Springbok Warriors",
+      "url": "https://open.spotify.com/track/79VxpsHEZrgsJxsBetnAJ2"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -395,22 +591,6 @@
     {
       "added_at": "2023-09-07 21:59:00",
       "album": {
-        "name": "Hie' Kommie Bokke!",
-        "url": "https://open.spotify.com/album/76zShryg86e4jHykCwBLzm"
-      },
-      "artists": [
-        {
-          "name": "Leon Schuster",
-          "url": "https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs"
-        }
-      ],
-      "duration_ms": 341682,
-      "name": "Hie' Kommie Bokke",
-      "url": "https://open.spotify.com/track/6KRsQtqdY4EilCDbWW1EgV"
-    },
-    {
-      "added_at": "2023-09-07 21:59:00",
-      "album": {
         "name": "Comeblack",
         "url": "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd"
       },
@@ -423,6 +603,22 @@
       "duration_ms": 255573,
       "name": "Rock You Like a Hurricane - 2011",
       "url": "https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV"
+    },
+    {
+      "added_at": "2023-10-28 06:31:50",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -473,6 +669,54 @@
       "url": "https://open.spotify.com/track/4nOygULhEuDO5ZBRNPFaso"
     },
     {
+      "added_at": "2023-10-27 05:35:14",
+      "album": {
+        "name": "Uit Die Diepte Van My Hart",
+        "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Kaptein",
+      "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
+    },
+    {
+      "added_at": "2023-10-28 06:31:50",
+      "album": {
+        "name": "South African Hits",
+        "url": "https://open.spotify.com/album/65BonO3IOA4XYbyXQwaMlf"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/2VD3CwwMfrQ9ZZSKw2x4Sv"
+    },
+    {
+      "added_at": "2023-10-27 05:35:14",
+      "album": {
+        "name": "miss me (when you're gone) [remixes]",
+        "url": "https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 184915,
+      "name": "miss me (when you're gone)",
+      "url": "https://open.spotify.com/track/4FEPb06xIBFoqAvpRjliqY"
+    },
+    {
       "added_at": "2023-09-07 21:59:00",
       "album": {
         "name": "The Rising Tied",
@@ -491,6 +735,26 @@
       "duration_ms": 230493,
       "name": "Remember the Name (feat. Styles of Beyond)",
       "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
+    },
+    {
+      "added_at": "2023-10-28 06:31:50",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -513,20 +777,44 @@
       "url": "https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr"
     },
     {
-      "added_at": "2023-09-07 21:59:00",
+      "added_at": "2023-10-27 05:35:14",
       "album": {
-        "name": "Siya Kolisi",
-        "url": "https://open.spotify.com/album/0ANG5WFHxrm0UsyOiR4x7U"
+        "name": "Gqom Is the Future",
+        "url": "https://open.spotify.com/album/0ubZdtHR6nLGW48oH1fzu4"
       },
       "artists": [
         {
-          "name": "Robbie Wessels",
-          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+          "name": "Distruction Boyz",
+          "url": "https://open.spotify.com/artist/44MG6uiTa2VeYlcy6VKDXe"
+        },
+        {
+          "name": "Benny Maverick",
+          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
+        },
+        {
+          "name": "Dladla Mshunqisi",
+          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
         }
       ],
-      "duration_ms": 229677,
-      "name": "Siya Kolisi",
-      "url": "https://open.spotify.com/track/2GeRTXdpGmPIDBTW7maEnK"
+      "duration_ms": 320000,
+      "name": "Omunye",
+      "url": "https://open.spotify.com/track/22hkLLXbp1NZldZurvpjwO"
+    },
+    {
+      "added_at": "2023-10-27 05:35:14",
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 306440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
     }
   ],
   "unique_name": "Locker Room ",

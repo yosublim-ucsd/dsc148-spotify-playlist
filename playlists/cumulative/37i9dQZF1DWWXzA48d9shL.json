@@ -4706,10 +4706,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 145035,
       "name": "Hurt You Left Inside My Heart",
       "url": "https://open.spotify.com/track/4jSSC6071YIpaZ2y7hBCXV"
+    },
+    {
+      "album": {
+        "name": "Hurt You Left Inside My Heart",
+        "url": "https://open.spotify.com/album/1MgqW7az7PlE29YvEWWhfR"
+      },
+      "artists": [
+        {
+          "name": "Beamon",
+          "url": "https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145035,
+      "name": "Hurt You Left Inside My Heart",
+      "url": "https://open.spotify.com/track/6kExzgxrfvldLFsyth3Qt2"
     },
     {
       "album": {

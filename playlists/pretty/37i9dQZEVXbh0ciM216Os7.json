@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMDYzMjAsMDAwMDAwMDAwYTRkZmUwYjJiZGZkZjU5NjE2YTQzZWE3Zjk4NDdlYg==",
+  "snapshot_id": "MjgzMDYzMjAsMDAwMDAwMDA4ZTM4MDYyZTRiMWQ3MDQ0YjIzOTVmOTJiNjEzODFjMw==",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -51,66 +51,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/6loUqWwlUGbR2MOAaUxtz5"
-      },
-      "artists": [
-        {
-          "name": "Owueyh",
-          "url": "https://open.spotify.com/artist/3nd2n8FfLyVhQF69MBafRd"
-        },
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 161690,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/1f7Qc1b1MbQUFB9kUSpl6n"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Dreamteam",
-        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "Dreamteam",
-      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Only the Young (Steve Perry & Bryce Miller Remix)",
-        "url": "https://open.spotify.com/album/1xG7RX2NZgW7jQWkJ7VfH0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        },
-        {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
-        }
-      ],
-      "duration_ms": 215682,
-      "name": "Only the Young - Steve Perry & Bryce Miller Remix",
-      "url": "https://open.spotify.com/track/4qwEhHH34RHH1B16vXj93L"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "The Legacy Series Vol. 2",
         "url": "https://open.spotify.com/album/45fQ7LLQ9s3cVQJrXf0LxR"
       },
@@ -147,6 +87,30 @@
       "duration_ms": 251865,
       "name": "LARP (Feat. Gorillaz)",
       "url": "https://open.spotify.com/track/4Z1PGaoHtN4eHS5zyWPrEP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "iLLdren",
+        "url": "https://open.spotify.com/album/5kbqVZEGqSwINKlGdOEmgx"
+      },
+      "artists": [
+        {
+          "name": "King Iso",
+          "url": "https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Matt Phoenix",
+          "url": "https://open.spotify.com/artist/2mpOeCZ7fAzhQmeXKQU8u8"
+        }
+      ],
+      "duration_ms": 276977,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/1f3kMabwtDX5TaZw2T2DRF"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -195,6 +159,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Dreamteam",
+        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "Dreamteam",
+      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Starla",
         "url": "https://open.spotify.com/album/2bIjr9wL104aZf6RlcbwT9"
       },
@@ -235,6 +219,26 @@
       "duration_ms": 174160,
       "name": "Firework in the Falling Snow - Acoustic Version",
       "url": "https://open.spotify.com/track/3x1Oa8gNgiVvvAEXQb7kSl"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Only the Young (Steve Perry & Bryce Miller Remix)",
+        "url": "https://open.spotify.com/album/1xG7RX2NZgW7jQWkJ7VfH0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        },
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        }
+      ],
+      "duration_ms": 215682,
+      "name": "Only the Young - Steve Perry & Bryce Miller Remix",
+      "url": "https://open.spotify.com/track/4qwEhHH34RHH1B16vXj93L"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -308,7 +312,7 @@
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Hackney Diamonds",
-        "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
+        "url": "https://open.spotify.com/album/3j0kAPRr52jZmyIy4olRK9"
       },
       "artists": [
         {
@@ -318,7 +322,7 @@
       ],
       "duration_ms": 243687,
       "name": "Mess It Up",
-      "url": "https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq"
+      "url": "https://open.spotify.com/track/6fVCPBFgs69jSSM114rGmy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -443,6 +447,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Power Them Off",
+        "url": "https://open.spotify.com/album/5olgCqRatEu1l1MfHv7BWI"
+      },
+      "artists": [
+        {
+          "name": "Jake Sherman",
+          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 400697,
+      "name": "Power Them Off",
+      "url": "https://open.spotify.com/track/1bhuaLmL5HeEfwLkw6dODH"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "I Left My Heart In Ladera",
         "url": "https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw"
       },
@@ -495,26 +519,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Power Them Off",
-        "url": "https://open.spotify.com/album/5olgCqRatEu1l1MfHv7BWI"
-      },
-      "artists": [
-        {
-          "name": "Jake Sherman",
-          "url": "https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 400697,
-      "name": "Power Them Off",
-      "url": "https://open.spotify.com/track/1bhuaLmL5HeEfwLkw6dODH"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "we're going wrong",
         "url": "https://open.spotify.com/album/0cxzv4qbITfKKH1N2lxq65"
       },
@@ -531,6 +535,26 @@
       "duration_ms": 258924,
       "name": "we're going wrong",
       "url": "https://open.spotify.com/track/0ZSKRyeth2Bo3sin3QvC6q"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Pigeon Tunnel (Soundtrack from the Apple Original Film)",
+        "url": "https://open.spotify.com/album/1lBdfiLIfMijz3WAn82UwE"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Paul Leonard-Morgan",
+          "url": "https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a"
+        }
+      ],
+      "duration_ms": 152250,
+      "name": "The Artist",
+      "url": "https://open.spotify.com/track/6gKBP1LA3SHLldVxjtijbN"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -663,22 +687,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "KNOWER FOREVER",
-        "url": "https://open.spotify.com/album/4HLzhoSO67xRwfZa1T343L"
-      },
-      "artists": [
-        {
-          "name": "KNOWER",
-          "url": "https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ"
-        }
-      ],
-      "duration_ms": 212782,
-      "name": "Do Hot Girls Like Chords?",
-      "url": "https://open.spotify.com/track/3edXLmc4WGO8r2g5gjh0Ux"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -739,6 +747,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Tether",
+        "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Whenever I Call You Friend",
         "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
       },
@@ -759,66 +783,6 @@
       "duration_ms": 242226,
       "name": "Whenever I Call You Friend",
       "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Tether",
-        "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Into The Sun",
-      "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Tech N9ne Presents: NNUTTHOWZE - The Siqnal",
-        "url": "https://open.spotify.com/album/5B6i2xqAaKsquOzw7WYPIM"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Zkeircrow",
-          "url": "https://open.spotify.com/artist/0EBQs3FuhHrwUixSsKI2Dn"
-        },
-        {
-          "name": "Phlaque The Grimstress",
-          "url": "https://open.spotify.com/artist/4uUHXzdIW2IXKy362FjGMB"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Tech N9ne Presents: NNUTTHOWZE - The Siqnal",
-      "url": "https://open.spotify.com/track/02TKQCqn07U3oCpsqFzk7f"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Have You Seen This Movie",
-        "url": "https://open.spotify.com/album/4RCjDPhqY9W4JE0tVGtAvl"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Allen Ginsberg",
-          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
-        }
-      ],
-      "duration_ms": 555414,
-      "name": "Have You Seen This Movie",
-      "url": "https://open.spotify.com/track/2LUiRhU7rSaGqPAvaQ5Zik"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

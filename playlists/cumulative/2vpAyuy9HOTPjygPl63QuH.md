@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit via Instagram: @subshiftmusic
 
-1,439 songs - 3 day 10 hr 0 min
+1,440 songs - 3 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Get Up](https://open.spotify.com/track/7quS3s6bqzPmXRnDU5FeNa) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Get Up](https://open.spotify.com/album/7G3GRV1k2khC47rPBSvFin) | 3:03 | 2022-11-18 | 2022-11-29 |
 | [Get Ur Freak On](https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Freak With Us](https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa) | 2:56 | 2022-09-17 | 2022-09-24 |
 | [Getaway](https://open.spotify.com/track/3mREWT3SWgL5eNevye37bG) | [Poolhaus](https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH), [SELCO \(BE\)](https://open.spotify.com/artist/0GXQS4aBpAGNNvbGM9qSFt) | [Getaway](https://open.spotify.com/album/7zhqid6qc4aXhwxUpBDQqQ) | 3:50 | 2022-07-15 | 2022-07-30 |
+| [Ghetto Rhythm](https://open.spotify.com/track/2R7oSXecf52jz4VoG3hpmE) | [Nolek](https://open.spotify.com/artist/3lqYpuRWMveuEstXognq7q) | [Ghetto Rhythm](https://open.spotify.com/album/5k2C4gtwxZqlAEeht121by) | 2:48 | 2023-10-28 |  |
 | [Ghosts In My Bed](https://open.spotify.com/track/3dQVVuNZKEmNNLmIlQXjau) | [ToMix](https://open.spotify.com/artist/2huaButoWP7CiTeaYzKgIR) | [Ghosts In My Bed](https://open.spotify.com/album/4P469Mu97SlHlaPxzkrXdQ) | 3:10 | 2023-03-04 | 2023-03-11 |
 | [Gibberish](https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Gibberish](https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq) | 2:33 | 2023-06-09 | 2023-06-25 |
 | [Gimme Dat](https://open.spotify.com/track/3qBAdCLkuuPS4M4YhJuaiW) | [1000 Handz](https://open.spotify.com/artist/6nvVfQDguCLS7by9aJhMly) | [Gimme Dat](https://open.spotify.com/album/5uzcCo9bysmAZ3mHTsq1vr) | 3:42 | 2023-04-15 | 2023-04-22 |
@@ -731,7 +732,7 @@
 | [LOKOMOTIF](https://open.spotify.com/track/2OpQif2uskEHRRvo5JTBds) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [WANNA GO BANG](https://open.spotify.com/album/4FU1qrVtNnSIGsSdrz1W3t) | 3:18 | 2022-10-07 | 2022-10-15 |
 | [London Bridge](https://open.spotify.com/track/2OQ6ZUyMQc1v1em66u8V2V) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Jen Payne](https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq) | [London Bridge](https://open.spotify.com/album/3GjwA8C4Pe0WSCxfRjF8Fr) | 2:25 | 2023-04-14 | 2023-04-22 |
 | [Lonely](https://open.spotify.com/track/4GO1DpXdNaDR4yvy9n4HmF) | [Hondës](https://open.spotify.com/artist/50ao69rRHg9HiIvhuvwaZc) | [Lonely](https://open.spotify.com/album/5bD1p0e5k1Iy5tzxbA8SXA) | 2:27 | 2023-05-03 | 2023-05-13 |
-| [Lonely \(Feat\. Abi Flynn\)](https://open.spotify.com/track/1F39SR0Mf8b6DkJHG0SIUQ) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Lonely \(Feat\. Abi Flynn\)](https://open.spotify.com/album/2wqG0ayOFL9ubvUMppABJs) | 2:51 | 2023-10-27 |  |
+| [Lonely \(feat\. Abi Flynn\)](https://open.spotify.com/track/1F39SR0Mf8b6DkJHG0SIUQ) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Lonely \(feat\. Abi Flynn\)](https://open.spotify.com/album/2wqG0ayOFL9ubvUMppABJs) | 2:51 | 2023-10-27 |  |
 | [Look in Your Eyes](https://open.spotify.com/track/0zhp8c1bhm7okgQyd61fXN) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Josh Hunter](https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z) | [Look in Your Eyes](https://open.spotify.com/album/1nGRDyu3n9B8O6brrJRVxD) | 3:04 | 2023-02-10 | 2023-02-18 |
 | [Looking 4 U](https://open.spotify.com/track/64mG1nyazcwSPgiLpp3dfg) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Looking 4 U](https://open.spotify.com/album/3JAWEWwLRejH1qnV4r4eO2) | 2:52 | 2023-01-21 | 2023-01-29 |
 | [Looking at Me](https://open.spotify.com/track/4bXitGMQbWfZqRZI0LF5Q6) | [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Looking at Me](https://open.spotify.com/album/1ebwMx2kbpb5z3fMV1Ai0P) | 5:45 | 2023-10-06 | 2023-10-14 |

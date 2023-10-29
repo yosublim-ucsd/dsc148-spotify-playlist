@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,324 likes - 112 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,331 likes - 112 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 33 | [Mario Kart](https://open.spotify.com/track/5TlRDixQiA9z6PPh5nehGh) | [Kylo Dream](https://open.spotify.com/artist/1infWOgqAl0gZNHumUkkO6), [Nativ](https://open.spotify.com/artist/7ufLkxlHrq3NRaS1fCHOgq) | [Mario Kart](https://open.spotify.com/album/2WMhevC7VRSe8A8d5FS7QX) | 2:55 |
 | 34 | [Ragazzo di destra](https://open.spotify.com/track/0Q2U2NzKIYpxZB78jfx3wa) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Ragazzo di destra](https://open.spotify.com/album/5ZVNKgft1fSpiXiqgulLnh) | 3:51 |
 | 35 | [Ich liebe dich so](https://open.spotify.com/track/7rQ61CDFJMcsnVnkpnuEDA) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Übers Träumen](https://open.spotify.com/album/2vUVoz7lg4VitMgmq0wgqx) | 2:20 |
-| 36 | [BEYCHLKIEN](https://open.spotify.com/track/3CoJdCUU7wREaZ9o24NjOU) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [BEYCHLKIEN](https://open.spotify.com/album/75oUrHpPb6O9tHG9s1DPrh) | 2:41 |
+| 36 | [BEYCHLKIEN](https://open.spotify.com/track/3CoJdCUU7wREaZ9o24NjOU) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [BEYCHLKIEN](https://open.spotify.com/album/75oUrHpPb6O9tHG9s1DPrh) | 2:42 |
 | 37 | [Hard 2 Love](https://open.spotify.com/track/2OAMw5NoNwkUQBcmCLcfu9) | [Bad Boyfriend](https://open.spotify.com/artist/6i2nBCTVvTRt4YprAm8lkq), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Hard 2 Love](https://open.spotify.com/album/6keywWHjm8daykFEW0AK79) | 2:04 |
 | 38 | [ILL WHAT I BLEED](https://open.spotify.com/track/2k8JxnsUCkaxpE50KTGFHn) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [ILL WHAT I BLEED](https://open.spotify.com/album/13qwsJ7ZhrTSPJLN8nhBCH) | 2:53 |
 | 39 | [CLASSICO](https://open.spotify.com/track/42Qd1nj4GvdimsO2FaqLB8) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe) | [CLASSICO](https://open.spotify.com/album/65QxDhJDOCUbfc5fGHykIg) | 2:45 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 111 | [Celebration](https://open.spotify.com/track/2OknBu4J7GCNxBiyvwUeBr) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Celebration](https://open.spotify.com/album/27S9xAMocdPV43yDLXiuxA) | 2:11 |
 | 112 | [Something's Dripping From The Ceiling](https://open.spotify.com/track/3zO4t7n7JScZQPcpPNi1WF) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Something's Dripping From The Ceiling](https://open.spotify.com/album/4YNwKQcG0gcHovZ9P2zjiE) | 4:06 |
 
-Snapshot ID: `MCxjYzgwMGFjYmI1MzEzMDZjYmY0ZTk2YzU1MjljZGE1ZTIzMjhlODEw`
+Snapshot ID: `MCxjMTliY2RkN2VjMTI4NmYyOWIxYTJjYjBmYmZjZjU0MWFmNzJmZWE4`

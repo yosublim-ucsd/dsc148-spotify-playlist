@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gloria Groove, Pedro Sampaio e MC Ryan SP, Israel & Rodolffo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,923,555 likes - 98 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,923,374 likes - 98 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 45 | [Deus Dará](https://open.spotify.com/track/7qu2u46w3FCLnDQ1ooxPBI) | [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Deus Dará](https://open.spotify.com/album/6FZstl8nKqPHP5nrtthnjJ) | 2:35 |
 | 46 | [De chinelo havaianas](https://open.spotify.com/track/04uTvWnyJSuWLMmxTbYzic) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Joab Beats](https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh) | [De chinelo havaianas](https://open.spotify.com/album/3B9I1KNYxsXlENVUaOlLiK) | 3:17 |
 | 47 | [Se Ame Primeiro \- Ao Vivo](https://open.spotify.com/track/3fwrSBjE16mg2fe5Q2zfOq) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Se Ame Primeiro \(Ao Vivo\)](https://open.spotify.com/album/0wmFVM7W6m2eB0fbjmYIxO) | 2:55 |
-| 48 | [Chorando e Dançando \- Acústico](https://open.spotify.com/track/1mxb4yfN6fSwWFYhkMHTMg) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ) | [Chorando e Dançando \(Acústico\)](https://open.spotify.com/album/0le1uLXS9UxNtyEDB6Bs3o) | 2:49 |
+| 48 | [Chorando e Dançando](https://open.spotify.com/track/1mxb4yfN6fSwWFYhkMHTMg) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ) | [Chorando e Dançando](https://open.spotify.com/album/0le1uLXS9UxNtyEDB6Bs3o) | 2:49 |
 | 49 | [Dano Sentimental \- Ao Vivo](https://open.spotify.com/track/7FrQY85dmWTfvI6J70Dsy4) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [Essência 5 \(Ao Vivo\)](https://open.spotify.com/album/18gcfgQVXmWJyfzzYHL3eD) | 2:42 |
 | 50 | [Cara de Anjo \(Meiga e Abusada\)](https://open.spotify.com/track/6mgD3N6iut0GBFmgSJCSg1) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Jall](https://open.spotify.com/artist/04svf3dGgcwEVgJ0MlV0M2), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Cara de Anjo \(Meiga e Abusada\)](https://open.spotify.com/album/2oqukskz2bNAt0EBMDHtob) | 2:22 |
 | 51 | [Balinha](https://open.spotify.com/track/3AYoAJnoBn1fiEykPVQkAW) | [La Furia](https://open.spotify.com/artist/2q0Eox3ewRHGGlSOXnmC54), [DJ Calixto](https://open.spotify.com/artist/2o8YsQp2H8hDpuqMHcxSAg) | [La Fúria é O Palco](https://open.spotify.com/album/552eYsFzKDwFRnhAg3v3Wr) | 2:17 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 84 | [VSF \(Telefone\)](https://open.spotify.com/track/7JCv3LOgpS0qwh8V1mYU7A) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [VSF \(Telefone\)](https://open.spotify.com/album/3Q3DAfcLrkaArCrr3AgTKL) | 2:41 |
 | 85 | [Sintomas de Saudade](https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Sintomas de Saudade](https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt) | 3:14 |
 | 86 | [Meu Amor](https://open.spotify.com/track/5rBhmHb34cdifZFyb0SPwX) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [Meu Amor](https://open.spotify.com/album/2TyJx1SGb2vxdaXK40gyA9) | 3:15 |
-| 87 | [Uma Dose 3](https://open.spotify.com/track/73qxEyG8pSs5bIuPb745xi) | [Class A](https://open.spotify.com/artist/65ZLHgyZxmEMcWFyyeNkjF) | [Uma Dose 3](https://open.spotify.com/album/41Eygw7faSqzuJraro3kYL) | 3:31 |
+| 87 | [Uma Dose 3](https://open.spotify.com/track/73qxEyG8pSs5bIuPb745xi) | [Class A](https://open.spotify.com/artist/65ZLHgyZxmEMcWFyyeNkjF) | [Uma Dose 3](https://open.spotify.com/album/41Eygw7faSqzuJraro3kYL) | 3:30 |
 | 88 | [Lado Bom](https://open.spotify.com/track/4b2LR0vgIAB1fQE9GTJTbV) | [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [Lado Bom](https://open.spotify.com/album/1t5mOWEy7MbzLw2sEfl3El) | 2:48 |
 | 89 | [Infected](https://open.spotify.com/track/0XpLNTDWM8fPzW53Cj0yub) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [PRADOV](https://open.spotify.com/artist/14uwOzdZsatM87tYaUXywO), [Anna De Ferran](https://open.spotify.com/artist/0uGRpGp5fkrpsq7PC20Rz7) | [Infected](https://open.spotify.com/album/0ynFfv3WKVqhY8kmDbvWVy) | 2:59 |
 | 90 | [Everything I Got](https://open.spotify.com/track/4eCRXUDUw9LDzH7v32kKjT) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Everything I Got](https://open.spotify.com/album/6XGsbOf23jgqWqyFxSvV8C) | 5:11 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [Questão de Segurança \- Ao Vivo](https://open.spotify.com/track/2wmUkYi1QB8uiw7KYU2HpZ) | [Roger & Gustavo](https://open.spotify.com/artist/4FTFlQC5nmDiOgU1hcMfaI) | [Questão de Segurança \(Ao Vivo\)](https://open.spotify.com/album/5qWBRzvQ8a4WQmdMOM6I2X) | 2:29 |
 | 98 | [Me Encantou](https://open.spotify.com/track/5yjBFCJ3Tzr5X6Vq6JGFke) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Me Encantou](https://open.spotify.com/album/0ZZBgETzkoGuJuchaW9Fqr) | 2:34 |
 
-Snapshot ID: `MCw4NzM1ODQxMzE0ZGMwMGQwNmE4MzhkM2E1N2RiOWUyNjJjMTBlZThi`
+Snapshot ID: `MCxlNGE2ZjNmZDMyMzAxNzYyOWRkMmNlNmI5OWM0NjkwOGE3OTM5ZDk5`

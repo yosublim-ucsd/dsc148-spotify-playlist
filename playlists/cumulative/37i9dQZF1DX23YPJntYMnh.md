@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-123 songs - 8 hr 27 min
+124 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Courage](https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:30 | 2020-01-08 | 2023-04-15 |
 | [Crack Killed Applejack \- Gravy Booty Mix](https://open.spotify.com/track/2SrJ0Quef9Lkv0aIKPWEBY) | [Stevie Salas](https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax) | [Back from the Living](https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv) | 4:01 | 2020-01-08 |  |
 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 | 2020-01-08 |  |
-| [Darkside](https://open.spotify.com/track/11DOcIM6IkO45qpyrdMJgc) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Darkside](https://open.spotify.com/album/2PFQU4eErXJ4ZEmusl8EgR) | 5:33 | 2023-10-20 |  |
+| [Darkside](https://open.spotify.com/track/11DOcIM6IkO45qpyrdMJgc) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Darkside](https://open.spotify.com/album/2PFQU4eErXJ4ZEmusl8EgR) | 5:33 | 2023-10-20 | 2023-10-29 |
+| [Darkside](https://open.spotify.com/track/4uxiBHb7nMuGMm0sKo1ImT) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Diamonds And Pearls \(Super Deluxe Edition\)](https://open.spotify.com/album/7yS8FoMCF2XSiJK2DWYYci) | 5:33 | 2023-10-20 |  |
 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 | 2020-01-08 |  |
 | [Drifting Away](https://open.spotify.com/track/3paZJ9ZfDEQYp5d3SvBfdz) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Wanted](https://open.spotify.com/album/7BoDAUUVu2xqWTyYVkDG9m) | 3:30 | 2022-02-25 |  |
 | [Drifting Away](https://open.spotify.com/track/6dTK3myeKGWomdNhtMK59Y) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Drifting Away](https://open.spotify.com/album/0V01bdeXh5WOTLBNSOeCj9) | 3:30 | 2022-02-04 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,776 likes - 404 songs - 16 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,888 likes - 404 songs - 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 15 | [Postcard](https://open.spotify.com/track/6igKvLcWShsDL1ZRhUMTcM) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Postcard](https://open.spotify.com/album/4a1dWfgc8gKIrnJ7fTQRQ4) | 2:22 |
 | 16 | [Slack\-jawed](https://open.spotify.com/track/3FXTVPlMP7FfGOafCOk3Cc) | [Lowely](https://open.spotify.com/artist/1E7U9zav6CjfcRuD5UEG8e) | [Slack\-jawed](https://open.spotify.com/album/6TxO2cqvIqROVKsBX6OxrK) | 2:09 |
 | 17 | [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 |
-| 18 | [Sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 |
+| 18 | [sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 |
 | 19 | [Oonga Boonga](https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Oonga Boonga](https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk) | 2:05 |
 | 20 | [Dirty Ensemble](https://open.spotify.com/track/0pGDCfVjkHuQRNnthF5ur5) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Emo Nemo](https://open.spotify.com/album/0X4jSnVgS8g6MWKdXhcwwh) | 2:08 |
 | 21 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 |
@@ -413,4 +413,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 403 | [Walking On Sunshine](https://open.spotify.com/track/7FwyuMqGORtxC0j42IdSiY) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Walking On Sunshine](https://open.spotify.com/album/4FpNn5mvTNKF8myvzhs09l) | 1:52 |
 | 404 | [good morning](https://open.spotify.com/track/7eoJ5QWlPolLvQcy8cbYFa) | [chxn records](https://open.spotify.com/artist/5tEcRZkq7jh2WhE2G43u63), [boy in skirt](https://open.spotify.com/artist/6YnaF6icmmm03VSrrM28ft) | [skirt & lofi](https://open.spotify.com/album/1ZA441yOuzMQ87O222grOe) | 2:11 |
 
-Snapshot ID: `MCxmMWMzMWI5ZjU0MTU4YWVlMGE1YjllMmYwYjE3MmU5YTM3MjQyZGI1`
+Snapshot ID: `MCw0NjkxMmI1N2ZiYTRkMGJkYTkyODNmOWZhMmFhZmU0NTNjZmZiZTdi`

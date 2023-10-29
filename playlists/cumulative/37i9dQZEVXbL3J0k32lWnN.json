@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "album": {
         "name": "$$$ lykke",
         "url": "https://open.spotify.com/album/6QUG9cuQAxOXkyOgJFQuKN"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 109462,
       "name": "10% mere",
       "url": "https://open.spotify.com/track/6OpqjaayXiYMijD5HYDEE9"
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 162510,
       "name": "Alt vi har er nu (Artigeardit, Lamin)",
       "url": "https://open.spotify.com/track/13ORFYlIGeLnai3mhgKFxZ"
@@ -2406,6 +2424,24 @@
       "duration_ms": 138374,
       "name": "blame's on me",
       "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231833,
+      "name": "Blank Space (Taylor's Version)",
+      "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
     },
     {
       "album": {
@@ -4212,7 +4248,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -4314,7 +4350,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 198806,
       "name": "Danser For Mig Selv",
       "url": "https://open.spotify.com/track/5hYKVNA29m8lOTLQOjKExN"
@@ -4962,7 +4998,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 199930,
       "name": "Det\u00b4 kun vigtigt, hvad det er",
       "url": "https://open.spotify.com/track/103dSvGgdVisdi7OAqdihj"
@@ -5678,6 +5714,24 @@
       "duration_ms": 258533,
       "name": "Dr\u00f8mte Mig En Lille Dr\u00f8m - Fra julekalenderen 'Absalons Hemmelighed'",
       "url": "https://open.spotify.com/track/3WcK48G0JoYgyasnFbmgZ3"
+    },
+    {
+      "album": {
+        "name": "Du & Jeg",
+        "url": "https://open.spotify.com/album/1JHGi1TfBtT4HSsEOflXhb"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173024,
+      "name": "Du & Jeg",
+      "url": "https://open.spotify.com/track/13FWeWAZ84LQQ1S4KNPWWe"
     },
     {
       "album": {
@@ -6570,7 +6624,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 244488,
       "name": "F'social angst",
       "url": "https://open.spotify.com/track/2u6qnTEIn0jemEwJJW147m"
@@ -7313,6 +7367,32 @@
     },
     {
       "album": {
+        "name": "Fl\u00f8jt'ne (feat. DJ Aligator & KIDD)",
+        "url": "https://open.spotify.com/album/6zo0lEn5DVXVHLp4n6rwWf"
+      },
+      "artists": [
+        {
+          "name": "Tessa",
+          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
+        },
+        {
+          "name": "KIDD",
+          "url": "https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i"
+        },
+        {
+          "name": "DJ Aligator",
+          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155073,
+      "name": "Fl\u00f8jt'ne (feat. DJ Aligator & KIDD)",
+      "url": "https://open.spotify.com/track/2V7HzIGAeYnkxfePD0FK0E"
+    },
+    {
+      "album": {
         "name": "JAMO",
         "url": "https://open.spotify.com/album/6f4qhLPJtFcEjMwKEw2VFa"
       },
@@ -7400,7 +7480,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 143450,
       "name": "For Altid",
       "url": "https://open.spotify.com/track/0twnZu2JhBywPQBOX92gSl"
@@ -8024,7 +8104,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 193712,
       "name": "F\u00f8rste Dag",
       "url": "https://open.spotify.com/track/2XxRgaOO73AtKS3bPciDSL"
@@ -8510,7 +8590,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 140089,
       "name": "Gode Dage, Gode Drinks",
       "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
@@ -11618,6 +11698,24 @@
       "duration_ms": 192330,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5Pi7KkjZvTwl6U847xzHmC"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
     },
     {
       "album": {
@@ -15181,6 +15279,28 @@
     },
     {
       "album": {
+        "name": "Mindst Ondt (feat. Svea S)",
+        "url": "https://open.spotify.com/album/5FsrVBCcFU5BScIZ3eTmaO"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        },
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185516,
+      "name": "Mindst Ondt (feat. Svea S)",
+      "url": "https://open.spotify.com/track/58XXETVCHXEl2siipiQOi5"
+    },
+    {
+      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -16693,6 +16813,24 @@
     },
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146436,
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
+    },
+    {
+      "album": {
         "name": "30 Somre",
         "url": "https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS"
       },
@@ -17106,7 +17244,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
@@ -17168,6 +17306,24 @@
       "duration_ms": 191093,
       "name": "Orange",
       "url": "https://open.spotify.com/track/0JFhEbH1Ij9BIrO800IEIK"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "Out Of The Woods (Taylor's Version)",
+      "url": "https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE"
     },
     {
       "album": {
@@ -19005,6 +19161,46 @@
     },
     {
       "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/6TYCo7fdwrP8tnFP4PdG41"
+      },
+      "artists": [
+        {
+          "name": "NODE",
+          "url": "https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167945,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/79gUiYKiISCPKBAy5YDdtD"
+    },
+    {
+      "album": {
+        "name": "Safebox (feat. Branco)",
+        "url": "https://open.spotify.com/album/4KJnXnjIVL5d07Nd6AuQnI"
+      },
+      "artists": [
+        {
+          "name": "Carmon",
+          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125957,
+      "name": "Safebox (feat. Branco)",
+      "url": "https://open.spotify.com/track/2zu2gViGH8vMhNMuSx6n1h"
+    },
+    {
+      "album": {
         "name": "Samma gamla vanliga (feat. Branco & Kamelen) [Remix]",
         "url": "https://open.spotify.com/album/0Yo9nhxBBW3vpl6HCfscS4"
       },
@@ -19206,6 +19402,24 @@
       "duration_ms": 198400,
       "name": "Savnet Pt. II",
       "url": "https://open.spotify.com/track/2sAX43JCgOfxAzy2GpZDaO"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279833,
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
     },
     {
       "album": {
@@ -20276,7 +20490,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 163254,
       "name": "smugryger",
       "url": "https://open.spotify.com/track/0Mo3Jmq9uU1QJyhZu4DkR5"
@@ -21261,6 +21475,24 @@
     },
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Style (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
+    },
+    {
+      "album": {
         "name": "Held & Lykke Med At Komme Hjem",
         "url": "https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ"
       },
@@ -21922,7 +22154,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 200500,
       "name": "Terrier",
       "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"
@@ -24223,6 +24455,24 @@
     },
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212600,
+      "name": "Welcome To New York (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9"
+    },
+    {
+      "album": {
         "name": "Wellerman (Sea Shanty / 220 KID x Billen Ted Remix)",
         "url": "https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z"
       },
@@ -24278,7 +24528,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

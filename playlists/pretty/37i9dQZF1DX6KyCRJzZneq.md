@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,487 likes - 45 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,535 likes - 45 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 | 22 | [Donna Lee](https://open.spotify.com/track/2u9OxJTn3Of4aMYp9K71kE) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Complete Savoy & Dial Master Takes](https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT) | 2:34 |
 | 23 | [Oop\-Bop\-Sh\-Bam \- Remastered 2002](https://open.spotify.com/track/2DduQCINkaRAFsc5eeBS7y) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Austin Roberts](https://open.spotify.com/artist/79QvtIFqpA95nxbCT7pqPW), [Clarence Jones](https://open.spotify.com/artist/2gBS8QeP3Y0SGevpCxo3Eh) | [This Is Oscar Peterson](https://open.spotify.com/album/3Ptsp2KxqKP7RsO7eShIqN) | 2:50 |
 | 24 | [Daahoud](https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 4:05 |
-| 25 | [Rhythm\-A\-Ning](https://open.spotify.com/track/7HVFWgrWwN63YLAjo0QBPz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz), [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Art Blakey's Jazz Messengers With Thelonious Monk \(Deluxe Edition\)](https://open.spotify.com/album/3C2hpKCQ1C8l8F5sLAQHXe) | 7:17 |
+| 25 | [Rhythm\-A\-Ning](https://open.spotify.com/track/7HVFWgrWwN63YLAjo0QBPz) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t), [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Art Blakey's Jazz Messengers With Thelonious Monk \(Deluxe Edition\)](https://open.spotify.com/album/3C2hpKCQ1C8l8F5sLAQHXe) | 7:17 |
 | 26 | [Straight, No Chaser \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 10:35 |
 | 27 | [Taking A Chance On Love](https://open.spotify.com/track/0j8bnD1EGeUPjHBnXPHibI) | [Vernon Duke](https://open.spotify.com/artist/66wHlBv24mr1yH7F4aF6yk), [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Complete Verve Sessions](https://open.spotify.com/album/1esWnRTGtgRaLC3QdkRv3x) | 4:44 |
 | 28 | [I Know That You Know](https://open.spotify.com/track/44wLu2rDfUUYMmiva3tzch) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 4:26 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 | 44 | [Invisible](https://open.spotify.com/track/2lwlScELPERmPJzsemoone) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 4:15 |
 | 45 | [Love For Sale](https://open.spotify.com/track/2HlT0tEiELR2wLgsJhBHYV) | [Sonny Criss](https://open.spotify.com/artist/5HL4KA3y1IyeAD2TbgaoYe) | [This Is Criss!](https://open.spotify.com/album/5RddAbKe6UJ22nodgQ6vPB) | 6:25 |
 
-Snapshot ID: `MCxiNmEyYjdlNjkzMjkyNzgzOWVjZjMyNzk1YjJkY2FlOTY1NGIyNDYx`
+Snapshot ID: `MCw1ZThlZjNjMWVjYzBmMzAyOTllNTY3NmNlMTY2NzI4MDdjMmM1ZWQ1`

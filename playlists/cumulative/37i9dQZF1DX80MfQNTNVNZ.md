@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-443 songs - 1 day 2 hr 26 min
+444 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-23 | 2022-04-30 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-07-28 |  |
 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 | 2023-07-13 | 2023-08-11 |
-| [Bad Behavior](https://open.spotify.com/track/3x2bfrSIuGuxR5Qj6KxKyk) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bad Behavior](https://open.spotify.com/album/0suZ5xK1o6VuclzdnLL7jK) | 3:22 | 2023-04-06 |  |
+| [Bad Behavior](https://open.spotify.com/track/3x2bfrSIuGuxR5Qj6KxKyk) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Bad Behavior](https://open.spotify.com/album/0suZ5xK1o6VuclzdnLL7jK) | 3:22 | 2023-04-06 |  |
 | [Bad Behavior](https://open.spotify.com/track/5QvLKIo27yVB5Rns0VXGrI) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bad Behavior](https://open.spotify.com/album/0KdhMV76LQ8yhulP067Sbn) | 3:22 | 2021-12-23 | 2022-11-13 |
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-28 |  |
 | [Bad Weather](https://open.spotify.com/track/1FWjbchUjiE2fPdZrh5Qr3) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Yemaya](https://open.spotify.com/album/6nDZtCZBuZW7JUY0LxwEtN) | 3:09 | 2022-03-24 | 2022-04-15 |
@@ -441,6 +441,7 @@
 | [You and I](https://open.spotify.com/track/1aVgW7yEcfzVL3Y82mbwsu) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Smithsoneon](https://open.spotify.com/artist/2jQda3HMB8jz71liefcP9g) | [銀平町シネマブルース オリジナルサウンドトラック](https://open.spotify.com/album/7n4rZizWt86V6jDkDdVXUD) | 3:26 | 2023-02-09 | 2023-04-07 |
 | [You and Me](https://open.spotify.com/track/2cia8oELcnvpyIpbCDBCr1) | [Otis Junior](https://open.spotify.com/artist/3JWTfcIZq4OUdC6oBunofK), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Rising With It](https://open.spotify.com/album/1JDQaafV4hYNP8K5tuK6r4) | 3:56 | 2021-12-23 | 2022-07-29 |
 | [You My Love](https://open.spotify.com/track/3BTbCM8cSXGBxcOlEEgAnk) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [You My Love](https://open.spotify.com/album/4Zb0LnNvbbarHvz6UDNy9d) | 4:29 | 2022-03-24 | 2022-04-20 |
+| [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 | 2023-10-26 |  |
 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 | 2022-12-16 | 2023-03-25 |
 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 | 2022-03-31 | 2023-04-16 |
 | [Ziptied](https://open.spotify.com/track/1I3SVKHjJGINkfUJDKheP0) | [Matthew Young](https://open.spotify.com/artist/0EIJLgdMEPVJlnkmjWcx5q) | [Ziptied](https://open.spotify.com/album/38EVuAtx4bc0YgU8H4Owkp) | 3:12 | 2022-03-31 | 2022-04-15 |

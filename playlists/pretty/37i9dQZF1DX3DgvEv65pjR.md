@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 
 > Fancy Hagood co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Music City has to offer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,432 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,434 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 | 11 | [Nashville](https://open.spotify.com/track/4k0AmP88xKlU34h8IIAvNV) | [Little Bandit](https://open.spotify.com/artist/3ZcpzDeDdqeqO3aWU3IN4y) | [Breakfast Alone](https://open.spotify.com/album/6vRs199Mg5jUHA4W0tfXPV) | 3:52 |
 | 12 | [Dangerous Criminal](https://open.spotify.com/track/4xZv6xHfl681F83o6j4Frp) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 3:54 |
 | 13 | [Where The Soul Never Dies](https://open.spotify.com/track/4G7r8qFRhNmoXR3wWqxzL2) | [Leslie Jordan](https://open.spotify.com/artist/7rYLqyGeyCnraP6vBfhfFn), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Company's Comin'](https://open.spotify.com/album/2n9E08VXyUL1GGOwnVM6tm) | 3:08 |
-| 14 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
+| 14 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 15 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
 | 16 | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Easy \(with Kacey Musgraves feat\. Mark Ronson\)](https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR) | 3:33 |
 | 17 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 | 39 | [All My Worry](https://open.spotify.com/track/1MwEsNbSXgpjmfAN3JMzzS) | [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha), [Joe Pisapia](https://open.spotify.com/artist/5b3G440uTn9vamEasYG0eH) | [Kate York & Joe Pisapia](https://open.spotify.com/album/05pNWaK791JPgmURl9kWRc) | 4:16 |
 | 40 | [All Good Cowboys](https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Mercy Bell](https://open.spotify.com/album/0DqRo10IE9EQwVM5Uva7l7) | 3:51 |
 
-Snapshot ID: `MCxmYmEyYjEwZDVlODU0M2MwNGY0MmJkOGE4MmU1YzdlYzg5ZTNkOGM3`
+Snapshot ID: `MCxjZWNhZDNhZTYwOGE2MzBmNzZlMmI0Y2U2N2U5YTkxNmU5Zjc4NzJi`

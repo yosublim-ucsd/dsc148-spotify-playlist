@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Daf\u00e9",
-  "num_followers": 26921,
+  "num_followers": 26951,
   "original_name": "Baile Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODNlYTU4NjExZTcwZjZiY2U5YmY2MTRhYjBiNDlkZWYxYWQ5Nzgw",
+  "snapshot_id": "MCxmYWE0MDdlODBlMWMwZDdiODM0ZGUxMzlhNTdlMjA0YzUxMWVkMjgx",
   "tracks": [
     {
       "added_at": "2023-09-14 19:24:02",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Back To Back",
-        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
-      },
-      "artists": [
-        {
-          "name": "Alicia Myers",
-          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "I Want To Thank You",
-      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Brazilian Caf\u00e9",
         "url": "https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 192026,
       "name": "Acenda o farol",
       "url": "https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
+      },
+      "artists": [
+        {
+          "name": "Alicia Myers",
+          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "I Want To Thank You",
+      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Africa Brasil",
-        "url": "https://open.spotify.com/album/0esHQqYklDPje00NUNq6py"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Taj Mahal",
-      "url": "https://open.spotify.com/track/7pdCDKs0i05N8ag4tAC5u5"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "A Bit Of Soul",
         "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 153600,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Africa Brasil",
+        "url": "https://open.spotify.com/album/0esHQqYklDPje00NUNq6py"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Taj Mahal",
+      "url": "https://open.spotify.com/track/7pdCDKs0i05N8ag4tAC5u5"
     },
     {
       "added_at": "2023-09-14 19:24:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Henry Moodie deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,597 likes - 99 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,608 likes - 99 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 98 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 |
 | 99 | [Show Me Off](https://open.spotify.com/track/4YGHPxZbzLFpFQTSFruLzW) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Show Me Off](https://open.spotify.com/album/4W3wJDaJ6eMMlhFu6IQiuz) | 2:55 |
 
-Snapshot ID: `MCw2MGVhOTQ3MzRhZGJlODMzOWNmZjc0NTFiYzRhMzExNGMwMzI1NmEy`
+Snapshot ID: `MCxkZGM3NDAxOTAwZjRjZjRkOGI0OGNjMjU1OGE0ZTVkNjI2ZmVkMTgz`

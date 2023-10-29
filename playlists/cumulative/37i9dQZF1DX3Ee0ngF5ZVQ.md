@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Flatland Cavalry
 
-557 songs - 1 day 9 hr 10 min
+558 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Love Me Forever](https://open.spotify.com/track/2fH6pITIMsKT763RWFLEXF) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Love Me Forever](https://open.spotify.com/album/7EKy3gRfGX6iEaQmrZUirP) | 3:19 | 2022-06-03 | 2022-06-11 |
 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 | 2022-02-18 |  |
 | [Loves Got A Hold On You](https://open.spotify.com/track/4Mxtx2WAbax4WzXrPjRv49) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Loves Got A Hold On You](https://open.spotify.com/album/2wL1b43jkiNOcykGV9rkWK) | 4:01 | 2022-02-11 | 2022-07-28 |
-| [Lovin' Not Leavin'](https://open.spotify.com/track/5rdW1DHY49AjT38jP4NZhf) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Lovin' Not Leavin'](https://open.spotify.com/album/6mc464jvzmrvUJBwlLdExy) | 4:41 | 2023-09-15 |  |
+| [Lovin' Not Leavin'](https://open.spotify.com/track/5rdW1DHY49AjT38jP4NZhf) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Lovin' Not Leavin'](https://open.spotify.com/album/6mc464jvzmrvUJBwlLdExy) | 4:41 | 2023-09-15 | 2023-10-29 |
 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 | 2021-12-17 | 2022-03-19 |
 | [Lowdown & Lonesome](https://open.spotify.com/track/4fRtgLI8kltC4EdU37Cahx) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Lowdown & Lonesome](https://open.spotify.com/album/7e8Ka3g62QpJTm23DYLLm5) | 4:31 | 2023-06-30 | 2023-09-30 |
 | [Madison](https://open.spotify.com/track/33BaBCFqa8DrV9pj2pUDer) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [Madison](https://open.spotify.com/album/6WA8s9UiGc4r7WJWz66VZc) | 4:44 | 2023-08-25 | 2023-09-30 |
@@ -476,6 +476,7 @@
 | [The Ride](https://open.spotify.com/track/3uE5rVJPkJilTKs6ixpI6B) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [The Ride](https://open.spotify.com/album/3yJ9rQ9PHhdCGzCbTWvmlO) | 3:16 | 2023-09-08 | 2023-10-07 |
 | [The Road](https://open.spotify.com/track/0pAKpLlTtZZrkPFfnQRm99) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Jon Randall](https://open.spotify.com/album/53B4uGWjlFp0kcXfmhjYN3) | 4:45 | 2021-12-17 | 2022-07-20 |
 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 | 2022-09-23 |  |
+| [The Show](https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The Show](https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6) | 3:28 | 2023-10-27 |  |
 | [The Sound](https://open.spotify.com/track/7sE5NnB9Hy85l8T7VPXrle) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [The Sound](https://open.spotify.com/album/4QPEKljb8KhOoKe2AnRXKW) | 4:35 | 2023-08-11 | 2023-10-14 |
 | [The Way She Moved](https://open.spotify.com/track/4lHVEKYLFStOIqxlAHbUDU) | [Braydon Zink](https://open.spotify.com/artist/71HnAsSWgf87Mi2pT0EvOO) | [The Way She Moved](https://open.spotify.com/album/6Bo8CdyNYImWquDAFjZXCG) | 3:44 | 2021-12-17 | 2022-03-19 |
 | [The Whiskey Will](https://open.spotify.com/track/5vqu1ypiHCb4NakEl2q0zT) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [The Whiskey Will](https://open.spotify.com/album/6cijmrntIehNVs7Qo75M5R) | 3:14 | 2021-12-17 | 2022-07-26 |

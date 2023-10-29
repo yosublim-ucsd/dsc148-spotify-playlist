@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Picture Parlour
 
-181 songs - 10 hr 28 min
+182 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Back to the Light](https://open.spotify.com/track/3DbbslE3KZNVQ2aCsjcF40) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Back to the Light](https://open.spotify.com/album/5HsJ8jtEXFxujuleSECHng) | 3:06 | 2023-09-19 | 2023-09-25 |
 | [Baggio](https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Baggio](https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg) | 3:41 | 2023-05-19 |  |
 | [Be Someone](https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 3:50 | 2023-03-31 | 2023-09-17 |
+| [Better Luck Next Time](https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Better Luck Next Time](https://open.spotify.com/album/7LRaEYO1IbbqjIm8hyxmLu) | 3:53 | 2023-10-27 |  |
 | [Big Deal](https://open.spotify.com/track/71V2WDbjwMTVPhbKzX8r0j) | [Cortney Dixon](https://open.spotify.com/artist/1KyaMEHOakwjwLlLYorYYp) | [Big Deal](https://open.spotify.com/album/5aX2YO1amh4g9A20dlnT3T) | 3:45 | 2023-01-10 | 2023-06-08 |
 | [Big Fish, Small Pond](https://open.spotify.com/track/54x9jwJU7a0xUjT1hbFtDi) | [Afflecks Palace](https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW) | [Big Fish, Small Pond](https://open.spotify.com/album/3Z9XtwBfGd68EAyKBGZDao) | 3:31 | 2023-01-10 | 2023-04-19 |
 | [Bite](https://open.spotify.com/track/2y0x5oohwPiUANKG4kqtEB) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Bite](https://open.spotify.com/album/00KOYdLzspV1wDq6dU3Tna) | 3:10 | 2023-03-31 | 2023-06-08 |
@@ -172,7 +173,7 @@
 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 | 2023-04-18 |  |
 | [Up in the Air](https://open.spotify.com/track/1sBIJ6xCgg0uDzTd9M9u5u) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Up in the Air](https://open.spotify.com/album/30JsqeAvmGjYsrzVOr6s1a) | 2:40 | 2023-10-27 |  |
 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 | 2023-07-28 |  |
-| [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2023-01-10 |  |
+| [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2023-01-10 | 2023-10-29 |
 | [Waste](https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Waste](https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj) | 3:06 | 2023-01-10 |  |
 | [Wave](https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V) | 3:08 | 2023-06-13 |  |
 | [Wave](https://open.spotify.com/track/5uZrhapaUikHxUibhf5ELe) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4FGWWBhvlrqbqQj0Bszc33) | 3:08 | 2023-03-31 | 2023-07-07 |

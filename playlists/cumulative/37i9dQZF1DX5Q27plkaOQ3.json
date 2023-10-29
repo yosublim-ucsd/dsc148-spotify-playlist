@@ -5026,7 +5026,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 150620,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/5xWvRtgAxkWUZPGXqICbpx"
@@ -7832,6 +7832,32 @@
       "duration_ms": 201600,
       "name": "Spirit Showdown",
       "url": "https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et"
+    },
+    {
+      "album": {
+        "name": "Squad Anthem",
+        "url": "https://open.spotify.com/album/0e4jfw05YS293msyhNvPyh"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Ecraze",
+          "url": "https://open.spotify.com/artist/2DyMQQF5Qlbxr9VSbr3lXt"
+        },
+        {
+          "name": "BLUPILL",
+          "url": "https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266482,
+      "name": "Squad Anthem",
+      "url": "https://open.spotify.com/track/4QEinGQxNXRzHgus28v42T"
     },
     {
       "album": {

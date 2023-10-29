@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Jillian Mercado
 
-1,519 songs - 3 day 11 hr 44 min
+1,520 songs - 3 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Chove Muito, Chove Tanto](https://open.spotify.com/track/5myCd2BltCXXFEdN92iWYg) | [Amélia Muge](https://open.spotify.com/artist/0iru4sRcRUOQFbXFMSqaJ1) | [Chove Muito, Chove Tanto](https://open.spotify.com/album/06vgS4jdbDAcTbyjx4beJg) | 4:42 | 2022-04-06 | 2022-05-05 |
 | [CHROME](https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [eclips3](https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9) | 2:42 | 2023-04-05 | 2023-05-04 |
 | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/track/3yKzLSeR9NTwCTg9HvQkcJ) | [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/album/4gdijoRorJWWUUYlWcb5oJ) | 5:02 | 2023-10-05 |  |
-| [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/track/7GcPP6XnsvwJzJ7GMem62o) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/album/5aVa3UtePEKd3BBLmHWYdc) | 3:46 | 2023-09-06 |  |
+| [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/track/7GcPP6XnsvwJzJ7GMem62o) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/album/5aVa3UtePEKd3BBLmHWYdc) | 3:46 | 2023-09-06 | 2023-10-29 |
 | [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 | 2023-07-05 | 2023-08-03 |
 | [CICATRICI \(feat\. Madame\)](https://open.spotify.com/track/7FSEYn1LL9UemeYeuXCHRm) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 2:53 | 2022-04-06 | 2023-01-05 |
 | [Ciche szepty](https://open.spotify.com/track/78YX9wyB7kXsgBuvPjnp6P) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Ciche szepty](https://open.spotify.com/album/4gjTgaRtOrUCws8g7NjRRo) | 2:32 | 2023-03-08 | 2023-04-06 |
@@ -430,6 +430,7 @@
 | [Flori de mai](https://open.spotify.com/track/2Kr1NC1Qs9AzmpFeYFLinJ) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Flori de mai](https://open.spotify.com/album/1h4LGuEHf8r8ZXTpCHh2dP) | 2:57 | 2023-08-02 | 2023-10-07 |
 | [Flowers!](https://open.spotify.com/track/5hUWDfvdFgWCmmv8HWSi18) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Flowers!](https://open.spotify.com/album/0rOJqOs5SZZm63oZDvLNFU) | 2:25 | 2023-09-06 | 2023-10-12 |
 | [Fly \- You're Mine](https://open.spotify.com/track/4fYluChkI4HFZWBvbBTUmm) | [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [Fly \(You're Mine\)](https://open.spotify.com/album/5fQo0BWnHHwDTTAKuD80RM) | 2:58 | 2022-06-01 | 2022-07-07 |
+| [Fly By](https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Fly By](https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4) | 3:21 | 2023-10-18 |  |
 | [Foi Pá Pum](https://open.spotify.com/track/5uztIMqjl5FTZSYDlOBJjV) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/1sjc64jbaYx3p0gktRqdV1) | 3:03 | 2022-01-05 | 2022-02-03 |
 | [FOOL](https://open.spotify.com/track/3VqnLrwIssvMhmv8XyPbG2) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [FOOL](https://open.spotify.com/album/5BuoKXWA9s5sWMJ5XZgqxb) | 2:59 | 2022-03-08 | 2022-04-07 |
 | [foolish thinking](https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [foolish thinking](https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N) | 5:53 | 2023-02-01 | 2023-03-02 |

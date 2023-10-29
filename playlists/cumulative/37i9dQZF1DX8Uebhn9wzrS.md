@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,647 songs - 2 day 14 hr 32 min
+1,649 songs - 2 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,7 @@
 | [Everyday](https://open.spotify.com/track/14aRxOdgQ2MZX2bbp4SSrv) | [Aves](https://open.spotify.com/artist/0hFKM3Tcm1n3pB4NnLPMjZ) | [Everyday](https://open.spotify.com/album/0cBlEKO604MxyJWDZUjkwN) | 2:42 | 2022-08-05 | 2022-08-12 |
 | [everything i once held dear](https://open.spotify.com/track/1MUFBNIJtbTomAOxJxE9kJ) | [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [everything i once held dear](https://open.spotify.com/album/5Tj11EgWn90NjKqGiwMtyC) | 2:51 | 2022-08-12 | 2022-12-17 |
 | [Everything Is Calm](https://open.spotify.com/track/06Ij7RjzQTAOyKIkenfAoA) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN), [Taranczewski](https://open.spotify.com/artist/64amSSHhJP5ZtaaYxFKgb5) | [Everything Is Calm](https://open.spotify.com/album/2Q6VgJGBArEegBfrnZ6tKn) | 2:24 | 2023-03-24 |  |
-| [Everything you need](https://open.spotify.com/track/77DrQhfJtki3fUcMd7oQgB) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Everything you need](https://open.spotify.com/album/1WCLmsAFHVG2UaKQlYMu8N) | 2:22 | 2023-10-27 |  |
+| [Everything you need](https://open.spotify.com/track/77DrQhfJtki3fUcMd7oQgB) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Everything you need](https://open.spotify.com/album/1WCLmsAFHVG2UaKQlYMu8N) | 2:22 | 2023-10-27 | 2023-10-29 |
 | [Exhale](https://open.spotify.com/track/4pQUl96NzlzIgt9gJSN1Qg) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Exhale](https://open.spotify.com/album/4ZDOyfZij7YmgVhV2qucI6) | 2:16 | 2022-12-09 |  |
 | [Exklusive Mermaid](https://open.spotify.com/track/6YDbQEkfLBzaTKtY9zSmDp) | [Hurricana Life](https://open.spotify.com/artist/0Kcx1vBedIEV2q1zAbzeyk) | [Exklusive Mermaid](https://open.spotify.com/album/1RgNgfXKEUaV4cxCcYHUvy) | 1:43 | 2022-04-15 | 2023-08-18 |
 | [Exploring Time](https://open.spotify.com/track/3384bG1DpYYZnQanvYS2rQ) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Exploring Time](https://open.spotify.com/album/3eF8x8rc3UvZJ5WRe9AdNk) | 1:44 | 2022-12-16 |  |
@@ -985,6 +985,7 @@
 | [neo](https://open.spotify.com/track/7o5tomJPSAXGCtZYO3HEZ3) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [neo](https://open.spotify.com/album/5REnxnbgrYcLXIKp74eKwG) | 2:43 | 2022-11-18 |  |
 | [Neon Stream](https://open.spotify.com/track/2aYv8pk0KYKoVTFXYBvUYe) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Retrospect](https://open.spotify.com/album/5xVxxvGLW9KLlHSYeizyJK) | 2:28 | 2022-04-15 | 2022-08-12 |
 | [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 | 2023-03-20 | 2023-10-06 |
+| [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 | 2023-10-27 |  |
 | [never ending](https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [never ending](https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q) | 1:48 | 2022-09-16 |  |
 | [New day](https://open.spotify.com/track/4qH6CKbSXk5iiy1jXZLbTp) | [SAKIRAN](https://open.spotify.com/artist/5MkPq0kcEmaG1F8vqtSO3z) | [New day](https://open.spotify.com/album/6CUomVqIbLdCcGh9njgvpS) | 2:07 | 2022-04-15 | 2022-09-23 |
 | [New Growth](https://open.spotify.com/track/2I0x0mu9XbWlIfqoLoTHcj) | [titus barnacle](https://open.spotify.com/artist/5EJZmwZWIIfJvPaGPwMnyT) | [New Growth](https://open.spotify.com/album/7jgdixZrr2xvhZwWaey6bC) | 2:44 | 2022-11-18 |  |
@@ -1119,7 +1120,7 @@
 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 | 2023-09-22 |  |
 | [Peaches 'n' Cream](https://open.spotify.com/track/12aZMF06csv4n55b8GFGhc) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Peaches 'n' Cream](https://open.spotify.com/album/0YvX1LoDv97RVWeh44ANzo) | 3:12 | 2022-05-13 | 2023-02-07 |
 | [Peaches And Cream](https://open.spotify.com/track/14oGzCDd0Vc8zAmy4XZo9s) | [Extatics](https://open.spotify.com/artist/4iGRANB0bQlyjiewj4ZFs6) | [Peaches And Cream](https://open.spotify.com/album/35UfPfsj9bf6I90OS16Xqe) | 2:20 | 2022-07-15 |  |
-| [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 | 2023-10-27 |  |
+| [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 | 2023-10-27 | 2023-10-29 |
 | [Pearl Dust](https://open.spotify.com/track/4HhZZZAtRufBXnJyPtf7uB) | [florentine](https://open.spotify.com/artist/7FLMLV8T9qJOkzGZArUAns) | [Pearl Dust](https://open.spotify.com/album/6CEev0dBhWl5ed27yrBEOL) | 2:28 | 2022-04-15 | 2022-09-23 |
 | [Pearls](https://open.spotify.com/track/0SglF5UdDxNogi2W6eW8EI) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Pearls](https://open.spotify.com/album/1w4Tj86M2Sk3HwsT83mg2v) | 2:32 | 2022-12-16 | 2023-09-16 |
 | [Pen Pal](https://open.spotify.com/track/5Oo2QK56CJN3scvaXVdaOR) | [Siegburg West](https://open.spotify.com/artist/06QqgeWBB7omtNKDJk773W) | [Pen Pal](https://open.spotify.com/album/3IeuMsDTGxhx94xO2UdSPO) | 2:18 | 2023-03-01 |  |
@@ -1361,6 +1362,7 @@
 | [Springy](https://open.spotify.com/track/6UY5JTrwgI5ID9ddc3DdgB) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [Springy](https://open.spotify.com/album/1r1R6osLbyOEkwyyh8ZgTp) | 2:14 | 2022-04-15 | 2022-09-23 |
 | [Stardust](https://open.spotify.com/track/1YppcqGSt35SP0WyaxFJEo) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb) | [Stardust](https://open.spotify.com/album/0UgvF75eu3fN9Gbp1RZ0IG) | 1:54 | 2022-07-01 | 2022-07-29 |
 | [Stardust](https://open.spotify.com/track/46Kmneh2bKWvioeA18cade) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb) | [Stardust](https://open.spotify.com/album/24SxLgIATDMy720yl7TbFJ) | 1:54 | 2022-07-29 | 2022-11-26 |
+| [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 | 2023-10-27 |  |
 | [Starlight](https://open.spotify.com/track/6YcSUjxAWwublCNiKPgwKD) | [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c) | [Starlight](https://open.spotify.com/album/5a96sPpHX2sg6EJGTsTnMx) | 2:33 | 2022-04-15 | 2022-08-19 |
 | [starry eyes](https://open.spotify.com/track/6HX2fTjb1lItGhMPjrcF0p) | [Cat Dreams](https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1) | [starry eyes](https://open.spotify.com/album/2ivknlaDl9aLesFWbhqgSz) | 1:55 | 2023-08-17 |  |
 | [Starry Sky](https://open.spotify.com/track/3Jxmg9f7febdO7plV6ZFYI) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Starry Sky](https://open.spotify.com/album/58c0I7luC6IYww4orYNgjq) | 2:39 | 2023-01-13 | 2023-03-09 |
@@ -1412,7 +1414,7 @@
 | [Sunset Driver](https://open.spotify.com/track/7sB14XGjDap7MksnZD4kBc) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Sunset Driver](https://open.spotify.com/album/45L0cycorLNnk9gMiwo2p9) | 3:17 | 2022-04-15 | 2022-09-02 |
 | [Sunset Wish](https://open.spotify.com/track/5OuutCf0GMIB0fSyI2kHNr) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Sunset Wish](https://open.spotify.com/album/63RgFySdicgg8HLgCbSTen) | 2:14 | 2022-04-15 | 2022-09-02 |
 | [sunshine.](https://open.spotify.com/track/7yl5I1XGr8cLd3NbXBcaY4) | [Azukori](https://open.spotify.com/artist/5DRwanve8WNydsqtMtwO3Q), [Beteulan](https://open.spotify.com/artist/2NMzOZnJtj8fTeORPhWyCT), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [evolutions vol\. 1](https://open.spotify.com/album/1pP4xKGVOBN2IQ2NB6e6JK) | 2:08 | 2022-10-28 | 2023-01-20 |
-| [Sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 | 2023-10-06 |  |
+| [sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 | 2023-10-06 |  |
 | [Sunwalker](https://open.spotify.com/track/3PQEhclz2qMuapq7d7pkYc) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Sunwalker](https://open.spotify.com/album/38uhMobQa9paPmT58lrHnl) | 2:21 | 2022-04-15 | 2023-08-18 |
 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 | 2022-04-15 | 2023-08-18 |
 | [Supernova](https://open.spotify.com/track/4VUEKRdgmVP7ZvsrnDlWvt) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Supernova](https://open.spotify.com/album/0cywMV3yuEW9GNUutqbfNn) | 2:16 | 2023-03-20 | 2023-10-27 |

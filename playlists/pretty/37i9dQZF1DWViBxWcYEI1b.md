@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,981 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,990 likes - 99 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 98 | [My Mind At Ease](https://open.spotify.com/track/3x8E6sX3I3rGP0oITZRHLX) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [My Mind At Ease](https://open.spotify.com/album/1oBZ20zNFcydJedaGQ5InG) | 2:55 |
 | 99 | [Dance With Myself](https://open.spotify.com/track/3Ozg0uLdo0xQGb2w0kWUad) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Dance With Myself](https://open.spotify.com/album/42L2UX912IQEKg84KcO2SY) | 2:51 |
 
-Snapshot ID: `MCw1MmE2YTVlM2UzZGE1Nzk2YTExNjNmMDM4OGRlZmVlZjI4YTBkZGVk`
+Snapshot ID: `MCxiY2RhMDY3ZTZkZjBjZDEwY2U2YzY4YTgxYjgwMzBlYmE5NzI0OGI4`

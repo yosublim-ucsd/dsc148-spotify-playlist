@@ -1,12 +1,12 @@
 {
   "description": "When someone you love becomes a memory... find solace in these songs.",
-  "num_followers": 148170,
+  "num_followers": 148190,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGU2YzA4NTQ5ZmYxM2I1YzYzODUwMmZlMDFiOTY2MDNiMTNiZDU0",
+  "snapshot_id": "MCw1MDdjMDFjNDg4Y2JhYWFkNGViMThlNjk4MTc0YWI4ZDI2N2I2ODJi",
   "tracks": [
     {
       "added_at": "2023-09-29 21:35:53",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "My Private Nation",
-        "url": "https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "When I Look to the Sky",
-      "url": "https://open.spotify.com/track/3h0NvxPV2wiENW2ieih9DL"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "Tug Of War",
         "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 148853,
       "name": "Here Today - Remixed 2015",
       "url": "https://open.spotify.com/track/0QtnwXDziZN1K55fXuLN6q"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "My Private Nation",
+        "url": "https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "When I Look to the Sky",
+      "url": "https://open.spotify.com/track/3h0NvxPV2wiENW2ieih9DL"
     },
     {
       "added_at": "2023-09-29 21:35:53",

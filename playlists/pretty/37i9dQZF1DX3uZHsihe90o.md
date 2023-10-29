@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,113 likes - 70 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,135 likes - 70 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 21 | [The Bullfrog Opera](https://open.spotify.com/track/2sBt9lzwuND9cCKCjMUAOe) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd) | 3:01 |
 | 22 | [When The Saints Go Marching In](https://open.spotify.com/track/30GOP0aVgbqy1tJw3YmjR3) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Toddler Action Songs](https://open.spotify.com/album/4LOfihzuxh5L2NqaMN02yj) | 1:34 |
 | 23 | [Hello](https://open.spotify.com/track/4J3YXDyesmkN4q6Diy9qDV) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/2kaRIwMtwtGJOvoOLPCrDo) | 2:37 |
-| 24 | [Honey Oh Be](https://open.spotify.com/track/1ivFuOe2bsoWMF2XdvlAZ8) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [I Love You the Most](https://open.spotify.com/album/4K0SW8yURGgwbiRAoff90u) | 1:53 |
-| 25 | [In the Kitchen](https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:08 |
+| 24 | [In the Kitchen](https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:08 |
+| 25 | [Honey Oh Be](https://open.spotify.com/track/1ivFuOe2bsoWMF2XdvlAZ8) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [I Love You the Most](https://open.spotify.com/album/4K0SW8yURGgwbiRAoff90u) | 1:53 |
 | 26 | [Bicycle](https://open.spotify.com/track/4gHHytUVWdfPumbJA9AizA) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:03 |
 | 27 | [My Own Two Hands](https://open.spotify.com/track/0RcOyACUtCAgCglC9tPlqK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:58 |
 | 28 | [Can You Canoe?](https://open.spotify.com/track/0WhyyOzUomECzP2vkSLmJC) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd) | 3:04 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 47 | [The Farmer in the Dell](https://open.spotify.com/track/04obgfgMddJpPnv8xeEfgR) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [50 Great Nursery Rhymes](https://open.spotify.com/album/2wA20u6TpgFEzHdeUOa9L7) | 2:25 |
 | 48 | [Family Time](https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 4:20 |
 | 49 | [Goodnight Little Arlo \(Goodnight Little Darlin'\)](https://open.spotify.com/track/2BxQTBn9PvfdnMJ1frMHA5) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Songs to Grow on for Mother and Child](https://open.spotify.com/album/6zjiagirCtoXcEvQxjUoCo) | 3:16 |
-| 50 | [I've Been Workin' on the Railroad \(feat\. Niall de Burca and John Wood\)](https://open.spotify.com/track/6x28Wyl6aWusAfnywEyBIl) | [Dan Crow](https://open.spotify.com/artist/1EQSKxGMjwQWCo6QqBwt4p), [Niall de Burca](https://open.spotify.com/artist/71oI8ewDCjuoKNQ3UIYP0e), [John Wood](https://open.spotify.com/artist/3pmgthLeZygjIItk1u5TTx) | [Sing\-a\-Ling with Friends](https://open.spotify.com/album/3GpgPqtCnQSV1Ng4EkGZKl) | 2:18 |
-| 51 | [Chicken Dinner Song](https://open.spotify.com/track/0RR5ogfmCy25MTo95n5kLA) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:19 |
+| 50 | [Chicken Dinner Song](https://open.spotify.com/track/0RR5ogfmCy25MTo95n5kLA) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:19 |
+| 51 | [I've Been Workin' on the Railroad \(feat\. Niall de Burca and John Wood\)](https://open.spotify.com/track/6x28Wyl6aWusAfnywEyBIl) | [Dan Crow](https://open.spotify.com/artist/1EQSKxGMjwQWCo6QqBwt4p), [Niall de Burca](https://open.spotify.com/artist/71oI8ewDCjuoKNQ3UIYP0e), [John Wood](https://open.spotify.com/artist/3pmgthLeZygjIItk1u5TTx) | [Sing\-a\-Ling with Friends](https://open.spotify.com/album/3GpgPqtCnQSV1Ng4EkGZKl) | 2:18 |
 | 52 | [Kindness Grows](https://open.spotify.com/track/1KjAXvISuEKlMvVWgpon3k) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Kindness Grows](https://open.spotify.com/album/2nuTu6RZ9lf8uq3CHAhlbX) | 1:32 |
 | 53 | [The Riddle Song](https://open.spotify.com/track/7MjYIqk3plWn2CHz9SFozd) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:41 |
 | 54 | [My Country Tis of Thee](https://open.spotify.com/track/6b00M2aFkwisrX6GEZAg7N) | [Crosby & Nash](https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6) | [Crosby & Nash](https://open.spotify.com/album/79ZjC6bM9LX2brEnqhraVd) | 1:42 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 66 | [Polly\-Wolly\-Doodle](https://open.spotify.com/track/5hZ7N5EWJWmvDJyDPMmWU5) | [Shirley Temple](https://open.spotify.com/artist/325LVWNjKZv6UwNq5xuPHt) | [The Very Best Of](https://open.spotify.com/album/4HYYb4rzvra5MbY59bRCXt) | 1:53 |
 | 67 | [Matter of Fact](https://open.spotify.com/track/24QRXHKVA6rWIxHZqU8rX9) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [The Mouth](https://open.spotify.com/album/4KZHTM0tObhCZPckxqb4hA) | 2:24 |
 | 68 | [The Knowing \- From the Ani DiFranco Children's Book: The Knowing](https://open.spotify.com/track/72BkZqFQXtHrd1Ixd2J5kV) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [The Knowing \(From the Ani DiFranco Children's Book: The Knowing\)](https://open.spotify.com/album/5PVaE6TIUj8YbRns0b4m7T) | 5:11 |
-| 69 | [Follow the Drinkin' Gourd](https://open.spotify.com/track/5qRrrhYkzHAjF5XRlmGGzT) | [Fox and Branch](https://open.spotify.com/artist/5FI0PNabN2h4i206dKqFRI) | [Did You Hear That?](https://open.spotify.com/album/0dIRGuMAPwJP9ZAXeLtvOG) | 4:28 |
+| 69 | [Good Day](https://open.spotify.com/track/4JKmixZkyW8l3Ua6dFzS51) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Good Day](https://open.spotify.com/album/6XDLhJRyyQN3ZLfmex2J7o) | 3:19 |
 | 70 | [We Shall Not Be Moved](https://open.spotify.com/track/38UmswDbJCKoyx4Dbi0zeO) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL) | [House Party](https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O) | 2:52 |
 
-Snapshot ID: `MCw5Y2Q5MTZmZWEzODI4NmFiYzY2Zjk1Y2I1ODljMzA2NDMzNGU4YmQ4`
+Snapshot ID: `MCw3ZDkxZjFiYTQzNTU2Y2U0NTc5MDZiMTdiYWI4ODMwZjdmMjM0MjZh`

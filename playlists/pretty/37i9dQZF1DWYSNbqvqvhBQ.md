@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,943 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,959 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 13 | [Physical Touch](https://open.spotify.com/track/0tnpWXevslZO3FkxSu4VVC) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [For All Time](https://open.spotify.com/album/4U6jJK40mq3OXnvgjFqukJ) | 3:03 |
 | 14 | [White Noise](https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [White Noise](https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R) | 2:51 |
 | 15 | [Different Kind Of Beautiful](https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Different Kind Of Beautiful](https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t) | 3:21 |
-| 16 | [Big Smile](https://open.spotify.com/track/5vTWIsHtfmUXswgNqNJlOH) | [Blanko](https://open.spotify.com/artist/2Dk2jkQQYILtFAG09Vjvux) | [MORE music by BLANKO](https://open.spotify.com/album/5Z0CIjQBe7pZfVMuHWeDfq) | 3:15 |
+| 16 | [Big Smile](https://open.spotify.com/track/5vTWIsHtfmUXswgNqNJlOH) | [Blanko](https://open.spotify.com/artist/2Dk2jkQQYILtFAG09Vjvux) | [More music by BLANKO](https://open.spotify.com/album/5Z0CIjQBe7pZfVMuHWeDfq) | 3:15 |
 | 17 | [What Are You Waiting For?](https://open.spotify.com/track/3hnFEjPOnP7d3eTxPGpNkX) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What Are You Waiting For?](https://open.spotify.com/album/1BTeZsZoB5PK480kmZew8t) | 3:59 |
 | 18 | [Stick Season](https://open.spotify.com/track/7ibpNcYxrstM16ehN7OwbK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:02 |
 | 19 | [As It Is Right Now](https://open.spotify.com/track/5Rec1FjFqeRw1oSRFTidMf) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR) | [As It Is Right Now](https://open.spotify.com/album/5sgwzIrkao1f4GzGricPkQ) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 99 | [Time Flies \- 2023 Remaster](https://open.spotify.com/track/64Q73VKSbFLDsmYfhEjOIN) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Time Flies \(2023 Remaster\)](https://open.spotify.com/album/5W0uBJsVkQ9huOHetFI7WL) | 2:46 |
 | 100 | [When It All Falls Down](https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona \(Deluxe\)](https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB) | 2:27 |
 
-Snapshot ID: `MCwzMDRiMzE2YTM4YzRhOWQ0OTE5OTUxODBjOTMwZGU2MzI3YzVlN2Ez`
+Snapshot ID: `MCxlMGVhYWFkZjIzMWMzMmFjMzk1OTEzYzI3YjA1ODU0ODk0MmE5NDkz`

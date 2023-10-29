@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Roseline Layo
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,133 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,193 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 5 | [1 à 1](https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [1 à 1](https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy) | 3:32 |
 | 6 | [Dibango Dibanga](https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U) | [Bello Falcao](https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R) | [Dibango Dibanga](https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX) | 3:00 |
 | 7 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
-| 8 | [Aicha trambler](https://open.spotify.com/track/5khZ14Ne0o9PoZfbP3oQBB) | [Dj domi 226](https://open.spotify.com/artist/47Ye8a65ZCXhODjHJfwNYQ) | [Aicha trambler](https://open.spotify.com/album/4LsBrpMBybnXbu47iLv0Et) | 2:57 |
+| 8 | [Aïcha trembleeer](https://open.spotify.com/track/5CZGF2LbWH05WwBR6pBz5B) | [Dj Domi](https://open.spotify.com/artist/7aCX1VkFmFdazTE4daQI2b) | [Aïcha trembleeer](https://open.spotify.com/album/0itQXaAig0OLVsgkaClF2m) | 2:57 |
 | 9 | [Échauffement \- Remix](https://open.spotify.com/track/7FrQ65IHw0NCJOPsm2mAML) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Échauffement \(Remix\)](https://open.spotify.com/album/5oBjhFTdm6JAMsJfCxY1dR) | 2:08 |
 | 10 | [Do Do Do](https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Do Do Do](https://open.spotify.com/album/6grnvx5NFLY3SyONFUCZsT) | 3:49 |
 | 11 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Terminator](https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Terminator](https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8) | 3:02 |
 | 40 | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM) | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/album/16upc0FlSYisk6HS2zFNiQ) | 3:58 |
 
-Snapshot ID: `MCxjOTM3MjkzYjhiZDlmZTA3NDQ3NjcxNzljZTYyZTE5NDVkMzIwZDk0`
+Snapshot ID: `MCw3MGZiOTM3YTllZGM5YjE5MzcwZTc4ODhkZjAzM2NiMGE5ZDM2OTRi`

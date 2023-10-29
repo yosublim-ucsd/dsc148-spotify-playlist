@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,847 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,587 likes - 75 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 2 | [Yeh Sham Mastani](https://open.spotify.com/track/3BjAnJwtlVoS7m3kdb6Y8i) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Kati Patang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OwB3P97qeFzhDQYYHy5uv) | 4:36 |
 | 3 | [Chura Liya Hai Tumne Jo Dil Ko \(From "Yaadon Ki Baaraat"\)](https://open.spotify.com/track/3ci9YeXRulpmFPDvqneVwc) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Singing Icon \- Asha Bhosle](https://open.spotify.com/album/3dXlPx1XUd6VIMgXTwpnQ3) | 4:47 |
 | 4 | [Mere Mehboob Qayamat Hogi, Pt\. 1 \(From "Mr\. X in Bombay"\)](https://open.spotify.com/track/0us929HY2oacANZERkLkUL) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 3:48 |
-| 5 | [Kya Hua Tera Vada \(From "Hum Kisise Kum Naheen"\)](https://open.spotify.com/track/4j6c1euXhEl6y7HXObCV3s) | [Sushma Shrestha](https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Memoirically \- Mohammed Rafi](https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej) | 4:17 |
+| 5 | [Kya Hua Tera Wada](https://open.spotify.com/track/4ac0I6Y1VgHMHduM9ZUUpR) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Mohammed Rafi Songs, Vol.1](https://open.spotify.com/album/4MEdd0I6Gin2VjWv4MN2e0) | 4:18 |
 | 6 | [Pyar Diwana Hota Hai \(From "Kati Patang"\)](https://open.spotify.com/track/6MYmHgOoy0BLOtdL2Zug6e) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 4:44 |
 | 7 | [Aap Ki Ankhon Mein Kuch \(From "Ghar"\)](https://open.spotify.com/track/0DIGEuLzTRIF9jtmKQlPW4) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 4:09 |
 | 8 | [Lag Ja Gale Se Phir](https://open.spotify.com/track/1kKxvLPfgpG5NRJ9MAmYsu) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Woh Kaun Thi? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/579fdKlYum67csQuigB0Z2) | 4:17 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 51 | [Tum Pukar Lo Tumhara Intezar Hai](https://open.spotify.com/track/3bKu8IK7vgUDwtJiYcBkme) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Khamoshi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JhYCL7nhuh98kIMzzqviP) | 3:45 |
 | 52 | [Teri Bindiya Re \(From "Abhimaan"\)](https://open.spotify.com/track/0x4ep73GsOujupPBVjwHgb) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:32 |
 | 53 | [Aaiye Meharban](https://open.spotify.com/track/5vvkKkLRXcCvcRK40ld4df) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Howrah Bridge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pe4oFK1nJc98OwK6ItUTG) | 4:12 |
-| 54 | [Tere Mere Milan Ki Yeh Raina \(From "Abhimaan"\)](https://open.spotify.com/track/4oUJpT44uR4ShMHqp4J0OR) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:54 |
+| 54 | [Tere Mere Milan Ki Yeh Raina](https://open.spotify.com/track/2hUJUuzZtfQAclFdI3Qrvb) | [Kishore Kumar](https://open.spotify.com/artist/5XnvyE7dQNSC1v7hK1p4WW) | [Kishore Kumar Songs Vol.1](https://open.spotify.com/album/1B0HCfwjhcddpJM2nm8BWs) | 4:57 |
 | 55 | [Gaadi Bula Rahi Hai](https://open.spotify.com/track/0TVwLOtr85EyZ9fxty9h8u) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Dost \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tCoPq77zF0b1s9lQLhXfs) | 6:28 |
 | 56 | [Zindagi Kaisi Hai Paheli](https://open.spotify.com/track/5WDhqq4AlF4nuaep2QWDdE) | [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Anand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5YS9C9LtFu5GEIAFGfQZTJ) | 3:29 |
 | 57 | [Jhuki Jhuki Si Nazar](https://open.spotify.com/track/5PWQsLrymwQbCVYOO70Vfd) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 74 | [Phir Chiddi Raat](https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 5:08 |
 | 75 | [Yeh Raat Yeh Chandni](https://open.spotify.com/track/1X8ZEqYlX1rSlaoQt5dRy9) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Baarishein, Chai Aur Hemant Kumar](https://open.spotify.com/album/0Z4dnIU8RAr8hDEb8IKhko) | 4:56 |
 
-Snapshot ID: `MCw0MGY4OTNmMGVlODBjOGZhMTI2MzMxY2ZmNzRkMjY2NDAyMDc1Mjgw`
+Snapshot ID: `MCw2YmM4NmY5NjFhMjY3YjNhNGViMTg5OGY5OGRkYjgyZDg5MzU0OTBl`

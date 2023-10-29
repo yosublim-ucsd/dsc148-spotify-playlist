@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,382 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,350 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 12 | [What It Is?!](https://open.spotify.com/track/4NgMDPV2mIh6MUkqkyNmP3) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [What It Is?!](https://open.spotify.com/album/2hpdfZUyxtuLLi5PHGC6nJ) | 3:13 |
 | 13 | [Like This \(feat\. Lil Uzi Vert, Destroy Lonely\)](https://open.spotify.com/track/1DypGkTryeH4cPFBVucxo4) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:12 |
 | 14 | [Barbie](https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr) | [JaidynAlexis](https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi) | [Barbie](https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg) | 2:08 |
-| 15 | [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 |
+| 15 | [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 |
 | 16 | [Games](https://open.spotify.com/track/6GUgd5uXPPLzNK94F7zO4Y) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Games](https://open.spotify.com/album/432GE6uinoEWLytsNonxuv) | 1:36 |
 | 17 | [Slow It Down](https://open.spotify.com/track/0jRiVMnGBnuyXQsIVwbDSK) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Slow It Down](https://open.spotify.com/album/5FoMKRPTtYoi072HZqy88d) | 2:14 |
 | 18 | [TATTI](https://open.spotify.com/track/67mSIbxWBzaFptWINhPN2U) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TATTI](https://open.spotify.com/album/6Z3TtvAdHtqtFCMtxhrpu8) | 1:41 |
 | 19 | [Diamonds Cry](https://open.spotify.com/track/3lq7nObJRC3GXoPDe8zZIW) | [Tevomxntana](https://open.spotify.com/artist/4R1Ph1IPb4wG0XWzzOcvQa) | [Diamonds Cry](https://open.spotify.com/album/7EW3I0378mL1kzW8x9ddp2) | 2:01 |
 | 20 | [You Is Not Havin](https://open.spotify.com/track/4dUj9KBYC8ob9MGgTPaRTF) | [Lil Kari](https://open.spotify.com/artist/2QXvHlMnUVw9LKYlxuCRHd) | [You Is Not Havin](https://open.spotify.com/album/6EoQ6gT2h72WsJQHn0lIEa) | 2:12 |
-| 21 | [Think He God](https://open.spotify.com/track/1dzA9I4gpWwhGVdueKJSVT) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Think He God](https://open.spotify.com/album/494aovQtoRKo3GHf6o8LqM) | 2:32 |
+| 21 | [Think He God](https://open.spotify.com/track/3xwRLDnm6pwIGWVyUabn1s) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Celestial 2](https://open.spotify.com/album/16n2UtHMNIqXIrbkJQMdRm) | 2:32 |
 | 22 | [Spirit \(feat\. 03 Greedo\)](https://open.spotify.com/track/1NrnZgvRMMSCvJzu9Qjr45) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Sir CEO](https://open.spotify.com/album/4xYZJKqkjGcg7Od5GFalnx) | 3:04 |
 | 23 | [No Problems](https://open.spotify.com/track/4fcXf7kKugatldnInKIH4V) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa), [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [No Problems](https://open.spotify.com/album/4SWdu2bBKO9DkuwbnK8I7o) | 3:08 |
 | 24 | [CRUEL WORLD](https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [CRUEL WORLD](https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 |
 | 100 | [First Things First](https://open.spotify.com/track/7DFTrjG8Y4uNSUGj8bfLMR) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [First Things First](https://open.spotify.com/album/7vC8AyFxSAN0qPQwE4RxBm) | 1:46 |
 
-Snapshot ID: `MCxlNGM3ODExYzQzMjgwNDZmMDk4ODNlODA2NDViYTUwZWFmM2E0ODg3`
+Snapshot ID: `MCxhNDliNDYxY2EzZjA1ZTZiYWZlYzM0NzI1ZjZmYTJlMmFmMzY3MTgz`

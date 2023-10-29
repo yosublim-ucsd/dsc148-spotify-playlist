@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 27921,
+  "num_followers": 27985,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDIzZTNhNDE5ODA1ZDk3ZDYyOTFjNzgzZjk5NTRjNzRkZjgwYmFj",
+  "snapshot_id": "MCw5NzIyYTZjYWZhYTgxNjBkY2YxZmY2MGYyYzEyZGY5ZmFlNWMyYjk0",
   "tracks": [
     {
       "added_at": "2023-10-27 21:18:55",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
       },
       "artists": [
         {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
         }
       ],
-      "duration_ms": 251500,
-      "name": "Atomic Sun",
-      "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
       },
       "artists": [
         {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
         }
       ],
-      "duration_ms": 201172,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
+      "duration_ms": 251500,
+      "name": "Atomic Sun",
+      "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
-      },
-      "artists": [
-        {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
         "name": "Unfair",
         "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 247566,
       "name": "Unfair",
       "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
+        "name": "What's Your Name",
+        "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
+      },
+      "artists": [
+        {
+          "name": "Us Two",
+          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
+        }
+      ],
+      "duration_ms": 444444,
+      "name": "What's Your Name",
+      "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
         "name": "Scout",
         "url": "https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 234193,
       "name": "Scout",
       "url": "https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "What's Your Name",
-        "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
-      },
-      "artists": [
-        {
-          "name": "Us Two",
-          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
-        }
-      ],
-      "duration_ms": 444444,
-      "name": "What's Your Name",
-      "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
+        "name": "YAP EP",
+        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
+      },
+      "artists": [
+        {
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+        }
+      ],
+      "duration_ms": 246474,
+      "name": "YAP",
+      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
         "name": "Take",
         "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 164340,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "YAP EP",
-        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
-      },
-      "artists": [
-        {
-          "name": "Kollektiv Turmstrasse",
-          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
-        }
-      ],
-      "duration_ms": 246474,
-      "name": "YAP",
-      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
+        "name": "N NIGHT",
+        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
+      },
+      "artists": [
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "duration_ms": 454000,
+      "name": "N NIGHT",
+      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
         "name": "Ole",
         "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "N NIGHT",
-        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
+        "name": "Lucky Bastard",
+        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
       },
       "artists": [
         {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
         }
       ],
-      "duration_ms": 454000,
-      "name": "N NIGHT",
-      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
+      "duration_ms": 185759,
+      "name": "Lucky Bastard",
+      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Lucky Bastard",
-        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Lucky Bastard",
-      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
         "name": "Galactica",
         "url": "https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Gozar",
-        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 204384,
-      "name": "Gozar",
-      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
         "name": "No Bueno (Extended Mix)",
         "url": "https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 350125,
       "name": "No Bueno (Extended Mix)",
       "url": "https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "Gozar",
+        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 204384,
+      "name": "Gozar",
+      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
+        "name": "winter '23",
+        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "buss it.",
+      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
         "name": "Tears In Berghain EP",
         "url": "https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 267122,
       "name": "Tears In Berghain",
       "url": "https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "winter '23",
-        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "buss it.",
-      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1683,6 +1683,38 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
+        "name": "Beats On Fire",
+        "url": "https://open.spotify.com/album/42KeFM94VajibjjWtsPq41"
+      },
+      "artists": [
+        {
+          "name": "Andino",
+          "url": "https://open.spotify.com/artist/7qCEIImZAd3WtoFPijJV3W"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Beats On Fire",
+      "url": "https://open.spotify.com/track/0S3MmSDqzDkbYL5ZPKEcjV"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "What We Got",
+        "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "What We Got",
+      "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B"
       },
@@ -1699,6 +1731,22 @@
       "duration_ms": 223880,
       "name": "Trip",
       "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
+    },
+    {
+      "added_at": "2023-10-27 21:18:55",
+      "album": {
+        "name": "Superlicious",
+        "url": "https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Superlicious",
+      "url": "https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1723,18 +1771,18 @@
     {
       "added_at": "2023-10-27 21:18:55",
       "album": {
-        "name": "Superlicious",
-        "url": "https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y"
+        "name": "summer '23",
+        "url": "https://open.spotify.com/album/2EbpNouTaGpQLUPQ6xfXJ4"
       },
       "artists": [
         {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
         }
       ],
-      "duration_ms": 181417,
-      "name": "Superlicious",
-      "url": "https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV"
+      "duration_ms": 379218,
+      "name": "street knowledge.",
+      "url": "https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR"
     },
     {
       "added_at": "2023-10-27 21:18:55",
@@ -1755,54 +1803,6 @@
       "duration_ms": 243809,
       "name": "Flashback feat. Forrest",
       "url": "https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "Kill The Soundboy",
-        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
-      },
-      "artists": [
-        {
-          "name": "Denney",
-          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "Kill The Soundboy",
-      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "summer '23",
-        "url": "https://open.spotify.com/album/2EbpNouTaGpQLUPQ6xfXJ4"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 379218,
-      "name": "street knowledge.",
-      "url": "https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR"
-    },
-    {
-      "added_at": "2023-10-27 21:18:55",
-      "album": {
-        "name": "Tonight EP",
-        "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
-      },
-      "artists": [
-        {
-          "name": "Latmun",
-          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
-        }
-      ],
-      "duration_ms": 352500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
     }
   ],
   "unique_name": "Minimal Tech",

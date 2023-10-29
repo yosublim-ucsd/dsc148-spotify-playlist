@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 208146,
       "name": "Brindemos Por Ellas",
       "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
@@ -578,6 +578,24 @@
       "duration_ms": 238168,
       "name": "Mi Trompeta",
       "url": "https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t"
+    },
+    {
+      "album": {
+        "name": "Las M\u00e1s Picudas del Tribal",
+        "url": "https://open.spotify.com/album/4X8TwSLAqP8J60F0wXfYOA"
+      },
+      "artists": [
+        {
+          "name": "DJ Morphius",
+          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "Mueve Tu Caderita",
+      "url": "https://open.spotify.com/track/7E6SsIPD1wn0SZsm4CxJhr"
     },
     {
       "album": {

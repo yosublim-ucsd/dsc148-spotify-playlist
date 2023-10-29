@@ -4,7 +4,7 @@
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-205 songs - 13 hr 50 min
+206 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Bird Machine](https://open.spotify.com/track/2BKawKIR2ZBMX4DLK6oB0c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Alesia](https://open.spotify.com/artist/5Jq7xVix3aUHQFQ5vNUgBu) | [Bird Machine](https://open.spotify.com/album/7rwgBVIsIyUSYpcQbcGrsG) | 3:18 | 2022-06-09 | 2022-11-14 |
 | [Boneless](https://open.spotify.com/track/4qPnE8jBZN3wmgGxspsOcP) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Boneless \(Remixes\)](https://open.spotify.com/album/2aXItG3t99T9Siy4kXae5P) | 4:30 | 2021-04-16 | 2022-07-20 |
 | [Boneless](https://open.spotify.com/track/5PZI5xTcMq8FsCcEroth7S) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Boneless \(Remixes\)](https://open.spotify.com/album/3EJZwYDh3zfdpjw1HX4MYA) | 4:30 | 2021-04-16 |  |
-| [Booyah](https://open.spotify.com/track/30BBwDTjwHQf1ixFGaE2o2) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Booyah](https://open.spotify.com/album/5VlVcVoGT5g1F8t1VUAef8) | 5:11 | 2021-04-16 |  |
+| [Booyah](https://open.spotify.com/track/30BBwDTjwHQf1ixFGaE2o2) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Booyah](https://open.spotify.com/album/5VlVcVoGT5g1F8t1VUAef8) | 5:11 | 2021-04-16 | 2023-10-29 |
+| [Booyah](https://open.spotify.com/track/55SPQmrp0XawJSbBtPelaA) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Booyah](https://open.spotify.com/album/5ci6vrfvJcqiaMGtgatm4o) | 5:11 | 2022-06-09 |  |
 | [Boy Oh Boy](https://open.spotify.com/track/20c8kwM60klIrU9LIYNv0X) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 2:54 | 2021-04-16 |  |
 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 | 2021-04-16 |  |
 | [Calling \(Lose My Mind\) \- Radio Edit](https://open.spotify.com/track/5Sey3HgGa6KB46mlOyCClZ) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Calling \(Lose My Mind\)](https://open.spotify.com/album/68ORvGqWXloU4WOUOdW8bm) | 3:25 | 2021-04-16 | 2022-07-29 |

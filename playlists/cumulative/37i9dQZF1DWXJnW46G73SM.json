@@ -1867,6 +1867,28 @@
     },
     {
       "album": {
+        "name": "Proof of Life",
+        "url": "https://open.spotify.com/album/0QnDiBYEraHXKKwz5ShYLq"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        },
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Case Closed",
+      "url": "https://open.spotify.com/track/5JfW2sCbY5Usnf3RQVnJ8B"
+    },
+    {
+      "album": {
         "name": "TRAUMA (2023)",
         "url": "https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ"
       },

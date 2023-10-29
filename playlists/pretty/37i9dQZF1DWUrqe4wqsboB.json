@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 3781,
+  "num_followers": 3788,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjU3MTRiZDlhNWY4YWE5ODRjYTIzYzc5MjFhN2ViNjk1YzllMTdi",
+  "snapshot_id": "MCxkMThjNTQ5N2YxN2YyNGUyNTg5ZWQwOTdmZjk3ZGI2NzJkODM4MTVi",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/43ouDVkgCx8hfZ7UbSYpoB"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 264038,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/0SPr1VZrc4sQ0IWz3iXkr6"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 225000,
       "name": "Problema",
       "url": "https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/43ouDVkgCx8hfZ7UbSYpoB"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 264038,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/0SPr1VZrc4sQ0IWz3iXkr6"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Miss Universos",
+        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 229963,
       "name": "Tommy Bahama",
       "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Miss Universos",
-        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Desastre Comunal",
-      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "La Rareza",
+        "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
+      },
+      "artists": [
+        {
+          "name": "Los Rarxs",
+          "url": "https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Tu Nunca Has Sentido",
+      "url": "https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Duo Deleite",
         "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 187500,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "La Rareza",
-        "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
-      },
-      "artists": [
-        {
-          "name": "Los Rarxs",
-          "url": "https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Tu Nunca Has Sentido",
-      "url": "https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "It's Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 733182,
+  "num_followers": 733282,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTk0NTE3MDM0NjY5NzhhNzVmODQyYTEwNDNkOWYyMDE0NGQ5YjI0",
+  "snapshot_id": "MCw3YTYxN2VkNGVmMDU0MDZlYTg4ODYwMTY0NmNlMjEzZDQ4NWRlODJl",
   "tracks": [
     {
       "added_at": "2023-10-26 22:00:00",
@@ -43,38 +43,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "N\u00e4r lyktorna t\u00e4nds \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/4hpel896xPcyHSPphnZ6TR"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 246967,
-      "name": "N\u00e4r lyktorna t\u00e4nds \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/477OQNyWt0hvsGLG4fXqP4"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Valborg - Spotify Singles",
-        "url": "https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 153830,
-      "name": "Valborg - Spotify Singles",
-      "url": "https://open.spotify.com/track/6rHvgDYUjdYRf4K5jVLfpw"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
@@ -87,6 +55,22 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "N\u00e4r lyktorna t\u00e4nds \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/4hpel896xPcyHSPphnZ6TR"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 246967,
+      "name": "N\u00e4r lyktorna t\u00e4nds \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/477OQNyWt0hvsGLG4fXqP4"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -107,6 +91,22 @@
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Hj\u00e4rta",
+        "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Hj\u00e4rta",
+      "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Valborg - Spotify Singles",
+        "url": "https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "duration_ms": 153830,
+      "name": "Valborg - Spotify Singles",
+      "url": "https://open.spotify.com/track/6rHvgDYUjdYRf4K5jVLfpw"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Is It Love",
         "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 143669,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Hj\u00e4rta",
-        "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
-      },
-      "artists": [
-        {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Hj\u00e4rta",
-      "url": "https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -219,6 +219,26 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Julibarn",
+        "url": "https://open.spotify.com/album/4Z2DhkUJh87klzVawbKaEc"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        },
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "duration_ms": 191752,
+      "name": "Julibarn",
+      "url": "https://open.spotify.com/track/3KKJ0gfzfKfHOgKH8K9G5x"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -347,26 +367,6 @@
       "duration_ms": 200506,
       "name": "N\u00e4r festen tagit slut",
       "url": "https://open.spotify.com/track/5fEE0xGJCPFgZTHJycBddf"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Julibarn",
-        "url": "https://open.spotify.com/album/4Z2DhkUJh87klzVawbKaEc"
-      },
-      "artists": [
-        {
-          "name": "Newkid",
-          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
-        },
-        {
-          "name": "Naod",
-          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
-        }
-      ],
-      "duration_ms": 191752,
-      "name": "Julibarn",
-      "url": "https://open.spotify.com/track/3KKJ0gfzfKfHOgKH8K9G5x"
     },
     {
       "added_at": "2023-10-26 22:00:00",

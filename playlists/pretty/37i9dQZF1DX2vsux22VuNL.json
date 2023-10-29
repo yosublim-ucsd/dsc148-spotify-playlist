@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 290072,
+  "num_followers": 290194,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjkxMWVmNjczZWI1NjJhZDIzMTcwNTA3NTgxNTRkMzdhNGM5NzEy",
+  "snapshot_id": "MCxlOTZmOTI3ZWFhZmFiOWExNmFlNDMzZGM0MGVhZThlMmU5NjM1Mzgz",
   "tracks": [
     {
       "added_at": "2023-10-27 20:52:05",
@@ -431,30 +431,6 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
-        "name": "Marcha",
-        "url": "https://open.spotify.com/album/5DUyARSiVNvxIrS1MW7vGN"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Charles do Bronxs",
-          "url": "https://open.spotify.com/artist/19Mqlg717812ha5zPDul9q"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Marcha",
-      "url": "https://open.spotify.com/track/1qcHCY4STgSPTAPqphdYFi"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
         "name": "Te Pe\u00e7o Pra Ficar",
         "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 235862,
       "name": "Te Pe\u00e7o Pra Ficar",
       "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
+        "name": "Marcha",
+        "url": "https://open.spotify.com/album/5DUyARSiVNvxIrS1MW7vGN"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Charles do Bronxs",
+          "url": "https://open.spotify.com/artist/19Mqlg717812ha5zPDul9q"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Marcha",
+      "url": "https://open.spotify.com/track/1qcHCY4STgSPTAPqphdYFi"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -579,22 +579,18 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
-        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
-        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
       },
       "artists": [
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         }
       ],
-      "duration_ms": 158109,
-      "name": "Do Mesmo Lado",
-      "url": "https://open.spotify.com/track/3Dt9KqpGEH30Iwo6wF9Y2S"
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -627,18 +623,22 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
+        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
       },
       "artists": [
         {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
         }
       ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
+      "duration_ms": 158109,
+      "name": "Do Mesmo Lado",
+      "url": "https://open.spotify.com/track/3Dt9KqpGEH30Iwo6wF9Y2S"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 157628,
       "name": "Te Ver Sorrindo",
       "url": "https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -931,6 +931,26 @@
       "duration_ms": 197083,
       "name": "Efeito Brasa",
       "url": "https://open.spotify.com/track/0NMLNyUSHexdZXeVOBnry0"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -1079,26 +1099,6 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
         "name": "Desliga",
         "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
       },
@@ -1119,22 +1119,26 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
       "artists": [
         {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
         }
       ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -1163,6 +1167,26 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -1207,30 +1231,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        }
+      ],
+      "duration_ms": 170538,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1643,26 +1663,6 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        }
-      ],
-      "duration_ms": 170538,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/2aohzSz5kigRkQZ5lagVaM"
       },
@@ -1679,26 +1679,6 @@
       "duration_ms": 178367,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1R1Og3MKiYJGUFUpudLklx"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
-        "name": "L\u00e1bia",
-        "url": "https://open.spotify.com/album/3wEHJr1DqFpzRNbFk4o5hC"
-      },
-      "artists": [
-        {
-          "name": "RAMON",
-          "url": "https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl"
-        },
-        {
-          "name": "Two Records",
-          "url": "https://open.spotify.com/artist/4SfxAv3Xdu1gD1HBs6BYSn"
-        }
-      ],
-      "duration_ms": 177997,
-      "name": "L\u00e1bia",
-      "url": "https://open.spotify.com/track/3jiSDYClzVY31izbE8lxGQ"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -1723,6 +1703,26 @@
       "duration_ms": 193728,
       "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
       "url": "https://open.spotify.com/track/0mORJWR6L3RSefYVBke8Zs"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
+        "name": "L\u00e1bia",
+        "url": "https://open.spotify.com/album/3wEHJr1DqFpzRNbFk4o5hC"
+      },
+      "artists": [
+        {
+          "name": "RAMON",
+          "url": "https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl"
+        },
+        {
+          "name": "Two Records",
+          "url": "https://open.spotify.com/artist/4SfxAv3Xdu1gD1HBs6BYSn"
+        }
+      ],
+      "duration_ms": 177997,
+      "name": "L\u00e1bia",
+      "url": "https://open.spotify.com/track/3jiSDYClzVY31izbE8lxGQ"
     }
   ],
   "unique_name": "brisa",

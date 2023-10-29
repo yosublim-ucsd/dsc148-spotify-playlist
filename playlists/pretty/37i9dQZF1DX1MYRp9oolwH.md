@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,952 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,005 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Enno Ratrulosthayi Remix Song](https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Amigos](https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc) | 4:41 |
 | 50 | [Darshana](https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb) | 3:38 |
 
-Snapshot ID: `MCwwNzI2OTRhOTUyZDE2NmIxZjlkNGQyZTk0YTlhODBiNzA1NGY2NGM2`
+Snapshot ID: `MCw1YzQ1MzAxMzZkMDllMjI2ODAxYmJmOGI2YTAzNDQ2M2Y4Nzk1YThi`

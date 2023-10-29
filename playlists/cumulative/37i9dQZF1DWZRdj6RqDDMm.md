@@ -4,13 +4,14 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ">Anendlessocean</a>
 
-76 songs - 5 hr 4 min
+77 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-10-20 |  |
 | [All I Need](https://open.spotify.com/track/3POO6wDiNOISVDiPFsiY0l) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [All I Need](https://open.spotify.com/album/5nUlpUbBsbb2mhc71xLMWL) | 2:58 | 2023-10-20 |  |
-| [All That Matters](https://open.spotify.com/track/6yjahWcsEY9blHb93BIJBm) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [All That Matters](https://open.spotify.com/album/0thQxFpkcVRp0DA1GybIfK) | 6:16 | 2023-10-20 |  |
+| [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 | 2023-10-20 |  |
+| [All That Matters](https://open.spotify.com/track/6yjahWcsEY9blHb93BIJBm) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [All That Matters](https://open.spotify.com/album/0thQxFpkcVRp0DA1GybIfK) | 6:16 | 2023-10-20 | 2023-10-29 |
 | [Alone](https://open.spotify.com/track/1aJb5rl14uELMauKzgjW0v) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Alone](https://open.spotify.com/album/3lFBphC8ENBweBOgbrCwwl) | 2:43 | 2023-10-20 |  |
 | [ANGELS](https://open.spotify.com/track/5kjPddNRxO0H4DkKfaZjNl) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [ANGELS](https://open.spotify.com/album/3Inj7Hu0KzqT2VImIrnLpL) | 2:57 | 2023-10-20 |  |
 | [Asante](https://open.spotify.com/track/1F2rGbWtuyZKdoCBTxWGLP) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Asante](https://open.spotify.com/album/4aMXNnKrAnvfZjDgKGlwhC) | 4:07 | 2023-10-27 |  |

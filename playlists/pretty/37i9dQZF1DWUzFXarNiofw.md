@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Yebba
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,126 likes - 173 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,258 likes - 173 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 75 | [give you everything](https://open.spotify.com/track/2ZACJPdRwVzReSQisZZYLh) | [articat](https://open.spotify.com/artist/4NTprOTiRPIlIX7qJ0peKy), [ZUHAIR](https://open.spotify.com/artist/3uaX4vj7m3bkWhcY9xooJ6) | [give you everything](https://open.spotify.com/album/2DlMKREKh915iMDQGhtUWw) | 2:52 |
 | 76 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 |
 | 77 | [Favorite Thing to Do](https://open.spotify.com/track/2CvrLqKWl77sjcg608A1xW) | [Terry Hunter](https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Favorite Thing to Do](https://open.spotify.com/album/2jtnBkj4zEknJH95VeO7kM) | 3:35 |
-| 78 | [Darkside](https://open.spotify.com/track/11DOcIM6IkO45qpyrdMJgc) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Darkside](https://open.spotify.com/album/2PFQU4eErXJ4ZEmusl8EgR) | 5:33 |
+| 78 | [Darkside](https://open.spotify.com/track/4uxiBHb7nMuGMm0sKo1ImT) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Diamonds And Pearls \(Super Deluxe Edition\)](https://open.spotify.com/album/7yS8FoMCF2XSiJK2DWYYci) | 5:33 |
 | 79 | [From A Woman](https://open.spotify.com/track/6x4z51Q0PBhSs8NoGbJ5wk) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [From A Woman](https://open.spotify.com/album/41EnEbv52wuUZLFOdXH1d8) | 3:02 |
 | 80 | [Crash & Burn \(feat\. Blxst\)](https://open.spotify.com/track/1swquvjyuVbDP4QYMFhZ8d) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Crash & Burn \(feat\. Blxst\)](https://open.spotify.com/album/3jAriMle4Wj0L0CKXHQRF7) | 2:27 |
 | 81 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 172 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
 | 173 | [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 |
 
-Snapshot ID: `MCwwMWVlNzI2YWFlMjMzZmYyYWJkMDExNGJkNjFmNWIzM2YwYjhjMjM0`
+Snapshot ID: `MCwzZGRhYmJhYTZkNjc3ZmFhNjJiYTNjYTJhZGQwOTEwZjFiN2QzNWYw`

@@ -341,7 +341,7 @@
     },
     {
       "album": {
-        "name": "Around The World (feat. NOUMENN)",
+        "name": "Around the World (feat. NOUMENN) [Official Sunburn Goa Anthem 2021]",
         "url": "https://open.spotify.com/album/5mbOLvo8EOsUyuKStqC0aY"
       },
       "artists": [
@@ -358,7 +358,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199017,
-      "name": "Around The World (feat. NOUMENN)",
+      "name": "Around the World (feat. NOUMENN) [Official Sunburn Goa Anthem 2021]",
       "url": "https://open.spotify.com/track/273n4aGEPcL1HrcdhpGGul"
     },
     {
@@ -962,7 +962,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 178497,
       "name": "Can't Sleep Alone At Night",
       "url": "https://open.spotify.com/track/7BBzoOS8HR4zdlk1y0VNBB"
@@ -2646,6 +2646,28 @@
       "duration_ms": 209454,
       "name": "Fork in the Road - unlucksi Remix",
       "url": "https://open.spotify.com/track/49KAyPvgs18DMQ5aV8y2OB"
+    },
+    {
+      "album": {
+        "name": "Found Magic",
+        "url": "https://open.spotify.com/album/1aBkr8EeTFPay0CkSPhyO9"
+      },
+      "artists": [
+        {
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
+        },
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248265,
+      "name": "Found Magic",
+      "url": "https://open.spotify.com/track/7zeeaFEbI8qGY2TEhgnVGN"
     },
     {
       "album": {

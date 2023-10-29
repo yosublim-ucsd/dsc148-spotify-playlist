@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 319327,
+  "num_followers": 319417,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzIzYWZmMDBlNjYzOWJiOThkOGMyYmFkZGVjYzVjOTQ4NWZhOGRk",
+  "snapshot_id": "MCw5MWU1ODUzNTY1ZmMzMjdmYWUxNzFiY2VkN2JhN2ZkZWJlNzVjYjc1",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Mi Tributo a Juan Gabriel",
-        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "He Venido a Pedirte Perd\u00f3n",
-      "url": "https://open.spotify.com/track/7ebni0Sdf9dV2xzsQMSg7I"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Mis Covers",
         "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 196000,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Mi Tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "He Venido a Pedirte Perd\u00f3n",
+      "url": "https://open.spotify.com/track/7ebni0Sdf9dV2xzsQMSg7I"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Canciones Que Recuerdo",
-        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
-      },
-      "artists": [
-        {
-          "name": "Frankie J",
-          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        }
-      ],
-      "duration_ms": 175359,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 173133,
       "name": "Solo Se Que Fue En Marzo",
       "url": "https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Canciones Que Recuerdo",
+        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "duration_ms": 175359,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
     },
     {
       "added_at": "2023-05-05 18:26:22",

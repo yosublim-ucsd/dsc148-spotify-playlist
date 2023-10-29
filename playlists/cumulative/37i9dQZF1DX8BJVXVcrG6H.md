@@ -2,9 +2,9 @@
 
 ### [República Oriental del Rap](https://open.spotify.com/playlist/37i9dQZF1DX8BJVXVcrG6H)
 
-> Representantes de la rima Charrúa\. Foto: Los Buenos Modales.
+> Representantes de la rima Charrúa\. Foto: Dostrescinco.
 
-77 songs - 4 hr 0 min
+79 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Cable Pelado](https://open.spotify.com/track/5fMu7feCrap2GbL7IbF5Xc) | [Peyote Asesino](https://open.spotify.com/artist/2cYeADErfbwZ0xIP19KeWD) | [Terraja](https://open.spotify.com/album/6lN38PkdmzvHad0xGdSXtN) | 4:48 | 2023-06-16 |  |
 | [Casa Limpia](https://open.spotify.com/track/2CEgqvNJ480WXpSngtIRLA) | [Los Buenos Modales](https://open.spotify.com/artist/7rne4LJNgXjjgb8Q9s8qCl) | [Vice City @ Montevideo Rock 2020](https://open.spotify.com/album/34eVYuvvq43klkl12smBnE) | 3:53 | 2023-06-16 |  |
 | [Casa Limpia](https://open.spotify.com/track/7Hq0qIrkhfZ0q0Z9QWjs7B) | [Los Buenos Modales](https://open.spotify.com/artist/7rne4LJNgXjjgb8Q9s8qCl) | [Casa Limpia](https://open.spotify.com/album/7nlyYZ4S52KbbhbXIsDmfY) | 3:56 | 2023-06-16 |  |
+| [Cerillos](https://open.spotify.com/track/1pnPaNdPILyuzZJlnCuLbu) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a), [Miel](https://open.spotify.com/artist/1AMGfEmHW0CZqlgmhpftgm) | [Otoño denso](https://open.spotify.com/album/0LWjPdZFvxzpnTjawUqFiU) | 2:53 | 2023-10-27 |  |
 | [Chill](https://open.spotify.com/track/7myurj1Dl53f8bxv2at1VG) | [Arquero](https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6) | [Aguafiestas](https://open.spotify.com/album/5sRHrXbS6RzaeqYOt15HGy) | 3:04 | 2023-06-16 |  |
 | [Ciudadela Paraíso](https://open.spotify.com/track/6rCpumbku6uCJ1MfUEmVfl) | [Zalo Solo](https://open.spotify.com/artist/1ENCqEAeCXbL7fXwxJspod) | [Sustancia](https://open.spotify.com/album/22JdSXItGpXMY9YitLc8ao) | 3:33 | 2023-06-16 |  |
 | [Como Antes](https://open.spotify.com/track/3CPYBS37oDYRgvhNnDuTPH) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Gula](https://open.spotify.com/artist/0z6vMOXncHabKtz4zNC7dB), [Dubchizza](https://open.spotify.com/artist/04i3ncIq7vjYE2N5Wl7q52) | [Como Antes](https://open.spotify.com/album/0Lhe5G2dSzIVnJoddVSSg7) | 2:56 | 2023-06-16 |  |
@@ -32,6 +33,7 @@
 | [Detenido](https://open.spotify.com/track/60gIuieRT0NjtLnMPP4Yl1) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Detenido](https://open.spotify.com/album/2mpQskmVhfsSXbOyTnB8Db) | 2:20 | 2023-06-16 |  |
 | [Divino Domingo \- Remix](https://open.spotify.com/track/554Ap5zkpRCPXPYZsFVdsz) | [Gabino](https://open.spotify.com/artist/0BIT9nxBlhSRe8DsreQmcN) | [Divino Domingo \(Remix\)](https://open.spotify.com/album/5GbFPaljZbsSZwyABZ6xVu) | 2:28 | 2023-06-16 |  |
 | [Dubai](https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dubai](https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm) | 2:37 | 2023-06-16 |  |
+| [Déjalo Que Fluya](https://open.spotify.com/track/3AgFSDd101trpY9IEaRHNv) | [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO) | [Déjalo Que Fluya](https://open.spotify.com/album/7BbxNXThBJ2TWpxrhY0dOW) | 2:13 | 2023-10-27 |  |
 | [Eclipse](https://open.spotify.com/track/3CdCCZDA3olKN3FLvrRg4o) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Mili Milanss](https://open.spotify.com/artist/5US33tP9Eoj53sO9yF4STs) | [Por Si Mañana](https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0) | 4:01 | 2023-06-16 |  |
 | [El Club de la Pelea](https://open.spotify.com/track/3mDc7uQm6ZAlqUqkafWXkO) | [Santi Mostaffa](https://open.spotify.com/artist/3oVa1dCIWhoJ4cTFgrEgWG), [Gavo](https://open.spotify.com/artist/41C1AjZw6VMg0MGc1FXeTz) | [Escapismo](https://open.spotify.com/album/7Jn7ftJbEd9ETtJzoAL61u) | 2:45 | 2023-06-16 |  |
 | [El Discurso](https://open.spotify.com/track/0a73NYOMeUySjw11BCR0E5) | [Dj Miami](https://open.spotify.com/artist/0csyBRH35hvheuLtbztHWV) | [Crème Sessions, Vol\. 2](https://open.spotify.com/album/4QZLLxGZtdK5V3SWHkeRgx) | 2:27 | 2023-06-16 |  |

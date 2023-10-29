@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-210 songs - 11 hr 1 min
+211 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Heads Will Roll \- A\-Trak Remix Radio Edit](https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Good Morning Music: Wake Up Workout](https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz) | 3:23 | 2022-03-29 |  |
 | [Her Eyes](https://open.spotify.com/track/2ctGtsdiXv8cAlc68uaJtt) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1) | [Her Eyes](https://open.spotify.com/album/0593El2YCvlwtY45DQBZUR) | 2:40 | 2022-01-04 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/1snVDHFEd5TRotuG50XEA7) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a) | [Hope](https://open.spotify.com/album/6XBVCE1npwSYFCVfjdrwzK) | 3:21 | 2022-01-04 | 2022-07-29 |
-| [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-08-16 |  |
+| [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-08-16 | 2023-10-29 |
+| [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 | 2023-09-11 |  |
 | [How I Like It](https://open.spotify.com/track/7Djhup0pJRq54FX1LMx17L) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [How I Like It](https://open.spotify.com/album/3QLJttmzccUBKc4c2Tfs94) | 2:27 | 2022-01-04 | 2022-06-10 |
 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 | 2022-01-04 |  |
 | [I Want You](https://open.spotify.com/track/0BCunKrAj1IMTM4A7J3TlC) | [Jerry Davila](https://open.spotify.com/artist/3t76hexN6ZnQZWhvjhp1Jz), [Mixmash Bold](https://open.spotify.com/artist/6yoe6vgX80ZjB2MP9UYwuC) | [I Want You](https://open.spotify.com/album/72oEPfFBu3HpOUNA46hlYB) | 2:22 | 2022-01-04 | 2022-07-29 |

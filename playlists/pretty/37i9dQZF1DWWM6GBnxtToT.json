@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 577626,
+  "num_followers": 577744,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzM5NTllMDUxMGVhN2Y5ZWE4YzI5MWI4YzgzMDllY2RkY2VmM2Uy",
+  "snapshot_id": "MCwwODVjODQ1NjM1ZGI0NmE4MzU5ZmU0YjkxOTNkMTk1ODFlMzVkOGRl",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Only For A Moment",
-        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
+        "name": "Happiness in Liquid Form",
+        "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
       },
       "artists": [
         {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
         }
       ],
-      "duration_ms": 167333,
-      "name": "Only For A Moment",
-      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
+      "duration_ms": 193165,
+      "name": "Things I Thought Were Mine",
+      "url": "https://open.spotify.com/track/0Y8OIyvMvyTpEUhfLupDoh"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Happiness in Liquid Form",
-        "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
+        "name": "Only For A Moment",
+        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
       },
       "artists": [
         {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
         }
       ],
-      "duration_ms": 193165,
-      "name": "Things I Thought Were Mine",
-      "url": "https://open.spotify.com/track/0Y8OIyvMvyTpEUhfLupDoh"
+      "duration_ms": 167333,
+      "name": "Only For A Moment",
+      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Diving - feat. Holly Humberstone",
+      "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 188694,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Diving - feat. Holly Humberstone",
-      "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Go Out",
+        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 154452,
+      "name": "Go Out",
+      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Mellow Moon",
         "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Go Out",
-        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
+        "name": "Proportions",
+        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
       },
       "artists": [
         {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+          "name": "Seed to Tree",
+          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
         }
       ],
-      "duration_ms": 154452,
-      "name": "Go Out",
-      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
+      "duration_ms": 277480,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1131,22 +1147,6 @@
       "duration_ms": 221135,
       "name": "Passion (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Proportions",
-        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
-      },
-      "artists": [
-        {
-          "name": "Seed to Tree",
-          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Hole Digger",
-        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
-      },
-      "artists": [
-        {
-          "name": "Camel Power Club",
-          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
-        },
-        {
-          "name": "Desingly",
-          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
-        }
-      ],
-      "duration_ms": 185076,
-      "name": "Hole Digger",
-      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 228092,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Hole Digger",
+        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
+      },
+      "artists": [
+        {
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
+        },
+        {
+          "name": "Desingly",
+          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "Hole Digger",
+      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Kalif Onya",
-        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
-      },
-      "artists": [
-        {
-          "name": "Al Pride",
-          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
-        }
-      ],
-      "duration_ms": 238936,
-      "name": "Kalif Onya",
-      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Twister",
         "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 216626,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Kalif Onya",
+        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
+      },
+      "artists": [
+        {
+          "name": "Al Pride",
+          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
+        }
+      ],
+      "duration_ms": 238936,
+      "name": "Kalif Onya",
+      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Aloe Vera (Clear My Mind)",
-        "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
-      },
-      "artists": [
-        {
-          "name": "Some Sprouts",
-          "url": "https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp"
-        }
-      ],
-      "duration_ms": 163327,
-      "name": "Aloe Vera (Clear My Mind)",
-      "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "I Swear It's True",
         "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 162755,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Aloe Vera (Clear My Mind)",
+        "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
+      },
+      "artists": [
+        {
+          "name": "Some Sprouts",
+          "url": "https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp"
+        }
+      ],
+      "duration_ms": 163327,
+      "name": "Aloe Vera (Clear My Mind)",
+      "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Smiling Face",
+        "url": "https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA"
+      },
+      "artists": [
+        {
+          "name": "Cinemagraph",
+          "url": "https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP"
+        }
+      ],
+      "duration_ms": 215610,
+      "name": "Smiling Face",
+      "url": "https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Slow (feat. Henjila)",
         "url": "https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 193013,
       "name": "Slow (feat. Henjila)",
       "url": "https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Smiling Face",
-        "url": "https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA"
-      },
-      "artists": [
-        {
-          "name": "Cinemagraph",
-          "url": "https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP"
-        }
-      ],
-      "duration_ms": 215610,
-      "name": "Smiling Face",
-      "url": "https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx"
     },
     {
       "added_at": "2023-10-19 09:54:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,840 likes - 101 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,861 likes - 101 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 100 | [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 |
 | 101 | [Parallel Universe](https://open.spotify.com/track/4ax79FbkxYsNHDCz7Hy6TL) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Parallel Universe](https://open.spotify.com/album/0q5vqqkXRRnL5w3CCYlxiJ) | 3:34 |
 
-Snapshot ID: `MCwxNGM1ZjRhYjM1ZjlmMTJlODU1ODZkYjI4YWEzNTRiZmNjNzdmMDc0`
+Snapshot ID: `MCxlMTQwMTczMWE5OGY3ZjVmMmM5MGI5NDEwNWEzMGEwMzNkY2Y3YWRl`

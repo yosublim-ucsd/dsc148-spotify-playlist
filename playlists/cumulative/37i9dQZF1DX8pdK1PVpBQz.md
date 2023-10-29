@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Miss Kaninna\. Artwork: Isu Kim
 
-2,865 songs - 6 day 12 hr 59 min
+2,867 songs - 6 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1229,6 +1229,7 @@
 | [i promise i love you](https://open.spotify.com/track/4thJoOa21Qt3vqIn6PSFop) | [TALLOU](https://open.spotify.com/artist/5AUnfQ7sUzW6s7F8BZ85u8) | [i promise i love you](https://open.spotify.com/album/7fxyTH08fkgiP0TpPvNcI0) | 3:06 | 2023-02-01 | 2023-02-23 |
 | [I Still Do](https://open.spotify.com/track/0BiGfFn9VzrXSCcJ8wEYrX) | [skinnyandsoft](https://open.spotify.com/artist/0lqAObgcnAd8iRd0DFaq2z) | [I Still Do](https://open.spotify.com/album/287wvFwyMszzWBGQ2ZlfA3) | 3:12 | 2022-07-13 | 2022-08-11 |
 | [I Still Love You Sometimes](https://open.spotify.com/track/4GiH2uQ95u0uW9mwRTa9ZE) | [Audition Tape](https://open.spotify.com/artist/5RkNnygxaxAM01O4ms8lC9) | [I Still Love You Sometimes](https://open.spotify.com/album/4tavkf4EwhxvQb7Dy6Oxut) | 3:39 | 2022-06-29 | 2022-07-20 |
+| [I Think I Love You](https://open.spotify.com/track/4gl3AnryOPiIqjtwnsv44o) | [MAXO](https://open.spotify.com/artist/4seVHb4ZkyDnptQESAbyzC) | [I Think I Love You](https://open.spotify.com/album/3MaChQyUDd1WWBqkEGPzRE) | 2:39 | 2023-10-26 |  |
 | [i think i'm in love with u](https://open.spotify.com/track/5lbPD0IjuMCEhluwAdKwId) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [i think i'm in love with u](https://open.spotify.com/album/3fOu9Y9Bjw9O22qYbab7nM) | 2:56 | 2021-12-28 | 2022-01-13 |
 | [i think i've seen this film before](https://open.spotify.com/track/5OZ40mfoRHTY7QKtOlkLKG) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [i thought my name was cursed](https://open.spotify.com/album/4m6wBLxrOmPLzSTR72XrSE) | 3:09 | 2022-09-07 | 2022-09-22 |
 | [I Tried](https://open.spotify.com/track/4nLiS1JVEzt59TjUfTG8wq) | [Elizabeth M\. Drummond](https://open.spotify.com/artist/2IHOf4FCu5FCjH0QSPHvCT) | [I Tried](https://open.spotify.com/album/61uI1ahuQS0pNOkm5eXE9a) | 3:05 | 2022-08-31 | 2022-09-29 |
@@ -1257,7 +1258,8 @@
 | [I'M FEELING LIKE](https://open.spotify.com/track/0B7Bg35ncl74CCB7GWBbrw) | [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d), [Benny Balance](https://open.spotify.com/artist/4tBCJ7ZsTjXfe2fZ2X0VXk) | [SLEEVE TEST](https://open.spotify.com/album/6iuBfDp4c21b5JC37Mk0Kq) | 2:55 | 2023-10-26 |  |
 | [I'm Fine With That](https://open.spotify.com/track/1rkmWBt2W0TxGiqnohEDFP) | [melrose.](https://open.spotify.com/artist/0RPjHVau2dAwd66S6L4C2U) | [I'm Fine With That](https://open.spotify.com/album/5I8Xuf5kkssZhSpX46w40f) | 3:44 | 2023-05-03 | 2023-05-24 |
 | [I'm Just Like You!](https://open.spotify.com/track/6IdccpWS3hrELtWyVJR2d8) | [Howevever](https://open.spotify.com/artist/0OBmQ0rKcwQQS31X1kDpdY) | [Phenakistoscope](https://open.spotify.com/album/1soJ3hNk1tLDxtdb307T1G) | 3:13 | 2023-02-08 | 2023-02-23 |
-| [I'm Lost](https://open.spotify.com/track/0aW1B3CdGyJPrQlfF8kTyh) | [Alien Nosejob](https://open.spotify.com/artist/0Qi0OyDidGJFDUEsxXuchH) | [The Derivative Sounds of..\. Or..\. A Dog Always Returns to its Vomit](https://open.spotify.com/album/1TtSmboyOaDAuuTALKi4UX) | 3:14 | 2023-10-26 |  |
+| [I'm Lost](https://open.spotify.com/track/0aW1B3CdGyJPrQlfF8kTyh) | [Alien Nosejob](https://open.spotify.com/artist/0Qi0OyDidGJFDUEsxXuchH) | [The Derivative Sounds of..\. Or..\. A Dog Always Returns to its Vomit](https://open.spotify.com/album/1TtSmboyOaDAuuTALKi4UX) | 3:14 | 2023-10-26 | 2023-10-29 |
+| [I'm Lost](https://open.spotify.com/track/3OiqNYKcvXIHw7qUSIugN1) | [Alien Nosejob](https://open.spotify.com/artist/0Qi0OyDidGJFDUEsxXuchH) | [The Derivative Sounds Of..\. OR..\. A Dog Always Returns to Its Vomit](https://open.spotify.com/album/5jnDqlSPBYyD25X3lXyi2y) | 3:14 | 2023-10-26 |  |
 | [I'm not afraid](https://open.spotify.com/track/1gFSHl69tmM3Z3w4z5077z) | [SI0NE](https://open.spotify.com/artist/4DK5yqN4G34coJQrorW6l8) | [I'm not afraid](https://open.spotify.com/album/0YYaLCsb6udxHpl6KpkAcC) | 2:51 | 2023-02-01 | 2023-03-02 |
 | [I'm Not Coming Home \(Feat\. Mr Rhodes\)](https://open.spotify.com/track/15AoASDXWXajuBGcBjhrLr) | [Jacob Ridgeway](https://open.spotify.com/artist/79SQ8BA5vw6QSFbPDNl3Dk), [Mr Rhodes](https://open.spotify.com/artist/3NEL17Y3w46qOrjJXgeMO8) | [I'm Not Coming Home](https://open.spotify.com/album/2AeNGuLSfQHxEIDmd00Okg) | 3:32 | 2023-04-19 | 2023-05-18 |
 | [I'm On A Roll](https://open.spotify.com/track/0S9QC6k9JUVhzixenQgFXP) | [Tali](https://open.spotify.com/artist/2IzewUY71zuiCmfPZWahxv) | [I'm On A Roll](https://open.spotify.com/album/60HY20eWe6RRRhSgVu8gia) | 4:12 | 2023-10-26 |  |

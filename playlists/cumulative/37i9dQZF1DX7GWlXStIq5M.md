@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Thiago Pantaleão
 
-597 songs - 1 day 6 hr 29 min
+598 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Mente Pra Mim](https://open.spotify.com/track/4HbdogzFpLI45J5l4IYXS0) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:38 | 2023-02-14 | 2023-07-15 |
 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 | 2023-02-14 | 2023-04-15 |
 | [MEU 1º APARTAMENTO](https://open.spotify.com/track/11flcCCk68Ejm1WXioWVvQ) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [MEU 1º APARTAMENTO](https://open.spotify.com/album/2kw4CShAfWtF2uDK98dWxV) | 3:19 | 2023-07-28 | 2023-08-26 |
+| [Meu Amor](https://open.spotify.com/track/5rBhmHb34cdifZFyb0SPwX) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [Meu Amor](https://open.spotify.com/album/2TyJx1SGb2vxdaXK40gyA9) | 3:15 | 2023-10-27 |  |
 | [Meu Bem](https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [A Mágica Por Trás Da Forma](https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE) | 2:13 | 2023-03-17 | 2023-06-17 |
 | [Miami](https://open.spotify.com/track/6arTWP7kPORoLcuUbhMwhe) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Miami](https://open.spotify.com/album/02OyGnFuU31TEBpfPFhGE2) | 2:12 | 2023-08-04 | 2023-08-26 |
 | [miamor](https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [miamor](https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz) | 2:39 | 2023-08-25 | 2023-09-16 |
@@ -576,7 +577,7 @@
 | [vc n gosta de garotas](https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n gosta de garotas](https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob) | 2:12 | 2023-06-02 | 2023-07-29 |
 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 | 2023-02-14 | 2023-03-25 |
 | [vc é uma bagunça](https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [vc é uma bagunça](https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB) | 2:51 | 2023-02-14 | 2023-04-09 |
-| [Venturana](https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ) | [Camaleoa](https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk) | [Venturana](https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S) | 3:00 | 2023-09-22 |  |
+| [Venturana](https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ) | [Camaleoa](https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk) | [Venturana](https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S) | 3:00 | 2023-09-22 | 2023-10-29 |
 | [Verdadeira Brasileira](https://open.spotify.com/track/4xl8d5clE0KYIzd0IiRcgF) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [Verdadeira Brasileira](https://open.spotify.com/album/32Ez4Ve0SYE8OX3QBmIurC) | 2:28 | 2023-02-14 | 2023-05-27 |
 | [Vergonha pra Midia](https://open.spotify.com/track/5JsxHA8NttHWThpTCToK1J) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY) | [Vergonha pra Midia](https://open.spotify.com/album/1eHmcVOftPu5jK4L1iSBWV) | 6:25 | 2020-10-20 | 2022-07-29 |
 | [Vergonha Pra Mídia 2 \- O Retorno do Jedi](https://open.spotify.com/track/2iHe4RNM0IzIoPH3dq34jv) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Vergonha Pra Mídia 2 \- O Retorno do Jedi](https://open.spotify.com/album/1WoGzZMEAIxcpELWnfcbk1) | 5:16 | 2020-10-20 | 2022-07-28 |

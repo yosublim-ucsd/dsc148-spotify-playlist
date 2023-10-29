@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 697 songs - 1 day 11 hr 19 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 699 songs - 1 day 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -705,5 +705,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 695 | [Broke In A Minute](https://open.spotify.com/track/2ZrAjMSmlbDIil0JaVgTHh) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Broke In A Minute](https://open.spotify.com/album/0UWsJ8Z4BRe740txEt4IM6) | 2:12 |
 | 696 | [Know The Difference \(feat\. Lil Baby\)](https://open.spotify.com/track/7jMjA7MmHeKcDH4MnSp5YF) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Rich Off Pints 3](https://open.spotify.com/album/71AUiEqMJuQFGUzFmYYACn) | 2:51 |
 | 697 | [Family Freestyle](https://open.spotify.com/track/5u8m1YQAVoyu5k81b5DWvr) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Family Freestyle](https://open.spotify.com/album/1QkPatRtkzJahrvBV56gJe) | 3:35 |
+| 698 | [DISABILITY CHECKS \(feat\. G Herbo\)](https://open.spotify.com/track/4fIANYod2VuxuW1bJi7JBj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 3:22 |
+| 699 | [Bounce Back](https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 3:42 |
 
-Snapshot ID: `ODYwLDk0OWNlNjdiNDM2YWQwMTAzYzcwNDNlYzY0NzhhNTVmNGYwNDRmOTg=`
+Snapshot ID: `ODYyLDFhZjNjOWQwNGEyNjZlNzBiNjUyYjFlNmYzZTM0Mzg1NWE5MjFiZWU=`

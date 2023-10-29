@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres mexicanas a todo volumen\. Co\-curada por Camila Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,625 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,624 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 22 | [Luna](https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0) | 4:29 |
 | 23 | [Espacio sideral](https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 3:42 |
 | 24 | [Cadenas](https://open.spotify.com/track/4jDQ7sHmeW1ZnOaEum49ov) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Ellas Cantan Asi 2](https://open.spotify.com/album/6YoKAsyt74WXZNFWvzQap1) | 3:38 |
-| 25 | [Tanto Para Nada](https://open.spotify.com/track/4vHKXrsTNjPPHD3gMA0IZs) | [Carmen María](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [Tanto Para Nada](https://open.spotify.com/album/1QgU9MpUHlk6KyXu6s5GY8) | 2:40 |
+| 25 | [TANTO PARA NADA](https://open.spotify.com/track/4vHKXrsTNjPPHD3gMA0IZs) | [Carmen María](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [TANTO PARA NADA](https://open.spotify.com/album/1QgU9MpUHlk6KyXu6s5GY8) | 2:40 |
 | 26 | [Porque Soy Abeja Reina](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 |
 | 27 | [Te Aprovechas](https://open.spotify.com/track/1J14GudZ3oj4mQTHZWTwaP) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [La Villarreal](https://open.spotify.com/album/5wYAfZQcsFMqyaWf07mgkH) | 3:58 |
 | 28 | [Una Vida](https://open.spotify.com/track/760FIaj8goTswBMMzezp2n) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Una Vida](https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI) | 2:57 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 44 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 |
 | 45 | [Tu Casi Algo](https://open.spotify.com/track/4lN3ybB2niteicPFKqVQTk) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Tu Casi Algo](https://open.spotify.com/album/2z4f4hNhcs9JV5FR0H2QR8) | 2:25 |
 
-Snapshot ID: `MCwzODViMmQ1Y2QxY2JjZTBjZjQ5NjEzNDg4NmQwMDE2YWEzMTM3MWRm`
+Snapshot ID: `MCw3MGNkNzQzNzIyN2JmMzFmMTM3M2QyNDE5YTBmZmYzZTE1OWVkNTg5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Faren Yokung
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,569 likes - 95 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,573 likes - 95 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 8 | [Lebih Dari Sahabat \- Acoustic](https://open.spotify.com/track/3YEg6AcssqjzV8dAAqpehC) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Lebih Dari Sahabat \(Acoustic\)](https://open.spotify.com/album/0MgCMokXR1payCpPceaaOp) | 4:19 |
 | 9 | [Punya Rasa](https://open.spotify.com/track/595R1I37IWIS1YWqymkYxC) | [Wita Aldian](https://open.spotify.com/artist/4rVJgaZk6AZhpRsw5qnPYy) | [Punya Rasa](https://open.spotify.com/album/2bLPMOachfeEXqOx3BD8aG) | 3:54 |
 | 10 | [Lovin' You](https://open.spotify.com/track/5H2cfqqCRBeMN6RibW8a74) | [Ichon Badguitar](https://open.spotify.com/artist/5uNkPDANmnBKbYCmK8wnWA) | [Lovin' You](https://open.spotify.com/album/51Q2lF0plg75F8gvAoJzG5) | 3:43 |
-| 11 | [PIGS](https://open.spotify.com/track/6pM85l0QxkfLQkJG4SebFh) | [Zeeko](https://open.spotify.com/artist/0kGY3Vs9NYFts4xBrYnIF0), [Ner](https://open.spotify.com/artist/6hdwdZKs8POVLICsXFkul6) | [PIGS](https://open.spotify.com/album/0VOv4O9fiwA2a1QvRrSc6P) | 3:44 |
+| 11 | [PIGS](https://open.spotify.com/track/6pM85l0QxkfLQkJG4SebFh) | [Zeeko](https://open.spotify.com/artist/0kGY3Vs9NYFts4xBrYnIF0), [Ner](https://open.spotify.com/artist/5x3MDjIN1tyYunR1YRooBc) | [PIGS](https://open.spotify.com/album/0VOv4O9fiwA2a1QvRrSc6P) | 3:44 |
 | 12 | [Menetap Atau Pergi](https://open.spotify.com/track/3EcwHaGNIVhRs1tbXnvO4r) | [Wulan Azhar](https://open.spotify.com/artist/4jYrKz2rZ2A9a2pJaa4HEo) | [Menetap Atau Pergi](https://open.spotify.com/album/0m3uSPiRDDQqzKVfi8z608) | 4:19 |
 | 13 | [limbo](https://open.spotify.com/track/1iLqXVKvZtuoQgDfzDCCIs) | [Ray Walters](https://open.spotify.com/artist/2aFbcsgujMtDhvEzKYKdf2) | [limbo](https://open.spotify.com/album/2AoLLTXD1ci1fVcdPAOmee) | 3:00 |
 | 14 | [Lit Up](https://open.spotify.com/track/66qJC7N2kffBPzQLMMKn1S) | [Hatchbackz](https://open.spotify.com/artist/44FFgwI34GInUCcPlIk6TL) | [Lit Up](https://open.spotify.com/album/1NE8UzMyQhANZXYqv9paID) | 2:55 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 94 | [Under the Palm Trees](https://open.spotify.com/track/2W1XDO8FkviBSdGTpYtWqi) | [Satrio Pamungkas](https://open.spotify.com/artist/1XfSriHUiYbgNbngsYlCBg) | [Under the Palm Trees](https://open.spotify.com/album/4Q3AKsOgKcceBOyXBdGnAe) | 4:03 |
 | 95 | [Sometimes](https://open.spotify.com/track/2dg1JKAj9S8PBcvfISLhy6) | [Blutapes](https://open.spotify.com/artist/27DSECMkSiHx4g3rvCPGbm) | [Sometimes](https://open.spotify.com/album/7fwDuIQQz4a4UsIBK4CHOY) | 3:24 |
 
-Snapshot ID: `MCxlNzVjNGFiYzk5NTc0ZTBiOGMyMWExYzg4YTEyZjAwN2FjYzliYmEy`
+Snapshot ID: `MCxjN2JlY2U0NjUxMTA1MDM2MzA4MTEwMGNmNDg5ZmUxNTIwYTY5ZGU5`

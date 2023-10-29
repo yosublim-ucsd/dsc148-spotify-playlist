@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-668 songs - 1 day 22 hr 47 min
+669 songs - 1 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [How Long](https://open.spotify.com/track/426gkB9mdqZMgC0z0SQAKl) | [Ksenia Parkhatskaya](https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy) | [How Long](https://open.spotify.com/album/5Crdch0juI2YvrOqZ1MZqk) | 4:35 | 2021-02-19 | 2022-07-29 |
 | [Humans](https://open.spotify.com/track/7HOdJvWGbrMycsVvQQ1qFW) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Overtones for the Omniverse](https://open.spotify.com/album/2RFYuZnJfS6JbkAD15KhKk) | 3:04 | 2021-07-30 | 2022-02-10 |
 | [I Always Fall for You](https://open.spotify.com/track/5LQmaC0A1qnm4ad8MuONcG) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [I Always Fall for You](https://open.spotify.com/album/1QhEzI387TGvwZH1UIjDOh) | 3:20 | 2023-10-20 |  |
-| [I Am What I Am](https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [I Am What I Am](https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv) | 5:32 | 2023-07-14 |  |
+| [I Am What I Am](https://open.spotify.com/track/2yNAX7gJ7d8jInRnXtINEE) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Veronica Swift](https://open.spotify.com/album/053XeiFx1CVMD0sU3gZ8f8) | 5:32 | 2023-07-14 |  |
+| [I Am What I Am](https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [I Am What I Am](https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv) | 5:32 | 2023-07-14 | 2023-10-29 |
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/5AdRursK0T21JEBHcZ92Vh) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:45 | 2021-01-22 | 2022-07-28 |
 | [I Can't Help It](https://open.spotify.com/track/7md1zupNUTkv8Atxhu94CL) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf), [Charles Jones](https://open.spotify.com/artist/54SLl07eCSMFL8u2H3MwKl) | [I Can't Help It](https://open.spotify.com/album/7wALZWZ9gYukW7hI37hGaM) | 4:31 | 2022-02-25 | 2022-04-21 |
 | [I Could Have Danced All Night](https://open.spotify.com/track/5Iez8g4aSgYDEqpcrqAiVu) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [I Could Have Danced All Night](https://open.spotify.com/album/56gYmyonwmKvjU8ZIX8R2A) | 2:54 | 2021-03-12 | 2022-01-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,797 likes - 168 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,863 likes - 168 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 98 | [C'est la vie](https://open.spotify.com/track/6pa0AGTLAWRTclXoforij1) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [C'est la vie](https://open.spotify.com/album/6lcv0jcRTZQfcHBCrzJnpf) | 2:02 |
 | 99 | [All Over My Body](https://open.spotify.com/track/365R9wKlTJpciKgWB0v6K3) | [Quaaalude](https://open.spotify.com/artist/5xjuELwoci9zRv8NKXhEIl) | [All Over My Body](https://open.spotify.com/album/0XIK1ChzTUPN7V0JQrhG1n) | 3:16 |
 | 100 | [Dr Zennheiser](https://open.spotify.com/track/4ZliUlRoGlwkCsEf60aeLv) | [John Son of John](https://open.spotify.com/artist/6XZyEFHLJ1SZieiBKiKwjA) | [Dr Zennheiser](https://open.spotify.com/album/3gElVEf2u7ZCu2RL7PwowP) | 2:42 |
-| 101 | [Summer Haze](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Summer Haze](https://open.spotify.com/album/6QY9bO1j7bH2cI0BtMA4yV) | 3:28 |
+| 101 | [Summer Haze](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Summer Haze](https://open.spotify.com/album/6QY9bO1j7bH2cI0BtMA4yV) | 3:28 |
 | 102 | [bol nou](https://open.spotify.com/track/2fNKZAs6y2KWU3RcofwDmd) | [Milk Malone](https://open.spotify.com/artist/4hkSi4HSY18rlKi0oWX049) | [bol nou](https://open.spotify.com/album/5jzsGmlsw1huLuDv0mdT2k) | 2:45 |
 | 103 | [ICE](https://open.spotify.com/track/2qSsD3yTWS3sZU6ygeKedR) | [Xack](https://open.spotify.com/artist/3Tg2AlVypH64iuYosDtyHj) | [ICE](https://open.spotify.com/album/0NFamDVQFiQ7387QDyNlX7) | 3:50 |
 | 104 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 167 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 |
 | 168 | [Paloma](https://open.spotify.com/track/549JBVNjLZt5BN6qfphBbQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Paloma](https://open.spotify.com/album/04mofxzUHsD7zVCAKzbpWu) | 2:37 |
 
-Snapshot ID: `MCw0MTUyNjkwYjI5ZWQ5MTk2ODUzYWE1ZWYyNmNiZTgyODkyN2VjNzI0`
+Snapshot ID: `MCw4Yjk2MzE0M2Y3NzgyYTA4ZThiNTIyNTJkMDFmNjU2ZTJhNzRhZDRh`

@@ -1230,7 +1230,7 @@
     {
       "album": {
         "name": "Me Gustas Tanto",
-        "url": "https://open.spotify.com/album/6mLXxtHQXzFn7GPowncu1N"
+        "url": "https://open.spotify.com/album/4yu56CARvuE68AsJmOBVcg"
       },
       "artists": [
         {
@@ -1241,6 +1241,24 @@
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182406,
+      "name": "Me Gustas Tanto",
+      "url": "https://open.spotify.com/track/3JdNambMOshHLbYus6cGqZ"
+    },
+    {
+      "album": {
+        "name": "Me Gustas Tanto",
+        "url": "https://open.spotify.com/album/6mLXxtHQXzFn7GPowncu1N"
+      },
+      "artists": [
+        {
+          "name": "KNYA",
+          "url": "https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-29",
       "duration_ms": 182406,
       "name": "Me Gustas Tanto",
       "url": "https://open.spotify.com/track/7fMshHtynGehLu7eVQj1hO"

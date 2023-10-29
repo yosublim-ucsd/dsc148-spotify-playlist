@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Gheba
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,256 likes - 55 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,303 likes - 55 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 7 | [Losca \(feat\. Kuremino\)](https://open.spotify.com/track/6yKvyPl3dgOsnid7PIFjRn) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Losca \(feat\. Kuremino\)](https://open.spotify.com/album/25E1RBw0SLcQ41RFA81cpq) | 2:41 |
 | 8 | [BVLGARI](https://open.spotify.com/track/1WibnlA9JXDEOewy0mr71I) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [BVLGARI](https://open.spotify.com/album/1959Xf6EJPqYLaxFJxsYXD) | 2:24 |
 | 9 | [Scappa da Milano](https://open.spotify.com/track/1AJ3ncdtj5leTKdgHkyVEn) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Scappa da Milano](https://open.spotify.com/album/1IFSeuBowZAGUsjVyHMAgG) | 2:59 |
-| 10 | [Talento 1](https://open.spotify.com/track/5TAQklwUEGBAAiTFhCyxM0) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Damo](https://open.spotify.com/artist/5LAlkPIJfTgQ7w65HPMll2) | [Talento 1](https://open.spotify.com/album/0HXIPwmEkOiEbt9L55XhWp) | 3:03 |
+| 10 | [Talento 1](https://open.spotify.com/track/5TAQklwUEGBAAiTFhCyxM0) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Damo](https://open.spotify.com/artist/5LAlkPIJfTgQ7w65HPMll2) | [Talento 1](https://open.spotify.com/album/0HXIPwmEkOiEbt9L55XhWp) | 2:43 |
 | 11 | [Guai](https://open.spotify.com/track/4zazC5BB1hOHRXvnbW8CNF) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Umile \(Deluxe\)](https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t) | 2:54 |
 | 12 | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV) | 3:17 |
 | 13 | [Top Boy](https://open.spotify.com/track/1ulJFkCkrNued2jimxc8PL) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [Top Boy](https://open.spotify.com/album/6bsDeN3YlLDok3kefnmSZF) | 2:47 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [DON'T TRUST HOES](https://open.spotify.com/track/6c8ttfvaawdm8iKhSvgWzc) | [MISSVIVS](https://open.spotify.com/artist/4M8Y3T3ocS8wJNw9hAWkY1) | [DON'T TRUST HOES](https://open.spotify.com/album/0qnzven1Tz6v5C8qPpXjzR) | 2:43 |
 | 55 | [METEORITE](https://open.spotify.com/track/0QCMWRLyHl4fWUzkh81VEM) | [CEASEFIRE](https://open.spotify.com/artist/5Wd4jzhxc6jIjBNZWFYFI9), [Talia](https://open.spotify.com/artist/0Gm4i8B3ts9KHXxthgHBvB), [39redboy](https://open.spotify.com/artist/0vNZqDX9vgQ2Bq2dhh982b), [loui](https://open.spotify.com/artist/6KfMKEEQUwrKn3l4hZh4uA) | [METEORITE](https://open.spotify.com/album/1I5KZqe0ngRm1YGgabWQbn) | 2:06 |
 
-Snapshot ID: `MCw0ZmRkMmU0NTM0NjI1ZDc3ZDE5OGVjY2JkMGY2ZWM2OGFkMTdkM2U5`
+Snapshot ID: `MCwwYzc2ZTAzZjIzYWZiYmI3NGM1ZmEwNjRlN2IyMDQzOTVjZWYzOTlh`

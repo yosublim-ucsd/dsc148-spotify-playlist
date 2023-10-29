@@ -2282,6 +2282,24 @@
     {
       "album": {
         "name": "Tiempo Futuro",
+        "url": "https://open.spotify.com/album/6issZ4zaNQJCWTs07BXnsL"
+      },
+      "artists": [
+        {
+          "name": "Bengala",
+          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188543,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/1iwoIyo9Q96VMkhRW8aQse"
+    },
+    {
+      "album": {
+        "name": "Tiempo Futuro",
         "url": "https://open.spotify.com/album/3GNwfsYXxTJgz5hKlpR6Hn"
       },
       "artists": [
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 188543,
       "name": "Luces",
       "url": "https://open.spotify.com/track/6bX7kiZsHjERDyiQReVxtT"

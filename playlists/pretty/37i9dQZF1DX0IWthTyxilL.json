@@ -1,12 +1,12 @@
 {
   "description": "Sons da floresta para inspirar seus dia ou noite.",
-  "num_followers": 9117,
+  "num_followers": 9148,
   "original_name": "Sons da Floresta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDE2ZDk5MGVhODMyNjRjMWMyOWRkNjMzNWNhMDA4ZjVkYWFjYWM5",
+  "snapshot_id": "MCw1YTFiOTgzZDc0ZjU5YTZmNjEyZjY5ZWZiOTRjMjVjYjUwODZmZmIx",
   "tracks": [
     {
       "added_at": "2023-06-19 12:57:37",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
+        "name": "English Rain and Nature Sounds",
+        "url": "https://open.spotify.com/album/46zbteZ4cZqL0GmFugl5E4"
+      },
+      "artists": [
+        {
+          "name": "Forest Sounds",
+          "url": "https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "Forest Sounds",
+      "url": "https://open.spotify.com/track/2yJ2GMYYB8T31TtmNZWEvj"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
         "name": "Rain Forest",
         "url": "https://open.spotify.com/album/50UYLBtzy02dHkzssaFzNW"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "English Rain and Nature Sounds",
-        "url": "https://open.spotify.com/album/46zbteZ4cZqL0GmFugl5E4"
+        "name": "Nature",
+        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
       },
       "artists": [
         {
-          "name": "Forest Sounds",
-          "url": "https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx"
+          "name": "QFT Sounds",
+          "url": "https://open.spotify.com/artist/4cJxUmQUsaNjHMMJubijVG"
         }
       ],
-      "duration_ms": 221853,
-      "name": "Forest Sounds",
-      "url": "https://open.spotify.com/track/2yJ2GMYYB8T31TtmNZWEvj"
+      "duration_ms": 189130,
+      "name": "Natural Ambiences",
+      "url": "https://open.spotify.com/track/5ssDGpsPZ59nQhfqL1vKhb"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -583,22 +599,6 @@
       "duration_ms": 208000,
       "name": "Midnight Sounds",
       "url": "https://open.spotify.com/track/5jhcezlQC1tk8ZL1B9Uuzl"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
-        "name": "Nature",
-        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
-      },
-      "artists": [
-        {
-          "name": "QFT Sounds",
-          "url": "https://open.spotify.com/artist/4cJxUmQUsaNjHMMJubijVG"
-        }
-      ],
-      "duration_ms": 189130,
-      "name": "Natural Ambiences",
-      "url": "https://open.spotify.com/track/5ssDGpsPZ59nQhfqL1vKhb"
     },
     {
       "added_at": "2023-06-19 12:57:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Angie McMahon
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,541 likes - 93 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,574 likes - 93 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 84 | [Cool](https://open.spotify.com/track/78qiBgIo1MZQlsMt4Ip5so) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Cool](https://open.spotify.com/album/3aaTZjPlWiKK8QUya3OI2d) | 3:26 |
 | 85 | [Love A Little Harder](https://open.spotify.com/track/3kOZgGwiAb7grQ26s4vXzG) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Love A Little Harder](https://open.spotify.com/album/5v2QbRsOlELlQiIorUJY0L) | 3:16 |
 | 86 | [BLOCKBUSTER](https://open.spotify.com/track/7j7duALoAkzFICTV6lmrlF) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT), [Franki Kaneur](https://open.spotify.com/artist/3BeaKw2vjOLH6fOxKasIiG) | [BLOCKBUSTER](https://open.spotify.com/album/6dTdGiJUPfftrfun7FKu1Y) | 3:14 |
-| 87 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 |
+| 87 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS) | 2:22 |
 | 88 | [Distance](https://open.spotify.com/track/37iubkt9ZLMvMpXby6ZXKY) | [Sam V](https://open.spotify.com/artist/6m0VpWIUbhI3aITZFK2hmr) | [Distance](https://open.spotify.com/album/1k1JRpGWhKAeExQwbjDYVK) | 4:36 |
 | 89 | [Let It Show](https://open.spotify.com/track/3BwyDxNb8t3RvlTqsYAb1i) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Race Banyon](https://open.spotify.com/album/2gw9rgXnU1cDHdjbo1pbJT) | 5:25 |
 | 90 | [Bliss](https://open.spotify.com/track/61NEfxnIE8NzZb5rAqtYLe) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Bliss](https://open.spotify.com/album/24WFk5U4w53kJtYueiaSuJ) | 4:21 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [Weightless](https://open.spotify.com/track/0zWKEW4wxvNUW2z58HWJSr) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [Everything Can Levitate](https://open.spotify.com/album/5VIr5VJPxXeMjlT7IAAwel) | 2:38 |
 | 93 | [The One](https://open.spotify.com/track/4tCzAMFUd31yxOA4Mc8cz4) | [Peter Bibby](https://open.spotify.com/artist/2hL4zRvjx5funfrhNUxUS2) | [The One](https://open.spotify.com/album/7hjGINTLUq7K82NK9brytF) | 2:24 |
 
-Snapshot ID: `MCxhOWU2NDc1MzY2OTU4ZjQxOWM5NjcwZjM4Y2ZmYTYxMmI4YzQxMGIz`
+Snapshot ID: `MCw1NDEzNGJiZGY1YzMxNDJjMTQ3ZTU4ZTVjYTk1YzE3ZjIwNGZiOWFj`

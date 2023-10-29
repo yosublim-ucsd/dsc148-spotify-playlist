@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,731 likes - 66 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,739 likes - 66 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 9 | [You Are My All In All](https://open.spotify.com/track/7otvN0P4iAuRa2dLv5XGEr) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Trading My Sorrows](https://open.spotify.com/album/1lWuBzzz2U7qLHmO0tnugB) | 4:04 |
 | 10 | [All The Things](https://open.spotify.com/track/4VJDD8PDFTjzxaVohUBggh) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [All The Things](https://open.spotify.com/album/07ztb4D77ZUFdMJ2NpVNoo) | 3:07 |
 | 11 | [I Give You My Hallelujah](https://open.spotify.com/track/6vomjYKQDMDa4rssVj60iK) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Can You Believe It!?](https://open.spotify.com/album/1fsVpCIerFhDqPnwQEABi0) | 3:12 |
-| 12 | [Let Go](https://open.spotify.com/track/023wrAlymKtgCd5SnIJVBP) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:48 |
+| 12 | [Let Go](https://open.spotify.com/track/023wrAlymKtgCd5SnIJVBP) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhan King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:48 |
 | 13 | [My God \(Dance Remix\)](https://open.spotify.com/track/1GCnKpwj0BT7AtAEcMwzQ3) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR), [Chase Akers](https://open.spotify.com/artist/5augMSFXAhbTGrk3qScKBj) | [My God \(Dance Remix\)](https://open.spotify.com/album/0dbIMdhLtNdR6pS0LCzQO5) | 4:57 |
 | 14 | [Open The Eyes Of My Heart](https://open.spotify.com/track/5CVSuS0iBsX9cm1eCwNJDq) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Worship For Your Family \(Yellow\)](https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA) | 3:53 |
 | 15 | [Happy Day](https://open.spotify.com/track/4y8Cd4Y7uF0jDuA8zFx8Ho) | [Capitol Kids!](https://open.spotify.com/artist/2R5LUhq3xVJxlh52uh4szt) | [Capitol Kids! Worship](https://open.spotify.com/album/7KBiV0q52O3DwlNWXYERDb) | 3:17 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 43 | [Your Grace Is Enough](https://open.spotify.com/track/1JExwazB69I9eaa75UQAYJ) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [From The Inside Out For Kids](https://open.spotify.com/album/4y3m1W01TTK2nT2i2ViRtD) | 3:54 |
 | 44 | [Deep Cries Out](https://open.spotify.com/track/6vGaIY7HYRoYvl30oMg3G2) | [Bethel Music Kids](https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1) | [Come Alive](https://open.spotify.com/album/0E5j1NrkMsc3SN85dzlRg8) | 5:05 |
 | 45 | [Jesus Loves Me](https://open.spotify.com/track/29YSih94JCET2h8VCiWK4J) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [Bible Beats \(For Little Feets\)](https://open.spotify.com/album/3QfyerJxzTL9NXo79cXrOw) | 4:00 |
-| 46 | [Highs & Lows](https://open.spotify.com/track/4ZYs36pYTElML33GLe64ig) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 5:54 |
+| 46 | [Highs & Lows](https://open.spotify.com/track/4ZYs36pYTElML33GLe64ig) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhan King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 5:54 |
 | 47 | [Jesus Saves](https://open.spotify.com/track/72hEA0WduDESzcPLRRc1Md) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Victory \- EP](https://open.spotify.com/album/7y53FcW8JJUrFFOyh3C86H) | 4:31 |
 | 48 | [Brave \- Brave](https://open.spotify.com/track/4IpWEf6JwSGVSW3nC1SG10) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63) | [Brave Performance Tracks](https://open.spotify.com/album/38i0L7rD9dn8eW9LlBXjvc) | 3:28 |
 | 49 | [Love One Another](https://open.spotify.com/track/3ekTYgM0mNE8rY89K4Hoo2) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK), [Denver of Denver & The Mile High Orchestra](https://open.spotify.com/artist/6OcetOnC4SwCDtYNt277YS) | [Happy Day Everyday](https://open.spotify.com/album/3XxNDjaH8AS7LTUyyjPHRv) | 2:43 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 56 | [This Little Light \(feat\. Steve Fee & Mr\. Versee\)](https://open.spotify.com/track/433p6oT8N4lPDXT9BDXFIP) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Steve Fee](https://open.spotify.com/artist/6eZldvfMSClBVZpjoMR69J), [Mr\. Versee](https://open.spotify.com/artist/4zArOIcHI8sTPqbYz9WlDV) | [Living Inside Out](https://open.spotify.com/album/4R5xmXeQwIbwMd9OVRV8mm) | 3:19 |
 | 57 | [Who You Say I Am](https://open.spotify.com/track/3jrixwz5amaMkV4CXDmxpV) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Can You Believe It!?](https://open.spotify.com/album/1fsVpCIerFhDqPnwQEABi0) | 3:59 |
 | 58 | [How Great Is Our God](https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 4:00 |
-| 59 | [This Is Living](https://open.spotify.com/track/6TCk1yecQRDU5sXG3vjTYj) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [This Is Living](https://open.spotify.com/album/7h7W5MDYWmSYGSAag53umc) | 3:30 |
+| 59 | [This Is Living](https://open.spotify.com/track/6TCk1yecQRDU5sXG3vjTYj) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhan King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [This Is Living](https://open.spotify.com/album/7h7W5MDYWmSYGSAag53umc) | 3:30 |
 | 60 | [Superhero \- Live](https://open.spotify.com/track/7blZ34IQJjSf3J12eu3pGe) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Jesus Is My Super Hero \(Live\)](https://open.spotify.com/album/1K0Zez4ioepzv2iBbljsNN) | 3:04 |
 | 61 | [Wherever Whatever](https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb) | [I Count on You](https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY) | 2:30 |
 | 62 | [Every Move I Make](https://open.spotify.com/track/0NTEoSJBIDdO168fF00X0g) | [Christ Music Kids](https://open.spotify.com/artist/4tQcEEa8IYf1YuWsYvyQEi) | [I am a Friend of God](https://open.spotify.com/album/26WTWtUvwVAGt6NZJq7JmM) | 3:15 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 65 | [This is Amazing Grace](https://open.spotify.com/track/6saLHwRKrJIleVAizsRhoV) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63), [Ian Escalante](https://open.spotify.com/artist/4VdTEoEk67dYLvPALOIXIT) | [Brave](https://open.spotify.com/album/1JM1e0eP26O8eXfLJxYOom) | 4:34 |
 | 66 | [Praise Goes On](https://open.spotify.com/track/7jRcvNpCOtgkoHQO8i4o37) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [One In a Million](https://open.spotify.com/album/2NV57pQNW911GnUj1koyTj) | 3:09 |
 
-Snapshot ID: `MCwzMGI0YTA4NjE1NDMxM2E5MzgxOTg3ZTdkNGU1ZjMzNWNjODI2Y2Vk`
+Snapshot ID: `MCwwYmI3NWYwMDZmNmJiZjg0NjRmZGRlMGVlNzQ1YTJmZmQxZDNjNDQ3`

@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Buarque",
-  "num_followers": 345401,
+  "num_followers": 345478,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTc2NTBkOWI1NGFhNGU2MTMxMDNmNmJhYjA3YmEwNWMxZDRjYzFl",
+  "snapshot_id": "MCw2MzYwZDdmYzQxZWQ3ZjFjMGI5ZjgxMTQwMTYxZmJiOTk1YTA0ZjRj",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -495,46 +495,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
-      },
-      "artists": [
-        {
-          "name": "Paulo Novaes",
-          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "Lisboa",
-      "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "D",
         "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
       },
@@ -575,6 +535,46 @@
       "duration_ms": 268617,
       "name": "Iluminado (feat. Flavia Virginia, Max Viana, Jo\u00e3o Viana, Sofia Viana, In\u00e1cio Viana, Thomas Boljover & Lui Viana)",
       "url": "https://open.spotify.com/track/4PyckagqFTimt12aJrg71q"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
+      },
+      "artists": [
+        {
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "Lisboa",
+      "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Sonhos & Ilus\u00f5es (acoustic)",
         "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 231250,
       "name": "Sonhos & Ilus\u00f5es - acoustic",
       "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -983,22 +983,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Um Gosto de Sol",
-        "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
+        "name": "coisa mais bonita",
+        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
       },
       "artists": [
         {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        },
-        {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
         }
       ],
-      "duration_ms": 202549,
-      "name": "Teimosa",
-      "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
+      "duration_ms": 176103,
+      "name": "coisa mais bonita",
+      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1015,6 +1011,26 @@
       "duration_ms": 233459,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/6HHPpfH68lFCVIUSuxbuff"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Um Gosto de Sol",
+        "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        },
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        }
+      ],
+      "duration_ms": 202549,
+      "name": "Teimosa",
+      "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 168681,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "coisa mais bonita",
-        "url": "https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 176103,
-      "name": "coisa mais bonita",
-      "url": "https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "N\u00e3o Tem Lua",
-        "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
-      },
-      "artists": [
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
-        },
-        {
-          "name": "Juliana Linhares",
-          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "N\u00e3o Tem Lua",
-      "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "N\u00e3o Tem Lua",
+        "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
+      },
+      "artists": [
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        },
+        {
+          "name": "Juliana Linhares",
+          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "N\u00e3o Tem Lua",
+      "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Oswaldo Montenegro e Orquestra",
+        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        }
+      ],
+      "duration_ms": 168162,
+      "name": "A Lista",
+      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "A M\u00fasica de Tom",
         "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 203434,
       "name": "Grand' Hotel",
       "url": "https://open.spotify.com/track/3z0d0L04jSDRHxWItUy0cP"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Oswaldo Montenegro e Orquestra",
-        "url": "https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        }
-      ],
-      "duration_ms": 168162,
-      "name": "A Lista",
-      "url": "https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Lusco-Fusco",
-        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
-      },
-      "artists": [
-        {
-          "name": "Assucena",
-          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
-        }
-      ],
-      "duration_ms": 272842,
-      "name": "Reluzente",
-      "url": "https://open.spotify.com/track/2UeumKHIIwlHuZS09znv0P"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Morena Bonita",
         "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
       },
@@ -1479,8 +1463,24 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Marujo",
-        "url": "https://open.spotify.com/album/5uoYiANXjRDCKedZeuuPDO"
+        "name": "Lusco-Fusco",
+        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        }
+      ],
+      "duration_ms": 272842,
+      "name": "Reluzente",
+      "url": "https://open.spotify.com/track/2UeumKHIIwlHuZS09znv0P"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Querer Bem",
+        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
       },
       "artists": [
         {
@@ -1492,9 +1492,9 @@
           "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
         }
       ],
-      "duration_ms": 168512,
-      "name": "Marujo",
-      "url": "https://open.spotify.com/track/6MJHXSrRfSWESgjTalaSIU"
+      "duration_ms": 194752,
+      "name": "Querer Bem",
+      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1623,8 +1623,8 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Querer Bem",
-        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
+        "name": "Marujo",
+        "url": "https://open.spotify.com/album/5uoYiANXjRDCKedZeuuPDO"
       },
       "artists": [
         {
@@ -1636,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
         }
       ],
-      "duration_ms": 194752,
-      "name": "Querer Bem",
-      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
+      "duration_ms": 168512,
+      "name": "Marujo",
+      "url": "https://open.spotify.com/track/6MJHXSrRfSWESgjTalaSIU"
     },
     {
       "added_at": "2023-10-20 03:00:00",

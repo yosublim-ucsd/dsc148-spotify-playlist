@@ -733,7 +733,7 @@
     },
     {
       "album": {
-        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE:10 Legenders",
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a10 Legenders",
         "url": "https://open.spotify.com/album/6toX8zfhUlEu86UnctM9RM"
       },
       "artists": [
@@ -911,7 +911,7 @@
     },
     {
       "album": {
-        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE:12 DRAMATIC STARS",
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a12 DRAMATIC STARS",
         "url": "https://open.spotify.com/album/41egSGWcWXwiIUP3LLpyiN"
       },
       "artists": [
@@ -929,7 +929,7 @@
     },
     {
       "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles!",
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles\uff01",
         "url": "https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T"
       },
       "artists": [
@@ -942,7 +942,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 273866,
-      "name": "Growing Smiles!",
+      "name": "Growing Smiles\uff01",
       "url": "https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux"
     },
     {
@@ -1324,7 +1324,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252546,
-      "name": "ONE to DREAM!",
+      "name": "ONE to DREAM\uff01",
       "url": "https://open.spotify.com/track/4KMxhxjRp3f44v1nNzje6S"
     },
     {
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 295506,
       "name": "PRIDE STAR",
       "url": "https://open.spotify.com/track/6foQ7TwClarh7orzRNKMa9"
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 305400,
       "name": "Reason!!",
       "url": "https://open.spotify.com/track/3CLQ12T4Ff4vGX0T98r2mP"
@@ -1684,7 +1684,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223773,
-      "name": "RULE~\u7259\u30f2\u7a7f\u30c6\u30e8~",
+      "name": "RULE\uff5e\u7259\u30f2\u7a7f\u30c6\u30e8\uff5e",
       "url": "https://open.spotify.com/track/5wuI32XPpxSTUrh2CqSDVk"
     },
     {
@@ -2936,20 +2936,20 @@
       },
       "artists": [
         {
-          "name": "Teru Tendo (CV: Shugo Nakamura)",
-          "url": "https://open.spotify.com/artist/7boAgMXjh8QfNoebIMNuoN"
+          "name": "\u5929\u9053 \u8f1d (CV.\u4ef2\u6751\u5b97\u609f)",
+          "url": "https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa"
         },
         {
-          "name": "Hideo Akuno (CV: Kentaro Kumagai)",
-          "url": "https://open.spotify.com/artist/1TNtxzq8ou2b1pxhqvETd8"
+          "name": "\u63e1\u91ce\u82f1\u96c4 (CV.\u718a\u8c37\u5065\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/4o1A7BPOW9o7dgZbVEvA3L"
         },
         {
-          "name": "Suzaku Akai (CV: Takeaki Masuyama)",
-          "url": "https://open.spotify.com/artist/4BDH9YGD7Ch3Afs03CMUw8"
+          "name": "\u7d05\u4e95\u6731\u96c0 (CV.\u76ca\u5c71\u6b66\u660e)",
+          "url": "https://open.spotify.com/artist/4dR8nTAHp1SZQ6l7i7pljW"
         },
         {
-          "name": "Amehiko Kuzunoha (CV: Jun Kasama)",
-          "url": "https://open.spotify.com/artist/6YcjPoc4BXcd1ZDSyqO8ht"
+          "name": "\u845b\u4e4b\u8449\u96e8\u5f66 (CV.\u7b20\u9593 \u6df3)",
+          "url": "https://open.spotify.com/artist/33cngtLDScW5CGypwJrpbN"
         }
       ],
       "date_added": "2022-12-01",
@@ -3088,7 +3088,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 238933,
-      "name": "\u7d20\u6575\u306bCon grazia!",
+      "name": "\u7d20\u6575\u306bCon grazia\uff01",
       "url": "https://open.spotify.com/track/7aY5G6hQ98G1nxxNgshPiY"
     },
     {

@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-471 songs - 1 day 8 hr 59 min
+474 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [INSANE](https://open.spotify.com/track/0OqxXUlo2LDR3hQBF4vn1f) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [INSANE](https://open.spotify.com/album/6JjvHPGyW7lze7VTHO2wFD) | 3:39 | 2022-12-16 |  |
 | [Insanity of Legitimacy](https://open.spotify.com/track/4QFIUT0IAJaRPgpbwYwJTg) | [Kortarow](https://open.spotify.com/artist/6sV6QHpHSuhHnMn1roAOLW) | [Japanese Stream Hardcore Vol.8](https://open.spotify.com/album/4B5EDWIZpxmE0UXi76bJZE) | 5:44 | 2019-01-29 |  |
 | [iNstiNct boostEr](https://open.spotify.com/track/1rwXSECjlauZVNCdHRs3Ga) | [kenta\-v.ez.](https://open.spotify.com/artist/4cN1VW0tv2952s0ywPjQU6) | [HARDCORE SYNDROME 5](https://open.spotify.com/album/3nD0NLFmi02hHA5qEWCyi3) | 5:02 | 2019-02-03 |  |
+| [Invader](https://open.spotify.com/track/3fqZFAPnIpjaj6jUyYQqfe) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Invader](https://open.spotify.com/album/7ewDr1TUJkAz4XUxYK9wvM) | 3:05 | 2023-10-28 |  |
 | [Invader](https://open.spotify.com/track/4valamMyBa31yjhHGoe5Jn) | [nnn](https://open.spotify.com/artist/1QoQ8pInqGvagcOXK3XHOX) | [IRREPARABLE HARDCORE IS BACK](https://open.spotify.com/album/1Il0tUaABSrO9MRN3Iwcnf) | 4:46 | 2020-10-16 |  |
 | [Iron Maiden](https://open.spotify.com/track/2NQz9UMPcuCE4VVSZfLkj1) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [DD Nakata Metal](https://open.spotify.com/artist/2ed3Sq2HasBVK38yxBxGBF) | [HALLOWEEN IS CHAOS](https://open.spotify.com/album/1gJdi0jiZTaEk2idFDymBo) | 3:59 | 2021-11-26 |  |
 | [Irreversible Hardcore \- 2020 Refix](https://open.spotify.com/track/5bXRgMYYFEIxIIy4QHkgsO) | [QUIL](https://open.spotify.com/artist/3Q6X5VDF0Zfu1hGHTEARSR) | [IRREPARABLE HARDCORE IS BACK](https://open.spotify.com/album/1Il0tUaABSrO9MRN3Iwcnf) | 3:52 | 2020-10-16 |  |
@@ -436,6 +437,7 @@
 | [Thrudgelmir](https://open.spotify.com/track/6o0lY0Y85oLslMwfdOCgOh) | [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa) | [Thrudgelmir](https://open.spotify.com/album/2jSClzT7IRaMjix7qDlYYT) | 4:00 | 2020-11-17 |  |
 | [Tribe of Judah](https://open.spotify.com/track/59NebvZYvHGdtz3tDCmRSL) | [TOKYO BURST PROJECT](https://open.spotify.com/artist/6as4D9YMg3oARLBH6GYhT7) | [Evil Underpass](https://open.spotify.com/album/2ICGIsWW2pf8IP9fZcpGoE) | 3:05 | 2020-04-07 |  |
 | [Truely](https://open.spotify.com/track/2QqSCSpvzt34cFozg7txsp) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Massive Circlez 3](https://open.spotify.com/album/5wkxyXw3nWlG69IUr59Agj) | 5:32 | 2019-03-03 |  |
+| [Trust](https://open.spotify.com/track/7aZgI3GxFaG30wPGULyOQp) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN), [Takenobu Mitsuyoshi](https://open.spotify.com/artist/1sLhIu05mcFgoEb6XGpj8e) | [Trust](https://open.spotify.com/album/1iJc8xDAIhKtKTkh5CQDSx) | 3:56 | 2023-10-28 |  |
 | [Truths & Denials](https://open.spotify.com/track/569ClWgH2UPR2nOmxmHRVJ) | [6th](https://open.spotify.com/artist/1OC1dqSbe6zNiv0NBtODX1) | [IRREPARABLE HARDCORE IS BACK](https://open.spotify.com/album/1Il0tUaABSrO9MRN3Iwcnf) | 4:46 | 2020-10-16 |  |
 | [Turn To The Darkside feat\. mur.mur.kurotoh](https://open.spotify.com/track/1oJl4pVE7BrT94a6dSlCQN) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [mur.mur.kurotoh](https://open.spotify.com/artist/2HwZNMZZ4WP4ICtL13qXJG) | [CARDS: JOKER](https://open.spotify.com/album/5ciVIIyZKkKfLyWrcakN6G) | 4:55 | 2019-02-22 |  |
 | [Twitter Addiction \(SickNesS Edit\) \(EDIT\)](https://open.spotify.com/track/0ZAQcr28OygO38L8PYS9va) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [VIOLENCE IN THE HOSPITAL](https://open.spotify.com/album/5g4JgIVr9mKlWCmSuPypo3) | 3:18 | 2019-11-29 |  |
@@ -476,6 +478,7 @@
 | [You & DIE](https://open.spotify.com/track/3mI6ISmK3vjom2nPArNEoo) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [MEGATON KICK 2](https://open.spotify.com/album/46TuWgh4sLLat0ldTyIHlG) | 4:10 | 2021-01-12 |  |
 | [Your Fear](https://open.spotify.com/track/04RWJd1eFGvWM2SkBEUH9S) | [Dischord](https://open.spotify.com/artist/5Em1ub39trbmoJ4nRYM8vS) | [Japanese Stream Hardcore X](https://open.spotify.com/album/60tdqDTmkzhRjpYZEiHtWg) | 3:42 | 2019-06-01 |  |
 | [your voicE is my voicE feat.core mc](https://open.spotify.com/track/1CmzhlFAPIbL9jGy7CuCv2) | [kenta\-v.ez.](https://open.spotify.com/artist/4cN1VW0tv2952s0ywPjQU6), [core mc](https://open.spotify.com/artist/3dImJ36o615DfBuassVoHi) | [HARDCORE SYNDROME X](https://open.spotify.com/album/7uEdesq6fj5zjSFVkcuON4) | 3:04 | 2019-02-03 |  |
+| [Σ](https://open.spotify.com/track/2wRJJmO7asfbXAwV5gM0Gu) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Gram](https://open.spotify.com/artist/3WtLwZYH0N8mqSaUjEW1kF), [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [Σ](https://open.spotify.com/album/1kYUxP4zxRGWc1ltk3OTN6) | 3:12 | 2023-10-27 |  |
 | [叫び \(RoughSketch Remix\)](https://open.spotify.com/track/681Nbn1vGYDYHBgrwwiDJA) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Notebook Records 2018 Year Selection](https://open.spotify.com/album/0bl5sctu6cKdbOESKAMfqQ) | 4:08 | 2019-06-01 |  |
 | [幸福実現サピエンス \(708 & imo Remix\)](https://open.spotify.com/track/7fO5GM7pSiXqhpZKUSjdBz) | [Rinkai Mosquito](https://open.spotify.com/artist/17QewHNCPwPkRbaTEcf4vc) | [YATSUZAKI HARDCORE VOLUME 9 \- REMIXES](https://open.spotify.com/album/0uTygYYXPvqZItufl8LWJQ) | 4:32 | 2019-09-13 |  |
 | [繭 feat.雨情華月](https://open.spotify.com/track/54Z4ConIW8hFmxueIeEmx0) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [雨情華月](https://open.spotify.com/artist/48SnToujxivA83FQBjyNIv) | [Notebook Records 2018 Year Selection](https://open.spotify.com/album/0bl5sctu6cKdbOESKAMfqQ) | 5:30 | 2019-06-01 |  |

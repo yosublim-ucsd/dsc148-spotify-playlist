@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "album": {
         "name": "10 Years",
         "url": "https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x"
       },
@@ -684,7 +702,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 134311,
       "name": "Aaltoi p\u00e4in (feat. Jami Faltin)",
       "url": "https://open.spotify.com/track/66BrGVswrL7ZPlumgSLRSs"
@@ -955,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178619,
+      "name": "Aino",
+      "url": "https://open.spotify.com/track/4ahgBdpusrRaPyoH1Skh1h"
+    },
+    {
+      "album": {
         "name": "Parisuhdehautausmaa",
         "url": "https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE"
       },
@@ -970,6 +1006,24 @@
       "duration_ms": 208433,
       "name": "Ainoa miinus",
       "url": "https://open.spotify.com/track/5JHlpediEGfVRPVIxcj5yP"
+    },
+    {
+      "album": {
+        "name": "Aji Aji",
+        "url": "https://open.spotify.com/album/1KsNClWF91RCnkBnqIVMam"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166062,
+      "name": "Aji Aji",
+      "url": "https://open.spotify.com/track/2lo7W7vYvMN3BOfKDxdxfB"
     },
     {
       "album": {
@@ -1244,7 +1298,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 181240,
       "name": "Allstar (feat. ibe)",
       "url": "https://open.spotify.com/track/6NSjIm8OZLsjcJQgUdsGNr"
@@ -3152,7 +3206,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 149289,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/61m5q3Qk7F7W6foiZDpN5p"
@@ -3532,7 +3586,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -6687,6 +6741,28 @@
     },
     {
       "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        },
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182546,
+      "name": "Feimii",
+      "url": "https://open.spotify.com/track/2URHZHXAM122hwjNhBx1e1"
+    },
+    {
+      "album": {
         "name": "Feimii",
         "url": "https://open.spotify.com/album/0LeKD7A9fjGqsCbvpIgXF7"
       },
@@ -6702,7 +6778,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 182546,
       "name": "Feimii",
       "url": "https://open.spotify.com/track/7HOHMXcmf8gl4YuKwBO7SV"
@@ -7130,6 +7206,24 @@
       "duration_ms": 147717,
       "name": "Fotogeeninen",
       "url": "https://open.spotify.com/track/6AMW5OL6GhP2vlfM6X1MiW"
+    },
+    {
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147717,
+      "name": "Fotogeeninen - Bonus Track",
+      "url": "https://open.spotify.com/track/2WwAsPZ5eBwihvFv2uXGl4"
     },
     {
       "album": {
@@ -8289,6 +8383,42 @@
     },
     {
       "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206858,
+      "name": "Haavcation",
+      "url": "https://open.spotify.com/track/1YIPoktkEBmQhwdeEWZTEJ"
+    },
+    {
+      "album": {
+        "name": "Haikailla",
+        "url": "https://open.spotify.com/album/6Cf1dmW8TpCtRTF7xS4tIT"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188913,
+      "name": "Haikailla",
+      "url": "https://open.spotify.com/track/0WaM1Gm2pepIsQOGtUfEKG"
+    },
+    {
+      "album": {
         "name": "Halleluja",
         "url": "https://open.spotify.com/album/4Fe3Vgs7OAErOBCRB0tsDD"
       },
@@ -9398,6 +9528,24 @@
       "duration_ms": 188449,
       "name": "Huhhahhei",
       "url": "https://open.spotify.com/track/6FlgcrEoaGurTfbcSeqHVm"
+    },
+    {
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203709,
+      "name": "Hukas",
+      "url": "https://open.spotify.com/track/40SGFYkwJVWDfLD8tay2OI"
     },
     {
       "album": {
@@ -10896,10 +11044,28 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 78496,
       "name": "irtokynnet (keskisarja)",
       "url": "https://open.spotify.com/track/3jwwDoR5wW7XFsxVVa5x5D"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
     },
     {
       "album": {
@@ -11409,6 +11575,32 @@
     },
     {
       "album": {
+        "name": "Intuitio",
+        "url": "https://open.spotify.com/album/0mp44eilN5zXNKzifihbkm"
+      },
+      "artists": [
+        {
+          "name": "Kiki",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        },
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        },
+        {
+          "name": "F",
+          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Jos sul ei oo mua (feat. F & BESS)",
+      "url": "https://open.spotify.com/track/39R1kVmiHKlRHQapRMyJ6G"
+    },
+    {
+      "album": {
         "name": "Hiljaisuudessa 2006",
         "url": "https://open.spotify.com/album/48xHPaOdIKHS8mAas29K5O"
       },
@@ -11794,7 +11986,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 158716,
       "name": "Just sillee",
       "url": "https://open.spotify.com/track/1qmWhud8dSCh1WxZnwaR2P"
@@ -14251,6 +14443,24 @@
     },
     {
       "album": {
+        "name": "Tunnettu Plugi",
+        "url": "https://open.spotify.com/album/5G3aPrmMwRdieq2KKVFVIF"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127338,
+      "name": "Kyl vitus (Intro)",
+      "url": "https://open.spotify.com/track/5b9ic5pD7G7VsABtoW1zGd"
+    },
+    {
+      "album": {
         "name": "Kylm\u00e4 (feat. Etta)",
         "url": "https://open.spotify.com/album/5M96DNh1ylelY2dbFutcZb"
       },
@@ -14748,7 +14958,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 130059,
       "name": "Lambo (feat. VJ)",
       "url": "https://open.spotify.com/track/0IJEnvu1p4OIzkY8UiQXCt"
@@ -16177,6 +16387,24 @@
     },
     {
       "album": {
+        "name": "Tunnettu Plugi",
+        "url": "https://open.spotify.com/album/5G3aPrmMwRdieq2KKVFVIF"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Lyrical King",
+      "url": "https://open.spotify.com/track/1fJvIjvIEnCxYr2mvOiWg5"
+    },
+    {
+      "album": {
         "name": "L\u00e4hemp\u00e4n\u00e4 jumalaa",
         "url": "https://open.spotify.com/album/1XME9aJnHfuCz1Jc36RVla"
       },
@@ -16426,7 +16654,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 150487,
       "name": "Maailman ymp\u00e4ri",
       "url": "https://open.spotify.com/track/0Md23O27tBkiiuzsCTetpl"
@@ -17242,7 +17470,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 174283,
       "name": "Meit ei oo",
       "url": "https://open.spotify.com/track/6gC4zm1oONWkl0zvo4Cwg6"
@@ -18338,7 +18566,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 127880,
       "name": "MMM (feat. Fabe)",
       "url": "https://open.spotify.com/track/0Hc5xVRukKIIAzjM5m3O1p"
@@ -18664,6 +18892,24 @@
       "duration_ms": 149180,
       "name": "MTV3",
       "url": "https://open.spotify.com/track/0OBg1TKKrkfDEpp6jeY9jg"
+    },
+    {
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184515,
+      "name": "Mua ei voi pelastaa",
+      "url": "https://open.spotify.com/track/08mPohxtKuoyl97OQEq38I"
     },
     {
       "album": {
@@ -20690,7 +20936,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
@@ -20734,6 +20980,24 @@
       "duration_ms": 211076,
       "name": "Ongelmalapsi",
       "url": "https://open.spotify.com/track/0prU9hQnYIxQW09ntVoz3C"
+    },
+    {
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227319,
+      "name": "Onks mit\u00e4\u00e4n parempaa",
+      "url": "https://open.spotify.com/track/6wWujNva0sQxL5CKfZGVaN"
     },
     {
       "album": {
@@ -21316,7 +21580,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -21498,7 +21762,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 154913,
       "name": "Pariisin kev\u00e4t",
       "url": "https://open.spotify.com/track/4NbcnW0v1yoeq2IAuWFriv"
@@ -21720,7 +21984,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 200686,
       "name": "Perill\u00e4",
       "url": "https://open.spotify.com/track/78CwzrOPZ6b9wWStb1pdGR"
@@ -22958,7 +23222,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 185007,
       "name": "Rajal (feat. ibe, Ares & Elastinen)",
       "url": "https://open.spotify.com/track/5grPmKSW7p7wxMzaje5SRP"
@@ -23056,7 +23320,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 198699,
       "name": "Rakastunut suruun",
       "url": "https://open.spotify.com/track/2JUk53yq4ckNbdXwstAe2I"
@@ -23114,6 +23378,24 @@
       "duration_ms": 210620,
       "name": "Rakkaus tappaa",
       "url": "https://open.spotify.com/track/1v0MVxPYvBYLsS6rQnV9nq"
+    },
+    {
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188153,
+      "name": "Rakkauteen",
+      "url": "https://open.spotify.com/track/4wqqfH4CBaQURaClv7dsID"
     },
     {
       "album": {
@@ -24387,6 +24669,24 @@
     },
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279833,
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
+    },
+    {
+      "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
@@ -25098,7 +25398,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
@@ -25917,6 +26217,24 @@
     },
     {
       "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189071,
+      "name": "Stara",
+      "url": "https://open.spotify.com/track/04TcSXoEPD9fNkEQaKEzdj"
+    },
+    {
+      "album": {
         "name": "Stara",
         "url": "https://open.spotify.com/album/6L7UV9JPdCIXRal6KIaDZ6"
       },
@@ -26266,6 +26584,24 @@
       "duration_ms": 226986,
       "name": "Streets",
       "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Style (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
     },
     {
       "album": {
@@ -26820,6 +27156,24 @@
       "duration_ms": 179910,
       "name": "Syd\u00e4mii",
       "url": "https://open.spotify.com/track/1eEAiEd1n6WfPh4zgOWy4S"
+    },
+    {
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179910,
+      "name": "Syd\u00e4mii",
+      "url": "https://open.spotify.com/track/2sa9m8OLLjWGBS96w8kR2d"
     },
     {
       "album": {
@@ -27433,6 +27787,28 @@
     },
     {
       "album": {
+        "name": "Tunnettu Plugi",
+        "url": "https://open.spotify.com/album/5G3aPrmMwRdieq2KKVFVIF"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144953,
+      "name": "Tarinoit Vantaalt",
+      "url": "https://open.spotify.com/track/4nZdmbr4HlIzLN4gnHFCdB"
+    },
+    {
+      "album": {
         "name": "247365",
         "url": "https://open.spotify.com/album/2tShA8neDBPFY0Bc06qEpx"
       },
@@ -27622,6 +27998,24 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/5dqIVgDv4K2MWPO7J5InuC"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186081,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/4RcBdmcjMn7qv0BeVfW8ys"
     },
     {
       "album": {
@@ -28518,7 +28912,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 183806,
       "name": "Tulipalo",
       "url": "https://open.spotify.com/track/50MCpRAPLw8KXn8j6j2yb7"
@@ -28540,6 +28934,24 @@
       "duration_ms": 277493,
       "name": "Tulkoon joulu",
       "url": "https://open.spotify.com/track/1K0ZirzQ9KtHAKOLB5efXs"
+    },
+    {
+      "album": {
+        "name": "Tunnettu Plugi",
+        "url": "https://open.spotify.com/album/5G3aPrmMwRdieq2KKVFVIF"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145035,
+      "name": "Tunnettu Plugi",
+      "url": "https://open.spotify.com/track/3K265QDIKTbM1MitKJdgOZ"
     },
     {
       "album": {
@@ -29585,6 +29997,24 @@
     },
     {
       "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "Vahinko",
+      "url": "https://open.spotify.com/track/3EvLCrqp7tdbaNkEe68RoT"
+    },
+    {
+      "album": {
         "name": "Vainoharhainen",
         "url": "https://open.spotify.com/album/3QLfbQ6ZM07w6x7zAt1z5y"
       },
@@ -29962,7 +30392,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 123660,
       "name": "Vastustaa",
       "url": "https://open.spotify.com/track/2lvCRioElAZPAgqWCV9a1S"
@@ -30552,7 +30982,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 209302,
       "name": "Viimeisi\u00e4 sanoja",
       "url": "https://open.spotify.com/track/2qLzkSZ3nstuozJLipRIrS"
@@ -30850,7 +31280,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 195258,
       "name": "Voimaantunu",
       "url": "https://open.spotify.com/track/1P5dnsR8u5iyEsyIuB8t4O"
@@ -30904,7 +31334,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 156000,
       "name": "VYYHTI (ettiny aitoo rakkaut)",
       "url": "https://open.spotify.com/track/40uSGkDj9YubrDIihc28Ar"
@@ -31749,6 +32179,24 @@
     },
     {
       "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179456,
+      "name": "Yks pullo",
+      "url": "https://open.spotify.com/track/0RHOUjIUEVsbLsYP2VLKVZ"
+    },
+    {
+      "album": {
         "name": "Yks pullo / Aino",
         "url": "https://open.spotify.com/album/0yP3Ba2bzMxPObLUixaG6d"
       },
@@ -31884,7 +32332,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 181947,
       "name": "Ylivoimainen",
       "url": "https://open.spotify.com/track/4TXoHT9YxXfczvs2ccf5MK"

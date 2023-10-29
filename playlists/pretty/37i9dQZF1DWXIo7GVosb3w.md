@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIo7GVosb3w.md) - [plain]
 
 > ジャンルレスな作品性と、美麗なファルセット・ヴォイスが魅力のSSW、ビッケブランカ のオールタイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,871 likes - 55 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,879 likes - 55 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIo7GVosb3w.md) - [plain]
 | 54 | [Sound Of Your Name \(with Vickeblanka\)](https://open.spotify.com/track/6yY0MZVSs6Rv4eGQa9uh5q) | [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E), [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [TRUSTFALL](https://open.spotify.com/album/2ju68z3bSFCOXuNBDH0fbW) | 3:26 |
 | 55 | [Like a Movie](https://open.spotify.com/track/0QdvC68FlVClJsRBNZODQr) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [FEARLESS](https://open.spotify.com/album/0guChGuEDcTGZln5bhyuN2) | 3:33 |
 
-Snapshot ID: `MCwzOTQxMjZkMzQ2NjEyOWVkZWZhZjdmY2E3YjE1OGMxZmI2MGQ0NmFm`
+Snapshot ID: `MCw3ZDc3MmFkNGMyNTNmMjVjZmNhNjJhNjhkZmQ3YWU4MzNkOGZkMzAz`

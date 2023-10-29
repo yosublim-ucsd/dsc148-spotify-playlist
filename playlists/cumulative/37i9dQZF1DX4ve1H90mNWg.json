@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Texas music breaking waves. \n Cover:  <a href=\"https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=d14048b372484137\">Teezo Touchdown</a>",
+  "description": "Texas music breaking waves. \n Cover:  <a href=\"spotify:artist:44JW18XzNr86kKNWJq8eg1\">Jastin Martin</a>",
   "name": "Ripple Effect: Texas",
   "tracks": [
     {
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 107885,
       "name": "Bow Chicka Wow",
       "url": "https://open.spotify.com/track/3MVcrM4Hb4XMcoTZ5rYJAE"
@@ -3210,10 +3210,32 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 271177,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0FnmE9EqmI43RBJVLZ0RMM"
+    },
+    {
+      "album": {
+        "name": "Stuck in Motion",
+        "url": "https://open.spotify.com/album/02ZZ5x1ceoDV8hv7UQ7r8b"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271177,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/6AfWb30zxst5E61s94m19j"
     },
     {
       "album": {
@@ -3475,6 +3497,32 @@
     },
     {
       "album": {
+        "name": "From Tha Back 2",
+        "url": "https://open.spotify.com/album/07m2l00gTakuTbiMYwwjMc"
+      },
+      "artists": [
+        {
+          "name": "lil.eaarl",
+          "url": "https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES"
+        },
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "From Tha Back 2",
+      "url": "https://open.spotify.com/track/2qm1EwnWTU8al0dNtsPNbp"
+    },
+    {
+      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/7rEC5D19P8WP32TiNk9Krf"
       },
@@ -3614,6 +3662,24 @@
       "duration_ms": 151698,
       "name": "Get Paid",
       "url": "https://open.spotify.com/track/5hhvK8Png04nKtNZalWK8s"
+    },
+    {
+      "album": {
+        "name": "Get to Me",
+        "url": "https://open.spotify.com/album/35hPStGiTvwdxTaG75UvrE"
+      },
+      "artists": [
+        {
+          "name": "KeyWay",
+          "url": "https://open.spotify.com/artist/5jGsJvasiI09NSVoo13ve3"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Get to Me",
+      "url": "https://open.spotify.com/track/4sACJ1Au1UOYg3MRSjzinL"
     },
     {
       "album": {
@@ -6347,6 +6413,24 @@
     },
     {
       "album": {
+        "name": "misunderstood",
+        "url": "https://open.spotify.com/album/6skd3vFOC6WlQfq5p8SmtP"
+      },
+      "artists": [
+        {
+          "name": "AJ McQueen",
+          "url": "https://open.spotify.com/artist/5yQzq87Fu3ZTADxVWwWoj7"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234588,
+      "name": "misunderstood",
+      "url": "https://open.spotify.com/track/3S7uLIpYgj20JdZrkhoFsx"
+    },
+    {
+      "album": {
         "name": "Lust Just Vibe",
         "url": "https://open.spotify.com/album/3mtzI3SxILm0y8sU2HuBCH"
       },
@@ -7686,6 +7770,36 @@
       "duration_ms": 192444,
       "name": "Poke Wider - Remix",
       "url": "https://open.spotify.com/track/0qGcXRTg3mUA5OW1yVggdt"
+    },
+    {
+      "album": {
+        "name": "Be Someone: Texas Population",
+        "url": "https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi"
+      },
+      "artists": [
+        {
+          "name": "DJ Chose",
+          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
+        },
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215406,
+      "name": "Pop Like",
+      "url": "https://open.spotify.com/track/1LudIHle04O6wfSi2QNdqL"
     },
     {
       "album": {
@@ -10666,7 +10780,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 173333,
       "name": "trap goin up",
       "url": "https://open.spotify.com/track/6tuvXhQFMpLWluXXlO4pBE"
@@ -11598,6 +11712,28 @@
       "duration_ms": 202478,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/6XDhfiUGjaT7JOaejy0MNs"
+    },
+    {
+      "album": {
+        "name": "WORTH IT (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/1TLxAcly1q7a0tyavTGeNq"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "WORTH IT (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/08oo0eCDQZ9XC3zQR8q44y"
     },
     {
       "album": {

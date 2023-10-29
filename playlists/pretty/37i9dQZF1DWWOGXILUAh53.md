@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Bebe Rexha & Nathan Dawe
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,167 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,297 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 70 | [High](https://open.spotify.com/track/6tFu352cJP4jBVrfU4dR4l) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3) | [High](https://open.spotify.com/album/3l89sZcMW0mJJEgRQN68G9) | 2:55 |
 | 71 | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1) | 2:50 |
 | 72 | [Need Your Love](https://open.spotify.com/track/2TSU0Ti5e5beL9mYlHbYQu) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Need Your Love](https://open.spotify.com/album/12PQ5IbSS0mm4XMgQubpX9) | 2:56 |
-| 73 | [i'm only here for the beat](https://open.spotify.com/track/5gDsgk7rFViTjF5flKMZuI) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [i'm only here for the beat](https://open.spotify.com/album/6yKh818iw8w7buxdyRfDbV) | 2:25 |
+| 73 | [i'm only here for the beat](https://open.spotify.com/track/2pZuspmg5dtQ8TudPoF1rf) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [i'm only here for the beat](https://open.spotify.com/album/67Nt0aKzoZx8rtu1GOQle1) | 2:25 |
 | 74 | [Girls Just Wanna Have Fun](https://open.spotify.com/track/24XAAZIbQriREBFYshbMxV) | [Carine](https://open.spotify.com/artist/5EADzWzO9nhqVZdNW7hrBi), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/7EIBCfvFJeDwPOIVn1FIq9) | 2:42 |
 | 75 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 |
 
-Snapshot ID: `MCwwYjM5Y2U1NGRiZGNlY2UxZGE3NzJjOTExNzcxNjI3ZmUzMThjNGM4`
+Snapshot ID: `MCxlNTk2MmIyYTYxMzNiODM2NjcyYjU0NjU1ZDY3MGQxNDA1NTFlZGE4`

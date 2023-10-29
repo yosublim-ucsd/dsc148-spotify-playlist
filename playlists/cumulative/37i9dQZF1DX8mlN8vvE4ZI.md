@@ -2,7 +2,7 @@
 
 ### [ECHO : Soulful Sitar](https://open.spotify.com/playlist/37i9dQZF1DX8mlN8vvE4ZI)
 
-> Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Rishab Rikhiram Sharma
+> Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
 54 songs - 4 hr 28 min
 

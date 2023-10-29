@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,400 likes - 136 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,541 likes - 136 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sandım Ki](https://open.spotify.com/track/43UixOA06v0QNlb9Q0YWBX) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Sandım Ki](https://open.spotify.com/album/24eHoKCFb3QWoi6wQlbIX1) | 4:06 |
+| 1 | [Sandım Ki](https://open.spotify.com/track/5rRE2sa6Q6IgYDBiO9PiXC) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Sandım Ki](https://open.spotify.com/album/1qOtMCVssBznqkLjjQL0QU) | 4:06 |
 | 2 | [Novo Balanço](https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 2:20 |
 | 3 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 |
 | 4 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 135 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 |
 | 136 | [台北宵夜指南](https://open.spotify.com/track/0eLiTFv7m8O6ScxJVQZyCR) | [胡家誠](https://open.spotify.com/artist/200pQawht4r55tBNrWTVpx) | [台北宵夜指南](https://open.spotify.com/album/0g6Hzc1A6nAOAloMQtUDPn) | 3:44 |
 
-Snapshot ID: `MCxmNjZhNzY3NzViNTRmOTVhYmExOTdjYzVkYTg4NTZmZTg5NmYzYTU3`
+Snapshot ID: `MCxhYTk2Y2NiN2I1ZTNjOWQ2OGVlNmFlZDEzNWIwOWVkYWEwYjRiM2Q3`

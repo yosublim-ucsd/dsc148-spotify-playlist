@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 161690,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/1f7Qc1b1MbQUFB9kUSpl6n"
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 212782,
       "name": "Do Hot Girls Like Chords?",
       "url": "https://open.spotify.com/track/3edXLmc4WGO8r2g5gjh0Ux"
@@ -4960,6 +4960,32 @@
       "duration_ms": 171545,
       "name": "Fatha Fig Ya (Food For Thought)",
       "url": "https://open.spotify.com/track/05UEfL5UDBSV7Pcr2SzODn"
+    },
+    {
+      "album": {
+        "name": "iLLdren",
+        "url": "https://open.spotify.com/album/5kbqVZEGqSwINKlGdOEmgx"
+      },
+      "artists": [
+        {
+          "name": "King Iso",
+          "url": "https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Matt Phoenix",
+          "url": "https://open.spotify.com/artist/2mpOeCZ7fAzhQmeXKQU8u8"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276977,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/1f3kMabwtDX5TaZw2T2DRF"
     },
     {
       "album": {
@@ -6420,7 +6446,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 555414,
       "name": "Have You Seen This Movie",
       "url": "https://open.spotify.com/track/2LUiRhU7rSaGqPAvaQ5Zik"
@@ -9298,10 +9324,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 243687,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq"
+    },
+    {
+      "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/3j0kAPRr52jZmyIy4olRK9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243687,
+      "name": "Mess It Up",
+      "url": "https://open.spotify.com/track/6fVCPBFgs69jSSM114rGmy"
     },
     {
       "album": {
@@ -13924,7 +13968,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 222600,
       "name": "Tech N9ne Presents: NNUTTHOWZE - The Siqnal",
       "url": "https://open.spotify.com/track/02TKQCqn07U3oCpsqFzk7f"
@@ -14106,6 +14150,28 @@
       "duration_ms": 186270,
       "name": "The American Dream Is Killing Me",
       "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
+    },
+    {
+      "album": {
+        "name": "The Pigeon Tunnel (Soundtrack from the Apple Original Film)",
+        "url": "https://open.spotify.com/album/1lBdfiLIfMijz3WAn82UwE"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Paul Leonard-Morgan",
+          "url": "https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "The Artist",
+      "url": "https://open.spotify.com/track/6gKBP1LA3SHLldVxjtijbN"
     },
     {
       "album": {

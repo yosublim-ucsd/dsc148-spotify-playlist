@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,765 likes - 174 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,796 likes - 174 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 16 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7GnQsPZ4C4mecUcglkUJgr) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0Lt81n1P5yl3I35EbUrvd3) | 3:28 |
 | 17 | [Grace](https://open.spotify.com/track/2TESHzTfZn6rl9988rnTG7) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [O Come All Ye Faithful](https://open.spotify.com/album/6TdRrPQiLtwEokNNHxiviI) | 3:41 |
 | 18 | [Happy Christmas My Dear](https://open.spotify.com/track/3z0GfQCW7MAyoqfGbuymvD) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Happy Christmas My Dear](https://open.spotify.com/album/3CxBiwmyE6h2lMGevQqXNV) | 2:54 |
-| 19 | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/00BFJckRTYu3QeeZRq15qf) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/album/6KWhYyuzKStMgcvDdRJFwW) | 3:35 |
+| 19 | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/1mcK8CwRiYfxW3Bq0yaZQr) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Christmas Together \(Wherever We Are\)](https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx) | 3:35 |
 | 20 | [Silver Bells](https://open.spotify.com/track/45ppW2lNnho5FgWdfK3EO9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Silver Bells](https://open.spotify.com/album/3xf3VdXLz6ZtvnCFCxYUou) | 1:55 |
 | 21 | [Christmas Alone \- Live](https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Christmas Alone \(Live from the Blue Room\)](https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn) | 3:30 |
 | 22 | [Blame It on the Mistletoe](https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [For Christmas](https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G) | 3:18 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 43 | [Frosty the Snowman](https://open.spotify.com/track/732qfVoTwzKNDTGm1MfJvp) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 2:10 |
 | 44 | [The Little Drummer Boy](https://open.spotify.com/track/363Oibeq4AOo4ePXi2NiGs) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:43 |
 | 45 | [Champagne Drops](https://open.spotify.com/track/4FSKL9VBXp8CCxo93uBkik) | [My Bubba](https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d) | [Champagne Drops](https://open.spotify.com/album/2O6RkUSLOWxTRAlEXStV23) | 3:38 |
-| 46 | [All I Want for Christmas Is You](https://open.spotify.com/track/6XYlGIZ5FJVPcsMEvapuO8) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [All I Want for Christmas Is You](https://open.spotify.com/album/2KgepIGt89PNbVoGJuEaud) | 3:02 |
+| 46 | [All I Want for Christmas Is You](https://open.spotify.com/track/2pGJtDfwKVxNFBwRAZLHOV) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Christmas Together \(Wherever We Are\)](https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx) | 3:02 |
 | 47 | [Blue Christmas](https://open.spotify.com/track/4Vqioxd7rPzv5bJV0YnUVx) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Blue Christmas](https://open.spotify.com/album/1T2g4dgcXn8qvx75OEnkyB) | 2:35 |
 | 48 | [Trim This Tree](https://open.spotify.com/track/4zDOxq3WyPmTu9GNFP8g8Y) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Trim This Tree](https://open.spotify.com/album/1RtkLK0XliS3tzDHGCZoGm) | 3:55 |
 | 49 | [Blue Spruce Needles](https://open.spotify.com/track/2wC21pecl5NqHZjdyunYxM) | [Communist Daughter](https://open.spotify.com/artist/7fsbGhcm5sIPooEAkATHFe) | [Sing Sad Christmas](https://open.spotify.com/album/2aB77OyuNQ2eMt4emOoEjV) | 3:52 |

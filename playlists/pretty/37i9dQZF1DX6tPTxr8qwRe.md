@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,618 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,796 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 6 | [You're Not A God](https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [You're Not A God](https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys) | 3:03 |
 | 7 | [NO HANDS \(SIDE A\)](https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:17 |
 | 8 | [me\-a\-holic](https://open.spotify.com/track/4n3g8GiuRDZ8WzRd7sU6r0) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [me\-a\-holic](https://open.spotify.com/album/7oRhBhXgzzU1dB8svLcEaP) | 2:08 |
-| 9 | [Spooked](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [Spooked](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 |
+| 9 | [SPOOKED](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [SPOOKED](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 |
 | 10 | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/album/7oXLJl1mwaPoewLLvE9emw) | 2:49 |
 | 11 | [VILLAIN](https://open.spotify.com/track/5Y7xJHElBKXnsKQvFtTZLb) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [VILLAIN](https://open.spotify.com/album/6mwWQJgPfc49JAeOXDOgy9) | 3:24 |
 | 12 | [i should call my friends](https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [i should call my friends](https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe) | 2:39 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 15 | [ballad of a homeschooled girl](https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:23 |
 | 16 | [Bedroom](https://open.spotify.com/track/7fnICPO0s3jcQ049Yk0EmV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Now That I've Been Honest](https://open.spotify.com/album/1XVQCnrnScVpeirmTCOZHz) | 2:53 |
 | 17 | [WEIRDO](https://open.spotify.com/track/4q0l0eybNVn3ae13cj4OBw) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [WEIRDO](https://open.spotify.com/album/6rDokynybvQJty9nxAAGVh) | 2:30 |
-| 18 | [bug](https://open.spotify.com/track/5eG7N74vstGSTCr1NsJHkU) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [bug](https://open.spotify.com/album/7v6BsEI6lQeLqzGXsI4Wjs) | 2:22 |
+| 18 | [bug](https://open.spotify.com/track/5eG7N74vstGSTCr1NsJHkU) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [bug](https://open.spotify.com/album/7v6BsEI6lQeLqzGXsI4Wjs) | 2:23 |
 | 19 | [ORAL HEX \(spell on you\)](https://open.spotify.com/track/6SpUnFjNfyFgyLRm65b2G6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [ORAL HEX \(spell on you\)](https://open.spotify.com/album/3Z6ZQizuBnh4w78dlm6HZ1) | 3:14 |
 | 20 | [With A Smile](https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [With A Smile](https://open.spotify.com/album/0GHIWxvJmJOYTSBrvUK5jp) | 2:56 |
 | 21 | [MASOCHIST](https://open.spotify.com/track/3wlU8UYOvnnbt9BYkBqrgH) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [OVER HER DEAD BODY](https://open.spotify.com/album/16VkEvSvpJZVdqchm8E6F2) | 2:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 79 | [Crazier Best Friend](https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Crazier Best Friend](https://open.spotify.com/album/4tNwSshyEfPg3tltRHZn3j) | 2:51 |
 | 80 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 
-Snapshot ID: `MCw5NDk5YzhkZWY2MDRjZDZjM2YzNDNjZjUwYjhlNzZiOTQwZTI5NzA2`
+Snapshot ID: `MCxlMzk5NGNkNDJmNjhkMjZkNWZhMzE5NDk1Zjc1MjVjMDFjOTFkYWJm`

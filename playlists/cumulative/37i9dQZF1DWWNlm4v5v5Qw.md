@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Cover: IDK
 
-388 songs - 17 hr 46 min
+389 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [compromise](https://open.spotify.com/track/0F1jhF5aulsNWDN7wBdxOH) | [Blest Jones](https://open.spotify.com/artist/58zckWmoqAOoqPtZggJ9OZ) | [compromise](https://open.spotify.com/album/4PGowEmqNy18CGOlUwCLZe) | 3:14 | 2022-02-04 | 2022-03-05 |
 | [Constellations](https://open.spotify.com/track/0L8bf6ph4kDnHtKRnY95aH) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB) | [Constellations](https://open.spotify.com/album/3vEWvYAC6uedBaHV9bM2NM) | 2:52 | 2022-02-18 | 2022-04-02 |
 | [Contact](https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT) | [Contact](https://open.spotify.com/album/5seomwiB0N53hjaEoLOdb4) | 2:14 | 2022-09-30 | 2023-04-29 |
-| [COOKIE](https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [COOKIE](https://open.spotify.com/album/6ORhrxc0bzcNmX7apvOubK) | 2:31 | 2023-07-14 |  |
+| [COOKIE](https://open.spotify.com/track/3Gwh2VbVdHbcc4zYdAugt5) | [FISHLORD](https://open.spotify.com/artist/1Hv9p9zMYy3gc2VWQfK5gg) | [COOKIE](https://open.spotify.com/album/5XF5NiWOkq6sTMWXpT16in) | 2:31 | 2023-08-25 |  |
+| [COOKIE](https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [COOKIE](https://open.spotify.com/album/6ORhrxc0bzcNmX7apvOubK) | 2:31 | 2023-07-14 | 2023-10-29 |
 | [Countdown](https://open.spotify.com/track/1hU3gvQuESi3gHBPuSrOGH) | [FULMETALPARKA$](https://open.spotify.com/artist/2bmYau9D9oa1VDIiW5pBQk), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Countdown](https://open.spotify.com/album/6hGe2fz9cx4bGdgfDw8K0V) | 2:11 | 2022-07-01 | 2022-09-24 |
 | [Counter](https://open.spotify.com/track/4W4lWW8HQITbAe96R0APIh) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Counter](https://open.spotify.com/album/35MFJBhiYKKm3Vsybpsk29) | 2:26 | 2022-02-25 | 2022-06-08 |
 | [Crazy Wild Pow Wow](https://open.spotify.com/track/1TJ6nTEuXxKXdse7ZoFF8m) | [Hyattsvillain](https://open.spotify.com/artist/1X8K2CJ9gE4QDrh8TVRMKr) | [Short Songs for a Fast Life](https://open.spotify.com/album/4YIWhgSRAtkzL3AI7VjGWc) | 1:50 | 2022-08-12 | 2022-09-24 |

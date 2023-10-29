@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Green Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,406 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,511 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 6 | [Forgot To Grow](https://open.spotify.com/track/6paoS9bgvq5NQVrljedfFm) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Forgot To Grow](https://open.spotify.com/album/0QP79EOlImpXgzioV8GdeX) | 3:12 |
 | 7 | [He's A Man](https://open.spotify.com/track/4UQx1lUIMGpQStpkb2PXyr) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [He's A Man](https://open.spotify.com/album/4p4qOGUok3rOwAT9EFu6pQ) | 2:38 |
 | 8 | [WW4 \- Live in Brooklyn \| 2023](https://open.spotify.com/track/4mDzdEzdjLdXyB7Tcj2rUa) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Live & Loose In The USA](https://open.spotify.com/album/3u6NpAc0eBfKW4QBaCJ0Tg) | 4:24 |
-| 9 | [Tear It Out](https://open.spotify.com/track/7ts5b5gzRHYXBXlqTtzbW1) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Join The Club \(Extended Edition\)](https://open.spotify.com/album/4JmCCArAzyzFg3fhNQu0Cl) | 2:59 |
+| 9 | [Tear It Out](https://open.spotify.com/track/7ts5b5gzRHYXBXlqTtzbW1) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Join The Club \(Extended Edition\)](https://open.spotify.com/album/4JmCCArAzyzFg3fhNQu0Cl) | 3:04 |
 | 10 | [TERFs Out](https://open.spotify.com/track/3gHdnDdJDo3HvkARQo8SqC) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Blouse Club](https://open.spotify.com/album/219nLTHtXTthAS6XPsbfbt) | 2:38 |
 | 11 | [XOXO](https://open.spotify.com/track/2gsQSr676Ri06KDDtUqjAs) | [Gee Clarke](https://open.spotify.com/artist/5mKjDMrHsXXsNPqIvVX3j3), [Command Sisters](https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed) | [XOXO](https://open.spotify.com/album/4vvX6eL8vfklKlxiREbon5) | 2:15 |
 | 12 | [KIDS](https://open.spotify.com/track/7BULCIBMF91UBK4dM16UqI) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [You Okay?](https://open.spotify.com/album/1ZRiGE2dy6XVO5dUZCoxGc) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 |
 | 100 | [Fallen Short](https://open.spotify.com/track/1mbnRS3a0TgqsrahokSF43) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Fallen Short](https://open.spotify.com/album/7Dcgqmfp566cAcShiWhUqi) | 2:37 |
 
-Snapshot ID: `MCw5YTBiYzA4ODVmMmNkY2Q0MDBhOWUwOGY0MTM2NTg5MWU0NjgxZGMw`
+Snapshot ID: `MCw3YTZkMTM2OWJkYjJhYmZiZTAxMzhmZGY5NzMzMzE3NTg3YjA5YzM3`

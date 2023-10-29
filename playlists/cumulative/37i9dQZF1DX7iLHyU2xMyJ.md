@@ -4,7 +4,7 @@
 
 > From Annakili to Viduthalai \- all the essential tracks of Isaignani!
 
-498 songs - 1 day 15 hr 14 min
+499 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Marugo Marugo](https://open.spotify.com/track/0vp4FqDh9Mk2NHmubHgCse) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Kovai Sarala](https://open.spotify.com/artist/4c2TlR2BorgIt1pTRH4nK3) | [Sathi Leelavathi](https://open.spotify.com/album/2IO7xMMIU7aHYAjMveF55b) | 6:09 | 2021-11-01 | 2022-07-12 |
 | [Marugo Marugo](https://open.spotify.com/track/0FKygkSx3T2W0MG3RZEueV) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Vettri Vizhaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4B9wkh8i4A5AfLFIjsXhcP) | 5:47 | 2021-11-01 | 2023-05-09 |
 | [Masthana](https://open.spotify.com/track/1hO88I2hMkuTTxL8wHXap5) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Raasaiyya](https://open.spotify.com/album/3HGKIXgVcddeXayKY2nJsm) | 5:54 | 2021-11-01 | 2022-07-29 |
+| [Masthana](https://open.spotify.com/track/7bs2jK15DlZsuyH9BXORur) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Raasaiyya](https://open.spotify.com/album/0J95ZpiUCgaSz8ALgfVLEm) | 5:54 | 2021-11-01 |  |
 | [Masthana Masthana](https://open.spotify.com/track/2H2XQ9hSeK9SIR7c36ODfw) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Raasaiyya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lOi6QGFgf6XWUL2QJxZON) | 5:55 | 2021-11-01 | 2023-10-24 |
 | [Masthana Masthana](https://open.spotify.com/track/6ASVX4UhxDCxYfmKpIDfYM) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Raasaiyya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TtpTZxgCpWIOFTUNePPys) | 5:55 | 2021-11-01 | 2023-04-10 |
 | [Mayil Pola](https://open.spotify.com/track/2bZ184aj9umMiWp7Jl9sGS) | [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Bharathi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5EDU9G0BF2Q2E6zvjfTDIT) | 4:32 | 2021-11-01 |  |
@@ -284,7 +285,7 @@
 | [Ninaivo Oru](https://open.spotify.com/track/7hSMVmqfHJag9UDfitFS7u) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu), [Kamalahasan](https://open.spotify.com/artist/22l7PsuJ6iTLHrAChZaiNv) | [Ilaiyaraaja \- The Passion Of The Early Years](https://open.spotify.com/album/10II6Hon1OHByucBwadOVX) | 4:46 | 2021-11-01 | 2022-11-27 |
 | [Ninnukori Varanam](https://open.spotify.com/track/6qGIumgcINzxPT2Rm7T0Ai) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Agni Natchathiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1dIHkmJaWC5MBXzpHqZ9b3) | 4:36 | 2021-11-01 |  |
 | [Nirpathuve Nadapadhu](https://open.spotify.com/track/5sLpVfFw2eUSbfC5D8iLVa) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Bharathi](https://open.spotify.com/album/2BEmX7YJnmjvBafJBBEopa) | 4:38 | 2021-11-01 | 2022-07-29 |
-| [Nirpathuve Nadapadhu](https://open.spotify.com/track/60KEo5bGi7zORtHGttMgBb) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Bharathi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5EDU9G0BF2Q2E6zvjfTDIT) | 4:38 | 2021-11-01 |  |
+| [Nirpathuve Nadapadhu](https://open.spotify.com/track/60KEo5bGi7zORtHGttMgBb) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Bharathi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5EDU9G0BF2Q2E6zvjfTDIT) | 4:38 | 2021-11-01 | 2023-10-29 |
 | [Nooru Varusham \- Male Version](https://open.spotify.com/track/2fat5tConMGgJNI6AOn2RJ) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Panakkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Td4SX8bkZeh9EI3o4KtnB) | 4:27 | 2021-11-01 | 2023-10-07 |
 | [O Baby](https://open.spotify.com/track/0AiI2aP2IJlCeuEMSOcy59) | [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4), [Palani Bharathi](https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb) | [Kadalukku Mariyadai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz) | 4:55 | 2021-11-01 |  |
 | [O Butterfly\-Duet](https://open.spotify.com/track/1qIFHqjsLlvnUp4Cnp9zLs) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Meera](https://open.spotify.com/album/774Y0jt3UtUYObb42MgmAi) | 5:45 | 2021-11-01 | 2022-07-12 |

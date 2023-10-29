@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Alec Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,518 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,580 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 73 | [Bedroom](https://open.spotify.com/track/7fnICPO0s3jcQ049Yk0EmV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Now That I've Been Honest](https://open.spotify.com/album/1XVQCnrnScVpeirmTCOZHz) | 2:53 |
 | 74 | [You're Not A God](https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [You're Not A God](https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys) | 3:03 |
 | 75 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 |
-| 76 | [Spooked](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [Spooked](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 |
+| 76 | [SPOOKED](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [SPOOKED](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 |
 | 77 | [is anybody happy?](https://open.spotify.com/track/4tHFhzMYpae83sSrvKsXLa) | [Emily Vaughn](https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2) | [is anybody happy?](https://open.spotify.com/album/3x7aH39eqAPDCVpekXgs6u) | 2:20 |
 | 78 | [smiling at ur text](https://open.spotify.com/track/7Mj6qq9CBGgRDz1iSV5ZB4) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [smiling at ur text](https://open.spotify.com/album/63BjpPxGAJzjAEmDvhtI37) | 3:09 |
 | 79 | [Go Find Less](https://open.spotify.com/track/074jyD9kTxwqgFup6FW1xb) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Cause of Death](https://open.spotify.com/album/437fCdXryQsgL0eZJXXYLH) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Silver Lining](https://open.spotify.com/track/3aT88But3JPrDE5y7r7YQA) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Silver Lining](https://open.spotify.com/album/6kRzZnRbdKcnjozCn9S0B9) | 2:42 |
 | 100 | [How You Leave A Man](https://open.spotify.com/track/4ySjA0oHoiVQRuHdkm2wsy) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [How You Leave A Man](https://open.spotify.com/album/30AHFEzmxi6iKzhb6PTv29) | 3:34 |
 
-Snapshot ID: `MCw5MzIyNjQ5N2MwNjk0MjU2YjhiYjI3YjhiZTA3YjY3NzNmOGJjODg2`
+Snapshot ID: `MCw0OTQ3YWU0YzI2OGJlMzY5NTMxNmRmYmMxZGU4NDFlZmNlYzE2ZGY4`

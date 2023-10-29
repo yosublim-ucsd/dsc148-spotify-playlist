@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Articolo 31, Artie 5ive, Villabanks, Néza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,765 likes - 99 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,789 likes - 99 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 15 | [Too late](https://open.spotify.com/track/2UKH7wJBVt2tF5JINtOPmZ) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Too late](https://open.spotify.com/album/2wI2mYdlA9BmjRWATm1fjD) | 3:15 |
 | 16 | [Popstar](https://open.spotify.com/track/6W2XW4cznC1kKUwXnBvlEg) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [ZOLFO](https://open.spotify.com/album/4wF9H0jNAHAFEoGKxuMGjx) | 1:47 |
 | 17 | [CAPO MOVES](https://open.spotify.com/track/0liE5Cvv22tXUNGmtV9Arp) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [CAPO MOVES](https://open.spotify.com/album/0pkxqmGIy5z6Q0h6eu60h5) | 2:16 |
-| 18 | [Talento 1](https://open.spotify.com/track/5TAQklwUEGBAAiTFhCyxM0) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Damo](https://open.spotify.com/artist/5LAlkPIJfTgQ7w65HPMll2) | [Talento 1](https://open.spotify.com/album/0HXIPwmEkOiEbt9L55XhWp) | 3:03 |
+| 18 | [Talento 1](https://open.spotify.com/track/5TAQklwUEGBAAiTFhCyxM0) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Damo](https://open.spotify.com/artist/5LAlkPIJfTgQ7w65HPMll2) | [Talento 1](https://open.spotify.com/album/0HXIPwmEkOiEbt9L55XhWp) | 2:43 |
 | 19 | [SLS \(ft\. Guè, Bello Figo\) \- Red Bull Posse](https://open.spotify.com/track/0MblKd4Gk1ppUG5EOLnbUl) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [VILLABANKS](https://open.spotify.com/album/1v4ennAZieVxb71tEgpjnZ) | 2:26 |
 | 20 | [CLAP CLAP \(feat\. Artie 5ive, Niky Savage\)](https://open.spotify.com/track/4qFrGuly7KCl3WMmGuECFC) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 2:13 |
 | 21 | [Guai](https://open.spotify.com/track/4zazC5BB1hOHRXvnbW8CNF) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Umile \(Deluxe\)](https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t) | 2:54 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 31 | [SINCOPE](https://open.spotify.com/track/5YIk4HlL82EsIRikAi0PEQ) | [HEVA](https://open.spotify.com/artist/1L4n1oqjzmZqXVWD9V4V4z) | [SINCOPE](https://open.spotify.com/album/79A3XxAwXF43u4ms2T3rIV) | 2:44 |
 | 32 | [FAT](https://open.spotify.com/track/4TLOGF37OKLeNkvCeFaohW) | [Lokita](https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp) | [FAT](https://open.spotify.com/album/6AEugZyw2iAaoVGEgNdbdI) | 3:00 |
 | 33 | [Libertad \(feat\. Morad\)](https://open.spotify.com/track/72pkk2rd9ncTTS6Czd32Yy) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:52 |
-| 34 | [KSUBIS \(feat\. Fimi Guerrero\)](https://open.spotify.com/track/0haDkxc7ew96dEMNLEXxlA) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Fimi Guerrero](https://open.spotify.com/artist/2kKeB86CBMbc1bu1tEfewT) | [EVOL +](https://open.spotify.com/album/5SehBNdNQ6fiP2vW8pqiwN) | 1:36 |
+| 34 | [KSUBIS \(feat\. Fimiguerrero\)](https://open.spotify.com/track/0haDkxc7ew96dEMNLEXxlA) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [EVOL +](https://open.spotify.com/album/5SehBNdNQ6fiP2vW8pqiwN) | 1:36 |
 | 35 | [Fine](https://open.spotify.com/track/76sinETeaEjtUNckLTmVqe) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4) | [Il Cuore e la Fame \(DIECI \- Ten Year Anniversary\)](https://open.spotify.com/album/5QWXBOg8iy3EWaDdRcCuuf) | 3:15 |
 | 36 | [Merdaparlando 2](https://open.spotify.com/track/3Qi32QyMXpUpaRRq84ljO5) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Merdaparlando 2](https://open.spotify.com/album/6cfIC3yvjQz2BjdUGwsFXk) | 2:06 |
 | 37 | [Ombre Elettriche](https://open.spotify.com/track/5WNISXXKc1tjbwKTxX8uUe) | [Ticky B](https://open.spotify.com/artist/46hvAixyF8ZVEssLifxnHd), [Joe Viegas](https://open.spotify.com/artist/0Yrfr8QlFUtMfIEM94VLPJ) | [Ombre Elettriche](https://open.spotify.com/album/24tQVwMaLO5gv3pQhV6Kwr) | 3:02 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 98 | [Naples](https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Naples](https://open.spotify.com/album/2bpDU3tbbS3kvj17Ds34wC) | 3:16 |
 | 99 | [RIGHT NOW](https://open.spotify.com/track/297PW1HJOcvwUJ1MivA7IL) | [SixOneSix](https://open.spotify.com/artist/5QK6u3vdOJBt4hJjJoYCLd), [Young AM](https://open.spotify.com/artist/2upvuqOIxuRf1vq9KsojFJ) | [RIGHT NOW](https://open.spotify.com/album/6QFSqhW28t4XaQZ0KZ6zOp) | 2:19 |
 
-Snapshot ID: `MCwwZWFiODAwYWQyYjk3NjZiODVlZjc5MjQzNDA3YWVlNzAyNWFhOGNk`
+Snapshot ID: `MCxiN2UyZTYzY2U2Y2MyMDc4MzE0YTAzYTI5OGY5Mzc2NjMxNjg1Mzc1`

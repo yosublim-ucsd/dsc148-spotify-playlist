@@ -422,10 +422,36 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 311211,
       "name": "Booyah",
       "url": "https://open.spotify.com/track/30BBwDTjwHQf1ixFGaE2o2"
+    },
+    {
+      "album": {
+        "name": "Booyah",
+        "url": "https://open.spotify.com/album/5ci6vrfvJcqiaMGtgatm4o"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "We Are Loud",
+          "url": "https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX"
+        },
+        {
+          "name": "Sonny Wilson",
+          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311211,
+      "name": "Booyah",
+      "url": "https://open.spotify.com/track/55SPQmrp0XawJSbBtPelaA"
     },
     {
       "album": {

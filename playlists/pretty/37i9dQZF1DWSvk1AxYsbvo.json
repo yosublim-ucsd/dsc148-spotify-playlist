@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 11224,
+  "num_followers": 11256,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjA2NzljM2NmNmIzNWI3NDQ1NmNlZmUyODViNTU5Zjc5OWE1MWQ3",
+  "snapshot_id": "MCw3MjJjMTQ3ZTgzMjM2ODI4NTMyMDI5ZDJlNTk1NDBmNmIzZDE4NmRm",
   "tracks": [
     {
       "added_at": "2023-10-16 07:47:53",
@@ -143,8 +143,8 @@
     {
       "added_at": "2023-10-16 07:47:53",
       "album": {
-        "name": "Someone's playlist #7",
-        "url": "https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em"
+        "name": "Winded",
+        "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
         }
       ],
-      "duration_ms": 155133,
-      "name": "You are My Night",
-      "url": "https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ"
+      "duration_ms": 183000,
+      "name": "Winded",
+      "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
     },
     {
       "added_at": "2023-10-16 07:47:53",
@@ -227,8 +227,8 @@
     {
       "added_at": "2023-10-16 07:47:53",
       "album": {
-        "name": "Winded",
-        "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
+        "name": "Someone's playlist #7",
+        "url": "https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Winded",
-      "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
+      "duration_ms": 155133,
+      "name": "You are My Night",
+      "url": "https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ"
     },
     {
       "added_at": "2023-10-16 07:47:53",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-16 07:47:53",
       "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
-        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
-      },
-      "artists": [
-        {
-          "name": "Who R U?",
-          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
-      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
-    },
-    {
-      "added_at": "2023-10-16 07:47:53",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 245870,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
+    },
+    {
+      "added_at": "2023-10-16 07:47:53",
+      "album": {
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
+        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
+      },
+      "artists": [
+        {
+          "name": "Who R U?",
+          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
+      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
     },
     {
       "added_at": "2023-10-16 07:47:53",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-16 07:47:53",
       "album": {
-        "name": "Lonely night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Lost Stars",
-      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
-    },
-    {
-      "added_at": "2023-10-16 07:47:53",
-      "album": {
         "name": "Don't Know",
         "url": "https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 193039,
       "name": "To You",
       "url": "https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m"
+    },
+    {
+      "added_at": "2023-10-16 07:47:53",
+      "album": {
+        "name": "Lonely night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Lost Stars",
+      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

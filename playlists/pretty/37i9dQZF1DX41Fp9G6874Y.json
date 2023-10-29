@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s fresas de la era del rocanrol para bailar \"de cachetito\".",
-  "num_followers": 112150,
+  "num_followers": 112180,
   "original_name": "Romance Rocanrol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmJkYjM4YTc1OTdmYzEwOTgxMDY1OGYxNDYzMzE2MGFiNjIzNTFk",
+  "snapshot_id": "MCxkYTc0N2JiMTZjNThjMGRmOTc0YTdiNmM1ODhjNzc5OTlmODY5NTll",
   "tracks": [
     {
       "added_at": "2018-12-05 03:36:52",
@@ -635,22 +635,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Sonidos del Ayer",
-        "url": "https://open.spotify.com/album/19Szoai9lxpAXnT8V3L7Kp"
-      },
-      "artists": [
-        {
-          "name": "Johnny Dynamo",
-          "url": "https://open.spotify.com/artist/3zqSxs9gF0Hr0wzwXGswlg"
-        }
-      ],
-      "duration_ms": 151946,
-      "name": "Colina Azul",
-      "url": "https://open.spotify.com/track/5MA2Oc7KhWjIe5bGKWX8Up"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 179066,
       "name": "A D\u00f3nde Va Nuestro Amor?",
       "url": "https://open.spotify.com/track/4PaLGURH5C9OfHn3ehPWt5"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Sonidos del Ayer",
+        "url": "https://open.spotify.com/album/19Szoai9lxpAXnT8V3L7Kp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Dynamo",
+          "url": "https://open.spotify.com/artist/3zqSxs9gF0Hr0wzwXGswlg"
+        }
+      ],
+      "duration_ms": 151946,
+      "name": "Colina Azul",
+      "url": "https://open.spotify.com/track/5MA2Oc7KhWjIe5bGKWX8Up"
     },
     {
       "added_at": "2022-03-30 15:46:23",

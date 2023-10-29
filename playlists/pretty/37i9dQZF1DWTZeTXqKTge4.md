@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Lary Kidd
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,830 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,834 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 18 | [Panamera](https://open.spotify.com/track/1w3nU10eoDD3ASiUC7m47f) | [Nikki\-B](https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0) | [Panamera](https://open.spotify.com/album/34jUHU7NDgnnklEkN0Y0HX) | 3:25 |
 | 19 | [PARANO](https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 4:44 |
 | 20 | [Chiengrat](https://open.spotify.com/track/0RdIxxFuZelZ9Vo2sAWZZ7) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw) | [Chiengrat](https://open.spotify.com/album/2I9sU2RLN2PnUU70Y4aByt) | 2:46 |
-| 21 | [BAD JAZZ](https://open.spotify.com/track/7ittTYPZNiwNpoAOTHgbcr) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk), [Tori](https://open.spotify.com/artist/3GnqIZzxJ0seRHycNu1kfH) | [BAD JAZZ](https://open.spotify.com/album/5ZN9KLtdqUQ4GwAEcIUSPa) | 1:50 |
+| 21 | [BAD JAZZ](https://open.spotify.com/track/7ittTYPZNiwNpoAOTHgbcr) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk), [Tori](https://open.spotify.com/artist/2ZjoJeE2uUyXvcW52ym783) | [BAD JAZZ](https://open.spotify.com/album/5ZN9KLtdqUQ4GwAEcIUSPa) | 1:50 |
 | 22 | [Chien Mangé Chien](https://open.spotify.com/track/2i0fBPihCnAu4c48PFdgvv) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Chien Mangé Chien](https://open.spotify.com/album/0EfEB9jjLhdhyVYHjPRdCG) | 3:23 |
 | 23 | [J'Fonce](https://open.spotify.com/track/2HondNQ2pnnAYxRrWUDezm) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [J'Fonce](https://open.spotify.com/album/5F3UHcdI6u3T3C3l7ujJOM) | 3:09 |
 | 24 | [Tikisson Woke](https://open.spotify.com/track/1jle97DJnKMS38gA3v0tC7) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [LAIT PATERNEL](https://open.spotify.com/album/3Lpk09crIfWNa05skISIUF) | 4:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Drinking](https://open.spotify.com/track/4Sif8gDOINGLQ6gDP8yZjP) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Tiamat, Mon Amour](https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq) | 4:08 |
 | 75 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 |
 
-Snapshot ID: `MCw1NDcxMzFlOTAzMmZhNGNjZjJjOGZjY2RkODk4YTc1MGU5ZGQ2MDVm`
+Snapshot ID: `MCw4NjZlYjQ4YTU1YjllMTg1NzYxN2QzZmI1MDVjMzNkNjQ5MmI5ZWI1`

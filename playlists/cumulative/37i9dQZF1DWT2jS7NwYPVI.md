@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: EKKSTACY
 
-1,928 songs - 4 day 5 hr 35 min
+1,929 songs - 4 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -823,6 +823,7 @@
 | [I Know Nothing At All](https://open.spotify.com/track/00lb13Y2ROaiMi3u5NPRFQ) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OTHERBODY](https://open.spotify.com/album/1FrxEEIn0BIIffAaf2Njfs) | 2:33 | 2023-05-01 | 2023-06-03 |
 | [I Love This Part](https://open.spotify.com/track/4wy91vbmH7EGY0q8qrUjTX) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [I Love This Part](https://open.spotify.com/album/4dwxRRxH7No8fqNlMG3qMF) | 3:02 | 2022-03-25 | 2022-05-28 |
 | [I Might Fall In Love](https://open.spotify.com/track/0nvdQLgHJWmwOSxBKAXJK4) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [I Might Fall In Love](https://open.spotify.com/album/6AlbPtyeZf1N1DXg3gcCow) | 3:32 | 2022-06-24 | 2022-07-30 |
+| [I Need A New Boyfriend](https://open.spotify.com/track/0k049ULBt2JMXXNDXmG6Mx) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [I Need A New Boyfriend](https://open.spotify.com/album/2k9By7vYbPRPnvekHY4VdB) | 2:32 | 2023-10-28 |  |
 | [I Need Ya](https://open.spotify.com/track/5BYoZQEbn9MO3RrMUSV4DD) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [I Need Ya](https://open.spotify.com/album/3DIpkDJyTlnQWH9ToRjjtm) | 3:05 | 2023-01-06 | 2023-02-04 |
 | [I Never Say No](https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [I Never Say No](https://open.spotify.com/album/3CMlcfXUxJekmXEYYrneXi) | 3:18 | 2023-02-03 | 2023-03-11 |
 | [i should call my friends](https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [i should call my friends](https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe) | 2:39 | 2023-10-13 |  |

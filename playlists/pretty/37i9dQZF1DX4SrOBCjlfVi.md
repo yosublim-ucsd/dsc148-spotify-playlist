@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Kodak Black, NLE Choppa and more\. Cover: 42 Dugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,774 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,922 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 6 | [WE SEE YOU](https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE SEE YOU](https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix) | 2:22 |
 | 7 | [24 hours to live](https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [24 hours to live](https://open.spotify.com/album/73djAmtght7e1sfNLior3P) | 3:28 |
 | 8 | [Without You \(Blxst Interlude\)](https://open.spotify.com/track/4o37I9GMKgu8bTvt4Zd4Ny) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Without You \(Blxst Interlude\)](https://open.spotify.com/album/7tYruPXBGvlRyeY6ShHX1C) | 2:44 |
-| 9 | [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 |
+| 9 | [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 |
 | 10 | [Robbery 6](https://open.spotify.com/track/5O7HgH9F5jMLZWA3sMNsLj) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery 6](https://open.spotify.com/album/7nHTFeY1uy9B24cKkTSZ1X) | 5:02 |
 | 11 | [sins \(let me in\) \- Remix](https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [sins \(let me in\) \[Remix\]](https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA) | 2:44 |
 | 12 | [Lollipop](https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:47 |
 | 13 | [LUKAKU](https://open.spotify.com/track/6SyxWg5jvCZe5brD3dNL1q) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [LUKAKU](https://open.spotify.com/album/7lpuhgbGLM74uXB0Wt1tUg) | 2:16 |
 | 14 | [Ice Cream \(feat\. YN Jay & Riff Raff\)](https://open.spotify.com/track/2aA3Xz6XKAo96jp03h4Zak) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o) | [MegaTron 2](https://open.spotify.com/album/7zezk3hbEWlOooKBLuLJKp) | 3:01 |
 | 15 | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5) | 2:51 |
-| 16 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 |
+| 16 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS) | 2:22 |
 | 17 | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/track/6McVbBFuyOF532MX7Mc1zm) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/album/5OMKyOOGz3VVJKIzLs1XFP) | 2:27 |
 | 18 | [Alpha Bay](https://open.spotify.com/track/2RpFhFj8UsIyd7d5v2EZa9) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [CROPTOBER](https://open.spotify.com/album/19JHhDgdHmp1v4eWBP1TZU) | 2:04 |
 | 19 | [FWM](https://open.spotify.com/track/2DUsa8nrRWIZIOd1aFauOm) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [FWM](https://open.spotify.com/album/6QP5d4qSRlKWp6RH45262G) | 3:11 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Bum Chick](https://open.spotify.com/track/1GYJs4h3xC7kYtPxk1nrWu) | [Terria Jai](https://open.spotify.com/artist/4S8zyeIJF0JZxYSQwkRQ5O) | [Bum Chick](https://open.spotify.com/album/6BkxAlUwMowAj56vfYdeIx) | 2:37 |
 | 49 | [Dunsin Wright](https://open.spotify.com/track/1yEUMs6qm47uQcnTWdc1BK) | [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj) | [Dunsin Wright](https://open.spotify.com/album/1Cnl2eE34Pkxa6WvhwSPbI) | 2:08 |
 
-Snapshot ID: `MCxiZDJlZmRhMThjNmM4OWI1ZDIzYTVmNDcwYzFjMTM3NzQ0OWU3OGFm`
+Snapshot ID: `MCxiNTI3MTg1NjFjNDdiYmU0MzM4ZDg4MDM4YjUwZjBhNDRmMTI5NGZh`

@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno, Big One & Rusherking.",
-  "num_followers": 644046,
+  "num_followers": 644649,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjMyNGY3Zjg5NWY4NDAyYjI4MDJkZTJhNDgxMjEzMDU4ZmUyY2U4",
+  "snapshot_id": "MCxhZjc1YjhiOTlhYjQyZGY0ZjE5ZTljMmZjNTg2ZDNhNTA2ODIzODlj",
   "tracks": [
     {
       "added_at": "2023-10-27 03:00:00",
@@ -887,26 +887,18 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Olvidarte de Mi Jamas Podras",
-        "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
       },
       "artists": [
         {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        },
-        {
-          "name": "Taweno",
-          "url": "https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 193358,
-      "name": "Olvidarte de Mi Jamas Podras",
-      "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
+      "duration_ms": 162253,
+      "name": "Fina",
+      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -947,18 +939,26 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
+        "name": "Olvidarte de Mi Jamas Podras",
+        "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
       },
       "artists": [
         {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        },
+        {
+          "name": "Taweno",
+          "url": "https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         }
       ],
-      "duration_ms": 162253,
-      "name": "Fina",
-      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
+      "duration_ms": 193358,
+      "name": "Olvidarte de Mi Jamas Podras",
+      "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1783,18 +1783,38 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Si Pudiera Tenerte - Camina y Ven",
-        "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
+        "name": "La Bachata (En Vivo)",
+        "url": "https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds"
       },
       "artists": [
         {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
         }
       ],
-      "duration_ms": 348876,
-      "name": "Si Pudiera Tenerte - Camina y Ven",
-      "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
+      "duration_ms": 134058,
+      "name": "La Bachata - En Vivo",
+      "url": "https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Me Duele Tu Nombre (En Vivo)",
+        "url": "https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 192483,
+      "name": "Me Duele Tu Nombre (En Vivo)",
+      "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1815,34 +1835,18 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "La Bachata (En Vivo)",
-        "url": "https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds"
+        "name": "Si Pudiera Tenerte - Camina y Ven",
+        "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
       },
       "artists": [
         {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
         }
       ],
-      "duration_ms": 134058,
-      "name": "La Bachata - En Vivo",
-      "url": "https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 152432,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+      "duration_ms": 348876,
+      "name": "Si Pudiera Tenerte - Camina y Ven",
+      "url": "https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y"
     }
   ],
   "unique_name": "100% Cuarteto",

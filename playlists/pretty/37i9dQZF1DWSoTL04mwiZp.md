@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 
 > Special songs for mothers of all kinds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,885 likes - 65 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,882 likes - 65 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 23 | [Mom](https://open.spotify.com/track/6YiekBeyhTQ7V8xAzuvA6v) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Last Days and Time](https://open.spotify.com/album/0IUdgjh7I8hKKu6ncHZKW7) | 5:49 |
 | 24 | [93 Million Miles](https://open.spotify.com/track/1s8tP3jP4GZcyHDsjvw218) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 3:36 |
 | 25 | [I Called Mama](https://open.spotify.com/track/43iO9eQ1phR0RIeIqDjhq5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Mother's Love: Mother's Day Songs 2020](https://open.spotify.com/album/1Zn6RYjHStTaVDCNAPp2Hh) | 3:31 |
-| 26 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
+| 26 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
 | 27 | [The Best Day \(Taylor’s Version\)](https://open.spotify.com/track/6ON9UuIq49xXY9GPmHIYRp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:05 |
 | 28 | [I'll Be There \(feat\. Phonte\)](https://open.spotify.com/track/3P46ih3fvfw4HFT3JNwsbW) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 3:11 |
 | 29 | [Turn To You \- \(Mother's Day Dedication\)](https://open.spotify.com/track/4xDbvfk975nr05ctWgS8Nq) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Turn To You \(Mother's Day Dedication\)](https://open.spotify.com/album/21z9FNiaJZpICt53krDAby) | 3:39 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 64 | [Secret](https://open.spotify.com/track/4Py8X1NUwQjpwpOzsOqBAW) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [6: Commitment](https://open.spotify.com/album/6oO1IOd0bM6Bzk0Kzpi2v6) | 3:21 |
 | 65 | [Baby I'm Yours](https://open.spotify.com/track/5iUU0Jkby6iXV8I2xC5OcS) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [Am / Fm: The B\-Sides](https://open.spotify.com/album/4IJ12MKAjRgXcAqUv7k3mO) | 2:52 |
 
-Snapshot ID: `MCw4YjhiNGU4NWVkMTI5YmYyZTMwNGU4MDQ1YzQ2ZTZjMjZhMGZjYjI2`
+Snapshot ID: `MCxkZWJlYjhjNzQwMzliYWUwMzU1Njg5YzMwNjQwYWQzYjFkMzNjMzcy`

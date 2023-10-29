@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: <a href="spotify:artist:4fdudhIT1GNNvtvM309dyM">Indiomar,</a> <a href="spotify:artist:0WZOmdnCln6FK6GM9e2tGm">Redimi2,</a> y <a href="spotify:artist:5njxJJEEXE6Kxkr4yiFeJi">Kim Richards</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,513 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,696 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [dIOS](https://open.spotify.com/track/6HcHD2UTjXUKrVT9oynGKj) | [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Mi Religión](https://open.spotify.com/album/3B51aJVMc4N4wUoYzC1JRb) | 3:30 |
+| 1 | [dIOS](https://open.spotify.com/track/6HcHD2UTjXUKrVT9oynGKj) | [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Mi Religión](https://open.spotify.com/album/3B51aJVMc4N4wUoYzC1JRb) | 3:30 |
 | 2 | [Detras De Mi](https://open.spotify.com/track/1h4vdbJlwTksTjcY55KpVf) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Buzón de Voz](https://open.spotify.com/album/5RyQDplYD8TDxYJPP6oVOl) | 3:30 |
 | 3 | [Obra de Tu Amor \- \(Alfarero\)](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 |
 | 4 | [Tan Solo Cree](https://open.spotify.com/track/019riTfHIfZVlgLhYsLtnl) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Mis Favoritas, Éxitos de Jose Luis Reyes](https://open.spotify.com/album/6MDICk3UvUd1UHaaBoiOj4) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Adorarte](https://open.spotify.com/track/4UjiwbR78RsS1ZKASBNKCi) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Adorarte](https://open.spotify.com/album/0ORfXwWPcTgjSOl22fIyCE) | 4:45 |
 | 100 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Joel Figueroa](https://open.spotify.com/artist/3TuURLCO7Vv4QTUtCTkwCl), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
 
-Snapshot ID: `MCw1OGUxMDQyMTYwZjJlNWVlMzBlYjhhZjkxNDFkNmMzOTU0NzVlN2Fl`
+Snapshot ID: `MCw2YzZlMWVhYzIwOGFhZmZkNGI5ODYwZTJkNDMwYjQ3NjZkZjZhNzQy`

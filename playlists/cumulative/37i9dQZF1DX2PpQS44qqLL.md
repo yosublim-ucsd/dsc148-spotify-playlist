@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-429 songs - 1 day 4 hr 26 min
+430 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Siempre en Domingo Medley: Sé Como Duele / Tour / Celos / Será Porque Te Amo / Soldado del Amor / Quien Piensa en Ti](https://open.spotify.com/track/41hgUQ66SI9YTw2BPXOgCP) | [Matute](https://open.spotify.com/artist/6z7mf1FeKhq3GFy73o6PvC) | [En Vivo! \(La Mas Espectacular Experiencia de los 80's\)](https://open.spotify.com/album/0Nkwpkttxjb8y1sOhyhxLe) | 8:46 | 2021-12-21 | 2023-04-26 |
 | [Siénteme Ámame Quiéreme](https://open.spotify.com/track/4FfDzH6v1rJkOX5TXQm5KF) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/2SoxbtdNVYaMS7WpQ2qA70) | 4:19 | 2021-12-21 | 2022-07-28 |
 | [Siénteme, Ámame, Quiéreme](https://open.spotify.com/track/25Jcf7afKWtd5FmnaTVGUt) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 4:23 | 2021-12-21 | 2023-10-27 |
+| [Sola Con Mi Soledad](https://open.spotify.com/track/0GU3ULktdxtWMIPXXc1NNS) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g) | 3:45 | 2021-12-21 |  |
 | [Sola Con Mi Soledad](https://open.spotify.com/track/1ugNOyz3b85IiUSPuvPkMQ) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [30 Grandes Éxitos](https://open.spotify.com/album/3jiuj6UVjiDprGS3LjeAzm) | 3:49 | 2021-12-21 | 2022-07-29 |
 | [Sola Con Mi Soledad](https://open.spotify.com/track/5piVXhB5leKZ3kF5nFSiDZ) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:49 | 2021-12-21 | 2023-10-26 |
 | [Soldado Del Amor](https://open.spotify.com/track/5SNwMExhg8Cb85fRCfZgO1) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Uno Entre Mil](https://open.spotify.com/album/4eXjBKDecDYrCmjar3Ucwf) | 3:44 | 2021-12-21 | 2022-07-29 |
@@ -387,7 +388,7 @@
 | [Tu Dama de Hierro](https://open.spotify.com/track/0PanjuWPniwRZpU2SkMDtF) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:15 | 2021-12-21 | 2023-10-26 |
 | [Tu Dama de Hierro](https://open.spotify.com/track/1yCHhmIDNXzIcyMQRUNTOK) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela, Vol\. 2](https://open.spotify.com/album/4pNjXSgSDPrN2jsJnurJOW) | 3:15 | 2021-12-21 | 2022-07-29 |
 | [Tu Muñeca](https://open.spotify.com/track/1sxwSsqFOhrmc1zl6iJyNn) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [La Más Completa Colección \(CD1\)](https://open.spotify.com/album/04YABmDMSBXSYQuFitSdUJ) | 3:38 | 2021-12-21 | 2022-07-28 |
-| [Tu Muñeca](https://open.spotify.com/track/4jiZpcv4YwVDw46wnMHwsy) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Tu Muñeca](https://open.spotify.com/album/7cfzMngiaoy5cBYzen6rua) | 3:44 | 2021-12-21 |  |
+| [Tu Muñeca](https://open.spotify.com/track/4jiZpcv4YwVDw46wnMHwsy) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Tu Muñeca](https://open.spotify.com/album/7cfzMngiaoy5cBYzen6rua) | 3:44 | 2021-12-21 | 2023-10-29 |
 | [Tímido](https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [20 Millas](https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI) | 3:36 | 2021-12-21 |  |
 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 | 2021-12-21 |  |
 | [Tú hombre, yo niña](https://open.spotify.com/track/1A9uQznp9xUdvm0vGZMqSr) | [Alejandra Avalos](https://open.spotify.com/artist/0ujbYrGeviCZxfrKOzXDzK) | [20 Grandes Exitos](https://open.spotify.com/album/5XdzLQ5VPixvtDnw3iKHSl) | 3:02 | 2021-12-21 | 2022-07-28 |

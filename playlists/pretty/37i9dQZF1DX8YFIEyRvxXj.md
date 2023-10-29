@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,340 likes - 22 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,416 likes - 22 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,6 +29,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 | 19 | [Black Maybe](https://open.spotify.com/track/1sod6MCxrE8QaGsT7AdbeO) | [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Syreeta](https://open.spotify.com/album/6U4UAwqd7pbDloRFSwuWLY) | 4:34 |
 | 20 | [Standing In The Shadows Of Love](https://open.spotify.com/track/2sD2XkPogLt7keXttj7F9o) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:37 |
 | 21 | [Zoom](https://open.spotify.com/track/14Tj6yYXItEhy466a0yeR0) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 6:44 |
-| 22 | [O\-o\-h Child](https://open.spotify.com/track/4huOPF1DlqeSkF3PPcUYcJ) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Best Of The Spinners](https://open.spotify.com/album/1YtoIFW84QtpYVlkOR8xTe) | 3:13 |
+| 22 | [O\-o\-h Child](https://open.spotify.com/track/0VJoFFSeE2s60sjbKrtLfV) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:13 |
 
 Snapshot ID: `MCw2NTM0OTdlN2VlMjQ3ZjExZDg0OGVkOTFlMGJkNmVjNTgzNjc2YzI5`

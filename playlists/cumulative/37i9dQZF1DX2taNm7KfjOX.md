@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Mitski
 
-538 songs - 1 day 9 hr 39 min
+539 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Down by the Water](https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Getaway](https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV) | 2:55 | 2022-04-13 |  |
 | [Drinking Song](https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Fish Eyes EP](https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp) | 3:14 | 2022-02-25 | 2022-04-17 |
 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2021-10-22 | 2023-02-02 |
-| [Dyan](https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 2:38 | 2022-06-24 |  |
+| [Dyan](https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 2:38 | 2022-06-24 | 2023-10-29 |
 | [Dyan](https://open.spotify.com/track/1cCHgtg8lfmjL4nQhqlRb1) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/2MTKjNpZDTNTjn3FRbuAfx) | 2:38 | 2021-10-22 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/6e4E1UzuXQMVChJ6TgIOv5) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy](https://open.spotify.com/album/4zPlrT0LVP56XnNdpNYV7T) | 4:01 | 2022-01-14 | 2022-07-29 |
 | [Easy Way Out](https://open.spotify.com/track/3oOv0oaIqTwJhTNqA1HiGP) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Easy Way Out](https://open.spotify.com/album/3Dt0kC5ZGdlzxWke1esOwu) | 4:37 | 2021-10-22 | 2022-07-18 |
@@ -321,6 +321,7 @@
 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 | 2022-06-24 |  |
 | [Mirrors of Paradise](https://open.spotify.com/track/5u1hFiNBLQDWat8IRXuavN) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 4:11 | 2022-04-13 | 2022-04-21 |
 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 | 2021-10-22 | 2023-10-22 |
+| [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 | 2023-10-13 |  |
 | [Moderation](https://open.spotify.com/track/0ZnVZan6NgkelQmtZBFNFr) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 4:04 | 2022-06-24 | 2023-03-18 |
 | [Moderation](https://open.spotify.com/track/0awSoObGwWsVAI3uTd18FI) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Moderation](https://open.spotify.com/album/4FEWm4iICGDF9rrl0lpfbk) | 4:04 | 2021-11-19 | 2022-07-29 |
 | [Money \(Hymn\)](https://open.spotify.com/track/6zetwLIMcYw2FNb7nxsPMB) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Honeychurch](https://open.spotify.com/album/0c6eomNguQ6ymqB6ZFowUu) | 4:19 | 2021-10-22 | 2022-07-29 |

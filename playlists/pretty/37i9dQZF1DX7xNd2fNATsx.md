@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,852 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,016 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 8 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 3:54 |
 | 9 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 |
 | 10 | [Time To Dance](https://open.spotify.com/track/3cOPHE0rv7550yTHIb344Z) | [The Shoes](https://open.spotify.com/artist/6buUuVTdxxAe5ODJtKZ4hP), [ANTHONIN TERNANT](https://open.spotify.com/artist/7xi4HzU1VhqcrWbDHZcccE) | [Crack My Bones](https://open.spotify.com/album/0AEDGWBnOgIiAUp1zog9Kx) | 3:16 |
-| 11 | [Lost It To Trying](https://open.spotify.com/track/4kP7BPJ1d3WUGhykQBVEjH) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Lanterns](https://open.spotify.com/album/6vIi2q78LUq93PhpO6VY1J) | 4:42 |
+| 11 | [Lost It To Trying](https://open.spotify.com/track/4kP7BPJ1d3WUGhykQBVEjH) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Lily & Madeleine](https://open.spotify.com/artist/1kCC5slv2AdQ6MxcKP2fEQ) | [Lanterns](https://open.spotify.com/album/6vIi2q78LUq93PhpO6VY1J) | 4:42 |
 | 12 | [Always On the Run](https://open.spotify.com/track/1WuqCvOaCVDgbu12AROnCr) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/3BBzKiwVV4TI94yWwL8ICg) | 3:43 |
 | 13 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
 | 14 | [Blind](https://open.spotify.com/track/6EGfgNUSxVINKcmpbyssUE) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/7EMv3oMKUEpNrKFVZd1XYJ) | 6:18 |

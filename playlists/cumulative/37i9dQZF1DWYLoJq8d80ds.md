@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Tekis & Cantores del Monte
 
-157 songs - 8 hr 43 min
+158 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Las Ideas](https://open.spotify.com/track/6Xh9pqCul56QqMylyS2agb) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Las Ideas](https://open.spotify.com/album/6F7O6j8zpyVM0ARSOctBJW) | 3:54 | 2022-05-27 |  |
 | [Las Moras](https://open.spotify.com/track/4aFcSioY14fDCLAxOUrfUf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Con el Alma \(Sesiones 2020\)](https://open.spotify.com/album/3ZFER51zrslR8BjOl5TZzx) | 2:36 | 2021-12-31 | 2022-10-08 |
 | [Lavandera](https://open.spotify.com/track/7dELogj4xgs0lpF7v5WjuO) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Lavandera](https://open.spotify.com/album/3sKyCsmSmikXVchbnC0O97) | 2:50 | 2021-12-31 |  |
-| [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 | 2021-12-31 |  |
+| [Lluvia](https://open.spotify.com/track/5cYth5JAOgE7bYW1dtGlSl) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba Lopez](https://open.spotify.com/artist/3l3XAAFEthDxTpUtA5p3cZ) | [Vivir](https://open.spotify.com/album/1XJoy7s9d3U5C1WyYrMkjN) | 3:32 | 2023-10-20 |  |
+| [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 | 2021-12-31 | 2023-10-29 |
 | [Lo Intentamos](https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:01 | 2022-02-25 | 2022-10-08 |
 | [Lo Jujeño](https://open.spotify.com/track/74WFDFXIP58qhGYkklkH20) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Lo Jujeño](https://open.spotify.com/album/5ruxuaQ8tKTXlNMqSZu3hX) | 2:14 | 2023-01-27 | 2023-09-02 |
 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 | 2023-08-18 | 2023-10-21 |

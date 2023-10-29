@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmI3ZTU4MTM4ODZiZDY5OWQxZjAwYjc4ZGUzOGY2ZDkyZjNlZjI3",
+  "snapshot_id": "MCxjODVmMjc0MmQyY2Y0MjU1ZmYyMWY5YjkyNGFiNWU0M2I1MGZiNWQx",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi"
-      },
-      "artists": [
-        {
-          "name": "Duo Tiempo de Sol",
-          "url": "https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA"
-        }
-      ],
-      "duration_ms": 154395,
-      "name": "Baile del marinero",
-      "url": "https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Ralph's World",
         "url": "https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 169440,
       "name": "Drivin' in My Car",
       "url": "https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi"
+      },
+      "artists": [
+        {
+          "name": "Duo Tiempo de Sol",
+          "url": "https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA"
+        }
+      ],
+      "duration_ms": 154395,
+      "name": "Baile del marinero",
+      "url": "https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Songs to Brush Your Teeth To",
+        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
+      },
+      "artists": [
+        {
+          "name": "Chompers",
+          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
+        }
+      ],
+      "duration_ms": 109388,
+      "name": "Cover Your Sneeze",
+      "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 171800,
       "name": "Kids Just Love to Brush",
       "url": "https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Songs to Brush Your Teeth To",
-        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
-      },
-      "artists": [
-        {
-          "name": "Chompers",
-          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
-        }
-      ],
-      "duration_ms": 109388,
-      "name": "Cover Your Sneeze",
-      "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Las 4 Estaciones, vol. 11",
+        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 58644,
+      "name": "Sonidos al Comer",
+      "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Sesame Street: Getting Ready for School",
         "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 93812,
       "name": "Snack Time (Juice and Cookies)",
       "url": "https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Las 4 Estaciones, vol. 11",
-        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 58644,
-      "name": "Sonidos al Comer",
-      "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -835,22 +835,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Sesame Street: Getting Ready for School",
-        "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
+        "name": "Musi",
+        "url": "https://open.spotify.com/album/3hQg3lG0o4lk7cs931Lfby"
       },
       "artists": [
         {
-          "name": "Big Bird",
-          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
-        },
-        {
-          "name": "Sesame Street's Gordon",
-          "url": "https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe"
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
         }
       ],
-      "duration_ms": 103147,
-      "name": "Exercise Time",
-      "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
+      "duration_ms": 64208,
+      "name": "Del plato a la boca",
+      "url": "https://open.spotify.com/track/6azaeRET8nonPwKhlOjS8D"
     }
   ],
   "unique_name": "Daily Rutina",

@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-248 songs - 15 hr 20 min
+249 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Colors](https://open.spotify.com/track/7opwYU8nShC7yZ6Ct4O5LD) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6), [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7) | 4:29 | 2023-01-11 | 2023-07-16 |
 | [Come On Up To The House \(feat\. X Ambassadors\) \- Spotify Singles](https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 4:17 | 2023-01-11 |  |
 | [Complicated \- Spotify Singles](https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Spotify Singles](https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio) | 3:58 | 2023-01-11 |  |
-| [Consideration \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Spotify Singles](https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq) | 2:22 | 2021-10-27 |  |
+| [Consideration \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Spotify Singles](https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq) | 2:22 | 2021-10-27 | 2023-10-29 |
 | [Convincing \- Spotify Singles](https://open.spotify.com/track/0R7lOFuxYUlXUd76mrGMHt) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:58 | 2023-01-11 |  |
 | [Cornflake Girl \- Recorded At RAK Studios, London](https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 4:41 | 2021-10-27 |  |
 | [Cute \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/0FwYn79fyv1lKn8bfPQWuw) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/5rFq8b1sAIjmCCdS4rjFYt) | 3:40 | 2022-03-30 | 2023-10-02 |
@@ -219,6 +219,7 @@
 | [The Morning Stars \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3KPge13Ep6kwZyuoxgGy2I) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/3s5TN4ugglJpRCRMzWsoci) | 3:41 | 2022-10-26 | 2023-01-12 |
 | [The Morning Stars \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5406irqE4nbhyF32Hgbtid) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/43KwOELEOKAFhnBSruUM3N) | 3:41 | 2022-03-30 | 2022-10-13 |
 | [The Morning Stars \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/05UZtI1UvFXl2QyKUlHFOt) | [Hamilton Leithauser + Rostam](https://open.spotify.com/artist/3h0w83PsjASrm5999trG4n) | [Spotify Singles](https://open.spotify.com/album/0XyEzOV3gsUwkCjuFdxD47) | 3:41 | 2021-10-27 | 2022-07-28 |
+| [The View from Halfway Down \- Spotify Singles](https://open.spotify.com/track/1fXMYWziD0nr4YbfT9bM7s) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP), [Henry D'Arthenay](https://open.spotify.com/artist/25Dx0mB7FWXFxNjsYVfcCL) | [The View from Halfway Down \- Spotify Singles](https://open.spotify.com/album/3QkNtvuYPRwaDFyoRZpc4Z) | 3:50 | 2023-01-11 |  |
 | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP), [Henry D'Arthenay](https://open.spotify.com/artist/25Dx0mB7FWXFxNjsYVfcCL) | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj) | 3:50 | 2023-01-11 | 2023-10-19 |
 | [The walker – Recorded at RAK Studios, London](https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Spotify Singles](https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR) | 4:08 | 2021-10-27 |  |
 | [This Life \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 5:11 | 2021-10-27 |  |

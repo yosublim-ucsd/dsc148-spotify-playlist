@@ -4,7 +4,7 @@
 
 > Alcione e mais mulheres icônicas para serem ouvidas no volume máximo! Foto: Alcione
 
-857 songs - 1 day 20 hr 2 min
+858 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [A de Casa Ou a da Rua \- Ao Vivo](https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 2:49 | 2022-08-03 | 2022-09-02 |
 | [A Dona Aranha](https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:04 | 2023-09-06 | 2023-10-05 |
 | [A Gente Só Dá Certo Junto](https://open.spotify.com/track/6duw8aroCMTnpFzFFJ1faN) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias](https://open.spotify.com/album/7l7O18Vj86XDa46RroXjpJ) | 2:00 | 2023-04-05 | 2023-05-04 |
+| [A Loba/Ou Ela ou Eu \- Ao Vivo](https://open.spotify.com/track/6DAgaO2rB2MhQPIqzvX6Fy) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione 50 Anos \(Ao Vivo\)](https://open.spotify.com/album/7LtGiAYQumSoHdN6Zw7zhH) | 3:45 | 2023-10-27 |  |
 | [A Partir de Hoje](https://open.spotify.com/track/1pGHO6eeB4QnWEp3xCSg9n) | [MEL](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L) | [A Partir de Hoje](https://open.spotify.com/album/0qEQzBUKaNgrTGJgB8KxBY) | 2:46 | 2022-02-03 | 2022-03-09 |
 | [A Preta é Braba](https://open.spotify.com/track/0vVB8pPr1OIHailckAAqFo) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [A Preta é Braba](https://open.spotify.com/album/6Roitz5RcHXsRTEOTUYZa7) | 2:34 | 2022-04-06 | 2022-12-01 |
 | [A Trança](https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [A Trança](https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb) | 2:27 | 2023-08-02 | 2023-09-07 |
@@ -424,7 +425,7 @@
 | [Liga pro Samu](https://open.spotify.com/track/6rmmUAr6RY43JjvFYRUuWK) | [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Liga pro Samu](https://open.spotify.com/album/2hUNPuvV5NTPUymQihNGhm) | 2:20 | 2022-10-05 | 2022-12-01 |
 | [Lili](https://open.spotify.com/track/38zhkcKqpewDo3MrMF2G0E) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 4:19 | 2022-02-03 | 2022-03-09 |
 | [Linda Duas Vezes](https://open.spotify.com/track/09gAJP4C7rCyQyT2CkftBq) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Linda Duas Vezes](https://open.spotify.com/album/1vpJoWyk35tcsH5uAyUzso) | 2:34 | 2022-10-05 | 2022-12-01 |
-| [Lindo Dom](https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Lindo Dom](https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf) | 3:13 | 2023-10-04 |  |
+| [Lindo Dom](https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Lindo Dom](https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf) | 3:13 | 2023-10-04 | 2023-10-29 |
 | [Lindo Lago do Amor](https://open.spotify.com/track/7hntKQvQEnejp0MZ7WJKJJ) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Quem Sabe Isso Quer Dizer Amor](https://open.spotify.com/album/6Wc2o1xDaL2a1PTL9etznU) | 3:52 | 2022-05-04 | 2022-06-01 |
 | [Lindo Quase](https://open.spotify.com/track/0EKULSY2uXNeSNM0SY4ekI) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias 2](https://open.spotify.com/album/2UcPJkPmEbzIG8OkkaUVKp) | 1:50 | 2023-05-31 | 2023-07-06 |
 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 | 2022-04-06 | 2022-05-05 |

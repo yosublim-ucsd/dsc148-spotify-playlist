@@ -4,7 +4,7 @@
 
 > What's new in Rock this week\. Cover: The Kills
 
-619 songs - 1 day 10 hr 13 min
+620 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Alone In America](https://open.spotify.com/track/6c9u8M19i0ldTvVULlVVYb) | [Hotel Mira](https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw) | [I Am Not Myself](https://open.spotify.com/album/4EkxYHb1fbV5f4qRYbcE8V) | 3:36 | 2023-09-08 | 2023-10-07 |
 | [Alright Alright](https://open.spotify.com/track/7bWD2zWQGcJjwHnJPi17uk) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Alright Alright](https://open.spotify.com/album/10YxBkSYU1H0rMtlLq2c8u) | 4:48 | 2023-09-01 | 2023-10-07 |
 | [Ambulance](https://open.spotify.com/track/5YWjjonpichJ9BPDjzBwBt) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Ambulance](https://open.spotify.com/album/4MzAmsn2lpwi0NkYtXlJdZ) | 3:27 | 2023-02-10 | 2023-03-18 |
-| [Amphetamine Smiles](https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Amphetamine Smiles](https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY) | 3:05 | 2023-09-29 |  |
+| [Amphetamine Smiles](https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Amphetamine Smiles](https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY) | 3:05 | 2023-09-29 | 2023-10-29 |
+| [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 | 2023-10-27 |  |
 | [Angelcover](https://open.spotify.com/track/2OMmR7z317VmvoVAP2dq2i) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Angelcover](https://open.spotify.com/album/0p4PQzcnWzvXRUQZE5CnED) | 3:30 | 2023-02-17 | 2023-04-01 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-08 | 2023-09-30 |
 | [Another Level](https://open.spotify.com/track/3BMZN1R28esRnGmus37h08) | [Hyaenas](https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU) | [Another Level](https://open.spotify.com/album/29aNB5ZkbDjfQ2HrqfMdIF) | 3:34 | 2023-02-10 | 2023-02-18 |
@@ -622,7 +623,7 @@
 | [you're my achilles heel](https://open.spotify.com/track/6Oi0A5YeOlv31atTH7WjnD) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [you're my achilles heel](https://open.spotify.com/album/0ppwKH1tPX3E8hv93Kw2wy) | 2:55 | 2023-08-25 | 2023-09-23 |
 | [You're the Only One](https://open.spotify.com/track/1tPfyRCu4OTUcl46zNvSlR) | [Twin Rains](https://open.spotify.com/artist/3bmwwqdBxhi6rc9oNi05HI) | [You're the Only One](https://open.spotify.com/album/7JcjC77ypxJwysB2Dqpf4v) | 4:47 | 2023-04-28 | 2023-08-12 |
 | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ) | 2:57 | 2023-09-22 | 2023-10-21 |
-| [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:55 | 2023-09-29 |  |
+| [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:52 | 2023-09-29 |  |
 | [Zig](https://open.spotify.com/track/58SM6Pb7Bi9WY7SO83bjQx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 2:28 | 2023-10-27 |  |
 | [‎cherry ‎stems](https://open.spotify.com/track/091S1Iw6vvNagu2QnQSsSG) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎cherry ‎stems](https://open.spotify.com/album/59X6b30MP14N4rAgN2wtWB) | 2:22 | 2023-03-10 | 2023-05-06 |
 | [‎mint ‎condition \(‎good ‎as ‎new\)](https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mint ‎condition](https://open.spotify.com/album/1jboFFMPdvWimrI3ndqofk) | 2:17 | 2023-02-10 | 2023-03-11 |

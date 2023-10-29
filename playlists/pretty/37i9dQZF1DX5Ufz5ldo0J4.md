@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 
 > Lean back, close your eyes, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,645 likes - 178 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,671 likes - 178 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 177 | [Les cieux du printemps](https://open.spotify.com/track/1CQqk6DcfC0Q9Iw3jS8UxH) | [Serouj](https://open.spotify.com/artist/2S4Y2TX5b3gYApFYtIzzU2) | [Les cieux du printemps](https://open.spotify.com/album/77vUJEBj4Muy8BCTDqHpfD) | 2:46 |
 | 178 | [Simplicity](https://open.spotify.com/track/44u00vPcT8iajEhoWC2Mar) | [Lilja valjas](https://open.spotify.com/artist/7hOaXb9KVFEZYjTJFjv5Km) | [Simplicity](https://open.spotify.com/album/6abhGJnqtGHO4YeGiGzp3p) | 2:50 |
 
-Snapshot ID: `MCwyYTFjYWI1ZTNmMzE0ODRhN2JhYjIwYzI5NWFlMjM1NzVmNDM0Mjc0`
+Snapshot ID: `MCw4ZGI0NmU5OTE4ZjI4OWFmNjRlZWI3MzIzZGEzZGMzN2UzZGU2MjE4`

@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 273440,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/3pN6anyR3uOXlZTTiGf3SM"
@@ -1028,6 +1028,24 @@
       "duration_ms": 165750,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
+    },
+    {
+      "album": {
+        "name": "Crosby Street",
+        "url": "https://open.spotify.com/album/5lN5yfRTiTpukhAWyFHxxW"
+      },
+      "artists": [
+        {
+          "name": "Carmen Simmons",
+          "url": "https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146325,
+      "name": "Crosby Street",
+      "url": "https://open.spotify.com/track/22ugSr3HnMXfxTiXsroNQD"
     },
     {
       "album": {
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 224799,
       "name": "Gentle rain",
       "url": "https://open.spotify.com/track/55E7VD2WRuFCr4tBRKWiK6"
@@ -2846,6 +2864,24 @@
       "duration_ms": 184060,
       "name": "In Search of Lost Time",
       "url": "https://open.spotify.com/track/2vU0LYmrVaazWAah8UhPV3"
+    },
+    {
+      "album": {
+        "name": "In That Moment, I Knew",
+        "url": "https://open.spotify.com/album/2yxjOPdaR1r41D3J2V4zXG"
+      },
+      "artists": [
+        {
+          "name": "Wes Ivory",
+          "url": "https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185158,
+      "name": "In That Moment, I Knew",
+      "url": "https://open.spotify.com/track/0JRNniv579lFXcvyYQyfvK"
     },
     {
       "album": {
@@ -5456,7 +5492,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 203439,
       "name": "Sudden Light",
       "url": "https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6"
@@ -6752,7 +6788,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 238233,
       "name": "You Know I Care",
       "url": "https://open.spotify.com/track/00ylsiP1FHq3g3TLIXFUUZ"

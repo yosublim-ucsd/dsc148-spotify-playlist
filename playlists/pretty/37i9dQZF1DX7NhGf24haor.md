@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Coone
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,905 likes - 93 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,026 likes - 93 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 92 | [Feed Your Soul](https://open.spotify.com/track/6pMSQuswOIzpjrUlhxHgYs) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Feed Your Soul](https://open.spotify.com/album/0RR0KChzbW7cHTcTUcVF6W) | 4:01 |
 | 93 | [Wildfire](https://open.spotify.com/track/3H6LR9VTflkGxkyrSM5xLW) | [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Wildfire](https://open.spotify.com/album/1Aep8odjbmyTlCalwMJTUg) | 3:50 |
 
-Snapshot ID: `MCwwZTJhOWMzNTA4NTViYzE0OTZlYzA3YjAyNzI2MTE3ZDk0M2YxYjU0`
+Snapshot ID: `MCwxNDA0MDYyMjQ0NjdjZTk0N2ZhYjkwOGRmMmFkNTM2MGE1NzcxMGZj`

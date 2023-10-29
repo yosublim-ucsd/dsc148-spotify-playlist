@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Cat & Calmell
 
-494 songs - 1 day 2 hr 39 min
+495 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,8 +459,9 @@
 | [Tokyo](https://open.spotify.com/track/7gEzofK3SW8xsccVa5R30v) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Tokyo](https://open.spotify.com/album/4MqS9aaFo8l3Y9CBLUS7Vb) | 3:09 | 2022-05-27 | 2022-12-01 |
 | [Too Easy](https://open.spotify.com/track/4AjaZOpRvW2p6LbmkMBVZ8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [is it me, or is it you?](https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5) | 3:06 | 2022-10-02 | 2023-07-25 |
 | [Total Control](https://open.spotify.com/track/4NLrAa9QTQWkO9fAFzYmRY) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Total Control](https://open.spotify.com/album/4o25Whu3zHr3JnISgbO9BY) | 5:35 | 2022-02-03 | 2022-08-01 |
-| [Two Years](https://open.spotify.com/track/2TgaPR6Tm4a50KqdiQ7eRa) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 3:29 | 2023-09-30 |  |
+| [Two Years](https://open.spotify.com/track/2TgaPR6Tm4a50KqdiQ7eRa) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 3:29 | 2023-09-30 | 2023-10-29 |
 | [Two Years](https://open.spotify.com/track/2Z4KsUvMCgK5lL9OLU0Vbz) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Two Years](https://open.spotify.com/album/7oZXGk0hj8oVfBjFBUWgYF) | 3:29 | 2023-09-19 | 2023-10-17 |
+| [Two Years](https://open.spotify.com/track/4OyLsWw2PAPNgwOVEbMN3H) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Two Years](https://open.spotify.com/album/3LHq0JrI21pO82jXWExWwz) | 3:29 | 2023-09-30 |  |
 | [Tō Aroha](https://open.spotify.com/track/6cppVm5dbOngC7VSHJJy28) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Tō Aroha](https://open.spotify.com/album/0Xcyt3tSHSZ536Hnzb0r3Q) | 2:48 | 2022-09-05 | 2022-12-01 |
 | [U&ME](https://open.spotify.com/track/1iFF00cvNGx7wifX9hK5OR) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [BETTER LEFT UNSAID](https://open.spotify.com/album/3cCLcNCX9Om2ewNHYlFtaL) | 2:57 | 2023-06-30 |  |
 | [U, U and Only U](https://open.spotify.com/track/4rq2z754eYOq3HBDCVcswc) | [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [IT'S PRICIE](https://open.spotify.com/album/3oxB7OZmXl7G0KAehBE9iJ) | 3:14 | 2022-11-30 | 2023-09-20 |

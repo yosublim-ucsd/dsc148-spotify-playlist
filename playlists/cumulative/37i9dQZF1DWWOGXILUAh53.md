@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Bebe Rexha & Nathan Dawe
 
-746 songs - 1 day 12 hr 52 min
+747 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,8 @@
 | [I'll Be There](https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [I'll Be There](https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ) | 2:46 | 2023-10-13 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-26 | 2022-12-24 |
 | [I'm My Only Friend \(feat\. Arden Jones\)](https://open.spotify.com/track/7gOxYYw4HKBa89vAAagh9q) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [I'm My Only Friend](https://open.spotify.com/album/00Z6vze8Xtk9rGTRTBrpXz) | 3:12 | 2023-10-13 |  |
-| [i'm only here for the beat](https://open.spotify.com/track/5gDsgk7rFViTjF5flKMZuI) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [i'm only here for the beat](https://open.spotify.com/album/6yKh818iw8w7buxdyRfDbV) | 2:25 | 2023-08-11 |  |
+| [i'm only here for the beat](https://open.spotify.com/track/2pZuspmg5dtQ8TudPoF1rf) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [i'm only here for the beat](https://open.spotify.com/album/67Nt0aKzoZx8rtu1GOQle1) | 2:25 | 2023-10-06 |  |
+| [i'm only here for the beat](https://open.spotify.com/track/5gDsgk7rFViTjF5flKMZuI) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [i'm only here for the beat](https://open.spotify.com/album/6yKh818iw8w7buxdyRfDbV) | 2:25 | 2023-08-11 | 2023-10-29 |
 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 | 2022-10-28 | 2022-12-24 |
 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/4W7bfpXBXrH79dnWyJMkEX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/2zpbQGsg44a9BahMS8EwIy) | 2:22 | 2023-06-23 | 2023-08-19 |
 | [If You're Serious](https://open.spotify.com/track/6pRI86HJJg7bsCDWn2dt1N) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:44 | 2022-05-17 | 2022-08-06 |

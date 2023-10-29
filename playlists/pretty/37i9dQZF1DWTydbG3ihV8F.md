@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTydbG3ihV8F.md) - [plain]
 
 > <a href="spotify:artist:6bxLLapj6NByiP5cr6jMeK">Matthias Tanzmann'</a>s Deep & Tech House influences have never sounded better than in his latest mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,085 likes - 17 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,088 likes - 17 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTydbG3ihV8F.md) - [plain]
 | 16 | [Dancing Kingdom \- Edit \- Mixed](https://open.spotify.com/track/16jcZZdqnNP6l6W8YiOsRG) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Dancing Kingdom \- Edit \(Mixed\)](https://open.spotify.com/album/333jVhMaE13by4tJMr9HrH) | 3:56 |
 | 17 | [Don't Make Sense \- Mixed](https://open.spotify.com/track/7lOF8LLU2V9T0tM9wjtSHn) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Don't Make Sense \(Mixed\)](https://open.spotify.com/album/31OviQZgwmYtH3nnXAnVlN) | 5:13 |
 
-Snapshot ID: `MCwwM2UxNTIxMmM0MDU2YjI0NmQ3OWQyZGQ0MTMyNTY2ZmRiYzNjOTc1`
+Snapshot ID: `MCxlNjU3MWY0ZGY3OTZhZTI0OTQ4ZDIwNmIxYzQ0ZjgxOTUzYmY5MTRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,159 likes - 903 songs - 2 day 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,185 likes - 903 songs - 2 day 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -520,8 +520,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 510 | [The Greatest Show \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7MhZa55xSOwyRQTsafEEjX) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Spotify Singles](https://open.spotify.com/album/5s0EZrhetG2VJBPKtKtqsq) | 3:57 |
 | 511 | [Wasting Time \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5ff5WH1b1Te2PpVwLX9p96) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo) | 2:25 |
 | 512 | [Say It Ain't So \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo) | 4:03 |
-| 513 | [Kär i din kärlek \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/track/0jy5qTrMlMXXZEx9MLiETy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/album/5oUkd4bOmKOmH6Hkr0FoUq) | 3:23 |
-| 514 | [Ingen som jag \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/track/1zoCwUV885aWuq3APJICUK) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/album/5oUkd4bOmKOmH6Hkr0FoUq) | 2:59 |
+| 513 | [Kär i din kärlek \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5an6BWQDhw4FnjZhdyOFuL) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles](https://open.spotify.com/album/12iQwJ58c5QSY1WuGU2JeK) | 3:24 |
+| 514 | [Ingen som jag \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1B74XlQ7AIxiqZhW6yonuq) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles](https://open.spotify.com/album/12iQwJ58c5QSY1WuGU2JeK) | 3:00 |
 | 515 | [Four Out Of Five \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 4:34 |
 | 516 | [\- \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/68H747D2LgwsPsPlVjFZUR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 2:25 |
 | 517 | [Doesn't Matter \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1yMj0VQyNJSDYCfeoBdGfS) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Spotify Singles](https://open.spotify.com/album/1V3MFMHizPGXUd0ZS5k7ws) | 3:30 |
@@ -912,4 +912,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 902 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 903 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCxmZGM1MTExOTQyYzY4YWUyZWZlOGMxZmEyYTZiNzMyOTg2MWI5MjM5`
+Snapshot ID: `MCwyNWNlMmI5ZGRmZmJiODU4OTQ5YjUxYTI3M2QxNmM4YTcxNjMxMjRi`

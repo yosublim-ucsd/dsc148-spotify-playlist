@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ghost",
-  "num_followers": 55111,
+  "num_followers": 55140,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzU2YzUyODE2YzZkMmYzYmU5MGNjMWYwNjJjZjViOGI4NTcyYmNh",
+  "snapshot_id": "MCw4OTNmZWY1ZTc0MTk0ZjNiZDM5NGFmNTdiYzNlM2QwYzUwZjIyNzQ4",
   "tracks": [
     {
       "added_at": "2023-10-18 05:00:00",
@@ -279,30 +279,22 @@
     {
       "added_at": "2023-10-23 12:58:39",
       "album": {
-        "name": "Restart (From \"12th Fail\")",
-        "url": "https://open.spotify.com/album/6PtAbtKG3UbBhmqfEE0MUC"
+        "name": "Restart (From \"12th Fail\") (Kannada)",
+        "url": "https://open.spotify.com/album/4QdAbl92CzDFtNnE76B5Wl"
       },
       "artists": [
         {
-          "name": "Swanand Kirkire",
-          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
-        },
-        {
-          "name": "Shaan",
-          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
-        },
-        {
-          "name": "Vidhu Vinod Chopra",
-          "url": "https://open.spotify.com/artist/736GTzt9gLXfEX8pbUaTV5"
-        },
-        {
           "name": "Shantanu Moitra",
           "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Shashank Sheshagiri",
+          "url": "https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy"
         }
       ],
-      "duration_ms": 243225,
-      "name": "Restart (From \"12th Fail\")",
-      "url": "https://open.spotify.com/track/4ut2rPwNWsqLdlmVpg6c5s"
+      "duration_ms": 252000,
+      "name": "Restart (From \"12th Fail\") (Kannada)",
+      "url": "https://open.spotify.com/track/7vpRvnjTzSzQV1CFIuDtSj"
     },
     {
       "added_at": "2023-10-17 12:02:20",
@@ -312,8 +304,8 @@
       },
       "artists": [
         {
-          "name": "Pratham Bhat",
-          "url": "https://open.spotify.com/artist/6SNzptXtawfsytlPCNvv76"
+          "name": "Pratham",
+          "url": "https://open.spotify.com/artist/7qsu0SYzX2qKmd9GcUmbOt"
         },
         {
           "name": "Bharath Janardhan",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,925 likes - 104 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,939 likes - 104 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 58 | [Ready](https://open.spotify.com/track/1IZu7I6jA1JCqKv9kEAkPI) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Roadtrip](https://open.spotify.com/album/6Q8F60q11vx66HuBr5TTMu) | 3:46 |
 | 59 | [Roots](https://open.spotify.com/track/2f10y3Q1P9UFJPj7cGCBj8) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [Roots](https://open.spotify.com/album/0ONLtHlkSuxLBquZNwvilc) | 3:09 |
 | 60 | [Just Like Us \(PIT\)](https://open.spotify.com/track/4qYjVNrddq5d9p5LdqzwQk) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [Just Like Us \(PIT\)](https://open.spotify.com/album/4g3iP0eaBwkm6iNQ4Iz32r) | 4:15 |
-| 61 | [frozen in time](https://open.spotify.com/track/1DEaum9DNltFAEzvkzUmQy) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO), [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx) | [frozen in time](https://open.spotify.com/album/6bXW0qAirQQSNJmN5WkiNe) | 3:28 |
+| 61 | [frozen in time](https://open.spotify.com/track/1DEaum9DNltFAEzvkzUmQy) | [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [frozen in time](https://open.spotify.com/album/6bXW0qAirQQSNJmN5WkiNe) | 3:28 |
 | 62 | [MIDORI](https://open.spotify.com/track/5HRo1mxlNXFL3mlATjHvop) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [MIDORI](https://open.spotify.com/album/1V6P2Xzjkdet2ZJVXlBScb) | 2:55 |
 | 63 | [A Red Flag](https://open.spotify.com/track/124gliJgzZ8mEcVRbI7xDN) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 3:50 |
 | 64 | [RUCKUS](https://open.spotify.com/track/6X17eeNgCoYfNPOwHfTsSv) | [GHOST9](https://open.spotify.com/artist/7f953Uuid7Xrd0nXQ3V3s1) | [ARCADE : O](https://open.spotify.com/album/4VZkNVdXYPTHq7h5amsRd1) | 3:23 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 103 | [Ikhlas](https://open.spotify.com/track/4l6kxQ8DF4WGinhZJEX8mo) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [buangan](https://open.spotify.com/album/5YEfYIYoE7V9nHeC9k42oA) | 2:13 |
 | 104 | [The Only Word I Know](https://open.spotify.com/track/4ywjl52RZkFVCAcgXTD4dg) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [The Only Word I Know](https://open.spotify.com/album/1LuGjHM03Id63XXJUOrW4V) | 3:03 |
 
-Snapshot ID: `MCw0ZThmMDU0Y2EyZWQxN2Y0MmU4Y2M0NDA1ZjIyNzg4OWVlMjgwNGY1`
+Snapshot ID: `MCw3NmQwYzA5MWFkYjE3OTg2NWU3NTk4MGVmMGQ2YmJjYzM3NWE3NDll`

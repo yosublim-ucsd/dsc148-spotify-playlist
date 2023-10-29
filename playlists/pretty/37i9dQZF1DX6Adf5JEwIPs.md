@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: El Fantasma
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,870 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,160 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 27 | [Pienso En Ti](https://open.spotify.com/track/57SLLCvs99rvEbTMmpvOkW) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Pienso En Ti](https://open.spotify.com/album/2mGf6FSRmn7M5kbFeq2n9t) | 2:29 |
 | 28 | [Creo En Mi](https://open.spotify.com/track/4qixtnJp1KvPXnD6GFr5dM) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Creo En Mi](https://open.spotify.com/album/0h0E9m7seLpXwtCCLIDS0N) | 2:34 |
 | 29 | [Te Mega Amo](https://open.spotify.com/track/25Y6NulZkjTFFAJ8M4NQ9N) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Te Mega Amo](https://open.spotify.com/album/6uHpOt0bwU9YFbrQov5aL7) | 2:27 |
-| 30 | [En La Madre](https://open.spotify.com/track/42QC64G2yHfWO82Gs18kz3) | [Frecuencia Universal](https://open.spotify.com/artist/08ktbSINtwFfl8BIVNSpj1), [Miguel Martinez](https://open.spotify.com/artist/2vrQlnUNCm8lMjtVfjHnGE) | [En La Madre](https://open.spotify.com/album/1Z7l1wxDUkrgQpkxqkhPQ9) | 2:11 |
+| 30 | [En La Madre](https://open.spotify.com/track/42QC64G2yHfWO82Gs18kz3) | [Frecuencia Universal](https://open.spotify.com/artist/08ktbSINtwFfl8BIVNSpj1), [Miguel Martinez](https://open.spotify.com/artist/2Uh4Ct7WnBkQRiQHD5pYDl) | [En La Madre](https://open.spotify.com/album/1Z7l1wxDUkrgQpkxqkhPQ9) | 2:11 |
 | 31 | [El Mejor](https://open.spotify.com/track/2SFVwGVdpUc0oUD2RgCTKO) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Mejor](https://open.spotify.com/album/64LeTmDvC0KppjhlbwJFDi) | 3:31 |
 | 32 | [Por Tu Amor](https://open.spotify.com/track/5ZOVD6PjQiP30GqJJJauea) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [Por Tu Amor](https://open.spotify.com/album/4ffdArzu9S3Rrtk1EIXVc6) | 3:18 |
 | 33 | [Que Valga Madre](https://open.spotify.com/track/1fuKkmQBUMHrWIs1ZfwfbE) | [Grupo Alfa](https://open.spotify.com/artist/078DGCbkOWtHamc21qE0Sy), [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Que Valga Madre](https://open.spotify.com/album/0MfeRwbhDOjNeYL2YS3cWV) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Polvo Soy](https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Polvo Soy](https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI) | 2:53 |
 | 50 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 |
 
-Snapshot ID: `MCwwYTBiZmE3NDY5YzEyNjMxZTg3NzVlM2VkOGZkMzlmZTM4MzZlMjNi`
+Snapshot ID: `MCw2YmJkYjNmMTVkMWMzNWQ3MjRhYTM3YWNhM2E1NzI5YWFmNzNlY2M1`

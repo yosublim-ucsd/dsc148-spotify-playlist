@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Sofia Kourtesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,480 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,470 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Like Flowers](https://open.spotify.com/track/69jLc0ETDk9tUKo6dmuYA0) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Like Flowers](https://open.spotify.com/album/36RlDmrougdj5WIBzja3rf) | 2:52 |
 | 100 | [How many miles](https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz), [Two star](https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:21 |
 
-Snapshot ID: `MCwxMWJhNDUwN2U4ZGNiNjE3NGZlNjI2M2M2MjdjYjRhMjZlMmRkNjhh`
+Snapshot ID: `MCxhMDkyOGU4OTE4ODhiYzA4ODAwY2RhZjczOThmMzI2ZGI4ZGFiMzU2`

@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Yarea",
-  "num_followers": 24441,
+  "num_followers": 24469,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTU4YTQ1ZDgzYzU4NmY2ZDRiZDIzN2RiMTJiMmZmOTY4YmQ3Y2Q4",
+  "snapshot_id": "MCxmMGMwNWQ0MmFlMjUxM2NjY2JkZjUwNzY4Y2E1OGViMzg3N2RiMGRj",
   "tracks": [
     {
       "added_at": "2023-10-13 09:57:11",
@@ -311,22 +311,26 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Agua al dolor",
-        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
       },
       "artists": [
         {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
         },
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        },
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
         }
       ],
-      "duration_ms": 208372,
-      "name": "Agua al dolor",
-      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
+      "duration_ms": 174222,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -363,26 +367,22 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
+        "name": "Agua al dolor",
+        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
       },
       "artists": [
         {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
         },
         {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        },
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 174222,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
+      "duration_ms": 208372,
+      "name": "Agua al dolor",
+      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
+        "name": "Tregua",
+        "url": "https://open.spotify.com/album/6hnjHa3EeDDRon6u0P4cLx"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Tregua",
+      "url": "https://open.spotify.com/track/4I6knIz13vdFGG0ANWmnJP"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
         "name": "Solo me gustas cuando yo te gusto a ti",
         "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 156800,
       "name": "C\u00e1psula Espacial",
       "url": "https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "Tregua",
-        "url": "https://open.spotify.com/album/6hnjHa3EeDDRon6u0P4cLx"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "Tregua",
-      "url": "https://open.spotify.com/track/4I6knIz13vdFGG0ANWmnJP"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -559,6 +559,26 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
+        "name": "NO ME PASA NADA",
+        "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Nada ha cambiado",
+      "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
         "name": "Pensando mucho y mal",
         "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 127634,
       "name": "favorita",
       "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "Miki N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
-        }
-      ],
-      "duration_ms": 179055,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "NO ME PASA NADA",
-        "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Nada ha cambiado",
-      "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
         "name": "por qu\u00e9 vuelvo a quererte?",
         "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 166666,
       "name": "por qu\u00e9 vuelvo a quererte?",
       "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "Miki N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
+        }
+      ],
+      "duration_ms": 179055,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
     },
     {
       "added_at": "2023-10-13 09:57:11",

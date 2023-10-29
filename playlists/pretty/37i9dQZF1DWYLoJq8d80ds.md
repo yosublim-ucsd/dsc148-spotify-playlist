@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Tekis & Cantores del Monte
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,457 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,485 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 83 | [Calle Soledad](https://open.spotify.com/track/6masuUU9NkkiVIbWTYjRU6) | [Grupo Quorum](https://open.spotify.com/artist/1dKVEJXnyHdXOkaHelPLiE) | [Encuentro](https://open.spotify.com/album/5yOpiLXAck9Zxa0TNCMskB) | 3:18 |
 | 84 | [Tan Tristes](https://open.spotify.com/track/2APdoYXRww4qRJMxCpy6As) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Dos](https://open.spotify.com/album/5IV37ig5dBAwPKGkvbx6iX) | 3:05 |
 | 85 | [Alma](https://open.spotify.com/track/73fh5PP1DDxJLrjzuR0K93) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Alma](https://open.spotify.com/album/3bR7NG06VsznfRW6qvMdwy) | 3:16 |
-| 86 | [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 |
+| 86 | [Lluvia](https://open.spotify.com/track/5cYth5JAOgE7bYW1dtGlSl) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba Lopez](https://open.spotify.com/artist/3l3XAAFEthDxTpUtA5p3cZ) | [Vivir](https://open.spotify.com/album/1XJoy7s9d3U5C1WyYrMkjN) | 3:32 |
 | 87 | [Zamba de los yuyos](https://open.spotify.com/track/7ipuwOjqoLy5hyAEGSMZj5) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN) | [Zamba de los yuyos](https://open.spotify.com/album/6s7uk19jxa0drzsviWj3ih) | 4:16 |
 | 88 | [La Noche Perfecta](https://open.spotify.com/track/4Yccmk9UxVUmRGW2TNqzM7) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [La Noche Perfecta](https://open.spotify.com/album/7ecLf1bONlgQzP3tkPeuP2) | 2:38 |
 | 89 | [La Revancha](https://open.spotify.com/track/32tw6sBHtgnsh36g2voewK) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [La Noche Perfecta](https://open.spotify.com/album/1tDPYZoGKYQPyo6qcm7yWU) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 99 | [Santo Remedio](https://open.spotify.com/track/2HoFKu6ZTMTozR2wksXApW) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26), [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Santo Remedio](https://open.spotify.com/album/4VeHkt4dygRUrozJZHkU4e) | 3:52 |
 | 100 | [Carnavaleando de Sol a Sol](https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Mi Camino](https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD) | 2:56 |
 
-Snapshot ID: `MCxlZTc5MjA3NWViZjk2YTdkOGU1MmZmZTY3YjVhNTIxNmMzYzMzM2Ni`
+Snapshot ID: `MCxhOTBhMjVkYWExZTVlZDA3ZjY4ZjhhNDVjMWUyZGIzNDFhNWZhNmJi`

@@ -1081,20 +1081,24 @@
     },
     {
       "album": {
-        "name": "ALA BEKE 2 (feat. ODUMODUBLVCK)",
+        "name": "ALA BEKE 2 (with ODUMODUBLVCK)",
         "url": "https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG"
       },
       "artists": [
         {
           "name": "EverythingOShauN",
           "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179571,
-      "name": "ALA BEKE 2 (feat. ODUMODUBLVCK)",
+      "name": "ALA BEKE 2 (with ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN"
     },
     {

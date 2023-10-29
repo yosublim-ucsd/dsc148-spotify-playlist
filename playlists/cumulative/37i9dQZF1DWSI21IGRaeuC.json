@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Beats On Fire",
+        "url": "https://open.spotify.com/album/42KeFM94VajibjjWtsPq41"
+      },
+      "artists": [
+        {
+          "name": "Andino",
+          "url": "https://open.spotify.com/artist/7qCEIImZAd3WtoFPijJV3W"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Beats On Fire",
+      "url": "https://open.spotify.com/track/0S3MmSDqzDkbYL5ZPKEcjV"
+    },
+    {
+      "album": {
         "name": "Beeper Blowing Up",
         "url": "https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0"
       },
@@ -1662,7 +1680,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 404000,
       "name": "Kill The Soundboy",
       "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
@@ -4002,7 +4020,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 352500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
@@ -4252,6 +4270,24 @@
       "duration_ms": 368372,
       "name": "We Bring It",
       "url": "https://open.spotify.com/track/4J7cSix3jYkSc6n76TgxEJ"
+    },
+    {
+      "album": {
+        "name": "What We Got",
+        "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "What We Got",
+      "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
     },
     {
       "album": {

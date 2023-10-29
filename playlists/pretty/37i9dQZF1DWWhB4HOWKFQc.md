@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Jaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,910 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,450 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [Mana Bisa](https://open.spotify.com/track/107DmfhQVuWiJ9jktnoG7g) | [Rachel Manroe](https://open.spotify.com/artist/4C5054Vlxnz7iU385I6obf) | [Mana Bisa](https://open.spotify.com/album/0gyPTwhdqFs81j0I4nhNyg) | 4:01 |
 | 75 | [Teman Teman Ku Udah Nikah Aku Masih Nonton Spongebob](https://open.spotify.com/track/0NONHlrayFnoTefgMLmq5D) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Krisis Seperempat Dewasa](https://open.spotify.com/album/3KI6xFkUSU1nXf5eBeniYG) | 2:46 |
 
-Snapshot ID: `MCxiZTc0YmU1NGU4ZjU1NDVlNTU4NjBlNWI1OGExZjY0NmYwZWRjMTY1`
+Snapshot ID: `MCwzMjUzM2ZlYzlhZmEzNjA1Y2QzYzYzZWY0MTkxMGNhYzIxZGIxYzNj`

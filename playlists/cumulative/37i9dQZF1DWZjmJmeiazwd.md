@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-452 songs - 1 day 3 hr 6 min
+453 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [sanjake](https://open.spotify.com/track/61Od02a9dXArdW9bBCKUPp) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [sanjake](https://open.spotify.com/album/5pagUXzTuiWLh52rTojpSj) | 3:02 | 2022-04-22 | 2022-05-21 |
 | [save urself \(runaway\)](https://open.spotify.com/track/28B8PsJlefMFEUBfZjgaf7) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [save urself \(runaway\)](https://open.spotify.com/album/6xn5gsPQ5fGW33P3tNAGJI) | 3:00 | 2023-04-07 | 2023-06-12 |
 | [save urself \(runaway\)](https://open.spotify.com/track/4wOr5PIiM64Q7UCzXmISIX) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [save urself \(runaway\)](https://open.spotify.com/album/6pCIJ9SOQndRMZK403UF7v) | 3:00 | 2023-04-07 | 2023-06-10 |
-| [save urself \(runaway\)](https://open.spotify.com/track/6kp4MJpgNmvCvVP9Xf49ks) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [alternative psycho](https://open.spotify.com/album/1LUMTlxPD1KLpwVx4VDIcE) | 3:00 | 2023-04-07 |  |
+| [save urself \(runaway\)](https://open.spotify.com/track/5CtZQtRHLuHKkzMqsm0Tva) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [alternative psycho \(deluxe\)](https://open.spotify.com/album/1OxbOHfmwNB0oG1UycR5pS) | 3:00 | 2023-04-07 |  |
+| [save urself \(runaway\)](https://open.spotify.com/track/6kp4MJpgNmvCvVP9Xf49ks) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [alternative psycho](https://open.spotify.com/album/1LUMTlxPD1KLpwVx4VDIcE) | 3:00 | 2023-04-07 | 2023-10-29 |
 | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:02 | 2020-06-29 | 2022-02-26 |
 | [Secrets](https://open.spotify.com/track/6XA12laU5GUhas6GcWDLuU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Around the World and Back](https://open.spotify.com/album/6e7qQNNJSaez58YoKRiBCn) | 3:44 | 2020-06-29 | 2022-07-28 |
 | [Sedona](https://open.spotify.com/track/3oQMwKCFTi3wKi9VANfTbE) | [JunkBunny](https://open.spotify.com/artist/2UdPcvUuTpvrq7flh94PaE) | [Junk Rock](https://open.spotify.com/album/1uxlk6rLTGtccpbOyv6h6J) | 3:09 | 2022-04-22 | 2022-05-21 |

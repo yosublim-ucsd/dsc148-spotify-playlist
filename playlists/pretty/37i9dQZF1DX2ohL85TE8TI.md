@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: The Escape of the Seven\(7인의 탈출\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 순정복서\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,533,461 likes - 119 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,533,501 likes - 119 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 118 | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z) | 4:20 |
 | 119 | [Like You Was To Me](https://open.spotify.com/track/4zxZIysVIVn0vEg3MvrJsD) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Perfect Stranger OST Part.3](https://open.spotify.com/album/3f34SH76uyam8pwQ1H5Iri) | 4:31 |
 
-Snapshot ID: `MCw3ODMwZTVmNzExYWVlZjY0YmE5OWJhMzg0YWVjMWJjOWIxMDBhOTk0`
+Snapshot ID: `MCw0NTdjOGM0ZDhhMjZlN2E2MWFhNTM2MzMzNjNhNGQyNzgzMmY5YTVj`

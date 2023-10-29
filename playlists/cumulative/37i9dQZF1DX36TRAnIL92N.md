@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-190 songs - 17 hr 18 min
+191 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Endless](https://open.spotify.com/track/1P7gXbnZAqtAfRmW0R4Ovw) | [GNTN](https://open.spotify.com/artist/6guwuHIjpVnmvaBjzertzu) | [Endless](https://open.spotify.com/album/3c31jZDrixWGeAypQK3tS0) | 6:42 | 2022-07-05 | 2022-07-29 |
 | [Epoche](https://open.spotify.com/track/5Gxh6WPQVqsfESePvpHsDf) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Epoche](https://open.spotify.com/album/2Md53Ho2kXNMATFL8pK3go) | 6:26 | 2022-07-05 | 2022-07-22 |
 | [Essence](https://open.spotify.com/track/5KgOlepu6lod2ORXYfkqKg) | [Uto Karem](https://open.spotify.com/artist/6KBbbE4QVlVQwFNIXrD8hF) | [Essence](https://open.spotify.com/album/1fO195lO8fjRkNBMObdIWa) | 6:44 | 2022-07-05 | 2022-07-26 |
-| [Experience](https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Experience](https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1) | 5:48 | 2023-04-13 |  |
+| [Experience](https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Experience](https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1) | 5:48 | 2023-04-13 | 2023-10-29 |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-06-02 |  |
 | [Ferment](https://open.spotify.com/track/5BsHWam3TG9dTkLPv7Da0L) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [Motherboard](https://open.spotify.com/album/5FjRqSIXI8DgHWn4FJE5cx) | 6:16 | 2022-07-05 | 2022-07-09 |
 | [Flash \- Marco Faraone Remix](https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Zøe](https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Light + Shadow Remixes, Vol\. 1](https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO) | 6:10 | 2022-07-11 | 2022-11-27 |
@@ -135,6 +135,7 @@
 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 | 2022-07-05 |  |
 | [Rave Nation \- Radio](https://open.spotify.com/track/5hhkzvkDqJEPVpDV6tolDf) | [Waztoo](https://open.spotify.com/artist/0MP4QHK5BlSbmwJxOncnfB) | [Rave Nation](https://open.spotify.com/album/32DBhQoPK7eYWA2vqEnwmW) | 5:37 | 2022-07-11 | 2022-07-29 |
 | [Rebirth](https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p) | 6:40 | 2022-07-05 | 2023-10-16 |
+| [Rebirth](https://open.spotify.com/track/4N8P1RCABm0BBiTKCRThTh) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/3hxZY3I3EEj1IriFow919T) | 6:40 | 2023-10-13 |  |
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-04-13 |  |
 | [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 | 2023-03-29 | 2023-05-07 |
 | [Ritual](https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Umbilicis Universalis](https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy) | 7:00 | 2022-07-05 | 2022-07-24 |

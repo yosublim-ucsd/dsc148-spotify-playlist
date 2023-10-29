@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: IDK
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,943 likes - 57 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,957 likes - 57 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 41 | [Keep That Energy](https://open.spotify.com/track/4szyZVsM96NFzVaVPdZ118) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook \(Homegirl Pack\)](https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB) | 2:25 |
 | 42 | [Hoodie](https://open.spotify.com/track/7nT5j0GBvAKkz09xpeCztD) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 4:01 |
 | 43 | [black enuff](https://open.spotify.com/track/0L9p0fF3HdxKEvKLaNBM4w) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [black enuff](https://open.spotify.com/album/6hm8EXSOCKbRxEypqsmag4) | 2:35 |
-| 44 | [COOKIE](https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [COOKIE](https://open.spotify.com/album/6ORhrxc0bzcNmX7apvOubK) | 2:31 |
+| 44 | [COOKIE](https://open.spotify.com/track/3Gwh2VbVdHbcc4zYdAugt5) | [FISHLORD](https://open.spotify.com/artist/1Hv9p9zMYy3gc2VWQfK5gg) | [COOKIE](https://open.spotify.com/album/5XF5NiWOkq6sTMWXpT16in) | 2:31 |
 | 45 | [Make da World Slime](https://open.spotify.com/track/3Zk7G4xzxerePKxsa8Gh8q) | [OTR CHAZ](https://open.spotify.com/artist/213MrGzuo2Y7Pt3foSroEx), [Roddy Rackzz](https://open.spotify.com/artist/3ZSeyqIqi0nHehsiJmAwOd) | [Supa Dummy](https://open.spotify.com/album/24Lv1ZOm9wXFElpbjk0VzR) | 3:09 |
 | 46 | [Have You Ever](https://open.spotify.com/track/2kdNWIjvs9Ya8iIryjGaNz) | [Yg Teck](https://open.spotify.com/artist/26hDmlgTbg7wseM7YmoyO6), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Champain](https://open.spotify.com/album/5iEbNJF5OksAx5CbDLNqZE) | 2:47 |
 | 47 | [OTILO.](https://open.spotify.com/track/1fFBKEIoyEjlIoyT3EgpuI) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [OTILO.](https://open.spotify.com/album/7cEemin6Cl4rdrSfZcnMbq) | 3:25 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 56 | [So Be It](https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:09 |
 | 57 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 
-Snapshot ID: `MCw0MTllMDhhMTVhM2U3ODQwOTljYThiNTE1NWU2ODFhZDczNWIwYzIw`
+Snapshot ID: `MCxhZDUyZThhOWFkNzdiZTZmMTMzOTYwYzVlMmFlZmI0MGMwM2M4NDcx`

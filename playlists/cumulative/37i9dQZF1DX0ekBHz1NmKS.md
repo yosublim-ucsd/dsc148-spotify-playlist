@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-846 songs - 1 day 20 hr 46 min
+848 songs - 1 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Childhood Dreams](https://open.spotify.com/track/4iVw5xhBCq3SE45d7K5T1O) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Childhood Dreams](https://open.spotify.com/album/2NyPWRjLfQZjejlgVidDAf) | 3:03 | 2023-08-25 | 2023-09-15 |
 | [Ciao](https://open.spotify.com/track/2tXILArq64JkwKB1G2wstD) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Ciao](https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE) | 3:45 | 2023-09-28 |  |
 | [Circles](https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Circles](https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1) | 2:41 | 2022-12-22 | 2023-02-24 |
+| [Clap](https://open.spotify.com/track/5N2C2mNYf5l062MTTgnoF8) | [Josefine](https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt) | [Clap](https://open.spotify.com/album/7lEMMNH7c4Dca2V1nQOlIn) | 2:57 | 2023-10-26 |  |
 | [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 | 2022-10-13 |
 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 | 2021-12-16 | 2022-03-10 |
 | [Cold Shoulder](https://open.spotify.com/track/34snSDVVV1KB4bbTZjIB05) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Cold Shoulder](https://open.spotify.com/album/5gO8l10JAF0ONPQILQNJ0Z) | 3:04 | 2022-05-05 | 2022-07-17 |
@@ -394,6 +395,7 @@
 | [Jag tänker på dig](https://open.spotify.com/track/7E0J8zqH5QuPPpdhIUJM9X) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Jag tänker på dig](https://open.spotify.com/album/1jvHCCrqMFoasEOCqjxTIw) | 2:20 | 2022-03-10 | 2022-07-28 |
 | [Jag vill inte bråka](https://open.spotify.com/track/0at5EUHXolMCt8H7cLWIHA) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Jag vill inte bråka](https://open.spotify.com/album/5Z3GZBgr9rs1RKymbV2PjS) | 2:54 | 2022-02-26 | 2022-07-28 |
 | [jag vill inte veta](https://open.spotify.com/track/0vdSIZl5VcLSHHaMKg4LR0) | [S:mon](https://open.spotify.com/artist/51y3C5frOfQpN0eMhxTAlt) | [jag vill inte veta](https://open.spotify.com/album/75HNTnorJCdME9UACaQt0z) | 2:41 | 2022-05-26 | 2022-09-26 |
+| [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 | 2023-10-26 |  |
 | [Jealous](https://open.spotify.com/track/2kxHarGEadxB7kVJXo8bwT) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Jealous](https://open.spotify.com/album/34mio8hxaosvK9PV8xt1Ko) | 2:43 | 2021-12-16 | 2022-03-11 |
 | [Josefin](https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII) | 3:41 | 2021-12-16 | 2022-03-11 |
 | [Julia](https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Julia](https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg) | 3:09 | 2023-03-16 | 2023-10-06 |
@@ -671,7 +673,7 @@
 | [Start Walking](https://open.spotify.com/track/4UEzD2NPm9yZ0cLTB9Lo6z) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Start Walking](https://open.spotify.com/album/4JhxpPwRhUf0RzHuHSsZ3O) | 3:14 | 2021-12-16 | 2022-03-09 |
 | [Stay Awake](https://open.spotify.com/track/67rLEjVfBaTus10bbL8zLN) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Put Your Self Out There](https://open.spotify.com/album/55zVsU9v9bo3P253vEhMDi) | 4:20 | 2021-12-16 | 2022-01-09 |
 | [Stay.](https://open.spotify.com/track/3vqnnGl5PYzj0eRXEuDVNb) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Stay.](https://open.spotify.com/album/7kpupdVQCbCdiVp0B8bMn8) | 3:19 | 2023-02-09 | 2023-02-17 |
-| [Stigen](https://open.spotify.com/track/68HcHIRS7uahPafhE5a699) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Drinking Gasoline](https://open.spotify.com/album/0EpIQ8fu194s2Um54bybXd) | 4:03 | 2023-10-19 |  |
+| [Stigen](https://open.spotify.com/track/68HcHIRS7uahPafhE5a699) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Drinking Gasoline](https://open.spotify.com/album/0EpIQ8fu194s2Um54bybXd) | 4:03 | 2023-10-19 | 2023-10-29 |
 | [Still Got the Blues från Sverige](https://open.spotify.com/track/5zCtffa9eit69GFSBkCkys) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [Still Got the Blues från Sverige](https://open.spotify.com/album/4jHhoDYHM7wTN5EZHr4oRX) | 4:08 | 2023-10-19 |  |
 | [Stilla](https://open.spotify.com/track/7G7XjX6ELRTtlIfvcpOgKj) | [Dag Tolstoy](https://open.spotify.com/artist/3pqmSK0CTIQ5RGfGLm2d9y) | [Stilla](https://open.spotify.com/album/4O3mvAJiHJU0oBP35n3q8x) | 2:47 | 2022-06-16 | 2022-09-21 |
 | [Stockholm i natt](https://open.spotify.com/track/57TT1KRWDS35o1M9kiw4Jf) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Stockholm i natt](https://open.spotify.com/album/1DRbmA5XjnBuTrN6sPcrDx) | 3:32 | 2021-12-16 | 2022-04-02 |
@@ -716,7 +718,7 @@
 | [Säg Nåt](https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Säg Nåt](https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY) | 2:46 | 2022-11-04 | 2023-07-22 |
 | [Säg vad du vill](https://open.spotify.com/track/6YpOcenS6bCTx7JG1OBY7X) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Säg vad du vill](https://open.spotify.com/album/09JUZALuWvwAN7No7W4lj7) | 3:28 | 2022-05-26 | 2022-07-28 |
 | [Ta på mig](https://open.spotify.com/track/3DFOoe2J49z0ZD1o74fq5x) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Ta på mig](https://open.spotify.com/album/79TfkDuxlL9r42jGcj2AL4) | 3:22 | 2021-12-16 | 2022-03-09 |
-| [Tack & Förlåt](https://open.spotify.com/track/77EB8QJSuJ0oCrxsohpOMs) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Tack & Förlåt](https://open.spotify.com/album/7nuGipqlw2WLeXdIW1qm4m) | 2:58 | 2023-10-26 |  |
+| [Tack & Förlåt](https://open.spotify.com/track/77EB8QJSuJ0oCrxsohpOMs) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Tack & Förlåt](https://open.spotify.com/album/7nuGipqlw2WLeXdIW1qm4m) | 2:58 | 2023-10-26 | 2023-10-29 |
 | [Tack vare dig](https://open.spotify.com/track/72COIJY2DM001e9tLVtYaX) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [Tack vare dig](https://open.spotify.com/album/6MdYecbKxByYEUQqH8Lzkp) | 3:13 | 2023-08-03 |  |
 | [Tagit över himlen](https://open.spotify.com/track/2faoTKw5aY77tacZthwcCd) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Joanné Nugas](https://open.spotify.com/artist/7ArfjsEANVFT6WSDiJ7i8T) | [Tagit över himlen](https://open.spotify.com/album/1RlI6eLWlON8W9EOUJS1qT) | 2:27 | 2023-08-26 |  |
 | [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-10-05 |  |

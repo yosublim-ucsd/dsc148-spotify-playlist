@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,590 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,621 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 2 | [Jail](https://open.spotify.com/track/3GqvCPECYIcL4nV88jYGyT) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/5s97Jucf39sW9uP10l77nT) | 3:27 |
 | 3 | [PO](https://open.spotify.com/track/1W6r5thD9Tadno47turNR0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [PO](https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD) | 3:35 |
 | 4 | [Street Flow](https://open.spotify.com/track/6OrstIkLUMihQEgQv4txvy) | [Armaan Dhillon](https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Legacy](https://open.spotify.com/album/0m8UoInWemJ0sdaS2GIqai) | 2:16 |
-| 5 | [Dil Tod Da \(Remix\) \- Remix Version](https://open.spotify.com/track/44GrxMXyek8xNJ67pzEu1q) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Rajdeep Mangat](https://open.spotify.com/artist/0ozlrA0RXlU4UcIZeaZ96y), [Real Satnam](https://open.spotify.com/artist/6elDtbrVYRzdQ5RB9AgVTV) | [Dil Tod Da \(Remix\) \[Remix Version\]](https://open.spotify.com/album/62J5P4loHXbElzgJwdQydO) | 2:46 |
+| 5 | [Dil Tod Da \(Remix\) \- Remix Version](https://open.spotify.com/track/44GrxMXyek8xNJ67pzEu1q) | [Real Satnam](https://open.spotify.com/artist/6elDtbrVYRzdQ5RB9AgVTV), [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Rajdeep Mangat](https://open.spotify.com/artist/0ozlrA0RXlU4UcIZeaZ96y) | [Dil Tod Da \(Remix\) \[Remix Version\]](https://open.spotify.com/album/62J5P4loHXbElzgJwdQydO) | 2:46 |
 | 6 | [Badberry](https://open.spotify.com/track/5pswO9oQUB8uJtvpmxbeTV) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 3:44 |
 | 7 | [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 |
 | 8 | [Sardaar Munde](https://open.spotify.com/track/3TK4iqlePK0Vqo5gV0EEQy) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Sardaar Munde](https://open.spotify.com/album/46CooAUUsJw8f0Ydg61zJV) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCw4NWY3YjJmMWU0YmM1OWI0ZmUzMTVlNGQ1MzAxOTM3YmY3N2E4ODRm`
+Snapshot ID: `MCxlZmJmODFiNDdmODgxYWYyYzJkMWRjMWIwYmU1N2UxOGFlY2UyNzE0`

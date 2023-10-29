@@ -4,7 +4,7 @@
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Daniel Quién
 
-240 songs - 14 hr 45 min
+241 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Los Perros](https://open.spotify.com/track/4BVicFd3FwAsfvIGfF8Sy9) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Los Perros](https://open.spotify.com/album/5H54BdEcWRLPjj77JAmt5k) | 3:49 | 2023-02-03 | 2023-09-05 |
 | [Los Tesoros Imposibles \(con Rulo\)](https://open.spotify.com/track/5UzqFwCA78f4FmQ0l9ylX1) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i), [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [Los Tesoros Imposibles \(con Rulo\)](https://open.spotify.com/album/4B4046OyVaZAAfboAlRT2n) | 3:54 | 2022-09-05 | 2023-03-04 |
 | [Love is the Answer](https://open.spotify.com/track/1xmBaHhS7WFvW7K1dLG7ON) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [Love is the Answer](https://open.spotify.com/album/6RX01dChrxVMcluBPJgoLr) | 6:00 | 2023-02-03 |  |
-| [Luces](https://open.spotify.com/track/6bX7kiZsHjERDyiQReVxtT) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Tiempo Futuro](https://open.spotify.com/album/3GNwfsYXxTJgz5hKlpR6Hn) | 3:08 | 2023-07-07 |  |
+| [Luces](https://open.spotify.com/track/1iwoIyo9Q96VMkhRW8aQse) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Tiempo Futuro](https://open.spotify.com/album/6issZ4zaNQJCWTs07BXnsL) | 3:08 | 2023-09-04 |  |
+| [Luces](https://open.spotify.com/track/6bX7kiZsHjERDyiQReVxtT) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Tiempo Futuro](https://open.spotify.com/album/3GNwfsYXxTJgz5hKlpR6Hn) | 3:08 | 2023-07-07 | 2023-10-29 |
 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-09-04 |  |
 | [Maelström](https://open.spotify.com/track/5JyeXhwxBQFEne4FxPbCxN) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Conquista del Espacio](https://open.spotify.com/album/0hUTkPlrlHbLkrKB8JLTXQ) | 3:55 | 2021-12-07 | 2022-03-21 |
 | [Mal Que Bien](https://open.spotify.com/track/0q2urJmtUXzafLVDktEj8d) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Mal Que Bien](https://open.spotify.com/album/3Qt6Vt6M5l8ppKyhClh4HR) | 4:09 | 2023-05-26 |  |

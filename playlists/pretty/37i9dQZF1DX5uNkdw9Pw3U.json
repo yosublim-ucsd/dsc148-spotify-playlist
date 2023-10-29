@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 87307,
+  "num_followers": 87717,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzYwOWNmMmNlMjgzYWI0YjM2MzNlNThjOTUzM2JmYWQwZjIyOGE3",
+  "snapshot_id": "MCwwNWYyNzVjMmVlZmRkM2JkYjJiYTM3YTQ4ODk3OTdlMWM0Nzg0MjJk",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Fall into place",
-        "url": "https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 168576,
-      "name": "Fall into place",
-      "url": "https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/4AQ8M9UhgOSRTT0OjEU3Ik"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 184324,
       "name": "Time",
       "url": "https://open.spotify.com/track/5ZZwWo5tBpa1IxEuASX5CL"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Fall into place",
+        "url": "https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Fall into place",
+      "url": "https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "How Is Your Soul?",
-        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 166848,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) [Remix]",
         "url": "https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Sympati For Djevelen",
-        "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
+        "name": "How Is Your Soul?",
+        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
       },
       "artists": [
         {
-          "name": "L.U:N.A",
-          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 183692,
-      "name": "Sympati For Djevelen",
-      "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"
+      "duration_ms": 166848,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1563,6 +1547,22 @@
       "duration_ms": 172320,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Sympati For Djevelen",
+        "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
+      },
+      "artists": [
+        {
+          "name": "L.U:N.A",
+          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "Sympati For Djevelen",
+      "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"
     },
     {
       "added_at": "2023-10-19 22:00:00",

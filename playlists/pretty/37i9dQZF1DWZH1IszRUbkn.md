@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,663 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,668 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 32 | [Mueve el Ombligo](https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx) | [La Banda de Carmen](https://open.spotify.com/artist/1J37T04jOISczqfu7UInu8) | [Música Infantil para Fiestas: Canciones para Bailar Niños y Padres](https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT) | 2:53 |
 | 33 | [La Feria de Cepillín](https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Mejores Amigos](https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl) | 3:05 |
 | 34 | [Osito Carpintero](https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:36 |
-| 35 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
-| 36 | [¡Qué empiece ya!](https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Bailando](https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To) | 1:09 |
+| 35 | [¡Qué empiece ya!](https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Bailando](https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To) | 1:09 |
+| 36 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
 | 37 | [Bajo El Mar](https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 4:10 |
 | 38 | [Sana, Sana, Colita de Rana](https://open.spotify.com/track/26cHBaPyFGH2lhtdaq4Dz1) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Entre Ayer y Hoy](https://open.spotify.com/album/69JFGFoQLfiVaQaPfduFet) | 2:27 |
 | 39 | [Ritmo Robótico](https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV) | [Maria Gabriela de Faria](https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 49 | [El Zapatero](https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 1:43 |
 | 50 | [Osos de Paseo](https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:50 |
 
-Snapshot ID: `MCxhYzQ4NmE0MTgzMjc5NWFkZWZjMDY1NDhiZTJlMWU1ZWQwNThkZjU2`
+Snapshot ID: `MCxjNzEwNjAxNDgxNjgyNzBkYTJiYzZjMDZmNzYyMGI0OTMyMGI2YzFj`

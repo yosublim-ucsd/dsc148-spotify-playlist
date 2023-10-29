@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,074 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,116 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [Farther Up The Road](https://open.spotify.com/track/0NqQU0BPlVb8HMNmcHnQPD) | [Andrew Odom](https://open.spotify.com/artist/3edYUdDu4mSxpqjfBhAtV8) | [Earl Hooker: Simply The Best](https://open.spotify.com/album/0TGgq70vAHg6mvS51TjYKH) | 4:58 |
 | 50 | [Dark Road](https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo) | [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O) | 3:37 |
 
-Snapshot ID: `MCw5ZTEyYzcwMzIxYmFjYWFmZmU5OGNlN2FiOWIxMTc2ZDJlNzg2YjFi`
+Snapshot ID: `MCw4OTdkNjA4MjgxZGFlMDNmZjJjM2RlMWY4Y2VkMjNmYjNhZTVjMmYy`

@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 234023,
+  "num_followers": 234173,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWQ2ODNlMTQwMTc4ZTdkMzQ2ZDEwNzFkZTllZWNlOTM5ZTc2MTcz",
+  "snapshot_id": "MCwyNzI3Njg0Y2NmZTMwODVjYTkyMzBiNzc1NDUwMmM4NWQ0OTBjMWI5",
   "tracks": [
     {
       "added_at": "2023-08-11 15:42:20",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
         "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
         "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 229600,
       "name": "Caf\u00e9 Del Mar - Three 'n One Radio Edit",
       "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
     },
     {
       "added_at": "2023-08-11 15:42:20",

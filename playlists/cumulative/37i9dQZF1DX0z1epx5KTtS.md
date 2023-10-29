@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : Roseline Layo
 
-151 songs - 8 hr 50 min
+152 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,12 +14,13 @@
 | [Abidjan Est Doux](https://open.spotify.com/track/4qR40v3cDfonhumDnEMbZF) | [Santrinos Raphael](https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h), [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Abidjan Est Doux](https://open.spotify.com/album/6ILXeDfNlfiHuf7FS46ad4) | 3:44 | 2023-09-28 |  |
 | [Abidjan Paris](https://open.spotify.com/track/0rYB2OWmVGIULPD33ZmBye) | [Zagba Le Requin](https://open.spotify.com/artist/6hR5Mj1oe4yE7JOZsTFwvn), [Doupi Papillon](https://open.spotify.com/artist/4oBgTIQASlIZHyKNkXZWoO), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Abidjan Paris](https://open.spotify.com/album/7xZ54t59ngop1xFTqIV8y2) | 3:22 | 2023-05-18 |  |
 | [Abidjan puissance](https://open.spotify.com/track/2VnVzVwCt4oNK1nkMRMQ9E) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Abidjan puissance](https://open.spotify.com/album/70c8O1zxFqTPuR6AI8fckj) | 4:24 | 2021-12-20 | 2022-12-16 |
-| [Aicha trambler](https://open.spotify.com/track/5khZ14Ne0o9PoZfbP3oQBB) | [Dj domi 226](https://open.spotify.com/artist/47Ye8a65ZCXhODjHJfwNYQ) | [Aicha trambler](https://open.spotify.com/album/4LsBrpMBybnXbu47iLv0Et) | 2:57 | 2023-09-21 |  |
+| [Aicha trambler](https://open.spotify.com/track/5khZ14Ne0o9PoZfbP3oQBB) | [Dj domi 226](https://open.spotify.com/artist/47Ye8a65ZCXhODjHJfwNYQ) | [Aicha trambler](https://open.spotify.com/album/4LsBrpMBybnXbu47iLv0Et) | 2:57 | 2023-09-21 | 2023-10-29 |
 | [Allez Dire](https://open.spotify.com/track/1zxQQU3fRRPnpVKM8bd1cf) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Allez Dire](https://open.spotify.com/album/3Z9MaFaOQTvNmwK0PGrsve) | 3:31 | 2022-10-27 | 2023-05-19 |
 | [Alloco 2 Oeufs](https://open.spotify.com/track/74qcVTGMuaLJUHYwPlyyyD) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j), [Mr Key](https://open.spotify.com/artist/0hqEh6jBZkLJKgUHvb5tRS) | [Alloco 2 Oeufs](https://open.spotify.com/album/1UiTBXnzG2bIIm0MDn3Dfd) | 2:41 | 2022-10-27 | 2022-11-18 |
 | [Allumez](https://open.spotify.com/track/4b8vP4Nxy9RQF8ESYAtpyb) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Allumez](https://open.spotify.com/album/1Svwz2URG49O0mj9XsrhVN) | 4:55 | 2023-07-06 |  |
 | [Ambiance Mopacho](https://open.spotify.com/track/2M4f4coh903vjprofqQcrW) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Ambiance Mopacho](https://open.spotify.com/album/5QgIL8XeuoJgyqUeXEx1g6) | 4:15 | 2023-01-12 |  |
 | [Amour multiprise](https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz) | [Josée Delatour](https://open.spotify.com/artist/3o16PJgfLAo9FSDVyp1p0J) | [Amour multiprise](https://open.spotify.com/album/34l6OhPm91L7kZgJUql3d9) | 2:56 | 2023-05-18 | 2023-09-29 |
+| [Aïcha trembleeer](https://open.spotify.com/track/5CZGF2LbWH05WwBR6pBz5B) | [Dj Domi](https://open.spotify.com/artist/7aCX1VkFmFdazTE4daQI2b) | [Aïcha trembleeer](https://open.spotify.com/album/0itQXaAig0OLVsgkaClF2m) | 2:57 | 2023-10-26 |  |
 | [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 | 2022-06-17 |
 | [BINAKA](https://open.spotify.com/track/4G5lllH9iGUSyFkMDwabMU) | [Dj Moasco](https://open.spotify.com/artist/6AfzTdenXg9xaTui9NXoRa), [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [BINAKA](https://open.spotify.com/album/0zCYYMTHLUKVTeGJm1w8lh) | 3:56 | 2022-12-01 | 2023-04-07 |
 | [Blocage](https://open.spotify.com/track/1HliCFmp6TxhvMewIJlTs6) | [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Blocage](https://open.spotify.com/album/5Ka7VNTZwPq9OslyBiS3Fu) | 2:20 | 2023-06-08 |  |

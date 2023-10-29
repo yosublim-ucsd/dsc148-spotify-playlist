@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > vibe out w some 🇵🇭 R&B Cover: KYLIX
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,855 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,896 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 28 | [DKL](https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha) | [MYR](https://open.spotify.com/artist/260WCUxqybRg1I8Dh2JcUY) | [DKL](https://open.spotify.com/album/3mMNDqFmww0WMzYPS5zGJT) | 3:10 |
 | 29 | [LUV DRUNK II](https://open.spotify.com/track/7kmIBigmMa9HL3NfBiqhws) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [LUV DRUNK II](https://open.spotify.com/album/1NK1DGc1kgcXL2BbM9EXza) | 2:54 |
 | 30 | [Wildfire](https://open.spotify.com/track/4v0gAyFjpWihZwbT8A48BR) | [Paul Mac](https://open.spotify.com/artist/0xUzRd8sfsuuDvgzYAUXlF) | [Wildfire](https://open.spotify.com/album/2Wu7hLFHalklYvHDIiTPoZ) | 3:51 |
-| 31 | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 |
+| 31 | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 |
 | 32 | [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 |
 | 33 | [Magdamag](https://open.spotify.com/track/1t3YrmdkNAjonhIUBIpm8Y) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Magdamag](https://open.spotify.com/album/3iDeh0fFf7vcAPSDA6eSTh) | 1:59 |
 | 34 | [Sigurado](https://open.spotify.com/track/4RuwsMJHRsB4gIzLBnnjqo) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5) | [Sigurado](https://open.spotify.com/album/28TgQT58FujmQoZ796M4Ma) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 49 | [MANATILI](https://open.spotify.com/track/1Zfwa2mECtqzy3fd97kNm5) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [MANATILI](https://open.spotify.com/album/0RMKf66jtbEHpk5tskbfws) | 2:42 |
 | 50 | [Co\-Pilot](https://open.spotify.com/track/3q2Sp5xZP5nvBbmIQTxvYA) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [JOLO](https://open.spotify.com/artist/1r5cXPqjg3R4Q1FpKG1UJs), [Rjay Ty](https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx) | [Flight School Era](https://open.spotify.com/album/0DL6JoUUC5rYlexcZFACeN) | 4:10 |
 
-Snapshot ID: `MCxiNWEzMTM0ZDRkZmI1MjU5NWRhZWYzOGI1NzZmYWU0ZWIwMGI5M2I4`
+Snapshot ID: `MCxmMzQ3ZGYwZTFjYzZhNTAyYzFhOWQxOTBmZGYwZWQ4MjA0ZjlmMzZl`

@@ -8600,7 +8600,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 142857,
       "name": "Everything you need",
       "url": "https://open.spotify.com/track/77DrQhfJtki3fUcMd7oQgB"
@@ -18639,6 +18639,24 @@
     },
     {
       "album": {
+        "name": "neutron",
+        "url": "https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5"
+      },
+      "artists": [
+        {
+          "name": "Cyan_95",
+          "url": "https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "neutron",
+      "url": "https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4"
+    },
+    {
+      "album": {
         "name": "never ending",
         "url": "https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q"
       },
@@ -21158,7 +21176,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 165981,
       "name": "peanut butter shake",
       "url": "https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ"
@@ -25711,6 +25729,24 @@
     },
     {
       "album": {
+        "name": "Starfew Alley",
+        "url": "https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V"
+      },
+      "artists": [
+        {
+          "name": "JoJo Mojo",
+          "url": "https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129423,
+      "name": "Starfew Alley",
+      "url": "https://open.spotify.com/track/4j647icCpXJcRES7szthoM"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/5a96sPpHX2sg6EJGTsTnMx"
       },
@@ -26697,7 +26733,7 @@
     },
     {
       "album": {
-        "name": "Sunsmoke",
+        "name": "sunsmoke",
         "url": "https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV"
       },
       "artists": [
@@ -26710,7 +26746,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 73846,
-      "name": "Sunsmoke",
+      "name": "sunsmoke",
       "url": "https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS"
     },
     {

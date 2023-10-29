@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current, every week\. Cover: Meet Me @ The Altar
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,704 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,715 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 57 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 |
 | 58 | [t!mezone](https://open.spotify.com/track/4O8j9RMURUEsdFBtxGKaSZ) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [t!mezone](https://open.spotify.com/album/7LyemIrA9Xf7ZiiJTDiMvX) | 2:53 |
 | 59 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 |
-| 60 | [COOKIE](https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [COOKIE](https://open.spotify.com/album/6ORhrxc0bzcNmX7apvOubK) | 2:31 |
+| 60 | [COOKIE](https://open.spotify.com/track/3Gwh2VbVdHbcc4zYdAugt5) | [FISHLORD](https://open.spotify.com/artist/1Hv9p9zMYy3gc2VWQfK5gg) | [COOKIE](https://open.spotify.com/album/5XF5NiWOkq6sTMWXpT16in) | 2:31 |
 | 61 | [So Sentimental](https://open.spotify.com/track/0e6cllU5p2HDCFm2cyKSai) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [So Sentimental](https://open.spotify.com/album/2n6RlkptiwMVnkRYUIpFUF) | 2:29 |
 | 62 | [Sitting on Ice](https://open.spotify.com/track/6RYRFuYDMyJIzmzLprp9rZ) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Sitting on Ice](https://open.spotify.com/album/1YN7nOQ8g1n4VvHDrMVs60) | 2:59 |
 | 63 | [Body Language](https://open.spotify.com/track/45t5U9tRXXYjp40w4PZpgU) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 4:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 69 | [Chelsea Hotel](https://open.spotify.com/track/3yuUo3VJreRdasr1erzGJM) | [Zhariah](https://open.spotify.com/artist/1acX2jfBZ38KLMwFh3ldm7) | [Chelsea Hotel](https://open.spotify.com/album/3tHJ7OgxXS3OjKmvkwNOGS) | 3:40 |
 | 70 | [sick of all these uglies falling out the sky](https://open.spotify.com/track/588VSkCIXBKt0d7qdhEIuA) | [Zavier O'Keith](https://open.spotify.com/artist/2UVj3KVaby1WqCXPH7cwTR) | [sick of all these uglies falling out the sky](https://open.spotify.com/album/3HIeVaZ8g0siu6WUgd1yL0) | 3:08 |
 
-Snapshot ID: `MCw3ODU4YTY2YmRjOTFiZTg3NWY1YjIwYTk4ZWMyZjQzOTYyNTlkMWZk`
+Snapshot ID: `MCw5NDM5MzMzMGJmNmExMjdlZjdiODFiNzY3YzFiNzczOGQ0N2Q0OTQ2`

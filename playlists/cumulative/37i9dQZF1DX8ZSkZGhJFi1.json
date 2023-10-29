@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "catch me",
+        "url": "https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151958,
+      "name": "catch me",
+      "url": "https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1"
+    },
+    {
+      "album": {
         "name": "Catcher in the rye",
         "url": "https://open.spotify.com/album/1U7K08lz9Y5HK31C2yqYDd"
       },
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 93789,
       "name": "Different World",
       "url": "https://open.spotify.com/track/6rXqfqWXKdlWFUHXJmnqdz"
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 143750,
       "name": "don't worry it will be okay",
       "url": "https://open.spotify.com/track/5mCdx36Sn4lSlmFeMozAGI"
@@ -8729,6 +8747,24 @@
     },
     {
       "album": {
+        "name": "silver sky",
+        "url": "https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh"
+      },
+      "artists": [
+        {
+          "name": "LVTA",
+          "url": "https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121643,
+      "name": "silver sky",
+      "url": "https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1"
+    },
+    {
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/5D3DbCzuUxS5QtbVi14YpZ"
       },
@@ -9916,7 +9952,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 156153,
       "name": "the blue dragonfly sidequest.",
       "url": "https://open.spotify.com/track/0jX6QftXim4pnY8W0C8g8N"
@@ -11158,7 +11194,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 124090,
       "name": "we finally met",
       "url": "https://open.spotify.com/track/3zhjHhvPEeqhZJKTk4spfh"

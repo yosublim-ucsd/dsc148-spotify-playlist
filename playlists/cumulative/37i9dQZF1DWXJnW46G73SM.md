@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-681 songs - 1 day 14 hr 34 min
+682 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Byehzi](https://open.spotify.com/track/0TvCDE5xR4HVv7rcEiLU8R) | [Mohamed Rashad](https://open.spotify.com/artist/0D3GrTX8gewB7hlKDPCInu) | [Byehzi](https://open.spotify.com/album/3RxHFLVbHLJNuMN53fjRzp) | 2:54 | 2023-06-22 | 2023-07-28 |
 | [Caravan](https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ) | 2:29 | 2023-01-12 | 2023-02-24 |
 | [CARTHA](https://open.spotify.com/track/3GjlJCtdD4VTuXSPB9WTWJ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [CARTHA](https://open.spotify.com/album/4ivmPNd6b6xmwNJN2iXzOH) | 2:25 | 2022-05-03 | 2022-05-22 |
+| [Case Closed](https://open.spotify.com/track/5JfW2sCbY5Usnf3RQVnJ8B) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Proof of Life](https://open.spotify.com/album/0QnDiBYEraHXKKwz5ShYLq) | 2:45 | 2023-10-28 |  |
 | [CHAPTER V: FADAKI](https://open.spotify.com/track/7bLqMAFFxl3NcMS1AJXyaA) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78), [Rahal](https://open.spotify.com/artist/6NwB6r8M14oNy747uzGj7Q) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:32 | 2023-02-14 | 2023-04-05 |
 | [Cigara](https://open.spotify.com/track/5YH0SNUHx7P423UiUvB67d) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:30 | 2022-12-29 | 2023-02-10 |
 | [Cinderella](https://open.spotify.com/track/4ZkUiyfLp12nbQ9zSymqRi) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Cinderella](https://open.spotify.com/album/4qh98LElKIjNAFoQ09UJQg) | 3:51 | 2021-12-23 | 2021-12-30 |

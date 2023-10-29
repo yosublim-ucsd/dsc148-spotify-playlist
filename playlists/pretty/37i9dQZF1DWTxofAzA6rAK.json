@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 54480,
+  "num_followers": 54549,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWRkYjgzYmVlMjc1ZTQyY2Q3MzA5M2UyMmVkNDdlMmJlYjQ3MGI5",
+  "snapshot_id": "MCwzZTU4YzUzOGYzNDY1MzFiNzM0MTIxZTE3MzE0ZWU4MGYzNmUzNDRi",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -187,22 +187,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Narcissistic",
-        "url": "https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz"
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
       "artists": [
         {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Stalk Ashley",
-          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Narcissistic",
-      "url": "https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb"
+      "duration_ms": 155307,
+      "name": "Can't Anymore",
+      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -223,18 +219,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+        "name": "Narcissistic",
+        "url": "https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
         }
       ],
-      "duration_ms": 155307,
-      "name": "Can't Anymore",
-      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+      "duration_ms": 182857,
+      "name": "Narcissistic",
+      "url": "https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Dawkniss",
+        "url": "https://open.spotify.com/album/1gWmZdRV5vAsll3BM5B3kg"
+      },
+      "artists": [
+        {
+          "name": "1Skimask",
+          "url": "https://open.spotify.com/artist/5sG7iQRe5qVQvGmZ8B0xEo"
+        },
+        {
+          "name": "Falconn",
+          "url": "https://open.spotify.com/artist/4DEgH35qSaMQfi45LW6dD5"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Dawkniss",
+      "url": "https://open.spotify.com/track/4Io8OmQnfuNFQsM9PpMO6d"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Twerk Fi Mi Dolly",
         "url": "https://open.spotify.com/album/1UlYEOozHX0d5gYeTP3CW0"
       },
@@ -1659,22 +1679,6 @@
       "duration_ms": 97488,
       "name": "Twerk Fi Mi Dolly",
       "url": "https://open.spotify.com/track/7FN8Ds6SKp6Ry8XQ34UCkB"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Crocodile Teeth LP",
-        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 165703,
-      "name": "Beethoven",
-      "url": "https://open.spotify.com/track/3Vxe2Fe84a6M9iUXdtWxsh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1695,22 +1699,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Dawkniss",
-        "url": "https://open.spotify.com/album/1gWmZdRV5vAsll3BM5B3kg"
+        "name": "Crocodile Teeth LP",
+        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
       },
       "artists": [
         {
-          "name": "1Skimask",
-          "url": "https://open.spotify.com/artist/5sG7iQRe5qVQvGmZ8B0xEo"
-        },
-        {
-          "name": "Falconn",
-          "url": "https://open.spotify.com/artist/4DEgH35qSaMQfi45LW6dD5"
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
         }
       ],
-      "duration_ms": 161632,
-      "name": "Dawkniss",
-      "url": "https://open.spotify.com/track/4Io8OmQnfuNFQsM9PpMO6d"
+      "duration_ms": 165703,
+      "name": "Beethoven",
+      "url": "https://open.spotify.com/track/3Vxe2Fe84a6M9iUXdtWxsh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Crocodile Teeth LP",
-        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 221016,
-      "name": "Piana",
-      "url": "https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Forgive Me",
         "url": "https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X"
       },
@@ -1863,6 +1847,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "25/8",
+        "url": "https://open.spotify.com/album/1CkR6RZZW5MCRa6FGhcIGl"
+      },
+      "artists": [
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "25/8",
+      "url": "https://open.spotify.com/track/1TcB4qgfMXaiLDIE9DlimJ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "She Like It (Remix)",
         "url": "https://open.spotify.com/album/6hVZ2HnEngQycSLXY1Ljgn"
       },
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "25/8",
-        "url": "https://open.spotify.com/album/1CkR6RZZW5MCRa6FGhcIGl"
+        "name": "Crocodile Teeth LP",
+        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
       },
       "artists": [
         {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
         }
       ],
-      "duration_ms": 227040,
-      "name": "25/8",
-      "url": "https://open.spotify.com/track/1TcB4qgfMXaiLDIE9DlimJ"
+      "duration_ms": 221016,
+      "name": "Piana",
+      "url": "https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1911,6 +1911,22 @@
       "duration_ms": 205251,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Foot",
+        "url": "https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 167021,
+      "name": "Foot",
+      "url": "https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1939,22 +1955,6 @@
       "duration_ms": 153000,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Foot",
-        "url": "https://open.spotify.com/album/0Eti6sYztHFTrS2p1hDRTV"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 167021,
-      "name": "Foot",
-      "url": "https://open.spotify.com/track/07mwyrR0iD3MJjyBIRe4KQ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Who Cares",
+        "url": "https://open.spotify.com/album/20KtHUMM6VGYqfsUVF8QTb"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Who Cares",
+      "url": "https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/5PMd3N5kBbLiynnY3OkaaW"
       },
@@ -2051,38 +2067,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "World News",
-        "url": "https://open.spotify.com/album/17MvvoDeKxos5NrcDs8NvV"
+        "name": "Three Little Birds",
+        "url": "https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP"
       },
       "artists": [
         {
-          "name": "Notnice",
-          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
-        },
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         }
       ],
-      "duration_ms": 265337,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/2mGOKW9vv5UrwoZxgX2v9T"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Who Cares",
-        "url": "https://open.spotify.com/album/20KtHUMM6VGYqfsUVF8QTb"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Who Cares",
-      "url": "https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w"
+      "duration_ms": 208835,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2107,18 +2103,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Three Little Birds",
-        "url": "https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP"
+        "name": "World News",
+        "url": "https://open.spotify.com/album/17MvvoDeKxos5NrcDs8NvV"
       },
       "artists": [
         {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+          "name": "Notnice",
+          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
+        },
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
         }
       ],
-      "duration_ms": 208835,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC"
+      "duration_ms": 265337,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/2mGOKW9vv5UrwoZxgX2v9T"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Dirt Bounce",
-        "url": "https://open.spotify.com/album/0EiBPLcKV9pZ9ITQiAERNO"
-      },
-      "artists": [
-        {
-          "name": "Laa Lee",
-          "url": "https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS"
-        }
-      ],
-      "duration_ms": 176069,
-      "name": "Dirt Bounce",
-      "url": "https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Gal Academy",
         "url": "https://open.spotify.com/album/6E0I4vxf0BmX4YQqthzpp6"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 191051,
       "name": "Gal Academy",
       "url": "https://open.spotify.com/track/4ae1MztEbIn1ZDGnTmYD5P"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Dirt Bounce",
+        "url": "https://open.spotify.com/album/0EiBPLcKV9pZ9ITQiAERNO"
+      },
+      "artists": [
+        {
+          "name": "Laa Lee",
+          "url": "https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS"
+        }
+      ],
+      "duration_ms": 176069,
+      "name": "Dirt Bounce",
+      "url": "https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2359,26 +2359,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Bermuda Triangle",
-        "url": "https://open.spotify.com/album/5gDobQWuOT5HP2NgvX91Pj"
-      },
-      "artists": [
-        {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
-        },
-        {
-          "name": "Zimi",
-          "url": "https://open.spotify.com/artist/1CDJaUv1aGeoQQFlIGrqDA"
-        }
-      ],
-      "duration_ms": 155391,
-      "name": "Bermuda Triangle",
-      "url": "https://open.spotify.com/track/265JbObZUl1Gt14qBkkqnG"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Next Levelution",
         "url": "https://open.spotify.com/album/52bXKKh7PziML9AP8elipt"
       },
@@ -2395,6 +2375,26 @@
       "duration_ms": 181998,
       "name": "Inna Di Dance",
       "url": "https://open.spotify.com/track/5SV18zUjAFqEtl6B5LY3Xf"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Bermuda Triangle",
+        "url": "https://open.spotify.com/album/5gDobQWuOT5HP2NgvX91Pj"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        },
+        {
+          "name": "Zimi",
+          "url": "https://open.spotify.com/artist/1CDJaUv1aGeoQQFlIGrqDA"
+        }
+      ],
+      "duration_ms": 155391,
+      "name": "Bermuda Triangle",
+      "url": "https://open.spotify.com/track/265JbObZUl1Gt14qBkkqnG"
     },
     {
       "added_at": "2023-05-24 08:21:37",

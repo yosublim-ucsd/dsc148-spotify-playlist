@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 160862,
       "name": "Complete",
       "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
@@ -2152,6 +2152,24 @@
       "duration_ms": 177946,
       "name": "History",
       "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
+    },
+    {
+      "album": {
+        "name": "Holiday Sniping",
+        "url": "https://open.spotify.com/album/2bByla9AqUB3Rqgz2nFd0F"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142268,
+      "name": "Holiday Sniping",
+      "url": "https://open.spotify.com/track/1fZS5QzwiwU3BvE9FJHo6d"
     },
     {
       "album": {
@@ -3323,6 +3341,28 @@
     },
     {
       "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108823,
+      "name": "NAIJA SHAWTY (feat. Victony)",
+      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
+    },
+    {
+      "album": {
         "name": "Naked Wire",
         "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
       },
@@ -3334,7 +3374,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 162352,
       "name": "Naked Wire",
       "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
@@ -3916,7 +3956,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 176058,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"
@@ -5814,6 +5854,32 @@
       "duration_ms": 196474,
       "name": "Witness",
       "url": "https://open.spotify.com/track/4pfCZ6PVVAQKlMyViDsQ5O"
+    },
+    {
+      "album": {
+        "name": "Wo Wo Wo (Ebony)",
+        "url": "https://open.spotify.com/album/5ipXzmZcEzsbcimRU65LUS"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Rimzee",
+          "url": "https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235661,
+      "name": "Wo Wo Wo (Ebony)",
+      "url": "https://open.spotify.com/track/6nKbSBnTJ0V4h5g34h4MY7"
     },
     {
       "album": {

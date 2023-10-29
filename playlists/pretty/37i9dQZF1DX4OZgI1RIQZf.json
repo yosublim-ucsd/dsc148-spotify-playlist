@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 72641,
+  "num_followers": 73745,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTliMzU2ZmNhMjAxMjdmZDA2MjUxODIzMjllNjEyMjgyNjYyMjBh",
+  "snapshot_id": "MCxiNzY2YTljNjY5MGFmNWE3ZTczNmQyNmZiYTVlZDBiZTIzZDg3MTRi",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Noise Floor (Rarities: 1998-2005)",
-        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Devil Town",
-      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "A Quick One (Expanded Edition)",
         "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 149533,
       "name": "Boris The Spider - Mono Version",
       "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Noise Floor (Rarities: 1998-2005)",
+        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 183240,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "Flexorcist",
+        "url": "https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 357463,
+      "name": "Flexorcist",
+      "url": "https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "Guero",
         "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 255666,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "A Weekend in the City",
-        "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 210146,
-      "name": "Hunting for Witches",
-      "url": "https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "A Weekend in the City",
+        "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 210146,
+      "name": "Hunting for Witches",
+      "url": "https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "The Physical World",
         "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 185386,
       "name": "Right On, Frankenstein!",
       "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "One Thousand Pictures",
-        "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
-      },
-      "artists": [
-        {
-          "name": "Pete And The Pirates",
-          "url": "https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Blood Gets Thin",
-      "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "One Thousand Pictures",
+        "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
+      },
+      "artists": [
+        {
+          "name": "Pete And The Pirates",
+          "url": "https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Blood Gets Thin",
+      "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "Blood Red Moon",
         "url": "https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ"
       },
@@ -823,6 +839,22 @@
       "duration_ms": 271546,
       "name": "Blood Red Moon",
       "url": "https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Halloween Parade",
+      "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -875,22 +907,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Halloween Parade",
-      "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Bad Moon Rising",
         "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "We Need Medicine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6E1stKFODamAR9n0TddMy7"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Halloween Blues",
-      "url": "https://open.spotify.com/track/0LEycyIxbAwwB9U0GgMx39"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Come Of Age",
         "url": "https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 140906,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/347OA86TbdeTydHhy90blH"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "We Need Medicine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6E1stKFODamAR9n0TddMy7"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Halloween Blues",
+      "url": "https://open.spotify.com/track/0LEycyIxbAwwB9U0GgMx39"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -987,6 +1003,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "Pip Paine (Pay The \u00a35000 You Owe)",
+        "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Trick or Treatz",
+      "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "Transangelic Exodus",
         "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
       },
@@ -1015,22 +1047,6 @@
       "duration_ms": 268186,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "Pip Paine (Pay The \u00a35000 You Owe)",
-        "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Trick or Treatz",
-      "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "River Styx",
-      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Keep On Your Mean Side",
         "url": "https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 280133,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "River Styx",
+      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1271,22 +1287,6 @@
       "duration_ms": 162320,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "Skeleton Song",
-        "url": "https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW"
-      },
-      "artists": [
-        {
-          "name": "Bambi L",
-          "url": "https://open.spotify.com/artist/2pcRdJu290vEYb27Az15Vh"
-        }
-      ],
-      "duration_ms": 162127,
-      "name": "Skeleton Song",
-      "url": "https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB"
     }
   ],
   "unique_name": "Indie Halloween",

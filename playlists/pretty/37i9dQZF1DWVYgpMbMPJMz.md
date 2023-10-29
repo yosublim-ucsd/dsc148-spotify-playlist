@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:1bdnGJxkbIIys5Jhk1T74v">Brandon Lake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 981,928 likes - 100 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,065 likes - 100 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 31 | [Found](https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [SURVEY: Part 1](https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0) | 5:50 |
 | 32 | [The Jesus Way](https://open.spotify.com/track/3T7cxYf9tElo30T84xAuCG) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [The Jesus Way](https://open.spotify.com/album/544i9C0JjXdN3HmsYMcW1W) | 3:37 |
 | 33 | [Supernatural Love \- Live](https://open.spotify.com/track/1KrKAsdDbmvyBwqKST85hq) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Supernatural Love \(Live At Chapel\)](https://open.spotify.com/album/3orusb2lMoBTqquDcdSFzr) | 4:57 |
-| 34 | [Name Above All Names \- Single Version](https://open.spotify.com/track/0e3QRktKhq0glX1HT96NI4) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Name Above All Names](https://open.spotify.com/album/4pl2xLrgY9Zq8ukesuFli8) | 6:04 |
+| 34 | [Name Above All Names \- Live \- Single Version](https://open.spotify.com/track/0e3QRktKhq0glX1HT96NI4) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Name Above All Names](https://open.spotify.com/album/4pl2xLrgY9Zq8ukesuFli8) | 6:04 |
 | 35 | [Jesus, My Brother \- Live](https://open.spotify.com/track/4R8CKooOuClTgDj6G89EAL) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Jesus, My Brother + Like Jesus \(Live\)](https://open.spotify.com/album/6FF25x5ZScHJpGXQtHuANN) | 5:50 |
 | 36 | [Break The Bottle](https://open.spotify.com/track/2Vf59fzWMGDRtLwolStTGw) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Hidden Here](https://open.spotify.com/album/5Ux7nchzxdGHPkr10dk6AP) | 4:22 |
 | 37 | [Willing to Change](https://open.spotify.com/track/5K2MDi900QPy45ttSJwvJi) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [What Could We Become?](https://open.spotify.com/album/1MMXGg6FciHxwp6hXHdO3q) | 5:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [To Be Loved](https://open.spotify.com/track/4hCyhlDZteeEkLzllLq9ur) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [This Is My Local](https://open.spotify.com/album/6mwSaLjGyeZ8FQUXOpW590) | 4:39 |
 | 100 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 |
 
-Snapshot ID: `MCwxNDIwMjcyMzk2YzIzOGNmYTlkZjYyMDE1MTEwMzE5NjRmNDc5MmM2`
+Snapshot ID: `MCw1YWNhYTdhMWI2ZGNmMjBmODk4MzU4OGExZDQ2ZjMyYTVmOTBhNjNh`

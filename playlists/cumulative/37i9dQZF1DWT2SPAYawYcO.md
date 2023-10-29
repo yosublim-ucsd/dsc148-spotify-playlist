@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Angie McMahon
 
-1,855 songs - 4 day 4 hr 7 min
+1,856 songs - 4 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -917,7 +917,8 @@
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-17 | 2023-08-25 |
 | [Keep Rolling On](https://open.spotify.com/track/5zfrhORiDGhtslnlcsXJen) | [Yirrmal](https://open.spotify.com/artist/4rHLbr6edktdv6RnVrf0Y7) | [Keep Rolling On](https://open.spotify.com/album/0IEaG7cqZ9itaOYOwR7ZUi) | 3:54 | 2023-10-12 | 2023-10-20 |
 | [Kerosene](https://open.spotify.com/track/473stpf3TeF1UgotO30xZ1) | [Ben Hazlewood](https://open.spotify.com/artist/3DWjEOfsm596u6OdskLe4t) | [Kerosene](https://open.spotify.com/album/7qPavQUmQWp3Cah7RB4oAF) | 3:59 | 2023-09-28 | 2023-10-06 |
-| [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 | 2023-10-26 |  |
+| [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 | 2023-10-26 | 2023-10-29 |
+| [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS) | 2:22 | 2023-10-27 |  |
 | [Kia Kino Nei Hoki feat\. Te Kapa Haka o Te Whānau a Apanui](https://open.spotify.com/track/4XygxM1VnnkY8KwsAhq6hb) | [Rob Ruha](https://open.spotify.com/artist/1n1LwioOKovaGd1aqATZ6S), [Ria Hall](https://open.spotify.com/artist/52OzOVn0br6av6uBcn0yJ9), [Te Matatini](https://open.spotify.com/artist/0VmdsKXBJCrRyszIw40tv7), [Te Kapa Haka o Te Whānau a Apanui](https://open.spotify.com/artist/6WXYrdDJ3rkXphCvNUmCL4) | [Kia Kino Nei Hoki feat\. Te Kapa Haka o Te Whānau a Apanui](https://open.spotify.com/album/6y8QTivI3tR0To416d56Tg) | 2:36 | 2023-08-10 | 2023-08-18 |
 | [Kindness For Weakness](https://open.spotify.com/track/4uk6Z1QptY5BlYAyaDWkFF) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Kindness For Weakness](https://open.spotify.com/album/3h1Fq8QLU5fkTSW4ByWR0e) | 2:39 | 2023-08-24 | 2023-08-26 |
 | [Kindness For Weakness](https://open.spotify.com/track/4XDcZALxM9M91BiUeaWCdq) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Back To Square One](https://open.spotify.com/album/5ZNpiEEn5h8L40p99UZ9XI) | 2:40 | 2023-08-25 | 2023-09-01 |

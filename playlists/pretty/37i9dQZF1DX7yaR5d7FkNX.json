@@ -1,12 +1,12 @@
 {
   "description": "Disfrutemos del amor en los tiempos del rock.",
-  "num_followers": 122152,
+  "num_followers": 122250,
   "original_name": "Rocanlovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGFmOGJkYTQ3MjkzZmIzYjA2NWE0YjAyODA4ZGNjOThjZTkxMzJj",
+  "snapshot_id": "MCxjNzEzODAyMjYwYjhlNmI3YjZkMDc2OTA0MDUwYmYwYzAxNTA2YjM1",
   "tracks": [
     {
       "added_at": "2023-10-23 16:18:34",
@@ -43,6 +43,22 @@
       "duration_ms": 249508,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG"
+    },
+    {
+      "added_at": "2023-10-27 21:56:53",
+      "album": {
+        "name": "Respuesta Sensorial",
+        "url": "https://open.spotify.com/album/4pT7vS03zzAfG9gNQ4chNR"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "Respuesta Sensorial",
+      "url": "https://open.spotify.com/track/2A7JX4Cu4UtwCMazGBS2YN"
     },
     {
       "added_at": "2023-10-23 16:18:34",

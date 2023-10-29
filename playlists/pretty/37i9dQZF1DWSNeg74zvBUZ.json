@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 19199,
+  "num_followers": 19195,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ2YmIxYWVmNzBlMWZiYjFkNTFkOTdiMDcxNmE3MzFkYWExZmIw",
+  "snapshot_id": "MCw2NzU1MTU4NDJjOTBkNGVmNjUwODc3NjJiYzE5MzM4YWFkN2M2ZmY2",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -589,6 +589,22 @@
       "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
     },
     {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
+        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
+      },
+      "artists": [
+        {
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+        }
+      ],
+      "duration_ms": 437906,
+      "name": "A Sea Of Love",
+      "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
+    },
+    {
       "added_at": "2022-04-23 02:33:42",
       "album": {
         "name": "Rest Proof Clockwork",
@@ -607,22 +623,6 @@
       "duration_ms": 269240,
       "name": "Ralome",
       "url": "https://open.spotify.com/track/5CBtcSv8jmVWI9j37qCzZz"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
-        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
-      },
-      "artists": [
-        {
-          "name": "Huerco S.",
-          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
-        }
-      ],
-      "duration_ms": 437906,
-      "name": "A Sea Of Love",
-      "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
     },
     {
       "added_at": "2022-01-07 02:01:58",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
     },
     {
-      "added_at": "2022-02-18 05:44:17",
-      "album": {
-        "name": "acceptances",
-        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
-    },
-    {
       "added_at": "2021-09-10 04:35:25",
       "album": {
         "name": "Scacco Matto",
@@ -755,6 +739,22 @@
       "duration_ms": 299413,
       "name": "Canone Infinito",
       "url": "https://open.spotify.com/track/4rbLiyMabI4JhlLeXqb5ps"
+    },
+    {
+      "added_at": "2022-02-18 05:44:17",
+      "album": {
+        "name": "acceptances",
+        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
     },
     {
       "added_at": "2021-09-10 04:35:25",

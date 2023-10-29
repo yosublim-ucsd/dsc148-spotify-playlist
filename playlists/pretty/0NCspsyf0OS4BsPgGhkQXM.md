@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,047,128 likes - 138 songs - 7 hr 18 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,047,155 likes - 138 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 116 | [Past Lives](https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB) | [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Past Lives](https://open.spotify.com/album/4jNIqI2lx1BbXDoBzqjqqI) | 2:33 |
 | 117 | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y) | 4:14 |
 | 118 | [DEUS DA MORTE](https://open.spotify.com/track/61oL0lzGD0CkQ0o4S2ZqFc) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p) | [DEUS DA MORTE](https://open.spotify.com/album/4jGrg1HT6SMHZ7pJ1cNsHN) | 1:58 |
-| 119 | [BETTER OF ALONE](https://open.spotify.com/track/1xuA0Xfi6BVrTZDQnX8X4i) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [BETTER OF ALONE](https://open.spotify.com/album/3yRr0L3utmRicx3Yc9kCj7) | 2:40 |
+| 119 | [BETTER OFF ALONE](https://open.spotify.com/track/1xuA0Xfi6BVrTZDQnX8X4i) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [BETTER OFF ALONE](https://open.spotify.com/album/3yRr0L3utmRicx3Yc9kCj7) | 2:40 |
 | 120 | [CONTRA](https://open.spotify.com/track/273wKSAYqY6TGEjVN20veA) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [CONTRA](https://open.spotify.com/album/1oSex5b9aF5FOQtL8sjket) | 3:52 |
 | 121 | [WRAITHS](https://open.spotify.com/track/1UE4tesz9vNWaX5Y0NsmZY) | [sapphyre](https://open.spotify.com/artist/5nqa17OYrgbn9JX5ra4EgS) | [WRAITHS](https://open.spotify.com/album/3fqOT4Wm7yECHTzPEvKtN3) | 2:35 |
 | 122 | [The Homelander](https://open.spotify.com/track/6cvax9x0G13nHJTyMQ7tGf) | [Vinsmoker](https://open.spotify.com/artist/2huUeOXso2qC3L0JdJJz7u) | [The Homelander](https://open.spotify.com/album/6jYaEUUEI536ftnfo8pEcV) | 2:25 |

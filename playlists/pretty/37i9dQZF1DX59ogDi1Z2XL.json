@@ -1,12 +1,12 @@
 {
   "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Classified",
-  "num_followers": 167680,
+  "num_followers": 167701,
   "original_name": "Northern Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWJiYTNjZWZjYWU3YzRkYTgwZWM1YWQwYTQ3ZDU0OGVlYjNjMDFi",
+  "snapshot_id": "MCxkZWFmZjIxNjZjMDc0ZWNkNzViZGUwZjE0MWM4Njg5NmMyY2JkZWQ4",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -235,17 +235,21 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "ALA BEKE 2 (feat. ODUMODUBLVCK)",
+        "name": "ALA BEKE 2 (with ODUMODUBLVCK)",
         "url": "https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG"
       },
       "artists": [
         {
           "name": "EverythingOShauN",
           "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
       "duration_ms": 179571,
-      "name": "ALA BEKE 2 (feat. ODUMODUBLVCK)",
+      "name": "ALA BEKE 2 (with ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN"
     },
     {

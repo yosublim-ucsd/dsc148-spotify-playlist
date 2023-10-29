@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Yebba
 
-1,699 songs - 3 day 18 hr 24 min
+1,700 songs - 3 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,8 @@
 | [Damn](https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Damn](https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb) | 3:16 | 2023-04-21 | 2023-05-13 |
 | [Dance With Me](https://open.spotify.com/track/5TdzPzC6hlBT5cofaaqybi) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:20 | 2023-04-28 | 2023-07-01 |
 | [Dancing in My Room](https://open.spotify.com/track/3kRNoUvagaaJF1xCgdNRgH) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [KALENA](https://open.spotify.com/artist/2HMhMpGsN9POmGXvvN1WZB) | [Dancing in My Room](https://open.spotify.com/album/022Ax0SL7UAnIRSvyF220j) | 3:38 | 2023-07-14 | 2023-08-19 |
-| [Darkside](https://open.spotify.com/track/11DOcIM6IkO45qpyrdMJgc) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Darkside](https://open.spotify.com/album/2PFQU4eErXJ4ZEmusl8EgR) | 5:33 | 2023-10-20 |  |
+| [Darkside](https://open.spotify.com/track/11DOcIM6IkO45qpyrdMJgc) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Darkside](https://open.spotify.com/album/2PFQU4eErXJ4ZEmusl8EgR) | 5:33 | 2023-10-20 | 2023-10-29 |
+| [Darkside](https://open.spotify.com/track/4uxiBHb7nMuGMm0sKo1ImT) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Diamonds And Pearls \(Super Deluxe Edition\)](https://open.spotify.com/album/7yS8FoMCF2XSiJK2DWYYci) | 5:33 | 2023-10-20 |  |
 | [day 1](https://open.spotify.com/track/5gDbLqOku5V86tfcqi60nc) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [Sacred Timeline](https://open.spotify.com/album/5gNTY7xT6ALMhzEUChjZMi) | 4:00 | 2023-04-14 | 2023-06-03 |
 | [Day by Day \- A COLORS SHOW](https://open.spotify.com/track/0Da3eqAgSgLp4UiVdCjJJ1) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Day by Day \- A COLORS SHOW](https://open.spotify.com/album/7vggzM9Ag5clwyHjXuZU8F) | 3:50 | 2023-09-29 |  |
 | [DAY PARTY](https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [DAY PARTY](https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG) | 3:06 | 2022-07-29 | 2022-09-24 |

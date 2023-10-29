@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Mariah The Scientist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,785,507 likes - 155 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,785,565 likes - 155 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 154 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 |
 | 155 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 |
 
-Snapshot ID: `MCxjYjZhZmIwMWVmNjQwNTNlNDhlNDJhOGU4YmUzNDIzMjhjYzQ4Y2Yz`
+Snapshot ID: `MCwwMDBjMTNkZTI4MzU0MGNiYjBjNGRlODU2MTE1MDI4MjhjMzgwNjRj`

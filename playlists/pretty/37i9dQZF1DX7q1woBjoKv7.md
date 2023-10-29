@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
-> California music breaking waves\. Cover: <a href="spotify:artist:0ROLbpYHvwZWVbPBibRwPU">22nd Jim</a>
+> California music breaking waves\. Cover: <a href="spotify:artist:7MNEVabc4cs19CbzAFZmXz">Terrace Martin</a> and <a href="spotify:artist:7E2ioKxoxI2J94tUkIx6As">Alex Isley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,266 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,306 likes - 63 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 53 | [Rainy Days \(4th Day Out\)](https://open.spotify.com/track/57DY87VgxoufPzdkkOErmy) | [Bla$ta](https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ) | [No Hard Feelings](https://open.spotify.com/album/5M0pWgVLlyv1WJ18XPPFc2) | 2:46 |
 | 54 | [Smile](https://open.spotify.com/track/5fnOfJ4Gm43UQzYpfZuAaZ) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Smile](https://open.spotify.com/album/5rXfcrwzK7aozli0g8ARif) | 2:39 |
 | 55 | [A Good Thing](https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [A Good Thing](https://open.spotify.com/album/7FUZ0Z40BXZMDDSNMbpeYS) | 2:52 |
+| 56 | [IF I DIE RIGHT NOW](https://open.spotify.com/track/2rIHvbvMbiQ2pjotR2rZpX) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [IF I DIE RIGHT NOW](https://open.spotify.com/album/4cAgvy7ZjVP0SxreZZulHI) | 2:41 |
+| 57 | [Free My Mind](https://open.spotify.com/track/0hJFRBkbBS20cLnVnQZQuv) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Free My Mind](https://open.spotify.com/album/7tCumu7kRFLx7lF306jfCY) | 3:25 |
+| 58 | [Slow Dance](https://open.spotify.com/track/4UF8NXjwHZ3T44leDBv6TI) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Pursuit of, Love 2](https://open.spotify.com/album/4eIJU8DZtfNNcFnLUwXyiA) | 3:08 |
+| 59 | [Members](https://open.spotify.com/track/0IiALIfvQ2aPGUwAP3k2xw) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Members](https://open.spotify.com/album/3hrBASHtK7Mp4noIFer5Zy) | 1:20 |
+| 60 | [Rusty](https://open.spotify.com/track/06Lb3JRTvTGlfNzOLAKphA) | [Bla$ta](https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ), [Hombre](https://open.spotify.com/artist/4U8we6EBUUQLhGXdU7wdja) | [Be Extra Careful](https://open.spotify.com/album/1jCzbZ5jEBimyCpNfbRbXd) | 2:12 |
+| 61 | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/track/4V65HK1gzgBaUe3jd8Xi4n) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/album/5dv5FpqevYtHWfTHq7ZzXZ) | 2:27 |
+| 62 | [Gifted Creatures](https://open.spotify.com/track/01j6ga5rGndEldo5EY2llN) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [What You Don’t Get?!](https://open.spotify.com/album/21nWEdfRl0qTZOpaqy2GuK) | 3:07 |
+| 63 | [OKAY!](https://open.spotify.com/track/0VTBZdSjY7aG3T8i5bmitt) | [Joe Maynor](https://open.spotify.com/artist/1PCPY2XwqDjKWiPEUJuQYf), [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Party Pack Vol 1.](https://open.spotify.com/album/0UhOnOrEKvl9vvmtJ2Xoq4) | 3:08 |
 
-Snapshot ID: `MCwyZGJhYmRiZjQ4MzA4NGE2MjE4NDljYTBmZGUxMGRjZGU3MTllYWIz`
+Snapshot ID: `MCw5MGNmZjk0MTdhN2YzYTc4NWM4NDkyZTVkNzU3YWQyODY2YjFkNmUy`

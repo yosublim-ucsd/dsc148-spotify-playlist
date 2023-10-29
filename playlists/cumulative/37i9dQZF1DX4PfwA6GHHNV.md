@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-66 songs - 3 hr 10 min
+67 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Andarilho](https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH) | [Vírus](https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv) | [VxRxS](https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6) | 1:30 | 2023-09-15 |  |
 | [Anel da Pandora](https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU) | [GR€G MC](https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u), [ESCOB4R](https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy) | [Anel da Pandora](https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH) | 3:19 | 2023-09-15 |  |
 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 | 2023-09-15 |  |
+| [Aí é Bom Demais](https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0) | [Garius](https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Deagaene](https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq) | [Aí é Bom Demais](https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu) | 3:17 | 2023-10-27 |  |
 | [Cabeza](https://open.spotify.com/track/5y6IrzbBkHqV0E0Dzg2DkZ) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Cabeza](https://open.spotify.com/album/5OYa7DkVEnROKwcKybrBdl) | 2:49 | 2023-10-27 |  |
 | [Cancún](https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [FreezaMC](https://open.spotify.com/artist/6aiPY2UsxHJrLq0X1ruIiU) | [Cancún](https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD) | 2:22 | 2023-10-06 |  |
 | [Cartier](https://open.spotify.com/track/7xo06VspucSbdF1tkJjbGZ) | [Enzo Bala](https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Cartier](https://open.spotify.com/album/1hGai4xD4LU7HZzl51lpy6) | 2:33 | 2023-09-29 | 2023-10-28 |
@@ -69,7 +70,7 @@
 | [Só Minha](https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Só Minha](https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn) | 2:29 | 2023-09-15 |  |
 | [Te Vejo Mais Tarde](https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Éffe](https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW) | [Te Vejo Mais Tarde](https://open.spotify.com/album/5nqd1TC3Dyn6v5HE5FLwbv) | 1:54 | 2023-10-13 |  |
 | [Tipo a Barbie](https://open.spotify.com/track/2LZpNKfRN6mlC22NlqYJpw) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Chai](https://open.spotify.com/artist/0qmpXpjY0ofSr1J7H2G6a8), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Tipo a Barbie](https://open.spotify.com/album/3q5SsHGYSBjOSlIaw5vGWX) | 3:15 | 2023-09-15 | 2023-10-28 |
-| [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 | 2023-10-27 |  |
+| [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 | 2023-10-27 | 2023-10-29 |
 | [Vitória Brindar](https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Vitória Brindar](https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O) | 3:17 | 2023-10-27 |  |
 | [Xona](https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Xona](https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p) | 3:25 | 2023-09-15 |  |
 | [Yo Quiero Te Namorar](https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf) | [NegrãoDoCéu](https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [Yo Quiero Te Namorar](https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq) | 3:18 | 2023-09-15 |  |

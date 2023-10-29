@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Fridayy
 
-401 songs - 20 hr 33 min
+402 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [Keep it Playa](https://open.spotify.com/track/1JBjfBbl1WdRz01inOooWz) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Keep it Playa](https://open.spotify.com/album/3ZqYTwO4j03qVGpXEzv516) | 2:45 | 2022-11-11 | 2022-12-24 |
 | [Keeper](https://open.spotify.com/track/2DxrPZi0nxaIrGciFmErTW) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Keeper](https://open.spotify.com/album/2coZBB3PhjAsm1HMRucDwm) | 3:20 | 2022-05-06 | 2022-09-24 |
 | [Keeper \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5b2CRPYt0QNA0jaCJNIIdn) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [GEEZYWORLD](https://open.spotify.com/album/0kNhJM4dXKfsKbCERz7QBg) | 2:49 | 2021-09-03 | 2022-04-05 |
-| [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 | 2023-10-27 |  |
+| [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 | 2023-10-27 | 2023-10-29 |
+| [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS) | 2:22 | 2023-10-27 |  |
 | [Kissing On Your Tattoos](https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Kissing On Your Tattoos](https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN) | 2:33 | 2023-04-07 | 2023-10-14 |
 | [Kum Over](https://open.spotify.com/track/3bbNkq2ZGOnjstDrf0h40g) | [Major Nine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Kum Over](https://open.spotify.com/album/1awm8bqA1hZRcVO84eaW1h) | 3:02 | 2023-10-27 |  |
 | [L.O.L \(Count On You 2\)](https://open.spotify.com/track/68nLUA5otB6EMeAuaDbNxf) | [Neek Bucks](https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc), [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [L.O.L \(Count On You 2\)](https://open.spotify.com/album/1H0qyvLimOEuivrs0mFjIT) | 3:20 | 2023-04-07 | 2023-06-10 |

@@ -1182,10 +1182,32 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 139721,
       "name": "MEU PILOTO ELETROFUNK",
       "url": "https://open.spotify.com/track/4Ile5l3VkVVEuHjDNOMVER"
+    },
+    {
+      "album": {
+        "name": "SO ELETROFUNK BOM",
+        "url": "https://open.spotify.com/album/39enMTm7Wh89torkqpUNZY"
+      },
+      "artists": [
+        {
+          "name": "SO ELETROFUNK BOM",
+          "url": "https://open.spotify.com/artist/51YTokYMt4tkeMnHVeD2sf"
+        },
+        {
+          "name": "GABRIEL APGO",
+          "url": "https://open.spotify.com/artist/0vFr9eIywFwrm2UnYZO2QG"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139751,
+      "name": "MEU PILOTO ELETROFUNK",
+      "url": "https://open.spotify.com/track/4rAWBICfXpUpU5njMqYMAO"
     },
     {
       "album": {

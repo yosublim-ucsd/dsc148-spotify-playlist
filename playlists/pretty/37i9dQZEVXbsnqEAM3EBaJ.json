@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMDYyNjAsMDAwMDAwMDAzODIzMDlmNzAzYmRmNzFjYjkxMjJlNmE4YWZmZjYzZg==",
+  "snapshot_id": "MjgzMDYyNjAsMDAwMDAwMDBhN2Q5NWE3MWNiYjBhYjVhYmE3ZjU0YjVkYmZmM2U2OA==",
   "tracks": [
     {
       "added_at": "2023-10-27 03:00:00",
@@ -27,18 +27,18 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Live (Josh's Picks 2023)",
-        "url": "https://open.spotify.com/album/0v46llYGKWGYuwFcajKoYb"
+        "name": "In Utero (30th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/68uIz7DtgDoPUFTKxdzL9t"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 370107,
-      "name": "Seven O'clock",
-      "url": "https://open.spotify.com/track/4NGqlZCxg1woTyYU1iZAix"
+      "duration_ms": 247000,
+      "name": "Frances Farmer Will Have Her Revenge On Seattle - Live In Los Angeles, Great Western Forum - December 30, 1993",
+      "url": "https://open.spotify.com/track/1KxYekYpnaLDTMtqOv1xqx"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -111,70 +111,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Diamonds and Pearls (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2CnYN07kMv2DMP3cDjEjHK"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 332680,
-      "name": "Diamonds and Pearls (Long Version)",
-      "url": "https://open.spotify.com/track/1FgB9Iqyvi59tC0GNtQxGQ"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
-        }
-      ],
-      "duration_ms": 208821,
-      "name": "Lucero",
-      "url": "https://open.spotify.com/track/2VT5GfzNkU69TCNxpTvwXs"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Heart Like A Wheel",
-        "url": "https://open.spotify.com/album/4AiplURqVDpdAg8sWQiXNY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 270013,
-      "name": "A Doorway - Dub Mix",
-      "url": "https://open.spotify.com/track/3AY5AeJjkD04OrUlbtfqX8"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "152",
-        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 192813,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Nada Que O\u00edr",
         "url": "https://open.spotify.com/album/6rZQNUJuTQhhqgAa3oV3Qh"
       },
@@ -195,6 +131,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "New Gold Dream - Live From Paisley Abbey",
+        "url": "https://open.spotify.com/album/10qu2t6AjSGBN0vXSZ86hU"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Glittering Prize - Live From Paisley Abbey",
+      "url": "https://open.spotify.com/track/2yzyrPWGjrP5UNdbZPo3x9"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Live 1978 - 1992",
         "url": "https://open.spotify.com/album/5nnR9Is6buE9ntceg1whyP"
       },
@@ -207,6 +159,78 @@
       "duration_ms": 409000,
       "name": "I Think I Love You Too Much - Live Version / Mixed And Remastered 2023",
       "url": "https://open.spotify.com/track/1tAcyjUd44AAkajiuu7NUO"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Heart Like A Wheel",
+        "url": "https://open.spotify.com/album/4AiplURqVDpdAg8sWQiXNY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 270013,
+      "name": "A Doorway - Dub Mix",
+      "url": "https://open.spotify.com/track/3AY5AeJjkD04OrUlbtfqX8"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        }
+      ],
+      "duration_ms": 199158,
+      "name": "Reloj de Viento",
+      "url": "https://open.spotify.com/track/0cGG17lAn1vhWje5CbVbQ0"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 192813,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Real Love (Liva K Remix)",
+        "url": "https://open.spotify.com/album/3rmNlvswDE9CQIl3pElKXP"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        },
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 177577,
+      "name": "Real Love - Liva K Remix",
+      "url": "https://open.spotify.com/track/6OBEM2Laa2NNsuCaWd3YDv"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -236,41 +260,25 @@
           "url": "https://open.spotify.com/artist/358cR0CgJSkJSCbBDWTifa"
         }
       ],
-      "duration_ms": 139466,
-      "name": "The Nutcracker Suite: II. Toot Toot Tootie Toot (Dance of the Reed-Pipes)",
-      "url": "https://open.spotify.com/track/1S1Vh3Ti0L0xsQ8dqrQ4kj"
+      "duration_ms": 175546,
+      "name": "The Nutcracker Suite: IV. Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
+      "url": "https://open.spotify.com/track/4O7Z4EpCzkboRQ5R1Z4t4L"
     },
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "New Gold Dream - Live From Paisley Abbey",
-        "url": "https://open.spotify.com/album/10qu2t6AjSGBN0vXSZ86hU"
+        "name": "Diamonds and Pearls (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2CnYN07kMv2DMP3cDjEjHK"
       },
       "artists": [
         {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 255866,
-      "name": "Glittering Prize - Live From Paisley Abbey",
-      "url": "https://open.spotify.com/track/2yzyrPWGjrP5UNdbZPo3x9"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "In Utero 30th Live",
-        "url": "https://open.spotify.com/album/59l8Nwhl8l7mmxiVv9Bzbk"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 233890,
-      "name": "Frances Farmer Will Have Her Revenge On Seattle - Live In Seattle, Seattle Center Arena - January 7, 1994",
-      "url": "https://open.spotify.com/track/3N8SPI3gLlikVYJL1d7Xpn"
+      "duration_ms": 332680,
+      "name": "Diamonds and Pearls (Long Version)",
+      "url": "https://open.spotify.com/track/1FgB9Iqyvi59tC0GNtQxGQ"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -563,30 +571,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Real Love (Liva K Remix)",
-        "url": "https://open.spotify.com/album/3joNpvmZheGoKgbIiQL1kd"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        },
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 177577,
-      "name": "Real Love - Liva K Remix",
-      "url": "https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Live in Switzerland (Remastered 2023)",
+        "url": "https://open.spotify.com/album/1DLdNlZoXWPL3ooXijwcEI"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "Farm On The Freeway - Live - Remastered 2023",
+      "url": "https://open.spotify.com/track/7Iq3UghudyQNWGbJ8mg7cG"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Iconic (feat. Jax)",
         "url": "https://open.spotify.com/album/4GgLfWDhquj9jKv7Fiwt8d"
       },
@@ -823,8 +823,8 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
+        "name": "Naughty Girl",
+        "url": "https://open.spotify.com/album/7bhmi0fi3gB7PXRKfeE4jQ"
       },
       "artists": [
         {
@@ -838,7 +838,7 @@
       ],
       "duration_ms": 176529,
       "name": "Naughty Girl",
-      "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
+      "url": "https://open.spotify.com/track/6N1T8r7vpVoxUIwdMCihKr"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Z0mbie",
-        "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 191470,
-      "name": "Z0mbie",
-      "url": "https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "We Love You Moar (feat. Pussy Riot)",
         "url": "https://open.spotify.com/album/2Fjz2tjt6Hwsbjlio7n9vB"
       },
@@ -939,22 +923,6 @@
       "duration_ms": 187706,
       "name": "Widow",
       "url": "https://open.spotify.com/track/1uXAHCCoenBSWINkLfa0tU"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "I'm On The Lamb But I Ain't No Sheep (Live)",
-        "url": "https://open.spotify.com/album/4GrEbPIoWJVmKb8BBjHNH3"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "I'm On The Lamb But I Ain't No Sheep - Live",
-      "url": "https://open.spotify.com/track/2n31ApOKHdhiqZkT7iK0sd"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1007,38 +975,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "(i)",
-        "url": "https://open.spotify.com/album/3raVH1dBBNAguI8WqQE0vn"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 183404,
-      "name": "(i)",
-      "url": "https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "I've Seen All Good People: Your Move / All Good People (Early Take) [2023 Remaster]",
-        "url": "https://open.spotify.com/album/0cnJiazhNlQWgP9fuUITwP"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "I've Seen All Good People: Your Move / All Good People (Early Take) - 2023 Remaster",
-      "url": "https://open.spotify.com/track/2VXqRP3kCtw3yGentTz16W"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
       },
@@ -1051,6 +987,22 @@
       "duration_ms": 214000,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Yessingles",
+        "url": "https://open.spotify.com/album/7BCKqUPSw6Y3Ih5Pk7otGY"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 178053,
+      "name": "Your Move",
+      "url": "https://open.spotify.com/track/7zgAvKRTfhUMHCv2s5Dgf5"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1131,8 +1083,8 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Call Your Name (Andromedik Remix)",
-        "url": "https://open.spotify.com/album/3TIjAIFSHDzJMBSSCtGtmc"
+        "name": "Call Your Name (Remixes)",
+        "url": "https://open.spotify.com/album/01hRhyAiNnaz2SeosAXPIo"
       },
       "artists": [
         {
@@ -1150,59 +1102,7 @@
       ],
       "duration_ms": 160500,
       "name": "Call Your Name - Andromedik Remix",
-      "url": "https://open.spotify.com/track/2ktvmX53byZmws2q2qMRiI"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "1982 (Remix)",
-        "url": "https://open.spotify.com/album/5ZoZ6gKFGJ8E4oiU7fMfMR"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "1982 - Remix",
-      "url": "https://open.spotify.com/track/0EG54WPNcosMeybB8AdgOP"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "R\u00f6kFl\u00f6te (Alternative Mixes)",
-        "url": "https://open.spotify.com/album/3uXkihtnfUMEe8zsP2RpFU"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 298184,
-      "name": "Wolf Unchained - Alternative Mix",
-      "url": "https://open.spotify.com/track/79ZzFRDXRNaOL3qGn7pffa"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Addicted to Romance (from the film 'She Came to Me')",
-        "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        },
-        {
-          "name": "Patti Scialfa",
-          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "Addicted to Romance - from the film 'She Came to Me'",
-      "url": "https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1"
+      "url": "https://open.spotify.com/track/2ZKB2c2R5pWjRJoRbpL0mR"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

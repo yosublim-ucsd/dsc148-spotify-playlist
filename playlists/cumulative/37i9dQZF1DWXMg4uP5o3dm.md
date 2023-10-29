@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: Layto
 
-273 songs - 14 hr 18 min
+274 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 | 2021-08-20 | 2022-03-16 |
 | [Same](https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Same](https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe) | 3:15 | 2022-10-14 | 2023-07-01 |
 | [save urself \(runaway\)](https://open.spotify.com/track/4wOr5PIiM64Q7UCzXmISIX) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [save urself \(runaway\)](https://open.spotify.com/album/6pCIJ9SOQndRMZK403UF7v) | 3:00 | 2023-04-09 | 2023-06-10 |
-| [save urself \(runaway\)](https://open.spotify.com/track/6kp4MJpgNmvCvVP9Xf49ks) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [alternative psycho](https://open.spotify.com/album/1LUMTlxPD1KLpwVx4VDIcE) | 3:00 | 2023-06-09 |  |
+| [save urself \(runaway\)](https://open.spotify.com/track/5CtZQtRHLuHKkzMqsm0Tva) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [alternative psycho \(deluxe\)](https://open.spotify.com/album/1OxbOHfmwNB0oG1UycR5pS) | 3:00 | 2023-08-18 |  |
+| [save urself \(runaway\)](https://open.spotify.com/track/6kp4MJpgNmvCvVP9Xf49ks) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [alternative psycho](https://open.spotify.com/album/1LUMTlxPD1KLpwVx4VDIcE) | 3:00 | 2023-06-09 | 2023-10-29 |
 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 | 2021-01-29 |  |
 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 | 2023-07-27 |  |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-30 |  |

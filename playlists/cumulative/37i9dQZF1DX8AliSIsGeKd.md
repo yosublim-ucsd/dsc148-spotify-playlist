@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Enrico Sangiuliano
 
-2,667 songs - 9 day 21 hr 15 min
+2,668 songs - 9 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,7 +808,8 @@
 | [Fear](https://open.spotify.com/track/0JqMQDPOIHFNVTmk8I0H5g) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4), [Mark Michael](https://open.spotify.com/artist/4h5c1OI66KXOmOODqS62GI) | [Fear](https://open.spotify.com/album/15qZw55ojhGLj9qpwcoKYw) | 6:45 | 2023-03-02 | 2023-03-25 |
 | [Feel Alive](https://open.spotify.com/track/3b75Wk93wgtgZZhHJdGWAo) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Feel Alive](https://open.spotify.com/album/6LkxJHTuWFCOJzrPjYi5pE) | 4:31 | 2023-02-23 | 2023-03-10 |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-06-01 | 2023-06-23 |
-| [Feel It](https://open.spotify.com/track/23QkQaKEEh9ChJlCsp3SlI) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [DreamySpaceyBlue](https://open.spotify.com/album/7xhrvTZvmHTH0IPlSULua6) | 5:55 | 2023-10-20 |  |
+| [Feel It](https://open.spotify.com/track/23QkQaKEEh9ChJlCsp3SlI) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [DreamySpaceyBlue](https://open.spotify.com/album/7xhrvTZvmHTH0IPlSULua6) | 5:55 | 2023-10-20 | 2023-10-29 |
+| [Feel It](https://open.spotify.com/track/7MM6O0fZQbGrUvAa3gEftD) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [DreamySpaceyBlue](https://open.spotify.com/album/04dTBVDqxwHiYWMskDHQIc) | 5:55 | 2023-10-26 |  |
 | [Feel It](https://open.spotify.com/track/1e07fzEwRyqvI2tzY1e0t5) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Feel It](https://open.spotify.com/album/72kGrsrgLwBxLxKzdi2Qgx) | 5:26 | 2022-06-02 | 2022-06-24 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-07 | 2023-07-28 |
 | [Feel You \(Beside Me\)](https://open.spotify.com/track/21Ileqj8qYQIWx9CpCUjAo) | [LUPA](https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo) | [Feel You \(Beside Me\)](https://open.spotify.com/album/1GHakCrnmswgxWtnNU2Iel) | 5:29 | 2022-10-06 | 2022-10-13 |

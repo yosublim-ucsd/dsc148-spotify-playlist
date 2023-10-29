@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 93162,
+  "num_followers": 93259,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-10-23 04:31:48",
       "album": {
+        "name": "\u6211\u6703\u5f88\u611b\u4f60",
+        "url": "https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "duration_ms": 215978,
+      "name": "\u6211\u6703\u5f88\u611b\u4f60",
+      "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
+    },
+    {
+      "added_at": "2023-10-23 04:31:48",
+      "album": {
         "name": "Fall in Love",
         "url": "https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7"
       },
@@ -435,38 +451,6 @@
     {
       "added_at": "2023-10-23 04:31:48",
       "album": {
-        "name": "\u6211\u6703\u5f88\u611b\u4f60",
-        "url": "https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx"
-      },
-      "artists": [
-        {
-          "name": "\u67cf\u9716PoLin",
-          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
-        }
-      ],
-      "duration_ms": 215978,
-      "name": "\u6211\u6703\u5f88\u611b\u4f60",
-      "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
-    },
-    {
-      "added_at": "2023-10-23 04:31:48",
-      "album": {
-        "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
-        "url": "https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz"
-      },
-      "artists": [
-        {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
-        }
-      ],
-      "duration_ms": 221443,
-      "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
-      "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
-    },
-    {
-      "added_at": "2023-10-23 04:31:48",
-      "album": {
         "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
         "url": "https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 245160,
       "name": "\u9ecf\u9ecf (feat. \u8a31\u744b\u752f)",
       "url": "https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL"
+    },
+    {
+      "added_at": "2023-10-23 04:31:48",
+      "album": {
+        "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
+        "url": "https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz"
+      },
+      "artists": [
+        {
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+        }
+      ],
+      "duration_ms": 221443,
+      "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
+      "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
     },
     {
       "added_at": "2023-10-23 04:31:48",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-10-23 04:31:48",
       "album": {
-        "name": "Till We Fall in Love",
-        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 240283,
-      "name": "Till We Fall in Love",
-      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
-    },
-    {
-      "added_at": "2023-10-23 04:31:48",
-      "album": {
         "name": "\u547d\u4e2d\u6ce8\u5b9a\u6211\u611b\u4f60 (\u96fb\u8996\u539f\u8072\u5e36)",
         "url": "https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 255097,
       "name": "\u5fc3\u9858\u4fbf\u5229\u8cbc",
       "url": "https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv"
+    },
+    {
+      "added_at": "2023-10-23 04:31:48",
+      "album": {
+        "name": "Till We Fall in Love",
+        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 240283,
+      "name": "Till We Fall in Love",
+      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
     },
     {
       "added_at": "2023-10-23 04:31:48",
@@ -943,6 +943,22 @@
       "duration_ms": 182400,
       "name": "\u5de6\u8fb9",
       "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
+    },
+    {
+      "added_at": "2023-10-23 04:31:48",
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
+          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
+        }
+      ],
+      "duration_ms": 206669,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
     },
     {
       "added_at": "2023-10-23 04:31:48",
@@ -1043,38 +1059,6 @@
     {
       "added_at": "2023-10-23 04:31:48",
       "album": {
-        "name": "\u5728\u6211\u5011\u7684\u661f\u7403\u773c\u6dda\u4e0d\u8d85\u904e\u4e09\u79d2",
-        "url": "https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l"
-      },
-      "artists": [
-        {
-          "name": "\u9127\u798f\u5982 AF\u00dc",
-          "url": "https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "\u5728\u6211\u5011\u7684\u661f\u7403\u773c\u6dda\u4e0d\u8d85\u904e\u4e09\u79d2",
-      "url": "https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy"
-    },
-    {
-      "added_at": "2023-10-23 04:31:48",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
-      },
-      "artists": [
-        {
-          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
-          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
-        }
-      ],
-      "duration_ms": 206669,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
-    },
-    {
-      "added_at": "2023-10-23 04:31:48",
-      "album": {
         "name": "\u6211\u7684\u9ea5\u514b\u98a8",
         "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 241213,
       "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
       "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
+    },
+    {
+      "added_at": "2023-10-23 04:31:48",
+      "album": {
+        "name": "\u5728\u6211\u5011\u7684\u661f\u7403\u773c\u6dda\u4e0d\u8d85\u904e\u4e09\u79d2",
+        "url": "https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l"
+      },
+      "artists": [
+        {
+          "name": "\u9127\u798f\u5982 AF\u00dc",
+          "url": "https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "\u5728\u6211\u5011\u7684\u661f\u7403\u773c\u6dda\u4e0d\u8d85\u904e\u4e09\u79d2",
+      "url": "https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy"
     },
     {
       "added_at": "2023-10-23 04:31:48",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-10-23 04:31:48",
       "album": {
+        "name": "Gentle Bones",
+        "url": "https://open.spotify.com/album/1y2ye5sTKykfcAwRNPAmHC"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "Tay Kewei",
+          "url": "https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "\u4f60\u9084\u4e0d\u77e5\u9053?",
+      "url": "https://open.spotify.com/track/1JEieh4dFgrZSz0XWPv3n3"
+    },
+    {
+      "added_at": "2023-10-23 04:31:48",
+      "album": {
         "name": "\u5fc3\u8df3\u7684\u8bc1\u660e",
         "url": "https://open.spotify.com/album/6dejStq75Dg4p2u1LCQA7o"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 228965,
       "name": "\u5fc3\u8df3\u7684\u8bc1\u660e",
       "url": "https://open.spotify.com/track/6bw3pxp4Pb5LYdRhpVKp6g"
-    },
-    {
-      "added_at": "2023-10-23 04:31:48",
-      "album": {
-        "name": "\u53d6\u6696 (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u53ea\u6b64\u4e00\u5bb6\u300b\u4e3b\u9898\u66f2)",
-        "url": "https://open.spotify.com/album/7Ho01QKUccrusKrE4hXGLk"
-      },
-      "artists": [
-        {
-          "name": "Tay Kewei",
-          "url": "https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2"
-        },
-        {
-          "name": "Alfred Sim",
-          "url": "https://open.spotify.com/artist/3epKmTu8QPqArqY6gEVfyS"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "\u53d6\u6696 (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u53ea\u6b64\u4e00\u5bb6\u300b\u4e3b\u9898\u66f2)",
-      "url": "https://open.spotify.com/track/6uC4jSmhIlbfVoc0ximADq"
     },
     {
       "added_at": "2023-10-23 04:31:48",
@@ -1219,22 +1219,22 @@
     {
       "added_at": "2023-10-23 04:31:48",
       "album": {
-        "name": "\u76f4\u7403\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO"
+        "name": "\u53d6\u6696 (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u53ea\u6b64\u4e00\u5bb6\u300b\u4e3b\u9898\u66f2)",
+        "url": "https://open.spotify.com/album/7Ho01QKUccrusKrE4hXGLk"
       },
       "artists": [
         {
-          "name": "Evan Yo",
-          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
+          "name": "Tay Kewei",
+          "url": "https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2"
         },
         {
-          "name": "K.A\u5494\u5494",
-          "url": "https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL"
+          "name": "Alfred Sim",
+          "url": "https://open.spotify.com/artist/3epKmTu8QPqArqY6gEVfyS"
         }
       ],
-      "duration_ms": 226666,
-      "name": "\u76f4\u7403\u6d6a\u6f2b",
-      "url": "https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz"
+      "duration_ms": 226000,
+      "name": "\u53d6\u6696 (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u53ea\u6b64\u4e00\u5bb6\u300b\u4e3b\u9898\u66f2)",
+      "url": "https://open.spotify.com/track/6uC4jSmhIlbfVoc0ximADq"
     },
     {
       "added_at": "2023-10-23 04:31:48",
@@ -1255,22 +1255,22 @@
     {
       "added_at": "2023-10-23 04:31:48",
       "album": {
-        "name": "Gentle Bones",
-        "url": "https://open.spotify.com/album/1y2ye5sTKykfcAwRNPAmHC"
+        "name": "\u76f4\u7403\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "Evan Yo",
+          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
         },
         {
-          "name": "Tay Kewei",
-          "url": "https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2"
+          "name": "K.A\u5494\u5494",
+          "url": "https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL"
         }
       ],
-      "duration_ms": 191365,
-      "name": "\u4f60\u9084\u4e0d\u77e5\u9053?",
-      "url": "https://open.spotify.com/track/1JEieh4dFgrZSz0XWPv3n3"
+      "duration_ms": 226666,
+      "name": "\u76f4\u7403\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz"
     },
     {
       "added_at": "2023-10-23 04:31:48",

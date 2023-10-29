@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 619762,
+  "num_followers": 619817,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDcyNjJjOGVmMjhhMmU1ZTA3NmM3MWQ0MWI5NDc5MWEzMzI1YWM5",
+  "snapshot_id": "MCxiZjVhNzk5NWRiODIwYjA5MWU3NzI1MWZlNWQ1YmJjYzBlNDIzMjBh",
   "tracks": [
     {
       "added_at": "2023-10-11 12:51:15",
@@ -51,22 +51,6 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 172208,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/063ltSmgXNffmgYxippeke"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
         "name": "Ich (Premium Edition)",
         "url": "https://open.spotify.com/album/1pq1kLABw0A1UCLmfhYfZr"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 204213,
       "name": "Schlechtes Vorbild",
       "url": "https://open.spotify.com/track/2L2NmbpVp1dHotlpVJ4zr8"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 172208,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/063ltSmgXNffmgYxippeke"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -167,18 +167,18 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Casia Deluxe",
-        "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
+        "name": "Ich & meine Maske (Premium Version)",
+        "url": "https://open.spotify.com/album/0fQtAAJlHLf5DQZJBVRt7t"
       },
       "artists": [
         {
-          "name": "Miami Yacine",
-          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 201979,
-      "name": "Kokaina",
-      "url": "https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu"
+      "duration_ms": 230906,
+      "name": "Augen auf",
+      "url": "https://open.spotify.com/track/3nAJAotlLWvmSWHQ05D2ma"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
+        "name": "Casia Deluxe",
+        "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
+      },
+      "artists": [
+        {
+          "name": "Miami Yacine",
+          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "Kokaina",
+      "url": "https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
         "name": "Am Wasser gebaut",
         "url": "https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 241666,
       "name": "An Tagen wie diesen",
       "url": "https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "Ich & meine Maske (Premium Version)",
-        "url": "https://open.spotify.com/album/0fQtAAJlHLf5DQZJBVRt7t"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Augen auf",
-      "url": "https://open.spotify.com/track/3nAJAotlLWvmSWHQ05D2ma"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -363,6 +347,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
         "name": "Urlaub f\u00fcrs Gehirn",
         "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
       },
@@ -375,6 +375,26 @@
       "duration_ms": 241973,
       "name": "Urlaub f\u00fcrs Gehirn",
       "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "CLA$$IC",
+        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "CLA$$IC",
+      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -399,22 +419,18 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "CLA$$IC",
-        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
       "artists": [
         {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
         }
       ],
-      "duration_ms": 226186,
-      "name": "CLA$$IC",
-      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -447,38 +463,6 @@
       "duration_ms": 215933,
       "name": "Mit freundlichen Gr\u00fc\u00dfen",
       "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "Demotape",
-        "url": "https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Schwule M\u00e4dchen",
-      "url": "https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -523,6 +507,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
+        "name": "Demotape",
+        "url": "https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Schwule M\u00e4dchen",
+      "url": "https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
         "name": "Hahnenkampf",
         "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 301173,
       "name": "Walpurgisnacht",
       "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "Viel - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
-      },
-      "artists": [
-        {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -611,6 +595,22 @@
       "duration_ms": 242813,
       "name": "Prison Break Anthem (Ich glaub an Dich) - Single Version",
       "url": "https://open.spotify.com/track/1mC06CRaWGhsWhdX99GJqL"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "Viel - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
+        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 601000,
+      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
         "name": "Bambule",
         "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 274640,
       "name": "F\u00fcchse",
       "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 601000,
-      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -787,18 +787,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Bossaura",
-        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU"
       },
       "artists": [
         {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+          "name": "AZAD",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        },
+        {
+          "name": "Cassandra Steen",
+          "url": "https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr"
         }
       ],
-      "duration_ms": 364720,
-      "name": "Bossaura",
-      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
+      "duration_ms": 221346,
+      "name": "Eines Tages (feat. Cassandra Steen) - Single Edit",
+      "url": "https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -819,22 +823,18 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU"
+        "name": "Bossaura",
+        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
       },
       "artists": [
         {
-          "name": "AZAD",
-          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
-        },
-        {
-          "name": "Cassandra Steen",
-          "url": "https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr"
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
         }
       ],
-      "duration_ms": 221346,
-      "name": "Eines Tages (feat. Cassandra Steen) - Single Edit",
-      "url": "https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU"
+      "duration_ms": 364720,
+      "name": "Bossaura",
+      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -895,18 +895,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+        "name": "Esperanto",
+        "url": "https://open.spotify.com/album/7vtEIlxot9pmKtv3KmSmTT"
       },
       "artists": [
         {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+          "name": "Freundeskreis",
+          "url": "https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk"
+        },
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Liebes Lied",
-      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
+      "duration_ms": 278960,
+      "name": "Mit dir (feat. Joy Denalane)",
+      "url": "https://open.spotify.com/track/5EX0HiIyvhavnpjgbwDCeL"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

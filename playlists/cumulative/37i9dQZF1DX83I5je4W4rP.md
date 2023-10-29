@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-262 songs - 15 hr 48 min
+263 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Everyone Need Love \(with Surfer Girl\)](https://open.spotify.com/track/3QO9GEmkPeqdRMh0Tdf95Q) | [Coyote Island](https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz), [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Everyone Need Love \(with Surfer Girl\)](https://open.spotify.com/album/3jNCx0r3O3vZpAggBtM4Ew) | 3:23 | 2023-04-17 | 2023-09-14 |
 | [Fade Away](https://open.spotify.com/track/6dawVZplfCunQlfVHYCgKa) | [Arise Roots](https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH) | [Fade Away](https://open.spotify.com/album/7jYy1Ueym5wdvKx6BLAjEx) | 4:59 | 2021-12-10 | 2022-07-29 |
 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 | 2022-02-04 |  |
-| [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 | 2022-06-14 |  |
+| [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 | 2022-06-14 | 2023-10-29 |
 | [Fantasy](https://open.spotify.com/track/6SuGGyzKWlmyLwXIYZA6ov) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Summer Mixtape](https://open.spotify.com/album/6O4uH6QxqSUfIgYsXB4cMa) | 3:19 | 2023-05-19 | 2023-08-12 |
 | [Fear](https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Fear](https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7) | 3:36 | 2021-12-10 | 2022-07-26 |
 | [Feels Like Home \(with Shwayze\)](https://open.spotify.com/track/54yeE5wI4gQwB1974fmMLV) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [Feels Like Home \(with Shwayze\)](https://open.spotify.com/album/1EupTp6D2JbgUgfM8bQ3S9) | 3:11 | 2021-12-10 | 2022-07-29 |
@@ -147,6 +147,7 @@
 | [Lockdown \(feat\. Matisyahu\)](https://open.spotify.com/track/1g8KwMEiDTnOUBSvNPIM3W) | [Cydeways](https://open.spotify.com/artist/398HIuiMcfxwWLwAUD5Z2G), [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Lockdown \(feat\. Matisyahu\)](https://open.spotify.com/album/2NwQSN5aI6HKFcJqnHP68u) | 3:36 | 2023-07-28 | 2023-08-22 |
 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 | 2022-07-06 |  |
 | [Love I](https://open.spotify.com/track/4H1aZMAqnzICsnFVDf6Lxc) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 3:38 | 2022-07-06 |  |
+| [Love Letter](https://open.spotify.com/track/6LrurNYfLGOgS88xzRBMn8) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/68xQqTEHLKaq5omYS3orsO) | 3:33 | 2023-07-28 |  |
 | [Love Letter](https://open.spotify.com/track/0xtvV6h7qWiTjab9GIoWkZ) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/2ICxzn5rJTw7k0R2JgitSX) | 3:33 | 2022-07-06 | 2022-11-11 |
 | [Love Letter](https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt) | 3:33 | 2022-09-30 | 2023-10-22 |
 | [M.I.A](https://open.spotify.com/track/53Jobh2cnmyBSTt70CeHJE) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [M.I.A](https://open.spotify.com/album/1XdrsXPczOTy6DT8LHloYT) | 3:11 | 2023-05-05 | 2023-09-25 |

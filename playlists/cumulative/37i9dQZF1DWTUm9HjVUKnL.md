@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,108 songs - 2 day 19 hr 36 min
+1,110 songs - 2 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,7 +504,8 @@
 | [IN THE END – Spotify Singles](https://open.spotify.com/track/43EOHZN9EnvsYuBIOj1T38) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [IN THE END – Spotify Singles](https://open.spotify.com/album/3ApfbSxxo8U8VGKQa0zVKi) | 3:33 | 2022-01-19 |  |
 | [In The Garden \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4wEL6ZCwfaYdmeKR14MJVa) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Spotify Singles](https://open.spotify.com/album/0A5p1Mwf2dK9MAG804kNcg) | 4:57 | 2022-01-19 |  |
 | [In The Name Of Love \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 3:25 | 2022-01-19 |  |
-| [Ingen som jag \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/track/1zoCwUV885aWuq3APJICUK) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/album/5oUkd4bOmKOmH6Hkr0FoUq) | 2:59 | 2022-01-19 |  |
+| [Ingen som jag \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/track/1zoCwUV885aWuq3APJICUK) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/album/5oUkd4bOmKOmH6Hkr0FoUq) | 2:59 | 2022-01-19 | 2023-10-29 |
+| [Ingen som jag \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1B74XlQ7AIxiqZhW6yonuq) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles](https://open.spotify.com/album/12iQwJ58c5QSY1WuGU2JeK) | 3:00 | 2023-10-02 |  |
 | [Irony \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1ywnaTYLV3HRmF5PHhfgig) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Spotify Singles](https://open.spotify.com/album/1qDcShgiXVQuYfaauFlTCf) | 3:49 | 2022-01-19 |  |
 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2022-01-19 |  |
 | [it rains all day \- Spotify Singles](https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 3:14 | 2022-05-04 |  |
@@ -539,7 +540,8 @@
 | [Knights Of Cydonia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MMhtroreghawB4y14vaUP) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 4:37 | 2022-01-19 |  |
 | [Kool \- Spotify Singles](https://open.spotify.com/track/1E3KNG9OY7KhW5LbQ5sqwe) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 2:30 | 2023-06-14 |  |
 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 | 2022-01-19 |  |
-| [Kär i din kärlek \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/track/0jy5qTrMlMXXZEx9MLiETy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/album/5oUkd4bOmKOmH6Hkr0FoUq) | 3:23 | 2022-01-19 |  |
+| [Kär i din kärlek \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/track/0jy5qTrMlMXXZEx9MLiETy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/album/5oUkd4bOmKOmH6Hkr0FoUq) | 3:23 | 2022-01-19 | 2023-10-29 |
+| [Kär i din kärlek \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5an6BWQDhw4FnjZhdyOFuL) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles](https://open.spotify.com/album/12iQwJ58c5QSY1WuGU2JeK) | 3:24 | 2023-10-02 |  |
 | [L'amour \- Spotify Singles](https://open.spotify.com/track/4nL8XR8Q353qWRfa23Aqqw) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Spotify Singles](https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV) | 2:19 | 2023-06-14 |  |
 | [L\-O\-V\-E \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pSEkzXw62oVGkhqAwLe1u) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 2:51 | 2022-01-19 |  |
 | [La Carretera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Spotify Singles](https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8) | 4:15 | 2022-01-19 |  |

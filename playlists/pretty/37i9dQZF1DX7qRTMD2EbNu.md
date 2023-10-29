@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=OM3vTCGWTP\-CdTqJ2D1Ing"> Reggie</a> and  <a href="https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac?si=oWJSpy8iSBmwCO8jeie\_tw"> Kofi Mole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,771 likes - 69 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,818 likes - 69 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

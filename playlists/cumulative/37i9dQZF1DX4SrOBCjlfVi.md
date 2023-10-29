@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Kodak Black, NLE Choppa and more\. Cover: 42 Dugg
 
-3,862 songs - 7 day 12 hr 25 min
+3,863 songs - 7 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1816,7 +1816,8 @@
 | [Key To My Heart](https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Key To My Heart](https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl) | 2:34 | 2022-08-26 | 2022-09-03 |
 | [Khabib](https://open.spotify.com/track/194U52vElkbmFe8QTefrgw) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Khabib](https://open.spotify.com/album/3v6aq6iIqFXgAubGncj9Ce) | 3:21 | 2022-02-11 | 2022-02-19 |
 | [KHALIFA MODE](https://open.spotify.com/track/75PjKUc41qv11DTQK9Zd04) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [KHALIFA MODE](https://open.spotify.com/album/0i5HsCJw4ZPoxIVBPSGH8Z) | 3:07 | 2023-02-10 | 2023-02-18 |
-| [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 | 2023-10-27 |  |
+| [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 | 2023-10-27 | 2023-10-29 |
+| [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum](https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS) | 2:22 | 2023-10-27 |  |
 | [Kick](https://open.spotify.com/track/6Xyzupf6YI01RKIbKOUjLH) | [Lil Joc](https://open.spotify.com/artist/1ZjFjZcPidokRavUYyltIo), [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Top Kill](https://open.spotify.com/album/1LjdNfM1WeJ0D89udxYoLY) | 2:40 | 2023-09-29 | 2023-10-07 |
 | [Kick Doe Freestyle](https://open.spotify.com/track/5kwE511DgVpfISjZwEXtEU) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [Since Y'all Forgot](https://open.spotify.com/album/1L4pGtxe0WwRca5z09AFeH) | 2:44 | 2022-04-29 | 2022-05-07 |
 | [KICK DOOR](https://open.spotify.com/track/3hrNmOrVieY0t27DijFfYH) | [SwaVay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:22 | 2022-10-21 | 2022-10-29 |
@@ -3652,7 +3653,7 @@
 | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/track/1wea451SlpJfqRy4YVK867) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j) | 2:58 | 2023-01-13 | 2023-01-28 |
 | [Wake Up \(ft\. Lil Gnar, Matt Ox\)](https://open.spotify.com/track/0p4YrEwzObk1Pc3CLJYFj3) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Matt Ox](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [Wake Up \(ft\. Lil Gnar, Matt Ox\)](https://open.spotify.com/album/3RM7ovUhn2hNLuS9fgso9d) | 3:22 | 2023-03-10 | 2023-03-18 |
 | [Waldo](https://open.spotify.com/track/1c5hXcLYRcoceFi4zDQqV4) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [Waldo](https://open.spotify.com/album/2emwLEOENheaMwZnXvItID) | 2:28 | 2022-01-21 | 2022-02-05 |
-| [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 | 2023-10-27 |  |
+| [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 | 2023-10-27 |  |
 | [Walk](https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:46 | 2022-09-16 | 2022-10-01 |
 | [Walk \(feat\. tana\)](https://open.spotify.com/track/2wLn6o4oL47KK2xRAfJb6P) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [Walk \(feat\. tana\)](https://open.spotify.com/album/2bsrTGW0kQaXOMJA2BHWjY) | 2:52 | 2023-03-03 | 2023-03-11 |
 | [Walk Em Down](https://open.spotify.com/track/0BpWBbtmJiGAF0nVlrBEnI) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Walk Em Down](https://open.spotify.com/album/4Lc12kJEe4xqHdQ6FQ7j9Y) | 2:21 | 2023-06-02 | 2023-06-10 |

@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 32170,
+  "num_followers": 32246,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTVkNTJiZWRiMGQyYzcyYmUxMDk2YThjZDY2ZTMzYzg5MjRmZWRm",
+  "snapshot_id": "MCxhNDBlMDQ0ZGEwNGJhMTAzMWY1Y2MxOTYyOWUzOTI4NjEzODZmMDA0",
   "tracks": [
     {
       "added_at": "2023-10-05 23:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "Joker EP",
-        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
-      },
-      "artists": [
-        {
-          "name": "Ed-Ward",
-          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
-        }
-      ],
-      "duration_ms": 323245,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
         "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "Joker EP",
+        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
+      },
+      "artists": [
+        {
+          "name": "Ed-Ward",
+          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
+        }
+      ],
+      "duration_ms": 323245,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -387,26 +387,22 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "Mend It / Your Eyes Remixes",
-        "url": "https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL"
+        "name": "Next Generation",
+        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
       },
       "artists": [
         {
-          "name": "Lazarusman",
-          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+          "name": "Alexsir",
+          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
         },
         {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        },
-        {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+          "name": "Trust SA",
+          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
         }
       ],
-      "duration_ms": 518599,
-      "name": "Mend It - Stimming Remix",
-      "url": "https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq"
+      "duration_ms": 342887,
+      "name": "Monomotapa",
+      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -435,22 +431,26 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "Next Generation",
-        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
+        "name": "Mend It / Your Eyes Remixes",
+        "url": "https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL"
       },
       "artists": [
         {
-          "name": "Alexsir",
-          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
         },
         {
-          "name": "Trust SA",
-          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        },
+        {
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
         }
       ],
-      "duration_ms": 342887,
-      "name": "Monomotapa",
-      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
+      "duration_ms": 518599,
+      "name": "Mend It - Stimming Remix",
+      "url": "https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "See the Light",
-        "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
-      },
-      "artists": [
-        {
-          "name": "Bless_SA",
-          "url": "https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP"
-        },
-        {
-          "name": "Kyika DeSoul",
-          "url": "https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I"
-        }
-      ],
-      "duration_ms": 405420,
-      "name": "See the Light",
-      "url": "https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "Fictions",
         "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 463348,
       "name": "Confident (feat. Kali Mija)",
       "url": "https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "See the Light",
+        "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
+      },
+      "artists": [
+        {
+          "name": "Bless_SA",
+          "url": "https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP"
+        },
+        {
+          "name": "Kyika DeSoul",
+          "url": "https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I"
+        }
+      ],
+      "duration_ms": 405420,
+      "name": "See the Light",
+      "url": "https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "I Rise Again",
-        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
-      },
-      "artists": [
-        {
-          "name": "Zico SA",
-          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
-        }
-      ],
-      "duration_ms": 556673,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "I Rise Again",
+        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
+      },
+      "artists": [
+        {
+          "name": "Zico SA",
+          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
+        }
+      ],
+      "duration_ms": 556673,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
     },
     {
       "added_at": "2023-10-05 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5oDYW4eHMpo.md) - [plain]
 
 > OPN takes us on a magical journey with the release of his new album "Again".
 
-[Spotify](https://open.spotify.com/user/spotify) - 392 likes - 46 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 504 likes - 46 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5oDYW4eHMpo.md) - [plain]
 | 45 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 |
 | 46 | [Love Bites](https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 5:46 |
 
-Snapshot ID: `MCw2MjliYTY0OWI1MjIzNDRmMzU3MGI1YTUxNTA3NGU0NDQ3N2U1ODM5`
+Snapshot ID: `MCw4Njk3OTQyYTZmM2ZkMTgxZTM3YzJmM2ZmYjA4OThmNWNhYzAyNGIx`

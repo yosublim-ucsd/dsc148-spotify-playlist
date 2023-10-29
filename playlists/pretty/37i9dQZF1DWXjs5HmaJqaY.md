@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,928 likes - 70 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,090 likes - 70 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 69 | [Dominator \- Rebūke Remix](https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP) | [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dominator \(Rebūke Remix\)](https://open.spotify.com/album/7n6n1dLOtrxPa3HV29b1Vr) | 3:59 |
 | 70 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The House Of House](https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp) | 7:35 |
 
-Snapshot ID: `MCw4NzY0ZjhhMGQzNDg3NTAwZTM3MTlmMzJiMWU4OGFmZjllMTk3ZTUz`
+Snapshot ID: `MCxjM2IyMTZlN2NiNDI5YTlmZDQxY2ExZDg4YmRkYmM5NzQ5MzdlYmZj`

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 361582,
+  "num_followers": 361668,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjQ4OGRhMzYzZGQ5OTk3Y2RmNDc4ODg4ZjZhOTQ0NGJhODUwYzZj",
+  "snapshot_id": "MCxjZGU0ODRiZDNhNDU2YWQzZGVmODMwYzM3NTJlNWRkYTY2YjBiYmI1",
   "tracks": [
     {
       "added_at": "2023-10-27 21:55:53",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
+        "name": "Duck and Cover",
+        "url": "https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0"
+      },
+      "artists": [
+        {
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+        }
+      ],
+      "duration_ms": 121666,
+      "name": "Road Rash",
+      "url": "https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
         "name": "Fuera de Control",
         "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 210824,
       "name": "Fuera de Control",
       "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
-        "name": "Duck and Cover",
-        "url": "https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0"
-      },
-      "artists": [
-        {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
-        }
-      ],
-      "duration_ms": 121666,
-      "name": "Road Rash",
-      "url": "https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "Twenty-Eight Teeth",
         "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 214266,
       "name": "My Town",
       "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
+        "name": "Let\u2019s Face It",
+        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 166166,
+      "name": "The Rascal King",
+      "url": "https://open.spotify.com/track/2EeIsfOZ3RNXUahTLJXluT"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 188573,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
-        "name": "Let\u2019s Face It",
-        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 166166,
-      "name": "The Rascal King",
-      "url": "https://open.spotify.com/track/2EeIsfOZ3RNXUahTLJXluT"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6RllYZ84AUMAiCpdYgEydg"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "duration_ms": 300028,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/37mol8ORH3HXWx2TrLR6EJ"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
         "name": "Class of Nations",
         "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 168182,
       "name": "Things Change",
       "url": "https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/6RllYZ84AUMAiCpdYgEydg"
-      },
-      "artists": [
-        {
-          "name": "Sly & Robbie",
-          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
-        }
-      ],
-      "duration_ms": 300028,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/37mol8ORH3HXWx2TrLR6EJ"
     },
     {
       "added_at": "2023-10-27 21:55:53",

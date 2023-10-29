@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,573 likes - 82 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,640 likes - 82 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 34 | [Agronomy](https://open.spotify.com/track/02waHCZlp2s2ivnqDp3CjA) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Agronomy](https://open.spotify.com/album/1oKBvI5blJWJCcfkek7pwZ) | 2:23 |
 | 35 | [Fairy Dust in the Rain](https://open.spotify.com/track/1MU9fy4hMLoaLUc2bv8gtM) | [Sylvia McArther](https://open.spotify.com/artist/33hLKr1EfUrc14GnznVB21) | [Forest Crystals](https://open.spotify.com/album/5zFlNgmr3bSv5cxCAUE43h) | 2:56 |
 | 36 | [Over Blue Hills](https://open.spotify.com/track/1H37OB8lPFyCiRpPlsphjF) | [Anthony Ashley\-Jones](https://open.spotify.com/artist/0TzCuBsid1h1aj7ZRSa8JX) | [Good Morning World](https://open.spotify.com/album/5e3dQZEGHwwoZJ4gmaVBiU) | 2:20 |
-| 37 | [Sparkling Raindrops](https://open.spotify.com/track/6wa9UyYtc4fzGudPw0l361) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Feel the Rain](https://open.spotify.com/album/630CuaflRgHBARUoVuUJQ7) | 2:07 |
+| 37 | [Sparkling Raindrops](https://open.spotify.com/track/5XGEqEZcTEazxrjUKxdmqe) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Feel The Rain](https://open.spotify.com/album/1xed5PITjxBUJt7JD5aK0b) | 2:07 |
 | 38 | [Happy Mornings](https://open.spotify.com/track/5U0cxOqpl3ONvRpqeLzvOf) | [Miss Brooke's Cottage](https://open.spotify.com/artist/6wYWLz4TZvuTTtSI2HCcsj) | [Rainy Sunday at the Cottage](https://open.spotify.com/album/75xGNJ1qnFvoJdx8JtS3WI) | 3:08 |
 | 39 | [Without Words & Gentle Rain](https://open.spotify.com/track/2RvsS6T2zbRyR7cmD6FFy1) | [Leo Zimmerman](https://open.spotify.com/artist/1rXR5cwxxippMLTtaeAa6y) | [Piano & Rain, vol\. I](https://open.spotify.com/album/4qSrjBWuIczggbNAifFfL8) | 2:17 |
 | 40 | [The Ocean's Depth](https://open.spotify.com/track/3zJdgvKsjtBYl95XuKCIkF) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [The Ocean's Depth](https://open.spotify.com/album/6gDCqM9FGF2facKbvBzJJs) | 2:29 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 81 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 |
 | 82 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 |
 
-Snapshot ID: `MCxkODk4NjkzZTE3Zjc4YTMxMTcyODYzODU0OTY5OTM0OTU2MmYzYzZl`
+Snapshot ID: `MCwxZGEyOTJkYjM5NzY2YTgwNGZlZWQ1Yjg2YTkwNTEzM2NlOGYzOWY5`

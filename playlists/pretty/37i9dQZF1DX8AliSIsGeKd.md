@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Enrico Sangiuliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,996 likes - 90 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,214 likes - 90 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 57 | [Thirsty](https://open.spotify.com/track/2Buoe3DXKE5VL5w0JCeuQz) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/0wrBtOddeFuzNoYO6aLFlx) | 5:11 |
 | 58 | [EON](https://open.spotify.com/track/5AvmYLsDaVircrANnoYGud) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [EON](https://open.spotify.com/album/6e83v1yE7hlVtYiKRvVgGO) | 6:33 |
 | 59 | [This Is Not a Rave](https://open.spotify.com/track/7qhQc7is3075qbhST7pX3B) | [Several Definitions](https://open.spotify.com/artist/7fgdLbHjlVQE4sZ9L2awDq) | [This Is Not a Rave](https://open.spotify.com/album/7MYbdKUG7yDnzFjSdlNbSt) | 7:50 |
-| 60 | [Feel It](https://open.spotify.com/track/23QkQaKEEh9ChJlCsp3SlI) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [DreamySpaceyBlue](https://open.spotify.com/album/7xhrvTZvmHTH0IPlSULua6) | 5:55 |
+| 60 | [Feel It](https://open.spotify.com/track/7MM6O0fZQbGrUvAa3gEftD) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [DreamySpaceyBlue](https://open.spotify.com/album/04dTBVDqxwHiYWMskDHQIc) | 5:55 |
 | 61 | [Now U Do \(Carlita Remix\) \- Edit](https://open.spotify.com/track/4npDRstA1cZPDshgtC3mvv) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Now U Do \(Carlita Remix\)](https://open.spotify.com/album/7t88wDCAJBUW98FDo1imXi) | 3:33 |
 | 62 | [Habibi](https://open.spotify.com/track/4Zo4Jj2PbWSCbgBJcKgwLX) | [Wally Lopez](https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ) | [Habibi](https://open.spotify.com/album/5LyTJ0fnbu7vI3HOgJjata) | 3:44 |
 | 63 | [I'll Be There](https://open.spotify.com/track/5LM4F3M39z32C0X7RkjxpF) | [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf), [Alican](https://open.spotify.com/artist/20JcfncPyV3x2XjAKLWL98), [Nick Maurer](https://open.spotify.com/artist/6z70ncdIFVoybnZoh3O5F1) | [The Weather Report, Vol\. 1](https://open.spotify.com/album/6kBgCI4jSzD7zRDbz97dIF) | 4:42 |

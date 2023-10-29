@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Kaneee
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,768 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,769 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [LIGHTER](https://open.spotify.com/track/0dxErmSFDXYJIurlXuXAQg) | [ISAFAT](https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt) | [LIGHTER](https://open.spotify.com/album/1UW9YOhSoUO6bbNBtVhZFW) | 2:41 |
 | 70 | [Aizen](https://open.spotify.com/track/0tKeNpT6xS8ituF43dsJHE) | [Koichan](https://open.spotify.com/artist/03Zy6Z61VsjQg4EgXpv5bE) | [Aizen](https://open.spotify.com/album/0z4GzvNeXrBCrN60rBFb6k) | 4:17 |
 
-Snapshot ID: `MCwzNWY1NmJmZjgwNzg5NjZkZTg0MzIyOTRhNzQyOTQ2M2IxNjhmNTMw`
+Snapshot ID: `MCwyYjY3OGJhYWZhZTFmYTgxNmMxN2Q0ZGYwNmY3YWFmMGQ5MWJkN2Qw`

@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Noreh",
-  "num_followers": 75558,
+  "num_followers": 75563,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTQxOGZjOWI1ZmM0MjUyMDZmYzM3N2M1Y2M4YjI0MTlhZTVkMjNi",
+  "snapshot_id": "MCw2MTY5YzQ5M2Y5NzViZjhjOWVhNmE2OTllNGViZTAzOTJjNzMyYzU1",
   "tracks": [
     {
       "added_at": "2023-10-27 04:16:05",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-10-27 04:16:05",
       "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+    },
+    {
+      "added_at": "2023-10-27 04:16:05",
+      "album": {
         "name": "Dos Gardenias",
         "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 181024,
       "name": "Dos Gardenias",
       "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
-    },
-    {
-      "added_at": "2023-10-27 04:16:05",
-      "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
     },
     {
       "added_at": "2023-10-27 04:16:05",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-10-27 04:16:05",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 209471,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4OCBvT6SZHbNVQF4i2x5HX"
+    },
+    {
+      "added_at": "2023-10-27 04:16:05",
+      "album": {
         "name": "Porrito y a Dormir",
         "url": "https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG"
       },
@@ -1067,30 +1087,6 @@
       "duration_ms": 198000,
       "name": "Porrito y a Dormir",
       "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
-    },
-    {
-      "added_at": "2023-10-27 04:16:05",
-      "album": {
-        "name": "Para No Olvidar",
-        "url": "https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        },
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
-        },
-        {
-          "name": "Vicente Amigo",
-          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
-        }
-      ],
-      "duration_ms": 244482,
-      "name": "Para No Olvidar",
-      "url": "https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr"
     }
   ],
   "unique_name": "Lento.",

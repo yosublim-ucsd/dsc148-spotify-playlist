@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > Bollywood Central, jab baje toh seedha dil ke centre mein lage ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,813 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,880 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 38 | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK) | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9) | 3:15 |
 | 39 | [Saami Saami](https://open.spotify.com/track/3hRnAaDYPEIGTMS6JI1dle) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Pushpa The Rise Part \- 01](https://open.spotify.com/album/5fSvW3ie7cwECAt9h9pgQl) | 3:47 |
 | 40 | [Param Sundari](https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mimi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z) | 3:20 |
-| 41 | [Nagada Sang Dhol](https://open.spotify.com/track/6WyPFYIqwULAkTG9fAx4ox) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Goliyon Ki Raasleela Ram\-Leela](https://open.spotify.com/album/39DoW3oSM0BCiKtdRNxnhQ) | 4:33 |
+| 41 | [Nagada Sang Dhol](https://open.spotify.com/track/5s9Kd33ExIhpe1JJSj5zLZ) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Goliyon Ki Raasleela Ram\-Leela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76ok2HKEfqZ8FaAy6JpCNp) | 4:33 |
 | 42 | [Chittiyaan Kalaiyaan](https://open.spotify.com/track/6XjJXPP3UiGtAQpYkD01c0) | [Meet Bros Anjjan](https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Roy](https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf) | 4:06 |
 | 43 | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE) | 2:46 |
 | 44 | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/album/5xhnmuzC2RnvShBs631Q2y) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 49 | [Bolna](https://open.spotify.com/track/7zn5ecZSwGsLTi1wgxyVzd) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:32 |
 | 50 | [Gerua \(From "Dilwale"\)](https://open.spotify.com/track/7iLA6PQeQWRjLDHOJgGpj5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 5:45 |
 
-Snapshot ID: `MCwyZGI4OTUwY2ZkZjAwZDZiNjY1MmQ4N2JhMTRiMDIxZDA3ZTEzYmQ2`
+Snapshot ID: `MCxlOWI1YjFmMjJhOTA2ZmYyZDI1OTkxYmZhNGUwZGY3NjQ3Y2Q3MjQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: The Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,887 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,936 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 88 | [Roses In My Backpack](https://open.spotify.com/track/0unmFukTNfCHAXM7jsYREn) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Roses In My Backpack](https://open.spotify.com/album/35Nuc21qqcUssDSCHRU3ko) | 2:38 |
 | 89 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
 | 90 | [Addicted to Romance \- from the film 'She Came to Me'](https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj) | [Addicted to Romance \(from the film 'She Came to Me'\)](https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd) | 3:05 |
-| 91 | [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:55 |
+| 91 | [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:52 |
 | 92 | [Viv](https://open.spotify.com/track/6SMxtIKmMvfR0W7DFnpNyb) | [Ash Molloy](https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J) | [Viv](https://open.spotify.com/album/3uwkKLVkmD9zY5Ne3aegU0) | 3:50 |
 | 93 | [Changes](https://open.spotify.com/track/7eoZz7VZAVUhRsAwLh6Jbm) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future \(Deluxe\)](https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb) | 2:30 |
 | 94 | [Karaoke Breakup](https://open.spotify.com/track/6EA052zPI1629cZ32xt690) | [Jade The Moon](https://open.spotify.com/artist/7hpbBkeMZRmBJiK3Vg8KYP) | [Karaoke Breakup](https://open.spotify.com/album/3sBhX1sc7cW9BDasoLpdAY) | 2:35 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 97 | [It Won't Be Like This Forever](https://open.spotify.com/track/748NBl59GV0pfENbadjSxE) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [It Won't Be Like This Forever](https://open.spotify.com/album/4iwi5cpXPASmSueTCcLPkc) | 3:27 |
 | 98 | [WannaBe](https://open.spotify.com/track/35iPVmYZPsRWNqILaJiEIS) | [Autogramm](https://open.spotify.com/artist/1Yq0GO9ZFd9aK9iKEVNe6D) | [WannaBe](https://open.spotify.com/album/42rYVfDh2CP0lsB6QXJ1bx) | 4:04 |
 | 99 | [GIRLFRIEND](https://open.spotify.com/track/5nUpj523HSMmZdBWQZkzcS) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [GIRLFRIEND](https://open.spotify.com/album/7N1qdtX1BRD76xsGgynZ2z) | 2:48 |
-| 100 | [Amphetamine Smiles](https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Amphetamine Smiles](https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY) | 3:05 |
+| 100 | [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 |
 
-Snapshot ID: `MCw2YzJmNjEwNGM5ZmQwOWQ0Zjc1OTljYmE2NjllZGNiZDE3YzJmNGFk`
+Snapshot ID: `MCxjNzQ0YjQwNmU0NjFjNmJlMjViNWFmZGJlNmM4ZmFlNzM1NGYzNTNl`

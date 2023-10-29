@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-392 songs - 23 hr 34 min
+393 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 | 2020-12-18 | 2023-02-19 |
 | [It's a Yes](https://open.spotify.com/track/2USftuoK2F8e3WOyl2hz90) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 3:19 | 2023-02-24 | 2023-09-26 |
 | [It's a Yes](https://open.spotify.com/track/2mjjLHHQW55Y5kw6Ugfoc2) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [It's a Yes](https://open.spotify.com/album/0HEQDcYpmf87RJRAS19FFn) | 3:19 | 2023-02-21 | 2023-03-25 |
+| [It's a Yes](https://open.spotify.com/track/7Lc0prXYPvg7Sajjozeqgy) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj) | 3:19 | 2023-08-11 |  |
 | [It's Alright](https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [It's Alright](https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V) | 3:25 | 2023-08-04 |  |
 | [It's Gonna Be Alright](https://open.spotify.com/track/1MzsDT85FGT7NDwyc6EndI) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Wilder Years](https://open.spotify.com/album/6IljQe2zOTrM6NQpKfmrOb) | 3:24 | 2020-12-18 | 2022-07-26 |
 | [Jesus Always](https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Jesus Always](https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u) | 4:44 | 2023-02-19 | 2023-10-19 |
@@ -268,7 +269,7 @@
 | [Proceed](https://open.spotify.com/track/2ejCU3N0ILmpE23zrqNm4r) | [Deuel](https://open.spotify.com/artist/0IrOqD4oueXc7E7Wu7NzWv) | [Proceed](https://open.spotify.com/album/0NKNIOpBUg5mZT1k7jGlsM) | 4:26 | 2020-12-18 | 2022-07-29 |
 | [Prove My Love](https://open.spotify.com/track/6eV7yJ3eD4U3LJUAyOEBuF) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Prove My Love](https://open.spotify.com/album/2wAY9M3jmw7ftEiExGTzQv) | 3:58 | 2023-02-24 | 2023-04-09 |
 | [Radiant Reason](https://open.spotify.com/track/7fkDrV2fvORVEiUkmWEi6R) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Kings Kaleidoscope](https://open.spotify.com/album/7em1z6RFOEdURjAEuJE352) | 4:01 | 2023-08-11 |  |
-| [REASON](https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT) | [J Vessel](https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp) | [REASON](https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0) | 3:13 | 2023-08-11 |  |
+| [REASON](https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT) | [J Vessel](https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp) | [REASON](https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0) | 3:13 | 2023-08-11 | 2023-10-29 |
 | [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 | 2020-12-18 | 2023-02-19 |
 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 | 2020-12-18 | 2023-02-19 |
 | [Remedy](https://open.spotify.com/track/0hJZ9B9GpjIa7QT1AVWlOI) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Remedy](https://open.spotify.com/album/4u3rrpmyCCK5J5xKxgHGxl) | 2:04 | 2023-02-21 | 2023-04-09 |

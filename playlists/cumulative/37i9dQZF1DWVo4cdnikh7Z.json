@@ -6279,6 +6279,24 @@
     },
     {
       "album": {
+        "name": "I'm Scared (From \"Leo\")",
+        "url": "https://open.spotify.com/album/55iZCHzl5CsBTT8QlAh1ZY"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145641,
+      "name": "I'm Scared (From \"Leo\")",
+      "url": "https://open.spotify.com/track/6vPFDbyzSYWAL7r3Waa7BZ"
+    },
+    {
+      "album": {
         "name": "DD Returns (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe"
       },

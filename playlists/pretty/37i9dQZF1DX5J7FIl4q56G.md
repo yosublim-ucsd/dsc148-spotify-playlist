@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Year of the Knife
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,334 likes - 67 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,424 likes - 67 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 51 | [Woe](https://open.spotify.com/track/04rBvQ3NfSW7UsUvak2Hb2) | [Ragana](https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt) | [Desolation's Flower](https://open.spotify.com/album/7D1dzLAWZOTumnRTvGZGau) | 6:35 |
 | 52 | [Siren Song](https://open.spotify.com/track/1TxAgLC4Y7NYq5jD4QKedv) | [Howling Giant](https://open.spotify.com/artist/1xvcKtKIb7rR89bKgazjSo) | [Glass Future](https://open.spotify.com/album/64g11E3gkMahvk8oKY9uv1) | 5:09 |
 | 53 | [Akal Abaddon](https://open.spotify.com/track/3bOiWXhtCOGS5DEXL69OfN) | [Crimson Moonlight](https://open.spotify.com/artist/3BK5u7xOPJU8ERq8w27hnk) | [Akal Abaddon](https://open.spotify.com/album/4KS3gGY3FlzsYuywBuftow) | 5:08 |
-| 54 | [At The Mortuary \- Halloween Edit](https://open.spotify.com/track/135jxq6K0kM6ZqCQ8W6oxt) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [At The Mortuary](https://open.spotify.com/album/3nP37TDuGwlCSyIk77bnWg) | 4:56 |
+| 54 | [At The Mortuary \- Halloween Edit](https://open.spotify.com/track/135jxq6K0kM6ZqCQ8W6oxt) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [At The Mortuary \(Halloween Edit\)](https://open.spotify.com/album/3nP37TDuGwlCSyIk77bnWg) | 4:56 |
 | 55 | [If Provoked, Will Strike](https://open.spotify.com/track/10o5tWCgld4ZeFC9EYzuYw) | [Elm Street](https://open.spotify.com/artist/7GZ2pCmZ6H5vrdfB41vCoy) | [The Great Tribulation](https://open.spotify.com/album/1Pq9RipiuhbHtIO5SVNgXV) | 6:36 |
 | 56 | [Speed 'Til You Bleed \- Midnight Hunters demo, 2015](https://open.spotify.com/track/1J4XfuQS8oosfAmpjmtgVI) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Speed 'Til You Bleed \(Midnight Hunters demo, 2015\)](https://open.spotify.com/album/1ybD9IRc3uhSzkD0YKIa1O) | 2:28 |
 | 57 | [Synthetic Generation](https://open.spotify.com/track/3vAdyT3pIYd99MfWkPDtY7) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE) | [Synthetic Generation](https://open.spotify.com/album/0TcXrVDAFZTXd1POOHoPwX) | 3:42 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 66 | [Blossom](https://open.spotify.com/track/55QKgQKHffpFemjyt0B9iV) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Blossom](https://open.spotify.com/album/5gnwimgoo4S9wBkS3FK1F1) | 4:04 |
 | 67 | [Journey to Rebuild](https://open.spotify.com/track/5VA86G33omzLrsSmhaPblh) | [Lies We Sold](https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330) | [Adrift in the mist](https://open.spotify.com/album/61a5ULRYsyHuU3DBRcENhK) | 5:10 |
 
-Snapshot ID: `MCw5NWVlYjMwYmY1OGUxNDJlNGMwY2QzODMyZGFlZDI3NWE4YWI5OTVm`
+Snapshot ID: `MCxhYzQ1MDgwZDkyZjg2YmViZTI1NDg5OTc2ZDg2YjE1OWEzOWZlNmMx`

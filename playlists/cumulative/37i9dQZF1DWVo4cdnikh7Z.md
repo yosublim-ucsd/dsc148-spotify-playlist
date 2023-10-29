@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Leo
 
-951 songs - 2 day 10 hr 29 min
+952 songs - 2 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Hungry Cheetah \(From "They Call Him OG \(Tamil\)"\)](https://open.spotify.com/track/18E6ZN39seAFLCopzLkut6) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Hungry Cheetah \[From "They Call Him OG \(Tamil\)"\]](https://open.spotify.com/album/0QHgIYO5sQfZ1IRh144hof) | 1:59 | 2023-09-04 | 2023-10-05 |
 | [Huppa Huiya \(Tamil\)](https://open.spotify.com/track/4CiOGQcEZXKMVo1FkshoGk) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Ilango Krishan](https://open.spotify.com/artist/0wMW833zwSjbw0fJIDDDpk) | [Adipurush \(TAMIL\)](https://open.spotify.com/album/6bMBoIbi4sb2gngx4dC6TT) | 3:42 | 2023-06-07 | 2023-06-15 |
 | [I Love You Di \- From "Mark Antony"](https://open.spotify.com/track/0JsY2mkgtqOCqZ7ErKUPkC) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Adhik Ravichandran](https://open.spotify.com/artist/4NtAip7XvIcTAy40TvK1cV), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX), [Rokesh](https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0) | [I Love You Di \(From "Mark Antony"\)](https://open.spotify.com/album/2RTnRxblc579izLXLQOHFg) | 3:07 | 2023-08-24 |  |
+| [I'm Scared \(From "Leo"\)](https://open.spotify.com/track/6vPFDbyzSYWAL7r3Waa7BZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [I'm Scared \(From "Leo"\)](https://open.spotify.com/album/55iZCHzl5CsBTT8QlAh1ZY) | 2:25 | 2023-10-28 |  |
 | [I'm So Prabalam](https://open.spotify.com/track/1Hw4Tezkw26zKDuufsXyKA) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [T\. M\. S\. Selva Kumar](https://open.spotify.com/artist/4qKUodfmLy0o7XGoL3Jj4I), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [DD Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe) | 2:46 | 2023-07-31 | 2023-08-15 |
 | [I'm So Prabalam \- From "Dd Returns"](https://open.spotify.com/track/7nkzm2D7knSeHFnGlszF8x) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Durai](https://open.spotify.com/artist/4JczPNG9WBzHsuxs6X4qF0), [T\. M\. S\. Selva Kumar](https://open.spotify.com/artist/4qKUodfmLy0o7XGoL3Jj4I), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [I'm So Prabalam \(From "Dd Returns"\)](https://open.spotify.com/album/4g5lRRjaSfFserdFBnS1t8) | 2:46 | 2023-07-21 | 2023-08-01 |
 | [Iam From Goa](https://open.spotify.com/track/6dRWHZFBJxneq2KzvDnNOC) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Music School \(Tamil\)](https://open.spotify.com/album/2iUW1ahUkyyHpD754goYAq) | 4:12 | 2023-05-11 | 2023-05-23 |

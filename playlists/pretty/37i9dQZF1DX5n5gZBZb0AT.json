@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 225927,
+  "num_followers": 227742,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzFlYzBhMDY0ZmM4YTkzZmU2Mzk5MDliNjQ1MzFmNmQyNzBjNjdh",
+  "snapshot_id": "MCw4MThiNjA2YTk5YjAyZTY2OTI3NmM1MWRlZDRmMDJkYjJjYmRiM2I0",
   "tracks": [
     {
       "added_at": "2023-10-05 17:47:28",
@@ -411,6 +411,26 @@
     {
       "added_at": "2023-10-05 17:47:28",
       "album": {
+        "name": "DEMONS IN MY SOUL",
+        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
+      },
+      "artists": [
+        {
+          "name": "SCXR SOUL",
+          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
+        },
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+        }
+      ],
+      "duration_ms": 120593,
+      "name": "DEMONS IN MY SOUL",
+      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
+    },
+    {
+      "added_at": "2023-10-05 17:47:28",
+      "album": {
         "name": "RITMO DE TREINO",
         "url": "https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 102923,
       "name": "RITMO DE TREINO",
       "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
-    },
-    {
-      "added_at": "2023-10-05 17:47:28",
-      "album": {
-        "name": "DEMONS IN MY SOUL",
-        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
-      },
-      "artists": [
-        {
-          "name": "SCXR SOUL",
-          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
-        },
-        {
-          "name": "Sx1nxwy",
-          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
-        }
-      ],
-      "duration_ms": 120593,
-      "name": "DEMONS IN MY SOUL",
-      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
     },
     {
       "added_at": "2023-10-05 17:47:28",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-10-05 17:47:28",
       "album": {
+        "name": "Disaster",
+        "url": "https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC"
+      },
+      "artists": [
+        {
+          "name": "KSLV Noh",
+          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+        }
+      ],
+      "duration_ms": 84138,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
+    },
+    {
+      "added_at": "2023-10-05 17:47:28",
+      "album": {
         "name": "Mexican Phonk Eki",
         "url": "https://open.spotify.com/album/1vQpZhp0nRdlUT4m2cgV4k"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 98067,
       "name": "Mexican Phonk Eki",
       "url": "https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM"
-    },
-    {
-      "added_at": "2023-10-05 17:47:28",
-      "album": {
-        "name": "Disaster",
-        "url": "https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC"
-      },
-      "artists": [
-        {
-          "name": "KSLV Noh",
-          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
-        }
-      ],
-      "duration_ms": 84138,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
     }
   ],
   "unique_name": "gymcore",

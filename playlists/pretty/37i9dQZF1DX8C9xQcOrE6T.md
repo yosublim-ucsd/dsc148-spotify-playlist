@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney hits, including songs from Wish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,208,234 likes - 134 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,210,220 likes - 134 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
-  "num_followers": 111737,
+  "num_followers": 111741,
   "original_name": "Top 50 - Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUxNzcxMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUxODU3NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "\u6fe4",
         "url": "https://open.spotify.com/album/2fwUdeULjPXQyCvKdUbIoI"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1xRMtDxiU8xxAlaDscHIoT"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/2xJTRjTHMPl7OkPplpvvjN"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2CwGJLH5jTBlVQhMfjCc6e"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "Dear My Friend,",
-        "url": "https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 232007,
-      "name": "Dear My Friend,",
-      "url": "https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "ON",
         "url": "https://open.spotify.com/album/3s4zwwsOeM9KkNIglv5HLj"
@@ -93,10 +77,10 @@
       "url": "https://open.spotify.com/track/2Yccw4AWlnf8BMcD4rnlFc"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
-        "name": "\u8ffd",
-        "url": "https://open.spotify.com/album/6sGJi4077dMoVi362niYP5"
+        "name": "Dear My Friend,",
+        "url": "https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3"
       },
       "artists": [
         {
@@ -104,12 +88,12 @@
           "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
         }
       ],
-      "duration_ms": 313944,
-      "name": "\u8ffd",
-      "url": "https://open.spotify.com/track/3uHE0cVFDFDORAVhwLqL4p"
+      "duration_ms": 232007,
+      "name": "Dear My Friend,",
+      "url": "https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "\u6d6a\u6f2b\u6bba\u6b7b\u5de8\u87f9\u5ea7",
         "url": "https://open.spotify.com/album/7yMSjlEGWD3lU3ayZbZbVw"
@@ -125,10 +109,10 @@
       "url": "https://open.spotify.com/track/2fOpn6RdCJzcYl32PZCMM3"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
-        "name": "\u98a8\u96e8\u4e0d\u6539 (\u96fb\u5f71\u300a\u963f\u5abd\u6709\u5497\u7b2c\u4e8c\u500b\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/7CfGrYOJFzKlLn9yj1Ed9d"
+        "name": "\u8ffd",
+        "url": "https://open.spotify.com/album/6sGJi4077dMoVi362niYP5"
       },
       "artists": [
         {
@@ -136,12 +120,12 @@
           "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
         }
       ],
-      "duration_ms": 308053,
-      "name": "\u98a8\u96e8\u4e0d\u6539 (\u96fb\u5f71\u300a\u963f\u5abd\u6709\u5497\u7b2c\u4e8c\u500b\u300b\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/172oAbLGpgeCsukno7oBRe"
+      "duration_ms": 313944,
+      "name": "\u8ffd",
+      "url": "https://open.spotify.com/track/3uHE0cVFDFDORAVhwLqL4p"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
@@ -161,7 +145,23 @@
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "\u98a8\u96e8\u4e0d\u6539 (\u96fb\u5f71\u300a\u963f\u5abd\u6709\u5497\u7b2c\u4e8c\u500b\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/7CfGrYOJFzKlLn9yj1Ed9d"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 308053,
+      "name": "\u98a8\u96e8\u4e0d\u6539 (\u96fb\u5f71\u300a\u963f\u5abd\u6709\u5497\u7b2c\u4e8c\u500b\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/172oAbLGpgeCsukno7oBRe"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "Nah",
         "url": "https://open.spotify.com/album/6v7Zqb7lpvMggCXkdANM6e"
@@ -177,39 +177,7 @@
       "url": "https://open.spotify.com/track/7nJlkwxJSNDqO20WWeLuNX"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "\u8207\u6211\u7121\u95dc",
-        "url": "https://open.spotify.com/album/3t4fnPF3xdC4lHl3au9xf3"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 205845,
-      "name": "\u8207\u6211\u7121\u95dc",
-      "url": "https://open.spotify.com/track/0GoEr3439Go5CGHL6fw1US"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "JENNIE Special Single [You & Me]",
-        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "\u4ecd\u5728",
         "url": "https://open.spotify.com/album/7kJcWoA7dZNzznm9wuSHyo"
@@ -225,23 +193,39 @@
       "url": "https://open.spotify.com/track/1rPPxVHA0YWiUzxzuFlQDN"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
-        "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
-        "url": "https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ"
+        "name": "\u8207\u6211\u7121\u95dc",
+        "url": "https://open.spotify.com/album/3t4fnPF3xdC4lHl3au9xf3"
       },
       "artists": [
         {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
         }
       ],
-      "duration_ms": 252746,
-      "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
-      "url": "https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG"
+      "duration_ms": 205845,
+      "name": "\u8207\u6211\u7121\u95dc",
+      "url": "https://open.spotify.com/track/0GoEr3439Go5CGHL6fw1US"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
@@ -265,7 +249,23 @@
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "I'VE MINE",
         "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
@@ -281,7 +281,39 @@
       "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
+        "url": "https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
+      "url": "https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "\u62bd",
         "url": "https://open.spotify.com/album/10V1AMk8bWSBjuok9ZD3lJ"
@@ -297,23 +329,7 @@
       "url": "https://open.spotify.com/track/7mz4dDKFWSwj7cjnJeITBH"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
-        "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "God of Music",
-      "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -329,7 +345,39 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231833,
+      "name": "Blank Space (Taylor's Version)",
+      "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "\u518d\u898b \u5be7\u975c\u6d77",
         "url": "https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV"
@@ -345,7 +393,7 @@
       "url": "https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "\u62b1\u62b1\u7121\u5c3e\u718a",
         "url": "https://open.spotify.com/album/27ht56bpzBhmQfjSjgoAmI"
@@ -361,7 +409,39 @@
       "url": "https://open.spotify.com/track/6lfMr5SEeFdpMeIJxw5n1I"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Welcome To New York (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
+        "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "God of Music",
+      "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "\u64c1\u62b1\u5f8c\u7684\u6b4c",
         "url": "https://open.spotify.com/album/2vHgMiFnp2RvlIogHnIzfz"
@@ -377,39 +457,7 @@
       "url": "https://open.spotify.com/track/3Frg7nyANyCvDpbyaOxtdf"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
-        "url": "https://open.spotify.com/album/65wTjD7QDdhpMedeTA2XDe"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/1VU4roZEde9uI25e4rUOuU"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "This is MC",
-        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 223950,
-      "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
-      "url": "https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
@@ -425,7 +473,23 @@
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 279833,
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -441,7 +505,55 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "This is MC",
+        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
+      "url": "https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Out Of The Woods (Taylor's Version)",
+      "url": "https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
+        "url": "https://open.spotify.com/album/65wTjD7QDdhpMedeTA2XDe"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/1VU4roZEde9uI25e4rUOuU"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
@@ -457,7 +569,7 @@
       "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/2orrREvtatwHRERaqcrMg8"
@@ -473,7 +585,7 @@
       "url": "https://open.spotify.com/track/4bzylGLMAjkb8AYCcsu96R"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -489,7 +601,39 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 146436,
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "\u8a18\u61b6\u68c9",
         "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
@@ -505,55 +649,7 @@
       "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
-        "url": "https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 258924,
-      "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
-      "url": "https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "\u99f1\u99dd",
-        "url": "https://open.spotify.com/album/7pszo8d8Cby0xdXJjibKQw"
-      },
-      "artists": [
-        {
-          "name": "my little airport",
-          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
-        }
-      ],
-      "duration_ms": 246364,
-      "name": "\u99f1\u99dd",
-      "url": "https://open.spotify.com/track/6j9BoWu8ows9OtIeSePZ9K"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "I feel",
         "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
@@ -569,7 +665,55 @@
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 193289,
+      "name": "All You Had To Do Was Stay (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 220433,
+      "name": "Wildest Dreams (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
+        "url": "https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 258924,
+      "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
+      "url": "https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "\u6d6e\u5e8a",
         "url": "https://open.spotify.com/album/0HjgPj2BylDhJNRGN6OqUq"
@@ -585,23 +729,7 @@
       "url": "https://open.spotify.com/track/3gOTUuIDMbBYECtnPadsxY"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "This is MC",
         "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
@@ -617,7 +745,55 @@
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219209,
+      "name": "Shake It Off (Taylor's Version)",
+      "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "Suburban Legends (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP"
+    },
+    {
+      "added_at": "2023-10-28 12:47:37",
       "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/0h1Cdmn1M3EM61yxpwRqja"
@@ -633,196 +809,20 @@
       "url": "https://open.spotify.com/track/1t5D0Y5VMTEISUpAZXoFpN"
     },
     {
-      "added_at": "2023-10-27 09:02:53",
+      "added_at": "2023-10-28 12:47:37",
       "album": {
-        "name": "Distance (Mandarin Version)",
-        "url": "https://open.spotify.com/album/6QOeB6q1acypIqwuDpsKkI"
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
       },
       "artists": [
         {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 200497,
-      "name": "Distance (Mandarin Version)",
-      "url": "https://open.spotify.com/track/3qUObXucAc56ax5DSzcUF1"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "THE BOOK 3",
-        "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "\u30a2\u30a4\u30c9\u30eb",
-      "url": "https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "\u96b1\u5f62\u904a\u6a02\u5834",
-        "url": "https://open.spotify.com/album/19wTMPU5TLyeI3xuNwpYx7"
-      },
-      "artists": [
-        {
-          "name": "Hins Cheung",
-          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
-        }
-      ],
-      "duration_ms": 233187,
-      "name": "\u96b1\u5f62\u904a\u6a02\u5834",
-      "url": "https://open.spotify.com/track/6bMgCXapeQEVFgAOr8EvgY"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "The Astronaut",
-        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
-      },
-      "artists": [
-        {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 282463,
-      "name": "The Astronaut",
-      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "\u7d66\u4f60\u5e78\u798f \u6240\u4ee5\u5e78\u798f",
-        "url": "https://open.spotify.com/album/2rOeZHhWQCveBEPb3tslYB"
-      },
-      "artists": [
-        {
-          "name": "Jay Fung",
-          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "\u7d66\u4f60\u5e78\u798f \u6240\u4ee5\u5e78\u798f",
-      "url": "https://open.spotify.com/track/6UuJk5rvrxSnOAwv6uSr5b"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "\u53ea\u8981\u4f60\u4e0d\u5c37\u5c2c",
-        "url": "https://open.spotify.com/album/0ryBp7G4CRi53am6Hy65IM"
-      },
-      "artists": [
-        {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        }
-      ],
-      "duration_ms": 243124,
-      "name": "\u53ea\u8981\u4f60\u4e0d\u5c37\u5c2c",
-      "url": "https://open.spotify.com/track/1UdxSRCOnftG6I2dVBkHXH"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "\u5730\u7403\u4e0a\u7684\u6700\u5f8c\u4e00\u6735\u82b1",
-        "url": "https://open.spotify.com/album/2zJ2Sf31ZtCsH2bqZbeAZp"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 226665,
-      "name": "\u5730\u7403\u4e0a\u7684\u6700\u5f8c\u4e00\u6735\u82b1",
-      "url": "https://open.spotify.com/track/2vJreatDgwtXWKpkqpPUZ3"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "\u795e\u7684\u4e0d\u5728\u5834\u8b49\u660e",
-        "url": "https://open.spotify.com/album/03E9y0MvddabFJZ4QSq3iD"
-      },
-      "artists": [
-        {
-          "name": "Panther Chan",
-          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
-        }
-      ],
-      "duration_ms": 272500,
-      "name": "\u795e\u7684\u4e0d\u5728\u5834\u8b49\u660e",
-      "url": "https://open.spotify.com/track/5LxfxzmlGFCQm8HT93gksZ"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "NewJeans 'OMG'",
-        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "I've IVE",
-        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "HEAT",
-        "url": "https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "I Want That",
-      "url": "https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L"
-    },
-    {
-      "added_at": "2023-10-27 09:02:53",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     }
   ],
   "unique_name": "Top 50 - Hong Kong",

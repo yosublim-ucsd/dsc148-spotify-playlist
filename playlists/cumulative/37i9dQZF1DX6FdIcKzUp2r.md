@@ -4,10 +4,11 @@
 
 > Work or rest with these gems from the 80s.
 
-202 songs - 14 hr 35 min
+203 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 | 2018-12-12 |  |
 | [A Change Is Gonna Come](https://open.spotify.com/track/3KvdZ0n69ArKgYYEsS6QtM) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/30C3EQGiT0zJQAI37XR9R7) | 3:43 | 2018-12-12 | 2022-07-29 |
 | [A Change Is Gonna Come](https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 3:43 | 2018-12-12 |  |
 | [A Different Corner](https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 3:57 | 2018-12-12 |  |
@@ -203,7 +204,7 @@
 | [Wild Theme](https://open.spotify.com/track/0RDDGPBOc9hgqQiBHvCBVi) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Local Hero](https://open.spotify.com/album/0xWqprLlB2Rjve0qQPoaaw) | 3:39 | 2018-12-12 | 2023-09-15 |
 | [Will You?](https://open.spotify.com/track/4PtZnR7nR4zUlSm1efYvry) | [Hazel O'Connor](https://open.spotify.com/artist/7Dwkme6QjRdS4dF4eNNJ5Y) | [Breaking Glass](https://open.spotify.com/album/02m7p5Qxr1RZld36bUBjVK) | 4:49 | 2018-12-12 | 2022-07-29 |
 | [With God On Our Side](https://open.spotify.com/track/2UesoZg57jd9tvS81tFOHa) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/30C3EQGiT0zJQAI37XR9R7) | 6:37 | 2018-12-12 | 2022-07-29 |
-| [With God On Our Side](https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 6:40 | 2018-12-12 |  |
+| [With God On Our Side](https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 6:40 | 2018-12-12 | 2023-10-29 |
 | [Woman In Chains](https://open.spotify.com/track/1S5UOWuhJMgjvenowpn47a) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Festa della Donna](https://open.spotify.com/album/4dbRGsd8TQWhAiSpKNNzs0) | 6:30 | 2018-12-12 | 2022-11-14 |
 | [Woman In Chains](https://open.spotify.com/track/1ydGjYPl6SkTBwy6yhRCJT) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [The Seeds Of Love](https://open.spotify.com/album/4M0DNIYXbpCdKnVV4LoD9X) | 6:30 | 2018-12-12 |  |
 | [Woman In Chains](https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [The Seeds Of Love](https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO) | 6:31 | 2018-12-12 | 2023-07-19 |

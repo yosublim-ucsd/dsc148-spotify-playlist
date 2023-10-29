@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-495 songs - 1 day 8 hr 13 min
+496 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Coffin of Pain](https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Under the Weight of Things I Couldn't Change](https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU) | 3:36 | 2022-04-01 | 2022-04-20 |
 | [Consistent Suffering](https://open.spotify.com/track/2c2iD9Wq0TajHayTCKSaVl) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Feral](https://open.spotify.com/album/1ysr3SlffkcJMqFtX9Ykxe) | 3:31 | 2023-06-16 |  |
 | [Creators Conscience](https://open.spotify.com/track/1abb8ARLTeyvmFOTisjUbY) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dawn](https://open.spotify.com/album/4ZKxfg7g7Px3eWCee5UPEw) | 3:29 | 2021-12-17 | 2022-03-12 |
-| [Cremation \(feat\. PK of Prompts\)](https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH) | [NOCTURNAL BLOODLUST](https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N) | [ARGOS](https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC) | 6:12 | 2022-05-06 |  |
+| [Cremation \(feat\. PK of Prompts\)](https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH) | [NOCTURNAL BLOODLUST](https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N) | [ARGOS](https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC) | 6:12 | 2022-05-06 | 2023-10-29 |
 | [Cryogenesis](https://open.spotify.com/track/1V0oIGML0KMNw9NM7EbiNu) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [Cryogenesis](https://open.spotify.com/album/5m9Fq0GSp4fSvypPBtxA2U) | 4:27 | 2021-12-17 | 2022-07-29 |
 | [Crystal Prison](https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [Crystal Prison](https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq) | 4:15 | 2022-04-29 | 2022-09-10 |
 | [Cursed](https://open.spotify.com/track/35AnnRbyLg8Kpx90pV4XWI) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Cursed](https://open.spotify.com/album/26qjo1q0NJ4y6lPnK9LGpI) | 4:09 | 2022-04-29 | 2022-07-27 |
@@ -204,6 +204,7 @@
 | [FRESH BONES](https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [FRESH BONES](https://open.spotify.com/album/7kPz7t2SmzZfcpvkCXQSAW) | 2:28 | 2023-02-24 | 2023-09-01 |
 | [From Nothing](https://open.spotify.com/track/5OejDZoN7KYcDUZhj9gxNL) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [From Nothing](https://open.spotify.com/album/04W2vQDW2m6KlJ0oFgudUz) | 3:51 | 2021-12-17 |  |
 | [From Ruin..\. We Rise](https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [From Ruin..\. We Rise](https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW) | 4:50 | 2021-12-17 |  |
+| [FUCK YOURSELF](https://open.spotify.com/track/5yzD10olIEz7M9vP4pzVh1) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [CJ McCreery](https://open.spotify.com/artist/3TPhuvHZwz3F8PG0yTIPHK) | [FUCK YOURSELF](https://open.spotify.com/album/1HPYqNlffOiRBjxG8K4cbC) | 2:26 | 2023-08-16 |  |
 | [Fuck Yourself](https://open.spotify.com/track/1QoIM17rGzqkTl3nVoqhIM) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [CJ McCreery](https://open.spotify.com/artist/3I0nUy3IPm6o9HegqleVup), [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Fuck Yourself](https://open.spotify.com/album/2PazSbFVYokXamGsETzwgI) | 2:26 | 2021-12-17 | 2022-07-10 |
 | [FUCK YOURSELF](https://open.spotify.com/track/2zDmGeL0uTlVtYmfSi8qXv) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF), [CJ McCreery](https://open.spotify.com/artist/3I0nUy3IPm6o9HegqleVup) | [FUCK YOURSELF](https://open.spotify.com/album/3hzXKeVr8paZjIy5urZhIi) | 2:26 | 2022-07-08 | 2023-10-21 |
 | [Gaslight](https://open.spotify.com/track/4CtFvQhdhJoBcgkSuaA0D9) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Fear & Loathing](https://open.spotify.com/album/3EUZvLhYbNlBzFjXmfWGFk) | 3:10 | 2023-03-24 | 2023-06-22 |

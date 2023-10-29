@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: indigo la End \*👉 <a href="https://spice.eplus.jp/articles/323252?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,513 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,565 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 76 | [夜を溶かして](https://open.spotify.com/track/60fkr5bbs3ww6zlJNNpwL6) | [Odd Donuts](https://open.spotify.com/artist/7rflUhNjhxlITzPI54XTzg) | [夜を溶かして](https://open.spotify.com/album/0aBP88CJ3OzTIia1V1mucX) | 3:30 |
 | 77 | [SUMMER SUSPICION](https://open.spotify.com/track/45b2Zm0Q9CoCIcVeVrTmSh) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [SUMMER SUSPICION](https://open.spotify.com/album/1f0Pftt3eC8wMl8lk1yd7H) | 4:45 |
 | 78 | [Fork in the Road](https://open.spotify.com/track/4iCxIi1KawwtmQxDbjfue2) | [金延幸子](https://open.spotify.com/artist/5rT9yvOxKxNBsDevOiKKGs) | [Fork in the Road](https://open.spotify.com/album/3fF8wY0vEgGaoxY26jsRlr) | 5:11 |
-| 79 | [群像劇](https://open.spotify.com/track/3dBJCeXLWb2wykVFnhYqpm) | [荒巻勇仁](https://open.spotify.com/artist/70AZs3Q1tOLvM1w6Penqqm) | [群像劇](https://open.spotify.com/album/0ZIJzvOuyPIjS8Z4w5rL62) | 3:52 |
+| 79 | [群像劇](https://open.spotify.com/track/3dBJCeXLWb2wykVFnhYqpm) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [群像劇](https://open.spotify.com/album/0ZIJzvOuyPIjS8Z4w5rL62) | 3:52 |
 | 80 | [Soap Flower](https://open.spotify.com/track/4yjt1QUXTzlGh8EsXDXgun) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Soap Flower](https://open.spotify.com/album/5qb17ObbHh1LSrmsm5XTaa) | 3:53 |
 
-Snapshot ID: `MCxhYjllMjMwZDUwODkxYjJkYjJmZmRkMmY1NGE4NDllNWE2ZGRkN2Nk`
+Snapshot ID: `MCwzOWE1NWQ1MmM4Y2ExZGU2MmQwY2VlYjFjYmI3NTExZTc2ZDM5YjFm`

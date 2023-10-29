@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-520 songs - 1 day 15 hr 58 min
+521 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Elinde Sazin Qurbani](https://open.spotify.com/track/0ywJlxGPnsWkPKWlo9RSfb) | [Shahin Novrasli](https://open.spotify.com/artist/1JeMulk2aODVLXA7qtiUS2) | [BAYATI](https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c) | 6:07 | 2022-03-25 |  |
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-11-12 |  |
 | [Ellegatan](https://open.spotify.com/track/0iFgDHjjfI0BIH6IdFyWmE) | [Emil Ingmar](https://open.spotify.com/artist/7p0xXqI5wsH4tLwPIEuZ5E) | [Karlavagnen](https://open.spotify.com/album/6RiKhHeJMrZVjggdWMdl2g) | 5:52 | 2022-05-25 |  |
-| [Ellipse](https://open.spotify.com/track/5kI32ifKfLTC0RuYZvsq2a) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Ellipse](https://open.spotify.com/album/4rkPj0jRJcL8S6pveZIvPu) | 2:35 | 2023-03-10 |  |
+| [Ellipse](https://open.spotify.com/track/5kI32ifKfLTC0RuYZvsq2a) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Ellipse](https://open.spotify.com/album/4rkPj0jRJcL8S6pveZIvPu) | 2:35 | 2023-03-10 | 2023-10-29 |
 | [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-03-31 |  |
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-01 |  |
 | [Evergreen](https://open.spotify.com/track/7Lz3Iy3sUv0fNq0crfhDGA) | [Justin Salisbury](https://open.spotify.com/artist/0wCRGycyYyEg4vWwoi11SS), [Max Ridley](https://open.spotify.com/artist/0d6y1Xs0QqCMG2hg2lYnkC), [Dan Nadeau](https://open.spotify.com/artist/4S9by6hwhiUvkmHNTG5FXY) | [Evergreen](https://open.spotify.com/album/74bdbf4mh1BjApMO0quFNT) | 6:53 | 2022-04-14 | 2023-10-20 |
@@ -311,6 +311,7 @@
 | [No Cure](https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [No Cure](https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi) | 4:23 | 2023-03-10 |  |
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-11-12 |  |
 | [Nocturnal](https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 6:52 | 2022-02-10 | 2022-11-09 |
+| [Nocturnal Whispers](https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Nocturnal Whispers](https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9) | 4:27 | 2023-10-27 |  |
 | [Not Nice At All](https://open.spotify.com/track/7pilE4NULuXBPHZNzODH5i) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Not Nice At All](https://open.spotify.com/album/5TRSBkD21PjK91y6gfUWMH) | 2:56 | 2023-09-22 |  |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-11-12 |  |
 | [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-11-12 |  |

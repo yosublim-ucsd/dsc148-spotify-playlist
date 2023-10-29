@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,794 likes - 65 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,877 likes - 65 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 9 | [Without a Song \- Remastered](https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 7:26 |
 | 10 | [With A Song In My Heart \- Remastered 1998](https://open.spotify.com/track/1f7EWS1kruAco1sc1W614Q) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Sonny's Crib](https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA) | 7:55 |
 | 11 | [Daahoud](https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 4:05 |
-| 12 | [Seven Steps to Heaven](https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:23 |
-| 13 | [Matrix](https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 6:28 |
+| 12 | [Matrix](https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 6:28 |
+| 13 | [Seven Steps to Heaven](https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:23 |
 | 14 | [Lazy Bird \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/0V3K5h6d8Epqg4k60O1IBB) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 7:07 |
 | 15 | [I Could Write A Book](https://open.spotify.com/track/4fTV2tXbeAeTaIfFIDoF4H) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Relaxin' With The Miles Davis Quintet](https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt) | 5:08 |
 | 16 | [Au Privave](https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Sonny Stitt Sits In With The Oscar Peterson Trio](https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu) | 3:59 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 27 | [Limehouse Blues](https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 4:40 |
 | 28 | [The Blues Walk](https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:54 |
 | 29 | [One Finger Snap \- Remastered](https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 7:21 |
-| 30 | [Airegin](https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:26 |
-| 31 | [Arietis \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:41 |
+| 30 | [Arietis \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:41 |
+| 31 | [Airegin](https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:26 |
 | 32 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
 | 33 | [Ande \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 6:42 |
 | 34 | [Wee \(Allen's Alley\)](https://open.spotify.com/track/66D8kuQSFshLhI6aVaef2D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Ultimate Stan Getz](https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm) | 8:27 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [The Surrey With The Fringe On Top \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 5:11 |
 | 65 | [Slippers](https://open.spotify.com/track/2l9HtErDh1gZfnyjeBk9NT) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [A Modern Symposium of Music and Poetry \(Remastered 2013\)](https://open.spotify.com/album/122JFn10LK4Mpzp8yqIdhO) | 3:28 |
 
-Snapshot ID: `MCw4MDE1MjUxYWRmMGRjOWZiNDQ1YTk2NzFkMjAyNjhmNDMzMzVlZTNj`
+Snapshot ID: `MCwwMDg2ZjA3OTNlN2UyODVhYjIxYmNmYTRhOGJiODY3NzA4NGY2ZTI0`

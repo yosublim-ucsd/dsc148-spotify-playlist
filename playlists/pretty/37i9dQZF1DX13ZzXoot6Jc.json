@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Tenille Arts",
-  "num_followers": 454542,
+  "num_followers": 454619,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2I0MDgxODhmNDBhZmZhMzk1Y2Q5MjM3NGZmMzVjMDljZTZkY2Y2",
+  "snapshot_id": "MCwxYjA0NWQ4YzY0ZjlhYWI1YzQ1YjcwMGMxZTRhZWQ2ZTc1N2EwYTc3",
   "tracks": [
     {
       "added_at": "2023-10-27 11:41:08",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-10-27 11:41:08",
       "album": {
+        "name": "Girl to Girl",
+        "url": "https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Back Then, Right Now",
+      "url": "https://open.spotify.com/track/3wgo9ePs5s7OMO6yHQJB1T"
+    },
+    {
+      "added_at": "2023-10-27 11:41:08",
+      "album": {
         "name": "TWENTY SOMETHING",
         "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 210106,
       "name": "Where the Country Girls At (feat. Luke Bryan & Pitbull)",
       "url": "https://open.spotify.com/track/0JyWUiuuPeiTfdQiAyikVo"
-    },
-    {
-      "added_at": "2023-10-27 11:41:08",
-      "album": {
-        "name": "Girl to Girl",
-        "url": "https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Back Then, Right Now",
-      "url": "https://open.spotify.com/track/3wgo9ePs5s7OMO6yHQJB1T"
     },
     {
       "added_at": "2023-10-27 11:41:08",

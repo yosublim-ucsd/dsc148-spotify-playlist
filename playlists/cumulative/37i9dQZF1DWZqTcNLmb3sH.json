@@ -14800,8 +14800,8 @@
       },
       "artists": [
         {
-          "name": "Pratham Bhat",
-          "url": "https://open.spotify.com/artist/6SNzptXtawfsytlPCNvv76"
+          "name": "Pratham",
+          "url": "https://open.spotify.com/artist/7qsu0SYzX2qKmd9GcUmbOt"
         },
         {
           "name": "Bharath Janardhan",
@@ -18086,10 +18086,32 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 243225,
       "name": "Restart (From \"12th Fail\")",
       "url": "https://open.spotify.com/track/4ut2rPwNWsqLdlmVpg6c5s"
+    },
+    {
+      "album": {
+        "name": "Restart (From \"12th Fail\") (Kannada)",
+        "url": "https://open.spotify.com/album/4QdAbl92CzDFtNnE76B5Wl"
+      },
+      "artists": [
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Shashank Sheshagiri",
+          "url": "https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Restart (From \"12th Fail\") (Kannada)",
+      "url": "https://open.spotify.com/track/7vpRvnjTzSzQV1CFIuDtSj"
     },
     {
       "album": {

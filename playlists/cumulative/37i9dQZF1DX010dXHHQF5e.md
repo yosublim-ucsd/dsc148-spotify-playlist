@@ -4,7 +4,7 @@
 
 > 
 
-380 songs - 20 hr 8 min
+382 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Blue Notes in the Afternoon](https://open.spotify.com/track/3Crsc0HeZX63iFyyDZUNHL) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Blue Notes in the Afternoon](https://open.spotify.com/album/0fRdNpsQzDIqfDcWrlbagH) | 2:27 | 2023-06-08 |  |
 | [Blue Skies](https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Blue Skies](https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75) | 2:55 | 2023-03-23 |  |
 | [Bluesette](https://open.spotify.com/track/0wnOuJclpacVenVngRphVW) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bluesette](https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw) | 2:47 | 2023-03-23 |  |
-| [Body & Soul](https://open.spotify.com/track/3pN6anyR3uOXlZTTiGf3SM) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Body & Soul](https://open.spotify.com/album/7B24Tb6qBF8FKeHIB91s8F) | 4:33 | 2023-06-08 |  |
+| [Body & Soul](https://open.spotify.com/track/3pN6anyR3uOXlZTTiGf3SM) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Body & Soul](https://open.spotify.com/album/7B24Tb6qBF8FKeHIB91s8F) | 4:33 | 2023-06-08 | 2023-10-29 |
 | [Box Of Photos](https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Box Of Photos](https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ) | 2:29 | 2023-05-11 |  |
 | [Break My Heart, Love](https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:57 | 2023-03-23 |  |
 | [Cabin In The Sky](https://open.spotify.com/track/7vZDxwET1WCo9wiO1MgAgR) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Cabin In The Sky](https://open.spotify.com/album/0VAsLDBshbyYcZeJAAgTcZ) | 2:07 | 2023-03-23 |  |
@@ -65,6 +65,7 @@
 | [Come Lay beside Me](https://open.spotify.com/track/5FzAFM8TN0RyOXHNO5tHTm) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Come Lay beside Me](https://open.spotify.com/album/1IQfTAYfEDbuZ4RwbU26di) | 3:03 | 2023-03-23 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2023-03-23 |  |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2023-03-23 |  |
+| [Crosby Street](https://open.spotify.com/track/22ugSr3HnMXfxTiXsroNQD) | [Carmen Simmons](https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV) | [Crosby Street](https://open.spotify.com/album/5lN5yfRTiTpukhAWyFHxxW) | 2:26 | 2023-10-27 |  |
 | [cry me a river](https://open.spotify.com/track/4olBwuWQChNo3bH8zMXHTK) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [Cry Me A River](https://open.spotify.com/album/5w2gxjaHIkLL0MnO5UWNC3) | 4:19 | 2023-06-08 | 2023-08-13 |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2023-06-08 |  |
 | [Dansero](https://open.spotify.com/track/72A294OT4WtwLqmMvm5uhB) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Dansero](https://open.spotify.com/album/5imNzHswQu9mbRp64AInqs) | 3:38 | 2023-08-11 |  |
@@ -113,7 +114,7 @@
 | [Four Casinos](https://open.spotify.com/track/04lRn70B8yfARIXJ4kyrWx) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Four Casinos](https://open.spotify.com/album/4h3c6zAo3Qj26fVX2Bmz2a) | 2:28 | 2023-06-01 |  |
 | [Friends And Strangers](https://open.spotify.com/track/6tZc3j3MwIP4dg4eiz6qgX) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Friends And Strangers](https://open.spotify.com/album/7zuHcKj8izOoEjfNUtuFjG) | 2:36 | 2023-04-20 |  |
 | [Full Moon Hike](https://open.spotify.com/track/3AtccUNxKL52a5RNrcd2bk) | [Jan Holdsworth](https://open.spotify.com/artist/1xefND4JiYjKNKPGc7ng1I) | [Full Moon Hike](https://open.spotify.com/album/2jpf5Zh64f7t8Rn0XByGNa) | 2:23 | 2023-06-01 |  |
-| [Gentle rain](https://open.spotify.com/track/55E7VD2WRuFCr4tBRKWiK6) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [Songs by the bay](https://open.spotify.com/album/1dhYnd1atGKlPshAx7n4Kg) | 3:44 | 2023-06-08 |  |
+| [Gentle rain](https://open.spotify.com/track/55E7VD2WRuFCr4tBRKWiK6) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [Songs by the bay](https://open.spotify.com/album/1dhYnd1atGKlPshAx7n4Kg) | 3:44 | 2023-06-08 | 2023-10-29 |
 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 | 2023-03-23 |  |
 | [God Bless the Child](https://open.spotify.com/track/1CUlSxsssHNYP9DGrycKy2) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [God Bless the Child](https://open.spotify.com/album/7s6iI12sBcdegRHmnmE1mn) | 4:14 | 2023-03-23 |  |
 | [Gone With The Wind](https://open.spotify.com/track/5Ipp7U3NUTdLcfUknpqYd3) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Gone With The Wind](https://open.spotify.com/album/5gWixXwisRX4dTF15toKLe) | 3:32 | 2023-03-23 |  |
@@ -166,6 +167,7 @@
 | [In Love In Vain](https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [In Love In Vain](https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT) | 2:54 | 2023-06-01 |  |
 | [In My Solitude](https://open.spotify.com/track/22NftQ2VUEMoD1DqUbi8rF) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [My Shining Hour](https://open.spotify.com/album/4RFgQUMZWRpdqP28HhEQH4) | 3:44 | 2023-03-23 |  |
 | [In Search of Lost Time](https://open.spotify.com/track/2vU0LYmrVaazWAah8UhPV3) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [In Search of Lost Time](https://open.spotify.com/album/5c3RmJbnZ42tbB5yccGvl8) | 3:04 | 2023-06-08 |  |
+| [In That Moment, I Knew](https://open.spotify.com/track/0JRNniv579lFXcvyYQyfvK) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [In That Moment, I Knew](https://open.spotify.com/album/2yxjOPdaR1r41D3J2V4zXG) | 3:05 | 2023-10-27 |  |
 | [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-05-04 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2023-06-08 |  |
 | [Infant Eyes](https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Infant Eyes](https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc) | 3:40 | 2023-04-20 |  |
@@ -310,7 +312,7 @@
 | [Strasbourg](https://open.spotify.com/track/3i4NoQWDcWEZ2q7TYqj5r1) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Strasbourg](https://open.spotify.com/album/04tdMaGADr9577CFzyqoLY) | 2:22 | 2023-06-08 |  |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 | 2023-09-14 |
 | [Streets of Gold](https://open.spotify.com/track/5CLGKbMa7u0QZe6nLOQEe9) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [Streets of Gold](https://open.spotify.com/album/3HRAv95HLT2CXEVQRJSvhV) | 2:02 | 2023-05-25 |  |
-| [Sudden Light](https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Sudden Light](https://open.spotify.com/album/5A6oIf1TnaPU8NJL6MKLq4) | 3:23 | 2023-10-27 | 2023-10-28 |
+| [Sudden Light](https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Sudden Light](https://open.spotify.com/album/5A6oIf1TnaPU8NJL6MKLq4) | 3:23 | 2023-10-27 |  |
 | [Summer in Central Park](https://open.spotify.com/track/1LI1odohhRVtGSqRuEABw9) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Summer in Central Park](https://open.spotify.com/album/6KlLMcXaSJtFeUvWexpaEA) | 3:31 | 2023-09-13 |  |
 | [Summer Love](https://open.spotify.com/track/3V0JLSKOckMOO9Eh2N5rbT) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Summer Love](https://open.spotify.com/album/6S7rGAffgFdrMIHY6DjUAv) | 3:33 | 2023-08-24 |  |
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2023-03-23 |  |
@@ -382,7 +384,7 @@
 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 | 2023-03-23 |  |
 | [You Could Stay If You Want To](https://open.spotify.com/track/7161s2i9EU8DN8U95qLl8q) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [You Could Stay If You Want To](https://open.spotify.com/album/028nyeG5bPwDuBA8apckk9) | 3:18 | 2023-03-23 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/0QX4Wc3m1WlNxwEQqFmagK) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [You Don't Know What Love Is](https://open.spotify.com/album/3KdujtfsTqGw9eLtUDGnnz) | 3:42 | 2023-03-23 |  |
-| [You Know I Care](https://open.spotify.com/track/00ylsiP1FHq3g3TLIXFUUZ) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:58 | 2023-10-27 |  |
+| [You Know I Care](https://open.spotify.com/track/00ylsiP1FHq3g3TLIXFUUZ) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:58 | 2023-10-27 | 2023-10-29 |
 | [You Know It's Me](https://open.spotify.com/track/1EzsGVXnTmukpzQ8u8F5gg) | [Tina Wellbeck](https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe) | [You Know It's Me](https://open.spotify.com/album/70fqNXNdAYga8XSizrCfbS) | 2:37 | 2023-03-23 |  |
 | [You Stepped Out Of A Dream](https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [You Stepped Out Of A Dream](https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS) | 2:35 | 2023-03-23 |  |
 | [You Took Advantage of Me](https://open.spotify.com/track/1C5FahCvIOUsd0RrfmlQng) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [You Took Advantage of Me](https://open.spotify.com/album/7z4ANRQxTVKOpRpsaMKoKu) | 2:58 | 2023-05-04 |  |

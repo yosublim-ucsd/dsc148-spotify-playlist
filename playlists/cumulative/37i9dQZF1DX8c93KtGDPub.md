@@ -4,12 +4,13 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-271 songs - 15 hr 49 min
+273 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/00BFJckRTYu3QeeZRq15qf) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/album/6KWhYyuzKStMgcvDdRJFwW) | 3:35 | 2021-12-24 |  |
+| [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/00BFJckRTYu3QeeZRq15qf) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/album/6KWhYyuzKStMgcvDdRJFwW) | 3:35 | 2021-12-24 | 2023-10-29 |
 | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/6Tq3Dme2AbZJGNqAVu0YNp) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [\(anywhere but\) Home for the Holidays](https://open.spotify.com/album/575hRObiltYxjwWXWryhc2) | 3:35 | 2021-12-24 | 2022-07-29 |
+| [\(anywhere but\) Home for the Holidays](https://open.spotify.com/track/1mcK8CwRiYfxW3Bq0yaZQr) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Christmas Together \(Wherever We Are\)](https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx) | 3:35 | 2023-10-16 |  |
 | [1996](https://open.spotify.com/track/4Ty0vDG9dS1dLa2x2aPK3v) | [The Lake Poets](https://open.spotify.com/artist/1DuQn0J1YVDcA4g0WJwRvw) | [The Lake Poets](https://open.spotify.com/album/2oi7ulPKLf1eItg8P9f8li) | 3:33 | 2021-12-24 |  |
 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 | 2021-12-24 |  |
 | [7 O'clock News / Silent Night](https://open.spotify.com/track/1vt97xJDv7I0r7sZfpBh8X) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/6UVMddA5Sra9lidIcEJoTx) | 2:02 | 2021-12-24 | 2022-07-29 |
@@ -18,8 +19,9 @@
 | [A Child's Christmas in Wales](https://open.spotify.com/track/4gydEH2RTA91rV5F8NkonM) | [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7) | [A Child's Christmas in Wales](https://open.spotify.com/album/2ixBkmoRp6Mnt6irGcr9B1) | 3:53 | 2022-11-15 |  |
 | [A Little Magic](https://open.spotify.com/track/6rCw1KBUFspWwrjITjaQCN) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [A Little Magic](https://open.spotify.com/album/3JGH2XprRi3xsQH19J40Ko) | 2:53 | 2021-12-24 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/4zIyVPoeA6E71Y0a4FpgbT) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [All I Want For Christmas Is You](https://open.spotify.com/album/6stDo8b4EYNFZCPn0vESRz) | 3:09 | 2022-11-15 |  |
+| [All I Want for Christmas Is You](https://open.spotify.com/track/2pGJtDfwKVxNFBwRAZLHOV) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Christmas Together \(Wherever We Are\)](https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx) | 3:02 | 2023-10-16 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/2XxEQ7WcKW2N1ej6G9SxR5) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [All I Want for Christmas Is You](https://open.spotify.com/album/1hZtFOaHptEeLk0Qj14rF1) | 3:02 | 2021-12-24 | 2022-07-29 |
-| [All I Want for Christmas Is You](https://open.spotify.com/track/6XYlGIZ5FJVPcsMEvapuO8) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [All I Want for Christmas Is You](https://open.spotify.com/album/2KgepIGt89PNbVoGJuEaud) | 3:02 | 2021-12-24 |  |
+| [All I Want for Christmas Is You](https://open.spotify.com/track/6XYlGIZ5FJVPcsMEvapuO8) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [All I Want for Christmas Is You](https://open.spotify.com/album/2KgepIGt89PNbVoGJuEaud) | 3:02 | 2021-12-24 | 2023-10-29 |
 | [All Is Grace](https://open.spotify.com/track/7n8i5Srn6mjSZQhVHpUrJq) | [Gerard and the Watchmen](https://open.spotify.com/artist/1Zx6dcD3aCON2ch3IgVYNC) | [Wooden Castles](https://open.spotify.com/album/1ZfTOI23jmRq3CaJ8dtfhi) | 1:50 | 2021-12-24 |  |
 | [Amazing Grace](https://open.spotify.com/track/3ejWV2lRTGxgeRlu17S1xH) | [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Amazing Grace](https://open.spotify.com/album/3QgAcaDxTOqHApuBYaKW8x) | 4:56 | 2021-12-24 |  |
 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 | 2021-12-24 |  |

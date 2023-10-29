@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Vv Pete
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,693 likes - 99 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,697 likes - 99 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 15 | [A Hoochie Tale](https://open.spotify.com/track/4WRPcEvn4VoajAwr0WmQmw) | [Tokyo Vendetta](https://open.spotify.com/artist/0qYhGiA7BARkaoJbklqLG7) | [A Hoochie Tale](https://open.spotify.com/album/45nkru8SAn2PqXy1Y6uWtq) | 2:46 |
 | 16 | [Finding My Way](https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7) | [PROPH3T](https://open.spotify.com/artist/3CfDgUAqzcrVjX2GSgAroa), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [Finding My Way](https://open.spotify.com/album/2VJLah9SVibt5UYFU9HVM6) | 2:42 |
 | 17 | [Celine](https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Celine](https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc) | 3:13 |
-| 18 | [Burst](https://open.spotify.com/track/5EtEvqQzoBjbgBjD9g0X6T) | [Tyrøne](https://open.spotify.com/artist/3XiTKd8B9JR5nunJZV5nK0), [Big Skeez](https://open.spotify.com/artist/5pSy3Q1Uj87Z21phGKFxEj) | [Burst](https://open.spotify.com/album/5fcFn01621UFEQNauNchfh) | 2:35 |
+| 18 | [Burst](https://open.spotify.com/track/5EtEvqQzoBjbgBjD9g0X6T) | [Tyrøne](https://open.spotify.com/artist/3XiTKd8B9JR5nunJZV5nK0), [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu) | [Burst](https://open.spotify.com/album/5fcFn01621UFEQNauNchfh) | 2:35 |
 | 19 | [LOST SOULS](https://open.spotify.com/track/0HTn7A9rEj6i7qRyCMrJLo) | [Kid Rey](https://open.spotify.com/artist/7o3qyJI8ODvWje1f5U52jp) | [LOST SOULS](https://open.spotify.com/album/589yXgWUhVd5EvKlIDaBx1) | 1:53 |
 | 20 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 2:50 |
 | 21 | [Pinnacle Bitch](https://open.spotify.com/track/7zOHs1vpfnGnx2KFBjnNOE) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Pinnacle Bitch](https://open.spotify.com/album/0odPeCpPLezE6U2cogRT2b) | 3:21 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 98 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 |
 | 99 | [Blacked Out Tint](https://open.spotify.com/track/24rcytWl0Fq9CmC9QU2Hns) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [Blacked Out Tint](https://open.spotify.com/album/4QPr1TkGC7FLVK03uyTzQG) | 2:35 |
 
-Snapshot ID: `MCw1ZTJhZTA3ZTg1NTIzZjIzYjY5ZjFiMGU4YTk2ZDUxNDM4MDQzNWI5`
+Snapshot ID: `MCwzMTRlN2VlZjRiMTMzODcxMDczMzNiOWYwMzQ3ZmE2MGY2N2ViN2Ex`

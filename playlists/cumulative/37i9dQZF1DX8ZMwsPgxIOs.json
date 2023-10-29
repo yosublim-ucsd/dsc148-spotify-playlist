@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: Reb\u016bke",
+  "description": "Techno is a state of mind. Cover: Adam Beyer",
   "name": "Techno State",
   "tracks": [
     {
@@ -836,7 +836,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 335010,
       "name": "Cruising In My Herse",
       "url": "https://open.spotify.com/track/5NoVq4jZJkdVMvRlWFCEMk"
@@ -912,6 +912,42 @@
       "duration_ms": 388000,
       "name": "Deep Space X",
       "url": "https://open.spotify.com/track/6X1c9HhslDe4ykuXb7d9vI"
+    },
+    {
+      "album": {
+        "name": "denver luna",
+        "url": "https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481946,
+      "name": "denver luna",
+      "url": "https://open.spotify.com/track/6zNvFsA2rwXrBxq8AZ8mXr"
+    },
+    {
+      "album": {
+        "name": "Desert Queen",
+        "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236691,
+      "name": "Desert Queen",
+      "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
     },
     {
       "album": {
@@ -1216,7 +1252,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 318360,
       "name": "Eternity Of Echoes",
       "url": "https://open.spotify.com/track/0NXejdY0rXJfMkocRP1osb"
@@ -1380,6 +1416,24 @@
       "duration_ms": 316444,
       "name": "Feel The Rhythm",
       "url": "https://open.spotify.com/track/5aZvrkexQVRGubS0rPnPYv"
+    },
+    {
+      "album": {
+        "name": "ACID TRAXXX",
+        "url": "https://open.spotify.com/album/0ZNaxa4WrvuHmyBwZY49UA"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367272,
+      "name": "FILTY ACID",
+      "url": "https://open.spotify.com/track/5pQE39FojbnW0fiXLswMdI"
     },
     {
       "album": {
@@ -1706,6 +1760,24 @@
       "duration_ms": 271127,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/3xKAmywnVUyT9mDQP7vwAj"
+    },
+    {
+      "album": {
+        "name": "Radical",
+        "url": "https://open.spotify.com/album/5EFl876r4ClNKdplwwH2XP"
+      },
+      "artists": [
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274602,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/2UCncsHyNdD1vydaF7rZ1k"
     },
     {
       "album": {
@@ -2179,6 +2251,28 @@
     },
     {
       "album": {
+        "name": "Mango (2023 Edit)",
+        "url": "https://open.spotify.com/album/62EBxGrMF56ygSQzhKqRtJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/74i6loAN8sWEGN1EblwOF0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215238,
+      "name": "Mango - 2023 Edit",
+      "url": "https://open.spotify.com/track/0talaImygs93swVz15SW2H"
+    },
+    {
+      "album": {
         "name": "Mare's Nest",
         "url": "https://open.spotify.com/album/1dwa6pWl6Lv51tYEO1fCOe"
       },
@@ -2316,7 +2410,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 392709,
       "name": "Missing Channel - Original Mix",
       "url": "https://open.spotify.com/track/1Hs5l7PHbZ0LZAZfAUw1bZ"
@@ -2515,6 +2609,28 @@
     },
     {
       "album": {
+        "name": "Loam / New Symbols",
+        "url": "https://open.spotify.com/album/68iZNNrpkM91TSXbGmMAhL"
+      },
+      "artists": [
+        {
+          "name": "SCALER",
+          "url": "https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252617,
+      "name": "New Symbols",
+      "url": "https://open.spotify.com/track/4KXEaUrzTUeEh8XlWsEZWZ"
+    },
+    {
+      "album": {
         "name": "Slapfunk EP",
         "url": "https://open.spotify.com/album/5FvmHM9fi9sztkWrBNLGjP"
       },
@@ -2600,7 +2716,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 256221,
       "name": "Not That Girl Anymore",
       "url": "https://open.spotify.com/track/5OkODjxGxTkn6KVhDYZ8Zl"
@@ -2905,6 +3021,24 @@
     },
     {
       "album": {
+        "name": "Power Of Thought EP",
+        "url": "https://open.spotify.com/album/1WjosIw46H2KJUb9W462FU"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420644,
+      "name": "Pria",
+      "url": "https://open.spotify.com/track/5NLu9XiiF80Txfg2Pl8zE8"
+    },
+    {
+      "album": {
         "name": "Pure Evil",
         "url": "https://open.spotify.com/album/7zjWZoj0hSUUDZ0AFoj240"
       },
@@ -3094,7 +3228,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 300392,
       "name": "Right to Riot",
       "url": "https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt"
@@ -3376,7 +3510,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 409000,
       "name": "Sometimes The Nights Last For Months",
       "url": "https://open.spotify.com/track/0jhUKXv10QyXRK1x2JAYGE"
@@ -3620,6 +3754,24 @@
       "duration_ms": 382487,
       "name": "Sweat Sonic",
       "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
+    },
+    {
+      "album": {
+        "name": "Sweet & Juicy",
+        "url": "https://open.spotify.com/album/1FM98XL6utzj2kBOAlRhbe"
+      },
+      "artists": [
+        {
+          "name": "AISHA (Sco)",
+          "url": "https://open.spotify.com/artist/3mFGWOyRFTCLKBQe2THZgr"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302362,
+      "name": "Sweet & Juicy",
+      "url": "https://open.spotify.com/track/3OUUKk3xjM8vQf9CUm1fff"
     },
     {
       "album": {
@@ -4226,7 +4378,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 287198,
       "name": "Wall of Sleep",
       "url": "https://open.spotify.com/track/0O3YlTNABo6rkYRCr1B5oR"
@@ -4422,7 +4574,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 359000,
       "name": "Your Future Looks Different In The Light",
       "url": "https://open.spotify.com/track/5uf5vCbAH9YeO2HfJKdlVo"

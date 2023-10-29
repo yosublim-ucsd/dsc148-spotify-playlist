@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWVhYzlmODNmODU2YWYxZWRiZGY5YWNlMjNjZDc2NDNmZjAwODlm",
+  "snapshot_id": "MCwxZDZlYTBiMGY3NjU5NGEzZWVkMTY1MmNiYzdkOTZkNTMwMGY0YTQ0",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Logic1000",
-        "url": "https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 247402,
-      "name": "Baddie Part Two",
-      "url": "https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Da Linha",
         "url": "https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 170901,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Logic1000",
+        "url": "https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 247402,
+      "name": "Baddie Part Two",
+      "url": "https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -840,22 +840,6 @@
       },
       "artists": [
         {
-          "name": "Geeneus",
-          "url": "https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx"
-        }
-      ],
-      "duration_ms": 460712,
-      "name": "Yellowtail",
-      "url": "https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "Volumes:One",
-        "url": "https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h"
-      },
-      "artists": [
-        {
           "name": "Zinc",
           "url": "https://open.spotify.com/artist/2XbmF8oDG2rPuuWfnrCGPF"
         },
@@ -871,6 +855,22 @@
       "duration_ms": 425638,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/2RMg1XOdQPxDesC5ihYk90"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Volumes:One",
+        "url": "https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h"
+      },
+      "artists": [
+        {
+          "name": "Geeneus",
+          "url": "https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx"
+        }
+      ],
+      "duration_ms": 460712,
+      "name": "Yellowtail",
+      "url": "https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC"
     },
     {
       "added_at": "2022-04-13 15:03:02",

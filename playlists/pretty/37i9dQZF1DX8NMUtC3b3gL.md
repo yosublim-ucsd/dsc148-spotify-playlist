@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,610 likes - 226 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,578 likes - 226 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,7 +189,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 179 | [Plenty of Time](https://open.spotify.com/track/0MUOxmrEV161VT8NkZ6zuW) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [Plenty of Time](https://open.spotify.com/album/2Mdcw1bBD8SkE1xwwfd5e6) | 1:42 |
 | 180 | [Nowhere](https://open.spotify.com/track/4HlCBuCaDxtetNpuz2GcWE) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Nowhere](https://open.spotify.com/album/1A1D12IvHSnqe2SbUNXvv0) | 2:18 |
 | 181 | [Roaming](https://open.spotify.com/track/1IbSH4FYgPPjpF765lmJpw) | [Maelk](https://open.spotify.com/artist/5iv7276O5MpFO01YZ1TTjx) | [Roaming](https://open.spotify.com/album/1iwpHcAgP1ngtZQ4kbAvx1) | 2:35 |
-| 182 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 |
+| 182 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [HUGØ](https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 |
 | 183 | [Passeio](https://open.spotify.com/track/0VlCGSR9qApwxelX36S1JY) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Passeio](https://open.spotify.com/album/42JGcSmWYu00SrmMolODin) | 2:44 |
 | 184 | [Inner Peace](https://open.spotify.com/track/0eUF2e0MbDLjn3q6oAozI3) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Inner Peace](https://open.spotify.com/album/3WSaq9ZPAbpmybrccwdxbc) | 2:05 |
 | 185 | [summer haze](https://open.spotify.com/track/0aG9gVRYIzdHwMeUQcLm0v) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Summer 32](https://open.spotify.com/album/17dlQVGukmo4BMGc3TOb4D) | 3:44 |

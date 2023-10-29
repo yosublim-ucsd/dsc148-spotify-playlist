@@ -23007,6 +23007,24 @@
     },
     {
       "album": {
+        "name": "I Think I Love You",
+        "url": "https://open.spotify.com/album/3MaChQyUDd1WWBqkEGPzRE"
+      },
+      "artists": [
+        {
+          "name": "MAXO",
+          "url": "https://open.spotify.com/artist/4seVHb4ZkyDnptQESAbyzC"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159344,
+      "name": "I Think I Love You",
+      "url": "https://open.spotify.com/track/4gl3AnryOPiIqjtwnsv44o"
+    },
+    {
+      "album": {
         "name": "i think i'm in love with u",
         "url": "https://open.spotify.com/album/3fOu9Y9Bjw9O22qYbab7nM"
       },
@@ -23534,10 +23552,28 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-29",
       "duration_ms": 194026,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/0aW1B3CdGyJPrQlfF8kTyh"
+    },
+    {
+      "album": {
+        "name": "The Derivative Sounds Of... OR... A Dog Always Returns to Its Vomit",
+        "url": "https://open.spotify.com/album/5jnDqlSPBYyD25X3lXyi2y"
+      },
+      "artists": [
+        {
+          "name": "Alien Nosejob",
+          "url": "https://open.spotify.com/artist/0Qi0OyDidGJFDUEsxXuchH"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "I'm Lost",
+      "url": "https://open.spotify.com/track/3OiqNYKcvXIHw7qUSIugN1"
     },
     {
       "album": {

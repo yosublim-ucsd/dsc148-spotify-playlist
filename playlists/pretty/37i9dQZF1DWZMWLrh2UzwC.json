@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Taylor Swift",
-  "num_followers": 61925,
+  "num_followers": 61939,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZThmMDU0Y2EyZWQxN2Y0MmU4Y2M0NDA1ZjIyNzg4OWVlMjgwNGY1",
+  "snapshot_id": "MCw3NmQwYzA5MWFkYjE3OTg2NWU3NTk4MGVmMGQ2YmJjYzM3NWE3NDll",
   "tracks": [
     {
       "added_at": "2023-10-26 16:00:00",
@@ -1056,12 +1056,12 @@
       },
       "artists": [
         {
-          "name": "BRADD",
-          "url": "https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO"
-        },
-        {
           "name": "Elin Lee",
           "url": "https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx"
+        },
+        {
+          "name": "BRADD",
+          "url": "https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO"
         }
       ],
       "duration_ms": 208500,

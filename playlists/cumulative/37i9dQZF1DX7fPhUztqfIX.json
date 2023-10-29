@@ -3517,24 +3517,6 @@
     },
     {
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "date_added": "2021-06-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 349000,
-      "name": "Uncomplicated - Live",
-      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
-    },
-    {
-      "album": {
         "name": "Uncomplicated",
         "url": "https://open.spotify.com/album/5CR3dPeatQzTUhR1m9ZWPU"
       },
@@ -3550,6 +3532,28 @@
       "duration_ms": 349000,
       "name": "Uncomplicated - Live",
       "url": "https://open.spotify.com/track/54vRNERWhSwJZ1W5y9zlDt"
+    },
+    {
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Aodhan King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2021-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349000,
+      "name": "Uncomplicated - Live",
+      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
     },
     {
       "album": {
