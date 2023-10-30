@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 17577,
+  "num_followers": 17596,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTAxMDQ5NjRiNGFiOWE5ZTQ2YzlhNDc4MWRlYjQxNTY3Zjc2ODE2",
+  "snapshot_id": "MCwxM2ZhMDI2ZWIxMmE5MDQ2MjMwZDBiNTUyMzQxMGQyNDhmNmFmYzhl",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:17",
@@ -167,18 +167,22 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Tango Agazapado",
-        "url": "https://open.spotify.com/album/6vvNXu2ekbHPJP0WC2m1RD"
+        "name": "Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
       },
       "artists": [
         {
-          "name": "La Chicana",
-          "url": "https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ"
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        },
+        {
+          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
+          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
         }
       ],
-      "duration_ms": 224720,
-      "name": "Juguete Rabioso",
-      "url": "https://open.spotify.com/track/0n3GMCF0LyCHxwVlBsfbCE"
+      "duration_ms": 148293,
+      "name": "Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -239,22 +243,18 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
+        "name": "Tango Agazapado",
+        "url": "https://open.spotify.com/album/6vvNXu2ekbHPJP0WC2m1RD"
       },
       "artists": [
         {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
-        },
-        {
-          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
-          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
+          "name": "La Chicana",
+          "url": "https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ"
         }
       ],
-      "duration_ms": 148293,
-      "name": "Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
+      "duration_ms": 224720,
+      "name": "Juguete Rabioso",
+      "url": "https://open.spotify.com/track/0n3GMCF0LyCHxwVlBsfbCE"
     },
     {
       "added_at": "2023-08-11 14:55:17",

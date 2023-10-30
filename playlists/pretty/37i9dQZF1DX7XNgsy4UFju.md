@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,138 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,139 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dang](https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Dang](https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8) | 2:44 |
 | 2 | [Violet](https://open.spotify.com/track/3cr2zxI2jW4OWSABzB03d9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Violet](https://open.spotify.com/album/3wuPmt8toIysZ1xSaHzzRR) | 7:18 |
 | 3 | [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 |
-| 4 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 |
+| 4 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 |
 | 5 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 6 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
 | 7 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 33 | [Practice](https://open.spotify.com/track/6J2ECbAbX4L4WgIkeXyeq6) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Practice](https://open.spotify.com/album/06y4wpVgWExGgvoUECSgMj) | 3:14 |
 | 34 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
 | 35 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 |
-| 36 | [Laff It Off](https://open.spotify.com/track/17NcVt20OyD8VbGoFnOHF4) | [Pony Girl](https://open.spotify.com/artist/4AHK4mLrsycTVKUQMAUsy0) | [Laff It Off](https://open.spotify.com/album/3hMwjqhjjbPdaWpfN9dgVE) | 4:00 |
+| 36 | [Laff It Off](https://open.spotify.com/track/6dQqYSF0S10fxEjPSMchhO) | [Pony Girl](https://open.spotify.com/artist/4AHK4mLrsycTVKUQMAUsy0) | [Laff It Off](https://open.spotify.com/album/16NeB6HBLYMvGbgxCQ4gwr) | 4:00 |
 | 37 | [limbo](https://open.spotify.com/track/0JFUAuI5jrh7xHaY0kRFW1) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the star factory](https://open.spotify.com/album/3uOmDnsAd5bFVaOx6nsUTB) | 3:02 |
 | 38 | [NFU](https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [NFU](https://open.spotify.com/album/6e5xluOlHaZPnI1ORf483L) | 3:41 |
 | 39 | [Cut Me Down \(feat\. Mallrat\)](https://open.spotify.com/track/5YcaoDErGAsdGwCmFvRicq) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Cut Me Down \(feat\. Mallrat\)](https://open.spotify.com/album/3H2sRRy1oPWojDvXPjMruV) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Parallel](https://open.spotify.com/track/71yizzHrqEmKVdffU6BZbo) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Parallel](https://open.spotify.com/album/7EzyshmCFWJhje9N91PuFL) | 4:06 |
 | 100 | [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 |
 
-Snapshot ID: `MCwzYmY5Njk4ZTQzYzUzNWU1M2EzMmNlZDI3YzU0NjY2YjliZDVkMDJh`
+Snapshot ID: `MCw0MTNiNzlkNDZkZTIyMGNmNjMwZjljODdlMjEyOTgyYWM0OGFmNzZh`

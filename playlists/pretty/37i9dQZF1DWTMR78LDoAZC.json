@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 141706,
+  "num_followers": 141768,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzJkZDVmYzM5ZGJlNTQzMjUwYTU3MmE2YzNhMTMxMGY2NGEyMDlk",
+  "snapshot_id": "MCxjYmNjZGU4Y2E1MTM0MDkyNGIwMDI5NTgxNmE1OWYxY2E4YjE3NTMy",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 212414,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Collapsed In Sunbeams",
@@ -335,6 +319,22 @@
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 212414,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Humor",
         "url": "https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "The Art of Forgetting",
-        "url": "https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N"
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
       },
       "artists": [
         {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 284960,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC"
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1039,6 +1023,22 @@
       "duration_ms": 219320,
       "name": "Fellowship",
       "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "The Art of Forgetting",
+        "url": "https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC"
     },
     {
       "added_at": "2023-06-01 04:00:00",

@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Rubio
 
-425 songs - 1 day 1 hr 36 min
+426 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Es Suficiente](https://open.spotify.com/track/2PToyUgUHW6iCPUKCvIhzw) | [Vero Soffia](https://open.spotify.com/artist/3CYRq2jA4EHkNmPssIpUPx) | [Es Suficiente](https://open.spotify.com/album/4h6A3AMTn8FC0Li0D6dkk6) | 3:40 | 2022-04-15 | 2022-07-29 |
 | [Esperancita](https://open.spotify.com/track/0hCsSxKmlBFfcoiAEGta0H) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Esperancita](https://open.spotify.com/album/5uEnrbRANWypwVyHXibnfV) | 3:53 | 2022-04-15 | 2022-07-20 |
 | [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY) | 3:29 | 2023-10-12 |  |
-| [Esta vislumbra](https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:21 | 2022-10-28 |  |
+| [Esta vislumbra](https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:21 | 2022-10-28 | 2023-10-30 |
 | [Estado Vegetal](https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Estado Vegetal](https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n) | 3:16 | 2022-04-15 |  |
 | [Estalló la Revuelta](https://open.spotify.com/track/17xn80al7euSF9rqRhrvTn) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW) | [Estalló la Revuelta](https://open.spotify.com/album/3xKbStQSnYjsnkcYA6jNHl) | 3:35 | 2022-04-15 | 2022-07-28 |
 | [Este Debe Ser el Lugar](https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Este Debe Ser el Lugar](https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws) | 2:46 | 2022-04-15 | 2022-12-10 |
@@ -327,6 +327,7 @@
 | [Respirar](https://open.spotify.com/track/1MbOQiNa5KQl7OVTHBBje3) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Respirar](https://open.spotify.com/album/261cmtUeDilVWOSlXFCmHr) | 2:45 | 2023-08-25 |  |
 | [Retazos de Diciembre](https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Retazos de Diciembre](https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5) | 3:00 | 2022-08-19 |  |
 | [Revista de Gimnasia \- Alejandro Paz Remix](https://open.spotify.com/track/5FR4gA58DZ7rzDb3LQVYyW) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Fuera de Campo \(Edición Deluxe\)](https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz) | 4:56 | 2023-09-22 |  |
+| [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 | 2023-10-27 |  |
 | [Robot \(de Juguete\)](https://open.spotify.com/track/5ldcu2e1u50xIwUXgEYGLk) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Flores Plásticas](https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4) | 2:00 | 2022-07-01 | 2023-02-24 |
 | [Rosas](https://open.spotify.com/track/7wZFCm0qLOAWN1AHVdxzKP) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Rosas](https://open.spotify.com/album/6QPTZhDk3GZnAR0Xwmrff2) | 4:37 | 2022-04-15 | 2022-09-03 |
 | [Ruinas Circulares](https://open.spotify.com/track/0sMqiuWolXiUdkmHpnMqgL) | [Cuáles i Quiénes](https://open.spotify.com/artist/7nKsmOz9yJIo3w0SAD0qBq) | [Mañana Siempre es Tarde!](https://open.spotify.com/album/1XovlbyG0ylD7ODD3POfMY) | 5:00 | 2022-04-15 | 2022-07-29 |

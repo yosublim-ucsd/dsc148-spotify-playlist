@@ -4,7 +4,7 @@
 
 > The stomping ground.
 
-683 songs - 2 day 5 hr 33 min
+684 songs - 2 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Reasons \- Edit](https://open.spotify.com/track/563CREVayRD9O2qiPKHSSk) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Reasons](https://open.spotify.com/album/1yu6quarJ8zgSTFldZTiYx) | 3:55 | 2023-05-05 | 2023-06-03 |
 | [Reflection](https://open.spotify.com/track/4snXjVqAlCym0l9NZFXoz4) | [Bigfett](https://open.spotify.com/artist/7x68cYMeDnvneRvfFyEyae) | [Odd Ones V2](https://open.spotify.com/album/2DiBZCWhToju8TDXaKqrks) | 4:43 | 2023-01-19 | 2023-01-27 |
 | [Rej](https://open.spotify.com/track/5l3TZLe5uEk7vdXbHghZZW) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Rej EP](https://open.spotify.com/album/18Ny5mx0OWqat32kkmoFC4) | 8:08 | 2023-04-20 | 2023-09-22 |
+| [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 | 2023-10-26 |  |
 | [Remember Me](https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Tamara Blessa](https://open.spotify.com/artist/7gLbU9emwsE9xuxnA5rNLN) | [Remember Me](https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp) | 3:46 | 2023-04-13 | 2023-09-13 |
 | [Remember Me?](https://open.spotify.com/track/2T7tybC5XZrEnHji0Ri34O) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI) | 4:00 | 2023-02-02 | 2023-04-21 |
 | [Reminiscent](https://open.spotify.com/track/0JnqWFbx7jc9HLvtxZPjLT) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Reminiscent](https://open.spotify.com/album/2bpMCulrk1nNXiOKzgherl) | 4:27 | 2023-01-05 | 2023-04-11 |
@@ -682,7 +683,7 @@
 | [You](https://open.spotify.com/track/4NFwWU31QgHqUKZr40uPEr) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [You](https://open.spotify.com/album/6KzhF8S5mzMbJ96RtAsNVY) | 3:13 | 2023-01-26 | 2023-03-10 |
 | [You & Me](https://open.spotify.com/track/5FHaHD7FMSPgOvYhuVgae2) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [You & Me](https://open.spotify.com/album/451gAJbsqc71BlBePvKdS3) | 4:31 | 2022-08-18 | 2023-03-10 |
 | [You Are My Guide](https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [You Are My Guide](https://open.spotify.com/album/2zDhAIky85X0Mn39O047bn) | 3:34 | 2023-07-14 | 2023-08-04 |
-| [You Can Dance Now](https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [You Can Dance Now](https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2) | 4:04 | 2023-05-05 |  |
+| [You Can Dance Now](https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [You Can Dance Now](https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2) | 4:04 | 2023-05-05 | 2023-10-30 |
 | [You Run](https://open.spotify.com/track/02crxEctxfT2l3q1DsM9m2) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [You Run](https://open.spotify.com/album/0TYWnfGE7HspkqdLQLA0vD) | 5:54 | 2022-08-18 | 2023-03-10 |
 | [Your Mind](https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH) | [Your Mind](https://open.spotify.com/album/25fUzY5qFM0Fm6ESlFOJFu) | 5:54 | 2023-04-20 |  |
 | [Yula](https://open.spotify.com/track/0NL6PYY0tDszmywyDGeZsf) | [Drumstone](https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj) | [Yula](https://open.spotify.com/album/6WzqN2vZHWPXxges3fm62r) | 6:52 | 2023-01-26 |  |

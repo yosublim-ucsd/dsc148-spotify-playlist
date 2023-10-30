@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 118110,
+  "num_followers": 118153,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTk4NmQ4ZGYzMzMzZWM4MjliNTZlNzM4NGFjZGRkMGE1OTVjOGQ5",
+  "snapshot_id": "MCw1OWUxM2Q0ZGFlYzAzMjk2MTE4NjZlMjY2YzQwNjc1MjBmMGMzMjBj",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Contigo Todo Es Posible",
+        "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
+      },
+      "artists": [
+        {
+          "name": "Redimidos",
+          "url": "https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Vivo por Cristo",
+      "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Alegr\u00eda y Gozo 2020",
         "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 229272,
       "name": "Una Se\u00f1al",
       "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Contigo Todo Es Posible",
-        "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
-      },
-      "artists": [
-        {
-          "name": "Redimidos",
-          "url": "https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Vivo por Cristo",
-      "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Fragments Of Heaven",
-        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
+        "name": "En Accion",
+        "url": "https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+          "name": "Alex D' Castro",
+          "url": "https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm"
         }
       ],
-      "duration_ms": 242244,
-      "name": "Forever Endless Love",
-      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
+      "duration_ms": 282760,
+      "name": "En Tu Presencia",
+      "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "En Accion",
-        "url": "https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0"
+        "name": "Fragments Of Heaven",
+        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
       },
       "artists": [
         {
-          "name": "Alex D' Castro",
-          "url": "https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         }
       ],
-      "duration_ms": 282760,
-      "name": "En Tu Presencia",
-      "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
+      "duration_ms": 242244,
+      "name": "Forever Endless Love",
+      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
     },
     {
       "added_at": "2020-09-18 05:02:00",

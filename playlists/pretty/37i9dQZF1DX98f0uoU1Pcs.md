@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,746 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,925 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 |
 | 125 | [Wrapped in Gold](https://open.spotify.com/track/5Qmij5UGOb1k2MC8DrAGgW) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Wrapped in Gold](https://open.spotify.com/album/4hxFcHyPPErv1kls1x945F) | 3:57 |
 
-Snapshot ID: `MCxlMzllYTczODIwYjc1OTZlZTZhZDZmM2NhYmM2Y2M3MjA5MDgwMmU3`
+Snapshot ID: `MCxhMzJjMWYxYjg2N2ZiNzBiZDllNDc2NDQ4YWJmZjJkNWMwNGViMWMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wcKDtt5TMP.md) - [plain]
 
 > Lo mejor del rock en español en la década de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,014 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,183 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wcKDtt5TMP.md) - [plain]
 | 49 | [La Voz de los '80](https://open.spotify.com/track/0VvwpKqD7cOYubrK030fGR) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 4:08 |
 | 50 | [Tarado De Cumpleaños](https://open.spotify.com/track/1okGO68FnEbaG8Rz8LcKw7) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 3:19 |
 
-Snapshot ID: `MCwzYmZhYjNjOWU1MmM0ZDdiNTNjNjhiN2ZlM2I0NWVkN2NlMmU0MjVi`
+Snapshot ID: `MCw5YzI2NjExMDcxMzM3YmRlZTViZjExNDA0ZGM0ODM0YjEyMDU3MDAy`

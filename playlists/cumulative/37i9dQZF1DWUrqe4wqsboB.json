@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "Beso Con Sal",
+        "url": "https://open.spotify.com/album/58E1Dd75D47aEixQBfwWmy"
+      },
+      "artists": [
+        {
+          "name": "Fux Beat",
+          "url": "https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Beso Con Sal",
+      "url": "https://open.spotify.com/track/6OOzp7GNfEPBbhCmEw8ycA"
+    },
+    {
+      "album": {
         "name": "Buscame",
         "url": "https://open.spotify.com/album/50Uh3yIx2cTQE5bqXymKF1"
       },
@@ -1040,7 +1062,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 200022,
       "name": "TQD",
       "url": "https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM"

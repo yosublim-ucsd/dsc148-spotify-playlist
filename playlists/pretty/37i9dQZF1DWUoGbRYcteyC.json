@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 2000462,
+  "num_followers": 2000488,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTA3ZGYwNGYwNzdlMjNiMThmZmZkY2UyODNhZTBhMmViNWYzY2U0",
+  "snapshot_id": "MCw3YTE2OGUwOGEwOGFhMjVjMDJjZDliMGMwMWQ4NDEzM2M0ZTRlODQx",
   "tracks": [
     {
       "added_at": "2023-10-26 19:00:48",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-10-26 19:00:48",
       "album": {
-        "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
-        "url": "https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 162816,
-      "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
-      "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"
-    },
-    {
-      "added_at": "2023-10-26 19:00:48",
-      "album": {
         "name": "B\u00e9same Bonito (Micro TDH Remix)",
         "url": "https://open.spotify.com/album/105IhpHlgEvL20sIp0CPnw"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 180000,
       "name": "B\u00e9same Bonito (Micro TDH Remix)",
       "url": "https://open.spotify.com/track/4795j7G618M4FUwRl3wle8"
+    },
+    {
+      "added_at": "2023-10-26 19:00:48",
+      "album": {
+        "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
+        "url": "https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 162816,
+      "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
+      "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"
     },
     {
       "added_at": "2023-10-26 19:00:48",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-10-26 19:00:48",
       "album": {
+        "name": "Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/60tj4hg4wjcfjgnewQyGJT"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 160399,
+      "name": "Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT"
+    },
+    {
+      "added_at": "2023-10-26 19:00:48",
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": "2023-10-26 19:00:48",
-      "album": {
-        "name": "Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/60tj4hg4wjcfjgnewQyGJT"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 160399,
-      "name": "Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT"
     },
     {
       "added_at": "2023-10-26 19:00:48",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-10-26 19:00:48",
       "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 167485,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
+    },
+    {
+      "added_at": "2023-10-26 19:00:48",
+      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 258154,
       "name": "Caf\u00e9 Con Canela",
       "url": "https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE"
-    },
-    {
-      "added_at": "2023-10-26 19:00:48",
-      "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 167485,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
     },
     {
       "added_at": "2023-10-26 19:00:48",

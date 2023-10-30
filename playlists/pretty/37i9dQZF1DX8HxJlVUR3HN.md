@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Mad Foxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,217 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,227 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Ma pièce](https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Ma pièce](https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW) | 2:23 |
 | 50 | [700m²](https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/1cJNcIoEZmIWDQHfO7N3b9) | 3:05 |
 
-Snapshot ID: `MCw3NGI3ZDlmYjNkMWY5NjlhZTk5ZGEyMWRkZTZjZjkwZmI2ZTliZWQw`
+Snapshot ID: `MCxiYTVmNDdkMWJkODU5ZWZiN2EzOWU1NTMwYjY2M2U0ODg4ZTc5OWMy`

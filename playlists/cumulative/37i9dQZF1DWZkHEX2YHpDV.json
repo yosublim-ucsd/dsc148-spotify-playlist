@@ -7537,6 +7537,32 @@
     },
     {
       "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/1RKGfcA6p650pXnS8iirDU"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        },
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        },
+        {
+          "name": "Jason Tyler",
+          "url": "https://open.spotify.com/artist/2Lam5EqMYip1CHiDBO4uT3"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/5yuVgliuMEcgFcEwNCTfiz"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/58Jj06chZroknlToUAFtwp"
       },
@@ -11476,7 +11502,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 192371,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/2xqvthP2FrDdUpa37fxNyB"
@@ -16288,10 +16314,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 163493,
       "name": "S\u2019old",
       "url": "https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi"
+    },
+    {
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "S\u2019old",
+      "url": "https://open.spotify.com/track/3CnO992SN5Pg4teEUJ8z2X"
     },
     {
       "album": {

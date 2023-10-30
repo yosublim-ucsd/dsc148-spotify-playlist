@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : M.H.R, JOKER390P, SA, Dabzee
 
-107 songs - 5 hr 52 min
+108 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Scene Mone \(From "RDX"\)](https://open.spotify.com/track/1d7vMtlpp0T6IhDe4cog3t) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Scene Mone \(From "Rdx"\)](https://open.spotify.com/album/78W11DytRChbuWspZygdyi) | 3:26 | 2023-08-17 | 2023-09-01 |
 | [Scene Mone \(From "RDX"\)](https://open.spotify.com/track/0OvNPwqO7vtruEZx88qUy3) | [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Scene Mone \(From "RDX"\)](https://open.spotify.com/album/3jWqNbSWuLPtCtyIuDIpth) | 3:26 | 2023-08-17 | 2023-08-19 |
 | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb) | [Vivek Radhakrishnan](https://open.spotify.com/artist/6gJZryVxqQCRpTAQh4yq8d), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/album/3G5wGjpeEa0kmuT8golvUA) | 2:30 | 2022-06-23 |  |
-| [THALAKKANAM](https://open.spotify.com/track/75Jkb1Zt2KMdcPEwyQZR17) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/0jGhSnF6ThEcKvhBWhbV36) | 2:51 | 2023-08-28 |  |
+| [THALAKKANAM](https://open.spotify.com/track/0rirJuOchyc5bDqDpL84YE) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/1FpEMSDbXmzyl2AHpHqEYW) | 2:51 | 2023-08-28 |  |
+| [THALAKKANAM](https://open.spotify.com/track/75Jkb1Zt2KMdcPEwyQZR17) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/0jGhSnF6ThEcKvhBWhbV36) | 2:51 | 2023-08-28 | 2023-10-30 |
 | [Thalayana Manthram](https://open.spotify.com/track/5PyLZP4TRBUVBTEkYrfMyD) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Thalayana Manthram](https://open.spotify.com/album/5Cohg9TfF3ofvpNoAUsGUN) | 3:15 | 2023-03-06 | 2023-07-24 |
 | [Thamburati](https://open.spotify.com/track/7zZsi7kpplYLn7q7K6qQUu) | [Reyan](https://open.spotify.com/artist/0Te5urvZR7fH2ojS5H6ERM), [Melvin](https://open.spotify.com/artist/2J9gqy4uIlVhZtgiLTTQOm) | [Thamburati](https://open.spotify.com/album/05fOT0Hp6GgFl5cdiFOCrN) | 2:58 | 2022-04-18 |  |
 | [Thannatthaan \- From "Naradan"](https://open.spotify.com/track/6VcGJCQwQlpKWkrQ7wCIJS) | [DJ Sekhar](https://open.spotify.com/artist/2AepjEFzesduzgTezL8263), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Manchild](https://open.spotify.com/artist/29DEknQpxdiLrlgOHxnWKF) | [Thannatthaan \(From "Naradan"\)](https://open.spotify.com/album/4IMYANN7cQvkyFsFUtci3O) | 3:17 | 2022-04-18 |  |

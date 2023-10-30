@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Marka Akme, DJ Tao, Lauty Gram, Migrantes & Peipper.",
-  "num_followers": 560787,
+  "num_followers": 560901,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjUwYzdlZmViMTYzYWRhNjNlZDY3Njg1YzI1NzZhNTNiNTQwNDcx",
+  "snapshot_id": "MCw0YWMyNDgzY2QzY2FmOWEwMTUxN2JhZmM0MDAxNzcwMWU0ZmY0YzRl",
   "tracks": [
     {
       "added_at": "2023-10-26 14:13:18",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-10-26 14:13:18",
       "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+    },
+    {
+      "added_at": "2023-10-26 14:13:18",
+      "album": {
         "name": "EL NOBA | DJ TAO Turreo Sessions #7",
         "url": "https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 129069,
       "name": "EL NOBA | DJ TAO Turreo Sessions #7",
       "url": "https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n"
-    },
-    {
-      "added_at": "2023-10-26 14:13:18",
-      "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2023-10-26 14:13:18",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-10-26 14:13:18",
       "album": {
-        "name": "TEKA | E6",
-        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "TEKA | E6",
-      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
-    },
-    {
-      "added_at": "2023-10-26 14:13:18",
-      "album": {
         "name": "PICA",
         "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 164531,
       "name": "PICA",
       "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
+    },
+    {
+      "added_at": "2023-10-26 14:13:18",
+      "album": {
+        "name": "TEKA | E6",
+        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "TEKA | E6",
+      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
     },
     {
       "added_at": "2023-10-26 14:13:18",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-10-26 14:13:18",
       "album": {
+        "name": "Mata",
+        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Mata",
+      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
+    },
+    {
+      "added_at": "2023-10-26 14:13:18",
+      "album": {
         "name": "Tamo Chelo (Remix)",
         "url": "https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 338437,
       "name": "Tamo Chelo - Remix",
       "url": "https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB"
-    },
-    {
-      "added_at": "2023-10-26 14:13:18",
-      "album": {
-        "name": "Mata",
-        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Mata",
-      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
     },
     {
       "added_at": "2023-10-26 14:13:18",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-10-26 14:13:18",
       "album": {
-        "name": "AL RITMO | E2",
-        "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "AL RITMO | E2",
-      "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
-    },
-    {
-      "added_at": "2023-10-26 14:13:18",
-      "album": {
         "name": "Saveiro",
         "url": "https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 212210,
       "name": "Saveiro",
       "url": "https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q"
+    },
+    {
+      "added_at": "2023-10-26 14:13:18",
+      "album": {
+        "name": "AL RITMO | E2",
+        "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "AL RITMO | E2",
+      "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
     },
     {
       "added_at": "2023-10-26 14:13:18",

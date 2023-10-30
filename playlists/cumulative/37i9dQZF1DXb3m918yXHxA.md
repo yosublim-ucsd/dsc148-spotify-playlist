@@ -4,7 +4,7 @@
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-181 songs - 12 hr 29 min
+182 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 | 2022-02-12 |  |
 | [Minute by Minute](https://open.spotify.com/track/37oLDb3119IdKSIFQmSGRj) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:26 | 2021-12-20 |  |
 | [Miss Sun](https://open.spotify.com/track/3YHrZ9zt7uvXbw6IR03SPq) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Hits!](https://open.spotify.com/album/5uniuttzg7zsjDvqmvvyDU) | 5:31 | 2023-10-20 |  |
+| [Missing You](https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [The Very Best Of Dan Fogelberg](https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm) | 4:05 | 2023-10-27 |  |
 | [Mornin'](https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Jarreau](https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb) | 4:18 | 2021-12-20 |  |
 | [Mr\. Briefcase](https://open.spotify.com/track/3DQqvasKKE5RQUCfzr6qQB) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Rit, Vol\. 1](https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR) | 3:29 | 2023-08-15 |  |
 | [My Baby](https://open.spotify.com/track/7xbpkpqhnksMOptxX6mPQG) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:15 | 2022-02-12 |  |
@@ -121,7 +122,7 @@
 | [Peg](https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 3:57 | 2023-08-15 |  |
 | [Peg](https://open.spotify.com/track/5DQAHkO9U4IZIombHefcqK) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW) | 4:00 | 2021-12-20 | 2022-07-30 |
 | [Peg](https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 4:00 | 2022-07-28 | 2023-10-04 |
-| [Please Don't Leave](https://open.spotify.com/track/6BDWKu4eOJgdSg9KA6Icn6) | [Lauren Wood](https://open.spotify.com/artist/67K9nZU3LXIwrDjxVOO9IG), [Novi](https://open.spotify.com/artist/7LfxHLrmQNqEggZvjaQL1A), [Ernie](https://open.spotify.com/artist/6rBZhEQ1RwYz6xOCE7CuUY) | [Lauren Wood](https://open.spotify.com/album/32BaRpNzyXS35DEtKVTGBt) | 3:58 | 2023-08-15 |  |
+| [Please Don't Leave](https://open.spotify.com/track/6BDWKu4eOJgdSg9KA6Icn6) | [Lauren Wood](https://open.spotify.com/artist/67K9nZU3LXIwrDjxVOO9IG), [Novi](https://open.spotify.com/artist/7LfxHLrmQNqEggZvjaQL1A), [Ernie](https://open.spotify.com/artist/6rBZhEQ1RwYz6xOCE7CuUY) | [Lauren Wood](https://open.spotify.com/album/32BaRpNzyXS35DEtKVTGBt) | 3:58 | 2023-08-15 | 2023-10-30 |
 | [Reelin' In The Years](https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 4:35 | 2022-07-28 | 2022-11-09 |
 | [Reelin' In The Years](https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 4:37 | 2022-07-28 | 2023-08-16 |
 | [Reelin' In The Years](https://open.spotify.com/track/1Vet0EkiVZ8pTixwJEaCVb) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [A Decade Of Steely Dan](https://open.spotify.com/album/3HDO2EYXQXzFVK7fmXSpqs) | 4:37 | 2021-12-20 | 2022-07-29 |

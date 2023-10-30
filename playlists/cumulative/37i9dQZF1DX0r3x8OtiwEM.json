@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 414600,
       "name": "Holocene, Pt. II",
       "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
@@ -10094,6 +10094,24 @@
       "duration_ms": 474984,
       "name": "The Circle",
       "url": "https://open.spotify.com/track/4LpoOpch4lG2BH04mNwz1n"
+    },
+    {
+      "album": {
+        "name": "When the Lights Go (Deluxe)",
+        "url": "https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6"
     },
     {
       "album": {

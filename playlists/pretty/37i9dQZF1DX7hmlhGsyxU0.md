@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,931 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,031 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 9 | [The Innkeeper and the Moon](https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3) | [Austin Joy](https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX) | [The Innkeeper and the Moon](https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv) | 5:17 |
 | 10 | [November Sea](https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw) | [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:26 |
 | 11 | [Snowfall](https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Snowfall](https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M) | 2:33 |
-| 12 | [Composite 03](https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Josh Hooke](https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [Composites](https://open.spotify.com/album/4cXbbhXyF7CW82c4a7zLcY) | 3:43 |
-| 13 | [Alone](https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL) | [Michael Coltham](https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd) | [Alone](https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu) | 3:48 |
+| 12 | [Alone](https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL) | [Michael Coltham](https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd) | [Alone](https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu) | 3:48 |
+| 13 | [Composite 03](https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Josh Hooke](https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [Composites](https://open.spotify.com/album/4cXbbhXyF7CW82c4a7zLcY) | 3:43 |
 | 14 | [len](https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr) | [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [len](https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI) | 2:32 |
 | 15 | [Tired Mind](https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 |
 | 16 | [We All Grieve Differently](https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ) | [Rohit](https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3) | [On The Verge Of Collapse](https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA) | 2:48 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 62 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
 | 63 | [Things of the World \- Piano and Strings](https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj) | [Amelie Bernard](https://open.spotify.com/artist/1VcWfPz5hcVdwJwmkzp37N), [Andy Muller](https://open.spotify.com/artist/3GJdStK9xNIA5iOpesGg4d) | [Things of the World \(Piano and Strings\)](https://open.spotify.com/album/2yxNHqEapsxfDnheg65zrI) | 1:40 |
 
-Snapshot ID: `MCw2OTI0NjVkMDY2YWJkOTU1OTc4Y2MzNmRkY2YxNWMwZTk2MGJiNTNh`
+Snapshot ID: `MCwwZWZiOGViM2UzNWRlYjhjZDMxYTkxMGY1ZjQzMTliMzFkMzdlMWVm`

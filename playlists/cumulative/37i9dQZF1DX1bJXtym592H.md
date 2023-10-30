@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-201 songs - 8 hr 12 min
+203 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [60’s Adventure](https://open.spotify.com/track/0oeHdQcJibTp99ulHe40un) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [True Colors](https://open.spotify.com/album/3Js7aNPgKMbdLoc60Up6pY) | 3:01 | 2022-04-22 | 2023-01-11 |
 | [a higher power!](https://open.spotify.com/track/6AIc2FJCa0HxADaRLrYOK9) | [Eluzai](https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4) | [u need a light?](https://open.spotify.com/album/6LROFFR1pIhCt2DLcGzw8P) | 2:56 | 2022-12-23 |  |
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2022-04-22 |  |
-| [Abba](https://open.spotify.com/track/3rrcWNb8zdObzj3W7Mz2Ws) | [Suz Tain](https://open.spotify.com/artist/5B57n0v18MD9SHsENLABP8) | [Abba](https://open.spotify.com/album/0kx4sIkgz3fSLtWmUXMLKX) | 2:10 | 2022-04-22 |  |
+| [Abba](https://open.spotify.com/track/3rrcWNb8zdObzj3W7Mz2Ws) | [Suz Tain](https://open.spotify.com/artist/5B57n0v18MD9SHsENLABP8) | [Abba](https://open.spotify.com/album/0kx4sIkgz3fSLtWmUXMLKX) | 2:10 | 2022-04-22 | 2023-10-30 |
 | [Abime](https://open.spotify.com/track/00NUTfTiUGLhHwann5WK8E) | [Redrum](https://open.spotify.com/artist/4gDzEX3EAlLlDOxNl52DTK) | [Abime](https://open.spotify.com/album/373erwHmbPn2YvaVUmaHxV) | 4:39 | 2022-04-22 |  |
 | [Aesthetics](https://open.spotify.com/track/2msdkpUBE5J9k4zbGeng6n) | [elephvnt](https://open.spotify.com/artist/5q1SBpeVA2vh8h9gfxjY36) | [Aesthetics](https://open.spotify.com/album/2xD6hfBIn6muHL7MwNuXQ4) | 1:49 | 2022-04-22 |  |
 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 | 2022-04-22 |  |
@@ -154,12 +154,13 @@
 | [Retrospective](https://open.spotify.com/track/5BYOPUidJX9Hx0T6tv3lWA) | [Zach Jordan](https://open.spotify.com/artist/7wI6FVPuBFU5KcTSddrzK2) | [Retrospective](https://open.spotify.com/album/1hdYL4Gu453c6Ve4lGsUH1) | 2:11 | 2022-04-22 |  |
 | [Riga By Bike](https://open.spotify.com/track/5LTT4eNSUmsRh5UPWtyhjj) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Riga By Bike](https://open.spotify.com/album/5eziB08STdQkuVE9UAgyOk) | 2:22 | 2022-04-22 |  |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 |  |
-| [Rollerblades](https://open.spotify.com/track/1wz9RMyFF2THEZSt9RQ1HI) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Rollerblades](https://open.spotify.com/album/7kLnAiNl3RqoW0mwYCc2eE) | 1:50 | 2022-04-22 |  |
+| [Rollerblades](https://open.spotify.com/track/1wz9RMyFF2THEZSt9RQ1HI) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Rollerblades](https://open.spotify.com/album/7kLnAiNl3RqoW0mwYCc2eE) | 1:50 | 2022-04-22 | 2023-10-30 |
 | [Rusty Chain](https://open.spotify.com/track/0FFHsPKHp3XxJBg7T7reCM) | [Groovemover](https://open.spotify.com/artist/6SZYCLTc21zHQPl8wKkB9d) | [Like That](https://open.spotify.com/album/4krDnUTuZ7hoQhkhUezU4U) | 2:36 | 2022-04-22 | 2023-10-20 |
 | [Sad Emoji](https://open.spotify.com/track/1biA4kEJ8M2tPrWfwy9uID) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Sad Emoji](https://open.spotify.com/album/6wJVzVhr5oSNfqzkTDCRez) | 2:15 | 2022-04-22 |  |
 | [saffron echoes](https://open.spotify.com/track/2TixM05WePykQVfmxs1ojS) | [gnerf](https://open.spotify.com/artist/74bY9Mn9CdYFwFSkoDDxmP) | [saffron echoes](https://open.spotify.com/album/2ND2PhkXYVVBk8QQpm95kO) | 2:24 | 2023-09-29 |  |
 | [Sauce Packets](https://open.spotify.com/track/6Dfual7Y3pGjqcD8RE1h5V) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Cyclos Era](https://open.spotify.com/album/23A8EOYmC9yiQbQFFMENNk) | 3:04 | 2023-01-20 |  |
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2022-04-22 |  |
+| [Silky Way](https://open.spotify.com/track/5vyFOvY3TyI8OXiXBi8PqT) | [Upah Beats](https://open.spotify.com/artist/6LPpXChwcxm1jxTQ8O9tlI) | [Silky Way](https://open.spotify.com/album/3WCcEiLHRqZ4YbMPCGodYE) | 2:33 | 2023-10-27 |  |
 | [Skyfall](https://open.spotify.com/track/7bvthrahaEbDTFfEkbJfJN) | [My New Shoes](https://open.spotify.com/artist/2c8AdYtlyPwumj2LwhpJUk) | [Spanish Rain](https://open.spotify.com/album/0nAZp33uhWAsRQ3OIp04ye) | 3:16 | 2022-04-22 | 2023-09-09 |
 | [Sleepy Eve](https://open.spotify.com/track/0YDdPrCpkjP9QywA44ronl) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Sleepy Eve](https://open.spotify.com/album/4tRCwpYFLMOtDB0RCZaC3u) | 1:32 | 2023-09-29 |  |
 | [Small Steps](https://open.spotify.com/track/3hsZTBrM7nqAF81K4XiR7A) | [Kato Mili](https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr) | [Small Steps](https://open.spotify.com/album/00Ce43IgXDRPKSyJndsvFE) | 2:55 | 2022-04-22 |  |
@@ -186,6 +187,7 @@
 | [The Pappas](https://open.spotify.com/track/0n7UVP6hEStbS96Uugnyzs) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Abracadabra](https://open.spotify.com/album/46HcVEDXqFXCD0uIbiqL0I) | 3:44 | 2022-04-22 |  |
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |
 | [times two](https://open.spotify.com/track/7w3cLPdim2RnadPnIpvhMZ) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [times two](https://open.spotify.com/album/3wTbVXU1Rqe9f2YXzUVs2v) | 2:42 | 2022-04-22 | 2023-10-16 |
+| [touching grass](https://open.spotify.com/track/22vdcp24KUkLemk06PCpIP) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [touching grass](https://open.spotify.com/album/1y27f6XuRQ9oVznatwkukz) | 2:15 | 2023-10-27 |  |
 | [town life](https://open.spotify.com/track/7o6Tpfymsh47oT5VeSSIPL) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [town life](https://open.spotify.com/album/6MorDTaeyPwDA16tn5d3VF) | 1:57 | 2023-09-29 |  |
 | [traffic](https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [traffic](https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3) | 1:39 | 2023-09-29 |  |
 | [Trippy](https://open.spotify.com/track/5ptaiocEr3tO4jk4HGEm7E) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Trippy](https://open.spotify.com/album/7LDh5wRNAFQK8UkE61z0fn) | 2:54 | 2022-04-22 | 2023-10-23 |

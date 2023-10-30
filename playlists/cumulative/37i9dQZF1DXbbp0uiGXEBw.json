@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Ai Lau \u0110\u00f4i Mi Hoen",
+        "url": "https://open.spotify.com/album/1dSX1ojYBuexp6ZaIaXJ9g"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 Nhi",
+          "url": "https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215217,
+      "name": "Ai Lau \u0110\u00f4i Mi Hoen",
+      "url": "https://open.spotify.com/track/19bgct6U5djwkDhAttMUlb"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/6ewUD9mQR3PusKaeKmTJQF"
       },
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 169586,
       "name": "H\u00e0 N\u1ed9i",
       "url": "https://open.spotify.com/track/4zQGlbAeQPq6cmE2iYJfI2"
@@ -1648,6 +1666,28 @@
       "duration_ms": 211000,
       "name": "mang gh\u1ebf ra s\u00e2n ng\u1ed3i h\u00e1t (feat. T\u00f3c Ti\u00ean)",
       "url": "https://open.spotify.com/track/5l0ldjwmggEOzKY2KrY086"
+    },
+    {
+      "album": {
+        "name": "Minh Tinh",
+        "url": "https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76"
+      },
+      "artists": [
+        {
+          "name": "V\u0103n Mai H\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm"
+        },
+        {
+          "name": "H\u1ee9a Kim Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/73YA19nNitv1AzmxQlabGq"
     },
     {
       "album": {
@@ -2408,7 +2448,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 197454,
       "name": "Sau T\u1ea5m R\u00e8m",
       "url": "https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX"

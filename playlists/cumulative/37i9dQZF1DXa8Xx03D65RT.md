@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-723 songs - 1 day 6 hr 23 min
+725 songs - 1 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Lost & Found](https://open.spotify.com/track/5UO03m8S0mJKptzwKo5N7c) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [Lost & Found](https://open.spotify.com/album/4LablbSrD01fa943OTlDEZ) | 2:23 | 2023-05-09 |  |
 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-08-14 |  |
 | [Lost In The Right Direction](https://open.spotify.com/track/2m0GZQrTyAgS6SeVdsctEY) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Lost In The Right Direction](https://open.spotify.com/album/7xy8B4OtkD7r0UlSBfeEHT) | 2:55 | 2022-05-27 | 2022-09-24 |
+| [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-10-23 |  |
 | [Lover's knot](https://open.spotify.com/track/0vBYnKBqsZzHJdUEGjH9Ot) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Lover's knot](https://open.spotify.com/album/5IjIkQPURNABBxB6gEoMlu) | 2:01 | 2023-06-19 |  |
 | [Lucie](https://open.spotify.com/track/5ccHob3neg5ciFjZpwSLif) | [Wings for Louise](https://open.spotify.com/artist/1dGyneCVpOnWfd9eCPGeMj) | [Lights, Slow Places](https://open.spotify.com/album/0Qf0Gkf8HW6LRdfmEy7jVR) | 2:17 | 2022-05-27 | 2022-07-21 |
 | [Lullaby](https://open.spotify.com/track/3U987lHXBgataMkhfi7YAL) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Lullaby](https://open.spotify.com/album/7f54qfOoAtHzyz9cdmwILX) | 2:23 | 2023-05-09 |  |
@@ -393,7 +394,7 @@
 | [Midgard](https://open.spotify.com/track/14JKtGSkaRBguVTcisOOiK) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Yggdrasil](https://open.spotify.com/album/5psFJLRfDBxZSL9hHTAyZF) | 2:15 | 2022-05-27 | 2022-09-24 |
 | [Min Melodi](https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Min Melodi](https://open.spotify.com/album/6giwofFjR9fiTaKM6mTUl6) | 2:10 | 2022-05-27 | 2023-08-08 |
 | [Mind Like Water](https://open.spotify.com/track/4fcdZ4bM6DgVGOs9y13KIk) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Mind Like Water](https://open.spotify.com/album/5IKvJmKiZqUke2c6AaydA0) | 2:00 | 2022-05-27 | 2023-06-14 |
-| [Minuit](https://open.spotify.com/track/7GzMpKkrr5zwsmtTIQk2EC) | [Clémentine Poirier](https://open.spotify.com/artist/0v781ChRVv7d2YR1zDUQOQ) | [Minuit](https://open.spotify.com/album/5gdYsIHo29QR7eX30KZosN) | 2:16 | 2022-05-27 |  |
+| [Minuit](https://open.spotify.com/track/7GzMpKkrr5zwsmtTIQk2EC) | [Clémentine Poirier](https://open.spotify.com/artist/0v781ChRVv7d2YR1zDUQOQ) | [Minuit](https://open.spotify.com/album/5gdYsIHo29QR7eX30KZosN) | 2:16 | 2022-05-27 | 2023-10-30 |
 | [Minutieux](https://open.spotify.com/track/2SQvzWBCdnNzleb1BJPdS1) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Minutieux](https://open.spotify.com/album/2BJvWhnfzswUQqhEmhvSEJ) | 2:25 | 2022-05-27 |  |
 | [Misty](https://open.spotify.com/track/3pJP8edwkLNNH7jxKH5Yc1) | [Project Kronos](https://open.spotify.com/artist/27VMhg08I47b1HAt9MFmha) | [Misty](https://open.spotify.com/album/3Prta9BnlSZeRqirgUIisC) | 2:00 | 2022-05-27 | 2022-09-24 |
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2022-05-27 | 2023-08-15 |
@@ -418,7 +419,7 @@
 | [Mysterious ways](https://open.spotify.com/track/4o9MHjbd1w6fLk1aqA1JKn) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Mysterious ways](https://open.spotify.com/album/4lHrnYTYfpziDRuHBns58U) | 1:47 | 2023-04-12 | 2023-07-04 |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-05-27 |  |
 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 | 2023-07-18 |  |
-| [Najma](https://open.spotify.com/track/19TO5cab4Y0whxSr1LogZi) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Najma](https://open.spotify.com/album/603A4usovlzYEeYHMLFU5I) | 2:47 | 2022-07-20 |  |
+| [Najma](https://open.spotify.com/track/19TO5cab4Y0whxSr1LogZi) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Najma](https://open.spotify.com/album/603A4usovlzYEeYHMLFU5I) | 2:47 | 2022-07-20 | 2023-10-30 |
 | [Narrative](https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Narrative](https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH) | 3:02 | 2023-09-18 |  |
 | [Nebula](https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Nebula](https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub) | 2:41 | 2023-02-19 |  |
 | [Needle and Thread](https://open.spotify.com/track/2jUd0hF3zy4FNsO2ODt3hq) | [Aisha Edwards](https://open.spotify.com/artist/3YZeY8Jt05JPzWSY6VNnYZ) | [Needle and Thread](https://open.spotify.com/album/1MglpBPFAoUNAoPPtp4Tz0) | 2:46 | 2022-05-27 | 2023-05-04 |
@@ -674,6 +675,7 @@
 | [Unbroken](https://open.spotify.com/track/0sYYa0fs1PVKGyceC2QEP4) | [William Heller](https://open.spotify.com/artist/0bblIjmXpe2k574egtCQnr) | [Unbroken](https://open.spotify.com/album/3Mxgp3hM0MrIQN8iIoDPJG) | 2:34 | 2022-05-27 | 2022-07-21 |
 | [Under a tree](https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Under a tree](https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn) | 2:18 | 2023-09-25 |  |
 | [Under the Willow Tree](https://open.spotify.com/track/3qto6LgDhFq9FGrAORDBzX) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [Summer Breeze](https://open.spotify.com/album/4u92wdvS8QrFikLjgPBsZa) | 2:06 | 2022-05-27 |  |
+| [Underwater](https://open.spotify.com/track/0cUVh5ofEVsK3IiGS4Flii) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Underwater](https://open.spotify.com/album/3OfYsWc5jgdwmYZuQwzn6E) | 2:02 | 2023-10-23 |  |
 | [Undulations](https://open.spotify.com/track/53FjteGUXpjef8J3SD7HoP) | [Vittoriano di Grazia](https://open.spotify.com/artist/68dOCHt1KCAYTYsiFNxRsI) | [Undulations](https://open.spotify.com/album/1Ua1JPkMvE0Quzllx33hyi) | 3:05 | 2022-05-27 | 2023-09-07 |
 | [Une main tendue](https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Une main tendue](https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw) | 2:01 | 2023-01-20 |  |
 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 | 2022-05-27 | 2023-09-23 |

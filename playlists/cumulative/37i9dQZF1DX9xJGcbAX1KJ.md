@@ -4,7 +4,7 @@
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-312 songs - 19 hr 27 min
+313 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Just Breathe \(feat\. Lukas Nelson\)](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 | 2019-02-22 | 2022-07-21 |
 | [Just One Look](https://open.spotify.com/track/525z8O4TTjzSn6gfLItXtd) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:08 | 2019-02-22 | 2022-07-23 |
 | [Knights Of Cydonia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MMhtroreghawB4y14vaUP) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 4:37 | 2019-02-22 | 2022-07-29 |
+| [Knocking on Heavens Door](https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE) | [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Knocking On Heavens Door \- EP](https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa) | 4:24 | 2019-02-22 |  |
 | [La Vie En Rose](https://open.spotify.com/track/0d4qCmNoQ7D8Hv0azn7Ozu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [La Vie En Rose](https://open.spotify.com/album/238gzyCPHIjz1GxXqdOY6T) | 2:50 | 2019-02-22 | 2022-07-28 |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2019-02-22 | 2022-07-28 |
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2019-02-22 | 2022-07-29 |
@@ -191,7 +192,7 @@
 | [Me & Magdalena](https://open.spotify.com/track/7CAKy2TEByPCrt4A0SJb5v) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ) | [Me & Magdalena](https://open.spotify.com/album/5QzJTvNNz2iY3GGFKVqsxO) | 3:20 | 2019-02-22 | 2022-07-29 |
 | [Moon River](https://open.spotify.com/track/5Yy0aoQKKT55vt62WJwAIH) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5), [The Kentuckians](https://open.spotify.com/artist/4alEVCTmG21DOiFU4ocsmC) | [Covers EP](https://open.spotify.com/album/4ZMFcAyVFi7ApSqxHx1cvp) | 2:02 | 2019-02-22 | 2022-07-29 |
 | [Mr\. Brightside](https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Mr\. Brightside](https://open.spotify.com/album/79BHHa7ok6SfZGELIOeBXp) | 4:32 | 2019-02-22 | 2022-07-19 |
-| [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 | 2019-02-22 |  |
+| [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 | 2019-02-22 | 2023-10-30 |
 | [Mr\. Sandman](https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mr\. Sandman](https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn) | 3:26 | 2019-02-22 |  |
 | [Mr\. Tambourine Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7tw38zojk2q0bN8JQcr3Cm) | [Hamilton Leithauser + Rostam](https://open.spotify.com/artist/3h0w83PsjASrm5999trG4n) | [Spotify Singles](https://open.spotify.com/album/0XyEzOV3gsUwkCjuFdxD47) | 4:11 | 2019-02-22 | 2022-07-05 |
 | [My Happiness \(feat\. Fiona Prine\)](https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Fiona Prine](https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI) | [For Better, Or Worse](https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT) | 2:55 | 2019-02-22 | 2022-07-26 |

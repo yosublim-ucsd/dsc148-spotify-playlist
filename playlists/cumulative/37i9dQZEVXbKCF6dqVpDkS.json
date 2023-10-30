@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 193289,
       "name": "All You Had To Do Was Stay (Taylor's Version)",
       "url": "https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 157485,
       "name": "Amalia",
       "url": "https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu"
@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 211103,
       "name": "Bad Blood (Taylor's Version)",
       "url": "https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 231833,
       "name": "Blank Space (Taylor's Version)",
       "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
@@ -5034,7 +5034,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
@@ -5322,7 +5322,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -7520,7 +7520,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
@@ -11008,7 +11008,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 207650,
       "name": "I Wish You Would (Taylor's Version)",
       "url": "https://open.spotify.com/track/43y1WpBdnEy5TR9aZoSQL9"
@@ -15884,7 +15884,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 230177,
       "name": "New Romantics (Taylor's Version)",
       "url": "https://open.spotify.com/track/2vPMoMDXxu9uX1igWZmXSG"
@@ -15976,7 +15976,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 147116,
       "name": "Niet Genoeg (feat. Idaly)",
       "url": "https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR"
@@ -16322,7 +16322,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 214383,
       "name": "Noodgeval",
       "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
@@ -17126,7 +17126,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 235800,
       "name": "Out Of The Woods (Taylor's Version)",
       "url": "https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE"
@@ -17310,6 +17310,28 @@
       "duration_ms": 214723,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
+    },
+    {
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
       "album": {
@@ -19010,7 +19032,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
@@ -19716,7 +19738,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 219209,
       "name": "Shake It Off (Taylor's Version)",
       "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
@@ -20718,7 +20740,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -21040,7 +21062,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 203437,
       "name": "Stiekem",
       "url": "https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em"
@@ -21262,7 +21284,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 171818,
       "name": "Suburban Legends (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP"
@@ -22216,7 +22238,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 173731,
       "name": "This World Is Our Home",
       "url": "https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY"
@@ -22354,7 +22376,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 272709,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh"
@@ -24048,7 +24070,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 212600,
       "name": "Welcome To New York (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9"
@@ -24450,7 +24472,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 220433,
       "name": "Wildest Dreams (Taylor's Version)",
       "url": "https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK"

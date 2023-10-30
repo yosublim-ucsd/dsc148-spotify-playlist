@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-526 songs - 20 hr 46 min
+527 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [How It Ends](https://open.spotify.com/track/3poxqSMtdBNPqSAJauVvTk) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [How It Ends](https://open.spotify.com/album/5A8JOYgRDNtIjZZ0iKLHoI) | 2:00 | 2023-04-07 |  |
 | [Human \(feat\. Night Lovell\)](https://open.spotify.com/track/4zrYnAzX1CMRt9SoZdixMz) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Human \(feat\. Night Lovell\)](https://open.spotify.com/album/7iQcMBuqbzJSnPV8VDix6h) | 2:52 | 2021-09-17 | 2022-06-11 |
 | [Hurt You Left Inside My Heart](https://open.spotify.com/track/4jSSC6071YIpaZ2y7hBCXV) | [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K) | [Hurt You Left Inside My Heart](https://open.spotify.com/album/2Vz3nlwKS7Id9ceQaSuMHD) | 2:25 | 2023-08-04 | 2023-10-29 |
-| [Hurt You Left Inside My Heart](https://open.spotify.com/track/6kExzgxrfvldLFsyth3Qt2) | [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K) | [Hurt You Left Inside My Heart](https://open.spotify.com/album/1MgqW7az7PlE29YvEWWhfR) | 2:25 | 2023-08-04 |  |
+| [Hurt You Left Inside My Heart](https://open.spotify.com/track/6kExzgxrfvldLFsyth3Qt2) | [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K) | [Hurt You Left Inside My Heart](https://open.spotify.com/album/1MgqW7az7PlE29YvEWWhfR) | 2:25 | 2023-08-04 | 2023-10-30 |
+| [Hurt You Left Inside My Heart](https://open.spotify.com/track/6yUQ9Hhl0RKa6GA4zA5kZ1) | [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K) | [Hurt You Left Inside My Heart](https://open.spotify.com/album/5BkE8kUIKWZZhWBdhXwGwA) | 2:25 | 2023-08-04 |  |
 | [I Chose Violence](https://open.spotify.com/track/7l5GAw0cglUUnN7bKAz5ab) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [I Chose Violence](https://open.spotify.com/album/0VGDZJXfVVi3vEgbJTRXQ8) | 2:19 | 2021-10-28 | 2023-03-25 |
 | [I Don't Fuck With Conversation](https://open.spotify.com/track/7aseZZASeyvzpV7ZY66W34) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [I Don't Fuck With Conversation](https://open.spotify.com/album/6yngvUzu5YryAu2EcGp3Zw) | 2:35 | 2023-02-08 | 2023-07-01 |
 | [I Don't Fuck With Conversation](https://open.spotify.com/track/7lhOAIOOXqlAs3fwHhBtip) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [I Don't Fuck With Conversation](https://open.spotify.com/album/2PLb5Xe7GYKFz9P3HnlHi6) | 2:35 | 2023-02-08 | 2023-07-29 |

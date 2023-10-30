@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: CMK, Jhony Mc, Choice, MAGR\u00c3O XRE, Spike mc, Terror da Cena",
-  "num_followers": 34268,
+  "num_followers": 34272,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWM5Yjg5MjIyODYxYmIxZGYzNDkwMWE1MzAzZTA0MDY1NmE4Mzk0",
+  "snapshot_id": "MCxhYTE0MDAyM2U1OTMwMjA4MzM0NzkxY2RmNDYyNDE2Y2E3Yzg3YmU3",
   "tracks": [
     {
       "added_at": "2023-10-27 03:01:00",
@@ -495,6 +495,34 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "MIXTAPE EU MERMO",
+        "url": "https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 215652,
+      "name": "Los Pollos",
+      "url": "https://open.spotify.com/track/6pWqwooQXcgBVuifMpv128"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "The King Of Drill \"TKOD\"",
         "url": "https://open.spotify.com/album/21sJbIsra7VRrVy9bdSS8z"
       },
@@ -507,30 +535,6 @@
       "duration_ms": 147003,
       "name": "Zona Leste",
       "url": "https://open.spotify.com/track/6tnn3cneF7iQ1byrQ9kixp"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Tipo Anitta",
-        "url": "https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC"
-      },
-      "artists": [
-        {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        }
-      ],
-      "duration_ms": 151232,
-      "name": "Tipo Anitta",
-      "url": "https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -571,30 +575,26 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "MIXTAPE EU MERMO",
-        "url": "https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW"
+        "name": "Tipo Anitta",
+        "url": "https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
         },
         {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         }
       ],
-      "duration_ms": 215652,
-      "name": "Los Pollos",
-      "url": "https://open.spotify.com/track/6pWqwooQXcgBVuifMpv128"
+      "duration_ms": 151232,
+      "name": "Tipo Anitta",
+      "url": "https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 125793,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Favela Drill",
         "url": "https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 156083,
       "name": "Chutei o Balde",
       "url": "https://open.spotify.com/track/10bwZodG6Nd4WKsoKJo3Tg"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
-      },
-      "artists": [
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1127,6 +1127,42 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Fresh Sesh #02 - Sinais de Sucessagem",
+        "url": "https://open.spotify.com/album/1uoUpCO6SWml6hqHwfDTy9"
+      },
+      "artists": [
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Pior Vers\u00e3o de Mim",
+          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
+        },
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "LH Emici",
+          "url": "https://open.spotify.com/artist/2W1myCBiCFdRWmQuzQWCdK"
+        },
+        {
+          "name": "Nochica",
+          "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
+        }
+      ],
+      "duration_ms": 211620,
+      "name": "Fresh Sesh #02 - Sinais de Sucessagem",
+      "url": "https://open.spotify.com/track/03lg4qwy8ugN6TtZgcQwxh"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Chav\u00e3o",
         "url": "https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN"
       },
@@ -1171,42 +1207,6 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Fresh Sesh #02 - Sinais de Sucessagem",
-        "url": "https://open.spotify.com/album/1uoUpCO6SWml6hqHwfDTy9"
-      },
-      "artists": [
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Pior Vers\u00e3o de Mim",
-          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
-        },
-        {
-          "name": "Fresh Mind Co.",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        },
-        {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
-        },
-        {
-          "name": "LH Emici",
-          "url": "https://open.spotify.com/artist/2W1myCBiCFdRWmQuzQWCdK"
-        },
-        {
-          "name": "Nochica",
-          "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
-        }
-      ],
-      "duration_ms": 211620,
-      "name": "Fresh Sesh #02 - Sinais de Sucessagem",
-      "url": "https://open.spotify.com/track/03lg4qwy8ugN6TtZgcQwxh"
     },
     {
       "added_at": "2023-10-27 03:01:00",

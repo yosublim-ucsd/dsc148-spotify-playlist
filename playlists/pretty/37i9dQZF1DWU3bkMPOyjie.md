@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 77 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 |
 | 78 | [hot girls in good moods](https://open.spotify.com/track/3j9ERO1WUkVvU71sNFRDEt) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [The Rise and Fall of..\. Butch Walker and The Let's\-Go\-Out\-Tonites](https://open.spotify.com/album/3RmqVZPcYT5LUFQ6Kl5N4B) | 3:45 |
 
-Snapshot ID: `MCwzMTM1NTRhMThiMWFiNzQzYTY1ZGM3N2NjOGQ1MjFkZjU0ZjQxZGMy`
+Snapshot ID: `MCwzMTQ4MDk1OGFlYzQxMGEzMDgwYWI1MDAyY2U3YmU2OGJlNjhjYjBj`

@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-596 songs - 1 day 9 hr 36 min
+600 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Forgive Me](https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Forgive Me](https://open.spotify.com/album/27JlVMNrOc1aaHmnaWmCRW) | 3:45 | 2022-03-09 | 2022-04-22 |
 | [Fragile](https://open.spotify.com/track/7FUA7YopOZWJ38Z4bvagWw) | [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Fragile](https://open.spotify.com/album/6U4OhqiXPlHvnLwGtNkGlu) | 4:09 | 2020-10-13\* | 2021-10-13 |
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-07-17 | 2022-04-17 |
+| [Freak Like Me](https://open.spotify.com/track/2oGdeSXf0cnSPXG8kZiDtB) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Freak Like Me](https://open.spotify.com/album/523xtwqIhtFAZ9ZgBJjxRS) | 1:59 | 2023-10-27 |  |
 | [Freak Show](https://open.spotify.com/track/7INybJicoIoZH7Uy2IVyOv) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Freak Show](https://open.spotify.com/album/3QMT5o7gYCcEvE4WX72Ifa) | 3:33 | 2023-09-23 |  |
 | [Free \(feat\. Emeli Sandé\)](https://open.spotify.com/track/4uNEqWV2yoHY9sMwY5cr1a) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 3:36 | 2021-11-27 | 2022-02-19 |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-01-21 | 2022-04-24 |
@@ -300,6 +301,7 @@
 | [It's Been So Long](https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Been So Long](https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I) | 3:12 | 2022-11-18 | 2023-02-18 |
 | [It's Not Too Late](https://open.spotify.com/track/3GF1jfgwS68YwAdeO92oIA) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [It's Not Too Late](https://open.spotify.com/album/36dPlvameEj5Phyt66juR5) | 3:01 | 2021-11-13 | 2022-04-17 |
 | [I’m Not Going Back \(feat\. Mokita\)](https://open.spotify.com/track/5zqDpOXBAtD4j3Z7puVqbC) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [I'm Not Going Back](https://open.spotify.com/album/1oaUHkFOJKKAMWPfVKsqXS) | 2:37 | 2021-02-19 | 2021-06-19 |
+| [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 | 2023-10-27 |  |
 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 | 2022-07-21 | 2022-11-13 |
 | [John Hughes Movie](https://open.spotify.com/track/1rY5sQ6hjIWP6juaRCs455) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:36 | 2021-09-25 | 2022-04-17 |
 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 | 2020-10-13\* | 2021-07-10 |
@@ -505,6 +507,7 @@
 | [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 | 2021-07-18 | 2021-11-20 |
 | [Talk](https://open.spotify.com/track/3ZE3BSTojEeiBmep57CcUa) | [Helen](https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM) | [Talk](https://open.spotify.com/album/4onhJdux51mV5lSgb9rU1U) | 2:30 | 2022-09-16 | 2022-10-08 |
 | [Talk to Me](https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo) | 2:53 | 2023-07-14 |  |
+| [TALK!](https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 2:37 | 2023-10-27 |  |
 | [Tear Me Open](https://open.spotify.com/track/1ExC2L9xmplYsY3nExzlRv) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [STARFUCKER](https://open.spotify.com/album/5sjBJH8HZKiBGEa4guEHcL) | 3:38 | 2023-09-22 |  |
 | [tear myself apart](https://open.spotify.com/track/57m2Kve0xnAgYVAPxMLKHS) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [tear myself apart](https://open.spotify.com/album/3FhPAdYjwW3aLRMvx8HbKz) | 2:48 | 2020-10-13\* | 2021-12-04 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 | 2022-04-16 | 2023-09-25 |
@@ -548,6 +551,7 @@
 | [Too Close](https://open.spotify.com/track/67GvvBfumjbeuMzhXVgn02) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Too Close](https://open.spotify.com/album/6GWUTnRWSeXUf3fu45LvwT) | 3:04 | 2020-11-22 | 2021-06-26 |
 | [Too Much](https://open.spotify.com/track/0t4J4eq0ifSVYS0fTgj7ML) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Too Much](https://open.spotify.com/album/1kcc1iy7E6kkccrsIGDOWm) | 3:05 | 2021-10-09 | 2021-10-12 |
 | [too much](https://open.spotify.com/track/6hDxf753cNz33rKFE4Nmiv) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [too much](https://open.spotify.com/album/1JmCP78ceHPTehcxcRYFPY) | 2:56 | 2021-06-26 | 2022-01-15 |
+| [touching](https://open.spotify.com/track/7dfQ7YoyqoXuGbojDbWIKG) | [Good/Vlly](https://open.spotify.com/artist/69v7yR9Qx34Jrea5OYwq9E) | [brief romance EP](https://open.spotify.com/album/4ZvKMykwrbcrlnQmJCOMDw) | 3:26 | 2023-10-27 |  |
 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 | 2021-08-28 | 2022-03-09 |
 | [Traitor](https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Traitor](https://open.spotify.com/album/3pCnOxJezgI4KmcKMznAE7) | 2:57 | 2021-06-26 | 2022-01-08 |
 | [Treat Me Right](https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/03hafzXxELqD67fD1siVhS) | 3:08 | 2022-03-31 |  |

@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-312 songs - 18 hr 41 min
+313 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Books of Fantasy](https://open.spotify.com/track/6sYTGXJE67xL22ZtkXxV1H) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Books of Fantasy](https://open.spotify.com/album/3L536accWGgnKxWZOaBX1C) | 3:24 | 2023-09-12 |  |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-10-20 |  |
 | [Brayford Odeon](https://open.spotify.com/track/3GaQZPrehbi2BCuBxNZPhI) | [The Rills](https://open.spotify.com/artist/2xOzJ4KDhvZrBLCvorstRR) | [After Taste](https://open.spotify.com/album/4u5fBdylG3BCuCI4tpnGEK) | 3:43 | 2023-03-16 | 2023-07-07 |
+| [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 | 2023-10-26 |  |
 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-27 | 2023-10-19 |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 | 2022-10-20 | 2023-05-03 |
 | [Can't Make You Stay](https://open.spotify.com/track/6cZ1Ld5ZJy1q8J0lBvVbki) | [John Keek](https://open.spotify.com/artist/5hWFMEirsZnlatYOIcySVL) | [Can't Make You Stay](https://open.spotify.com/album/3ly8GnWpiHjIwqxaWTM08c) | 2:16 | 2023-08-29 |  |
@@ -82,7 +83,7 @@
 | [Fix'n To Break](https://open.spotify.com/track/47ckAjwHu73FP7DKZHyyRX) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fix'n To Break](https://open.spotify.com/album/4fCLfVVsxyY9TYvGIT9h6H) | 3:52 | 2023-02-09 | 2023-06-07 |
 | [Floating Sun](https://open.spotify.com/track/1Wn1Q5T9m7mdvZvY46YNsW) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [The Gaze](https://open.spotify.com/album/7Cd4KJlQfeCEATCK92SswJ) | 2:28 | 2022-10-20 | 2022-11-23 |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-10-20 |  |
-| [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 | 2022-10-20 |  |
+| [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 | 2022-10-20 | 2023-10-30 |
 | [Forever Young](https://open.spotify.com/track/3jDuXdGHAvCFOuCTbwYUhw) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Shadow Kingdom](https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE) | 3:15 | 2023-06-01 |  |
 | [Forget](https://open.spotify.com/track/3BPtB1Ov7UAjLGYgNwEm5c) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [Regrets of Love](https://open.spotify.com/album/1tiNC8uVsIZufZnfviA2xZ) | 3:56 | 2023-05-02 | 2023-07-07 |
 | [Foxglove Through The Clearcut \- Acoustic](https://open.spotify.com/track/4EfROdTKT8NTmJg8gxgXQi) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Foxglove Through The Clearcut \(Acoustic\)](https://open.spotify.com/album/1TUrfRrI0YybA6OKkZo6lB) | 5:05 | 2023-02-23 | 2023-04-14 |

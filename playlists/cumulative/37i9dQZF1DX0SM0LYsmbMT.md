@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,784 songs - 6 day 1 hr 0 min
+3,785 songs - 6 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Airmode](https://open.spotify.com/track/7JiG627CSJ1qkZHcRWGK76) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:22 | 2022-11-17 | 2022-12-15 |
 | [Airwalkin'](https://open.spotify.com/track/3vOyxHqlyh185or0GN6k7v) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Airwalkin'](https://open.spotify.com/album/6pOy2lQH36IaIdO2jqz7y6) | 2:29 | 2021-03-14 | 2021-07-30 |
 | [Al Fresco](https://open.spotify.com/track/25Jr6bgQzohotcG1Hdv28F) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Al Fresco](https://open.spotify.com/album/1Ckt10D0bEor6SNHTutJFy) | 3:02 | 2020-06-09 | 2021-02-06 |
-| [Al Otro Lado](https://open.spotify.com/track/7BY0OSSSouCfOUtxUy0T8N) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Orilla](https://open.spotify.com/album/1kUB4kr58WIeASR5wMHxvq) | 2:47 | 2023-10-19 |  |
+| [Al Otro Lado](https://open.spotify.com/track/7BY0OSSSouCfOUtxUy0T8N) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Orilla](https://open.spotify.com/album/1kUB4kr58WIeASR5wMHxvq) | 2:47 | 2023-10-19 | 2023-10-30 |
 | [Albatross](https://open.spotify.com/track/1HbleCtOpOQ4CgPcjMtFwk) | [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a), [Luke Otwell](https://open.spotify.com/artist/6ScHfmBUYiNEKPzPKrlBPC) | [Albatross](https://open.spotify.com/album/5dsPNQpIjeFc4Wbb4CrOI8) | 1:58 | 2021-11-12 | 2021-11-27 |
 | [Albatross](https://open.spotify.com/track/38DdP1OklXdOuwxybFo2mM) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Albatross](https://open.spotify.com/album/3a8dHj31tQUhiGVmbnS3ax) | 1:34 | 2021-03-19 | 2021-08-20 |
 | [Alcantara](https://open.spotify.com/track/0aC6fsUMbwnspv5P5ruMpp) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Alcantara](https://open.spotify.com/album/4JfjlSgKWg52XjJaMiwzAn) | 2:34 | 2023-03-02 | 2023-03-18 |
@@ -3707,6 +3707,7 @@
 | [wind sings in its whirling](https://open.spotify.com/track/4N0M7kmCIyqyLAJ9tgTqSc) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [wind sings in its whirling](https://open.spotify.com/album/1kbl9atJXVlJlXExENyldt) | 2:13 | 2019-09-27 | 2019-12-20 |
 | [Windborne](https://open.spotify.com/track/78EA9Uo3VV8YPpRYfyW1Ks) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve) | [Shapes](https://open.spotify.com/album/6RLbbnkG7M2F63YZhRUNBj) | 1:52 | 2020-05-12 | 2020-07-18 |
 | [Winding Up](https://open.spotify.com/track/1rGvNMdxYGnE6lH2EeMfwQ) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Winding Up](https://open.spotify.com/album/25r1LrZ6Mcm5Pokir7Nl0n) | 2:22 | 2021-09-10 |  |
+| [Windless](https://open.spotify.com/track/0CiZ6qq5ntSvr9tNejgTp0) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Windless](https://open.spotify.com/album/16HOKv5OEH73eeo3ulWT76) | 2:39 | 2023-10-26 |  |
 | [Windmills](https://open.spotify.com/track/2f4mTu5Y6I3wVApqhy5wbV) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Windmills](https://open.spotify.com/album/5r14wdtlT9PPWfuE34Y3Rl) | 1:58 | 2021-08-27 |  |
 | [Window Seat](https://open.spotify.com/track/5Bhw8byo03Q4odqpLnCpGx) | [Nasahx](https://open.spotify.com/artist/7aSiCOtwsJ4ZYq8PWCmJQb) | [Window Seat](https://open.spotify.com/album/0ODlnftOTluPQbjTdNzucR) | 2:05 | 2019-07-20 | 2019-12-11 |
 | [Window Thoughts \- Beat Edit](https://open.spotify.com/track/42OVrrZJaQrtzKUN5twHDx) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Window Thoughts \(Beat Edit\)](https://open.spotify.com/album/18wAH5n1PdQMRcdK2xjzcl) | 2:45 | 2022-09-22 | 2022-10-22 |

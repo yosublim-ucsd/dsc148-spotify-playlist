@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: The Rubens
 
-1,128 songs - 2 day 15 hr 55 min
+1,129 songs - 2 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,8 @@
 | [Golden](https://open.spotify.com/track/2qpO61VYdgYDYrrXGfA2yi) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Golden](https://open.spotify.com/album/3xPchYxzLZMB0v9QilXjiG) | 3:01 | 2023-04-20 | 2023-06-16 |
 | [Gone Without a Trace](https://open.spotify.com/track/3FiDuroMXcMhEELDhsGf9p) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Gone Without a Trace](https://open.spotify.com/album/14UUC7JJM4HtlHmRsApk18) | 3:02 | 2022-08-08 | 2022-10-07 |
 | [Good Buy My Old Life](https://open.spotify.com/track/1nmMm95AnGwZWIbxeJVio9) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Good Buy My Old Life](https://open.spotify.com/album/2X18O3Jbj1xmXlyOKFdWnu) | 3:30 | 2022-06-02 | 2022-06-24 |
-| [Good Enough](https://open.spotify.com/track/5Ev582e7ykI3jVCCJ0ECZM) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/3HVCEunHy1YDjtBjmWNdtv) | 3:02 | 2023-08-10 |  |
+| [Good Enough](https://open.spotify.com/track/4ip14QnIGPERqjdiDqU6a0) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:02 | 2023-10-26 |  |
+| [Good Enough](https://open.spotify.com/track/5Ev582e7ykI3jVCCJ0ECZM) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/3HVCEunHy1YDjtBjmWNdtv) | 3:02 | 2023-08-10 | 2023-10-30 |
 | [Good Feeling](https://open.spotify.com/track/7ccurrFI92e3hBtU02WgTL) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 3:56 | 2023-04-06 | 2023-04-14 |
 | [good grief](https://open.spotify.com/track/1tCzRaxUdrbwgD8JhpZNZ3) | [teddie](https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP) | [good grief](https://open.spotify.com/album/5DRCGpra0LkrXkcMg8Lb9p) | 3:13 | 2022-01-27 | 2022-03-21 |
 | [Good Light](https://open.spotify.com/track/7rRVHNqYBjIjKdNRheCDud) | [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Good Light](https://open.spotify.com/album/073V4yeJPEkE8Wlb94ksWV) | 2:52 | 2022-07-14 | 2022-09-09 |

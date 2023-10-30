@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: L'Rain
 
-544 songs - 1 day 10 hr 9 min
+546 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [Haptics](https://open.spotify.com/track/6gOoqDFoY7cekwNDGbIjJ9) | [Santangelo](https://open.spotify.com/artist/23PgufXbWsCNunDb9szzKk), [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF), [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Haptics](https://open.spotify.com/album/6KC0z9SE9jU5lvhS14iIUe) | 3:12 | 2022-03-07 | 2022-07-22 |
 | [HAUNTED](https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2) | 2:17 | 2023-02-28 |  |
 | [HEAVEN](https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm watching you](https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa) | 2:19 | 2022-06-24 | 2023-09-30 |
-| [Heaven](https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 3:44 | 2023-08-29 |  |
+| [Heaven](https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 3:44 | 2023-08-29 | 2023-10-30 |
+| [Heaven](https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:44 | 2023-08-29 |  |
 | [Heaven Fell \(Reprise\)](https://open.spotify.com/track/2pUarDBfmUqw328dcU5Ubq) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Heaven Fell](https://open.spotify.com/album/5b0BcHLVRtJ3xGPpV3AaYI) | 2:26 | 2021-06-03 | 2022-07-16 |
 | [Heaven On Earth](https://open.spotify.com/track/2f0ZEAdZQBCRR9NAI6eE2d) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:52 | 2021-10-08 | 2022-04-19 |
 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 | 2022-03-31 | 2022-04-23 |
@@ -453,7 +454,8 @@
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 | 2022-10-21 |  |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 | 2022-06-01 | 2022-10-22 |
 | [Stains](https://open.spotify.com/track/3jqRDmH8YN6GT6j53kPi3a) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Stains](https://open.spotify.com/album/0ju0P8smAdTlOuWsd5sYdY) | 3:58 | 2021-06-11 | 2022-04-21 |
-| [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-29 |  |
+| [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-29 | 2023-10-30 |
+| [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2023-08-29 |  |
 | [stardew](https://open.spotify.com/track/59VEyFtuiZnWCfCDc4hOU0) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Womb](https://open.spotify.com/album/1qUKQoS2lPswBUS5BRUpOq) | 4:07 | 2021-06-03 | 2022-07-27 |
 | [Stare](https://open.spotify.com/track/1MNNFp9MUgIEbbK24oCmbf) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Stare](https://open.spotify.com/album/333Aaea3MbXevGSHOvApi8) | 3:41 | 2021-06-03 | 2022-04-20 |
 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 | 2022-09-23 | 2022-10-25 |

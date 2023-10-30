@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47191,
+  "num_followers": 47214,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzQ0NzU4YjM1MzIyZDBmOTYzYmUxM2RjZDQwYjMzMzM3OTIwMDVm",
+  "snapshot_id": "MCw0Yjk4OTMyODZjY2QzNDg0Y2JmMmE4OTQxNDBkNWFjYTdkMWI5ODlm",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Mira Bien",
-        "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Mira Bien",
-      "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
         "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
       },
@@ -487,22 +467,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Que Me Siga (Malo)",
-        "url": "https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO"
+        "name": "Mira Bien",
+        "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
         },
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
         }
       ],
-      "duration_ms": 195946,
-      "name": "Que Me Siga (Malo)",
-      "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
+      "duration_ms": 207386,
+      "name": "Mira Bien",
+      "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -519,6 +499,26 @@
       "duration_ms": 200666,
       "name": "Agua",
       "url": "https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Que Me Siga (Malo)",
+        "url": "https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Que Me Siga (Malo)",
+      "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S"
     },
     {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Baile Fodongo",
+        "url": "https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE"
+      },
+      "artists": [
+        {
+          "name": "Altoparlante",
+          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
+        }
+      ],
+      "duration_ms": 306599,
+      "name": "Baile Fodongo",
+      "url": "https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX"
+    },
+    {
       "added_at": "2022-11-12 17:24:45",
       "album": {
         "name": "Piedras del Sol",
@@ -575,22 +591,6 @@
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Baile Fodongo",
-        "url": "https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE"
-      },
-      "artists": [
-        {
-          "name": "Altoparlante",
-          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
-        }
-      ],
-      "duration_ms": 306599,
-      "name": "Baile Fodongo",
-      "url": "https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX"
     },
     {
       "added_at": "2023-03-24 19:41:45",
@@ -787,26 +787,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Bonito",
-        "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
-      },
-      "artists": [
-        {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Bonito",
-      "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "#S\u00e1dico",
         "url": "https://open.spotify.com/album/37IMDq8KEAMXmi78I5UpDe"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 273063,
       "name": "#S\u00e1dico - Sunsplash & Ferraz Remix",
       "url": "https://open.spotify.com/track/6biNxZAZzW1qmWZu78ao5C"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
+      },
+      "artists": [
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
     },
     {
       "added_at": "2022-06-07 16:47:23",

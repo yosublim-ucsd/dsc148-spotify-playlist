@@ -4,7 +4,7 @@
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Black Pumas
 
-1,445 songs - 3 day 5 hr 21 min
+1,447 songs - 3 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,8 @@
 | [Kaitlin](https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Kaitlin](https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT) | 4:23 | 2023-06-09 | 2023-07-08 |
 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 | 2023-03-31 | 2023-04-22 |
 | [keep a window open//](https://open.spotify.com/track/32Y6HMKVOnPXqmtOr8TR4j) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open//](https://open.spotify.com/album/5YJXQWhjuBdthyBOewxTql) | 2:30 | 2023-08-18 | 2023-09-30 |
-| [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 | 2023-10-27 |  |
+| [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 | 2023-10-27 | 2023-10-30 |
+| [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 | 2023-10-27 |  |
 | [Keep It Rolling](https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Keep It Rolling](https://open.spotify.com/album/2YIfWZjgVJWrrSTZJot3Mp) | 2:50 | 2023-06-02 | 2023-08-12 |
 | [Keep It Tucked](https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Keep It Tucked](https://open.spotify.com/album/2MFy7yt1ss5IBTreQ4WzgY) | 2:53 | 2022-12-09 | 2023-01-14 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-02-04 | 2022-04-29 |
@@ -819,7 +820,8 @@
 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 | 2022-12-16 | 2023-02-04 |
 | [Monday](https://open.spotify.com/track/5qJOKIrlNVOe4QdhJHS2di) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Monday](https://open.spotify.com/album/4YBN5F8yae1Gkner3Gyost) | 2:56 | 2021-11-26 | 2022-04-02 |
 | [Monsters](https://open.spotify.com/track/1rgbDBpQc7weuwqIFm4IbX) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Monsters](https://open.spotify.com/album/0BLxTOtPUCaJK1vCA398nL) | 3:33 | 2023-04-21 | 2023-06-03 |
-| [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-08-25 |  |
+| [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-08-25 | 2023-10-30 |
+| [More Than a Love Song](https://open.spotify.com/track/38D3zXvwHjwtGMUSO4mOmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 4:47 | 2023-10-27 |  |
 | [More Than Chemical](https://open.spotify.com/track/02ub7Ai9EK14F2nOr5kwRC) | [Bec Lauder](https://open.spotify.com/artist/5Wl79QF98JiagVPHNOl8g6), [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [More Than Chemical](https://open.spotify.com/album/4BHG2wAUFPBXTeoDHfafT0) | 2:32 | 2023-06-30 | 2023-08-19 |
 | [More Than Fine](https://open.spotify.com/track/4BAT0xxJnymne7WzeT0Upq) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [More Than Fine](https://open.spotify.com/album/7z7MswXt77DjYaKSuUOmHV) | 3:27 | 2023-02-10 | 2023-04-29 |
 | [more than life \(feat\. glaive\)](https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [more than life \(feat\. glaive\)](https://open.spotify.com/album/4muxcqXXIZKuxmrDJQnvNN) | 3:16 | 2022-06-10 | 2022-08-27 |

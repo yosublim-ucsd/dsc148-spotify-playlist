@@ -4,7 +4,7 @@
 
 > Falling leaves and cozy tunes.
 
-574 songs - 1 day 11 hr 56 min
+575 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Break Me Open](https://open.spotify.com/track/0WbtcjCNI2wmekd7d83ISi) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/5ETeNxIf3zlzUz09jJEsOY) | 3:03 | 2022-03-21 | 2022-06-08 |
 | [Bridges \- Acoustic](https://open.spotify.com/track/1bbgrByqDYkBcGx4rnucWG) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Bridges \(Acoustic\)](https://open.spotify.com/album/1HDT1Y5hq3UL51RR4Ap0a9) | 3:13 | 2022-03-21 | 2022-06-08 |
 | [Brother Sparrow](https://open.spotify.com/track/70EmroIbnTnbHG4qyTB0mf) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 4:00 | 2022-03-21 | 2022-06-08 |
-| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-08-30 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 | 2023-09-29 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-08-30 | 2023-10-30 |
 | [Burnt Sage](https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz) | [Le Siren](https://open.spotify.com/artist/2S3JqbYUGXlM10ljtBH1wC) | [Take Care of Yourself](https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo) | 2:37 | 2023-01-05 | 2023-03-16 |
 | [Bush](https://open.spotify.com/track/4QEhaZQmYvwh3eZV3BAvKN) | [Straats](https://open.spotify.com/artist/0higlnOzPAny6nOraITrsP) | [Bush](https://open.spotify.com/album/6x7wYTMcciUQiz08Y52Ybv) | 1:53 | 2023-06-21 | 2023-08-31 |
 | [Buzzing In The Light](https://open.spotify.com/track/4rTftcEWlMXJsj7IfOUnjZ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Critical Equation](https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq) | 4:01 | 2023-06-21 | 2023-08-31 |

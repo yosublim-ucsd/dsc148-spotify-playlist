@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 
 > Rock tranqui para concentrarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,073 likes - 73 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,095 likes - 73 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 72 | [Desvanecer \- Versión Acústica](https://open.spotify.com/track/1ZilxgQ1uFsJZAKOdYCBLl) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:01 |
 | 73 | [El Matador](https://open.spotify.com/track/3GSFaZ8m1nTEzZaZ5bco11) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [El Matador](https://open.spotify.com/album/4iRUuWS0A140Fm7tjKchrj) | 2:31 |
 
-Snapshot ID: `MCwwZGRmY2FiMWJkYzk5ODBhYzFjNGVkOWZkMjhkZTE0NDNlYTJhMTg5`
+Snapshot ID: `MCw4NzkwMmEyNTFhYzgzMGFjNzhmNzRkOWQyYTY0YTAyYThmOGRmYjIy`

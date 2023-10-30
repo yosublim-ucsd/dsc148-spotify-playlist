@@ -204,10 +204,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 311518,
       "name": "Allah Ghaleb",
       "url": "https://open.spotify.com/track/1w1C72J7CTI02ZJabhqiF8"
+    },
+    {
+      "album": {
+        "name": "Allah Ghaleb",
+        "url": "https://open.spotify.com/album/166IIJAv1paB97IjvM4fGF"
+      },
+      "artists": [
+        {
+          "name": "Abdou Gambitta",
+          "url": "https://open.spotify.com/artist/1Wvj6pS5vEqLFeg6c3YpiC"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311518,
+      "name": "Allah Ghaleb",
+      "url": "https://open.spotify.com/track/4wqi6XARco9AQohzx82qti"
     },
     {
       "album": {

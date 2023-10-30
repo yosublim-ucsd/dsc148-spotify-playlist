@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: HaSeul\(하슬\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,978 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,073 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [compromise \(feat\. Soo\-Yeony & bluewoods\)](https://open.spotify.com/track/5Uy0nfGGfNP3NN6ElzJi5f) | [DJ Sparrow](https://open.spotify.com/artist/2D3tLAHBKITd7X6ys2Lz1N), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki), [Bluewoods](https://open.spotify.com/artist/2zjQ03r51skqNDg0kUjAMV) | [compromise \(feat\. Soo\-Yeony & bluewoods\)](https://open.spotify.com/album/2x7ql8FguTwmA6PhesCUOS) | 2:40 |
 | 50 | [Rose](https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [Rose](https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6) | 3:08 |
 
-Snapshot ID: `MCxjYTYzMjI4M2I1Yjc3NTFmZDk0MzZjZDM3ZGMxZGJlY2YwZjAxNTE0`
+Snapshot ID: `MCwyYzYzZjVlYjdmODY3MzA0OTg1ZTI1MWQwMzhjZDY0NzJmYjU0ZjQ4`

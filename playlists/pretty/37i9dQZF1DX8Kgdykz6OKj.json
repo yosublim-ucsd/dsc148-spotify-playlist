@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1188297,
+  "num_followers": 1188622,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjYyMjE5OGNhMjEzMzJmYzA1YWNmOGQ2Zjc4YjRmZjczNWVkMTc5",
+  "snapshot_id": "MCxlNmQxMDk5NGRlNmE1ZDZjN2M3ZWIyZDc3YmQwYzFmMzEwYzZmZmMy",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Ziplock / Rich Don't Stop",
+        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Ziplock",
+      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "ARE WE STILL DREAMING?",
         "url": "https://open.spotify.com/album/4DqJ4gzYejnGEGd8mIvySJ"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 199373,
       "name": "Bittersweet Baby",
       "url": "https://open.spotify.com/track/7KPZwV0b7aFQXhIPahLJdZ"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Ziplock / Rich Don't Stop",
-        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Ziplock",
-      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Green Street (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
-      },
-      "artists": [
-        {
-          "name": "Jazz Spastiks",
-          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
-        },
-        {
-          "name": "People Without Shoes",
-          "url": "https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL"
-        }
-      ],
-      "duration_ms": 160508,
-      "name": "Super Fly Funk",
-      "url": "https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Chapter 7",
         "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 287320,
       "name": "Chapter 7 (feat. Ty)",
       "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Green Street (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
+      },
+      "artists": [
+        {
+          "name": "Jazz Spastiks",
+          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
+        },
+        {
+          "name": "People Without Shoes",
+          "url": "https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL"
+        }
+      ],
+      "duration_ms": 160508,
+      "name": "Super Fly Funk",
+      "url": "https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "The LP",
-      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "LONERWRLD, vol 1",
         "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 130742,
       "name": "Fly god manners",
       "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "The LP",
+      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Escape Music",
+        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
+      },
+      "artists": [
+        {
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 223772,
+      "name": "Got Me Thinkin' (feat. Sparkz)",
+      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Late Night Link",
         "url": "https://open.spotify.com/album/5ROL6IqcFzRv6lm68RzsSo"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 194545,
       "name": "Late Night Link",
       "url": "https://open.spotify.com/track/1xa2CuAx4iD2tVq2SNlQG6"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Escape Music",
-        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
-      },
-      "artists": [
-        {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
-        }
-      ],
-      "duration_ms": 223772,
-      "name": "Got Me Thinkin' (feat. Sparkz)",
-      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Helping Hands",
-        "url": "https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 203680,
       "name": "Violets (feat. Phonte)",
       "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Helping Hands",
+        "url": "https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Heart Shaped Kisses",
-        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Heart Shaped Kisses",
-      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 242747,
       "name": "Go So Far",
       "url": "https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Heart Shaped Kisses",
+        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Heart Shaped Kisses",
+      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+      },
+      "artists": [
+        {
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Back At The House",
         "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 258461,
       "name": "Down",
       "url": "https://open.spotify.com/track/0XnhTgMuX3ncdnf5mZnce8"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Guapanese",
-        "url": "https://open.spotify.com/album/6nrH4KzVJNY1OpjVqemOZU"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 144140,
-      "name": "Guapanese",
-      "url": "https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Palm Trees",
         "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
       },
@@ -1967,22 +1951,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "EQUINOX",
-        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+        "name": "Guapanese",
+        "url": "https://open.spotify.com/album/6nrH4KzVJNY1OpjVqemOZU"
       },
       "artists": [
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -2007,6 +1987,26 @@
       "duration_ms": 153750,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/5Niwu1Unu9JZEkkFmvWfyZ"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
     }
   ],
   "unique_name": "Jazz Rap",

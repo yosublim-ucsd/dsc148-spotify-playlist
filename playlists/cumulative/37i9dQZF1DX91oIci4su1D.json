@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 179000,
       "name": "Allium",
       "url": "https://open.spotify.com/track/2YKFsGvXC5HvqKFfv8ECi3"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 201739,
       "name": "Campos Eliseos",
       "url": "https://open.spotify.com/track/0suq6pekpVWxP5OqcjhtbQ"
@@ -3719,6 +3719,28 @@
     },
     {
       "album": {
+        "name": "Echo In Your Mind",
+        "url": "https://open.spotify.com/album/0LtJoNDCsncObr2LcEcbBM"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213636,
+      "name": "Echo In Your Mind",
+      "url": "https://open.spotify.com/track/4BA9CKWeuP4DwjBU0ZDdni"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/67qAND67EEnc4Rfu4ZMCLF"
       },
@@ -4923,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Flow Through",
+        "url": "https://open.spotify.com/album/3fXq5rkLXKTLvgpNIr7cKi"
+      },
+      "artists": [
+        {
+          "name": "John O'Callaghan",
+          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201739,
+      "name": "Flow Through",
+      "url": "https://open.spotify.com/track/7rZZ4gUSsnaA9gOnXcMKac"
+    },
+    {
+      "album": {
         "name": "Fluor / Liften",
         "url": "https://open.spotify.com/album/5siFr82SYSMhW0cGpmc0Us"
       },
@@ -5144,7 +5184,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 240656,
       "name": "Forever",
       "url": "https://open.spotify.com/track/79RYcYdQO7Ue7yZJ9tZp6x"
@@ -11069,6 +11109,28 @@
     },
     {
       "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/3ml9r73gbPyYY4P9n0BVnz"
+      },
+      "artists": [
+        {
+          "name": "Ashley Wallbridge",
+          "url": "https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG"
+        },
+        {
+          "name": "John Grand",
+          "url": "https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184347,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/7ueZoo33QOSi6sZwa1YeEZ"
+    },
+    {
+      "album": {
         "name": "Purity (Ferry Tayle & Tonks present Mirage Remix)",
         "url": "https://open.spotify.com/album/4wkN2hlAEr6JlJJ5iCi81u"
       },
@@ -14451,6 +14513,28 @@
     },
     {
       "album": {
+        "name": "The Wave (Is Coming)",
+        "url": "https://open.spotify.com/album/5823Cau4UyTySFTCdXGJgW"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        },
+        {
+          "name": "Torsten Stenzel",
+          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210434,
+      "name": "The Wave (is Coming) (York Back To The Roots Mix)",
+      "url": "https://open.spotify.com/track/1EHa4jVUQri79NcoFeuzZG"
+    },
+    {
+      "album": {
         "name": "The Way It Goes",
         "url": "https://open.spotify.com/album/1y5ccrwPC7GMb9Qw7zR8Fm"
       },
@@ -14612,6 +14696,28 @@
       "duration_ms": 198654,
       "name": "Till The Sun Is Up High",
       "url": "https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY"
+    },
+    {
+      "album": {
+        "name": "Till We Fade",
+        "url": "https://open.spotify.com/album/1LTCp8uuRTym8EDraKVjSo"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Emma Hewitt",
+          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193152,
+      "name": "Till We Fade",
+      "url": "https://open.spotify.com/track/5egP6yTdSchQ4gRrC7kKr9"
     },
     {
       "album": {
@@ -15128,7 +15234,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 196423,
       "name": "United",
       "url": "https://open.spotify.com/track/7xKATmfmkwgt8qvUaAdm1a"
@@ -15172,6 +15278,24 @@
       "duration_ms": 258857,
       "name": "Unkonsciousness (UNK23 Anthem)",
       "url": "https://open.spotify.com/track/5iteodYhvmxjP46YZCfjy1"
+    },
+    {
+      "album": {
+        "name": "Unreal",
+        "url": "https://open.spotify.com/album/3zKc2kd8cR0l46l7dLPRid"
+      },
+      "artists": [
+        {
+          "name": "C-Systems",
+          "url": "https://open.spotify.com/artist/23u5Z7BfuCPFLl4JE1uacp"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232944,
+      "name": "Unreal",
+      "url": "https://open.spotify.com/track/0lshe5VyHv6KqY4dY8y8I0"
     },
     {
       "album": {
@@ -16148,7 +16272,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 225937,
       "name": "You Get Me",
       "url": "https://open.spotify.com/track/4swpBMR7chyLpb3sbCOnUC"
@@ -16166,7 +16290,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 210857,
       "name": "You Make Me Feel Alive",
       "url": "https://open.spotify.com/track/5LKMOemvpTqzRXIafoMLnt"

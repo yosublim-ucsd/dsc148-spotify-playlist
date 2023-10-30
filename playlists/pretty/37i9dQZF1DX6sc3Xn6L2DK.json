@@ -1,12 +1,12 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 36699,
+  "num_followers": 36707,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2M5ODJiZGUzNDY4NDE1N2E1NDZiZWZiYjFiZTBkNTkwOTdhYTYy",
+  "snapshot_id": "MCw1Zjc0ODcwNjYwMWQ5OWNlYTM0NjMyYzlmNDc3Y2I2ZmIwZDIxY2Rh",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Strange Fascination",
-        "url": "https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs"
-      },
-      "artists": [
-        {
-          "name": "Chatham County Line",
-          "url": "https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 258930,
-      "name": "Strange Fascination",
-      "url": "https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Sam Amidon",
         "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
       },
@@ -943,18 +923,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Los Chicos Tristes",
-        "url": "https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa"
+        "name": "Strange Fascination",
+        "url": "https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Chatham County Line",
+          "url": "https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Los Chicos Tristes",
-      "url": "https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ"
+      "duration_ms": 258930,
+      "name": "Strange Fascination",
+      "url": "https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -971,6 +955,38 @@
       "duration_ms": 325271,
       "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
       "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Los Chicos Tristes",
+        "url": "https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Los Chicos Tristes",
+      "url": "https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Cocaine Country Dancing",
+        "url": "https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 256281,
+      "name": "Cocaine Country Dancing",
+      "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1003,22 +1019,6 @@
       "duration_ms": 201985,
       "name": "Green Rocky Road",
       "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Cocaine Country Dancing",
-        "url": "https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 256281,
-      "name": "Cocaine Country Dancing",
-      "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
     },
     {
       "added_at": "2023-10-27 04:00:00",

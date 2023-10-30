@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 260256,
+  "num_followers": 260364,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzYxMmEyNWZiMTU5NDc4YjQ3MjFmYzdhMTRkMjM3MjZlZjdiMzYz",
+  "snapshot_id": "MCwyMjM0NzNhZDU0YmQxNDNhNDE1YTM1MDE0MGM1NTRjMjBkZmMyOTc2",
   "tracks": [
     {
       "added_at": "2023-10-13 19:48:40",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Coming Of Age pt. 1",
-        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Skullcrusher",
         "url": "https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu"
       },
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+        "name": "Coming Of Age pt. 1",
+        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "People Pleaser",
-        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
-      },
-      "artists": [
-        {
-          "name": "Laura Elliott",
-          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
-        }
-      ],
-      "duration_ms": 252291,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 206950,
       "name": "Everything Everything",
       "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
+      },
+      "artists": [
+        {
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
+        }
+      ],
+      "duration_ms": 252291,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Would You Mind Please Pulling Me Close?",
-        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 243925,
-      "name": "Would You Mind Please Pulling Me Close?",
-      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Silk",
         "url": "https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 192000,
       "name": "Silk",
       "url": "https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Would You Mind Please Pulling Me Close?",
+        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 243925,
+      "name": "Would You Mind Please Pulling Me Close?",
+      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+        "name": "Aldous Harding",
+        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
       },
       "artists": [
         {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 188615,
-      "name": "Mortals",
-      "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
+      "duration_ms": 338639,
+      "name": "Stop Your Tears",
+      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Aldous Harding",
-        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 338639,
-      "name": "Stop Your Tears",
-      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
+      "duration_ms": 188615,
+      "name": "Mortals",
+      "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Love More",
-        "url": "https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 272067,
-      "name": "Love More",
-      "url": "https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Love More",
+        "url": "https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 272067,
+      "name": "Love More",
+      "url": "https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "In the Magic Hour",
         "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 236400,
       "name": "The King of All Birds",
       "url": "https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0"
-      },
-      "artists": [
-        {
-          "name": "Sister Ray",
-          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
-        }
-      ],
-      "duration_ms": 239917,
-      "name": "Pressing Down",
-      "url": "https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0"
+      },
+      "artists": [
+        {
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+        }
+      ],
+      "duration_ms": 239917,
+      "name": "Pressing Down",
+      "url": "https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "We Slept at Last",
         "url": "https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 231670,
       "name": "Drown",
       "url": "https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Lincoln, Nebraska",
+        "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 143674,
+      "name": "Lincoln, Nebraska",
+      "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Lincoln, Nebraska",
-        "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 143674,
-      "name": "Lincoln, Nebraska",
-      "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Friends With Feelings",
         "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
       },
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+        "name": "L. A. Flame",
+        "url": "https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ"
       },
       "artists": [
         {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+          "name": "Anna Ash",
+          "url": "https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw"
         }
       ],
-      "duration_ms": 175773,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
+      "duration_ms": 190946,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "L. A. Flame",
-        "url": "https://open.spotify.com/album/2uerpXtKAOWdGBQva8AroJ"
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
       "artists": [
         {
-          "name": "Anna Ash",
-          "url": "https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw"
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
         }
       ],
-      "duration_ms": 190946,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/2U0U5tUzmzAd0tjzvXwHqN"
+      "duration_ms": 175773,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Turn To Dust",
+      "url": "https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Thumbs",
         "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
       },
@@ -1563,6 +1579,22 @@
       "duration_ms": 265440,
       "name": "Thumbs",
       "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 215793,
+      "name": "Pick Apart",
+      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1587,34 +1619,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+        "name": "Kitchen Table",
+        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
       },
       "artists": [
         {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 215793,
-      "name": "Pick Apart",
-      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "My Love Is Cool",
-        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Turn To Dust",
-      "url": "https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv"
+      "duration_ms": 208800,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1631,22 +1647,6 @@
       "duration_ms": 231413,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Kitchen Table",
-        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Kitchen Table",
-      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
     },
     {
       "added_at": "2023-10-13 19:48:40",

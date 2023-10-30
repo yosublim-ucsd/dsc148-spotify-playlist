@@ -1,12 +1,12 @@
 {
   "description": "The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh",
-  "num_followers": 171479,
+  "num_followers": 171638,
   "original_name": "Latino Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTgyMmI0N2Y3NmNhYTlkNGQyMTMxZDNhYzZiM2VjMTA5NTRmNGUz",
+  "snapshot_id": "MCxmNGE0ZDI1NjZmZjYyYTQ0NTJkY2ZkNjE4ZTJmM2M3YTNkZWU4M2Y4",
   "tracks": [
     {
       "added_at": "2023-09-22 07:16:39",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "Palpita",
-        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Palpita",
-      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "Bum Bum Tam Tam",
         "url": "https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 213988,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "Palpita",
+        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Palpita",
+      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "D\u00c9JALO EN VISTO",
-        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 189918,
-      "name": "D\u00c9JALO EN VISTO",
-      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6b2HYgqcK9mvktt4GxAu72"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "D\u00c9JALO EN VISTO",
+        "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 189918,
+      "name": "D\u00c9JALO EN VISTO",
+      "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
     },
     {
       "added_at": "2023-09-22 07:16:39",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-09-22 07:16:39",
       "album": {
-        "name": "CRIMINAL",
-        "url": "https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
-        }
-      ],
-      "duration_ms": 180525,
-      "name": "CRIMINAL",
-      "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
-    },
-    {
-      "added_at": "2023-09-22 07:16:39",
-      "album": {
         "name": "LFG",
         "url": "https://open.spotify.com/album/0Wjc11cdyOt2mvMCBrTTvU"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 158837,
       "name": "DROP TOP (feat. Eddie Zuko)",
       "url": "https://open.spotify.com/track/4iVlQcJQfbp9CZVLZsfIoS"
+    },
+    {
+      "added_at": "2023-09-22 07:16:39",
+      "album": {
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        }
+      ],
+      "duration_ms": 180525,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
     }
   ],
   "unique_name": "Latino Global",

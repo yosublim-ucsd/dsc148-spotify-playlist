@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-257 songs - 16 hr 22 min
+258 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Didn't He Ramble](https://open.spotify.com/track/0PcyGgEAKYaVpND2efXlar) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [A Season On The Line](https://open.spotify.com/album/3WUZZCDyqL7k7TyOb2At4x) | 4:52 | 2022-02-17 | 2023-10-26 |
 | [Didn't He Ramble](https://open.spotify.com/track/6PDB3R8PZRZGnASz1E9BHE) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/30s2OvVdzyanq9Z0kHh6Uj) | 4:52 | 2021-12-09 | 2022-06-01 |
 | [Disarm](https://open.spotify.com/track/7MGcxsfMJrHnqOZ4ZaThRf) | [Fossil Collective](https://open.spotify.com/artist/0PhKXBGcwWwVcXCETFd92y) | [Flux](https://open.spotify.com/album/353sWANJIgsRD3vSpICwGJ) | 5:21 | 2022-01-05 | 2022-01-09 |
-| [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 | 2023-10-20 |  |
+| [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 | 2023-10-20 | 2023-10-30 |
+| [Do You](https://open.spotify.com/track/4ZffJ6gXFwMzpzLrlRHSh0) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/0RqhEB5mHX22h2FsHLF2m4) | 4:08 | 2023-10-20 |  |
 | [Dog Has Its Day](https://open.spotify.com/track/0EXdNsNOxZH1TLzBYUgY55) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Dog Has Its Day](https://open.spotify.com/album/3LWTWoR1YaLeyN42RvEsd3) | 3:10 | 2021-12-09 | 2022-07-29 |
 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2022-02-17 |  |
 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 | 2021-12-09 |  |
@@ -113,7 +114,7 @@
 | [I Shouldn't Go Anywhere](https://open.spotify.com/track/0nZitUFjpGHGpsi317SJFM) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 3:43 | 2021-12-09 | 2022-06-20 |
 | [I Wanna Make Promises \(That I Can't Keep\)](https://open.spotify.com/track/35XLYNIZL3ScKXvHQXnojt) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [I Wanna Make Promises \(That I Can't Keep\)](https://open.spotify.com/album/6kMp5OA2YIftfMXmfztVrx) | 4:51 | 2021-12-09 | 2022-07-29 |
 | [I'm Not There](https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [I'm Not There](https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy) | 4:03 | 2023-04-28 | 2023-06-16 |
-| [If I Was](https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Ever Since I Lost My Mind](https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A) | 4:26 | 2021-12-09 | 2023-10-24 |
+| [If I Was](https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Ever Since I Lost My Mind](https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A) | 4:26 | 2021-12-09 |  |
 | [In My Room](https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 2:45 | 2021-12-09 | 2023-04-14 |
 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 | 2021-12-09 |  |
 | [It Ain’t Easy](https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What Is There](https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz) | 3:20 | 2021-12-09 |  |
@@ -227,7 +228,7 @@
 | [The John Wayne](https://open.spotify.com/track/08RiqittsiyAXB9VmrSErU) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 4:51 | 2022-02-17 |  |
 | [The John Wayne](https://open.spotify.com/track/3CMlAaKO8Z1MUsmk5ngUtN) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf) | 4:51 | 2022-02-17 | 2022-10-13 |
 | [The John Wayne](https://open.spotify.com/track/460n97wRvhCNU4OVgZyM0V) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH) | 4:51 | 2021-12-09 | 2022-07-28 |
-| [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 | 2021-12-09 |  |
+| [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 | 2021-12-09 |  |
 | [The Offer](https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK) | [Ian O'Neil](https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX) | [Ten Years of It](https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA) | 3:29 | 2021-12-09 | 2022-02-17 |
 | [The Records Were Ours](https://open.spotify.com/track/4UdsKKXEUAFqufpanvpdsW) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [The Records Were Ours](https://open.spotify.com/album/4BXUB780HfPgYfi9lerlR9) | 3:05 | 2021-12-09 | 2021-12-24 |
 | [The Ripple](https://open.spotify.com/track/0zWM14GHB53fJNUNJf5y3H) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [The Ripple](https://open.spotify.com/album/7FCAHU53l7CvZwFfHOEXrH) | 3:24 | 2021-12-09 | 2022-07-29 |
@@ -258,7 +259,7 @@
 | [Whooped If You Will](https://open.spotify.com/track/7w2xLKBswCeggLpAVnNmgf) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [All Bad](https://open.spotify.com/album/42yDMOCSnkUZwbH0tmt3WR) | 4:00 | 2023-07-28 |  |
 | [Why You Gotta Be](https://open.spotify.com/track/4DRe9zhFiYvRzixDqsSiOC) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Why You Gotta Be](https://open.spotify.com/album/1tYpSLfWGpyUzRttN5Kkt6) | 3:48 | 2021-12-09 | 2022-07-03 |
 | [Why You Gotta Be](https://open.spotify.com/track/4uyVtAFRciCP9fGqG3sm25) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:48 | 2022-02-17 | 2023-04-29 |
-| [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 | 2022-02-17 |  |
+| [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 | 2022-02-17 | 2023-10-30 |
 | [Wired](https://open.spotify.com/track/4RjB5oKr2A1newpYSoweDd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [Wired](https://open.spotify.com/album/2XP0xgThQjhcAeJGYCZO6c) | 4:40 | 2021-12-09 | 2022-07-18 |
 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 | 2022-02-17 |  |
 | [Wish I Knew You](https://open.spotify.com/track/7jpP6QKGSJDpSFkAy3nKxG) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/0AvofRwpMFBiwA7ouH8oBT) | 4:34 | 2021-12-09 | 2022-07-29 |

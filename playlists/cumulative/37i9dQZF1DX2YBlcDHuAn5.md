@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-108 songs - 6 hr 32 min
+110 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,10 +38,11 @@
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-09-01 |  |
 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 | 2023-02-23 | 2023-10-06 |
 | [Feel Like Going Home \(feat\. The Southern Aces & Jw Roy\)](https://open.spotify.com/track/5vJxxRPswssA0WWHzd1g6s) | [Malford Milligan](https://open.spotify.com/artist/2QJLuDh3Dcw0RrNMusUMHz), [The Southern Aces](https://open.spotify.com/artist/3mwhEzwbXlTrbVojkG9LVI), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Life Will Humble You](https://open.spotify.com/album/4RhJ3rxqGdeYwyOy2GLQdZ) | 4:48 | 2023-04-27 | 2023-04-30 |
-| [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 |  |
+| [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 | 2023-10-30 |
 | [Forever a Prisoner](https://open.spotify.com/track/5UEffWajlacLxVJd2jODNX) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP), [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Forever a Prisoner](https://open.spotify.com/album/489krjRSaaFyODbOscNedG) | 3:19 | 2023-08-31 | 2023-10-06 |
+| [Frozen In Time](https://open.spotify.com/track/7qoc1IZ1k6FXlF5KrPqAXe) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Frozen In Time](https://open.spotify.com/album/2Xd0nXYllq7usaXQ99UXlA) | 2:58 | 2023-10-05 |  |
 | [Going Home](https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD), [Maud Knubben](https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV) | [Dangers Mood](https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z) | 3:12 | 2023-04-27 | 2023-09-01 |
-| [Gonna Shine](https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Gonna Shine](https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi) | 4:01 | 2023-09-14 |  |
+| [Gonna Shine](https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Gonna Shine](https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi) | 4:01 | 2023-09-14 | 2023-10-30 |
 | [Gravel Road](https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Wandering Soul](https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv) | 2:32 | 2023-06-01 |  |
 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 | 2023-02-23 |  |
 | [Heat of the Moment](https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [A Heightened Sense of Everything](https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng) | 3:28 | 2023-08-29 |  |
@@ -68,6 +69,7 @@
 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 | 2023-02-23 | 2023-10-06 |
 | [Maybe, Maybe Not](https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Maybe, Maybe Not](https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf) | 3:20 | 2023-02-23 | 2023-09-01 |
 | [My Love Is On The Run](https://open.spotify.com/track/1HUPYoXCbnhQnwsKbZBwzQ) | [Damiën Van Elburg](https://open.spotify.com/artist/5AfiMBS3lNh5qbmqpTgMmO) | [Peace of Mind](https://open.spotify.com/album/6npPpBrnnwLpUJwbFULGjs) | 3:21 | 2023-05-11 | 2023-06-16 |
+| [Nighttime Walk](https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO) | [Mercy John](https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ) | [Nighttime Walk](https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48) | 5:36 | 2023-10-05 |  |
 | [Once Upon A Town](https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Once Upon A Town](https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4) | 2:59 | 2023-03-30 | 2023-05-12 |
 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 | 2023-02-23 |  |
 | [Only Love](https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Big Thing](https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU) | 3:35 | 2023-02-23 |  |

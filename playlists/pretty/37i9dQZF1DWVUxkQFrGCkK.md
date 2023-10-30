@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,031 likes - 179 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,195 likes - 179 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 18 | [Rej](https://open.spotify.com/track/3wgJgvlQ1HXJvt61NRE08e) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Neil Amarey](https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ) | [Rej](https://open.spotify.com/album/6wD1X9ScsDcxnVOCtA3LUv) | 2:39 |
 | 19 | [The Boy Is Mine](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD), [Rosalie](https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7) | [The Boy Is Mine](https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc) | 3:21 |
 | 20 | [Get Down](https://open.spotify.com/track/3sFkO2PDRIiZhqR0ZtRzuw) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Get Down EP](https://open.spotify.com/album/1GiStB0oGRElP49xAQo2A3) | 5:08 |
-| 21 | [Halele \- Alex Wann Remix](https://open.spotify.com/track/5BZ9Mrq6oWU963tjI6yAKg) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Halele \(Remixes\)](https://open.spotify.com/album/5eMmrUFsBQKrSMMzM3WfWd) | 3:48 |
+| 21 | [Halele \- Alex Wann Remix](https://open.spotify.com/track/5BZ9Mrq6oWU963tjI6yAKg) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Ominira Remix EP](https://open.spotify.com/album/5eMmrUFsBQKrSMMzM3WfWd) | 3:48 |
 | 22 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 23 | [Summertime](https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Summertime / Can't Stop](https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG) | 4:16 |
 | 24 | [2Sides \- Crackazat Remix](https://open.spotify.com/track/3p2UnuScyVx2C2bJkLDwD2) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [2Sides \(Crackazat Remix\)](https://open.spotify.com/album/5inqQ4aqL1gvoOzjwpPt5L) | 5:17 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 178 | [maracuya massage \- Sam Ruffillo Remix](https://open.spotify.com/track/4AgAhaqv9RA6q7JnnyCMdv) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [maracuya massage \(Sam Ruffillo Remix\)](https://open.spotify.com/album/2Onz56a71k0NIcqMR93wqu) | 4:11 |
 | 179 | [phases \(feat\. Kojey Radical\) \- P\-rallel Remix](https://open.spotify.com/track/0BUU2Sw6QrDyIVg4U6G3Gl) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [phases \(feat\. Kojey Radical\) \[P\-rallel Remix\]](https://open.spotify.com/album/5UMUOPkLKNKKfHIT9D9D4x) | 3:08 |
 
-Snapshot ID: `MCw3N2Q5ZGNmNGI5Mjc2NmQ2NDg0OWE4N2Q4ZjI4NTU5MzU3OGY3Y2Ey`
+Snapshot ID: `MCxmNDBiMDBhZmUzMmRjN2E0MTZlODU2YWMwOTlhYmFlYmIxYWQ2ZWYx`

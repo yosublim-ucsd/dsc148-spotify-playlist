@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Goodnight Electric
 
-121 songs - 8 hr 16 min
+122 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Please Say Yes](https://open.spotify.com/track/1qs68Q2hSHRfsAsGtwL94n) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Reminisce 189](https://open.spotify.com/album/7Aw6H2i0Ksex2n8Qb9LwJG) | 3:55 | 2023-09-29 |  |
 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 | 2021-11-25 |  |
 | [Pop Kinetik](https://open.spotify.com/track/5g2V3uYWkLJJYFDPsny0La) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [1+2](https://open.spotify.com/album/5XepVOJPD8w4yF9SaKduLG) | 3:41 | 2021-11-25 |  |
+| [Psychic Girl](https://open.spotify.com/track/1bkO8Q7QcKXAsVYNsiAP0Z) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 3:48 | 2023-10-27 |  |
 | [Pulang](https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [No\-Dream Land](https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX) | 3:17 | 2021-11-25 |  |
 | [Rasuna](https://open.spotify.com/track/53osj6QMqLcS0hri9bcrsz) | [The Sastro](https://open.spotify.com/artist/4RcRA0H94M5m9D97A5jLD0) | [Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0) | 5:22 | 2021-11-25 |  |
 | [Ribbons and Tie](https://open.spotify.com/track/6cX2vLd8kzTXkWUp7MUT8B) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Tinkerwish](https://open.spotify.com/album/2Rh5YARuoxIx4DIyeYPDMA) | 4:48 | 2022-08-04 |  |

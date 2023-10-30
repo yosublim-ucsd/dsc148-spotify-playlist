@@ -3117,6 +3117,36 @@
     },
     {
       "album": {
+        "name": "Seeking Creature",
+        "url": "https://open.spotify.com/album/60yMPnwXXmzJhFdlBDqayC"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Amane Uyama",
+          "url": "https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa"
+        },
+        {
+          "name": "\u9ed2\u9244\u305f\u307e (CV: \u79cb\u5948)",
+          "url": "https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph"
+        },
+        {
+          "name": "\u767d\u91d1 \u714c (CV: \u5c0f\u5bae\u6709\u7d17)",
+          "url": "https://open.spotify.com/artist/2xJeAewClnCHglceTI3gIw"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166120,
+      "name": "Seeking Creature",
+      "url": "https://open.spotify.com/track/4LeLjtBizXjrzHZ6lUtZB6"
+    },
+    {
+      "album": {
         "name": "Shining Lights",
         "url": "https://open.spotify.com/album/5gPKUS7jXWWZiAIEQcMTiB"
       },

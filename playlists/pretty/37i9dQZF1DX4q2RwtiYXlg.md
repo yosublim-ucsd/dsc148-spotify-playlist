@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q2RwtiYXlg.md) - [plain]
 
 > You can <a href="https://www.instagram.com/p/Cykx\_E6NEiD/">vote</a> for Worldwide Fans' Choice Category by listening to the song of the artist you support for longer than 30 seconds\. \(First 3 streams only per day\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,681 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,315 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q2RwtiYXlg.md) - [plain]
 | 49 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 |
 | 50 | [CHRISTIAN](https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:41 |
 
-Snapshot ID: `MCxlY2I2YjZhYjVjNDk0MTljNjM4NjczNjUyYWIwOGQ2MjAwZGUxYjQ0`
+Snapshot ID: `MCxiNzQwNDYwMjk1YjE5ZmE3Mzg2N2ZjNmNiMDhlMjNmMTY4NTk0YTAx`

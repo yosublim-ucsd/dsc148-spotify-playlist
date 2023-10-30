@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : The Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,278 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,312 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 31 | [Hello](https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello](https://open.spotify.com/album/2dVvbYd3dfLWqDhFDLRK5S) | 3:16 |
 | 32 | [Slipping Away](https://open.spotify.com/track/26u2W9VmoNNDqZMceqrBDs) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Slipping Away](https://open.spotify.com/album/3v2BiLetLp1wWT6lGceWiK) | 3:09 |
 | 33 | [Another good year for the roses](https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Another good year for the roses](https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0) | 5:34 |
-| 34 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 |
+| 34 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 |
 | 35 | [Fried Rice](https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Fried Rice](https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj) | 3:27 |
 | 36 | [Ricochet](https://open.spotify.com/track/14FafmUGy0QEjwcqH2GS9y) | [I Me Mine](https://open.spotify.com/artist/49Aanvac9LY0no4ysTsYvw) | [Ricochet](https://open.spotify.com/album/1EUvsSNS1smHcSmBmIjCCm) | 4:12 |
 | 37 | [Cruel Hearts](https://open.spotify.com/track/0gSGOnRJahLfNiIQr8Whnv) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Is This All We Are?](https://open.spotify.com/album/3SuBazvhBr901kNpaROT09) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 |
 | 50 | [Tethered](https://open.spotify.com/track/0ZRnv9lXrT1kthOFt0llwy) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Tethered](https://open.spotify.com/album/2MOOICbNuggNtJU2OZWaA4) | 3:48 |
 
-Snapshot ID: `MCxhNWRjZDg3MGJjMmJiMmJiYzlkNTJjYjY2MzMzNzVlNmY5MmY1ZDQw`
+Snapshot ID: `MCxhMjU2NzY2ZTUzNTkyYmFiMjc3ODhmZjM4NmEwYmM0ZjI4OTkxNGEz`

@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Dave Winnel
 
-1,316 songs - 3 day 3 hr 28 min
+1,317 songs - 3 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Alright](https://open.spotify.com/track/1ucjf1pWo2hO5Ekqw3VZ7p) | [Camille Doe](https://open.spotify.com/artist/0zjpQf6f3cYtgAR1egb6Gy) | [Alright](https://open.spotify.com/album/6q1woL39FbcmlHtJvMni3P) | 3:47 | 2023-06-09 | 2023-07-04 |
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-02-18 | 2022-02-26 |
 | [Ameno Amapiano Remix \(You Wanna Bamba\) \- Todd Terry Remix](https://open.spotify.com/track/0Yx4DyxRnhoXdEQcSbn0CD) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Ameno Amapiano \(You Wanna Bamba\) \[Todd Terry Remix\]](https://open.spotify.com/album/1p8WJo98RIGtAVRIFrXFsh) | 2:12 | 2022-07-01 | 2022-08-13 |
+| [Amnesia](https://open.spotify.com/track/0uPv6eHiyLixtoyI5mVJ1f) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Amnesia](https://open.spotify.com/album/2KEhj38WVxRIEEGADbOoNl) | 3:24 | 2023-10-27 |  |
 | [Amor](https://open.spotify.com/track/2pqBgFAxdgVXcmtG16SB5O) | [MUUS](https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH) | [Amor](https://open.spotify.com/album/4JzfgP4l8bmmUG0hfoZIpd) | 3:42 | 2023-03-17 | 2023-04-30 |
 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-04-26 | 2022-04-29 |
 | [Annihilator](https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Annihilator](https://open.spotify.com/album/0kYOVcPoZ8Zk5JnVOOarDg) | 2:34 | 2023-04-28 | 2023-05-13 |
@@ -181,7 +182,7 @@
 | [Can't Control](https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Can't Control](https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co) | 2:57 | 2023-03-17 | 2023-04-29 |
 | [Can't Miss](https://open.spotify.com/track/2FWAqHDVwtldyMwv2HnRnn) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [Kaysin](https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU) | [Can't Miss](https://open.spotify.com/album/44zEa0I7Ns6Cl62Vhdx80y) | 3:31 | 2023-04-07 | 2023-06-17 |
 | [Can't Stand feat\. ZensoFly](https://open.spotify.com/track/7t5E6WC2HIeAAAKWUymNzs) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [ZenSoFly](https://open.spotify.com/artist/4tDTF2Ho65ijdmMHbtgJ1h) | [Can't Stand](https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml) | 5:26 | 2023-07-14 | 2023-09-16 |
-| [Can't Take It Anymore](https://open.spotify.com/track/0kWSnUfrRvgfU6aej4joKu) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Maximo](https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG) | [Can't Take It Anymore](https://open.spotify.com/album/0Gcby1p56pmK1FOFc0F7UQ) | 3:08 | 2023-09-22 |  |
+| [Can't Take It Anymore](https://open.spotify.com/track/0kWSnUfrRvgfU6aej4joKu) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Maximo](https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG) | [Can't Take It Anymore](https://open.spotify.com/album/0Gcby1p56pmK1FOFc0F7UQ) | 3:08 | 2023-09-22 | 2023-10-30 |
 | [Can't You See \- Radio Edit](https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Can't You See](https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy) | 3:22 | 2022-04-15 | 2022-06-11 |
 | [Candela](https://open.spotify.com/track/0WR1IwdoZvOe9eyvIiOsxN) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [TECHOLOGY](https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s) | [Candela](https://open.spotify.com/album/06Sv0nfkDslR2zt14sArMZ) | 2:08 | 2023-06-30 | 2023-10-28 |
 | [Candy](https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4) | [Candy](https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m) | 3:15 | 2023-08-18 |  |

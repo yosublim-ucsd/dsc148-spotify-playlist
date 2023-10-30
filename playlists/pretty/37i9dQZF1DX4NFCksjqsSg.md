@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,661 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,675 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 27 | [On ne change pas](https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 4:07 |
 | 28 | [Les yeux du coeur](https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv), [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 4:16 |
 | 29 | [Le temps des cathédrales](https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Notre Dame de Paris \- Version intégrale, acte 1](https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY) | 3:22 |
-| 30 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 |
-| 31 | [Tue\-moi](https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs) | [Dan Bigras](https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb) | [1992\-2002 tout...](https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC) | 3:25 |
+| 30 | [Tue\-moi](https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs) | [Dan Bigras](https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb) | [1992\-2002 tout...](https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC) | 3:25 |
+| 31 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 |
 | 32 | [Une femme avec toi](https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Une femme avec toi \- Single](https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc) | 4:23 |
 | 33 | [Tous les cris, les S.O.S.](https://open.spotify.com/track/071HK2nrQvUajbjJcHANrL) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 5:18 |
 | 34 | [J't'aime comme un fou](https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [1ère période](https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v) | 3:50 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 46 | [Ailleurs](https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Sans retour](https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq) | 7:15 |
 | 47 | [Shame on U](https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc) | [Ophélie Winter](https://open.spotify.com/artist/1CWf9Py9ugzhwqunEEIFYP) | [Soon](https://open.spotify.com/album/4EBnAga3Y1x9iRsp3qsutX) | 4:37 |
 | 48 | [Tu trouveras](https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [Tu trouveras..\. 10 Ans De Succès](https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET) | 4:58 |
-| 49 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
-| 50 | [Aime moi](https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6) | [Claude Barzotti](https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb) | [Aime\-moi](https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT) | 4:10 |
+| 49 | [Aime moi](https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6) | [Claude Barzotti](https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb) | [Aime\-moi](https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT) | 4:10 |
+| 50 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
 | 51 | [Changer](https://open.spotify.com/track/59DiAbELxjxnY5fcgQRTI9) | [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu), [Marie\-Ève Janvier](https://open.spotify.com/artist/0FeqojwZ2cxZ5ME0n9XAwK) | [Don Juan \(Les plus grands succès du spectacle musical de Félix Gray\)](https://open.spotify.com/album/6zCqUEDoZRN92o7vtddpV5) | 4:06 |
 | 52 | [Corridor](https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn) | [Laurence Jalbert](https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l) | [Corridors](https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV) | 3:58 |
 | 53 | [Vivre Avec Celui Qu'on Aime](https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g) | [Francine Raymond](https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas) | [Francine Raymond](https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL) | 3:43 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 72 | [Repartir à zéro](https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV) | [Joe Bocan](https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW) | [Joe Bocan](https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb) | 3:21 |
 | 73 | [Incognito](https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Incognito](https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4) | 4:39 |
 | 74 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
-| 75 | [Je voudrais voir New\-York](https://open.spotify.com/track/3Io2XSb6fY3MZTDujUkyux) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM) | [Vue sur la mer](https://open.spotify.com/album/4RnJlOpXOYuuxScSUANVhL) | 3:30 |
+| 75 | [Tu t'en vas](https://open.spotify.com/track/5SVzFoP3aaTXEW4NkhvWbc) | [Aucun Regret](https://open.spotify.com/artist/2YrEQN4rjMODioEZQrfvMM) | [Mixmania](https://open.spotify.com/album/5A7aFa2NYD5V6l0wzY7fpl) | 3:26 |
 
-Snapshot ID: `MCw2NGFmZTY3MGRmNjdiZmU0NWM2ODc0YTVlNDU4YmQwNjkzMWUyNTdk`
+Snapshot ID: `MCxlODYwYTAzY2MwNjJkMTNhOTcyZjU4N2FhMDA0YmYwY2NjNWY5MGY5`

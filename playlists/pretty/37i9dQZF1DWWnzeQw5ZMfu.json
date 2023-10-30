@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 63704,
+  "num_followers": 63759,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDA1M2U4ZjJjY2E0OWE5ODQ0M2E1MjQ3M2NjY2UwODVjZDQwNTQw",
+  "snapshot_id": "MCwyMGUyNWIzMjljMDQ4NWE3NDI5MDI3OTU0NWIzYTMyYjBjYjgyOGMw",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 213068,
-      "name": "god is a woman - live",
-      "url": "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 221266,
       "name": "Rehab - Live On Jools Holland",
       "url": "https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 213068,
+      "name": "god is a woman - live",
+      "url": "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Live At Knebworth",
+        "url": "https://open.spotify.com/album/1S543Bgkd1pzNtqHrDp5bq"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 355666,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/2EU5LDgtGnh8RTz7VGlGoR"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Spotify Sessions London",
         "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
       },
@@ -451,18 +467,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Live At Knebworth",
-        "url": "https://open.spotify.com/album/1S543Bgkd1pzNtqHrDp5bq"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 355666,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/2EU5LDgtGnh8RTz7VGlGoR"
+      "duration_ms": 215786,
+      "name": "You're Still The One - Live",
+      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -479,22 +495,6 @@
       "duration_ms": 312800,
       "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
       "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "You're Still The One - Live",
-      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "In The Stars (Live Version)",
-        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 255139,
-      "name": "In The Stars - Live Version",
-      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Live and in Session",
         "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 285930,
       "name": "I See Fire - Live and in Session",
       "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "In The Stars (Live Version)",
+        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 255139,
+      "name": "In The Stars - Live Version",
+      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
       "artists": [
         {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
+      "duration_ms": 334813,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
+      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
         }
       ],
-      "duration_ms": 334813,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
-      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 486889,
+      "name": "Latch - Live From Madison Square Garden",
+      "url": "https://open.spotify.com/track/63i2WzJd0BIyyOT2aVLGVO"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 160400,
       "name": "Ghost - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 486889,
-      "name": "Latch - Live From Madison Square Garden",
-      "url": "https://open.spotify.com/track/63i2WzJd0BIyyOT2aVLGVO"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "New Rules (Live)",
-        "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
+        "name": "Live 8 (Live, July 2005)",
+        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 275101,
-      "name": "New Rules - Live",
-      "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
+      "duration_ms": 267263,
+      "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
+      "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Live 8 (Live, July 2005)",
-        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
+        "name": "New Rules (Live)",
+        "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 267263,
-      "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
-      "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
+      "duration_ms": 275101,
+      "name": "New Rules - Live",
+      "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
     },
     {
       "added_at": "2023-10-20 04:01:00",

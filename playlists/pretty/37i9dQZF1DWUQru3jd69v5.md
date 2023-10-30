@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Gheba
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,303 likes - 55 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,349 likes - 55 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [DON'T TRUST HOES](https://open.spotify.com/track/6c8ttfvaawdm8iKhSvgWzc) | [MISSVIVS](https://open.spotify.com/artist/4M8Y3T3ocS8wJNw9hAWkY1) | [DON'T TRUST HOES](https://open.spotify.com/album/0qnzven1Tz6v5C8qPpXjzR) | 2:43 |
 | 55 | [METEORITE](https://open.spotify.com/track/0QCMWRLyHl4fWUzkh81VEM) | [CEASEFIRE](https://open.spotify.com/artist/5Wd4jzhxc6jIjBNZWFYFI9), [Talia](https://open.spotify.com/artist/0Gm4i8B3ts9KHXxthgHBvB), [39redboy](https://open.spotify.com/artist/0vNZqDX9vgQ2Bq2dhh982b), [loui](https://open.spotify.com/artist/6KfMKEEQUwrKn3l4hZh4uA) | [METEORITE](https://open.spotify.com/album/1I5KZqe0ngRm1YGgabWQbn) | 2:06 |
 
-Snapshot ID: `MCwwYzc2ZTAzZjIzYWZiYmI3NGM1ZmEwNjRlN2IyMDQzOTVjZWYzOTlh`
+Snapshot ID: `MCw0ZmRkMmU0NTM0NjI1ZDc3ZDE5OGVjY2JkMGY2ZWM2OGFkMTdkM2U5`

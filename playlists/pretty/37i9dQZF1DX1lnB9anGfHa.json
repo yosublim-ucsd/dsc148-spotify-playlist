@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 208622,
+  "num_followers": 208677,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzFiMjRiMGQyMzMzNGRlNzRhMzc1MWNkZGQ2Y2RmZWE0MzkyMmEw",
+  "snapshot_id": "MCw0ZTYyNWExNzdmOTg4OWQxNGVkYmM3YjBmYzYyYWNmYmQyODc3NDJj",
   "tracks": [
     {
       "added_at": "2023-10-27 08:04:03",
@@ -147,6 +147,22 @@
       "duration_ms": 350168,
       "name": "Wasting",
       "url": "https://open.spotify.com/track/24ecRdvvKcZCFdmebEJ1X8"
+    },
+    {
+      "added_at": "2023-10-28 00:21:31",
+      "album": {
+        "name": "Squid For A Day",
+        "url": "https://open.spotify.com/album/0dCecSOQZTiP5Db8qxye7P"
+      },
+      "artists": [
+        {
+          "name": "Panoram",
+          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
+        }
+      ],
+      "duration_ms": 176972,
+      "name": "Squid For A Day",
+      "url": "https://open.spotify.com/track/129NkktWJoqa7S7PutQpYc"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -455,22 +471,6 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
-        "name": "The King",
-        "url": "https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ"
-      },
-      "artists": [
-        {
-          "name": "Anjimile",
-          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
-        }
-      ],
-      "duration_ms": 224524,
-      "name": "The King",
-      "url": "https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM"
-    },
-    {
-      "added_at": "2023-10-27 08:04:03",
-      "album": {
         "name": "Atlantic Diva",
         "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 187632,
       "name": "Even It Out",
       "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
+    },
+    {
+      "added_at": "2023-10-27 08:04:03",
+      "album": {
+        "name": "The King",
+        "url": "https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ"
+      },
+      "artists": [
+        {
+          "name": "Anjimile",
+          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
+        }
+      ],
+      "duration_ms": 224524,
+      "name": "The King",
+      "url": "https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -555,22 +571,18 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
-        "name": "Fall to Pieces",
-        "url": "https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO"
+        "name": "Radical Romantics",
+        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
       },
       "artists": [
         {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Marta",
-          "url": "https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7"
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
         }
       ],
-      "duration_ms": 136546,
-      "name": "Chills Me to the Bone",
-      "url": "https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX"
+      "duration_ms": 267763,
+      "name": "What They Call Us",
+      "url": "https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -595,18 +607,22 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
-        "name": "Radical Romantics",
-        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
+        "name": "Fall to Pieces",
+        "url": "https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO"
       },
       "artists": [
         {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Marta",
+          "url": "https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7"
         }
       ],
-      "duration_ms": 267763,
-      "name": "What They Call Us",
-      "url": "https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy"
+      "duration_ms": 136546,
+      "name": "Chills Me to the Bone",
+      "url": "https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX"
     },
     {
       "added_at": "2023-10-27 08:04:03",
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-10-27 08:04:03",
       "album": {
-        "name": "MY BLACK CAT",
-        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
-      },
-      "artists": [
-        {
-          "name": "Nana Nina",
-          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "MY BLACK CAT",
-      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
-    },
-    {
-      "added_at": "2023-10-27 08:04:03",
-      "album": {
         "name": "Noche",
         "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 237917,
       "name": "Noche",
       "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
+    },
+    {
+      "added_at": "2023-10-27 08:04:03",
+      "album": {
+        "name": "MY BLACK CAT",
+        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "MY BLACK CAT",
+      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
     },
     {
       "added_at": "2023-10-27 08:04:03",

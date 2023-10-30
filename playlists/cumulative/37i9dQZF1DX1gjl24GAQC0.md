@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? \(Cover: SEVENTEEN\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-501 songs - 1 day 4 hr 6 min
+502 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Ghost Town](https://open.spotify.com/track/11zk9584jNu1WoxWEeMWWj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Ghost Town](https://open.spotify.com/album/04UAzxqWOm1fb63qG1G1Ng) | 3:09 | 2022-02-15 | 2022-07-18 |
 | [Give me dat](https://open.spotify.com/track/78NOZVTo3ReedJSCqXIpSL) | [ARGON](https://open.spotify.com/artist/2dKmshZuLaQQfr55dankVK) | [GO FORWARD : Wide Dream](https://open.spotify.com/album/6iHktUGzL43RMOx84i0Hu4) | 3:08 | 2022-03-31 | 2022-04-16 |
 | [Give me more \(feat\. De La Ghetto & Play\-N\-Skillz\)](https://open.spotify.com/track/2aQuh8h6DArZ9bcPigj5nf) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [GIVE ME MORE](https://open.spotify.com/album/6xHcIcLAX9tShQKWICklhj) | 3:54 | 2022-03-30 | 2022-04-20 |
-| [Give You My All](https://open.spotify.com/track/5qnEx0iZtcFoUXPlY8iQhk) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Give You My All](https://open.spotify.com/album/7492V3qcwPAToQhe9KXo1A) | 2:45 | 2023-10-17 |  |
+| [Give You My All](https://open.spotify.com/track/5qnEx0iZtcFoUXPlY8iQhk) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Give You My All](https://open.spotify.com/album/7492V3qcwPAToQhe9KXo1A) | 2:45 | 2023-10-17 | 2023-10-30 |
 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2021-12-08 |  |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-04-12 | 2023-01-10 |
 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 | 2023-10-23 |  |
@@ -274,7 +274,7 @@
 | [LOSER](https://open.spotify.com/track/2jSKhV7zSImRqT4jBCFnEE) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [THE FUTURE IS OURS: LOST](https://open.spotify.com/album/0YXbjMgswczPCUdRsM19Ni) | 3:30 | 2023-05-30 | 2023-06-10 |
 | [Louder](https://open.spotify.com/track/6btX7akvoYxoh1zKXQHs2e) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [W SERIES ‘2TAN’\(wish ver\)](https://open.spotify.com/album/3YskOywYWBcztpX1k4SBS1) | 3:18 | 2022-06-21 | 2022-07-08 |
 | [Love Effect](https://open.spotify.com/track/5jBdF52105JBOQN4HyBCW5) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [LOVE EFFECT](https://open.spotify.com/album/1TtgaKSwHIh4KPtwSD3Kwz) | 2:52 | 2023-10-13 | 2023-10-21 |
-| [Love it](https://open.spotify.com/track/574gYm7iFWEUO4DbF5NGEF) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.2](https://open.spotify.com/album/3nnadaRtvxQl3Rchqp672S) | 3:22 | 2023-10-17 |  |
+| [Love it](https://open.spotify.com/track/574gYm7iFWEUO4DbF5NGEF) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.2](https://open.spotify.com/album/3nnadaRtvxQl3Rchqp672S) | 3:22 | 2023-10-17 | 2023-10-30 |
 | [Love Killa](https://open.spotify.com/track/4hxNs73449mNhfLIvAC9zz) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:02 | 2022-03-22 | 2022-04-19 |
 | [Love Line](https://open.spotify.com/track/1RYjkjc7Wck0psjCl5OcTr) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/3n3HTIorktWHS2mOo2G8jp) | 3:15 | 2022-03-22 | 2022-04-19 |
 | [LOVE ME](https://open.spotify.com/track/04zAq5UmMGJyRC3KfyWnYb) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Table](https://open.spotify.com/album/5ugI8wGwbbFYLS8VDy4XUr) | 3:03 | 2022-03-22 | 2022-04-11 |
@@ -414,7 +414,7 @@
 | [SOMEONE'S SOMEONE](https://open.spotify.com/track/0nP9JFMx8z5QNl5Ph8ExEa) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SOMEONE'S SOMEONE](https://open.spotify.com/album/3CFYV1F2RIDoHyinrBv8y5) | 2:21 | 2021-12-08 | 2022-07-29 |
 | [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-06-20 | 2023-09-02 |
 | [SOSO](https://open.spotify.com/track/5r8b02M37428Axrmya9Nrv) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [CROSS](https://open.spotify.com/album/3oDUvgzEoNkQfC0UCWHIPD) | 3:18 | 2022-01-27 | 2022-05-25 |
-| [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 | 2023-03-31 | 2023-10-27 |
+| [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 | 2023-03-31 |  |
 | [SPARK](https://open.spotify.com/track/7uUZ4nJhnKf7PQUcdUjxJM) | [JBJ95](https://open.spotify.com/artist/7G6wtLzZON7qJQ2Cw2kxVp) | [SPARK](https://open.spotify.com/album/4FsxA8z9EGHmnHnR2ogQOl) | 3:37 | 2021-12-08 | 2022-04-21 |
 | [SPIN OFF](https://open.spotify.com/track/6xstWwvswCDUclHQCRkLVZ) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [CONNECTION](https://open.spotify.com/album/6woaNcVnybcymVzGHZbdhG) | 3:25 | 2022-03-31 | 2022-04-17 |
 | [Splash](https://open.spotify.com/track/6jDg7fyZRymvKPYWdBxTgu) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Splash \- MIRAE 2nd Mini Album](https://open.spotify.com/album/6i4asWHVJ6ji44qYYSUakM) | 3:25 | 2022-03-31 | 2022-04-11 |
@@ -436,6 +436,7 @@
 | [Switch](https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE) | [Gguggugi](https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:59 | 2023-04-26 | 2023-06-02 |
 | [Tag Tag Tag](https://open.spotify.com/track/6HMR9w1ORta3CXI9r4ptpE) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [VERI\-CHILL](https://open.spotify.com/album/0SQHVWNdrujtaHAodFG99C) | 3:05 | 2022-03-30 | 2022-04-19 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-09 |  |
+| [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-10-29 |  |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-12-08 | 2023-10-26 |
 | [Tantara](https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Tantara](https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB) | 2:47 | 2023-04-26 | 2023-05-01 |
 | [Tear Drop](https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [TURN OVER](https://open.spotify.com/album/5zt8nriwNFRlrZD3Gi4NRI) | 3:17 | 2022-03-22 | 2022-06-21 |

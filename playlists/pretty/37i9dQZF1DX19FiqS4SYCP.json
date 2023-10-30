@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 140435,
+  "num_followers": 140452,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTcxYzQzYzk1Yzk2NjVhYTQ3M2ZmOWJjZWZiNWI0Y2JkZWYwYmI5",
+  "snapshot_id": "MCw0YWQyMWZkYzMxZGNkMDVlMDYzMDBjMTc0NWEwODliYWUyNTdlMWFi",
   "tracks": [
     {
       "added_at": "2023-09-13 20:37:36",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Coleccion De Canciones",
-        "url": "https://open.spotify.com/album/4relDr0ItEwUCjOO9gBJ5v"
-      },
-      "artists": [
-        {
-          "name": "Los Garcia Bros.",
-          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
-        }
-      ],
-      "duration_ms": 191824,
-      "name": "Cuatro O Cinco Farolasos",
-      "url": "https://open.spotify.com/track/5GrQy4hk0EXu5XO1W89Ero"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Te Llevo En Mi Alma",
         "url": "https://open.spotify.com/album/3wMfT06yH67fOLn2OVecfA"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 224256,
       "name": "Mi Necesidad",
       "url": "https://open.spotify.com/track/38Whv9YVvOOKmz59rRVATi"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Coleccion De Canciones",
+        "url": "https://open.spotify.com/album/4relDr0ItEwUCjOO9gBJ5v"
+      },
+      "artists": [
+        {
+          "name": "Los Garcia Bros.",
+          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
+        }
+      ],
+      "duration_ms": 191824,
+      "name": "Cuatro O Cinco Farolasos",
+      "url": "https://open.spotify.com/track/5GrQy4hk0EXu5XO1W89Ero"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Sientes Igual",
+        "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
+      },
+      "artists": [
+        {
+          "name": "The Latin Breed",
+          "url": "https://open.spotify.com/artist/2GiOrcBCuXQJ2oRIMWJxAP"
+        }
+      ],
+      "duration_ms": 170316,
+      "name": "Sientes Igual",
+      "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Quiereme (Hard Core Tex-Mex Version)",
         "url": "https://open.spotify.com/album/0ZprEjt9HQi9GHR6dZAD8m"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Sientes Igual",
-        "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
+        "name": "Pura Sabrosura",
+        "url": "https://open.spotify.com/album/007AGLSQRBYHMtIvW8Z2mv"
       },
       "artists": [
         {
-          "name": "The Latin Breed",
-          "url": "https://open.spotify.com/artist/2GiOrcBCuXQJ2oRIMWJxAP"
+          "name": "Severo y Grupo Fuego",
+          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
         }
       ],
-      "duration_ms": 170316,
-      "name": "Sientes Igual",
-      "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
+      "duration_ms": 159637,
+      "name": "Pura Sabrosura",
+      "url": "https://open.spotify.com/track/3etkEQi64KOu73UexyHvCU"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -567,22 +583,6 @@
       "duration_ms": 222466,
       "name": "Porque Vivo Enamorado",
       "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Pura Sabrosura",
-        "url": "https://open.spotify.com/album/007AGLSQRBYHMtIvW8Z2mv"
-      },
-      "artists": [
-        {
-          "name": "Severo y Grupo Fuego",
-          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
-        }
-      ],
-      "duration_ms": 159637,
-      "name": "Pura Sabrosura",
-      "url": "https://open.spotify.com/track/3etkEQi64KOu73UexyHvCU"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Mas Tequila Por Favor",
-        "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
-      },
-      "artists": [
-        {
-          "name": "Cristelo",
-          "url": "https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Mas Tequila Por Favor",
-      "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "No Olvides Nuestro Amor",
         "url": "https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg"
       },
@@ -731,34 +715,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Porque Te Amo",
-        "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
+        "name": "Mas Tequila Por Favor",
+        "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
       },
       "artists": [
         {
-          "name": "Boyz of Kumbia",
-          "url": "https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA"
+          "name": "Cristelo",
+          "url": "https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9"
         }
       ],
-      "duration_ms": 187623,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 209836,
-      "name": "Sed\u00faceme",
-      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
+      "duration_ms": 200493,
+      "name": "Mas Tequila Por Favor",
+      "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -779,6 +747,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 209836,
+      "name": "Sed\u00faceme",
+      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Soy Mas Fuerte (Deluxe)",
         "url": "https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 229536,
       "name": "Infraganti",
       "url": "https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Porque Te Amo",
+        "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
+      },
+      "artists": [
+        {
+          "name": "Boyz of Kumbia",
+          "url": "https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA"
+        }
+      ],
+      "duration_ms": 187623,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
-      },
-      "artists": [
-        {
-          "name": "Pablo Urbina",
-          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Que Dolor",
         "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 202292,
       "name": "Que Dolor",
       "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
+      },
+      "artists": [
+        {
+          "name": "Pablo Urbina",
+          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Te Quiero Mas",
-        "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
-      },
-      "artists": [
-        {
-          "name": "Rita Capuchina",
-          "url": "https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "Te Quiero Mas",
-      "url": "https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/55H74KaK5knXlO72MFajfT"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 202346,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Te Quiero Mas",
+        "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
+      },
+      "artists": [
+        {
+          "name": "Rita Capuchina",
+          "url": "https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "Te Quiero Mas",
+      "url": "https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5"
     },
     {
       "added_at": "2023-09-13 20:37:36",

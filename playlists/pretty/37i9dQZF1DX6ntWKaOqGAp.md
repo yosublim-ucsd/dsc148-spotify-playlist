@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover:ズーカラデル
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,323 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,380 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Shinyaku \[Tsugunai\]](https://open.spotify.com/track/6hW5JA90T47nYMNavZw0u3) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [Shinyaku \[Tsugunai\]](https://open.spotify.com/album/0IhnZ25LAqNq3fJEjhkoBV) | 4:58 |
 | 100 | [鱗角](https://open.spotify.com/track/3BNFamKUQFxYJ2EY8zkek3) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [鱗角](https://open.spotify.com/album/7x2daOODJgZuOtuQ0eCN3e) | 2:39 |
 
-Snapshot ID: `MCxlNmI3ZGI2ZGVjZjM0ODU4ODI0Zjg4YmFmNjlhMTBkYTcwMThhOTM0`
+Snapshot ID: `MCwxNTVhNzVkOTE1OGVmODQxYzRlZmMwMjI0NjM4ZGM3ODk1OTFjMTFm`

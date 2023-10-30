@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,282 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,295 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Fånga mig när jag faller](https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG) | 2:27 |
 | 50 | [Grät](https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Grät](https://open.spotify.com/album/15S6L5LQiWcBNtrEPHufAp) | 3:14 |
 
-Snapshot ID: `MCw3YTYxN2VkNGVmMDU0MDZlYTg4ODYwMTY0NmNlMjEzZDQ4NWRlODJl`
+Snapshot ID: `MCxiMWUzNGYyOGY2OGIxM2ExNTVmNjkyMTBjMmY4YTEzMDBiM2NiMGVi`

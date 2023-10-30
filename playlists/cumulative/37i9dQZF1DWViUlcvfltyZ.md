@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Any Other
 
-612 songs - 1 day 9 hr 58 min
+613 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,8 @@
 | [Nervosa](https://open.spotify.com/track/76YfuESrceGIpXf4jbrsW2) | [VIAFENICE](https://open.spotify.com/artist/5R2ACrtNid7ggqjAdSUcP0) | [Nervosa](https://open.spotify.com/album/5QYiZwNxEQWbjzQOaPWkkr) | 3:17 | 2023-04-27 | 2023-05-26 |
 | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914) | [Sun Dojo](https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb) | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk) | 0:57 | 2023-10-05 |  |
 | [New Try](https://open.spotify.com/track/0IA7sXdG0wauaCV8Ckz1Hw) | [Kick](https://open.spotify.com/artist/7hpwmq4RFv77J5dv4MUbtC) | [New Try](https://open.spotify.com/album/7uon7WkUzGHjOe48BxGgA1) | 4:07 | 2023-06-22 | 2023-07-28 |
-| [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/track/3FkCUmmNarqRBVkAqBDiyJ) | [Alfonso Cheng](https://open.spotify.com/artist/67Ei8mhmeEmM3KAl4PX1hz), [Visconti](https://open.spotify.com/artist/5UZR9WTGdqLZHX8nRed9WL) | [Nocera by Night \(feat Visconti\)](https://open.spotify.com/album/6D3Z18y2SziNIlaGy2OFMe) | 3:11 | 2023-10-19 |  |
+| [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/track/3FkCUmmNarqRBVkAqBDiyJ) | [Alfonso Cheng](https://open.spotify.com/artist/67Ei8mhmeEmM3KAl4PX1hz), [Visconti](https://open.spotify.com/artist/5UZR9WTGdqLZHX8nRed9WL) | [Nocera by Night \(feat Visconti\)](https://open.spotify.com/album/6D3Z18y2SziNIlaGy2OFMe) | 3:11 | 2023-10-19 | 2023-10-30 |
+| [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/track/63CV2MUMGNraD6LbmDk3aU) | [Alfonso Cheng](https://open.spotify.com/artist/67Ei8mhmeEmM3KAl4PX1hz), [Visconti](https://open.spotify.com/artist/5UZR9WTGdqLZHX8nRed9WL) | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/album/6TqZM3iOYB1USiWyxvd17i) | 3:11 | 2023-10-27 |  |
 | [Nofriends](https://open.spotify.com/track/52dN2iEMEfK6lOFRdbDt8r) | [Wepro](https://open.spotify.com/artist/3R3siKabWuT0KIC6JfruVp) | [Nofriends](https://open.spotify.com/album/4vbvTWiEw13mHoQ3f3c9Ob) | 2:31 | 2023-03-16 | 2023-04-07 |
 | [Noi, i cani, le pere](https://open.spotify.com/track/7aTvnIzo5nzneTH8fZbv1F) | [Ascy](https://open.spotify.com/artist/55FuhpZgR650FmWWqAzDAa) | [Noi, i cani, le pere](https://open.spotify.com/album/25LLFZqjmY176uqqjcDlCe) | 3:20 | 2022-11-17 | 2022-12-24 |
 | [Noia](https://open.spotify.com/track/58U67g9ULmIfNxZn5WoKzT) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Noia](https://open.spotify.com/album/0qpN3bryoImwQnTZ3SX2b4) | 3:01 | 2023-05-04 | 2023-06-16 |

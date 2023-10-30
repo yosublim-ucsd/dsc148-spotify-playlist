@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "album": {
         "name": "#BrooklynBloodPop!",
         "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 165056,
       "name": "16",
       "url": "https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 238459,
       "name": "23",
       "url": "https://open.spotify.com/track/28pZzysr6bKo42CS01n0uP"
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 177255,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF"
@@ -3987,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "DROOL",
+        "url": "https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192881,
+      "name": "BODY PARTS",
+      "url": "https://open.spotify.com/track/5nxsAGuGbptwMFFXlVeCa7"
+    },
+    {
+      "album": {
         "name": "Blood Bunny",
         "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
       },
@@ -4672,7 +4708,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 133679,
       "name": "BURY YOU",
       "url": "https://open.spotify.com/track/7Elu7fHAoNkPNSMDNeu822"
@@ -7447,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "Different Kind Of Beautiful",
+        "url": "https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201007,
+      "name": "Different Kind Of Beautiful",
+      "url": "https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw"
+    },
+    {
+      "album": {
         "name": "Difficult",
         "url": "https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8"
       },
@@ -7758,7 +7812,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 232277,
       "name": "Doesn\u2019t Do Me Any Good",
       "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
@@ -7864,6 +7918,24 @@
       "duration_ms": 162156,
       "name": "Don't Hate Me",
       "url": "https://open.spotify.com/track/740fSe2KremXUF2V6e4KnG"
+    },
+    {
+      "album": {
+        "name": "The Day We Met",
+        "url": "https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156284,
+      "name": "Don't Hate Me When It's Over",
+      "url": "https://open.spotify.com/track/76pV06GMcz7OMVEnmjV83e"
     },
     {
       "album": {
@@ -8323,6 +8395,24 @@
     },
     {
       "album": {
+        "name": "Dream Boy",
+        "url": "https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204376,
+      "name": "Dream Boy",
+      "url": "https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N"
+    },
+    {
+      "album": {
         "name": "Dress",
         "url": "https://open.spotify.com/album/2bA8pSmmynuphsrxb6SKqw"
       },
@@ -8714,7 +8804,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 166946,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
@@ -8830,7 +8920,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 158996,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS"
@@ -11130,7 +11220,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 213640,
       "name": "girls like me don't cry",
       "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
@@ -11386,6 +11476,24 @@
       "duration_ms": 149802,
       "name": "God Must Hate Me",
       "url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
+        "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "God of Music",
+      "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
     },
     {
       "album": {
@@ -13601,6 +13709,24 @@
     },
     {
       "album": {
+        "name": "i can't get my shit together",
+        "url": "https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173551,
+      "name": "i can't get my shit together",
+      "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
+    },
+    {
+      "album": {
         "name": "I Can't Go Back To The Way It Was (Intro)",
         "url": "https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB"
       },
@@ -14456,7 +14582,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 148593,
       "name": "I Win",
       "url": "https://open.spotify.com/track/0cNlMrHzULJOjU46LctHtU"
@@ -15390,6 +15516,24 @@
       "duration_ms": 197256,
       "name": "introvert (with extroverted expectations)",
       "url": "https://open.spotify.com/track/6Yg7lVxwuqRcuqPLRlEArd"
+    },
+    {
+      "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201058,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
     },
     {
       "album": {
@@ -17428,10 +17572,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 231907,
       "name": "logical",
       "url": "https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU"
+    },
+    {
+      "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167833,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
     },
     {
       "album": {
@@ -21728,7 +21890,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 146065,
       "name": "over my ex",
       "url": "https://open.spotify.com/track/2JWC7a6oGu7OHDVpOaRrLW"
@@ -25280,7 +25442,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 162478,
       "name": "Sleep Without You",
       "url": "https://open.spotify.com/track/2c5u2s4UwS1NXGgx0TVZAL"
@@ -26545,6 +26707,24 @@
     },
     {
       "album": {
+        "name": "Love Me For Another Day",
+        "url": "https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3Sda4D07uUlpyI0aa9WMWH"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj"
       },
@@ -27124,7 +27304,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 183888,
       "name": "Super Graphic Ultra Modern Girl",
       "url": "https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU"
@@ -28450,6 +28630,24 @@
       "duration_ms": 143530,
       "name": "The Kiss Of Venus (Dominic Fike)",
       "url": "https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V"
+    },
+    {
+      "album": {
+        "name": "The Good Witch (Deluxe)",
+        "url": "https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239680,
+      "name": "The Last One",
+      "url": "https://open.spotify.com/track/6VKGPwLUO7nki5cDXT3gvQ"
     },
     {
       "album": {
@@ -30294,7 +30492,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
@@ -31197,6 +31395,24 @@
     },
     {
       "album": {
+        "name": "WHAT JUST HAPPENED",
+        "url": "https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162191,
+      "name": "WHAT JUST HAPPENED",
+      "url": "https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J"
+    },
+    {
+      "album": {
         "name": "WHAT THE HELL ARE WE DYING FOR ?",
         "url": "https://open.spotify.com/album/0Q7TVHu87oAlkDhQP18QiX"
       },
@@ -31832,6 +32048,24 @@
       "duration_ms": 168880,
       "name": "Wish You Were Sober",
       "url": "https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk"
+    },
+    {
+      "album": {
+        "name": "wish you would",
+        "url": "https://open.spotify.com/album/0M1Oz5d6jsNjAGcAATbWNk"
+      },
+      "artists": [
+        {
+          "name": "Elle Darlington",
+          "url": "https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "wish you would",
+      "url": "https://open.spotify.com/track/1LFrlYjezwFadKoL6UESMd"
     },
     {
       "album": {

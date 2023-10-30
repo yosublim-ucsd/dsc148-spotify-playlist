@@ -3324,6 +3324,28 @@
     {
       "album": {
         "name": "Inkumbulo",
+        "url": "https://open.spotify.com/album/1RACDef4fKbSdTbXCBB3yO"
+      },
+      "artists": [
+        {
+          "name": "Loki.",
+          "url": "https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220041,
+      "name": "Inkumbulo",
+      "url": "https://open.spotify.com/track/1xL5DE9xNucOz9K2t7Q7IH"
+    },
+    {
+      "album": {
+        "name": "Inkumbulo",
         "url": "https://open.spotify.com/album/2edkP9y6Fy7PbkQiXGlbWt"
       },
       "artists": [
@@ -4904,6 +4926,24 @@
       "duration_ms": 218823,
       "name": "Lotto (feat. Ami Faku)",
       "url": "https://open.spotify.com/track/3e8K6g0QtTZ1Go4suzaK5c"
+    },
+    {
+      "album": {
+        "name": "Love Is For Mahala",
+        "url": "https://open.spotify.com/album/4DYJI8KG4BUmaQGexySaCK"
+      },
+      "artists": [
+        {
+          "name": "Amanda Black",
+          "url": "https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Love Is For Mahala",
+      "url": "https://open.spotify.com/track/6jWoYTUJvady3HWMmz9Eb3"
     },
     {
       "album": {
@@ -7844,7 +7884,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 249533,
       "name": "SETE (feat. Young Stunna & Blxckie)",
       "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
@@ -9906,7 +9946,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 293694,
       "name": "Uthando Aluboni",
       "url": "https://open.spotify.com/track/3d9HoMtIQEC1PktOg2ownJ"

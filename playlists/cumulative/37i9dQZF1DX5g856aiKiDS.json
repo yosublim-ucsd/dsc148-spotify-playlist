@@ -515,6 +515,32 @@
     },
     {
       "album": {
+        "name": "Between (Feat. misonyeon)",
+        "url": "https://open.spotify.com/album/4ITlR45BD2Q40PrSYaQChm"
+      },
+      "artists": [
+        {
+          "name": "seizetheday",
+          "url": "https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB"
+        },
+        {
+          "name": "Lilkey",
+          "url": "https://open.spotify.com/artist/7p4j1maf48LtHY0NnAKBj4"
+        },
+        {
+          "name": "misonyeon",
+          "url": "https://open.spotify.com/artist/3RBwHbXl5zZ2A1EzavONan"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204181,
+      "name": "Between (Feat. misonyeon)",
+      "url": "https://open.spotify.com/track/0CUk6oeqz3iz2k2EdalPAd"
+    },
+    {
+      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -1872,6 +1898,28 @@
       "duration_ms": 169599,
       "name": "how can i do (Feat. YooJeong)",
       "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
+    },
+    {
+      "album": {
+        "name": "Love & Groove",
+        "url": "https://open.spotify.com/album/11tgnCPolVS02npePYySB0"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "How much more (Feat. Chan)",
+      "url": "https://open.spotify.com/track/0n7dhbhACD43sGsvGwJ1St"
     },
     {
       "album": {
@@ -3454,7 +3502,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 227973,
       "name": "Only U (Feat. PENOMECO)",
       "url": "https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8"
@@ -3530,7 +3578,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 188196,
       "name": "Paint",
       "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"

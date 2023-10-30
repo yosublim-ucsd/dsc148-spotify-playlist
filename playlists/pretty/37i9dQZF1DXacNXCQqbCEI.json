@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 355807,
+  "num_followers": 355938,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTI0ODg0YmI2NjM0MTIzOTcxYzczZWIxNWE1ZDg2ZjEwOWE2MDE1",
+  "snapshot_id": "MCwyM2FkZDllNzRiOWJmMmMwN2ZiNTBjNThmNWM4ZWQzNjdlNTRiZDQ3",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Ostriconi",
+        "url": "https://open.spotify.com/album/3jLWAXJ3NdQOoagDdia99w"
+      },
+      "artists": [
+        {
+          "name": "Yeahman",
+          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
+        }
+      ],
+      "duration_ms": 285990,
+      "name": "Sakoneta",
+      "url": "https://open.spotify.com/track/3nUUBBkEqAYLkdhzCuEWmg"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 400826,
       "name": "Nevar",
       "url": "https://open.spotify.com/track/2GmDHnAPi9FwVqkC1MYWi6"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Ostriconi",
-        "url": "https://open.spotify.com/album/3jLWAXJ3NdQOoagDdia99w"
-      },
-      "artists": [
-        {
-          "name": "Yeahman",
-          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
-        }
-      ],
-      "duration_ms": 285990,
-      "name": "Sakoneta",
-      "url": "https://open.spotify.com/track/3nUUBBkEqAYLkdhzCuEWmg"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Te Quiero Olvidar",
-        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
+        "name": "P\u00e1jaro",
+        "url": "https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP"
       },
       "artists": [
         {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
+      "duration_ms": 222787,
+      "name": "P\u00e1jaro",
+      "url": "https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "P\u00e1jaro",
-        "url": "https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP"
+        "name": "Te Quiero Olvidar",
+        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
       },
       "artists": [
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
         }
       ],
-      "duration_ms": 222787,
-      "name": "P\u00e1jaro",
-      "url": "https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX"
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Ahomale",
-        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
-      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "De Aqu\u00ed Hasta Aqu\u00ed",
         "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
+        "name": "Ahomale",
+        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
       },
       "artists": [
         {
-          "name": "Felipe Schuster",
-          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
         }
       ],
-      "duration_ms": 213146,
-      "name": "Tamarugal (Para de Mirarme)",
-      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
+      "duration_ms": 236786,
+      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
+      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -891,18 +875,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Conciencia",
-        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
       },
       "artists": [
         {
-          "name": "La Payara",
-          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
+          "name": "Felipe Schuster",
+          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Bogot\u00e1",
-      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
+      "duration_ms": 213146,
+      "name": "Tamarugal (Para de Mirarme)",
+      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -927,22 +911,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
+        "name": "Conciencia",
+        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
       },
       "artists": [
         {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "La Payara",
+          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
         }
       ],
-      "duration_ms": 196998,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
+      "duration_ms": 210731,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -959,30 +939,6 @@
       "duration_ms": 231346,
       "name": "Sendero del Monte",
       "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
-      },
-      "artists": [
-        {
-          "name": "CANU",
-          "url": "https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU"
-        },
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Alejandro Castelli",
-          "url": "https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN"
-        }
-      ],
-      "duration_ms": 477049,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -1027,6 +983,50 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
+      },
+      "artists": [
+        {
+          "name": "CANU",
+          "url": "https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU"
+        },
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Alejandro Castelli",
+          "url": "https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN"
+        }
+      ],
+      "duration_ms": 477049,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Ramas",
         "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
       },
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "ATO 3: Am\u00e9rica do Sol",
-        "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Claudia Manzo",
-          "url": "https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Ghetto Kumb\u00e9",
         "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 255976,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "La Tercera Vision",
+        "url": "https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X"
+      },
+      "artists": [
+        {
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Khalil Mounji",
+          "url": "https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK"
+        }
+      ],
+      "duration_ms": 235418,
+      "name": "Mano de Fatima",
+      "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

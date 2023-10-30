@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix & Rico Nasty
 
-589 songs - 1 day 8 hr 35 min
+590 songs - 1 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-02-24 | 2023-08-19 |
 | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt) | 2:58 | 2022-09-02 | 2022-09-24 |
 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 | 2023-09-01 |  |
+| [Bounce](https://open.spotify.com/track/43girkLVD5WYKCBMOphHhd) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Portals](https://open.spotify.com/album/4os1LiFckLA5tv0RuD4Mjj) | 3:02 | 2023-10-27 |  |
 | [Breathe](https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY) | [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [Breathe](https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG) | 6:47 | 2022-11-25 | 2023-04-29 |
 | [Brick Figures](https://open.spotify.com/track/72eT0Fpa5QBbzvteNIK1aE) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Brick Figures](https://open.spotify.com/album/49dWT6BEhoLm7QIiNWxCIA) | 3:00 | 2022-01-14 | 2022-03-12 |
 | [Bring Et](https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bring Et](https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk) | 2:22 | 2022-01-21 | 2022-06-18 |
@@ -333,7 +334,7 @@
 | [METANÖIA](https://open.spotify.com/track/2WQ5Yxn5F9yhmk20brtQQY) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM) | [WAR WITH MYSELF](https://open.spotify.com/album/7hBkzPk7qsAe47bzRItvyf) | 2:43 | 2022-01-14 | 2022-02-26 |
 | [Mi Corazón](https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Mi Corazón](https://open.spotify.com/album/2pkTafpbdFPdC1tEDeZfCo) | 3:07 | 2022-02-11 | 2022-06-25 |
 | [Mind Games](https://open.spotify.com/track/1XBsvws323W5dwJkZCvUMB) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Mind Games](https://open.spotify.com/album/2RKhdLm3qBMU64HXJUf5Z7) | 3:13 | 2022-06-03 | 2022-09-03 |
-| [Mindstate](https://open.spotify.com/track/5V9cyDgo1wBu0gj5tkk57E) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Mindstate](https://open.spotify.com/album/6smeL7L0X15jV5PmU0oDyR) | 4:12 | 2023-06-30 |  |
+| [Mindstate](https://open.spotify.com/track/5V9cyDgo1wBu0gj5tkk57E) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Mindstate](https://open.spotify.com/album/6smeL7L0X15jV5PmU0oDyR) | 4:12 | 2023-06-30 | 2023-10-30 |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-07-15 | 2022-12-03 |
 | [Mirage](https://open.spotify.com/track/3ZWo7cjpmthm54fMaQkuMc) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Mirage](https://open.spotify.com/album/4t1iukMZzxhyraFW9pMcFW) | 3:48 | 2022-05-06 | 2022-09-03 |
 | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/track/0oI9LJYGtAlT3m1D3hWqbA) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [TELLER](https://open.spotify.com/artist/3hhmURITBjGyUKf4IuOCjt) | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/album/4ZiEHfXY1HiQTYBTTku6PE) | 4:32 | 2022-06-24 | 2022-09-24 |

@@ -1000,10 +1000,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 295899,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj"
+    },
+    {
+      "album": {
+        "name": "Veronica Swift",
+        "url": "https://open.spotify.com/album/053XeiFx1CVMD0sU3gZ8f8"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295899,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/53RnNvi572PmTJkQHP8lnq"
     },
     {
       "album": {
@@ -6100,7 +6118,7 @@
     {
       "album": {
         "name": "Melomazeando",
-        "url": "https://open.spotify.com/album/14Xe1tjzqLJ4FFVhASWQVl"
+        "url": "https://open.spotify.com/album/5KTKZNtFdtY8jf5bN8uO45"
       },
       "artists": [
         {
@@ -6115,6 +6133,28 @@
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 295038,
+      "name": "Tema de Benja",
+      "url": "https://open.spotify.com/track/3xWWQ10PFmASoMTeCBmyBW"
+    },
+    {
+      "album": {
+        "name": "Melomazeando",
+        "url": "https://open.spotify.com/album/14Xe1tjzqLJ4FFVhASWQVl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Maza",
+          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
+        },
+        {
+          "name": "Patricia \"Piojo\" Zappia",
+          "url": "https://open.spotify.com/artist/0BDCAebyhWwaNQLpfa1aLK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-30",
       "duration_ms": 295038,
       "name": "Tema de Benja",
       "url": "https://open.spotify.com/track/4oo9BSpAnBeEaYV74GuAaV"

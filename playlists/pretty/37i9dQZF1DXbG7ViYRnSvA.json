@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 14737,
+  "num_followers": 14830,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDI1NzNiZmRjNDcyZTQyZTA2MmNkNDg1MTRiM2Y0NTE3ODFhZDZk",
+  "snapshot_id": "MCw5YjY2MGY5MmY3NjIxNDFhMDNiNzBjYjcxODNhMjcyMzk2NmIxMjFm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "NINA REVISITED: A Tribute to Nina Simone",
+        "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        }
+      ],
+      "duration_ms": 399533,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Hours Spent Loving You",
         "url": "https://open.spotify.com/album/3zjUZQika2ragt7FweAQzB"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 166153,
       "name": "How Do You Love Me",
       "url": "https://open.spotify.com/track/5kBDtZCd2AfdumMJgqk5QM"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "NINA REVISITED: A Tribute to Nina Simone",
-        "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
-      },
-      "artists": [
-        {
-          "name": "Alice Smith",
-          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
-        }
-      ],
-      "duration_ms": 399533,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
     },
     {
       "added_at": "2022-10-01 16:00:00",

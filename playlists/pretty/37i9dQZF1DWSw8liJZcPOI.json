@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 49267,
+  "num_followers": 49415,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mzc1OGE4OWY5NGYwMWEzNDM1MzhhMWYzOTQ5OGU3YWMyM2Q1ZWNj",
+  "snapshot_id": "MCw4ZWU1OTdjNjY5ZjE4M2NhMjk0MjVjZWUyMzBkNWVmN2QwNzBiZGQw",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Current",
-        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 350974,
-      "name": "Current",
-      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Footsteps",
         "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 189026,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Current",
+        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 350974,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sensibus",
-        "url": "https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 392791,
-      "name": "Klass",
-      "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Sensibus",
+        "url": "https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 392791,
+      "name": "Klass",
+      "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Escape (Hania Rani Remix)",
         "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Okno",
-        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
-      },
-      "artists": [
-        {
-          "name": "Julia Gjertsen",
-          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Okno",
-      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+        "name": "Okno",
+        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
       },
       "artists": [
         {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
         }
       ],
-      "duration_ms": 334506,
-      "name": "Music For Growing Flowers - Pt. 4",
-      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
+      "duration_ms": 187000,
+      "name": "Okno",
+      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1355,6 +1339,22 @@
       "duration_ms": 265872,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1443,38 +1443,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
-      },
-      "artists": [
-        {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
         "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
@@ -1511,22 +1479,34 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Whispers",
-        "url": "https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS"
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
       },
       "artists": [
         {
-          "name": "Muri\u00ebl Bostdorp",
-          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
-        },
-        {
-          "name": "Jake Lowe",
-          "url": "https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n"
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
         }
       ],
-      "duration_ms": 170539,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A"
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1547,6 +1527,26 @@
       "duration_ms": 221796,
       "name": "The Myth",
       "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        },
+        {
+          "name": "Jake Lowe",
+          "url": "https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n"
+        }
+      ],
+      "duration_ms": 170539,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
-      },
-      "artists": [
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 201181,
       "name": "For You",
       "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2023-10-20 04:00:00",

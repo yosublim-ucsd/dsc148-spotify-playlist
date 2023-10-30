@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 288203,
+  "num_followers": 288252,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGVmMjUxNzM1NzU2NmMwZjEzOWY3YjM1NjM3MTIyZWQ4MDU4YmQ0",
+  "snapshot_id": "MCxiZWM4MmJkMWUxZDg1MWZjOGYwYjRhNjY0NDQyNWE0NTE3ZWY1NTU1",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Robert Ellis",
-        "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
-      },
-      "artists": [
-        {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Drivin'",
-      "url": "https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Spades & Roses",
         "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 212053,
       "name": "Heart of Somebody",
       "url": "https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Robert Ellis",
+        "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
+      },
+      "artists": [
+        {
+          "name": "Robert Ellis",
+          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Drivin'",
+      "url": "https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Easy Way",
-        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Got a Lotta Love",
-      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Welcome to Hard Times",
         "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 185754,
       "name": "Welcome to Hard Times",
       "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Easy Way",
+        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Got a Lotta Love",
+      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 179763,
-      "name": "Happy Man",
-      "url": "https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Pohorylle",
         "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 247760,
       "name": "Heartbreak Blues",
       "url": "https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 179763,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 273440,
-      "name": "Four Years of Chances",
-      "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Walking Proof",
         "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
@@ -1411,22 +1395,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Faded Gloryville",
-        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
-      },
-      "artists": [
-        {
-          "name": "Lindi Ortega",
-          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Run-down Neighborhood",
-      "url": "https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
       },
@@ -1439,6 +1407,38 @@
       "duration_ms": 186866,
       "name": "No Name",
       "url": "https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "Four Years of Chances",
+      "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Faded Gloryville",
+        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
+      },
+      "artists": [
+        {
+          "name": "Lindi Ortega",
+          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Run-down Neighborhood",
+      "url": "https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1471,6 +1471,22 @@
       "duration_ms": 289306,
       "name": "Forever and Then Some",
       "url": "https://open.spotify.com/track/2JCkZhTXY187fNi9aIPzHQ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "Keep the Home Fires Burnin'",
+      "url": "https://open.spotify.com/track/7zOtgId0kQD0XPtablFROE"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO"
+        "name": "Silver Tears",
+        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
       },
       "artists": [
         {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+          "name": "Aaron Lee Tasjan",
+          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
         }
       ],
-      "duration_ms": 183626,
-      "name": "Keep the Home Fires Burnin'",
-      "url": "https://open.spotify.com/track/7zOtgId0kQD0XPtablFROE"
+      "duration_ms": 218641,
+      "name": "Memphis Rain",
+      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1567,22 +1583,6 @@
       "duration_ms": 189093,
       "name": "Stone Me",
       "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Silver Tears",
-        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lee Tasjan",
-          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
-        }
-      ],
-      "duration_ms": 218641,
-      "name": "Memphis Rain",
-      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Secret Sisters",
-        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 143160,
-      "name": "My Heart Skips A Beat",
-      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Secret Sisters",
+        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 143160,
+      "name": "My Heart Skips A Beat",
+      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 47778,
+  "num_followers": 47823,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl",
+  "snapshot_id": "MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0",
   "tracks": [
     {
       "added_at": "2023-10-02 12:57:01",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "They Call Me the Popcorn Man (France 1975) [Blues Reference]",
         "url": "https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 385600,
       "name": "Lonesome In My Bedroom",
       "url": "https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "The Chicago Way",
-        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
-      },
-      "artists": [
-        {
-          "name": "Toronzo Cannon",
-          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "When Will You Tell Him About Me?",
-      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 259733,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "The Chicago Way",
+        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
+      },
+      "artists": [
+        {
+          "name": "Toronzo Cannon",
+          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "When Will You Tell Him About Me?",
+      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
-      },
-      "artists": [
-        {
-          "name": "Brianna Harness",
-          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 301440,
       "name": "I Got News For You",
       "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
+      },
+      "artists": [
+        {
+          "name": "Brianna Harness",
+          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
     },
     {
       "added_at": "2023-10-02 12:57:01",

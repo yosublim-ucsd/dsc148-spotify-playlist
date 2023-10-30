@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 290194,
+  "num_followers": 290395,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTZmOTI3ZWFhZmFiOWExNmFlNDMzZGM0MGVhZThlMmU5NjM1Mzgz",
+  "snapshot_id": "MCw4YjkxMWVmNjczZWI1NjJhZDIzMTcwNTA3NTgxNTRkMzdhNGM5NzEy",
   "tracks": [
     {
       "added_at": "2023-10-27 20:52:05",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 208120,
+      "name": "To Que To A Toa",
+      "url": "https://open.spotify.com/track/68yL6r526zRHhAn3wx3wvZ"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
         "name": "Algum Lugar Pra Gente Viajar",
         "url": "https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 208120,
-      "name": "To Que To A Toa",
-      "url": "https://open.spotify.com/track/68yL6r526zRHhAn3wx3wvZ"
     },
     {
       "added_at": "2023-10-27 20:52:05",

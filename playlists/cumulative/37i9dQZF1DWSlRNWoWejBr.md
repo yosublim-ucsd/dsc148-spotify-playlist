@@ -4,7 +4,7 @@
 
 > dá o play e fica suave ai ô bactério
 
-96 songs - 4 hr 5 min
+97 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [MEU PILOTO ELETROFUNK](https://open.spotify.com/track/4rAWBICfXpUpU5njMqYMAO) | [SO ELETROFUNK BOM](https://open.spotify.com/artist/51YTokYMt4tkeMnHVeD2sf), [GABRIEL APGO](https://open.spotify.com/artist/0vFr9eIywFwrm2UnYZO2QG) | [SO ELETROFUNK BOM](https://open.spotify.com/album/39enMTm7Wh89torkqpUNZY) | 2:19 | 2023-10-24 |  |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-10-06 |  |
 | [MONTAGEM ANOS 2000](https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [MC Tigrão](https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mc Karol](https://open.spotify.com/artist/3PcaoyXip46S7I2LyU8sxW) | [A.Mago \- Playlist do Mago](https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So) | 2:58 | 2023-10-06 |  |
+| [Montagem Coral](https://open.spotify.com/track/6qPD86pGirtqqW6g6eZE73) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj) | [Montagem Coral](https://open.spotify.com/album/2VKY7nldcrex9oGUdr0ahM) | 1:44 | 2023-10-24 |  |
 | [Montagem Coral](https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [MC Cyclope](https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N) | [Montagem Coral](https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu) | 2:25 | 2023-10-06 | 2023-10-28 |
-| [Montagem Coral](https://open.spotify.com/track/1IluQAUAhRumwIYsBuYqFQ) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral \(Slowed + Reverb\)](https://open.spotify.com/album/7bITNZFQVcVzUCESciDyFJ) | 2:23 | 2023-10-24 |  |
+| [Montagem Coral](https://open.spotify.com/track/1IluQAUAhRumwIYsBuYqFQ) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral \(Slowed + Reverb\)](https://open.spotify.com/album/7bITNZFQVcVzUCESciDyFJ) | 2:23 | 2023-10-24 | 2023-10-30 |
 | [Montagem Coral](https://open.spotify.com/track/3cE1cyAdPmv5Eq5ZBaQmYV) | [flux.beats](https://open.spotify.com/artist/3TkE7Wo4vLvOjTZPYNKGjL) | [Montagem Coral](https://open.spotify.com/album/6RfEECBJXORJnhJNdVB4mN) | 2:23 | 2023-10-13 | 2023-10-17 |
 | [Montagem Coral](https://open.spotify.com/track/3F02rCPD3IvrnZ7GPSjR5t) | [vicX](https://open.spotify.com/artist/4qiIMJtorRG5GfdyRsLBtC) | [Montagem Coral](https://open.spotify.com/album/6m8N6j8GfGmW3cqgP5uiHq) | 2:25 | 2023-10-09 | 2023-10-12 |
 | [Montagem Coral](https://open.spotify.com/track/2aHLWvUgwUnDRWYQjmYJPl) | [young god](https://open.spotify.com/artist/4J2LHP07P9VG5PQHZNFfjT) | [Montagem Coral](https://open.spotify.com/album/3u9YkCaYo544roaesI591t) | 2:25 | 2023-10-16 | 2023-10-22 |

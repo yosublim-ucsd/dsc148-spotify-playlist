@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 2945173,
+  "num_followers": 2947348,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDdmMDZlOWYzNDFlMTBhMDRhZjc2OGFjMmQ5NWMxYzFmNjg2NTE1",
+  "snapshot_id": "MCwzMWMxNGQ3MzVjMGZjZjE2MzIzY2Y3MjQxNWEyOWQyYmU3N2ZmMmU3",
   "tracks": [
     {
       "added_at": "2023-10-05 15:25:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-05 15:25:10",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "5 Letras",
-      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
-    },
-    {
-      "added_at": "2023-10-05 15:25:10",
-      "album": {
         "name": "Top Of The Line",
         "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 173866,
       "name": "Flow Natural",
       "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
+    },
+    {
+      "added_at": "2023-10-05 15:25:10",
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "5 Letras",
+      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
     },
     {
       "added_at": "2023-10-05 15:25:10",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-10-05 15:25:10",
       "album": {
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Sol, Playa Y Arena",
+      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
+    },
+    {
+      "added_at": "2023-10-05 15:25:10",
+      "album": {
         "name": "Goldstar Music La Familia Reggaeton Hits",
         "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
       },
@@ -1867,22 +1883,6 @@
     {
       "added_at": "2023-10-05 15:25:10",
       "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Sol, Playa Y Arena",
-      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
-    },
-    {
-      "added_at": "2023-10-05 15:25:10",
-      "album": {
         "name": "Los Superheroes",
         "url": "https://open.spotify.com/album/0TfHpRj8cscMuY7UM0eINm"
       },
@@ -1895,6 +1895,26 @@
       "duration_ms": 237160,
       "name": "Cu\u00e1ndo, Cu\u00e1ndo Es?",
       "url": "https://open.spotify.com/track/4tjCNQ7aCL2Ou2rJlmrTpj"
+    },
+    {
+      "added_at": "2023-10-05 15:25:10",
+      "album": {
+        "name": "El Sobreviviente",
+        "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Saoco",
+      "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
     },
     {
       "added_at": "2023-10-05 15:25:10",
@@ -1919,26 +1939,6 @@
       "duration_ms": 218080,
       "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
       "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
-    },
-    {
-      "added_at": "2023-10-05 15:25:10",
-      "album": {
-        "name": "El Sobreviviente",
-        "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Saoco",
-      "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
     },
     {
       "added_at": "2023-10-05 15:25:10",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-10-05 15:25:10",
       "album": {
-        "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
-        "url": "https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 271986,
-      "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
-      "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
-    },
-    {
-      "added_at": "2023-10-05 15:25:10",
-      "album": {
         "name": "Drama Queen (Deluxe Version)",
         "url": "https://open.spotify.com/album/4wsiP6swqKBRhdlqk6PsAV"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 192306,
       "name": "La Vida Es As\u00ed",
       "url": "https://open.spotify.com/track/4zK05ecddIq3vfd08Aqi8y"
+    },
+    {
+      "added_at": "2023-10-05 15:25:10",
+      "album": {
+        "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
+        "url": "https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
+      "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
     },
     {
       "added_at": "2023-10-05 15:25:10",
@@ -2383,26 +2383,6 @@
       "duration_ms": 224391,
       "name": "El Carnaval",
       "url": "https://open.spotify.com/track/3WoInfouCx0DmDeDbzxKbu"
-    },
-    {
-      "added_at": "2023-10-05 15:25:10",
-      "album": {
-        "name": "Fuera del Planeta",
-        "url": "https://open.spotify.com/album/1b1Wab99cO3K0Zl26MYXMS"
-      },
-      "artists": [
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        },
-        {
-          "name": "Eloy",
-          "url": "https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu"
-        }
-      ],
-      "duration_ms": 215118,
-      "name": "Fuera del Planeta",
-      "url": "https://open.spotify.com/track/4mM90OUhSN79RRKT0qv4dY"
     },
     {
       "added_at": "2023-10-05 15:25:10",
@@ -2447,6 +2427,26 @@
       "duration_ms": 228053,
       "name": "Nadie Te Amar\u00e1 Como Yo (Remix) (feat. Zion & Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/1eoAytqST4MVGz4xdTDqPj"
+    },
+    {
+      "added_at": "2023-10-05 15:25:10",
+      "album": {
+        "name": "Fuera del Planeta",
+        "url": "https://open.spotify.com/album/1b1Wab99cO3K0Zl26MYXMS"
+      },
+      "artists": [
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Eloy",
+          "url": "https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu"
+        }
+      ],
+      "duration_ms": 215118,
+      "name": "Fuera del Planeta",
+      "url": "https://open.spotify.com/track/4mM90OUhSN79RRKT0qv4dY"
     },
     {
       "added_at": "2023-10-05 15:25:10",
@@ -2575,6 +2575,22 @@
     {
       "added_at": "2023-10-05 15:25:10",
       "album": {
+        "name": "M\u00e1s Lun\u00e1ticos",
+        "url": "https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Estar Enamorado",
+      "url": "https://open.spotify.com/track/465du48rE48BymmBdfvxc2"
+    },
+    {
+      "added_at": "2023-10-05 15:25:10",
+      "album": {
         "name": "Broke & Famous",
         "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
       },
@@ -2695,22 +2711,6 @@
       "duration_ms": 204094,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR"
-    },
-    {
-      "added_at": "2023-10-05 15:25:10",
-      "album": {
-        "name": "M\u00e1s Lun\u00e1ticos",
-        "url": "https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw"
-      },
-      "artists": [
-        {
-          "name": "Golpe a Golpe",
-          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Estar Enamorado",
-      "url": "https://open.spotify.com/track/465du48rE48BymmBdfvxc2"
     },
     {
       "added_at": "2023-10-05 15:25:10",
@@ -3367,26 +3367,6 @@
     {
       "added_at": "2023-10-05 15:25:10",
       "album": {
-        "name": "301",
-        "url": "https://open.spotify.com/album/2LOKRHhpYOX545H2ISo4jk"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 171758,
-      "name": "301",
-      "url": "https://open.spotify.com/track/28vTK1SLOyjSbldzGlxkuO"
-    },
-    {
-      "added_at": "2023-10-05 15:25:10",
-      "album": {
         "name": "Rompiendo El Hielo",
         "url": "https://open.spotify.com/album/4TaG2wkqRP03AhD2z4T4sY"
       },
@@ -3403,6 +3383,26 @@
       "duration_ms": 198720,
       "name": "Gata Celosa",
       "url": "https://open.spotify.com/track/31IeSPRxSCtQqyi7ixc3WZ"
+    },
+    {
+      "added_at": "2023-10-05 15:25:10",
+      "album": {
+        "name": "301",
+        "url": "https://open.spotify.com/album/2LOKRHhpYOX545H2ISo4jk"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 171758,
+      "name": "301",
+      "url": "https://open.spotify.com/track/28vTK1SLOyjSbldzGlxkuO"
     },
     {
       "added_at": "2023-10-05 15:25:10",
@@ -3559,22 +3559,6 @@
     {
       "added_at": "2023-10-05 15:25:10",
       "album": {
-        "name": "Vida Escante",
-        "url": "https://open.spotify.com/album/4zdEAfhZ9PymOasYqNK6uZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "Chambonea",
-      "url": "https://open.spotify.com/track/3SESZ1maRpb7b12VpbgRWN"
-    },
-    {
-      "added_at": "2023-10-05 15:25:10",
-      "album": {
         "name": "El Talento del Bloque",
         "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
       },
@@ -3591,6 +3575,22 @@
     {
       "added_at": "2023-10-05 15:25:10",
       "album": {
+        "name": "Vida Escante",
+        "url": "https://open.spotify.com/album/4zdEAfhZ9PymOasYqNK6uZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "Chambonea",
+      "url": "https://open.spotify.com/track/3SESZ1maRpb7b12VpbgRWN"
+    },
+    {
+      "added_at": "2023-10-05 15:25:10",
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm"
       },
@@ -3598,11 +3598,15 @@
         {
           "name": "Flex",
           "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        },
+        {
+          "name": "Alex Pro",
+          "url": "https://open.spotify.com/artist/2v6k4KGZsj9Tx3gn2aECFO"
         }
       ],
-      "duration_ms": 196880,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3ho9M5jTEsJ7ymiBN7LoRd"
+      "duration_ms": 209946,
+      "name": "Sin Tu Amor (feat. Alex Pro)",
+      "url": "https://open.spotify.com/track/63hZCrRfcZza3npjwt3Ezs"
     },
     {
       "added_at": "2023-10-05 15:25:10",
@@ -3726,15 +3730,11 @@
         {
           "name": "Flex",
           "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
-        },
-        {
-          "name": "Alex Pro",
-          "url": "https://open.spotify.com/artist/2v6k4KGZsj9Tx3gn2aECFO"
         }
       ],
-      "duration_ms": 209946,
-      "name": "Sin Tu Amor (feat. Alex Pro)",
-      "url": "https://open.spotify.com/track/63hZCrRfcZza3npjwt3Ezs"
+      "duration_ms": 196880,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3ho9M5jTEsJ7ymiBN7LoRd"
     },
     {
       "added_at": "2023-10-05 15:25:10",

@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Pendulum \\m/",
-  "num_followers": 319385,
+  "num_followers": 319415,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDI4YTY4NDI5YTRlZGJhMTU1NGZhY2RiZjhiNmEzYzYxZDQxMDE0",
+  "snapshot_id": "MCw2YWI1NGY0ZDI1NGUwNTg0MWVhZmIzYjY0ZTZkZWYzYjhjNTdjM2Zh",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -551,22 +551,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Bass To The Dome",
-        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
+        "name": "Good F**King Music",
+        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
       },
       "artists": [
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
         }
       ],
-      "duration_ms": 203224,
-      "name": "Bass To The Dome",
-      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
+      "duration_ms": 206433,
+      "name": "Good F**King Music",
+      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -591,18 +587,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Good F**King Music",
-        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
+        "name": "Bass To The Dome",
+        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
       },
       "artists": [
         {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 206433,
-      "name": "Good F**King Music",
-      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
+      "duration_ms": 203224,
+      "name": "Bass To The Dome",
+      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/7xnzTKq48BTxKQ3JABpFxN"
+      },
+      "artists": [
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "duration_ms": 248576,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/4j3LxTzYF8IY5Y3h80dl8v"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 202493,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Immortal",
-        "url": "https://open.spotify.com/album/7xnzTKq48BTxKQ3JABpFxN"
-      },
-      "artists": [
-        {
-          "name": "Metrik",
-          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
-        }
-      ],
-      "duration_ms": 248576,
-      "name": "Immortal",
-      "url": "https://open.spotify.com/track/4j3LxTzYF8IY5Y3h80dl8v"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 201076,
+      "name": "Go on Then, Love",
+      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "The Great Electronic Swindle",
         "url": "https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 227167,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 201076,
-      "name": "Go on Then, Love",
-      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 284137,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 246400,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 284137,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6oh5zFZzFawNVHyo4lzhhX"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 197935,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/0jX4nQqJS7m1fHodsWKpp1"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Loving You Kills Me",
         "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
       },
@@ -1447,22 +1431,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/4e2QxrBv9chCtzQRIWCzN8"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6oh5zFZzFawNVHyo4lzhhX"
       },
       "artists": [
         {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
         }
       ],
-      "duration_ms": 202714,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
+      "duration_ms": 197935,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/0jX4nQqJS7m1fHodsWKpp1"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1483,6 +1463,26 @@
       "duration_ms": 166971,
       "name": "Ghost Story (with All Time Low)",
       "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/4e2QxrBv9chCtzQRIWCzN8"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 202714,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Enemy Brain Entertainment Suite",
-        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
-      },
-      "artists": [
-        {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-        }
-      ],
-      "duration_ms": 251511,
-      "name": "Enemy Brain",
-      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 143180,
       "name": "Tear You Apart (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Enemy Brain Entertainment Suite",
+        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
+      },
+      "artists": [
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "duration_ms": 251511,
+      "name": "Enemy Brain",
+      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1863,18 +1863,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+        "name": "demolition (Ruined by Glass Petals)",
+        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
       },
       "artists": [
         {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
         }
       ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+      "duration_ms": 226440,
+      "name": "demolition (Ruined by Glass Petals)",
+      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1899,6 +1907,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Baptize (Sullivan King Remix)",
         "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
       },
@@ -1915,30 +1939,6 @@
       "duration_ms": 250241,
       "name": "Baptize - Sullivan King Remix",
       "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "demolition (Ruined by Glass Petals)",
-        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
-      },
-      "artists": [
-        {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "demolition (Ruined by Glass Petals)",
-      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1983,54 +1983,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Playing Chess",
-      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "The Wild Hunt",
-      "url": "https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Never Go Back",
         "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
       },
@@ -2051,6 +2003,54 @@
       "duration_ms": 198400,
       "name": "Never Go Back",
       "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 231739,
+      "name": "Playing Chess",
+      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "The Wild Hunt",
+      "url": "https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Eyes Wide Shut",
-        "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Void Of Vision",
-          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
       },
@@ -2151,6 +2131,26 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Eyes Wide Shut",
+        "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Void Of Vision",
+          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Raindrops",
         "url": "https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 178181,
       "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
       "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2475,22 +2475,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Cute Without The E (Ziri)",
-        "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
+        "name": "Dichotomy",
+        "url": "https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
         },
         {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 202105,
-      "name": "Cute Without The E (Ziri)",
-      "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
+      "duration_ms": 221028,
+      "name": "BITCH",
+      "url": "https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W"
     }
   ],
   "unique_name": "Rocktronic",

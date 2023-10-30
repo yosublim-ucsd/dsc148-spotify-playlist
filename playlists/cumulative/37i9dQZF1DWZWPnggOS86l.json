@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits - Tour Edition",
+        "url": "https://open.spotify.com/album/4LYsPGQ18Rb9fPnDbebCYC"
+      },
+      "artists": [
+        {
+          "name": "Restart",
+          "url": "https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "Levo Comigo",
+      "url": "https://open.spotify.com/track/77Y6GBebTNjzyLVTX3PmAk"
+    },
+    {
+      "album": {
         "name": "Que Mal H\u00e1 em Chorar por N\u00f3s Dois",
         "url": "https://open.spotify.com/album/0tZh9WyHmwIASV09q57nQh"
       },
@@ -932,7 +950,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 149796,
       "name": "Quente",
       "url": "https://open.spotify.com/track/7ps1PDz7k02LnPNFsyprTo"

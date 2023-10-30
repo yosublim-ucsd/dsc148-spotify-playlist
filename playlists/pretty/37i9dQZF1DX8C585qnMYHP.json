@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Of The Muses on cover. Updates every Wednesday.",
-  "num_followers": 119537,
+  "num_followers": 119657,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTUzOWExMWMwMDMwZTE1NmZiMzE3ZTZhYTAyYzZlY2JmMTEyZDBl",
+  "snapshot_id": "MCw2NTZhOTMwY2FkMzIwODkzMTk3YjkxOGMzNTQzY2U2YWJjMTk3YTNk",
   "tracks": [
     {
       "added_at": "2023-09-13 15:55:38",
@@ -219,8 +219,8 @@
     {
       "added_at": "2023-10-25 14:01:56",
       "album": {
-        "name": "Assim",
-        "url": "https://open.spotify.com/album/5tnZGrsPtDVAHePDI2TIun"
+        "name": "Vibra\u00e7\u00f5es de Prata",
+        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
       },
       "artists": [
         {
@@ -230,7 +230,7 @@
       ],
       "duration_ms": 128750,
       "name": "Assim",
-      "url": "https://open.spotify.com/track/5QsxLzOb24HfclGs6BLEt1"
+      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
     },
     {
       "added_at": "2023-10-18 18:20:20",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Step Outside This Area",
-        "url": "https://open.spotify.com/album/1r5MgVZWwQBnCMqABXtAyh"
-      },
-      "artists": [
-        {
-          "name": "Myles O'Reilly",
-          "url": "https://open.spotify.com/artist/7BHdwnkL0tV0SpfhTVRTjU"
-        }
-      ],
-      "duration_ms": 600000,
-      "name": "Fractus",
-      "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
-    },
-    {
       "added_at": "2023-06-07 04:04:27",
       "album": {
         "name": "Crispy Moon",
@@ -539,6 +523,22 @@
       "duration_ms": 300866,
       "name": "Dividual Individual",
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Step Outside This Area",
+        "url": "https://open.spotify.com/album/1r5MgVZWwQBnCMqABXtAyh"
+      },
+      "artists": [
+        {
+          "name": "Myles O'Reilly",
+          "url": "https://open.spotify.com/artist/7BHdwnkL0tV0SpfhTVRTjU"
+        }
+      ],
+      "duration_ms": 600000,
+      "name": "Fractus",
+      "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/2MGKlTC9Dw17dB3SztZOhU"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Slowing Everything Down",
-        "url": "https://open.spotify.com/album/7I9HdlRfhn236XbMP6mCMk"
-      },
-      "artists": [
-        {
-          "name": "Nico Less",
-          "url": "https://open.spotify.com/artist/5AoXgqcYEvfXsp9WP2chqu"
-        }
-      ],
-      "duration_ms": 373163,
-      "name": "Slowing Everything Down",
-      "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Snapdragon",
@@ -687,6 +671,22 @@
       "duration_ms": 192283,
       "name": "Snapdragon",
       "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Slowing Everything Down",
+        "url": "https://open.spotify.com/album/7I9HdlRfhn236XbMP6mCMk"
+      },
+      "artists": [
+        {
+          "name": "Nico Less",
+          "url": "https://open.spotify.com/artist/5AoXgqcYEvfXsp9WP2chqu"
+        }
+      ],
+      "duration_ms": 373163,
+      "name": "Slowing Everything Down",
+      "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/2WEb5xogCboXRtXnU3W2a8"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "The Year of Pornography",
-        "url": "https://open.spotify.com/album/101nL8Co3vPsZg6rxQ1UFz"
-      },
-      "artists": [
-        {
-          "name": "August, Yours Truly",
-          "url": "https://open.spotify.com/artist/6JpmrFHdahRYn2FRpPdXX3"
-        }
-      ],
-      "duration_ms": 321076,
-      "name": "The Year of Pornography",
-      "url": "https://open.spotify.com/track/1QJa6X5nPTV24H5exa8Juv"
-    },
-    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "Pt. I",
@@ -863,6 +847,22 @@
       "duration_ms": 297017,
       "name": "The End of What?",
       "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "The Year of Pornography",
+        "url": "https://open.spotify.com/album/101nL8Co3vPsZg6rxQ1UFz"
+      },
+      "artists": [
+        {
+          "name": "August, Yours Truly",
+          "url": "https://open.spotify.com/artist/6JpmrFHdahRYn2FRpPdXX3"
+        }
+      ],
+      "duration_ms": 321076,
+      "name": "The Year of Pornography",
+      "url": "https://open.spotify.com/track/1QJa6X5nPTV24H5exa8Juv"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -969,20 +969,20 @@
       "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-09-13 15:55:38",
       "album": {
-        "name": "The Rot",
-        "url": "https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1"
+        "name": "Follow Your Heartbeat",
+        "url": "https://open.spotify.com/album/5UHqAEAoEJJr1G1uBvFNea"
       },
       "artists": [
         {
-          "name": "fibril",
-          "url": "https://open.spotify.com/artist/4lJLsFUfYj3vw6jQaIeRB0"
+          "name": "Hidden Tapes",
+          "url": "https://open.spotify.com/artist/3xtRzawKtWqe3zKUdrek8b"
         }
       ],
-      "duration_ms": 122258,
-      "name": "vie",
-      "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
+      "duration_ms": 171440,
+      "name": "Follow Your Heartbeat",
+      "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1001,20 +1001,20 @@
       "url": "https://open.spotify.com/track/1NGSf4OOcZaorLoH0DVcMp"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "Follow Your Heartbeat",
-        "url": "https://open.spotify.com/album/5UHqAEAoEJJr1G1uBvFNea"
+        "name": "The Rot",
+        "url": "https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1"
       },
       "artists": [
         {
-          "name": "Hidden Tapes",
-          "url": "https://open.spotify.com/artist/3xtRzawKtWqe3zKUdrek8b"
+          "name": "fibril",
+          "url": "https://open.spotify.com/artist/4lJLsFUfYj3vw6jQaIeRB0"
         }
       ],
-      "duration_ms": 171440,
-      "name": "Follow Your Heartbeat",
-      "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
+      "duration_ms": 122258,
+      "name": "vie",
+      "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/34fOJJhPBB5RR1cRK5ogKz"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/5haRNlDl1sHNbrJ2mYwAtj"
-      },
-      "artists": [
-        {
-          "name": "Naoko Sakata",
-          "url": "https://open.spotify.com/artist/4Jd7iJiBlNefAj47YIio6x"
-        }
-      ],
-      "duration_ms": 475200,
-      "name": "Improvisation 15",
-      "url": "https://open.spotify.com/track/4ttcYW4q4RimK9gP5cjYkK"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Signals At Both Ears",
@@ -1067,6 +1051,22 @@
       "duration_ms": 354694,
       "name": "Baiji Returns",
       "url": "https://open.spotify.com/track/2OPTGR15eGkXZQfBUBPtK7"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/5haRNlDl1sHNbrJ2mYwAtj"
+      },
+      "artists": [
+        {
+          "name": "Naoko Sakata",
+          "url": "https://open.spotify.com/artist/4Jd7iJiBlNefAj47YIio6x"
+        }
+      ],
+      "duration_ms": 475200,
+      "name": "Improvisation 15",
+      "url": "https://open.spotify.com/track/4ttcYW4q4RimK9gP5cjYkK"
     },
     {
       "added_at": "2023-10-18 18:20:20",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "MSCTY x V&A Dundee",
-        "url": "https://open.spotify.com/album/52KQDPfQuzUT5BD3j7mfno"
-      },
-      "artists": [
-        {
-          "name": "SHHE",
-          "url": "https://open.spotify.com/artist/6ZGz2mPPtMaFVKxMzjd8Pd"
-        }
-      ],
-      "duration_ms": 2699773,
-      "name": "~",
-      "url": "https://open.spotify.com/track/7a6GrnIsmcv0mqbNUMBLKe"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
         "name": "Opinions",
         "url": "https://open.spotify.com/album/5mqDIJ2nEdeNjBOn1oUync"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 322440,
       "name": "Skin",
       "url": "https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "MSCTY x V&A Dundee",
+        "url": "https://open.spotify.com/album/52KQDPfQuzUT5BD3j7mfno"
+      },
+      "artists": [
+        {
+          "name": "SHHE",
+          "url": "https://open.spotify.com/artist/6ZGz2mPPtMaFVKxMzjd8Pd"
+        }
+      ],
+      "duration_ms": 2699773,
+      "name": "~",
+      "url": "https://open.spotify.com/track/7a6GrnIsmcv0mqbNUMBLKe"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/1pnhHHes46zmwyrMY5VoUm"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "small circle",
-        "url": "https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh"
-      },
-      "artists": [
-        {
-          "name": "Jason Calhoun",
-          "url": "https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy"
-        }
-      ],
-      "duration_ms": 515000,
-      "name": "small circle",
-      "url": "https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Phases of This and Other Moons",
@@ -1443,6 +1427,22 @@
       "duration_ms": 224146,
       "name": "A Black Moon Tide",
       "url": "https://open.spotify.com/track/5UkLcM1yFjeFBLUhwuKbkV"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "small circle",
+        "url": "https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh"
+      },
+      "artists": [
+        {
+          "name": "Jason Calhoun",
+          "url": "https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy"
+        }
+      ],
+      "duration_ms": 515000,
+      "name": "small circle",
+      "url": "https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Miracle-Tech",
-        "url": "https://open.spotify.com/album/0KfFMK9V0890u9O5qAsV3v"
-      },
-      "artists": [
-        {
-          "name": "SEES00000",
-          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
-        }
-      ],
-      "duration_ms": 186185,
-      "name": "Reno",
-      "url": "https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "For The Upper Mantle",
@@ -1491,6 +1475,22 @@
       "duration_ms": 1515348,
       "name": "For The Upper Mantle",
       "url": "https://open.spotify.com/track/30tgD1QE4NU8wr0g81Q9BJ"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Miracle-Tech",
+        "url": "https://open.spotify.com/album/0KfFMK9V0890u9O5qAsV3v"
+      },
+      "artists": [
+        {
+          "name": "SEES00000",
+          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
+        }
+      ],
+      "duration_ms": 186185,
+      "name": "Reno",
+      "url": "https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j"
     },
     {
       "added_at": "2023-10-04 14:25:37",

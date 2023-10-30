@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-719 songs - 1 day 17 hr 40 min
+720 songs - 1 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Always Almost](https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Always Almost](https://open.spotify.com/album/5wNsHPJAH2NmuGg8IQ3REM) | 3:22 | 2022-03-18 | 2023-01-22 |
 | [Always Looking for You](https://open.spotify.com/track/4lPvAuYbmxixv12m4TXVSk) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Lalalalovesongs](https://open.spotify.com/album/70gURkrcCv8LLqdQmUemJo) | 3:52 | 2022-02-11 | 2022-04-19 |
 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2023-09-29 |  |
-| [Angel](https://open.spotify.com/track/3D4XjhkvYU3F89G9Elok5T) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Angel](https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU) | 5:05 | 2023-10-13 |  |
+| [Angel](https://open.spotify.com/track/3D4XjhkvYU3F89G9Elok5T) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Angel](https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU) | 5:05 | 2023-10-13 | 2023-10-30 |
+| [Angel](https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 5:05 | 2023-10-13 |  |
 | [Another Half](https://open.spotify.com/track/0L9bKKN3Qs1tifjiLeukFW) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Another Half](https://open.spotify.com/album/5JUCPf60V0XJN1R5QzmhAy) | 2:28 | 2023-06-23 | 2023-08-20 |
 | [Another Half](https://open.spotify.com/track/0sAPtWTy125jIkSDOT9YdO) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [KARPEH](https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF) | 2:28 | 2023-06-23 |  |
 | [Another Half](https://open.spotify.com/track/70FlNeIrLCupwr5s80h8h1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 2:28 | 2023-06-23 | 2023-08-22 |

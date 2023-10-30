@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 178285,
+  "num_followers": 178357,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDdkZjcwMzYzZGIyYjRmYmUzZTgyNzIyNzdjMjA1ZDM2OGVmOTFm",
+  "snapshot_id": "MCxjOTg5ZWU0ZDIwZTA4ZWJlMGEwZjg2NTczNjEwMDY0YWY1YzljOGE0",
   "tracks": [
     {
       "added_at": "2023-09-07 20:59:53",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "La Descre\u00edda",
-      "url": "https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Sole y Horacio juntos por \u00danica Vez (Grabado en Vivo en el Luna Park)",
         "url": "https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 511746,
       "name": "Bloque Romantico: Nada Tengo de Ti / Quiero Tu Voz / No Quisiera Quererte / Amar Amando - En Vivo",
       "url": "https://open.spotify.com/track/4DP2160LC4dW6RTNeYQvMB"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "La Descre\u00edda",
+      "url": "https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "El Encuentro (En Vivo)",
-        "url": "https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 146373,
-      "name": "El Escondido - En Vivo",
-      "url": "https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx"
-    },
-    {
-      "added_at": "2023-09-07 20:59:53",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 272986,
       "name": "Sue\u00f1ero",
       "url": "https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND"
+    },
+    {
+      "added_at": "2023-09-07 20:59:53",
+      "album": {
+        "name": "El Encuentro (En Vivo)",
+        "url": "https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 146373,
+      "name": "El Escondido - En Vivo",
+      "url": "https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
-        "url": "https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D"
+        "name": "Confiter\u00eda Europea 100 A\u00f1os",
+        "url": "https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua"
       },
       "artists": [
         {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+          "name": "Los Cantores del Alba",
+          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
         }
       ],
-      "duration_ms": 770851,
-      "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
-      "url": "https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz"
+      "duration_ms": 148933,
+      "name": "Serenata Oto\u00f1al",
+      "url": "https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B"
     },
     {
       "added_at": "2023-09-07 20:59:53",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-09-07 20:59:53",
       "album": {
-        "name": "Confiter\u00eda Europea 100 A\u00f1os",
-        "url": "https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua"
+        "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
+        "url": "https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D"
       },
       "artists": [
         {
-          "name": "Los Cantores del Alba",
-          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
         }
       ],
-      "duration_ms": 148933,
-      "name": "Serenata Oto\u00f1al",
-      "url": "https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B"
+      "duration_ms": 770851,
+      "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
+      "url": "https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz"
     }
   ],
   "unique_name": "Folklore de Siempre",

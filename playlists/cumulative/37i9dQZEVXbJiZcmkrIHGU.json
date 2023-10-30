@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 146367,
       "name": "Airplanes",
       "url": "https://open.spotify.com/track/2LCoh1sop5AYzRBVDHFoiK"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 193289,
       "name": "All You Had To Do Was Stay (Taylor's Version)",
       "url": "https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5"
@@ -3904,7 +3904,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 211103,
       "name": "Bad Blood (Taylor's Version)",
       "url": "https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic"
@@ -8402,7 +8402,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -8482,7 +8482,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
@@ -8578,6 +8578,36 @@
       "duration_ms": 189306,
       "name": "DAMOKLESSCHWERT",
       "url": "https://open.spotify.com/track/1NYOQREehy670ITCH83ykg"
+    },
+    {
+      "album": {
+        "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
+        "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147895,
+      "name": "Dance For Me (1, 2, 3) - Stutter Techno",
+      "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
     },
     {
       "album": {
@@ -8886,7 +8916,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -15770,7 +15800,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 165680,
       "name": "GODFATHER",
       "url": "https://open.spotify.com/track/2xOym9KV2CvzXPYTZXgBym"
@@ -18932,7 +18962,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 141318,
       "name": "In deinen Armen",
       "url": "https://open.spotify.com/track/6XVSsVuzVUZ2zgRWB5xwef"
@@ -24716,7 +24746,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 147960,
       "name": "MAXIMUM RIZZ",
       "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
@@ -29688,7 +29718,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 235800,
       "name": "Out Of The Woods (Taylor's Version)",
       "url": "https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE"
@@ -31682,7 +31712,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 139300,
       "name": "Push Up - Main Edit",
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
@@ -34778,7 +34808,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 219209,
       "name": "Shake It Off (Taylor's Version)",
       "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
@@ -36890,7 +36920,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 171818,
       "name": "Suburban Legends (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP"
@@ -37464,7 +37494,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 135302,
       "name": "TABU.",
       "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
@@ -39482,7 +39512,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 164746,
       "name": "UNA PALABRA (feat. Dardan)",
       "url": "https://open.spotify.com/track/3tlG0NcGrPLnM4V6SlqtWW"
@@ -41796,7 +41826,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 212600,
       "name": "Welcome To New York (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9"
@@ -42874,7 +42904,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 220433,
       "name": "Wildest Dreams (Taylor's Version)",
       "url": "https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK"

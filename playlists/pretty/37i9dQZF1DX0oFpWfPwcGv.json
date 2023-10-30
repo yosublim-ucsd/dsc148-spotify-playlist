@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 53880,
+  "num_followers": 53962,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDkzNmYyN2Y4MTVhMGJkYjc2NjMxNTViOTdmZWJjMGQ0ZDc1MjA4",
+  "snapshot_id": "MCxiMjc2MTFkODZmODIwZjAyY2VmM2M3OGRlNzJhZGRhMWY3NjVjNjdl",
   "tracks": [
     {
       "added_at": "2023-09-18 17:33:17",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "People... Hold On",
-        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Date With The Rain",
-      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Stand on the Word",
         "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 303692,
       "name": "Stand on the Word (Studio Version)",
       "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Date With The Rain",
+      "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "The Essential Jean Carn - The PIR Years",
-        "url": "https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 389373,
-      "name": "Was That All It Was - 12\" Version",
-      "url": "https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "The Essential Jean Carn - The PIR Years",
+        "url": "https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 389373,
+      "name": "Was That All It Was - 12\" Version",
+      "url": "https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk"
     },
     {
       "added_at": "2023-09-18 17:33:17",

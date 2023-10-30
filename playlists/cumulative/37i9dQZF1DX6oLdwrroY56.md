@@ -4,7 +4,7 @@
 
 > The leaders in the lively Pinoy indie scene\. Cover: Sansette
 
-55 songs - 3 hr 39 min
+56 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Sinulit](https://open.spotify.com/track/6V76PrxuZBA9Z1NExluZKQ) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Sinulit](https://open.spotify.com/album/74fNJhK7AO8AvBQCSSf8jw) | 3:36 | 2023-10-13 |  |
 | [Sunday](https://open.spotify.com/track/3UlUNQIwYz8o2IPkcnksjp) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Sunday](https://open.spotify.com/album/5WhV3B48D6u8OmayTwW3OU) | 3:00 | 2023-10-13 |  |
 | [Sunday Morning](https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG) | 3:44 | 2023-10-13 |  |
-| [Superhuman](https://open.spotify.com/track/1HeGR9Pi3TCVDl4jrHZv2j) | [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd), [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T) | [Superhuman](https://open.spotify.com/album/1zLtYbdACs3Y823URmquVY) | 4:15 | 2023-10-13 |  |
+| [Superhuman](https://open.spotify.com/track/6M99IQOuFJ5cVdROxsBfRW) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [Superhuman](https://open.spotify.com/album/0asDwjulJNbXs4j0dt3dVX) | 4:15 | 2023-10-27 |  |
+| [Superhuman](https://open.spotify.com/track/1HeGR9Pi3TCVDl4jrHZv2j) | [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd), [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T) | [Superhuman](https://open.spotify.com/album/1zLtYbdACs3Y823URmquVY) | 4:15 | 2023-10-13 | 2023-10-30 |
 | [Sy](https://open.spotify.com/track/4ckqv8nO8cvqdCXe1pJKTG) | [Joshua Khaled](https://open.spotify.com/artist/6keXdTyN2lpda6B1XmVM6v) | [Sy](https://open.spotify.com/album/18KzzEHs4LZxkMOgZEpO9v) | 5:24 | 2023-10-13 |  |
 | [Tagsilaw \(Pinilit Ko Man\)](https://open.spotify.com/track/5qCbzsd69aS34UN3WcxzZU) | [HNT](https://open.spotify.com/artist/7aL6rI1bHOBUAtmLPCxfNR) | [Tagsilaw \(Pinilit Ko Man\)](https://open.spotify.com/album/0NN6egJCbuG4WrmCLRqvv1) | 3:42 | 2023-10-13 |  |
 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 | 2023-10-13 |  |

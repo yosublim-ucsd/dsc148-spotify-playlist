@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-867 songs - 2 day 1 hr 33 min
+868 songs - 2 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Don't Stop the DOKKYUN!!](https://open.spotify.com/track/04SaykXEj1ZWwjqJAiTdbe) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [Don't Stop the DOKKYUN!!](https://open.spotify.com/album/7mkuJn3G6P87OcuLcoKYuE) | 4:08 | 2022-07-14 | 2022-07-16 |
 | [Dorothy](https://open.spotify.com/track/3ZmHr5x6Ta89QaAIjGvmTN) | [KANKAN](https://open.spotify.com/artist/6ZnELeGt16sNYfx3CcTh9d), [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Dorothy](https://open.spotify.com/album/15HbjaFyq0GZQxpbggYPzl) | 3:02 | 2022-08-05 | 2022-08-17 |
 | [DOSOKAI](https://open.spotify.com/track/1dMudQWegtmUjdKK0uWTTi) | [Ze](https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD) | [DOSOKAI](https://open.spotify.com/album/1adNWaG3EwYZU1QE8kCWAf) | 2:49 | 2022-10-18 | 2022-12-21 |
+| [Double](https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk) | [MILGRAM ミコト \(CV: 花江夏樹\)](https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo) | [Double](https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd) | 2:33 | 2023-10-26 |  |
 | [doubt](https://open.spotify.com/track/1ysrAeHzgHYlpnCYWKmIe2) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [doubt](https://open.spotify.com/album/3KTZQmXznDceIy00SOG2jL) | 3:02 | 2022-06-16 | 2022-07-29 |
 | [Down](https://open.spotify.com/track/1D3YE1CBxLAgaWwzrME7h9) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [Down](https://open.spotify.com/album/2ADdO9nS8bvctsk1b5s6x4) | 3:17 | 2023-03-23 | 2023-03-31 |
 | [DownTimer](https://open.spotify.com/track/6occpeuCkcU3HlnPL5rE6r) | [RetBear \(unknown Vo:O2\)](https://open.spotify.com/artist/0JCG5k6oSPaafCB8PFLFOh) | [DownTimer](https://open.spotify.com/album/1YUoDBtPxU6MscbdMcdNGq) | 3:28 | 2023-01-05 | 2023-01-11 |
@@ -505,7 +506,7 @@
 | [ネオンテトラ](https://open.spotify.com/track/6mwl6Yem7NxMkbgGmVpg2p) | [Wiz\_nicc](https://open.spotify.com/artist/6ah2yjhQayXWFcu3LtOWui) | [ネオンテトラ](https://open.spotify.com/album/0GG8f1iccpKCcsvtA1wSQ1) | 3:48 | 2022-07-12 | 2022-07-15 |
 | [ネロ](https://open.spotify.com/track/3abxvM4ptugLFRocd7dm5H) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [ネロ](https://open.spotify.com/album/1aCpGaeu7Ai7eiB4o22aip) | 3:29 | 2023-04-11 | 2023-04-26 |
 | [ノマド \- self cover](https://open.spotify.com/track/5bhx38mEmEP8ps3J0wHTQY) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ノマド \(self cover\)](https://open.spotify.com/album/44jc0PdXkVjPNNfyPVPaTF) | 3:52 | 2022-07-04 | 2022-07-25 |
-| [ハピネス オブ ザ デッド](https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ハピネス オブ ザ デッド](https://open.spotify.com/album/2qUA9ZKcJgOmGkWRbnqCsV) | 2:54 | 2023-10-12 |  |
+| [ハピネス オブ ザ デッド](https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ハピネス オブ ザ デッド](https://open.spotify.com/album/2qUA9ZKcJgOmGkWRbnqCsV) | 2:54 | 2023-10-12 | 2023-10-30 |
 | [ハロ](https://open.spotify.com/track/69cF34CNjzxX1ySIPJxtMf) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [ハロ](https://open.spotify.com/album/0mzoRF3WErpncvKCQqoHEu) | 3:18 | 2023-10-26 |  |
 | [ハンドメイド流星雨 \- 皐月ソラの場合/CV:楠木ともり](https://open.spotify.com/track/19sdlPhdJXSknzwKEqD7a3) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d) | [ハンドメイド流星雨 \(皐月ソラの場合/CV:楠木 ともり\)](https://open.spotify.com/album/1KPDqDTsLp4YUCoY5uZyfP) | 3:39 | 2022-06-21 | 2022-07-23 |
 | [ハートエンド](https://open.spotify.com/track/5chLgSHt4hNwuOlxWccA0u) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [ハートエンド](https://open.spotify.com/album/7qcNbmdD83ZgsFx2LwaYUP) | 2:53 | 2023-07-20 | 2023-07-28 |

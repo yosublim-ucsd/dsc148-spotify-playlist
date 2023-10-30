@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Nanpa Básico y Sabino en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,156 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,159 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [Quiero ser un ONVRE](https://open.spotify.com/track/2x9xbcKJoicB51xCJe6MdS) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [DEBUT](https://open.spotify.com/album/7dQNB0f4oHyXikawZWmuUU) | 2:51 |
 | 50 | [PRIVILEGIOS](https://open.spotify.com/track/2HFJ2nXf7Komq9a4Z0Bbrm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:05 |
 
-Snapshot ID: `MCxhMDk2OThiMWRkYzIwYTczMmNjOWVlOGU5YjQ5N2Q2MjgxYTFjMTFm`
+Snapshot ID: `MCw0ZjRhM2FkOGIzMjc3NDhkMzM5NjZmOTAzNDI1MGNlMjMyZjdkMTRk`

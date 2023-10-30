@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23642,
+  "num_followers": 23647,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWRjMjYxYzg2NDc4YWM2YTQ1MDk3YzY0MDg0ZWI5YzEzMTY3MTFk",
+  "snapshot_id": "MCxmZDFiZTFmY2ViNTRhNjgyZWFiYjRjMzdhYmYwMDg4NDU0Njk0MmEy",
   "tracks": [
     {
       "added_at": "2023-10-26 18:51:01",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 182291,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 258629,
       "name": "Rayo El\u00e9ctrico",
       "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 182291,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
+        "name": "Teoria Espacial (Remix)",
+        "url": "https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx"
+      },
+      "artists": [
+        {
+          "name": "Diego Chamorro",
+          "url": "https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh"
+        },
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 332542,
+      "name": "Teoria Espacial (Remix)",
+      "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
         "name": "Pervertida",
         "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "Teoria Espacial (Remix)",
-        "url": "https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx"
-      },
-      "artists": [
-        {
-          "name": "Diego Chamorro",
-          "url": "https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh"
-        },
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 332542,
-      "name": "Teoria Espacial (Remix)",
-      "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Fonomix",
-        "url": "https://open.spotify.com/album/32vMhnRB3JbmRzAVd30KDL"
-      },
-      "artists": [
-        {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Grana",
-      "url": "https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 235710,
       "name": "La Monta\u00f1a",
       "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Fonomix",
+        "url": "https://open.spotify.com/album/32vMhnRB3JbmRzAVd30KDL"
+      },
+      "artists": [
+        {
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Grana",
+      "url": "https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Cu\u00e1nto Falta",
-        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
-      },
-      "artists": [
-        {
-          "name": "Ziberia",
-          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Cu\u00e1nto Falta",
-      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Derrumbe",
         "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+        "name": "Cu\u00e1nto Falta",
+        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
       },
       "artists": [
         {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+          "name": "Ziberia",
+          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
         }
       ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
+      "duration_ms": 240050,
+      "name": "Cu\u00e1nto Falta",
+      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "En el Palacio (REMIX)",
-        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
       },
       "artists": [
         {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
         }
       ],
-      "duration_ms": 246144,
-      "name": "En la Torre - AV Remix",
-      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1403,6 +1387,22 @@
       "duration_ms": 179950,
       "name": "Dir\u00e9 tu nombre",
       "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "En el Palacio (REMIX)",
+        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "En la Torre - AV Remix",
+      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Latina",
-        "url": "https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        },
-        {
-          "name": "Sukubito",
-          "url": "https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy"
-        }
-      ],
-      "duration_ms": 187248,
-      "name": "Latina",
-      "url": "https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
         "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
         "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 357200,
       "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
       "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        },
+        {
+          "name": "Sukubito",
+          "url": "https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy"
+        }
+      ],
+      "duration_ms": 187248,
+      "name": "Latina",
+      "url": "https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1615,22 +1615,6 @@
       "duration_ms": 210659,
       "name": "FRIENDZONE",
       "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
-    },
-    {
-      "added_at": "2023-10-26 18:51:01",
-      "album": {
-        "name": "Formas",
-        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        }
-      ],
-      "duration_ms": 213018,
-      "name": "Housie",
-      "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1715,22 +1699,18 @@
     {
       "added_at": "2023-10-26 18:51:01",
       "album": {
-        "name": "Secreto a Voces",
-        "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
+        "name": "Formas",
+        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
       },
       "artists": [
         {
-          "name": "Juan Baro",
-          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
-        },
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
         }
       ],
-      "duration_ms": 231569,
-      "name": "Secreto a Voces",
-      "url": "https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c"
+      "duration_ms": 213018,
+      "name": "Housie",
+      "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
     },
     {
       "added_at": "2023-10-26 18:51:01",
@@ -1751,6 +1731,26 @@
       "duration_ms": 221711,
       "name": "Nft",
       "url": "https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo"
+    },
+    {
+      "added_at": "2023-10-26 18:51:01",
+      "album": {
+        "name": "Secreto a Voces",
+        "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
+      },
+      "artists": [
+        {
+          "name": "Juan Baro",
+          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
+        },
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "duration_ms": 231569,
+      "name": "Secreto a Voces",
+      "url": "https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c"
     }
   ],
   "unique_name": "ElectroPop",

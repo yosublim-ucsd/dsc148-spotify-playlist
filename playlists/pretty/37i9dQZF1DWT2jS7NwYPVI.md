@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,046 likes - 124 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,068 likes - 124 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 4 | [Spider Bites](https://open.spotify.com/track/2mv5dA8av1yu8bRKtTw2Z5) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [History Books](https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ) | 4:19 |
 | 5 | [Wasterpiece](https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Wasterpiece](https://open.spotify.com/album/1OgkglNXgSMZsMzSlDjOAg) | 3:11 |
 | 6 | [History](https://open.spotify.com/track/4MWKhUasdUFoxsOc9w1Feq) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:23 |
-| 7 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 |
+| 7 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 |
 | 8 | [Blood, Hair, And Eyeballs](https://open.spotify.com/track/6dYtCV39bCt10NMfzgOdtA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/5oXZKwnlG0mYFrjKYzYf92) | 3:00 |
 | 9 | [Moon Chasers](https://open.spotify.com/track/5FQSHEXB1gJj1CAjHlbC28) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Melanin Punk](https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD) | 3:23 |
 | 10 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 123 | [My Own Hell](https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [My Own Hell](https://open.spotify.com/album/3MHaxJDs6Z9Z9iwVtZt8ip) | 3:25 |
 | 124 | [Fuck Love, I Just Bought a New Truck](https://open.spotify.com/track/11RNMyEALKUFkA1ItyhHi7) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [These Are Some B\-Sides](https://open.spotify.com/album/0PwOTtqMM4b0I7IpPY25Kb) | 1:27 |
 
-Snapshot ID: `MCw2ZTBkOGNjYzZlZDY4YTM3NjI0ZGMyODkxNDMyMzc2NDZkMjU1ZWE1`
+Snapshot ID: `MCxjNjJmYWRjMzFjZmM0ZjgyY2M5OGY5NmY2NDIwNWE3YWNiMmI2ODg0`

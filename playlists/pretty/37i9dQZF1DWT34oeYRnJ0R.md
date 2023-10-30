@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Farruko, La Factoria & Eddy Lover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,258 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,254 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 39 | [Estoy Bien](https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Estoy Bien](https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE) | 2:48 |
 | 40 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 |
 | 41 | [VENENO](https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:33 |
-| 42 | [Pasa\_je\_ro](https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pasa\_je\_ro](https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI) | 4:07 |
-| 43 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
+| 42 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
+| 43 | [Pasa\_je\_ro](https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pasa\_je\_ro](https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI) | 4:07 |
 | 44 | [No te lo niego, ma dolío](https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [Lágrimas pa otro día](https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp) | 2:04 |
 | 45 | [Fumando](https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Fumando](https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV) | 3:23 |
 | 46 | [Mejor](https://open.spotify.com/track/6C1jKbkCUgFws7M0M4oGCB) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Modo Avión](https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r) | 3:21 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 81 | [Más Allá](https://open.spotify.com/track/4WTF4MkWJSEeWhTNk3ywPT) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:25 |
 | 82 | [Tu Fanático \- Remix](https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tu Fanático \(Remix\)](https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM) | 3:34 |
 | 83 | [Sola](https://open.spotify.com/track/2WhXmta31SYoJm7xMCmMWN) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Sola](https://open.spotify.com/album/5d7DGxDhoMuCwSuLpremAd) | 3:14 |
-| 84 | [Tu](https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM) | [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Tu](https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH) | 3:21 |
-| 85 | [Ojos Negros](https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Ojos Negros](https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt) | 3:19 |
+| 84 | [Ojos Negros](https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Ojos Negros](https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt) | 3:19 |
+| 85 | [Tu](https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM) | [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Tu](https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH) | 3:21 |
 | 86 | [Mood \- Remix](https://open.spotify.com/track/2rRXFhzzZ7uNvQTR54CTVk) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Mood \(Remix\)](https://open.spotify.com/album/2yNM7Di0fiM4T4uRSoiJ1L) | 4:07 |
 | 87 | [Umaye](https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Umaye](https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7) | 2:31 |
 | 88 | [RDMDA](https://open.spotify.com/track/4ucFAncTWKzcOjQ9J4SbaM) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 99 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
 | 100 | [Mi Shorty](https://open.spotify.com/track/44Rn60e3tDPDAYARpHFoVN) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Mi Shorty](https://open.spotify.com/album/7CATraPa1pNEdL9hQVPodQ) | 3:06 |
 
-Snapshot ID: `MCw5YWQ0ZDVmOWJjZDk0NjM1OGUyODZlNTQ0MzExZTg4OWI2MGI4NGZl`
+Snapshot ID: `MCxmOTI0Zjk2OTU2NGMyMTM4MjQyMGNhZTlhZjUzYmIwYjZjYzM3YWJl`

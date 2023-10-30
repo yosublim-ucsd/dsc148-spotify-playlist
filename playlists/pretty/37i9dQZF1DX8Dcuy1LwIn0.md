@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Dcuy1LwIn0.md) - [plain]
 
 > The best in recent hits from your favorite  Contemporary Christian artists all in one list\.  Sit back and let it play!  Cover: Matt Maher
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,515 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,545 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Dcuy1LwIn0.md) - [plain]
 | 49 | [No One Like Our God](https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [No One Like Our God](https://open.spotify.com/album/7Fcpi2Cm9H7PoWi0y91aKR) | 4:09 |
 | 50 | [I Won't Let You Go](https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [I Won't Let You Go](https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R) | 4:07 |
 
-Snapshot ID: `MCw0MWNhNGYwZmM2NDM0Yzc5OTZiMzE5ZmVlMzU3YmMxZWVmZGE4NDQy`
+Snapshot ID: `MCxmNGNkNzdkMDRhNjRkNWMyOWY1NWRjMjI4NDQ1YzgyM2I1MDY4MTBk`

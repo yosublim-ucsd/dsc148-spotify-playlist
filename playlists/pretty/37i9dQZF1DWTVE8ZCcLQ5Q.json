@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 419389,
+  "num_followers": 419387,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5",
+  "snapshot_id": "MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -547,6 +547,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "GEMINI",
+      "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 122192,
       "name": "3AM (PXT4 RASA) - Remix",
       "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "GEMINI",
-      "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Viciado em Voc\u00ea",
+        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147476,
+      "name": "Viciado em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "COSTA QUENTE",
         "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 166285,
       "name": "COSTA QUENTE",
       "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Viciado em Voc\u00ea",
-        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147476,
-      "name": "Viciado em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "convoca (Prod. Maikinho)",
+      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "JORGE",
         "url": "https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 160909,
       "name": "JORGE",
       "url": "https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "convoca (Prod. Maikinho)",
-      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Vai Com Calma",
-        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
-      },
-      "artists": [
-        {
-          "name": "SH1FT",
-          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
-        },
-        {
-          "name": "Bruxo 021",
-          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
-        }
-      ],
-      "duration_ms": 136289,
-      "name": "Vai Com Calma",
-      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Trem Bala",
         "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 116571,
       "name": "Trem Bala",
       "url": "https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Vai Com Calma",
+        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
+      },
+      "artists": [
+        {
+          "name": "SH1FT",
+          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
+        },
+        {
+          "name": "Bruxo 021",
+          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
+        }
+      ],
+      "duration_ms": 136289,
+      "name": "Vai Com Calma",
+      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
     },
     {
       "added_at": "2023-10-05 08:00:00",

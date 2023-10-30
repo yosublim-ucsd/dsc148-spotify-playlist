@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 541438,
+  "num_followers": 541483,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTU2NzMxNzQ1MzU1NWVlMzEwMmZjNGZlOGQ4Mjc1YjE0YTY3ODNl",
+  "snapshot_id": "MCw2NTc2ZTJiN2NhM2ExZDdlZWUzNjU2OTJjN2RjNWU5NDlmM2I0NGQw",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The Black Market",
-        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Don\u2019t Want To Be Here Anymore",
-      "url": "https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Road to Ruin (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 149466,
       "name": "I Wanna Be Sedated - 2002 Remaster",
       "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "I Don\u2019t Want To Be Here Anymore",
+      "url": "https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -947,22 +947,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Skinny Dipping",
-        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "Lavender Bones",
-      "url": "https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/4TGgIBpUlNWUnVFIAx7P8w"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 241908,
       "name": "Diamonds And Guns",
       "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Skinny Dipping",
+        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "Lavender Bones",
+      "url": "https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/0SoeiawkEYUJBtQce99lQd"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Into the Raging Sea",
-        "url": "https://open.spotify.com/album/668M0j58jceb2KVxomANs6"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 221539,
-      "name": "Foolish Believer",
-      "url": "https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL"
-    },
-    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "deathwish (feat. nothing,nowhere.)",
@@ -1211,6 +1195,22 @@
       "duration_ms": 147907,
       "name": "deathwish (feat. nothing,nowhere.)",
       "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Into the Raging Sea",
+        "url": "https://open.spotify.com/album/668M0j58jceb2KVxomANs6"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 221539,
+      "name": "Foolish Believer",
+      "url": "https://open.spotify.com/track/1b4ObYUAxvigL7kOw6rBdL"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
       "artists": [
         {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 221241,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
         }
       ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
+      "duration_ms": 221241,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 146436,
+      "name": "Jurassic Park",
+      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Degenerates",
         "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 196363,
       "name": "Never Coming Home",
       "url": "https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 146436,
-      "name": "Jurassic Park",
-      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Strange Love",
-        "url": "https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L"
-      },
-      "artists": [
-        {
-          "name": "Simple Creatures",
-          "url": "https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL"
-        }
-      ],
-      "duration_ms": 151631,
-      "name": "Strange Love",
-      "url": "https://open.spotify.com/track/1y9AS8gXPuF8sn3K6Awbyb"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 190000,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/7vUeM6Bftbd4wBSml0KffV"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Strange Love",
+        "url": "https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L"
+      },
+      "artists": [
+        {
+          "name": "Simple Creatures",
+          "url": "https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL"
+        }
+      ],
+      "duration_ms": 151631,
+      "name": "Strange Love",
+      "url": "https://open.spotify.com/track/1y9AS8gXPuF8sn3K6Awbyb"
     },
     {
       "added_at": "2020-11-20 21:27:18",

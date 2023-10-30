@@ -225,6 +225,36 @@
     },
     {
       "album": {
+        "name": "Better Off (Alone, Pt. III) (feat. Vikkstar) [D-Block & S-te-Fan Remix]",
+        "url": "https://open.spotify.com/album/37YzfskH2UGlfLcDkxhzTH"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "Better Off (Alone, Pt. III) (feat. Vikkstar) - D-Block & S-te-Fan Remix",
+      "url": "https://open.spotify.com/track/4msWqvmvORvZ8iRU60uMpW"
+    },
+    {
+      "album": {
         "name": "Better Off (Alone, Pt. III) [feat. Vikkstar] [D-Block & S-te-Fan Remix]",
         "url": "https://open.spotify.com/album/6wGHfkwyWX3QlgK5Tn1WQ2"
       },
@@ -248,7 +278,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 178064,
       "name": "Better Off (Alone, Pt. III) [feat. Vikkstar] [D-Block & S-te-Fan Remix]",
       "url": "https://open.spotify.com/track/4hHPr9rqt7NiHi0hcCMuRK"
@@ -516,7 +546,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
@@ -546,7 +576,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
@@ -656,7 +686,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 138088,
       "name": "DJ Turn It Up - Ben Nicky Remix",
       "url": "https://open.spotify.com/track/5nqW6RAWDBynvve3TDXH9r"
@@ -2590,7 +2620,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 182598,
       "name": "She Knows (with Akon) - 3 Are Legend x MANDY Remix",
       "url": "https://open.spotify.com/track/4nzwusPHj8TosWlr3J1EZ5"

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Marineros.",
-  "num_followers": 12876,
+  "num_followers": 12877,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDA3NjI2NmNiNTI1ODY4OTc1YjNlNWNlNGM2NDY3YjU5MGRkYmZm",
+  "snapshot_id": "MCwxYTE2M2U1MGMwMDc4MjFmYmQ4YWM0YjhjMjkzMzk1MDYxZjc2YzU5",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Dream Love",
-        "url": "https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        }
-      ],
-      "duration_ms": 175996,
-      "name": "Dream Love",
-      "url": "https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "traves\u00eda",
         "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 156000,
       "name": "y las flores? (en bruto 1/2)",
       "url": "https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Dream Love",
+        "url": "https://open.spotify.com/album/7fgGpLBb7ujLOECT2x5svf"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        }
+      ],
+      "duration_ms": 175996,
+      "name": "Dream Love",
+      "url": "https://open.spotify.com/track/6vStWiIMErT2VNSGnpfXaj"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Cuerpo y Guitarra",
+        "url": "https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ"
+      },
+      "artists": [
+        {
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+        }
+      ],
+      "duration_ms": 177056,
+      "name": "Cuerpo y Guitarra",
+      "url": "https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Tiempo a mi favor",
         "url": "https://open.spotify.com/album/0lxBKyCp0wv8asbF776NwF"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Cuerpo y Guitarra",
-        "url": "https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ"
-      },
-      "artists": [
-        {
-          "name": "Mariel Mariel",
-          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
-        }
-      ],
-      "duration_ms": 177056,
-      "name": "Cuerpo y Guitarra",
-      "url": "https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Pl\u00e1stico",
         "url": "https://open.spotify.com/album/6Z2s9YDN6NM2d9DD3iZTvj"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Labios de Miel",
-        "url": "https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0"
-      },
-      "artists": [
-        {
-          "name": "Adri Stuven",
-          "url": "https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn"
-        }
-      ],
-      "duration_ms": 140649,
-      "name": "Labios de Miel",
-      "url": "https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 235710,
       "name": "La Monta\u00f1a",
       "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Labios de Miel",
+        "url": "https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0"
+      },
+      "artists": [
+        {
+          "name": "Adri Stuven",
+          "url": "https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn"
+        }
+      ],
+      "duration_ms": 140649,
+      "name": "Labios de Miel",
+      "url": "https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Quiero Estar Sola",
+        "url": "https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Colores",
+          "url": "https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan"
+        }
+      ],
+      "duration_ms": 174257,
+      "name": "Quiero Estar Sola",
+      "url": "https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Terracota",
         "url": "https://open.spotify.com/album/5MtnxpR2ErMUS785q1GuJJ"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 241790,
       "name": "Valientes",
       "url": "https://open.spotify.com/track/25PChx1yPUT0BNmNyuxMsh"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Quiero Estar Sola",
-        "url": "https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Colores",
-          "url": "https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan"
-        }
-      ],
-      "duration_ms": 174257,
-      "name": "Quiero Estar Sola",
-      "url": "https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/5lzETSRR6bvofqCfW4VIuS"
-      },
-      "artists": [
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
-        }
-      ],
-      "duration_ms": 232504,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/7AB2GfTdJKMt2NGYsGbYj1"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Lo Que Hay Afuera",
         "url": "https://open.spotify.com/album/3ED3VNY8X9WPtK3LN1Misf"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 206769,
       "name": "Lo Que Hay Afuera",
       "url": "https://open.spotify.com/track/4Vd9rh7HoNEAyBmFNwArrx"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/5lzETSRR6bvofqCfW4VIuS"
+      },
+      "artists": [
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
+        }
+      ],
+      "duration_ms": 232504,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/7AB2GfTdJKMt2NGYsGbYj1"
     },
     {
       "added_at": "2023-10-04 04:00:00",

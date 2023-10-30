@@ -4,7 +4,7 @@
 
 > What's new in Rock this week\. Cover: The Kills
 
-620 songs - 1 day 10 hr 16 min
+621 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,8 @@
 | [Just The Once](https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Just The Once](https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5) | 3:24 | 2023-07-07 | 2023-08-12 |
 | [Karaoke Breakup](https://open.spotify.com/track/6EA052zPI1629cZ32xt690) | [Jade The Moon](https://open.spotify.com/artist/7hpbBkeMZRmBJiK3Vg8KYP) | [Karaoke Breakup](https://open.spotify.com/album/3sBhX1sc7cW9BDasoLpdAY) | 2:35 | 2023-09-29 |  |
 | [keep a window open//](https://open.spotify.com/track/32Y6HMKVOnPXqmtOr8TR4j) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open//](https://open.spotify.com/album/5YJXQWhjuBdthyBOewxTql) | 2:30 | 2023-08-18 | 2023-09-23 |
-| [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 | 2023-10-27 |  |
+| [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 | 2023-10-27 | 2023-10-30 |
+| [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 | 2023-10-27 |  |
 | [Keeping You Alive](https://open.spotify.com/track/3DKHNiRevUbn6NnlyCU8T2) | [Waterfront](https://open.spotify.com/artist/0iFZ2vkAsRYe3J1kE9XjSn) | [Keeping You Alive](https://open.spotify.com/album/0Mvw0AMmFxqRv97lajEjZD) | 3:15 | 2023-09-22 | 2023-10-28 |
 | [Keys Down If You Stay](https://open.spotify.com/track/3vamncl7v4nWvIs9iEnFoF) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Keys Down If You Stay](https://open.spotify.com/album/0i388dpoywonebIluQJNIc) | 3:44 | 2023-04-07 | 2023-04-29 |
 | [Keys Down If You Stay](https://open.spotify.com/track/6CDSQOk2YWOgJ6oecwE4GG) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Keys Down If You Stay](https://open.spotify.com/album/3MitGCRd6KY8Ttqx1G1jlM) | 3:44 | 2023-04-28 | 2023-06-24 |

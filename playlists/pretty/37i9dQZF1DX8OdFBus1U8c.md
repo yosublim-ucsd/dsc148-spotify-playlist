@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : M.H.R, JOKER390P, SA, Dabzee
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,401 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,714 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 4 | [Hey Nima](https://open.spotify.com/track/5PUkJvKMnevgDUktjt5DR2) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Hey Nima](https://open.spotify.com/album/0B36i98w5vbYZv6ZZUX2IY) | 2:44 |
 | 5 | [BANDANA](https://open.spotify.com/track/5n0H86Axz5rqTyv8ljXZ8X) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [BANDANA](https://open.spotify.com/album/4UiGCvmgCLtDvrCBheMLNR) | 2:13 |
 | 6 | [Chekuthan \(Reprise\)](https://open.spotify.com/track/6N0Z9weSdoXUzL0wbqQD4h) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan \(Reprise\)](https://open.spotify.com/album/6Qz3dfZLUwwyvzd6JHxUPa) | 1:40 |
-| 7 | [THALAKKANAM](https://open.spotify.com/track/75Jkb1Zt2KMdcPEwyQZR17) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/0jGhSnF6ThEcKvhBWhbV36) | 2:51 |
+| 7 | [THALAKKANAM](https://open.spotify.com/track/0rirJuOchyc5bDqDpL84YE) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/1FpEMSDbXmzyl2AHpHqEYW) | 2:51 |
 | 8 | [Koode Thullu](https://open.spotify.com/track/2GbsYQkwNsUufkGz5HK4Yz) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [Koode Thullu](https://open.spotify.com/album/1AVtNIwxSSo0pJrPwFuJq5) | 3:46 |
 | 9 | [Christophonk \(From "Christopher"\)](https://open.spotify.com/track/1dZBse9huzwfLqVGZyh7vD) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Christophonk \(From "Christopher"\)](https://open.spotify.com/album/0SV2MCJcut7l3iveH7Bz9i) | 3:03 |
 | 10 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 24 | [PANIPAALI](https://open.spotify.com/track/1BuUtMcQoplYtoiRUTLWTa) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [PANIPAALI](https://open.spotify.com/album/1q5r4D2xFAdPr16F4xYbI1) | 3:40 |
 | 25 | [Malsaram Ennodu Thanne](https://open.spotify.com/track/1jiH9jO3EzQ1BwdCoQXP0R) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Malsaram Ennodu Thanne](https://open.spotify.com/album/50unVeEWf2KAz83YOnU565) | 3:22 |
 | 26 | [Polika Polika \- From "Chaaver"](https://open.spotify.com/track/7gpVfeBCNGiSBeLenyzNqz) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Santhosh Varma](https://open.spotify.com/artist/57muzX4Ow2NbBL4nOa5bvp), [Hareesh Mohanan](https://open.spotify.com/artist/6fdwZleGxZSd7v8A3SNoci) | [Polika Polika \(From "Chaaver"\)](https://open.spotify.com/album/2FxP9wgxKBS9TubbPpTtJx) | 4:44 |
-| 27 | [Voice of Voiceless](https://open.spotify.com/track/0fuSvkUjYtk5iqbyNIptZN) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/2YRk162JljfmD25M71gql8) | 3:06 |
-| 28 | [Arivu](https://open.spotify.com/track/6xnTyRAe61t30jupUkB43e) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Bhoomee](https://open.spotify.com/artist/35tqXRd3TmQyGqnepe6q9Z) | [Arivu](https://open.spotify.com/album/2DOmnGFfrkNq3VhcRfbCMX) | 4:01 |
+| 27 | [Arivu](https://open.spotify.com/track/6xnTyRAe61t30jupUkB43e) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Bhoomee](https://open.spotify.com/artist/35tqXRd3TmQyGqnepe6q9Z) | [Arivu](https://open.spotify.com/album/2DOmnGFfrkNq3VhcRfbCMX) | 4:01 |
+| 28 | [Voice of Voiceless](https://open.spotify.com/track/0fuSvkUjYtk5iqbyNIptZN) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/2YRk162JljfmD25M71gql8) | 3:06 |
 | 29 | [Arbab](https://open.spotify.com/track/4ManWRme0LIg5QDX06V1OY) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Arbab](https://open.spotify.com/album/4zFW5SKlDD2TkeGRKKEv2T) | 2:11 |
 | 30 | [Namma Stories](https://open.spotify.com/track/3RcS3P11j5PL7ttgEG5viZ) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [SIRI](https://open.spotify.com/artist/41wifu6xToBViv1DGicbJj), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Kartik Shah](https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb) | [Namma Stories](https://open.spotify.com/album/4QDOVhXnmdyTc2xWynuCq3) | 3:48 |
 | 31 | [Maniyara](https://open.spotify.com/track/0EkUvVzuPWBrg5ZYy07rab) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Maniyara](https://open.spotify.com/album/0yykuYb8HTFMNUFG7lMi7s) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 49 | [BREAKFAST](https://open.spotify.com/track/6p21ywjrVlUnpmujl4S3dP) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 3:56 |
 | 50 | [Therapara](https://open.spotify.com/track/5bcDMaATnR4HzSHzYjWRNS) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [RAP BHOOSHANAM COCHIN BROTHERS PVT\. LTD.](https://open.spotify.com/album/7ilFtn0ij6e5V8cVVb6VZo) | 2:10 |
 
-Snapshot ID: `MCxlMTA4NGI4OGY4N2NhMTc5MDYzYTk4MGU5YzJiNTJjMGM3MjgyZDYz`
+Snapshot ID: `MCxlZjU5NjczYzZjMTg2NWU4NDczODczNjM4OGEyMzE1NDJkZTA1NmQ5`

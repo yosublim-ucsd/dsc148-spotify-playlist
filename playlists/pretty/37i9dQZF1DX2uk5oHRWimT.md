@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,003 likes - 134 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,052 likes - 134 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 52 | [Silent Night \- Live from Union Chapel](https://open.spotify.com/track/0T4noS4XEjA29LbHXvjLJD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Live from the Union Chapel](https://open.spotify.com/album/0fYKKKV7O4jD8m6o98YJqV) | 3:04 |
 | 53 | [River](https://open.spotify.com/track/6I6JOi3mf6q68dE7JxzYUC) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [River](https://open.spotify.com/album/0hm7I34cnO0hGhLEIe0xlB) | 4:02 |
 | 54 | [Carol of the Banjos](https://open.spotify.com/track/4bXhgzaLGXH71jtqyJ6BPB) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [The Songs the Season Brings, Vols\. 1\-4](https://open.spotify.com/album/6GLUn1i6c7EeyGemSgddOm) | 1:25 |
-| 55 | [Let It Snow](https://open.spotify.com/track/16huApDBMjTwp6wLRmQWRX) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Let It Snow](https://open.spotify.com/album/3Lyt25HbRusLUhqyDkD0jj) | 2:24 |
+| 55 | [Let It Snow](https://open.spotify.com/track/3SAfe0z7ww0NGVxiP1sMy2) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Christmas Together \(Wherever We Are\)](https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx) | 2:24 |
 | 56 | [Sleet and Snow](https://open.spotify.com/track/19PbVUTpF75SeZQpTEUJwM) | [My First Tooth](https://open.spotify.com/artist/2mtHReEeM2MuBaWSY3stG8) | [Sleet and Snow](https://open.spotify.com/album/6IvRuTNcTlPaIosiVlY8Nx) | 3:18 |
 | 57 | [Snow](https://open.spotify.com/track/4yNKWjEFADa5f11RI1DaKC) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:38 |
 | 58 | [How I Know It's Christmas \- Acoustic Piano](https://open.spotify.com/track/44bnKOB8Ztbo8IRTVQQ3hH) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub) | [How I Know It's Christmas with the Rte Concert Orchestra](https://open.spotify.com/album/7chkHHKHVlrMJqmOLiWIJd) | 3:47 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 133 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 134 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MCw3ZGIyYWI0M2Q5YzEwN2ZiNTU3Zjk4NWYyMjcxMmQ3Y2YwMzBlNDRk`
+Snapshot ID: `MCwzMTYyZjZiMjhkNjkyMzg2YjU3ZjgyNTY5NWE4OWU0MGMzZTJiZDI2`

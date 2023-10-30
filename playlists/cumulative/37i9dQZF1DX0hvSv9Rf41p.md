@@ -4,12 +4,12 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Chase & Status
 
-641 songs - 1 day 12 hr 59 min
+642 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Never Gonna\) Be Alone](https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [\(Never Gonna\) Be Alone](https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba) | 3:18 | 2022-06-17 | 2023-07-08 |
-| [24 HRS](https://open.spotify.com/track/17QLFEbGJMGA9iyrkx4jbd) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [24 HRS](https://open.spotify.com/album/433wutKP8SbmE2SxU5N8cc) | 3:01 | 2023-10-06 |  |
+| [24 HRS](https://open.spotify.com/track/17QLFEbGJMGA9iyrkx4jbd) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [24 HRS](https://open.spotify.com/album/433wutKP8SbmE2SxU5N8cc) | 3:01 | 2023-10-06 | 2023-10-30 |
 | [333](https://open.spotify.com/track/14R0uiyPwMZvLsnX0fAQRj) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [333](https://open.spotify.com/album/15qh25JVc2UMCLjxwBL3Dz) | 2:27 | 2022-09-09 | 2023-07-29 |
 | [6am Bounce](https://open.spotify.com/track/3o4JurF32L4msnHzp9hcpI) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [6am Bounce](https://open.spotify.com/album/7KFI76Vox8h6hCCPeB5kVd) | 5:03 | 2023-03-31 | 2023-09-23 |
 | [ACHROMATIC \(YOI\)](https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 01](https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt) | 2:55 | 2022-11-11 | 2023-07-29 |
@@ -82,6 +82,7 @@
 | [BODY SH!T](https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [BODY SH!T](https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr) | 3:04 | 2022-06-17 | 2023-07-08 |
 | [Boom](https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Boom](https://open.spotify.com/album/6AQyzJ4rBD3gryKrKkAeqR) | 3:45 | 2021-12-17 | 2022-03-12 |
 | [BORN TO DIE](https://open.spotify.com/track/34pS1KVbdWpcckfWOIhdtI) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [BORN TO DIE](https://open.spotify.com/album/2Ke0BcTe2c3Dh5LRxzd4cs) | 1:52 | 2023-07-07 |  |
+| [Bounce](https://open.spotify.com/track/43girkLVD5WYKCBMOphHhd) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Portals](https://open.spotify.com/album/4os1LiFckLA5tv0RuD4Mjj) | 3:02 | 2023-10-27 |  |
 | [BOW DOWN](https://open.spotify.com/track/3H4Cu07RHqh83HigtRDYkr) | [ANTAGONÏZER](https://open.spotify.com/artist/3jPeL7fPXnzw5sx6SBjK59), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Crywolf](https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z) | [BOW DOWN](https://open.spotify.com/album/49gv3myZESG0ufbuomnEyy) | 2:56 | 2023-10-27 | 2023-10-29 |
 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 | 2023-07-07 | 2023-09-16 |
 | [Breakdown](https://open.spotify.com/track/1B6Za6s7tPvxU9ISUEgRda) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Breakdown](https://open.spotify.com/album/0Rk5KPioBHSzllCrqI5C15) | 3:18 | 2021-12-17 | 2022-02-19 |

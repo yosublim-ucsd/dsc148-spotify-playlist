@@ -3361,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Tiny Wooden Box",
+        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247813,
+      "name": "Tiny Wooden Box",
+      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
+    },
+    {
+      "album": {
         "name": "The Balladeer",
         "url": "https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX"
       },

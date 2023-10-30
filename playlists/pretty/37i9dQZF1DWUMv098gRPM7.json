@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Chiiild",
-  "num_followers": 7715,
+  "num_followers": 7714,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTdlYjE2OWFkZTk0MjYxOTA1MTkzNWE4ZTkxN2M0ODJhYjM4ODE3",
+  "snapshot_id": "MCw0YjFmZGEyY2FiMzg5Y2JjZTU4MjM0YmM0MGY5ZGViOTY1MjZjMGNj",
   "tracks": [
     {
       "added_at": "2023-10-19 16:05:20",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-10-19 16:05:20",
       "album": {
-        "name": "Eternal Sunshine",
-        "url": "https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 241791,
-      "name": "Eternal Sunshine",
-      "url": "https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC"
-    },
-    {
-      "added_at": "2023-10-19 16:05:20",
-      "album": {
         "name": "Morning After",
         "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 246240,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY"
+    },
+    {
+      "added_at": "2023-10-19 16:05:20",
+      "album": {
+        "name": "Eternal Sunshine",
+        "url": "https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 241791,
+      "name": "Eternal Sunshine",
+      "url": "https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC"
     },
     {
       "added_at": "2023-10-19 16:05:20",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-10-19 16:05:20",
       "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 123966,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
-    },
-    {
-      "added_at": "2023-10-19 16:05:20",
-      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+    },
+    {
+      "added_at": "2023-10-19 16:05:20",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "added_at": "2023-10-19 16:05:20",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-19 16:05:20",
       "album": {
-        "name": "Entice Me",
-        "url": "https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 156874,
-      "name": "Entice Me",
-      "url": "https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE"
-    },
-    {
-      "added_at": "2023-10-19 16:05:20",
-      "album": {
         "name": "Solaris",
         "url": "https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-10-19 16:05:20",
       "album": {
+        "name": "Entice Me",
+        "url": "https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 156874,
+      "name": "Entice Me",
+      "url": "https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE"
+    },
+    {
+      "added_at": "2023-10-19 16:05:20",
+      "album": {
         "name": "Vibe for Me (Bob for Me)",
         "url": "https://open.spotify.com/album/1HKFbE6Qx3xLhPIqxkZUqb"
       },
@@ -1187,6 +1187,26 @@
       "duration_ms": 151055,
       "name": "Vibe for Me (Bob for Me)",
       "url": "https://open.spotify.com/track/0DfvMYHipoZ3u0AJf4LjKF"
+    },
+    {
+      "added_at": "2023-10-19 16:05:20",
+      "album": {
+        "name": "Last One",
+        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        },
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "Last One",
+      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
     },
     {
       "added_at": "2023-10-19 16:05:20",
@@ -1215,26 +1235,6 @@
     {
       "added_at": "2023-10-19 16:05:20",
       "album": {
-        "name": "Last One",
-        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
-      },
-      "artists": [
-        {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        },
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "Last One",
-      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
-    },
-    {
-      "added_at": "2023-10-19 16:05:20",
-      "album": {
         "name": "Talk Luv",
         "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 164468,
       "name": "Talk Luv",
       "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
-    },
-    {
-      "added_at": "2023-10-19 16:05:20",
-      "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "added_at": "2023-10-19 16:05:20",
@@ -1283,6 +1267,22 @@
       "duration_ms": 116571,
       "name": "By My Side (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7"
+    },
+    {
+      "added_at": "2023-10-19 16:05:20",
+      "album": {
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "added_at": "2023-10-19 16:05:20",

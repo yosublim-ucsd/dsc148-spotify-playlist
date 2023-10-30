@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-346 songs - 21 hr 25 min
+347 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Heavy Heart](https://open.spotify.com/track/4ax7gFJPsJlE5RYX8Cg78s) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Heavy Heart](https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68) | 4:23 | 2022-04-11 | 2022-11-13 |
 | [Help Me to Feel Again](https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Help Me to Feel Again](https://open.spotify.com/album/656dTune8st7zgtyUljuGH) | 4:22 | 2022-09-16 | 2023-09-24 |
 | [Help Me to Feel Again](https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Help Me to Feel Again](https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A) | 4:22 | 2021-05-14 | 2022-09-25 |
+| [Help Me To Feel Again](https://open.spotify.com/track/6eYJIGCwT3hFY5Fz8KI8c6) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Help Me To Feel Again](https://open.spotify.com/album/7JaJz2pFwuOs6XdjydJqAR) | 4:22 | 2023-05-26 |  |
 | [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-09-16 | 2022-09-23 |
 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2022-09-16 |  |
 | [Here's To Moving On](https://open.spotify.com/track/0GCngfjdoIbBBPisYkv3Y3) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [All The Truth That I Can Tell](https://open.spotify.com/album/7e8ZKs0jaBUKF0jHjbs0bD) | 4:17 | 2022-09-16 | 2023-04-24 |
@@ -220,7 +221,7 @@
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-04-14 |  |
 | [My Dancer](https://open.spotify.com/track/7qKuDuLsOiDEVtL2rGcvHa) | [Hirsch](https://open.spotify.com/artist/5L0UU9wI651RERYSEddxsa) | [My Dancer](https://open.spotify.com/album/24o4RXQybRaN6RFYFcF9k0) | 3:23 | 2020-11-13 | 2021-11-13 |
 | [My Favourite](https://open.spotify.com/track/3DuI6dh9Zk4rpudUnO7DF7) | [The Coronas](https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1) | [My Favourite](https://open.spotify.com/album/6lXiw1zZo8DR6ro1e2Nykf) | 4:05 | 2020-10-30 | 2021-05-29 |
-| [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 | 2019-06-16\* |  |
+| [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 | 2019-06-16\* | 2023-10-30 |
 | [Nervous System](https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Nervous System](https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr) | 2:37 | 2023-02-17 | 2023-10-01 |
 | [night swimming](https://open.spotify.com/track/0uprppE9hF4TaIuC2h1Zme) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:16 | 2020-04-30 | 2021-11-13 |
 | [No Hard Feelings](https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:35 | 2022-04-11 |  |

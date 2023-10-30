@@ -4,7 +4,7 @@
 
 > El Hip\-Hop Mexicano es único\. Conoce los 50 tracks esenciales de Toy Selectah y Diego Madrigal
 
-50 songs - 3 hr 23 min
+51 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 | 2023-08-08 |  |
 | [Sin Rap No Hay Vida](https://open.spotify.com/track/3dKrmQJqytKDhScy0KlVut) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2), [Son Doobie](https://open.spotify.com/artist/0AQidAQ712Y0M7bDBVg8mz), [Mexakinz](https://open.spotify.com/artist/4cAxfReUD8tNEmcn90MFwG), [Tocadiscos Trez](https://open.spotify.com/artist/3DM2vfPkMCsjFPvHXZgdSv), [Nemesis HCP](https://open.spotify.com/artist/1bGhJsDUmZ2dw3004CcXig) | [Sin Rap No Hay Vida](https://open.spotify.com/album/2q98m8YtkJMX0fw7BeoOHt) | 4:25 | 2023-08-08 |  |
 | [Soñar Despierto](https://open.spotify.com/track/4aB4x0Z55XhXoFAJicD4Un) | [Vándalos](https://open.spotify.com/artist/3xPSsjjsgSBVlBaicYAN4k) | [Rapza 3](https://open.spotify.com/album/2xJT3RAa4WNjHoDceXUhPp) | 4:07 | 2023-08-08 |  |
-| [Sueño de un Writter](https://open.spotify.com/track/6FHEgU5e7wDljxDgnP8Psp) | [Magisterio](https://open.spotify.com/artist/0XkoZO9HrPX0ejS3HSjuk1) | [Cuadrivium Era Deuda](https://open.spotify.com/album/6pVUHBSdOdZLF1A1Jo8tMc) | 4:59 | 2023-08-08 |  |
+| [Sueño de un Writer](https://open.spotify.com/track/2JrUTURPp4leSGwAZuVd6V) | [Magisterio](https://open.spotify.com/artist/0XkoZO9HrPX0ejS3HSjuk1) | [Cuadrivium Era Deuda](https://open.spotify.com/album/66KIVPcyjq6dmHsqh1pmAG) | 4:59 | 2023-08-08 |  |
+| [Sueño de un Writter](https://open.spotify.com/track/6FHEgU5e7wDljxDgnP8Psp) | [Magisterio](https://open.spotify.com/artist/0XkoZO9HrPX0ejS3HSjuk1) | [Cuadrivium Era Deuda](https://open.spotify.com/album/6pVUHBSdOdZLF1A1Jo8tMc) | 4:59 | 2023-08-08 | 2023-10-30 |
 | [Super Mc´s](https://open.spotify.com/track/1k6jHt50arPTiVm2MtFMKx) | [La Real Academia De La Rima](https://open.spotify.com/artist/0KhBKiXLnr0TwhP9XV8Mbg) | [Rapza 5](https://open.spotify.com/album/4DJq3btDQH1rTfYan6ziyu) | 4:46 | 2023-08-08 |  |
 | [Te Ire A Buscar](https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Te Ire A Buscar](https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P) | 3:38 | 2023-08-08 |  |
 | [Todos en la Cuadra Bien Locos \(feat\. C\-kan, Gera MX, Santa Fe Klan & Neto Peña\)](https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 5:49 | 2023-08-08 |  |

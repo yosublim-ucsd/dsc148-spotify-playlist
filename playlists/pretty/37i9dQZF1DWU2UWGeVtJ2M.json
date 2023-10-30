@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 155247,
+  "num_followers": 155310,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGIyMjk0YTA5ODI5ODk2ZjQ4NjU3YTZkZmEwMThmNDQ1ODFmZTg2",
+  "snapshot_id": "MCwxN2YwYWM4YzAwN2M3ZmFkNTQ0NzliYTdjMjg5OWViMGJmZWYyMjdk",
   "tracks": [
     {
       "added_at": "2023-10-23 03:34:58",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-23 03:34:58",
       "album": {
-        "name": "Chilly",
-        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Chilly",
-      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
-    },
-    {
-      "added_at": "2023-10-23 03:34:58",
-      "album": {
         "name": "Fair",
         "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "added_at": "2023-10-23 03:34:58",
+      "album": {
+        "name": "Chilly",
+        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
     },
     {
       "added_at": "2023-10-23 03:34:58",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-23 03:34:58",
       "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 155845,
-      "name": "daydreams",
-      "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
-    },
-    {
-      "added_at": "2023-10-23 03:34:58",
-      "album": {
         "name": "Live or Die",
         "url": "https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 194253,
       "name": "Live or Die",
       "url": "https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD"
+    },
+    {
+      "added_at": "2023-10-23 03:34:58",
+      "album": {
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 155845,
+      "name": "daydreams",
+      "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
     },
     {
       "added_at": "2023-10-23 03:34:58",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-10-23 03:34:58",
       "album": {
-        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
-        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
+        "name": "Amniotic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
         }
       ],
-      "duration_ms": 241661,
-      "name": "A day in the water",
-      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
+      "duration_ms": 274138,
+      "name": "Outgrown",
+      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
     },
     {
       "added_at": "2023-10-23 03:34:58",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-10-23 03:34:58",
       "album": {
-        "name": "Amniotic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
+        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
+        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         }
       ],
-      "duration_ms": 274138,
-      "name": "Outgrown",
-      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
+      "duration_ms": 241661,
+      "name": "A day in the water",
+      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
       "added_at": "2023-10-23 03:34:58",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-23 03:34:58",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
-    },
-    {
-      "added_at": "2023-10-23 03:34:58",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-10-23 03:34:58",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
         }
       ],
-      "duration_ms": 200213,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
+      "duration_ms": 155624,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
     },
     {
       "added_at": "2023-10-23 03:34:58",
@@ -1123,6 +1107,22 @@
       "duration_ms": 216961,
       "name": "What About Me (feat. Sosamann)",
       "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
+    },
+    {
+      "added_at": "2023-10-23 03:34:58",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
     },
     {
       "added_at": "2023-10-23 03:34:58",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-10-23 03:34:58",
       "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
-    },
-    {
-      "added_at": "2023-10-23 03:34:58",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 202230,
       "name": "Revenge Of The Number",
       "url": "https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU"
+    },
+    {
+      "added_at": "2023-10-23 03:34:58",
+      "album": {
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
     },
     {
       "added_at": "2023-10-23 03:34:58",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2023-10-23 03:34:58",
       "album": {
-        "name": "Light (with BENEE)",
-        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
-      },
-      "artists": [
-        {
-          "name": "Finn Falcon",
-          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Light (with BENEE)",
-      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
-    },
-    {
-      "added_at": "2023-10-23 03:34:58",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
@@ -1691,6 +1671,42 @@
     {
       "added_at": "2023-10-23 03:34:58",
       "album": {
+        "name": "Light (with BENEE)",
+        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+      },
+      "artists": [
+        {
+          "name": "Finn Falcon",
+          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Light (with BENEE)",
+      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
+    },
+    {
+      "added_at": "2023-10-23 03:34:58",
+      "album": {
+        "name": "Late (Again)",
+        "url": "https://open.spotify.com/album/1HG8JzEVxRXXl0MyYRjBLz"
+      },
+      "artists": [
+        {
+          "name": "vito.",
+          "url": "https://open.spotify.com/artist/76qlBev2S8MtsJSHxEgoJ0"
+        }
+      ],
+      "duration_ms": 115119,
+      "name": "Late (Again)",
+      "url": "https://open.spotify.com/track/2hSjqnEeGoOQvCOnoMtXWE"
+    },
+    {
+      "added_at": "2023-10-23 03:34:58",
+      "album": {
         "name": "walk but in a garden",
         "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 112500,
       "name": "walk but in a garden (with mxmtoon)",
       "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
-    },
-    {
-      "added_at": "2023-10-23 03:34:58",
-      "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd"
-      },
-      "artists": [
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        }
-      ],
-      "duration_ms": 265185,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

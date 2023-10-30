@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-550 songs - 1 day 10 hr 6 min
+551 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [All The Lilacs In Ohio](https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [All The Lilacs In Ohio](https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au) | 3:29 | 2021-12-17 | 2022-02-23 |
 | [Always Saw Coming](https://open.spotify.com/track/4PkNM6c47VlKeElu3x0Pg0) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Always Saw Coming](https://open.spotify.com/album/6Wu31vZfPvx9L4hBwtJm3b) | 3:03 | 2022-05-20 | 2023-01-21 |
 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 | 2022-06-24 | 2023-09-23 |
-| [Angel](https://open.spotify.com/track/3D4XjhkvYU3F89G9Elok5T) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Angel](https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU) | 5:05 | 2023-10-13 |  |
+| [Angel](https://open.spotify.com/track/3D4XjhkvYU3F89G9Elok5T) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Angel](https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU) | 5:05 | 2023-10-13 | 2023-10-30 |
+| [Angel](https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 5:05 | 2023-10-27 |  |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-22 | 2023-08-26 |
 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-08-19 |  |
 | [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 | 2022-07-22 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-207 songs - 12 hr 32 min
+208 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,9 +103,10 @@
 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 | 2021-11-09 |  |
 | [Joy To The World](https://open.spotify.com/track/2wIcC00knzyI889QUMQy4D) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/26kXeKHRO3RcNbQ5Onc4QQ) | 4:20 | 2021-11-09 | 2022-07-29 |
 | [Last Christmas](https://open.spotify.com/track/09j5YVh6DLMa09PRp51mrE) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ) | [Last Christmas](https://open.spotify.com/album/6XgcGUqv9urCIlq4IVHDsK) | 4:55 | 2021-11-09 |  |
-| [Let It Snow](https://open.spotify.com/track/16huApDBMjTwp6wLRmQWRX) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Let It Snow](https://open.spotify.com/album/3Lyt25HbRusLUhqyDkD0jj) | 2:24 | 2021-11-09 |  |
+| [Let It Snow](https://open.spotify.com/track/16huApDBMjTwp6wLRmQWRX) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Let It Snow](https://open.spotify.com/album/3Lyt25HbRusLUhqyDkD0jj) | 2:24 | 2021-11-09 | 2023-10-30 |
 | [Let It Snow](https://open.spotify.com/track/2QiN8e1mPu7c8XQK6yY7Pu) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Let It Snow](https://open.spotify.com/album/0yuOIJ93GRg2pdhPB6RXaj) | 2:24 | 2021-11-09 | 2022-07-29 |
 | [Let It Snow](https://open.spotify.com/track/2Hc6wztzYdZU3HK2bjfhJO) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [The Christmas EP](https://open.spotify.com/album/1f5F5kSY9oLBWvzTZOXJjO) | 1:27 | 2021-11-09 |  |
+| [Let It Snow](https://open.spotify.com/track/3SAfe0z7ww0NGVxiP1sMy2) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Christmas Together \(Wherever We Are\)](https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx) | 2:24 | 2023-10-16 |  |
 | [Listening To Otis Redding At Home During Christmas](https://open.spotify.com/track/1Hk2eu2DV4hZADjxKSvdqj) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Don't Fall In Love With Everyone You See](https://open.spotify.com/album/6HlkoVhFJSEPEtPhe8PGvT) | 6:36 | 2021-11-09 | 2022-07-29 |
 | [Listening To Otis Redding At Home During Christmas](https://open.spotify.com/track/5RjWj5pWHegnAWqdbVscar) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Don't Fall In Love With Everyone You See](https://open.spotify.com/album/6VjqgRVhLyc7hiWzSDQGEq) | 6:36 | 2021-11-09 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/29fdyIvVGmhRqj0rMOfaJi) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [On Christmas Day](https://open.spotify.com/album/0Enxtkz1M9zc020K4qVrc3) | 3:10 | 2021-11-09 | 2023-10-29 |

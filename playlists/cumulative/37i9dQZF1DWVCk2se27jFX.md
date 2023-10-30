@@ -4,7 +4,7 @@
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Armenia
 
-108 songs - 6 hr 36 min
+109 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Nostalgia Cliché](https://open.spotify.com/track/6w2eyyQPHJQbAXmNZw7aJq) | [Chamo](https://open.spotify.com/artist/5WpP6hj7KfBJVId206LBwH) | [Nostalgia Cliché](https://open.spotify.com/album/6vlKYLwTv4LaI8dYxYLJni) | 2:17 | 2023-09-25 |  |
 | [Nube](https://open.spotify.com/track/2G88FiqMrerjYadftWM9XV) | [Feralucia](https://open.spotify.com/artist/5Cy9hXh0AFvHlRwdzzVPrB) | [Nube](https://open.spotify.com/album/4wKwlbQMRU5jPUAVjVSV7o) | 4:07 | 2023-09-25 |  |
 | [Nuevas Estructuras Atómicas](https://open.spotify.com/track/6kN0lZXKQMR2PkyatuNiIW) | [Flash Amazonas](https://open.spotify.com/artist/7zyZVrH6UjKQmzBb6jehZK) | [Uva\-uva](https://open.spotify.com/album/3l8nuIhkJdH9m20XdT3yon) | 3:10 | 2023-09-25 |  |
-| [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 | 2023-09-25 |  |
+| [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 | 2023-09-25 | 2023-10-30 |
+| [Nómada](https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb) | 4:47 | 2023-10-07 |  |
 | [Odebrecht](https://open.spotify.com/track/4xUO5mZzFCqrjCCIGW17Gk) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Odebrecht](https://open.spotify.com/album/3kaM5FLz3mOlYKtjZnjBFs) | 3:57 | 2023-09-25 |  |
 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 | 2023-09-25 |  |
 | [Piel](https://open.spotify.com/track/2Ak8AtgLD5XVH9MM8TEbBr) | [Sebastián Silva](https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu) | [Piel](https://open.spotify.com/album/1LYJicG4kuAtOxBM0C1rIy) | 3:32 | 2023-09-25 |  |

@@ -4,7 +4,7 @@
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="spotify:artist:0y55D5fL0ywYdEpIQPbwJC">Livt</a>
 
-678 songs - 1 day 7 hr 30 min
+679 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,7 +519,8 @@
 | [River City](https://open.spotify.com/track/6orAlR80bW83kBu27ShyrG) | [Savon](https://open.spotify.com/artist/1Z4kMiUwBM1dkoO6TyXXhn), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [River City](https://open.spotify.com/album/3SJmVt7yTEDCRrsBCkOo1i) | 1:38 | 2022-04-02 | 2022-05-28 |
 | [Roll Call](https://open.spotify.com/track/2prf7fJIT0TzTnyPZcvMhg) | [Segi](https://open.spotify.com/artist/6As9nu15AGSqj7a9t6aKPb), [Ezekiel](https://open.spotify.com/artist/4aDfe0MyUpP2eCx2cZplsr), [QueHurk](https://open.spotify.com/artist/0UkW9pfC7GSbHNZ4AaCf46) | [Movement](https://open.spotify.com/album/0QmRqOJSdWP2MQkcSbRsjD) | 2:35 | 2022-09-30 | 2023-01-14 |
 | [ROPE](https://open.spotify.com/track/039qUan5FNTpAwfWSixGIY) | [Campana](https://open.spotify.com/artist/2364ipmlSnhR9dgygYHkqu), [Dave Shanaé](https://open.spotify.com/artist/5ppKWaWRnYsBET84EoCQ2o), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ) | [ROPE](https://open.spotify.com/album/13dkP0orEbDJcrQ6t6iPNT) | 3:15 | 2023-08-11 | 2023-10-14 |
-| [ROPE \- Sango Remix](https://open.spotify.com/track/0VfrzUCHm1wqQjCTqH5EbG) | [Campana](https://open.spotify.com/artist/2364ipmlSnhR9dgygYHkqu), [Dave Shanaé](https://open.spotify.com/artist/5ppKWaWRnYsBET84EoCQ2o), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [ROPE \(Sango Remix\)](https://open.spotify.com/album/0DusIZLejsXiT9rFVp9zBz) | 3:08 | 2023-10-13 |  |
+| [ROPE \- Sango Remix](https://open.spotify.com/track/01z1dsm09aZE9kseq11JBz) | [Campana](https://open.spotify.com/artist/2364ipmlSnhR9dgygYHkqu), [Dave Shanaé](https://open.spotify.com/artist/5ppKWaWRnYsBET84EoCQ2o), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [ROPE \(Remixes\)](https://open.spotify.com/album/5EGIOt8BpGtR5ll87XOuDn) | 3:08 | 2023-10-28 |  |
+| [ROPE \- Sango Remix](https://open.spotify.com/track/0VfrzUCHm1wqQjCTqH5EbG) | [Campana](https://open.spotify.com/artist/2364ipmlSnhR9dgygYHkqu), [Dave Shanaé](https://open.spotify.com/artist/5ppKWaWRnYsBET84EoCQ2o), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [ROPE \(Sango Remix\)](https://open.spotify.com/album/0DusIZLejsXiT9rFVp9zBz) | 3:08 | 2023-10-13 | 2023-10-30 |
 | [Ross](https://open.spotify.com/track/0JOhI173O0dquJiBzEtOPt) | [Yohiness](https://open.spotify.com/artist/34u4elkICj3ivwWRd4pbPz), [Jo$hua](https://open.spotify.com/artist/7g537OZyWQLAGUz0VdQbGB) | [TUTORIALS](https://open.spotify.com/album/1Egpg1t6RZ3AkmeRpH13Iy) | 2:59 | 2022-07-01 | 2022-07-19 |
 | [Runnin'](https://open.spotify.com/track/7mqqwius6BP6t6W0YNKLbV) | [D\. Mikey](https://open.spotify.com/artist/3hyblRsCHKohmcD8snbAeP) | [Lunch Break](https://open.spotify.com/album/37AUnNenG5qShbu9OSrEma) | 2:24 | 2022-03-18 | 2022-04-02 |
 | [Running Low](https://open.spotify.com/track/2G7iGPGddbQM7qjFnSTMXt) | [James Lite](https://open.spotify.com/artist/7e2dIr2GwZgilIk9CrtUUU) | [Running Low](https://open.spotify.com/album/48Dz09Rknx5O22pmcZYdt4) | 2:24 | 2023-06-23 | 2023-08-26 |

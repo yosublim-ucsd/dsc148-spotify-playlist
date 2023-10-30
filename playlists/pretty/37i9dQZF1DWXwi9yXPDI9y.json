@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 65780,
+  "num_followers": 65926,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWIyYjBjNDgzYTk5M2ExM2YyYWEzMDc1MGIyMmJmZDY0N2I1MzBm",
+  "snapshot_id": "MCwxNDgyYWJkZGFhMDFhODQ0NTRiZGFhMDM4MjA0NmU0MTBmNjE2YTZk",
   "tracks": [
     {
       "added_at": "2023-10-25 13:09:21",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Stairway To The Stars",
-      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 166573,
       "name": "Lover Man (Oh Where Can You Be)",
       "url": "https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Stairway To The Stars",
+      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "I Wished On The Moon - Stereo Version",
-      "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Anita Sings The Most",
         "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
       },
@@ -847,22 +827,6 @@
       "duration_ms": 223893,
       "name": "You Turned The Tables On Me",
       "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "Make The Man Love Me",
-      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -887,6 +851,42 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Make The Man Love Me",
+      "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "I Wished On The Moon - Stereo Version",
+      "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "Steamin' [Rudy Van Gelder edition]",
-        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 467626,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 331213,
       "name": "Prelude To A Kiss",
       "url": "https://open.spotify.com/track/2qnDE0I8n5rKOLfG9fIdqR"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "Steamin' [Rudy Van Gelder edition]",
+        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 467626,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "The Classic Lena Horne",
-        "url": "https://open.spotify.com/album/2feDNzqIwyjntEmwEoqMfm"
-      },
-      "artists": [
-        {
-          "name": "Lena Horne",
-          "url": "https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/301Sxo2jTQH3CBRka9wEK1"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 436573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "The Classic Lena Horne",
+        "url": "https://open.spotify.com/album/2feDNzqIwyjntEmwEoqMfm"
+      },
+      "artists": [
+        {
+          "name": "Lena Horne",
+          "url": "https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/301Sxo2jTQH3CBRka9wEK1"
     },
     {
       "added_at": "2023-10-25 13:09:21",

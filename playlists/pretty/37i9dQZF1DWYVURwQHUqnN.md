@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: Morad x GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,144 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,303 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Pensées noires](https://open.spotify.com/track/10wjcXzC0e5lw99cN4YU7A) | [Mecra Officiel](https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp) | [Pensées noires](https://open.spotify.com/album/4sdwgKGBkbBQpmVXqjx0wg) | 2:37 |
 | 40 | [Liberta](https://open.spotify.com/track/69lKtGrjuqYypkYHm6H2WY) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Liberta](https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn) | 2:28 |
 
-Snapshot ID: `MCxlMzczYTQ4MWYzMTE5OGIyMzc5NDIxZTdhNDU0NzRjNmM2MjM4N2Qw`
+Snapshot ID: `MCxkZmJhNjFmMjgxM2RkM2E2ZTM2MmJkZTg2NDVhOTE1NTU5MjE2YmMy`

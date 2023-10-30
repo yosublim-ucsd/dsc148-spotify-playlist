@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,607 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,744 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [JALSA 2.0 \- From "Mission Raniganj: The Great Bharat Rescue"](https://open.spotify.com/track/4OgcGtcurJBgS7H1iW7peT) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P) | [JALSA 2.0 \(From "Mission Raniganj: The Great Bharat Rescue"\)](https://open.spotify.com/album/0nUDc18ivjvaNEGh7iJKck) | 3:16 |
 | 50 | [Sunny Sunny 2.O](https://open.spotify.com/track/2BrlVkUZz1bnE7RGF7mFRq) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Khaalif](https://open.spotify.com/artist/43wfBC2EqzE6jLYg4rf1gD), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Yaariyan 2](https://open.spotify.com/album/7ae6aMd39gAqmMfaPi9GUY) | 3:34 |
 
-Snapshot ID: `MCxmYTJhYTdmZGRhNjRmYzVmNWUwMDhlZjJmZGM3MDE1ODQ3OWIzM2E1`
+Snapshot ID: `MCwyOGI4NzU0MjQ2N2NmOGNjNTIyYTM0M2NhOTA1YThjMzBkYmMyYmJj`

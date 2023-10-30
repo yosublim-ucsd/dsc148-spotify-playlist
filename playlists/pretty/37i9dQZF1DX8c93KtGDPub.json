@@ -1,12 +1,12 @@
 {
   "description": "Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now. Cover: She & Him\n",
-  "num_followers": 95796,
+  "num_followers": 95806,
   "original_name": "Folksy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzNiOTRlMWM3MDFlOTY3YTcwZGRmMmVjNmYwNjhmZjE5OGY0MzU5",
+  "snapshot_id": "MCwxMTIyOTg4NDllMGNiMTdiMzJjOThiN2YyMjM0YmM2MGM1MzBjMmU2",
   "tracks": [
     {
       "added_at": "2023-10-16 16:19:03",
@@ -1651,10 +1651,14 @@
     {
       "added_at": "2023-10-16 16:19:03",
       "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/6jMJTRRrt71X3uJZ98MT9h"
+        "name": "Christmas Together (Wherever We Are)",
+        "url": "https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx"
       },
       "artists": [
+        {
+          "name": "The Holiday Place",
+          "url": "https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4"
+        },
         {
           "name": "Roses & Revolutions",
           "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
@@ -1662,7 +1666,7 @@
       ],
       "duration_ms": 219775,
       "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/0NI13AjDx03bIKUG4pWW7f"
+      "url": "https://open.spotify.com/track/6QWvGSGhWrgEt9XicZoU73"
     },
     {
       "added_at": "2023-10-16 16:19:03",

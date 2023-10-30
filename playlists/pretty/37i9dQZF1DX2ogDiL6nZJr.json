@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 658737,
+  "num_followers": 659017,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTFjNmEyY2ZiODQ4YmIxOTZmN2RiYzI3YWRlMzllZjcyYTU2MDI5",
+  "snapshot_id": "MCwyZTY4MjRlNjZmY2Q2ZTU5ZTczM2U1YjQyMzdkOWY5ZDIxNGI2NDBk",
   "tracks": [
     {
       "added_at": "2023-10-04 13:49:02",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Golden Rope",
         "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 220275,
       "name": "Golden Rope",
       "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 274423,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 200693,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 200693,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "Man of the Universe",
-      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "The Barrel",
         "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 219510,
       "name": "The Barrel - Edit",
       "url": "https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Man of the Universe",
+      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "My Grandma Says We Have No Future",
-        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "My Grandma Says We Have No Future",
-      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 255970,
       "name": "Riverbank",
       "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "My Grandma Says We Have No Future",
+        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "My Grandma Says We Have No Future",
+      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "I'm Around",
-        "url": "https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        },
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 271854,
-      "name": "I'm Around",
-      "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Hole Digger",
         "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 185076,
       "name": "Hole Digger",
       "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "I'm Around",
+        "url": "https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        },
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 271854,
+      "name": "I'm Around",
+      "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
     },
     {
       "added_at": "2023-10-04 13:49:02",

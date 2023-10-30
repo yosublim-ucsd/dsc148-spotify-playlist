@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 111660,
+  "num_followers": 111780,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzZlNTBiODk4YzdjOTY3MTVjMTg0Mjc4MmQ3YzgzNDhlMTQ4MTJl",
+  "snapshot_id": "MCwyZTA0ZDdmNTdkNzk0NGMxZDJkZTAyZGEyMmIyZjI0NzI5NTlkNTJi",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Midnight In A Perfect World",
-      "url": "https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Red Alert",
         "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 218026,
       "name": "Red Alert - Jaxx Radio Mix",
       "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Midnight In A Perfect World",
+      "url": "https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Since I Left You (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        }
-      ],
-      "duration_ms": 287693,
-      "name": "Frontier Psychiatrist",
-      "url": "https://open.spotify.com/track/3mPJHVpCvzykoxmWnYdnFq"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 117240,
       "name": "Organ Donor",
       "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Since I Left You (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 287693,
+      "name": "Frontier Psychiatrist",
+      "url": "https://open.spotify.com/track/3mPJHVpCvzykoxmWnYdnFq"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Metropol",
-        "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
-      },
-      "artists": [
-        {
-          "name": "Lunatic Calm",
-          "url": "https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX"
-        }
-      ],
-      "duration_ms": 192640,
-      "name": "Leave You Far Behind",
-      "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Flat Beat",
         "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 325173,
       "name": "Flat Beat",
       "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Metropol",
+        "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
+      },
+      "artists": [
+        {
+          "name": "Lunatic Calm",
+          "url": "https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX"
+        }
+      ],
+      "duration_ms": 192640,
+      "name": "Leave You Far Behind",
+      "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
     },
     {
       "added_at": "2021-07-14 17:36:34",

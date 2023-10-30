@@ -575,28 +575,6 @@
     },
     {
       "album": {
-        "name": "Merry Christmas Baby",
-        "url": "https://open.spotify.com/album/1QrvcSGTYq213gxbABZRPA"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mailata",
-          "url": "https://open.spotify.com/artist/5HuUp43KWjjxtmQXB0OlUf"
-        },
-        {
-          "name": "Lady Alma",
-          "url": "https://open.spotify.com/artist/61DvlgEM6AtszTLLPP4diu"
-        }
-      ],
-      "date_added": "2022-12-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 258009,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/00Rlpe9Mh9jxaKf8wIBeHX"
-    },
-    {
-      "album": {
         "name": "Merry Christmas Baby / White Christmas",
         "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
       },
@@ -612,6 +590,32 @@
       "duration_ms": 155560,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/4STCTQ1h0VuWfvDyhGOxkv"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Baby",
+        "url": "https://open.spotify.com/album/1QrvcSGTYq213gxbABZRPA"
+      },
+      "artists": [
+        {
+          "name": "The Philly Specials",
+          "url": "https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX"
+        },
+        {
+          "name": "Lady Alma",
+          "url": "https://open.spotify.com/artist/61DvlgEM6AtszTLLPP4diu"
+        },
+        {
+          "name": "Jordan Mailata",
+          "url": "https://open.spotify.com/artist/5HuUp43KWjjxtmQXB0OlUf"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258009,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/00Rlpe9Mh9jxaKf8wIBeHX"
     },
     {
       "album": {

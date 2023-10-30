@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzQ3NDAwOWViYTJjYWI4NmM0OTdkMGJkYWU3ODU0YzU5ZjA3N2Ex",
+  "snapshot_id": "MCw4ZDlkZTQ1NWE4YzgyMjY4NmVjYmZmNjM1Y2JjZTM1NmNjMDQzOWU0",
   "tracks": [
     {
       "added_at": "2018-12-11 21:48:39",
@@ -695,22 +695,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Wildewoman",
-        "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 275628,
-      "name": "Two of Us On the Run",
-      "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "The Best Of Leonard Cohen",
         "url": "https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 227200,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Wildewoman",
+        "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 275628,
+      "name": "Two of Us On the Run",
+      "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -823,22 +823,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Sprained Ankle",
-        "url": "https://open.spotify.com/album/3DvUGOMZgAr6PaToI7Vwwl"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 232550,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/0BhM0Kr7Gc4uOIdVE3lXvt"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Hello Starling",
         "url": "https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 248453,
       "name": "Kathleen",
       "url": "https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Sprained Ankle",
+        "url": "https://open.spotify.com/album/3DvUGOMZgAr6PaToI7Vwwl"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 232550,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/0BhM0Kr7Gc4uOIdVE3lXvt"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Boxer",
-        "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
+        "name": "Blood from a Stone",
+        "url": "https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
         }
       ],
-      "duration_ms": 269200,
-      "name": "Gospel",
-      "url": "https://open.spotify.com/track/5SA1pmhLHV02cWxPm1t6q3"
+      "duration_ms": 266804,
+      "name": "When the Day Comes",
+      "url": "https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu"
     }
   ],
   "unique_name": "Calm Down",

@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 150000,
       "name": "Ac\u00e9rcate a m\u00ed",
       "url": "https://open.spotify.com/track/5zF2fiVLe317dSh9goEkHD"
@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
+      },
+      "artists": [
+        {
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
+    },
+    {
+      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -610,6 +628,24 @@
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3fn1M68Gh002OTwb34c7Aq"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164324,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5dZ7znkYz4R9zCz8OHj5IK"
     },
     {
       "album": {
@@ -690,7 +726,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 185142,
       "name": "ESQUE T\u00da",
       "url": "https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8"
@@ -1024,6 +1060,28 @@
       "duration_ms": 214789,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/4NIOOtiTugYXemmElAwGNw"
+    },
+    {
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY"
     },
     {
       "album": {
@@ -1366,7 +1424,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 162391,
       "name": "Mi Fantasma",
       "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
@@ -2238,10 +2296,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 161500,
       "name": "WM (Wifey Material)",
       "url": "https://open.spotify.com/track/4QOgJKWvxw48Q97ETW7T6G"
+    },
+    {
+      "album": {
+        "name": "WY@",
+        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208038,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 18687,
+  "num_followers": 18772,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2E2MjkxZDgxMzA5NDNiMTVmYjEzY2RlMjYxOWY4ZjcyOGJhZjQz",
+  "snapshot_id": "MCw3ZDFlMzg5NzRiZDIzZDI3MjYxYjI3MzhlNDM3ZjI2NDljNWE1NDk2",
   "tracks": [
     {
       "added_at": "2023-10-26 13:19:24",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Beneath The Waves",
-        "url": "https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17"
-      },
-      "artists": [
-        {
-          "name": "Joborja Perc",
-          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
-        }
-      ],
-      "duration_ms": 186571,
-      "name": "Blue Reef",
-      "url": "https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "The Heritage",
         "url": "https://open.spotify.com/album/6w1fsIcKWcNijRIEuXl60k"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 216063,
       "name": "The Heritage",
       "url": "https://open.spotify.com/track/66AA3dPMsQt3C0h9zUGejQ"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Beneath The Waves",
+        "url": "https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17"
+      },
+      "artists": [
+        {
+          "name": "Joborja Perc",
+          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+        }
+      ],
+      "duration_ms": 186571,
+      "name": "Blue Reef",
+      "url": "https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Clearings",
-        "url": "https://open.spotify.com/album/60o397RIevLIAx8f17RRss"
-      },
-      "artists": [
-        {
-          "name": "Bellezza Eterna",
-          "url": "https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk"
-        }
-      ],
-      "duration_ms": 160750,
-      "name": "Clearings",
-      "url": "https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "Treetop Whisperer",
         "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Birth",
-        "url": "https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM"
+        "name": "Clearings",
+        "url": "https://open.spotify.com/album/60o397RIevLIAx8f17RRss"
       },
       "artists": [
         {
-          "name": "Nomadias",
-          "url": "https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0"
+          "name": "Bellezza Eterna",
+          "url": "https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk"
         }
       ],
-      "duration_ms": 175802,
-      "name": "Birth",
-      "url": "https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy"
+      "duration_ms": 160750,
+      "name": "Clearings",
+      "url": "https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
+        "name": "Birth",
+        "url": "https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM"
+      },
+      "artists": [
+        {
+          "name": "Nomadias",
+          "url": "https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0"
+        }
+      ],
+      "duration_ms": 175802,
+      "name": "Birth",
+      "url": "https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
         "name": "Clear Thoughts",
         "url": "https://open.spotify.com/album/0EObGlJoKBfBr14MLHKtGn"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 180107,
       "name": "Clear Thoughts",
       "url": "https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
-        "name": "Evening Flute",
-        "url": "https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt"
-      },
-      "artists": [
-        {
-          "name": "Buddha's Flute",
-          "url": "https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl"
-        }
-      ],
-      "duration_ms": 441000,
-      "name": "Evening Flute",
-      "url": "https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
+        "name": "Evening Flute",
+        "url": "https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Flute",
+          "url": "https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl"
+        }
+      ],
+      "duration_ms": 441000,
+      "name": "Evening Flute",
+      "url": "https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
         "name": "Dreamlike",
         "url": "https://open.spotify.com/album/4NBNmYGPv5YK3a8paxryDu"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Treetop Whisperer",
-        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
-      },
-      "artists": [
-        {
-          "name": "Beyond Observable",
-          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
-        }
-      ],
-      "duration_ms": 189380,
-      "name": "Treetop Whisperer",
-      "url": "https://open.spotify.com/track/3UiDIUA8MIxeAlHKQSVi6k"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "Silver Glass",
         "url": "https://open.spotify.com/album/3SDKwHZQNkNkDNzPW6EQLU"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 203442,
       "name": "Silver Glass",
       "url": "https://open.spotify.com/track/270XqXQSdpQrMzf0LCTo1f"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Treetop Whisperer",
+        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "duration_ms": 189380,
+      "name": "Treetop Whisperer",
+      "url": "https://open.spotify.com/track/3UiDIUA8MIxeAlHKQSVi6k"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
+        "name": "Spiritual Echoes",
+        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Spiritual Echoes",
+      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
         "name": "Aamani",
         "url": "https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 151266,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/0Xho0q1PiEDX0jrtxYuBUe"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
-        "name": "Spiritual Echoes",
-        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
-      },
-      "artists": [
-        {
-          "name": "Bernie Longo",
-          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Spiritual Echoes",
-      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Finding Enoughness",
-        "url": "https://open.spotify.com/album/7akNfkNma1LN0Id4yDfBgl"
-      },
-      "artists": [
-        {
-          "name": "Jnana Flow",
-          "url": "https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52"
-        }
-      ],
-      "duration_ms": 142312,
-      "name": "Finding Enoughness",
-      "url": "https://open.spotify.com/track/23aFD6OAXEzALKUdUs8kz9"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "432 Hz Serenity Embrace",
         "url": "https://open.spotify.com/album/66mC8CxQZFCfinlZw5QyTh"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 161647,
       "name": "432 Hz Serenity Embrace",
       "url": "https://open.spotify.com/track/2H1JcyE318d91zg3DXI6Zj"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Finding Enoughness",
+        "url": "https://open.spotify.com/album/7akNfkNma1LN0Id4yDfBgl"
+      },
+      "artists": [
+        {
+          "name": "Jnana Flow",
+          "url": "https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52"
+        }
+      ],
+      "duration_ms": 142312,
+      "name": "Finding Enoughness",
+      "url": "https://open.spotify.com/track/23aFD6OAXEzALKUdUs8kz9"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Rishis",
-        "url": "https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2"
-      },
-      "artists": [
-        {
-          "name": "Skye Saraswati",
-          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
-        }
-      ],
-      "duration_ms": 203310,
-      "name": "Rishis",
-      "url": "https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "Circle of Life",
         "url": "https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 164302,
       "name": "Circle of Life",
       "url": "https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Rishis",
+        "url": "https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2"
+      },
+      "artists": [
+        {
+          "name": "Skye Saraswati",
+          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
+        }
+      ],
+      "duration_ms": 203310,
+      "name": "Rishis",
+      "url": "https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
+        "name": "Awakening Gaia",
+        "url": "https://open.spotify.com/album/5josYCC1kuTj4wnYmnV26X"
+      },
+      "artists": [
+        {
+          "name": "Juno Yang",
+          "url": "https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP"
+        }
+      ],
+      "duration_ms": 141874,
+      "name": "Awakening Gaia",
+      "url": "https://open.spotify.com/track/5eoH9HajJgIynunJ67VMEU"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
         "name": "Opulence",
         "url": "https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 146833,
       "name": "Shimmering",
       "url": "https://open.spotify.com/track/3Cpr7knrKsxYkHACC74ABs"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
-        "name": "Awakening Gaia",
-        "url": "https://open.spotify.com/album/5josYCC1kuTj4wnYmnV26X"
-      },
-      "artists": [
-        {
-          "name": "Juno Yang",
-          "url": "https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP"
-        }
-      ],
-      "duration_ms": 141874,
-      "name": "Awakening Gaia",
-      "url": "https://open.spotify.com/track/5eoH9HajJgIynunJ67VMEU"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
-      },
-      "artists": [
-        {
-          "name": "Full Presence",
-          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
-        }
-      ],
-      "duration_ms": 134349,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "Testanaadee",
         "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 184512,
       "name": "Testanaadee",
       "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "duration_ms": 134349,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
+        "name": "Forgiving the Night",
+        "url": "https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Forgiving the Night",
+      "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
         "name": "Samadhi",
         "url": "https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 172000,
       "name": "Starting Fresh",
       "url": "https://open.spotify.com/track/473jqot4B9jxOm7XiOdSLT"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
-        "name": "Forgiving the Night",
-        "url": "https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD"
-      },
-      "artists": [
-        {
-          "name": "Shorenights",
-          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Forgiving the Night",
-      "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Distant Call",
-        "url": "https://open.spotify.com/album/5EfbJXg23QPARwyBdjnYtd"
-      },
-      "artists": [
-        {
-          "name": "Joborja Perc",
-          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
-        }
-      ],
-      "duration_ms": 185827,
-      "name": "White Stone",
-      "url": "https://open.spotify.com/track/46iDOpQlHuhBlznZapris4"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
         "name": "Essence of Mind",
         "url": "https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 240000,
       "name": "Sparrow Cloud",
       "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Distant Call",
+        "url": "https://open.spotify.com/album/5EfbJXg23QPARwyBdjnYtd"
+      },
+      "artists": [
+        {
+          "name": "Joborja Perc",
+          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+        }
+      ],
+      "duration_ms": 185827,
+      "name": "White Stone",
+      "url": "https://open.spotify.com/track/46iDOpQlHuhBlznZapris4"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -2011,66 +2011,18 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "Captain Speaking",
-        "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
+        "name": "All Love 432 Hz",
+        "url": "https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa"
       },
       "artists": [
         {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+          "name": "Emeli Saga",
+          "url": "https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj"
         }
       ],
-      "duration_ms": 377250,
-      "name": "Captain Speaking",
-      "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
-        "name": "BYND TME",
-        "url": "https://open.spotify.com/album/7tosvh7CaTGdeEMwJ4COao"
-      },
-      "artists": [
-        {
-          "name": "Nico Via",
-          "url": "https://open.spotify.com/artist/0Q0dFhAcaTlfzBowdB7Btt"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "BYND TME",
-      "url": "https://open.spotify.com/track/1h3wacc0OmdTvQOply0ulc"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
-        "name": "Green Haven",
-        "url": "https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q"
-      },
-      "artists": [
-        {
-          "name": "Marolo Ocean",
-          "url": "https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ"
-        }
-      ],
-      "duration_ms": 163436,
-      "name": "Clearing Your Mind",
-      "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
-        "name": "Arrivals",
-        "url": "https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8"
-      },
-      "artists": [
-        {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
-        }
-      ],
-      "duration_ms": 162375,
-      "name": "Arrivals",
-      "url": "https://open.spotify.com/track/6ebuQW1JklhK6vrS02nS8w"
+      "duration_ms": 187202,
+      "name": "All Love 432 Hz",
+      "url": "https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -2091,6 +2043,70 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
+        "name": "Captain Speaking",
+        "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 377250,
+      "name": "Captain Speaking",
+      "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Green Haven",
+        "url": "https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q"
+      },
+      "artists": [
+        {
+          "name": "Marolo Ocean",
+          "url": "https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ"
+        }
+      ],
+      "duration_ms": 163436,
+      "name": "Clearing Your Mind",
+      "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "BYND TME",
+        "url": "https://open.spotify.com/album/7tosvh7CaTGdeEMwJ4COao"
+      },
+      "artists": [
+        {
+          "name": "Nico Via",
+          "url": "https://open.spotify.com/artist/0Q0dFhAcaTlfzBowdB7Btt"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "BYND TME",
+      "url": "https://open.spotify.com/track/1h3wacc0OmdTvQOply0ulc"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "duration_ms": 162375,
+      "name": "Arrivals",
+      "url": "https://open.spotify.com/track/6ebuQW1JklhK6vrS02nS8w"
+    },
+    {
+      "added_at": "2023-10-26 13:19:24",
+      "album": {
         "name": "The Shimmer",
         "url": "https://open.spotify.com/album/6zRUgOuLPUhfBBRtj6eqrt"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 169722,
       "name": "The Shimmer",
       "url": "https://open.spotify.com/track/2FGtHQ3GZHvqZI0xVAvwzI"
-    },
-    {
-      "added_at": "2023-10-26 13:19:24",
-      "album": {
-        "name": "Undertow",
-        "url": "https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4"
-      },
-      "artists": [
-        {
-          "name": "Gleework",
-          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd"
     },
     {
       "added_at": "2023-10-26 13:19:24",
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2023-10-26 13:19:24",
       "album": {
-        "name": "All Love 432 Hz",
-        "url": "https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa"
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4"
       },
       "artists": [
         {
-          "name": "Emeli Saga",
-          "url": "https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj"
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
         }
       ],
-      "duration_ms": 187202,
-      "name": "All Love 432 Hz",
-      "url": "https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX"
+      "duration_ms": 160800,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd"
     },
     {
       "added_at": "2023-10-26 13:19:24",

@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 871927,
+  "num_followers": 871963,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTdhY2FhZWZiNGM0YzM0NzYzYWFkMzczNzA2MzYwNWU1MDEyOGE4",
+  "snapshot_id": "MCxkMzE2NzVlMjZmYjE4NmFhZjZhMmQyZjhiOTkzNmU3NmM1Zjc1Y2M1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Northern Attitude",
         "url": "https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+        "name": "Radiator",
+        "url": "https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
         }
       ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
+      "duration_ms": 234783,
+      "name": "radiator",
+      "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Radiator",
-        "url": "https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA"
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
       "artists": [
         {
-          "name": "Sadurn",
-          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
         }
       ],
-      "duration_ms": 234783,
-      "name": "radiator",
-      "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
+      "duration_ms": 223440,
+      "name": "Mr. Rodriguez",
+      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1347,22 +1363,6 @@
       "duration_ms": 211509,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Imaginary Man",
-        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Mr. Rodriguez",
-      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Carolina Rolling By",
-        "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 295380,
-      "name": "Carolina Rolling By",
-      "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Inwards & Onwards",
         "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Carolina Rolling By",
+        "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 295380,
+      "name": "Carolina Rolling By",
+      "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "What If I EP",
         "url": "https://open.spotify.com/album/2R49Epd53NfwBsHuPO9PZu"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Come June",
-        "url": "https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rowland",
-          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "All The Way Back",
-      "url": "https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Seed of Joy",
         "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
@@ -1555,22 +1539,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -1583,6 +1551,38 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Come June",
+        "url": "https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rowland",
+          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "All The Way Back",
+      "url": "https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Western White Pines (Deluxe)",
-        "url": "https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 278256,
-      "name": "Cherokee Rose",
-      "url": "https://open.spotify.com/track/0gMbLowa83Vxrkmy1tfdgk"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 248853,
       "name": "April",
       "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Western White Pines (Deluxe)",
+        "url": "https://open.spotify.com/album/6FhBeqNsOEnj1RHGeVlgae"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "duration_ms": 278256,
+      "name": "Cherokee Rose",
+      "url": "https://open.spotify.com/track/0gMbLowa83Vxrkmy1tfdgk"
     },
     {
       "added_at": "2023-10-20 04:00:00",

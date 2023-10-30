@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,701 likes - 79 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,799 likes - 79 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,18 +59,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 49 | [Lloviendo Estrellas](https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Summer Pack](https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm) | 2:15 |
 | 50 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 |
 | 51 | [Quiero Verte](https://open.spotify.com/track/68hs0QwwcssOzKuqZgonw7) | [Lelé](https://open.spotify.com/artist/30zaUiWxGl2IDR0dTiRrXO), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Quiero Verte](https://open.spotify.com/album/2gnITQUWyhtqnZn6DgcjoI) | 3:52 |
-| 52 | [Corazón Salvaje](https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 4:27 |
+| 52 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 |
 | 53 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 |
-| 54 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 |
+| 54 | [Corazón Salvaje](https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 4:27 |
 | 55 | [Salvaje](https://open.spotify.com/track/0GH7oknphO2UXvCdQSEwko) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:53 |
 | 56 | [Te Daría](https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 2:42 |
 | 57 | [La Araña](https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Mala Sangre](https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7) | 2:29 |
 | 58 | [A Escondidas](https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG) | [Emanuel Ortega](https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg) | [Momentos](https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV) | 3:51 |
 | 59 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \[Vivo\]](https://open.spotify.com/track/5R0lYQFdOTYaX3K2QUkaOI) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Gamba \- Los Retro](https://open.spotify.com/album/2Y8xORMOnz6pfEr1yrjmjx) | 3:54 |
 | 60 | [Hablo Con Vos \(feat\. Nahuel Barbero\)](https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Nahuel Barbero](https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:51 |
-| 61 | [Tormento de Amor](https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Eclipse](https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS) | 3:45 |
+| 61 | [Moscas en la Casa](https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Mujer & Ego](https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ) | 3:34 |
 | 62 | [Abrazarnos](https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 3:34 |
-| 63 | [Moscas en la Casa](https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Mujer & Ego](https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ) | 3:34 |
+| 63 | [Tormento de Amor](https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Eclipse](https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS) | 3:45 |
 | 64 | [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 |
 | 65 | [Maldita Noche](https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b) | [Bandana](https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k) | [Bandana](https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj) | 3:25 |
 | 66 | [Una Lágrima y Un Beso](https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Una Lágrima y Un Beso](https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS) | 3:20 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 78 | [Hace frío ya](https://open.spotify.com/track/7l2pUd2jBCYxSBLwqzOrfk) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Hormonal](https://open.spotify.com/album/56DSf4tGPPYKHl1LExWwKl) | 2:33 |
 | 79 | [Cambiar El Mundo](https://open.spotify.com/track/2k2xtMvEvDMs3e14CIteDp) | [El Purre](https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel) | [Cambiar El Mundo](https://open.spotify.com/album/6pI0aOVKei9UgFn2kw0KSX) | 3:16 |
 
-Snapshot ID: `MCwyYjc1OGUyODNmMTA5NmQzZGUwZGM0YTA3NDRmODRkOWZlNDllMWQ2`
+Snapshot ID: `MCw1Y2I4NzFmYzgwNTE2YTcwYmE5MTMwNTIzZjdkYjRkNzZhY2U2NTA5`

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 175697,
+  "num_followers": 175744,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj",
+  "snapshot_id": "MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -963,6 +963,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "duration_ms": 160979,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Color de Alegr\u00eda",
         "url": "https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 161479,
       "name": "Color de Alegr\u00eda",
       "url": "https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        }
-      ],
-      "duration_ms": 160979,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "NO ME MOVER\u00c9",
-        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Isaac Rojas",
-          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
-        }
-      ],
-      "duration_ms": 186660,
-      "name": "NO ME MOVER\u00c9",
-      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Cielo",
         "url": "https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 188800,
       "name": "Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "NO ME MOVER\u00c9",
+        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Isaac Rojas",
+          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
+        }
+      ],
+      "duration_ms": 186660,
+      "name": "NO ME MOVER\u00c9",
+      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Yo Te Mir\u00e9",
-        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Yo Te Mire",
-      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "No Tiene Sentido",
         "url": "https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 253388,
       "name": "No Tiene Sentido",
       "url": "https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Yo Te Mir\u00e9",
+        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Yo Te Mire",
+      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
-      },
-      "artists": [
-        {
-          "name": "Rubinsky Rbk",
-          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
-        },
-        {
-          "name": "MC Ari",
-          "url": "https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW"
-        }
-      ],
-      "duration_ms": 217695,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "El Fuego",
         "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 190095,
       "name": "El Fuego",
       "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "MC Ari",
+          "url": "https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW"
+        }
+      ],
+      "duration_ms": 217695,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X"
     },
     {
       "added_at": "2022-08-27 05:04:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Jillian Mercado
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,857 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,835 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 30 | [Pardonne\-moi](https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pardonne\-moi](https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9) | 3:07 |
 | 31 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 32 | [Stand Up \(From Harriet\)](https://open.spotify.com/track/3wNNbf63xkxw9rIVWtFy7a) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Stand Up \(From Harriet\)](https://open.spotify.com/album/2csFa6zpizG4hDUqQgj95C) | 5:03 |
-| 33 | [Ma muse](https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ma muse / Je t'haine](https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H) | 2:58 |
-| 34 | [Independent Women, Pt\. 1](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:41 |
+| 33 | [Independent Women, Pt\. 1](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:41 |
+| 34 | [Ma muse](https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ma muse / Je t'haine](https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H) | 2:58 |
 | 35 | [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 |
 | 36 | [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 |
 | 37 | [Syntymäpäivä! \(Vielä KRRAN jee\)](https://open.spotify.com/track/558Lsb6twiXsgxhaHxyEoh) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:06 |
 | 38 | [La Prendo](https://open.spotify.com/track/6t48UVZvQWh5wWfWlCZfzY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Prendo](https://open.spotify.com/album/4eCRi01qxklHWrG0sIra8x) | 3:01 |
 | 39 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 |
-| 40 | [Kollage](https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:16 |
-| 41 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 |
+| 40 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 |
+| 41 | [Kollage](https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:16 |
 | 42 | [SALVAJE](https://open.spotify.com/track/0INArSC37ezsIj4b2G3S1L) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SALVAJE](https://open.spotify.com/album/4Tb5qho45suRbRG3gPfA5L) | 3:25 |
 | 43 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 |
 | 44 | [Freedom \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/7aBxcRw77817BrkdPChAGY) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:49 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 67 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 68 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 |
 | 69 | [imposter syndrome](https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears](https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn) | 3:15 |
-| 70 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 |
-| 71 | [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdiği Şarkılar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:16 |
+| 70 | [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdiği Şarkılar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:16 |
+| 71 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 |
 | 72 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 |
 | 73 | [m00d](https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [m00d](https://open.spotify.com/album/5zFqEhDGip3zPPvLshFeDk) | 3:04 |
 | 74 | [Fly By](https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Fly By](https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4) | 3:21 |
 | 75 | [Tem Dendê/Figa de Guiné \- Ao Vivo](https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Tem Dendê/Figa de Guiné \(Ao Vivo\)](https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp) | 3:32 |
 
-Snapshot ID: `MCxjNmFhZmU3ZjY4NTRhZWI0YmZlYzc4YmVhNDA2N2I1ZGNiN2I0OWI3`
+Snapshot ID: `MCwzZDZjOTlmZjQwNTQ5MWNkZmEwMGJiNGMwODBiNzVjYjhkNjA4NWI3`

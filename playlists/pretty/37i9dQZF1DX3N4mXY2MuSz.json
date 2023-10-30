@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. Cover: The Linda Lindas",
-  "num_followers": 45881,
+  "num_followers": 45899,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzU2Nzg3Y2E2ZmU2NjZiMDY2NWY1OGU4ZWE3ZWRkMzJmMzBlYjky",
+  "snapshot_id": "MCwyMzM0NWViN2EwNTdmY2JiZWNkZGMxYjQ0MTQ3NTQ3MmM1ZTM0NzRk",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 188031,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Gift Wrapped: 20 Songs That Keep On Giving",
         "url": "https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 224586,
       "name": "All I Want for Christmas Is You - 2005",
       "url": "https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 188031,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -409,20 +409,20 @@
       "url": "https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO"
     },
     {
-      "added_at": "2021-11-19 13:39:50",
+      "added_at": "2022-11-18 01:09:25",
       "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+        "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB"
       },
       "artists": [
         {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
         }
       ],
-      "duration_ms": 214733,
-      "name": "This Holiday",
-      "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
+      "duration_ms": 126144,
+      "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -441,20 +441,20 @@
       "url": "https://open.spotify.com/track/02SAP5qoj5GWubcKJDgXX9"
     },
     {
-      "added_at": "2022-11-18 01:09:25",
+      "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
-        "url": "https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB"
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
       "artists": [
         {
-          "name": "Patrick Stump",
-          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
         }
       ],
-      "duration_ms": 126144,
-      "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
-      "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
+      "duration_ms": 214733,
+      "name": "This Holiday",
+      "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "I'm With You",
-        "url": "https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 244932,
-      "name": "I'm With You",
-      "url": "https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Christmas (Baby Please Come Home)",
         "url": "https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 187355,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "I'm With You",
+        "url": "https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 244932,
+      "name": "I'm With You",
+      "url": "https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Spirit...In My House",
-        "url": "https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv"
-      },
-      "artists": [
-        {
-          "name": "Joey Ramone",
-          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 227973,
       "name": "Merry Christmas, Happy Holidays",
       "url": "https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Spirit...In My House",
+        "url": "https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv"
+      },
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
     },
     {
       "added_at": "2021-11-19 13:39:50",

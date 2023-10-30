@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > we hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,168,758 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,168,834 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 29 | [Hard Times](https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:03 |
 | 30 | [Hollow Prayers](https://open.spotify.com/track/08uumZhgj0kq2AbQUoONHm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:46 |
 | 31 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
-| 32 | [i'll never fall in love with myself \- demo](https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN) | 1:47 |
-| 33 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
+| 32 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
+| 33 | [i'll never fall in love with myself \- demo](https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN) | 1:47 |
 | 34 | [I'm Not Enough and I'm Sorry](https://open.spotify.com/track/7DMMYxniMtUtiyAgjUVHCD) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [I'm Not Enough and I'm Sorry](https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l) | 2:00 |
 | 35 | [Take Me Back](https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Take Me Back](https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq) | 3:20 |
 | 36 | [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 45 | [I Can't Hate You](https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Can't Hate You](https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc) | 2:58 |
 | 46 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
 | 47 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 |
-| 48 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
-| 49 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 |
+| 48 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 |
+| 49 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
 | 50 | [what does he have that i don't?](https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP) | 1:31 |
 | 51 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 |
 | 52 | [curse,](https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [curse,](https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO) | 3:58 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 60 | [trust exercises](https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [trust exercises](https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8) | 3:34 |
 | 61 | [please never fall in love again](https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8) | [Feyesal](https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf), [Ollie MN](https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk) | [please never fall in love again](https://open.spotify.com/album/4ITVAD8V9UWaLKDzMfP4Hd) | 2:37 |
 | 62 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 |
-| 63 | [Right Before My Eyes \- Unpeeled](https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 4:40 |
-| 64 | [Emerald Eyes](https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:59 |
+| 63 | [Emerald Eyes](https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:59 |
+| 64 | [Right Before My Eyes \- Unpeeled](https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 4:40 |
 | 65 | [i'd rather be alone](https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1) | [boodahki](https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ) | [i'd rather be alone](https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV) | 2:22 |
 | 66 | [willow](https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [willow](https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv) | 3:32 |
 | 67 | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 99 | [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 |
 | 100 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
 
-Snapshot ID: `MCxmNGZkNzllMmJiYTAyZjRlNTYzMDk3NTNlMmZkY2I3Zjg5NzczOGVm`
+Snapshot ID: `MCw5YWUwNzgxY2E2Zjg5ODI1ODU1YWY5MDY3NGM1YzQ5ZTllZDc5Y2U2`

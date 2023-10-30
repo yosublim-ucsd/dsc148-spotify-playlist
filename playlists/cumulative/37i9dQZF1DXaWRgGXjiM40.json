@@ -910,7 +910,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 173503,
       "name": "Nem Doeu - Ao Vivo",
       "url": "https://open.spotify.com/track/260n4ECk9j4IEvTAVBYojl"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 208930,
       "name": "Nessas Horas - Ao Vivo",
       "url": "https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ"
@@ -994,6 +994,28 @@
       "duration_ms": 182340,
       "name": "Notifica\u00e7\u00e3o Preferida - Ao Vivo",
       "url": "https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Fala N\u00e3o pra Mim",
+        "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
+      },
+      "artists": [
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "N\u00e3o Fala N\u00e3o pra Mim",
+      "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"
     },
     {
       "album": {
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 165380,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia"

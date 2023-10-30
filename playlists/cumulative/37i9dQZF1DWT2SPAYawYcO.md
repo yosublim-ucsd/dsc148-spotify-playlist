@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Angie McMahon
 
-1,856 songs - 4 day 4 hr 10 min
+1,858 songs - 4 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,7 +839,8 @@
 | [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-23 | 2023-06-30 |
 | [i've got a bf \(best friend\)](https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [i've got a bf \(best friend\)](https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec) | 2:28 | 2023-07-07 | 2023-07-14 |
 | [ICE COLD ZEL FREESTYLE \[Feat\. ICECOLDBISHOP\]](https://open.spotify.com/track/4P6ivDGUbbfXWpFJVyzV6s) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [BLOOD ON MY NIKEZ](https://open.spotify.com/album/6XJQyWSjUaPb0M30hX2QU8) | 1:39 | 2023-08-03 | 2023-08-11 |
-| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-26 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-27 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-26 | 2023-10-30 |
 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2023-08-24 | 2023-09-01 |
 | [If Not Now](https://open.spotify.com/track/0jcrLdLqajmCRCkoa1rBbO) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [If Not Now](https://open.spotify.com/album/1iPnfAQkApgaxX6Yy7WTc9) | 3:15 | 2023-08-31 | 2023-09-08 |
 | [If Not Now](https://open.spotify.com/track/7HDCdkFhCUzLhq2OyUpa19) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [If Not Now](https://open.spotify.com/album/4cvPswcUC5sdp8mq0FIJrB) | 3:15 | 2023-08-31 | 2023-09-02 |
@@ -912,7 +913,8 @@
 | [Karma](https://open.spotify.com/track/12dXnIPZSQy66NSJLsSJtN) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Karma](https://open.spotify.com/album/6biBN2b9A7LuLIN2gOWCKE) | 3:35 | 2023-06-15 | 2023-06-23 |
 | [Kat Food](https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks) | 4:46 | 2023-08-31 | 2023-09-08 |
 | [keep a window open//](https://open.spotify.com/track/32Y6HMKVOnPXqmtOr8TR4j) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open//](https://open.spotify.com/album/5YJXQWhjuBdthyBOewxTql) | 2:30 | 2023-08-17 | 2023-08-25 |
-| [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 | 2023-10-26 |  |
+| [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 | 2023-10-26 | 2023-10-30 |
+| [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 | 2023-10-27 |  |
 | [Keep Going Up \(with Nelly Furtado & Justin Timberlake\)](https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Keep Going Up](https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c) | 2:54 | 2023-08-31 | 2023-09-08 |
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-17 | 2023-08-25 |
 | [Keep Rolling On](https://open.spotify.com/track/5zfrhORiDGhtslnlcsXJen) | [Yirrmal](https://open.spotify.com/artist/4rHLbr6edktdv6RnVrf0Y7) | [Keep Rolling On](https://open.spotify.com/album/0IEaG7cqZ9itaOYOwR7ZUi) | 3:54 | 2023-10-12 | 2023-10-20 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,044 likes - 119 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,063 likes - 119 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Young In America](https://open.spotify.com/track/0Ef2EJ0YndF0GZMQHsrOvt) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Young In America](https://open.spotify.com/album/1ZIQTACUeZjcf9xHHvCpQp) | 3:44 |
 | 2 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 |
-| 3 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
+| 3 | [More Than a Love Song](https://open.spotify.com/track/38D3zXvwHjwtGMUSO4mOmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 4:47 |
 | 4 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 |
 | 5 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 |
 | 6 | [Normal People Things](https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Normal People Things](https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC) | 2:44 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 28 | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/track/1na4kP9vFyaXHq8ZOGOC16) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/album/6XAKGZmFNNij9L9dYTAznJ) | 3:51 |
 | 29 | [Losing My Head](https://open.spotify.com/track/71dHLCNMxrjaI7kGDiwZc3) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Losing My Head](https://open.spotify.com/album/3ewbI9zp1l3LFG8cKp234k) | 3:19 |
 | 30 | [The Dead Come Talking](https://open.spotify.com/track/30rgtGTl30WcfiyDDqo94A) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [The Dead Come Talking](https://open.spotify.com/album/3BxsQSkKIAP9bMWA706L1u) | 2:13 |
-| 31 | [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 |
+| 31 | [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 |
 | 32 | [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 |
 | 33 | [Spider Bites](https://open.spotify.com/track/2mv5dA8av1yu8bRKtTw2Z5) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [History Books](https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ) | 4:19 |
 | 34 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 118 | [Shame](https://open.spotify.com/track/13swfFYhwoWSLEapqzKuOu) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Shame](https://open.spotify.com/album/3eRKQENql7BXinKBXp5HMU) | 2:34 |
 | 119 | [Impressively Average](https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Impressively Average](https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv) | 3:18 |
 
-Snapshot ID: `MCw4NjhjNWI1MjgxNzFkYzEyZjY2ZGUwZTVhNGM3YTg3YTNlMDcwODgx`
+Snapshot ID: `MCw4ZDNkY2YxYmUyYWI4OGU4OGNlYmQwNDcxNjkyNjI1N2FjMzFhNzE1`

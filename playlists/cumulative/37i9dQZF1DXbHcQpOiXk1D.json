@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 389240,
       "name": "Feet Down South",
       "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
@@ -5997,6 +5997,24 @@
     },
     {
       "album": {
+        "name": "Gift from the Trees",
+        "url": "https://open.spotify.com/album/0ENdkZVVDwCrMhdl29Ccdl"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312438,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/2WY3akDTRwojfbqQWNfSAP"
+    },
+    {
+      "album": {
         "name": "Nightingale",
         "url": "https://open.spotify.com/album/1jxTVeRziaAzk8drcOh3II"
       },
@@ -6434,6 +6452,24 @@
       "duration_ms": 472733,
       "name": "Pace",
       "url": "https://open.spotify.com/track/6bfUKVbNibJV0sjzNNjgSM"
+    },
+    {
+      "album": {
+        "name": "Palms",
+        "url": "https://open.spotify.com/album/222ggbqdnLF0dXZ5L86YO9"
+      },
+      "artists": [
+        {
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171612,
+      "name": "Palms",
+      "url": "https://open.spotify.com/track/1ogAD0gX8Bp0lfPyqYBy8s"
     },
     {
       "album": {
@@ -7544,7 +7580,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 204270,
       "name": "Slice",
       "url": "https://open.spotify.com/track/6SR5Lk3NYfaiEFm2ZhG9mC"

@@ -4,11 +4,11 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-751 songs - 1 day 21 hr 9 min
+752 songs - 1 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Round Midnight](https://open.spotify.com/track/1FOI8dkOH27cv1FC7ZFOEp) | [Corey Christopher Wright](https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk) | ['Round Midnight](https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9) | 5:21 | 2022-06-28 |  |
+| ['Round Midnight](https://open.spotify.com/track/1FOI8dkOH27cv1FC7ZFOEp) | [Corey Christopher Wright](https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk) | ['Round Midnight](https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9) | 5:21 | 2022-06-28 | 2023-10-30 |
 | [24 hour stopover](https://open.spotify.com/track/5CBaikcT4Gx8iO8jQvmyDU) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [24 hour stopover](https://open.spotify.com/album/69bmlnzNWsVBzfuNPrxjLB) | 3:25 | 2023-09-08 |  |
 | [A Capriscious Stroll](https://open.spotify.com/track/7CnLK8jEEL1O7VcK2nHrx2) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [A Capriscious Stroll](https://open.spotify.com/album/10DBsEqIxXYAgK2bUXpaw4) | 3:24 | 2023-06-15 |  |
 | [A Certain Smile](https://open.spotify.com/track/4ln4s0kVCZyH0lK6MioPYk) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [A Certain Smile](https://open.spotify.com/album/40ynWeqMktudTHSlnMBmsS) | 3:50 | 2023-04-20 |  |
@@ -468,6 +468,7 @@
 | [My Simple Thing](https://open.spotify.com/track/1GxMQS2PB67WbWEyUPo5Ig) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:01 | 2022-06-28 |  |
 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-02-02 |  |
 | [My Words Are Not Enough](https://open.spotify.com/track/37nnBZliiFwBAYZolb1e0W) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [My Words Are Not Enough](https://open.spotify.com/album/0j6u4s9bsjhp1lLHA6PAic) | 2:42 | 2023-03-23 |  |
+| [Need to walk away](https://open.spotify.com/track/1i0cUjwJ9D9Cw236RLs2dB) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Need to walk away](https://open.spotify.com/album/2t1a03eUM5YwLjc0m09yTD) | 3:24 | 2023-10-27 |  |
 | [Neither am I](https://open.spotify.com/track/0YPtESitV9bG5IYkW2IUEp) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Neither am I](https://open.spotify.com/album/4VOjaVWr7ggqYvdxliXxhI) | 3:17 | 2023-09-01 |  |
 | [Never Let Me Go](https://open.spotify.com/track/6JqS6NY4vXjP9sTAwH8k6N) | [Alexander Martin Jazz Trio](https://open.spotify.com/artist/5OBtP3zDHNFdzP9cO0eHSm) | [Lil' Darlin'](https://open.spotify.com/album/6PYtdDNbiWRopTRvYUbjPh) | 4:18 | 2022-06-28 |  |
 | [Never Let Me Go](https://open.spotify.com/track/25VqRlCspcn3W04pGctbcn) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Never Let Me Go](https://open.spotify.com/album/19Nia0TNGcaQFU2xI86mwg) | 4:14 | 2023-06-15 | 2023-09-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 19420,
+  "num_followers": 19543,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzNjNWE5ODliYzA0YWQ0MDliZWZlYTIzYmE4Y2VjMjUwOTRmMWFl",
+  "snapshot_id": "MCw2ZThhYzc5MGZlNDc2MjE3ZjU0NGYxMTJhOGE1ZGMxZjg4MTQ4ZDgy",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Mis Exitos Vol.1",
-        "url": "https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x"
-      },
-      "artists": [
-        {
-          "name": "Richie Cepeda",
-          "url": "https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "La Fotografia",
-      "url": "https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Esc\u00fachame",
         "url": "https://open.spotify.com/album/1O4E5VYQQeZX7GMkRjZn6r"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 237560,
       "name": "Que Levante la Mano",
       "url": "https://open.spotify.com/track/0zg7eikeFzJg2GZcNZi24l"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Mis Exitos Vol.1",
+        "url": "https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x"
+      },
+      "artists": [
+        {
+          "name": "Richie Cepeda",
+          "url": "https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "La Fotografia",
+      "url": "https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Otro Dia Mas Sin Verte",
-        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
-      },
-      "artists": [
-        {
-          "name": "Sandy Reyes",
-          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
-        }
-      ],
-      "duration_ms": 287623,
-      "name": "Mi Novia, Mi Amante y Mujer",
-      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Mis Exitos Vol.1",
         "url": "https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 285293,
       "name": "Asesina",
       "url": "https://open.spotify.com/track/4GBckDRx31bcHW13OCV61W"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Otro Dia Mas Sin Verte",
+        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
+      },
+      "artists": [
+        {
+          "name": "Sandy Reyes",
+          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
+        }
+      ],
+      "duration_ms": 287623,
+      "name": "Mi Novia, Mi Amante y Mujer",
+      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Majao Majao",
-        "url": "https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 285626,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Rey De Corazones",
         "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 281400,
       "name": "Quiero Saber de T\u00ed",
       "url": "https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Majao Majao",
+        "url": "https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 285626,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "La Negra Mia",
-        "url": "https://open.spotify.com/album/4t7DGFShnFDkOWneDiLDHC"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Maldita Sea",
-      "url": "https://open.spotify.com/track/6LbzQKMKllO8zPSQlXMqxG"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Los Merengues Del Casandra",
         "url": "https://open.spotify.com/album/15iyNrNKUEhvdkytaMoVoR"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 287226,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/0MhCXhIUk0T9GMQdkPjWHw"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "La Negra Mia",
+        "url": "https://open.spotify.com/album/4t7DGFShnFDkOWneDiLDHC"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Maldita Sea",
+      "url": "https://open.spotify.com/track/6LbzQKMKllO8zPSQlXMqxG"
     },
     {
       "added_at": "2021-10-19 17:28:22",

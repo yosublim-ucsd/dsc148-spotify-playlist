@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Chayanne
 
-636 songs - 1 day 9 hr 32 min
+638 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,8 +173,9 @@
 | [Dos Días en la Vida \- EADDA9223](https://open.spotify.com/track/4oDx5VoqSQJCduO5J5A8MB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:08 | 2023-06-02 | 2023-10-14 |
 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 | 2023-09-08 |  |
 | [Dos Locos](https://open.spotify.com/track/6xI2oRtvOrf4YQVyHbrToe) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 3:00 | 2023-07-28 |  |
+| [DOS PRIMAVERAS](https://open.spotify.com/track/0gltYhk3XykdEGLstAKXD0) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 2:55 | 2023-10-27 |  |
 | [DOS PRIMAVERAS](https://open.spotify.com/track/15WUEbZiVlMktscw1mse4X) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 2:55 | 2023-07-14 | 2023-07-26 |
-| [DOS PRIMAVERAS](https://open.spotify.com/track/2pcclsBymXTtQ1j8lMK3Aj) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 2:55 | 2023-09-08 |  |
+| [DOS PRIMAVERAS](https://open.spotify.com/track/2pcclsBymXTtQ1j8lMK3Aj) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 2:55 | 2023-09-08 | 2023-10-30 |
 | [DOS PRIMAVERAS](https://open.spotify.com/track/4OpzznhpDY6UfXbapDEAJF) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 2:55 | 2023-07-21 | 2023-09-14 |
 | [Down](https://open.spotify.com/track/55SBsj6T7muoDtMcUX5feZ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:44 | 2023-05-05 | 2023-07-29 |
 | [Drip Splash \(feat\. Polimá Westcoast & ARON\)](https://open.spotify.com/track/4sIQDTbwH0G3ebd0mtGaQd) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 4:38 | 2023-03-31 | 2023-07-08 |
@@ -367,7 +368,8 @@
 | [Media Pastiii](https://open.spotify.com/track/00QAvytbxEUAT0xGBFLVaT) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:38 | 2023-07-21 |  |
 | [MENEITO](https://open.spotify.com/track/4h5PTubUItiSzhy36isv8r) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 3:18 | 2023-07-21 | 2023-09-14 |
 | [MENEITO](https://open.spotify.com/track/4xXhSiRr4K81p9QcaS10ZK) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 3:18 | 2023-07-14 | 2023-07-26 |
-| [MENEITO](https://open.spotify.com/track/5yDfF1BfIkPb0o4j3EL1Ha) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 3:18 | 2023-09-08 |  |
+| [MENEITO](https://open.spotify.com/track/5S9Rlg9AF2C2imYS52J2vR) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:18 | 2023-10-27 |  |
+| [MENEITO](https://open.spotify.com/track/5yDfF1BfIkPb0o4j3EL1Ha) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 3:18 | 2023-09-08 | 2023-10-30 |
 | [Mentirás](https://open.spotify.com/track/3swNw2hAxwQ4xcJ6RcWr5O) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:36 | 2023-03-24 | 2023-07-01 |
 | [Merengón](https://open.spotify.com/track/3LZJoLaRpja9mt7A1GQLJs) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Lágrimas](https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT) | 3:58 | 2023-04-21 | 2023-07-15 |
 | [Mexican Heaven](https://open.spotify.com/track/0YzkYtsG5jFfK1k22n3kCz) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:00 | 2023-01-27 | 2023-05-13 |

@@ -486,7 +486,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 166556,
       "name": "Cancion Mexicana",
       "url": "https://open.spotify.com/track/1pg0HSVFiMq63vpFc2sO11"
@@ -3670,6 +3670,24 @@
       "duration_ms": 165405,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/4DrxITDkVND3H3ptCuCvab"
+    },
+    {
+      "album": {
+        "name": "Presenting Los Panchos",
+        "url": "https://open.spotify.com/album/5z5Ak2HJTugn1QCPgTkAxp"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165413,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/2Opi06HxyP4GNjMVn0yRP3"
     },
     {
       "album": {

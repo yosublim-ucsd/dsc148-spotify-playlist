@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 501485,
+  "num_followers": 501623,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTZjYTU1YTNlOGM3ZGM1ZWZjNjI3ZmY5YWU5MTMzZWU2YzQ0MDk0",
+  "snapshot_id": "MCwxNGQ4ZjMxODU5N2MzMmIxNTg5MjI4N2JiMTNiZTVlNTBmYTczMzFj",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 217212,
       "name": "Shallow - Radio Edit",
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "When The Lights Go Down",
         "url": "https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 195173,
       "name": "Catch & Release - Deepend Remix",
       "url": "https://open.spotify.com/track/11BAVEGi1ivJ6JWLqKUNrZ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Freya Ridings",
-        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 220413,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Take It All Away (U.S. Version)",
-        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
-      },
-      "artists": [
-        {
-          "name": "Ryan Cabrera",
-          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "True",
-      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
         "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Take It All Away (U.S. Version)",
+        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Cabrera",
+          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "True",
+      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 221706,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1397,6 +1397,22 @@
       "url": "https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR"
     },
     {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "1973 - Acoustic",
+      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
+    },
+    {
       "added_at": "2023-04-14 07:38:09",
       "album": {
         "name": "3000\u00b0",
@@ -1415,22 +1431,6 @@
       "duration_ms": 202755,
       "name": "I'm Baby (ft. Jvck James)",
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "1973 - Acoustic",
-      "url": "https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Same Kind Of Different (Acoustic)",
-        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 203262,
-      "name": "Need You Now - Acoustic",
-      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Love & Hate",
         "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 165986,
       "name": "I'll Never Love",
       "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Same Kind Of Different (Acoustic)",
+        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 203262,
+      "name": "Need You Now - Acoustic",
+      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/2NqU0KLx0Wp0dYZywmV55z"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 250701,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/1CxR9OHSHSxl8kgSl5HViD"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Know-It-All (Deluxe)",
         "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
       },
@@ -1809,22 +1793,6 @@
       "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
     },
     {
-      "added_at": "2023-04-21 11:59:42",
-      "album": {
-        "name": "Talk Luv",
-        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 164468,
-      "name": "Talk Luv",
-      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Crowded Places",
@@ -1839,6 +1807,22 @@
       "duration_ms": 262259,
       "name": "Crowded Places",
       "url": "https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1"
+    },
+    {
+      "added_at": "2023-04-21 11:59:42",
+      "album": {
+        "name": "Talk Luv",
+        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 164468,
+      "name": "Talk Luv",
+      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 205583,
+      "name": "For You - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Greatest Covers Ever",
         "url": "https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts"
       },
@@ -1875,22 +1875,6 @@
       "duration_ms": 217864,
       "name": "Fast Car - Acoustic",
       "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205583,
-      "name": "For You - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2027,6 +2011,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "So Close To Magic",
+        "url": "https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 202289,
+      "name": "So Close To Magic",
+      "url": "https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Heaven on Earth",
         "url": "https://open.spotify.com/album/08R8TFMIdn2IwhDOmfKmqA"
       },
@@ -2047,18 +2047,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "So Close To Magic",
-        "url": "https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
       },
       "artists": [
         {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         }
       ],
-      "duration_ms": 202289,
-      "name": "So Close To Magic",
-      "url": "https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg"
+      "duration_ms": 190104,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2075,22 +2075,6 @@
       "duration_ms": 211316,
       "name": "May I Have This Dance",
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 190104,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
     },
     {
       "added_at": "2023-02-13 10:37:00",
@@ -2239,6 +2223,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Super",
         "url": "https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6"
       },
@@ -2255,22 +2255,6 @@
       "duration_ms": 181812,
       "name": "Super",
       "url": "https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
     },
     {
       "added_at": "2023-04-21 12:01:04",
@@ -2375,18 +2359,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Song For A Friend",
-        "url": "https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I"
+        "name": "Baby Teeth",
+        "url": "https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht"
       },
       "artists": [
         {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
         }
       ],
-      "duration_ms": 236478,
-      "name": "Song For A Friend",
-      "url": "https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV"
+      "duration_ms": 211826,
+      "name": "Joshua",
+      "url": "https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2407,34 +2391,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Baby Teeth",
-        "url": "https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht"
+        "name": "Song For A Friend",
+        "url": "https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I"
       },
       "artists": [
         {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
         }
       ],
-      "duration_ms": 211826,
-      "name": "Joshua",
-      "url": "https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Rebekah - EP",
-        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
-      },
-      "artists": [
-        {
-          "name": "Jack Vallier",
-          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
-        }
-      ],
-      "duration_ms": 200747,
-      "name": "Rebekah",
-      "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
+      "duration_ms": 236478,
+      "name": "Song For A Friend",
+      "url": "https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2451,6 +2419,22 @@
       "duration_ms": 204333,
       "name": "If the Creek Don't Rise",
       "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Rebekah - EP",
+        "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
+      },
+      "artists": [
+        {
+          "name": "Jack Vallier",
+          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
+        }
+      ],
+      "duration_ms": 200747,
+      "name": "Rebekah",
+      "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2499,6 +2483,26 @@
       "duration_ms": 226750,
       "name": "Heights",
       "url": "https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Put D'Angelo On",
+        "url": "https://open.spotify.com/album/5q2vdfrE0ISHmaP8IsBLAt"
+      },
+      "artists": [
+        {
+          "name": "Bailey Wiley",
+          "url": "https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO"
+        },
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        }
+      ],
+      "duration_ms": 187438,
+      "name": "Put D'Angelo On",
+      "url": "https://open.spotify.com/track/21ZFqw29FHcfR50XTuuTIK"
     },
     {
       "added_at": "2023-02-10 11:00:00",

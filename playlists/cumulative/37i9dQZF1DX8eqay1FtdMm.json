@@ -3083,6 +3083,24 @@
     },
     {
       "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216013,
+      "name": "I'll Always Be With You",
+      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
+    },
+    {
+      "album": {
         "name": "I'm glad I waited",
         "url": "https://open.spotify.com/album/51DBWkJfpGcqLC5CxvYCKZ"
       },
@@ -5080,7 +5098,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"

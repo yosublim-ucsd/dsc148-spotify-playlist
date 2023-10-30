@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Manuel Medrano",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Loyal Lobos",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Amores Prestados (Pt. 1)",
+        "url": "https://open.spotify.com/album/3sVsdIw45I4vbjoK5Lowit"
+      },
+      "artists": [
+        {
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157843,
+      "name": "Beatriz",
+      "url": "https://open.spotify.com/track/5cK1zvYTFLjgEasUpEYoAj"
+    },
+    {
+      "album": {
         "name": "Bella (Remix)",
         "url": "https://open.spotify.com/album/4cEUisPsjbps3zDPV3pcnm"
       },
@@ -538,7 +556,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 176056,
       "name": "Cuando Te Encuentre",
       "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
@@ -578,6 +596,24 @@
       "duration_ms": 195552,
       "name": "C\u00e1mara Lenta",
       "url": "https://open.spotify.com/track/2Ur0FiCEof5GoKsZDR9eyR"
+    },
+    {
+      "album": {
+        "name": "Demasiado Lejos",
+        "url": "https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179123,
+      "name": "Demasiado Lejos",
+      "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
     },
     {
       "album": {
@@ -1220,7 +1256,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 221429,
       "name": "Lo Que Falta De M\u00ed",
       "url": "https://open.spotify.com/track/3egTDzqctMyQ8VVxNDpycu"
@@ -2252,7 +2288,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 245760,
       "name": "Si T\u00fa Est\u00e1s Conmigo",
       "url": "https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t"
@@ -2570,6 +2606,24 @@
       "duration_ms": 192346,
       "name": "Tengo Que Partir",
       "url": "https://open.spotify.com/track/5NP1C17UB2I1UN2a9Tkx2o"
+    },
+    {
+      "album": {
+        "name": "LOBA Vol. I",
+        "url": "https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173642,
+      "name": "Tengo Sed",
+      "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 52224,
+  "num_followers": 52236,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDQ3ZTc2NTA0MDg5NjZhMGZkYzcwNTQ2Zjc0YTAxZDNlMjVhMTQ5",
+  "snapshot_id": "MCxhMTI4OTBiOWUxNGE5MmVmMmY2NjQ5MjJmODRhYzI4ZTJlNDUwNTQw",
   "tracks": [
     {
       "added_at": "2023-10-13 22:20:24",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
         "name": "Christmas, With Love",
         "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 239586,
       "name": "One More Sleep",
       "url": "https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Les nuits de Repentigny",
-        "url": "https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc"
+        "name": "No\u00ebl avec Jireh Gospel Choir",
+        "url": "https://open.spotify.com/album/3nR7D8rkYHXIQG80R3EpFf"
       },
       "artists": [
         {
-          "name": "Les Cowboys Fringants",
-          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+          "name": "Mario Pelchat",
+          "url": "https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz"
         }
       ],
-      "duration_ms": 255327,
-      "name": "No\u00ebl brun",
-      "url": "https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj"
+      "duration_ms": 233066,
+      "name": "No\u00ebl \u00e0 J\u00e9rusalem",
+      "url": "https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "No\u00ebl avec Jireh Gospel Choir",
-        "url": "https://open.spotify.com/album/3nR7D8rkYHXIQG80R3EpFf"
+        "name": "Les nuits de Repentigny",
+        "url": "https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc"
       },
       "artists": [
         {
-          "name": "Mario Pelchat",
-          "url": "https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz"
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
         }
       ],
-      "duration_ms": 233066,
-      "name": "No\u00ebl \u00e0 J\u00e9rusalem",
-      "url": "https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79"
+      "duration_ms": 255327,
+      "name": "No\u00ebl brun",
+      "url": "https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Reprises Vol.1",
-        "url": "https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0"
-      },
-      "artists": [
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 186376,
-      "name": "Le sentier de neige",
-      "url": "https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
         "name": "Sainte Nuit",
         "url": "https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 174866,
       "name": "L'enfant au tambour",
       "url": "https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "Reprises Vol.1",
+        "url": "https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 186376,
+      "name": "Le sentier de neige",
+      "url": "https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1651,22 +1651,34 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Six heures d'avion nous s\u00e9parent",
-        "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
+        "name": "No\u00ebl tout blanc (feat. Marc-Andr\u00e9 Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de D\u00e9cembre) [D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime]",
+        "url": "https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ"
       },
       "artists": [
         {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          "name": "Qu\u00e9bec Issime",
+          "url": "https://open.spotify.com/artist/7gtD7XIKiUOORajXTt6bO7"
         },
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "Marc-Andr\u00e9 Fortin",
+          "url": "https://open.spotify.com/artist/2DwEhYCcTcVbqoSFwaxuhI"
+        },
+        {
+          "name": "Alexandre Lapointe",
+          "url": "https://open.spotify.com/artist/04mRH0TRHwKcPf5PxqJBfO"
+        },
+        {
+          "name": "Natalie Byrns",
+          "url": "https://open.spotify.com/artist/3oztZVgQ27wNBMDttJskLO"
+        },
+        {
+          "name": "Les Enfants de D\u00e9cembre",
+          "url": "https://open.spotify.com/artist/4oPfByw3kxFBch8bD3cjAI"
         }
       ],
-      "duration_ms": 168400,
-      "name": "Six heures d'avion nous s\u00e9parent",
-      "url": "https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp"
+      "duration_ms": 189474,
+      "name": "No\u00ebl tout blanc - D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime",
+      "url": "https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX"
     },
     {
       "added_at": "2023-10-13 22:20:24",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 4112390,
+  "num_followers": 4112817,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2E3MmE0NDI2NTE5NzMxNDdkN2UzNDAzNDdmMzFlN2VlNWUwZDQ3",
+  "snapshot_id": "MCxmMjM2OTU0M2VmNzk5NTIyY2FiY2EzN2YxMzQ1Y2FlNjU3Mjc3MzAw",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+        "name": "La Nave del Olvido",
+        "url": "https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
+      "duration_ms": 215400,
+      "name": "La Nave del Olvido",
+      "url": "https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "La Nave del Olvido",
-        "url": "https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ"
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 215400,
-      "name": "La Nave del Olvido",
-      "url": "https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG"
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Una Estrella En El Cielo",
+        "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
+      "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Negroklaro",
         "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
       },
@@ -1243,22 +1263,6 @@
       "duration_ms": 221293,
       "name": "S\u00f3lo D\u00e9jate Amar",
       "url": "https://open.spotify.com/track/7mUFcQWYwoRxRa5ZfI2mHG"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "M\u00e1tame",
-        "url": "https://open.spotify.com/album/7M8QOj2t3BIVeODclyoPRq"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 155710,
-      "name": "M\u00e1tame",
-      "url": "https://open.spotify.com/track/6VA26TYfNOZmzXxoxoe1Qr"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Una Estrella En El Cielo",
-        "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
+        "name": "M\u00e1tame",
+        "url": "https://open.spotify.com/album/7M8QOj2t3BIVeODclyoPRq"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 210466,
-      "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
-      "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
+      "duration_ms": 155710,
+      "name": "M\u00e1tame",
+      "url": "https://open.spotify.com/track/6VA26TYfNOZmzXxoxoe1Qr"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Tiburones",
-        "url": "https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 193975,
-      "name": "Tiburones",
-      "url": "https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "A Flor De Piel",
         "url": "https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 229493,
       "name": "Por El Amor De Una Mujer",
       "url": "https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Tiburones",
+        "url": "https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 193975,
+      "name": "Tiburones",
+      "url": "https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM"
     },
     {
       "added_at": "2023-10-27 04:00:00",

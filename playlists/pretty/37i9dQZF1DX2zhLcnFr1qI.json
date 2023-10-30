@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 53526,
+  "num_followers": 53561,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDA4NjI3MTYwM2YzYjg0ZDFiYjUwNTQ2MGNmNjExYTQzZjIyYTdl",
+  "snapshot_id": "MCwxMzk0NzQxNzNlM2FlY2JhYzNmNjcwOWJkYTlhYjZhMzc4MzAxYWQ1",
   "tracks": [
     {
       "added_at": "2023-10-26 20:40:56",
@@ -343,22 +343,22 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
-        "name": "A Very Decent Christmas 4",
-        "url": "https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g"
+        "name": "Caro\u0308l Von Holz",
+        "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+          "name": "Holzbl\u00e4ser",
+          "url": "https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL"
         }
       ],
-      "duration_ms": 193846,
-      "name": "Christmas Trees",
-      "url": "https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx"
+      "duration_ms": 254971,
+      "name": "Caro\u0308l Von Holz",
+      "url": "https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -383,22 +383,22 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
-        "name": "Caro\u0308l Von Holz",
-        "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
+        "name": "A Very Decent Christmas 4",
+        "url": "https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
-          "name": "Holzbl\u00e4ser",
-          "url": "https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL"
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
         }
       ],
-      "duration_ms": 254971,
-      "name": "Caro\u0308l Von Holz",
-      "url": "https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD"
+      "duration_ms": 193846,
+      "name": "Christmas Trees",
+      "url": "https://open.spotify.com/track/5QfF5xitFXtiqLBS3vdRkx"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
-        "name": "Wonderful Time",
-        "url": "https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL"
-      },
-      "artists": [
-        {
-          "name": "NOVA WAV",
-          "url": "https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        }
-      ],
-      "duration_ms": 161157,
-      "name": "Wonderful Time",
-      "url": "https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N"
-    },
-    {
-      "added_at": "2023-10-26 20:40:56",
-      "album": {
         "name": "Christmas Days",
         "url": "https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 196636,
       "name": "Christmas Days",
       "url": "https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ"
+    },
+    {
+      "added_at": "2023-10-26 20:40:56",
+      "album": {
+        "name": "Wonderful Time",
+        "url": "https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL"
+      },
+      "artists": [
+        {
+          "name": "NOVA WAV",
+          "url": "https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "duration_ms": 161157,
+      "name": "Wonderful Time",
+      "url": "https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N"
     },
     {
       "added_at": "2023-10-26 20:40:56",
@@ -731,22 +731,18 @@
     {
       "added_at": "2023-10-26 20:40:56",
       "album": {
-        "name": "Jingle Bells X Deck the Halls",
-        "url": "https://open.spotify.com/album/25UjFOoZbJOx0jg1QWXg8n"
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu"
       },
       "artists": [
         {
-          "name": "Khalil Ramos",
-          "url": "https://open.spotify.com/artist/5PuOmp0NiyY5kU1fgccHxU"
-        },
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
         }
       ],
-      "duration_ms": 157972,
-      "name": "Jingle Bells X Deck the Halls",
-      "url": "https://open.spotify.com/track/4w1maTceOzURZYKqDzninf"
+      "duration_ms": 233900,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC"
     }
   ],
   "unique_name": "Electronic Christmas",

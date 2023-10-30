@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > Disfrutemos del amor en los tiempos del rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,250 likes - 103 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,282 likes - 103 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 10 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 11 | [Mañana](https://open.spotify.com/track/696c9iYCZloDcTmB3lStdC) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Mañana](https://open.spotify.com/album/6m3XECdFtdnTqy1mplUb5R) | 4:28 |
 | 12 | [Es Clara](https://open.spotify.com/track/4qjbWPK08sOcDls6mURNSu) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Clara](https://open.spotify.com/album/01AWewQ88qLqXKxHinZf6y) | 3:47 |
-| 13 | [Inhabitable](https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Inhabitable](https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG) | 2:47 |
+| 13 | [Inhabitable](https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Inhabitable](https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG) | 2:47 |
 | 14 | [Tu Nombre](https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Tu Nombre](https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB) | 2:55 |
 | 15 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 |
 | 16 | [las calles de mi ciudad](https://open.spotify.com/track/5wPC3oJqHkrFqnpO5Hk2q9) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [las calles de mi ciudad](https://open.spotify.com/album/2UA7eyMtgoFEqkR4U3eQ1S) | 3:09 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 102 | [Dime](https://open.spotify.com/track/3kgBm26rI8faWMTxyzyJF3) | [Polaris](https://open.spotify.com/artist/4f8qDCXvGLNPj783d6PTWS) | [Dime](https://open.spotify.com/album/3Q8Wtw6UB5xLQQ15tb7z9B) | 3:01 |
 | 103 | [Amar No Es Poseer](https://open.spotify.com/track/3MhHgwjIvlWhg64zcwJlhx) | [Sol Flamingo](https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr) | [Amar No Es Poseer](https://open.spotify.com/album/2KO7mImTyuul1RLM8XRb1m) | 3:19 |
 
-Snapshot ID: `MCxjNzEzODAyMjYwYjhlNmI3YjZkMDc2OTA0MDUwYmYwYzAxNTA2YjM1`
+Snapshot ID: `MCxlMTk2NzlhNGJiYWExMWJmMjQ4YTE5NGJjZGUyY2ViMDhjZjg2MTRj`

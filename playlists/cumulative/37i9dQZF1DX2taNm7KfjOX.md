@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Mitski
 
-539 songs - 1 day 9 hr 43 min
+540 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Brisbane](https://open.spotify.com/track/5dM2L19MdawMyQw3nSUsFQ) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Brisbane](https://open.spotify.com/album/5gpHY3opXOnjD074pF2JKR) | 3:17 | 2022-04-13 | 2022-07-05 |
 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2023-04-28 |  |
 | [Bud](https://open.spotify.com/track/5q9FAPRXpXyy6xI2hgq8I7) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Bud](https://open.spotify.com/album/0So4agcAlpswj4ZsG1oJfa) | 3:35 | 2022-04-13 | 2022-04-20 |
-| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-08-04 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 | 2023-10-13 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-08-04 | 2023-10-30 |
 | [Bullet Proof](https://open.spotify.com/track/2bgBA5NPkIzokTUBlHNnJl) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Bullet Proof](https://open.spotify.com/album/6ef1FrYO777nfeS6xHwKPM) | 4:10 | 2021-10-22 | 2022-07-28 |
 | [Bullet Proof](https://open.spotify.com/track/5EeknyLWmFqn1pP8wNiDXv) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj) | 4:10 | 2022-10-14 | 2022-11-13 |
 | [Burn Too Bright](https://open.spotify.com/track/7zADZr2fslOAQg0gG058bA) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Burn Too Bright](https://open.spotify.com/album/4kknAHtSAQdx2dOl7SR85w) | 2:59 | 2021-10-22 | 2022-07-29 |

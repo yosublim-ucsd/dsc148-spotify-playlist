@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: YO\u00daN",
-  "num_followers": 164275,
+  "num_followers": 164296,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTI3NDRmOWM4OWU2YWJjYmQyMTI2NWIzM2ZjMzY2YjhjZDU1ODA1",
+  "snapshot_id": "MCwwZTlhMmEzOGNkNjI1OWE5YTY3YWNiNmZmMmYzNjU1OTdjZTQ2NDA0",
   "tracks": [
     {
       "added_at": "2023-10-27 03:01:00",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Censura e Prazer",
         "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
@@ -403,26 +423,6 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
         "name": "Vestido Vermelho",
         "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
       },
@@ -435,22 +435,6 @@
       "duration_ms": 170588,
       "name": "Vestido Vermelho",
       "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Sem T\u00e9dio",
-        "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
-      },
-      "artists": [
-        {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
-        }
-      ],
-      "duration_ms": 180454,
-      "name": "Sem T\u00e9dio",
-      "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -471,6 +455,22 @@
       "duration_ms": 172800,
       "name": "Localiza\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Sem T\u00e9dio",
+        "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
+      },
+      "artists": [
+        {
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        }
+      ],
+      "duration_ms": 180454,
+      "name": "Sem T\u00e9dio",
+      "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -519,46 +519,6 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/08tpiPjnSV3WujNwdrGeeq"
       },
@@ -575,6 +535,26 @@
       "duration_ms": 178181,
       "name": "Solo",
       "url": "https://open.spotify.com/track/1RNaYWa47ci3S75qifl7si"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -603,6 +583,42 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
+      },
+      "artists": [
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "duration_ms": 177715,
+      "name": "Depois da Briga",
+      "url": "https://open.spotify.com/track/3Oec1XgUMdF58bIRlK40Qt"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
       },
@@ -615,6 +631,34 @@
       "duration_ms": 184489,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        },
+        {
+          "name": "Briozzini",
+          "url": "https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj"
+        }
+      ],
+      "duration_ms": 204937,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -651,74 +695,6 @@
       "duration_ms": 211524,
       "name": "Mergulhei",
       "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
-        },
-        {
-          "name": "Briozzini",
-          "url": "https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj"
-        }
-      ],
-      "duration_ms": 204937,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "S\u00f3 Vem",
-        "url": "https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC"
-      },
-      "artists": [
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        }
-      ],
-      "duration_ms": 177715,
-      "name": "Depois da Briga",
-      "url": "https://open.spotify.com/track/3Oec1XgUMdF58bIRlK40Qt"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Bal\u00e9",
-        "url": "https://open.spotify.com/album/20Eeg7wH8X8Se1dylEDOzB"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "JovemBlues",
-          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
-        },
-        {
-          "name": "Malibbre",
-          "url": "https://open.spotify.com/artist/67T2348EyWZ8v3mHJD2T4K"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Bal\u00e9",
-      "url": "https://open.spotify.com/track/7AD5Hbzsh4zsHCBDeMAqJh"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -763,6 +739,30 @@
       "duration_ms": 195291,
       "name": "Ch\u00e1zinho",
       "url": "https://open.spotify.com/track/65NHHBrdCc5PuZkSFyICC2"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Bal\u00e9",
+        "url": "https://open.spotify.com/album/20Eeg7wH8X8Se1dylEDOzB"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "JovemBlues",
+          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
+        },
+        {
+          "name": "Malibbre",
+          "url": "https://open.spotify.com/artist/67T2348EyWZ8v3mHJD2T4K"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Bal\u00e9",
+      "url": "https://open.spotify.com/track/7AD5Hbzsh4zsHCBDeMAqJh"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -871,6 +871,62 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
+      },
+      "artists": [
+        {
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+        }
+      ],
+      "duration_ms": 115306,
+      "name": "A Nossa Brisa",
+      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "GUAPA",
+        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
+      },
+      "artists": [
+        {
+          "name": "Matheus Queiroz",
+          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+        }
+      ],
+      "duration_ms": 139270,
+      "name": "GUAPA",
+      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Quem Vai Fazer Voc\u00ea Feliz?",
         "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
@@ -895,38 +951,6 @@
       "duration_ms": 250032,
       "name": "Quem Vai Fazer Voc\u00ea Feliz?",
       "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
-      },
-      "artists": [
-        {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
-        }
-      ],
-      "duration_ms": 115306,
-      "name": "A Nossa Brisa",
-      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
-      },
-      "artists": [
-        {
-          "name": "Feh",
-          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -967,6 +991,46 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Lingerie Branca",
         "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
       },
@@ -1003,46 +1067,6 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
         "name": "Eterno Esquema",
         "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
       },
@@ -1059,22 +1083,6 @@
       "duration_ms": 133564,
       "name": "Eterno Esquema",
       "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1107,6 +1115,22 @@
       "duration_ms": 198712,
       "name": "Tudo Que Restou",
       "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1151,6 +1175,22 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Distante",
         "url": "https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8"
       },
@@ -1167,22 +1207,6 @@
       "duration_ms": 129427,
       "name": "Distante",
       "url": "https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1243,30 +1267,6 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Seu Bem",
-        "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
-      },
-      "artists": [
-        {
-          "name": "LEXY",
-          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
-        },
-        {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
-        },
-        {
-          "name": "RZ",
-          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Seu Bem",
-      "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
         "name": "O Que Eu Soul (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
@@ -1291,26 +1291,26 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "GUAPA",
-        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
+        "name": "Seu Bem",
+        "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
       },
       "artists": [
         {
-          "name": "Matheus Queiroz",
-          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+          "name": "LEXY",
+          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
         },
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
         },
         {
-          "name": "Douglas Moda",
-          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+          "name": "RZ",
+          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
         }
       ],
-      "duration_ms": 139270,
-      "name": "GUAPA",
-      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
+      "duration_ms": 207000,
+      "name": "Seu Bem",
+      "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
     },
     {
       "added_at": "2023-10-27 03:01:00",

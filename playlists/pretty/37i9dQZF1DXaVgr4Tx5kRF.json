@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 635132,
+  "num_followers": 635474,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTRiNjgyMzdiZTBmOTYzNWMwNjE0NzUwNjFlMmFkNThjNDgyZjMz",
+  "snapshot_id": "MCw1NTdiYWUwOGExMjU5MjY2ZWYzODY5NjBjYTUxOWZjY2I4YjIxYmNk",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Some Friendly",
-        "url": "https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u"
-      },
-      "artists": [
-        {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "The Only One I Know",
-      "url": "https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Elastica",
         "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 140480,
       "name": "Connection",
       "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Some Friendly",
+        "url": "https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "The Only One I Know",
+      "url": "https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "The Greatest Hits: Why Try Harder",
         "url": "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 240933,
       "name": "Brimful Of Asha - Norman Cook Remix Single Version",
       "url": "https://open.spotify.com/track/6gbdLLUhocAjThL3GvV6Lx"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Tellin' Stories",
-        "url": "https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv"
-      },
-      "artists": [
-        {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
-        }
-      ],
-      "duration_ms": 269773,
-      "name": "One To Another",
-      "url": "https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 199773,
       "name": "Slight Return",
       "url": "https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Tellin' Stories",
+        "url": "https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "duration_ms": 269773,
+      "name": "One To Another",
+      "url": "https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc"
     },
     {
       "added_at": "2022-05-04 17:11:49",

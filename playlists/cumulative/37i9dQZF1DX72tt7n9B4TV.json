@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 257946,
       "name": "Never Ending Moment",
       "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
@@ -2408,6 +2408,32 @@
       "duration_ms": 206186,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/60CirPlTOEWOUBus7HxV3B"
+    },
+    {
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/7oVipLJJdxen8nkWcTcR0h"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        },
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194789,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/03etxbfv7ZxcmG9Yfs2ZFl"
     },
     {
       "album": {

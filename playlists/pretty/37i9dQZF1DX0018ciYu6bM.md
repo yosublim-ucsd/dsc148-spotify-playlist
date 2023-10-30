@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: Coogie
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,437 likes - 86 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,638 likes - 86 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 85 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 |
 | 86 | [BOOM](https://open.spotify.com/track/7snU7ER25gz87VKZ53ejS8) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [BOOM](https://open.spotify.com/album/0CbRdyt9PYDl0aHBw5ZTYM) | 3:15 |
 
-Snapshot ID: `MCxlZjM2MDE5YmE2OTZkYThkNWE1ODAxNGVkZGYzOTEyNGUzZWM5NGY5`
+Snapshot ID: `MCxlZDMyYmQwMTdiMjA4MjI1MDkxNjIwYTJiZTBlMDVhNDU4ZDVmZWI3`

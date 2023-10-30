@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Pedro Guerra y Bunbury.",
-  "num_followers": 315043,
+  "num_followers": 315129,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTgzYjY5ZmFkNWQ3OTcwMjM4NTM4NWE1YTdkYzhmZmQyZTRjZTgz",
+  "snapshot_id": "MCxkNjZkYzM5YjlkMGM2MzcxZDI2MDYzZWZkYTlmMGQ5MjkyODgxMzk4",
   "tracks": [
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "12 segundos de oscuridad",
-        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "La vida es m\u00e1s compleja de lo que parece",
-      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Unicornio",
         "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
       },
@@ -1055,18 +1039,34 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/29V69M5YTfCEtTAxZGqEH3"
+        "name": "12 segundos de oscuridad",
+        "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 179754,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/7HiM1RdkxnqWIoHe7lgq27"
+      "duration_ms": 188106,
+      "name": "La vida es m\u00e1s compleja de lo que parece",
+      "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "No soy de aqu\u00ed",
+      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "No soy de aqu\u00ed",
-        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/29V69M5YTfCEtTAxZGqEH3"
       },
       "artists": [
         {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 247266,
-      "name": "No soy de aqu\u00ed",
-      "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+      "duration_ms": 179754,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/7HiM1RdkxnqWIoHe7lgq27"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Vulnerables",
-        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Los Locos Descalzos",
-          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "26 Grandes Canciones Y Una Nube Blanca",
         "url": "https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 185826,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Vulnerables",
+        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "SENCILLO",
+        "url": "https://open.spotify.com/album/2mGzOvYjy6sMqUelE2advD"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 207617,
+      "name": "SENCILLO",
+      "url": "https://open.spotify.com/track/5knUczKxRmqga38xt3Dpx6"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Cuando el R\u00edo Suena...",
         "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 234743,
       "name": "Antes De Verte (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "SENCILLO",
-        "url": "https://open.spotify.com/album/2mGzOvYjy6sMqUelE2advD"
-      },
-      "artists": [
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 207617,
-      "name": "SENCILLO",
-      "url": "https://open.spotify.com/track/5knUczKxRmqga38xt3Dpx6"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Ajuste de cuentas",
-        "url": "https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze"
+        "name": "La Vida Plena",
+        "url": "https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk"
       },
       "artists": [
         {
-          "name": "Quique Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ"
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
         }
       ],
-      "duration_ms": 242586,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv"
+      "duration_ms": 224293,
+      "name": "Verde Selva",
+      "url": "https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e"
     }
   ],
   "unique_name": "Cantautores",

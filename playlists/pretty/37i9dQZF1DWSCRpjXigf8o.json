@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 85612,
+  "num_followers": 85614,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDAzNzlkYmQ1N2Y0MGRkZDVjN2ZhYTVlNDAxYWFkOTAyNWQ3YTM4",
+  "snapshot_id": "MCw5NTQ2ZTIwODA4M2RhZTc0MTg1MjQ3YTA1NGJlZTJjZTUwZTBiMTk5",
   "tracks": [
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1143,22 +1143,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "IT'S YOU (feat. keshi)",
-        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 173427,
-      "name": "IT'S YOU (feat. keshi)",
-      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1179,18 +1175,22 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+        "name": "IT'S YOU (feat. keshi)",
+        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
       },
       "artists": [
         {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+      "duration_ms": 173427,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Dark in the City",
-        "url": "https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ"
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
       },
       "artists": [
         {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 250547,
-      "name": "Love & War in Your Twenties",
-      "url": "https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw"
+      "duration_ms": 211149,
+      "name": "ILYSB",
+      "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "LANY",
-        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+        "name": "Dark in the City",
+        "url": "https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ"
       },
       "artists": [
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
         }
       ],
-      "duration_ms": 211149,
-      "name": "ILYSB",
-      "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
+      "duration_ms": 250547,
+      "name": "Love & War in Your Twenties",
+      "url": "https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw"
     },
     {
       "added_at": "2023-10-26 15:00:00",

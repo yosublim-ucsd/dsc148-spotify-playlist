@@ -2,7 +2,7 @@
 
 ### [Rock 'n' Run](https://open.spotify.com/playlist/37i9dQZF1DWXx3Txis2L4x)
 
-> Don't use these shoes, they just look nice for the playlist cover\. Use real running shoes, please.
+> Don't use these shoes to run, they just look nice for the playlist cover\. Use real running shoes, please.
 
 188 songs - 10 hr 51 min
 

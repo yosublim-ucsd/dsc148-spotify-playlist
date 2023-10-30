@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring new music by Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,189 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,162 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 2 | [I Don't Know You](https://open.spotify.com/track/43DsSmYR7rk3LKnyY8wkGI) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Don't Know You](https://open.spotify.com/album/0zT2ilSANN1bLI7gV6lqCl) | 3:44 |
 | 3 | [bella](https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [bella / i can't find anyone](https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7) | 3:19 |
 | 4 | [Push and Pull](https://open.spotify.com/track/59UheTIMFOGBtV9hrcJWlE) | [Mini Trees](https://open.spotify.com/artist/5gmk49M0KriLVEWOqAoqjH) | [Push and Pull](https://open.spotify.com/album/7q36HDl3u9vO7ptVegKkk9) | 4:51 |
-| 5 | [Snake at The Altar](https://open.spotify.com/track/09g9dZqULC8yNN8FrlK9QP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Snake at The Altar](https://open.spotify.com/album/5HquJB12UiWeUK0f4T5meF) | 2:58 |
+| 5 | [Snake at the Altar](https://open.spotify.com/track/09g9dZqULC8yNN8FrlK9QP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Snake at the Altar](https://open.spotify.com/album/5HquJB12UiWeUK0f4T5meF) | 2:58 |
 | 6 | [Moon](https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [All Over Again b/w Moon](https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty) | 2:42 |
 | 7 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
 | 8 | [Give It](https://open.spotify.com/track/5gV1v495WPyidjOxgxUQ9x) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9), [Nico Days](https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh) | [Auto Destroy](https://open.spotify.com/album/1m4PS8sFJTSLXJ60FJhlal) | 1:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Hell Of A Ride](https://open.spotify.com/track/0t0gMxicWbc6n2NzxQ3iJ3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride](https://open.spotify.com/album/41DyNXpwpfDghWXGM6TMC3) | 2:59 |
 | 100 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 |
 
-Snapshot ID: `MCwzZjE4OGE2NjY1ZDJhOTdhOGNhYzY5ZmFkZTM1NWFmZjBlMTFjNTEz`
+Snapshot ID: `MCwxMzM5MGIxZGNkYjgxMDdkMThkYjQxNGYyYWYyYmJjYmJmNTk1ODY3`

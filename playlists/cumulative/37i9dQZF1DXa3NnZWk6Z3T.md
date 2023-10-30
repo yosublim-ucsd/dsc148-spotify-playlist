@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-328 songs - 18 hr 53 min
+330 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2021-12-09 |  |
 | [Aquí Vinimos \- El Que Busca Mix](https://open.spotify.com/track/4XYDvFGIzgCg3QGqpwB1I8) | [Cheo & Ulises Hadjis](https://open.spotify.com/artist/7IKuQRkkcfoycYLQVDGLpg) | [Aquí Vinimos \(El Que Busca Mix\)](https://open.spotify.com/album/4pCn6UMCYtGWObf3x9vBp6) | 2:30 | 2022-04-07 | 2022-04-21 |
 | [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-04-07 | 2023-04-12 |
+| [Arabia](https://open.spotify.com/track/7KneZ5qdn89Lg0MTeTEsWb) | [Isra y Vale](https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl) | [Aguadulce II](https://open.spotify.com/album/30i1SVLlSGfgtnyFJCGTis) | 4:47 | 2023-10-27 |  |
 | [Ausente](https://open.spotify.com/track/5Y7TAGEM42zS5MOxkBr1nD) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Ausente](https://open.spotify.com/album/7DEyRK52e2b6N00hNO1UF7) | 3:54 | 2021-12-09 | 2022-12-31 |
 | [Ausente](https://open.spotify.com/track/7uR5yFqTHZYqPlO9zXTR2M) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Para Echar la Lloradita](https://open.spotify.com/album/1JkjAUi5VkRPtiVbT273KR) | 3:54 | 2023-04-03 |  |
 | [Ay De Mi](https://open.spotify.com/track/1Wxg4UUmjKL8yVmXL97aB0) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Mucho Chino](https://open.spotify.com/album/1l8i1gKfgAXi2tMoKvpsDR) | 2:49 | 2022-05-14 | 2022-10-28 |
@@ -194,7 +195,7 @@
 | [Mi Sueño](https://open.spotify.com/track/3L5JCkhuFHTJfq3ItzKg3H) | [Esteban Copete y su Kinteto Pacifico](https://open.spotify.com/artist/6acBIoMWoHuUksQRUK1fwd), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Mi Sueño \- Single](https://open.spotify.com/album/3UumcN3Q1PPttm2aoTUqDx) | 3:35 | 2021-12-09 | 2022-10-28 |
 | [Mi Vida](https://open.spotify.com/track/169P9aWUvz4VIjcNQC3I0d) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Mi Vida](https://open.spotify.com/album/2h382tyzRgLMjEErQZSHLk) | 2:21 | 2022-04-07 | 2022-04-17 |
 | [Miloka](https://open.spotify.com/track/37APbdv73nMGkCSR1JJOKv) | [Juan Cid](https://open.spotify.com/artist/6yOKkwhetQkC2zqeNqB0FE) | [Miloka](https://open.spotify.com/album/3U0IWuExjLr3YzgrpZLHLE) | 2:55 | 2022-04-07 | 2022-11-13 |
-| [Missed Connection](https://open.spotify.com/track/4J46hSepcjAkwAVJZMBbKM) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Missed Connection](https://open.spotify.com/album/1Pdkf0Y84hr61DHLky3goJ) | 3:51 | 2021-12-09 |  |
+| [Missed Connection](https://open.spotify.com/track/4J46hSepcjAkwAVJZMBbKM) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Missed Connection](https://open.spotify.com/album/1Pdkf0Y84hr61DHLky3goJ) | 3:51 | 2021-12-09 | 2023-10-30 |
 | [Miénteme](https://open.spotify.com/track/1kWjEyML20EpP7yjw5cfA5) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg) | 2:32 | 2022-05-14 | 2022-10-28 |
 | [Miénteme](https://open.spotify.com/track/6YhRYUfDBEI4xWHFNr2mpI) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/5vM9AoEkijaGb0h9RcUIv3) | 2:32 | 2021-12-09 | 2022-07-03 |
 | [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-12-09 |  |
@@ -223,7 +224,7 @@
 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 | 2021-12-09 | 2022-10-28 |
 | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV) | 4:14 | 2021-12-09 | 2023-03-16 |
 | [Ola Adiós](https://open.spotify.com/track/4Ko9JaLUvf54PmluMaDCqm) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Ola Adiós](https://open.spotify.com/album/2u4DIClRI7TDUbRY4mDZyr) | 3:03 | 2021-12-09 |  |
-| [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-09 |  |
+| [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-09 | 2023-10-30 |
 | [Otro Lado](https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Otro Lado](https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K) | 3:57 | 2021-12-09 |  |
 | [Overprotected](https://open.spotify.com/track/1mBCDcIDfrQRVwk4Dh34F3) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Overprotected](https://open.spotify.com/album/2IoHrutrnCsCCJUdEuGtbm) | 3:28 | 2021-12-09 |  |
 | [pa' que sueñes](https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [pa' que sueñes](https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq) | 2:50 | 2022-12-30 |  |
@@ -238,6 +239,7 @@
 | [Para Verte](https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2021-12-09 |  |
 | [Parar el Tiempo](https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC) | 4:09 | 2022-05-14 |  |
 | [Parar el Tiempo](https://open.spotify.com/track/5iBP84nYff7zzoYGSfOwgf) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/3OgoFDgcFpncuzMonAjLQD) | 4:09 | 2021-12-09 | 2022-07-29 |
+| [Parte de Mi](https://open.spotify.com/track/2PWFmOpcKb31Fu8QJj1STa) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Parte de Mi](https://open.spotify.com/album/0vvdJDTLfDihtP5T7E9dxh) | 2:55 | 2023-10-27 |  |
 | [Parte de Mi](https://open.spotify.com/track/7wDe4kdynBEvHQE1EhHJvW) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Parte de Mi](https://open.spotify.com/album/3ErYgvpNleudC23eIdPOTz) | 2:55 | 2021-12-09 | 2023-10-27 |
 | [Pasarla Bien](https://open.spotify.com/track/0tUAFwX94l8wiD5UnNMppU) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Pasarla Bien](https://open.spotify.com/album/4t3kNmbWn1p9nOL7mFLSt0) | 2:15 | 2021-12-09 | 2022-05-19 |
 | [Pasarla Bien](https://open.spotify.com/track/4D9xQDVdWu3wbl77k1tmGT) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Pasarla Bien](https://open.spotify.com/album/0VnANUdEATK0NM2VCTOnMf) | 2:15 | 2022-09-21 | 2022-11-12 |

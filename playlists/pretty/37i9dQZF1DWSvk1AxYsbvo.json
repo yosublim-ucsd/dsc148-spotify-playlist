@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 11256,
+  "num_followers": 11272,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjJjMTQ3ZTgzMjM2ODI4NTMyMDI5ZDJlNTk1NDBmNmIzZDE4NmRm",
+  "snapshot_id": "MCxiMjA2NzljM2NmNmIzNWI3NDQ1NmNlZmUyODViNTU5Zjc5OWE1MWQ3",
   "tracks": [
     {
       "added_at": "2023-10-16 07:47:53",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-10-16 07:47:53",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
-    },
-    {
-      "added_at": "2023-10-16 07:47:53",
-      "album": {
         "name": "The Film",
         "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
+    },
+    {
+      "added_at": "2023-10-16 07:47:53",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
     },
     {
       "added_at": "2023-10-16 07:47:53",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-10-16 07:47:53",
       "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
-        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
+        "name": "We loved each other so much",
+        "url": "https://open.spotify.com/album/3yok91ShoT3Xwr9Z34YZnj"
       },
       "artists": [
         {
-          "name": "Who R U?",
-          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
+          "name": "Savina & Drones",
+          "url": "https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7"
         }
       ],
-      "duration_ms": 180638,
-      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
-      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
+      "duration_ms": 227419,
+      "name": "We loved each other so much",
+      "url": "https://open.spotify.com/track/3WFaqEHHUDVcbNku1gxrBR"
     },
     {
       "added_at": "2023-10-16 07:47:53",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-10-16 07:47:53",
       "album": {
-        "name": "We loved each other so much",
-        "url": "https://open.spotify.com/album/3yok91ShoT3Xwr9Z34YZnj"
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
+        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
       },
       "artists": [
         {
-          "name": "Savina & Drones",
-          "url": "https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7"
+          "name": "Who R U?",
+          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
         }
       ],
-      "duration_ms": 227419,
-      "name": "We loved each other so much",
-      "url": "https://open.spotify.com/track/3WFaqEHHUDVcbNku1gxrBR"
+      "duration_ms": 180638,
+      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
+      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
     },
     {
       "added_at": "2023-10-16 07:47:53",

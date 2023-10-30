@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,381 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,438 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 |
 | 50 | [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 |
 
-Snapshot ID: `MCxjZGMzOTg1ZjE5ZDgxYTFkNzhiYmYzMjFmNDBhYjc0MGFmNDkxY2I0`
+Snapshot ID: `MCxlMjBjYjlkNTdlMWJlMjUxZGRlYmE4MzQ4N2JlZTRiMWRjNTE1NjYz`

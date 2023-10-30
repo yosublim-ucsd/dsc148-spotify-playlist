@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 234023,
+  "num_followers": 234112,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzNmNGY0MmMzYWRjODdkMTExZjRkOTI1ZGRkZGEzNDgxODdjY2U0",
+  "snapshot_id": "MCw0MGZiY2ZmMGI3Y2VmZDQ4N2Y1OTMzOWVhMmI5NWQ2MTFjMzRjMzU0",
   "tracks": [
     {
       "added_at": "2023-10-27 02:00:00",
@@ -403,6 +403,26 @@
     {
       "added_at": "2023-10-27 02:00:00",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+      },
+      "artists": [
+        {
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+        }
+      ],
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+    },
+    {
+      "added_at": "2023-10-27 02:00:00",
+      "album": {
         "name": "Out The Fire (At The Hotel)",
         "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
-    },
-    {
-      "added_at": "2023-10-27 02:00:00",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
-      },
-      "artists": [
-        {
-          "name": "Crazibiza",
-          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
-        },
-        {
-          "name": "House of Prayers",
-          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
-        }
-      ],
-      "duration_ms": 284886,
-      "name": "Fresh - House of Prayers Poolside Edit",
-      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
     },
     {
       "added_at": "2023-10-27 02:00:00",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-10-27 02:00:00",
       "album": {
+        "name": "Tension (The Remixes)",
+        "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Tension (Chromeo Remix)",
+      "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
+    },
+    {
+      "added_at": "2023-10-27 02:00:00",
+      "album": {
         "name": "Small Moments",
         "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 248666,
       "name": "Getting There From Here (with Todd Edwards)",
       "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
-    },
-    {
-      "added_at": "2023-10-27 02:00:00",
-      "album": {
-        "name": "Tension (The Remixes)",
-        "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "Tension (Chromeo Remix)",
-      "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
     },
     {
       "added_at": "2023-10-27 02:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-27 02:00:00",
       "album": {
-        "name": "We Could Be Falling In Love",
-        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 179487,
-      "name": "We Could Be Falling In Love - Edit",
-      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
-    },
-    {
-      "added_at": "2023-10-27 02:00:00",
-      "album": {
         "name": "Everyday People",
         "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 165494,
       "name": "Everyday People",
       "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
+    },
+    {
+      "added_at": "2023-10-27 02:00:00",
+      "album": {
+        "name": "We Could Be Falling In Love",
+        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 179487,
+      "name": "We Could Be Falling In Love - Edit",
+      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
     },
     {
       "added_at": "2023-10-27 02:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-27 02:00:00",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 281780,
-      "name": "Vesuvio",
-      "url": "https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC"
-    },
-    {
-      "added_at": "2023-10-27 02:00:00",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 227899,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb"
+    },
+    {
+      "added_at": "2023-10-27 02:00:00",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 281780,
+      "name": "Vesuvio",
+      "url": "https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC"
     },
     {
       "added_at": "2023-10-27 02:00:00",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2023-10-27 02:00:00",
       "album": {
-        "name": "FWD (feat. Rudimental & House Gospel Choir)",
-        "url": "https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj"
-      },
-      "artists": [
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "FWD (feat. Rudimental & House Gospel Choir)",
-      "url": "https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8"
-    },
-    {
-      "added_at": "2023-10-27 02:00:00",
-      "album": {
         "name": "retro electrique fever",
         "url": "https://open.spotify.com/album/2y6UGYRHMrQQ1IJZ4vWYbb"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
+    },
+    {
+      "added_at": "2023-10-27 02:00:00",
+      "album": {
+        "name": "FWD (feat. Rudimental & House Gospel Choir)",
+        "url": "https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj"
+      },
+      "artists": [
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "FWD (feat. Rudimental & House Gospel Choir)",
+      "url": "https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8"
     },
     {
       "added_at": "2023-10-27 02:00:00",
@@ -1375,30 +1375,6 @@
     {
       "added_at": "2023-10-27 02:00:00",
       "album": {
-        "name": "Fool For Love",
-        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
-      },
-      "artists": [
-        {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 239220,
-      "name": "Fool For Love - Chris Lake Edit",
-      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
-    },
-    {
-      "added_at": "2023-10-27 02:00:00",
-      "album": {
         "name": "Weekend Love",
         "url": "https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN"
+    },
+    {
+      "added_at": "2023-10-27 02:00:00",
+      "album": {
+        "name": "Fool For Love",
+        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 239220,
+      "name": "Fool For Love - Chris Lake Edit",
+      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
     },
     {
       "added_at": "2023-10-27 02:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-10-27 02:00:00",
       "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+    },
+    {
+      "added_at": "2023-10-27 02:00:00",
+      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/6OQvq7hzK2BCj89A4wBAxh"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 180000,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/76CcHmpRJjb1y6RFnTh4nK"
-    },
-    {
-      "added_at": "2023-10-27 02:00:00",
-      "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2023-10-27 02:00:00",
@@ -1827,30 +1827,6 @@
     {
       "added_at": "2023-10-27 02:00:00",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Kimchii",
-          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
-        }
-      ],
-      "duration_ms": 209693,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t"
-    },
-    {
-      "added_at": "2023-10-27 02:00:00",
-      "album": {
         "name": "Dunston (Bellaire Remix)",
         "url": "https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI"
       },
@@ -1883,6 +1859,30 @@
       "duration_ms": 139624,
       "name": "Cabo Player",
       "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+    },
+    {
+      "added_at": "2023-10-27 02:00:00",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Kimchii",
+          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
+        }
+      ],
+      "duration_ms": 209693,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t"
     },
     {
       "added_at": "2023-10-27 02:00:00",

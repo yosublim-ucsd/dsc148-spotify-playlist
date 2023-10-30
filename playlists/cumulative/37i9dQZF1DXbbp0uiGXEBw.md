@@ -4,12 +4,13 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Hà Nhi
 
-173 songs - 11 hr 15 min
+175 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24h](https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [24h](https://open.spotify.com/album/4LO3n3uH8Iu6xi09nh2u9i) | 4:17 | 2021-12-07 |  |
 | [906090](https://open.spotify.com/track/0HH3DAz5feqJmDA50yQ52M) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Mew Amazing](https://open.spotify.com/artist/34nom4Ft3keMWBZPAUB3EI) | [906090](https://open.spotify.com/album/20sB19q1UohCToeyAcUNwQ) | 3:28 | 2022-11-01 | 2022-12-01 |
+| [Ai Lau Đôi Mi Hoen](https://open.spotify.com/track/19bgct6U5djwkDhAttMUlb) | [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Ai Lau Đôi Mi Hoen](https://open.spotify.com/album/1dSX1ojYBuexp6ZaIaXJ9g) | 3:35 | 2023-10-26 |  |
 | [Alive](https://open.spotify.com/track/1U2ookTehUocHpeCyVciDq) | [Thu Minh](https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5), [Thảo Trang](https://open.spotify.com/artist/2maFpa4M8FWKvytGzgLhyl) | [Alive](https://open.spotify.com/album/6ewUD9mQR3PusKaeKmTJQF) | 3:40 | 2023-09-07 | 2023-10-03 |
 | [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 | 2023-01-14 |  |
 | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/album/7kHOyM8XfyIBmOYKBXPzA2) | 3:08 | 2023-10-18 |  |
@@ -70,7 +71,7 @@
 | [Hoa Đã Tàn Hương](https://open.spotify.com/track/7ploY5yYxzIAzDc95ZuyuH) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [LALALA](https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq) | 3:24 | 2023-08-10 | 2023-09-06 |
 | [Hoàng Hôn](https://open.spotify.com/track/0AFGP6yJiakwce0evtrbxd) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/3Q7A5892DvFaMdONpVhc9k) | 4:10 | 2022-07-24 | 2023-01-24 |
 | [Hoàng Hôn](https://open.spotify.com/track/0GdrFeLGWjlEcAfoQEMXH5) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/20l0aOMxX0YDZq1bBCuoU6) | 4:10 | 2021-12-07 | 2022-07-29 |
-| [Hà Nội](https://open.spotify.com/track/4zQGlbAeQPq6cmE2iYJfI2) | [Tuimi](https://open.spotify.com/artist/2dP2cG3zK05Y1jtb8Kwdpm) | [Shimmer](https://open.spotify.com/album/2Xku8BPDiEuMgEgfpZMVwg) | 2:49 | 2023-10-18 |  |
+| [Hà Nội](https://open.spotify.com/track/4zQGlbAeQPq6cmE2iYJfI2) | [Tuimi](https://open.spotify.com/artist/2dP2cG3zK05Y1jtb8Kwdpm) | [Shimmer](https://open.spotify.com/album/2Xku8BPDiEuMgEgfpZMVwg) | 2:49 | 2023-10-18 | 2023-10-30 |
 | [Hôm Nay Tôi Buồn \(Nashville Version\)](https://open.spotify.com/track/1Q3hhLiYXlomgwH4oDuBeC) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [Hôm Nay Tôi Buồn \(The 5th Anniversary\)](https://open.spotify.com/album/4uoFsEGWuNaf754zs4J4wu) | 4:20 | 2023-02-06 | 2023-06-07 |
 | [Hương](https://open.spotify.com/track/7kOkCq8MPpSciLHQiKliJs) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [hương](https://open.spotify.com/album/6DET8Fkgy2bz1sl6gXcnGO) | 3:30 | 2021-12-07 | 2022-07-29 |
 | [Hương \(feat\. Negav\)](https://open.spotify.com/track/6aeU5IH8DB1qHK5jRFTNUv) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 3:30 | 2022-07-24 |  |
@@ -93,6 +94,7 @@
 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/2EMbVMhUtYNfuAhTi9HvBk) | [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/7oZP3YD6tt4RAreNqTsjGv) | 3:34 | 2021-12-07 | 2022-07-29 |
 | [lửa gần rơm lâu ngày cũng bén](https://open.spotify.com/track/1Xmoej3kUKCFl9tvLsVe6U) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C), [39 Kingdom](https://open.spotify.com/artist/2JnQtHnHjylFjCDkYAiH1E) | [lửa gần rơm lâu ngày cũng bén](https://open.spotify.com/album/3QmjIV0jHDEUKRz8WfmXM8) | 2:36 | 2021-12-29 | 2023-01-04 |
 | [mang ghế ra sân ngồi hát \(feat\. Tóc Tiên\)](https://open.spotify.com/track/5l0ldjwmggEOzKY2KrY086) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC) | [COLOURS](https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh) | 3:31 | 2022-06-01 | 2022-07-01 |
+| [Martini](https://open.spotify.com/track/73YA19nNitv1AzmxQlabGq) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 3:20 | 2023-10-26 |  |
 | [Missing You](https://open.spotify.com/track/7D5hQQZXK33EpJdn1zdLch) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Missing You](https://open.spotify.com/album/6glbutLmt19rxMZYe4QFVi) | 4:02 | 2023-08-10 |  |
 | [Missing You](https://open.spotify.com/track/1AAGvzJRWMTKx7PNfeTvP4) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9), [TINLE](https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq) | [Missing You](https://open.spotify.com/album/1b60c7XKSLPW7s1f0CBWqF) | 4:02 | 2022-07-05 | 2023-08-26 |
 | [Mong Cho Anh \- Unplugged](https://open.spotify.com/track/1SjMtotf90psm4i8xWVhkC) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Trạm Không Gian Số 0 \(Unplugged\)](https://open.spotify.com/album/5ScazWOt0AHFU5tiJCtcuA) | 3:09 | 2021-12-07 | 2022-05-11 |
@@ -132,7 +134,7 @@
 | [Sashimi](https://open.spotify.com/track/48ogJnwdNJGgHj2aNZhZq6) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Sashimi](https://open.spotify.com/album/04EHUwLYoqGaFYv9d7AJFG) | 3:51 | 2022-09-12 | 2022-10-06 |
 | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/track/0IojBwrFi0lwPW1eE3BNdU) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/album/36Dvo2mP3FZEERwagzc0YB) | 5:02 | 2022-06-01 |  |
 | [Sau Nay, Hay Gap Lai Nhau Khi Hoa No](https://open.spotify.com/track/6F61DTypUBPZiZqgd76Sjn) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Hom Qua Hom Nay Va Sau Nay](https://open.spotify.com/album/4QV5oU2eIMfPob4hLC3yar) | 4:36 | 2021-12-07 | 2023-01-25 |
-| [Sau Tấm Rèm](https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [Sau Tấm Rèm](https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX) | 3:17 | 2023-10-18 |  |
+| [Sau Tấm Rèm](https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [Sau Tấm Rèm](https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX) | 3:17 | 2023-10-18 | 2023-10-30 |
 | [Say La La](https://open.spotify.com/track/4uruGus1jk851QbkKJ6tqf) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Say La La](https://open.spotify.com/album/2K0Xq7WvQq8Vf6SfWWZg96) | 2:36 | 2023-06-06 | 2023-07-14 |
 | [See Tình](https://open.spotify.com/track/307iMiCYAKX6sUG7P4UKWt) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:05 | 2022-11-30 | 2023-04-05 |
 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 | 2022-02-23 | 2022-12-01 |

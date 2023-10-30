@@ -1450,10 +1450,32 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 287701,
       "name": "N\u00f3mada",
       "url": "https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A"
+    },
+    {
+      "album": {
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb"
+      },
+      "artists": [
+        {
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287701,
+      "name": "N\u00f3mada",
+      "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
     },
     {
       "album": {

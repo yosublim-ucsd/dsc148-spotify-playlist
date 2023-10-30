@@ -1,12 +1,12 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 537554,
+  "num_followers": 537571,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDRhOTMyYWIzNmY3MTMwNzVhYWQ3YTM3YmU5NTExMGFiMTkxZjU2",
+  "snapshot_id": "MCw1NWNlMWQzZmE3N2IzMDMzZjBlNjUwMWM1ZjdlMThlNzUwMzYzZjNi",
   "tracks": [
     {
       "added_at": "2023-10-13 18:45:44",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "The Midsummer Station",
         "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 205933,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 197866,
       "name": "Beautiful People (feat. Khalid)",
       "url": "https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Not The 1975",
-        "url": "https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 198022,
-      "name": "Not The 1975",
-      "url": "https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 205000,
       "name": "Following the Sun",
       "url": "https://open.spotify.com/track/2sFbdDiEDpyCdP5nUCuGBm"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "Not The 1975",
+        "url": "https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -2679,26 +2679,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "You Know What I Need",
-        "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "You Know What I Need",
-      "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "AM:PM",
         "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
       },
@@ -2715,6 +2695,26 @@
       "duration_ms": 182950,
       "name": "AM:PM",
       "url": "https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "You Know What I Need",
+        "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "You Know What I Need",
+      "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl"
-      },
-      "artists": [
-        {
-          "name": "Sheppard",
-          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
-        }
-      ],
-      "duration_ms": 218385,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl"
+      },
+      "artists": [
+        {
+          "name": "Sheppard",
+          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
+        }
+      ],
+      "duration_ms": 218385,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -3279,22 +3279,6 @@
     {
       "added_at": "2023-10-13 18:45:44",
       "album": {
-        "name": "This Moment (from Ruby Gillman, Teenage Kraken)",
-        "url": "https://open.spotify.com/album/1dKVxIUGfgWms8qdRosmGm"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 237574,
-      "name": "This Moment (from Ruby Gillman, Teenage Kraken)",
-      "url": "https://open.spotify.com/track/1sF8QGZN3Vcnh2jM0ruSyF"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
         "name": "The Ballet Girl",
         "url": "https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0"
       },
@@ -3307,6 +3291,22 @@
       "duration_ms": 171562,
       "name": "Other Side of the Moon",
       "url": "https://open.spotify.com/track/1w5r3hEoLfLaltoXj1AwW4"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "This Moment (from Ruby Gillman, Teenage Kraken)",
+        "url": "https://open.spotify.com/album/1dKVxIUGfgWms8qdRosmGm"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 237574,
+      "name": "This Moment (from Ruby Gillman, Teenage Kraken)",
+      "url": "https://open.spotify.com/track/1sF8QGZN3Vcnh2jM0ruSyF"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -3363,6 +3363,22 @@
       "duration_ms": 226720,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/29Go4wUZUai6cYzwLbbMDM"
+    },
+    {
+      "added_at": "2023-10-13 18:45:44",
+      "album": {
+        "name": "Pacifico",
+        "url": "https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 213842,
+      "name": "Wave of You",
+      "url": "https://open.spotify.com/track/0GYjlsMiLhspkDFB6y7HDU"
     },
     {
       "added_at": "2023-10-13 18:45:44",
@@ -3475,22 +3491,6 @@
       "duration_ms": 216770,
       "name": "Dopamine (feat. Eyelar)",
       "url": "https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN"
-    },
-    {
-      "added_at": "2023-10-13 18:45:44",
-      "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 213842,
-      "name": "Wave of You",
-      "url": "https://open.spotify.com/track/0GYjlsMiLhspkDFB6y7HDU"
     },
     {
       "added_at": "2023-10-13 18:45:44",

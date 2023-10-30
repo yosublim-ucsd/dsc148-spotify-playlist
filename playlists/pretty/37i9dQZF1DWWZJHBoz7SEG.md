@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Canciones chidas para escuchar en Halloween empezando con Taylor Swift, Kenia Os y Manuel Turizo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,498 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,645 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [The Tower](https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Tower](https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD) | 3:36 |
 | 50 | [Witches Vs\. Warlocks](https://open.spotify.com/track/7lJboG3H9ySLwQMEaKhZXO) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Action Adventure](https://open.spotify.com/album/3M1Gx8cNlowzImYN9UY0WL) | 4:10 |
 
-Snapshot ID: `MCxjMjg0NjU5NzU4N2RjNDU2MzdmZTQ5OWQ5OWM1Njk4MjIzNGJjYzdk`
+Snapshot ID: `MCw1ZDc3NmNlMWY0MjIxNWViNjE5NTMwMWFhZTdjMGIyOWE1OWIzYmZj`

@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 139130,
       "name": "2 Handys",
       "url": "https://open.spotify.com/track/0mth0U5dtI4Fwmc3RrAERn"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 160640,
       "name": "Already Over",
       "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
@@ -4208,7 +4208,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 146000,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/6s7M8BCTzvLlEyYiSIIlPm"
@@ -6188,6 +6188,24 @@
       "duration_ms": 206124,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk"
+    },
+    {
+      "album": {
+        "name": "Diamondz n Roses",
+        "url": "https://open.spotify.com/album/7h56gci944g7MuM72DPSe9"
+      },
+      "artists": [
+        {
+          "name": "VaporGod",
+          "url": "https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264263,
+      "name": "Diamondz n Roses",
+      "url": "https://open.spotify.com/track/3tUufRrj0xTrfzvuRa5QhU"
     },
     {
       "album": {
@@ -9384,7 +9402,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
@@ -22261,6 +22279,24 @@
     },
     {
       "album": {
+        "name": "Savage Daughter",
+        "url": "https://open.spotify.com/album/4mueAoCL7C4jXrr0CCf7qX"
+      },
+      "artists": [
+        {
+          "name": "Ekaterina Shelehova",
+          "url": "https://open.spotify.com/artist/2TGfzbEaJkHLEsRvryVhsJ"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144350,
+      "name": "Savage Daughter",
+      "url": "https://open.spotify.com/track/0jZq0zDujagh2kLVYVGsN8"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
       },
@@ -27159,6 +27195,28 @@
     },
     {
       "album": {
+        "name": "Valentino",
+        "url": "https://open.spotify.com/album/6hkPsrKhq8562TpqqqosVB"
+      },
+      "artists": [
+        {
+          "name": "Mih\u00e1lyfi Luca",
+          "url": "https://open.spotify.com/artist/0D6r3l2qcIowUMJ2Odb9ot"
+        },
+        {
+          "name": "Csoky",
+          "url": "https://open.spotify.com/artist/6RmLQbwTEDQrpIveY6gqtV"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141830,
+      "name": "Valentino",
+      "url": "https://open.spotify.com/track/2xUsq60SijcWEWzPDoh5cL"
+    },
+    {
+      "album": {
         "name": "Slzy Ulic",
         "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
       },
@@ -27600,7 +27658,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "VZH\u016eRU CELOU NOC",
       "url": "https://open.spotify.com/track/47amAylHisxb5vuPLGQ72x"

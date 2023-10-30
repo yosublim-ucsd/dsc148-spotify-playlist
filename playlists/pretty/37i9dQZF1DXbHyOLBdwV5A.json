@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 115945,
+  "num_followers": 116098,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MThjYjFjM2VmY2E4Y2QwMDQ3OGRjY2M5NjUyYTg5YjQ3YjYxMTg0",
+  "snapshot_id": "MCw5MDZiOGU4YmQyODQ2ZmUxZmQ0ZjVlYWU0M2JkNjVmMDhhYzA1MzJh",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Controle (Remix)",
-        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "Controle (Remix)",
-      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Controle (Remix)",
+        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "Controle (Remix)",
+      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -679,26 +679,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
-        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
+        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
+        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
       },
       "artists": [
         {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "Felson",
-          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
+          "name": "Diego Albuquerque",
+          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
         },
         {
-          "name": "Izaac Santos",
-          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         }
       ],
-      "duration_ms": 161169,
-      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
-      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+      "duration_ms": 215625,
+      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
+      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -723,26 +723,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
-        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
+        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
+        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
       },
       "artists": [
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         },
         {
-          "name": "Diego Albuquerque",
-          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
+          "name": "Felson",
+          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
         },
         {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+          "name": "Izaac Santos",
+          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
         }
       ],
-      "duration_ms": 215625,
-      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
-      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
+      "duration_ms": 161169,
+      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
+      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -855,54 +855,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Pique Rei Davi (Remix)",
-        "url": "https://open.spotify.com/album/0mhHx49Dugoxr3FEjjq60Q"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        }
-      ],
-      "duration_ms": 113777,
-      "name": "Pique Rei Davi - Remix",
-      "url": "https://open.spotify.com/track/4c09bY8MeyRqyExO11rXIH"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Encontrei o Meu Lugar (Remix)",
-        "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
-      },
-      "artists": [
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
-        }
-      ],
-      "duration_ms": 165967,
-      "name": "Encontrei o Meu Lugar - Remix",
-      "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Dias de Ver\u00e3o",
         "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
       },
@@ -947,6 +899,54 @@
       "duration_ms": 161219,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Pique Rei Davi (Remix)",
+        "url": "https://open.spotify.com/album/0mhHx49Dugoxr3FEjjq60Q"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 113777,
+      "name": "Pique Rei Davi - Remix",
+      "url": "https://open.spotify.com/track/4c09bY8MeyRqyExO11rXIH"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Encontrei o Meu Lugar (Remix)",
+        "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
+      },
+      "artists": [
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        },
+        {
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+        }
+      ],
+      "duration_ms": 165967,
+      "name": "Encontrei o Meu Lugar - Remix",
+      "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "A Sua Chance",
-        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
-      },
-      "artists": [
-        {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
-        },
-        {
-          "name": "Diego Tiguez",
-          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
-        }
-      ],
-      "duration_ms": 241162,
-      "name": "A Sua Chance",
-      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 147840,
       "name": "N\u00e3o Sou Merecedor",
       "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "A Sua Chance",
+        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
+      },
+      "artists": [
+        {
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+        },
+        {
+          "name": "Diego Tiguez",
+          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
+        }
+      ],
+      "duration_ms": 241162,
+      "name": "A Sua Chance",
+      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
+        "name": "Dan\u00e7a de Avivamento (Remix)",
+        "url": "https://open.spotify.com/album/333Vh7RIIXQCheMFkJ0SsG"
       },
       "artists": [
         {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Diego Fernandes",
+          "url": "https://open.spotify.com/artist/61JXEPOXk6QwV1iJ3iag8B"
         }
       ],
-      "duration_ms": 151330,
-      "name": "Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
+      "duration_ms": 191718,
+      "name": "Dan\u00e7a de Avivamento - Remix",
+      "url": "https://open.spotify.com/track/3ht3OnpFWs6VXTFYLvi2xN"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1167,6 +1171,42 @@
       "duration_ms": 195615,
       "name": "Marcas - Remix",
       "url": "https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Tempo Novo",
+        "url": "https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Alan Nunes",
+          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+        },
+        {
+          "name": "Cristo Alegria",
+          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
+        }
+      ],
+      "duration_ms": 217147,
+      "name": "Tempo Novo",
+      "url": "https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 151330,
+      "name": "Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1195,62 +1235,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Tempo Novo",
-        "url": "https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Alan Nunes",
-          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
-        },
-        {
-          "name": "Cristo Alegria",
-          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
-        }
-      ],
-      "duration_ms": 217147,
-      "name": "Tempo Novo",
-      "url": "https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Dan\u00e7a de Avivamento (Remix)",
-        "url": "https://open.spotify.com/album/333Vh7RIIXQCheMFkJ0SsG"
-      },
-      "artists": [
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        },
-        {
-          "name": "Diego Fernandes",
-          "url": "https://open.spotify.com/artist/61JXEPOXk6QwV1iJ3iag8B"
-        }
-      ],
-      "duration_ms": 191718,
-      "name": "Dan\u00e7a de Avivamento - Remix",
-      "url": "https://open.spotify.com/track/3ht3OnpFWs6VXTFYLvi2xN"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Respirar e Confiar",
         "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
       },
@@ -1267,26 +1251,6 @@
       "duration_ms": 216470,
       "name": "Respirar e Confiar",
       "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Dono da Minha Vida (Remix)",
-        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Filipe Souza",
-          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dono da Minha Vida - Remix",
-      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1315,18 +1279,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Caminho Seguro",
-        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
       },
       "artists": [
         {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Caminho Seguro",
-      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1359,26 +1327,38 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Se Tu Creres (Remix)",
-        "url": "https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD"
+        "name": "Caminho Seguro",
+        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
       },
       "artists": [
         {
-          "name": "DJ Emerson MK",
-          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
-        },
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caminho Seguro",
+      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Sorrindo \u00e0 Toa (Remix)",
+        "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
+      },
+      "artists": [
         {
           "name": "DJ Vitor Capoia",
           "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
         },
         {
-          "name": "Xote Santo",
-          "url": "https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE"
+          "name": "Cleytinho de Maca\u00e9",
+          "url": "https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Se Tu Creres - Remix",
-      "url": "https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr"
+      "duration_ms": 155142,
+      "name": "Sorrindo \u00e0 Toa - Remix",
+      "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1407,22 +1387,38 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Sorrindo \u00e0 Toa (Remix)",
-        "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
+        "name": "Para o Alto (Remix)",
+        "url": "https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4"
       },
       "artists": [
         {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
         },
         {
-          "name": "Cleytinho de Maca\u00e9",
-          "url": "https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG"
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
         }
       ],
-      "duration_ms": 155142,
-      "name": "Sorrindo \u00e0 Toa - Remix",
-      "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
+      "duration_ms": 207187,
+      "name": "Para o Alto - Remix",
+      "url": "https://open.spotify.com/track/6DfUjTDRAdS1DjO28CcP8q"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1447,22 +1443,26 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Para o Alto (Remix)",
-        "url": "https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4"
+        "name": "Se Tu Creres (Remix)",
+        "url": "https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD"
       },
       "artists": [
         {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+          "name": "DJ Emerson MK",
+          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
         },
         {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Xote Santo",
+          "url": "https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE"
         }
       ],
-      "duration_ms": 207187,
-      "name": "Para o Alto - Remix",
-      "url": "https://open.spotify.com/track/6DfUjTDRAdS1DjO28CcP8q"
+      "duration_ms": 171428,
+      "name": "Se Tu Creres - Remix",
+      "url": "https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Hora de Adorar",
-        "url": "https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "DJ Albery",
-          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
-        },
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "Hora de Adorar",
-      "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Impar\u00e1vel",
         "url": "https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj"
       },
@@ -1531,6 +1507,30 @@
       "duration_ms": 163125,
       "name": "Impar\u00e1vel",
       "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Hora de Adorar",
+        "url": "https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "DJ Albery",
+          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "Hora de Adorar",
+      "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
     },
     {
       "added_at": "2023-10-20 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring ERNEST, Lady A, Dylan Gossett and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,044 likes - 87 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,270 likes - 87 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 86 | [California Line](https://open.spotify.com/track/0OS7U2hR23djT3yxD6bXdj) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [California Line](https://open.spotify.com/album/7zKc7KZgx3trD0qmB1Z8xb) | 3:35 |
 | 87 | ['Til The Day One Does](https://open.spotify.com/track/7hOeEAhCGCOG6hzBWp54vO) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Promiseland](https://open.spotify.com/album/44MP986oBgL08PtTWHgY2G) | 3:22 |
 
-Snapshot ID: `MCxmNmI1NmY3NWJmODYxMGE1ZGM1ZWEzZDAzZWM2YzZkMDkwMjkyNDlm`
+Snapshot ID: `MCw2MjM2YzFiNjQxMWNjZDgyNTdmMjkyZTAyMGJmMmRjNGUzYWQ1NDJk`

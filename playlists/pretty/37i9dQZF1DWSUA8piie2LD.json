@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 98075,
+  "num_followers": 98195,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjc1YjZmYmM0ZmIwZGQ0ZTMxZmQyNDZiNDg2NWZmNzU4NzBhZjc1",
+  "snapshot_id": "MCwyYjVhODFmNTI1YjZlZTBhMjViMjRjZjY4OTBkMDUyMjQ0N2RjNDBi",
   "tracks": [
     {
       "added_at": "2023-10-04 13:56:34",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 293533,
       "name": "Undun",
       "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2023-10-04 13:56:34",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "Now 'Til Forever",
-      "url": "https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
         "name": "Stay Awhile",
         "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 249133,
       "name": "When I Think of You",
       "url": "https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Now 'Til Forever",
+      "url": "https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl"
     },
     {
       "added_at": "2023-10-04 13:56:34",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Here With You",
-      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 276226,
       "name": "If Only For One Night",
       "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
     },
     {
       "added_at": "2023-10-04 13:56:34",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "In Joy",
-        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
-      },
-      "artists": [
-        {
-          "name": "Gordon James",
-          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
-        }
-      ],
-      "duration_ms": 305680,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
         "name": "For The Love",
         "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 280868,
       "name": "I Just Can't Let Go",
       "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
+        "name": "In Joy",
+        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
+      },
+      "artists": [
+        {
+          "name": "Gordon James",
+          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
+        }
+      ],
+      "duration_ms": 305680,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
     },
     {
       "added_at": "2023-10-04 13:56:34",

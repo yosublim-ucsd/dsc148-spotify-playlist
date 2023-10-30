@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Cata Raybaud y Benjamin Walker",
-  "num_followers": 178414,
+  "num_followers": 178446,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2UzMWVhZWIwZDMxZjJmMjk1MTQ1YzIxZTk4N2M5YjRmZTRjZGRm",
+  "snapshot_id": "MCw3ODBjY2YyNjgzZDJhZWQ1MzBiZWFmMGZiMmFkZjA0ZTAwOWUzODI5",
   "tracks": [
     {
       "added_at": "2023-10-26 20:30:57",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "Ojitos de Md",
-        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "Ojitos de Md",
-      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
+        "name": "Ojitos de Md",
+        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 137052,
+      "name": "Ojitos de Md",
+      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 171573,
       "name": "El Callej\u00f3n de los Milagros",
       "url": "https://open.spotify.com/track/0KAEdRme7EioqZPD2dQlj1"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "Canciones para escuchar en el r\u00edo",
-        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Quiero - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
         "name": "Nada Tengo",
         "url": "https://open.spotify.com/album/7i6Tt4suoPjWD8Wb59JdWY"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 272873,
       "name": "Nada Tengo",
       "url": "https://open.spotify.com/track/4byXAZwR336SCQ2UfzrNrY"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
+        "name": "Canciones para escuchar en el r\u00edo",
+        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 165625,
+      "name": "Quiero - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
         "name": "Desapego",
         "url": "https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 218827,
       "name": "Desapego",
       "url": "https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
         "name": "Frontera / Fuji",
         "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 278964,
       "name": "Fuji",
       "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
     },
     {
       "added_at": "2023-10-26 20:30:57",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-10-26 20:30:57",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Arrancacorazones - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul"
-    },
-    {
-      "added_at": "2023-10-26 20:30:57",
-      "album": {
         "name": "Guerras (Un Viaje en el Tiempo)",
         "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 264180,
       "name": "Me Gusta (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1Cv81Tk7LCeTgZgQPwKxUe"
+    },
+    {
+      "added_at": "2023-10-26 20:30:57",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Arrancacorazones - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

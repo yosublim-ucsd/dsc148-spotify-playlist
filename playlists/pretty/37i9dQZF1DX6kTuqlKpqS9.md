@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,145 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,245 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 16 | [Y \- En vivo](https://open.spotify.com/track/6QbEENozheS46xQY56acH9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:42 |
 | 17 | [Me Dicen el Coyote \- En VIvo](https://open.spotify.com/track/52TGyDPRWNCTyBcN8g5fu5) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda Y Mariachi \(En Vivo\)](https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF) | 2:43 |
 | 18 | [Propuesta \- En Vivo \- Remasterizado](https://open.spotify.com/track/5SDff61AfRGrIpxLIZkiBW) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:24 |
-| 19 | [Guadalajara \- En Vivo](https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:23 |
+| 19 | [Estos Celos \- En Vivo](https://open.spotify.com/track/1bHfUhyFqo6toBM3YMvG8I) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 4:52 |
 | 20 | [Popurrí Bravío](https://open.spotify.com/track/2zCjnGQFGWDEmiGPqcbYZC) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Canto de México: Alejandro Fernández en Vivo desde Bellas Artes](https://open.spotify.com/album/7b0VncFO0NxyndB5MMa9mo) | 9:03 |
 | 21 | [Perfume de Gardenias \(feat\. Mariachi Vargas de Tecatitlán\) \- En Vivo](https://open.spotify.com/track/7xVYUYqCGbsEoxfVHrZQqU) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi, Voces y Cuerdas \(Concierto En Vivo\)](https://open.spotify.com/album/4uMlrzJ7CVJIRtHEzPK5sb) | 3:45 |
 | 22 | [Amaneci Entre Tus Brazos \- En Vivo](https://open.spotify.com/track/2wUyUpg8oOrvZ2MsEHph0m) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:30 |
 | 23 | [La Diferencia \- En Vivo Desde Bellas Artes, México/ 2013](https://open.spotify.com/track/5qjWsZ8kudvaVKG2g0cRvz) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis 40 En Bellas Artes \(En Vivo Desde Bellas Artes, México/ 2013\)](https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or) | 3:37 |
-| 24 | [El Rey](https://open.spotify.com/track/4ttexpvsnPqqnPxSTH3roN) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:09 |
-| 25 | [Lagrimas De Mi Barrio](https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Lagrimas De Mi Barrio](https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT) | 3:15 |
-| 26 | [Estos Celos \- En Vivo](https://open.spotify.com/track/1bHfUhyFqo6toBM3YMvG8I) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 4:52 |
+| 24 | [Lagrimas De Mi Barrio](https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Lagrimas De Mi Barrio](https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT) | 3:15 |
+| 25 | [El Rey](https://open.spotify.com/track/4ttexpvsnPqqnPxSTH3roN) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:09 |
+| 26 | [Guadalajara \- En Vivo](https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:23 |
 | 27 | [Llorar \- En Vivo](https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 3:09 |
 | 28 | [A Pesar de Todos \- En Vivo](https://open.spotify.com/track/16VI8N8iECaBkUdadqchqq) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 3:48 |
 | 29 | [Seremos \- En Vivo Desde El Lunario/Mariachi/Banda](https://open.spotify.com/track/0Kguq4LDvq2YrUU4QDVBW3) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Desde El Lunario, Ciudad De México \(En Vivo Desde El Lunario/Mariachi/Banda\)](https://open.spotify.com/album/0OciUfz9VZIm5N4ZHIHlg5) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 74 | [Viva México / Guadalajara \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:58 |
 | 75 | [Medley Kumbia \- En Vivo Auditorio Nacional](https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 7:21 |
 
-Snapshot ID: `MCxhNDE1N2RjODRlNjYzNTExZWQ1YzMyYjVkMDMxYjZhNjk0YWNlNTYz`
+Snapshot ID: `MCxkZDA0OTIyOTdhMWExMmNlMmRhNTZmMjExNzc5Yzk2M2ZjNTJjMzEy`

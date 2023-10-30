@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,461 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,529 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Te Vas](https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [L.O.V.E.](https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I) | 1:58 |
 | 100 | [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 |
 
-Snapshot ID: `MCw1ZGM4MWRhZWYxM2M5MzllNjZiYjU4NzkyY2Y1YjgyMGJjYTdjNjI0`
+Snapshot ID: `MCwwNGM0NDFiNTQ2OTU4NWZlYWVmMWE4MjAwNDM3NTgyNzUwZGU4NDY1`

@@ -672,7 +672,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 332133,
       "name": "Cello Sonata in B-Flat Major, Op. 46: 2. Andante sostenuto",
       "url": "https://open.spotify.com/track/37RC7CyoZRAm93bvOJxe7E"
@@ -702,6 +702,32 @@
       "duration_ms": 332133,
       "name": "Cello Sonata in B-Flat Major, Op. 46: II. Andante sostenuto",
       "url": "https://open.spotify.com/track/4zE0Sp2hbRhLd8FIQXCY6J"
+    },
+    {
+      "album": {
+        "name": "Mellow Cello",
+        "url": "https://open.spotify.com/album/3woT5n0kFvkWCOv4smU4OO"
+      },
+      "artists": [
+        {
+          "name": "Louise Farrenc",
+          "url": "https://open.spotify.com/artist/3cCP79U05k4MrNSU06eBy2"
+        },
+        {
+          "name": "David Berlin",
+          "url": "https://open.spotify.com/artist/4IkUSXhEFUPGGlDpUTYL24"
+        },
+        {
+          "name": "Benjamin Martin",
+          "url": "https://open.spotify.com/artist/2cest7VMPTGuggKhLJXkht"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336464,
+      "name": "Cello Sonata in B-Flat Major, Op. 46: II. Andante sostenuto",
+      "url": "https://open.spotify.com/track/5dZfuWipcPn5EejDFJomwt"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 361668,
+  "num_followers": 361744,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGU0ODRiZDNhNDU2YWQzZGVmODMwYzM3NTJlNWRkYTY2YjBiYmI1",
+  "snapshot_id": "MCw5ZjQ4OGRhMzYzZGQ5OTk3Y2RmNDc4ODg4ZjZhOTQ0NGJhODUwYzZj",
   "tracks": [
     {
       "added_at": "2023-10-27 21:55:53",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Hello Rockview",
-        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "All My Best Friends Are Metalheads",
-      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "Let\u2019s Face It",
         "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 195195,
       "name": "The Impression That I Get",
       "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Hello Rockview",
+        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "All My Best Friends Are Metalheads",
+      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7"
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
       "artists": [
         {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
         }
       ],
-      "duration_ms": 186266,
-      "name": "The Science of Selling Yourself Short",
-      "url": "https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ"
+      "duration_ms": 170546,
+      "name": "Gangsters - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5PLkbN1xEJ3KoF1tyqjpfZ"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -451,22 +451,6 @@
       "duration_ms": 295666,
       "name": "Funky Kingston",
       "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
-        "name": "The Specials (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 170546,
-      "name": "Gangsters - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5PLkbN1xEJ3KoF1tyqjpfZ"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -515,6 +499,22 @@
       "duration_ms": 123000,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 186266,
+      "name": "The Science of Selling Yourself Short",
+      "url": "https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Losing Streak",
-        "url": "https://open.spotify.com/album/5cpnq6VX4FCWQJpm2tA8np"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 169106,
-      "name": "Johnny Quest Thinks We're Sellouts",
-      "url": "https://open.spotify.com/track/3Sl62Dyoh3wI3gLIJSypnb"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "The Fury of the Aquabats!",
         "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 182800,
       "name": "Super Rad!",
       "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Losing Streak",
+        "url": "https://open.spotify.com/album/5cpnq6VX4FCWQJpm2tA8np"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 169106,
+      "name": "Johnny Quest Thinks We're Sellouts",
+      "url": "https://open.spotify.com/track/3Sl62Dyoh3wI3gLIJSypnb"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
+        "name": "Let\u2019s Face It",
+        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 166166,
+      "name": "The Rascal King",
+      "url": "https://open.spotify.com/track/2EeIsfOZ3RNXUahTLJXluT"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
         "name": "Beast From The East",
         "url": "https://open.spotify.com/album/6qbGXpKlWDMpvFlTmbmyOh"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
-      },
-      "artists": [
-        {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "On & On & On",
-      "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "Tutti Frutti",
         "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Let\u2019s Face It",
-        "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
       "artists": [
         {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
         }
       ],
-      "duration_ms": 166166,
-      "name": "The Rascal King",
-      "url": "https://open.spotify.com/track/2EeIsfOZ3RNXUahTLJXluT"
+      "duration_ms": 194146,
+      "name": "On & On & On",
+      "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
     },
     {
       "added_at": "2023-10-27 21:55:53",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-10-27 21:55:53",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/6RllYZ84AUMAiCpdYgEydg"
-      },
-      "artists": [
-        {
-          "name": "Sly & Robbie",
-          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
-        }
-      ],
-      "duration_ms": 300028,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/37mol8ORH3HXWx2TrLR6EJ"
-    },
-    {
-      "added_at": "2023-10-27 21:55:53",
-      "album": {
         "name": "Class of Nations",
         "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 168182,
       "name": "Things Change",
       "url": "https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk"
+    },
+    {
+      "added_at": "2023-10-27 21:55:53",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6RllYZ84AUMAiCpdYgEydg"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "duration_ms": 300028,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/37mol8ORH3HXWx2TrLR6EJ"
     },
     {
       "added_at": "2023-10-27 21:55:53",

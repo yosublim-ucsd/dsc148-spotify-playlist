@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 379621,
+  "num_followers": 379643,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGM0MjkzNjgzMmQ0YTcxMjBmYzlmODI3ODMzMDRkN2YxOTI1ZjMz",
+  "snapshot_id": "MCw5YjcwOTJlNjEwOTU5Y2VmZmFkZjE4YzQwYWMxZjk3ZWM5NDY1ZDQx",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 272680,
       "name": "Easier",
       "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Giving In To The Love",
-      "url": "https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 160505,
       "name": "My Love",
       "url": "https://open.spotify.com/track/398CKeawsPHfonnxsimsPe"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Giving In To The Love",
+      "url": "https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Phase (Deluxe)",
+        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
+      },
+      "artists": [
+        {
+          "name": "Jack Garratt",
+          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Surprise Yourself",
+      "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Chewing Cotton Wool",
         "url": "https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 284578,
       "name": "Dionne (feat. Justin Vernon)",
       "url": "https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Phase (Deluxe)",
-        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
-      },
-      "artists": [
-        {
-          "name": "Jack Garratt",
-          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Surprise Yourself",
-      "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Far From Here",
-        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 260338,
-      "name": "Edge of the Dark",
-      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I"
       },
@@ -887,18 +871,34 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Pilot",
-        "url": "https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl"
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
       },
       "artists": [
         {
-          "name": "New Friends",
-          "url": "https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 255847,
-      "name": "Purple Candy",
-      "url": "https://open.spotify.com/track/6Nw8yJrwuuGalE9FPejPuZ"
+      "duration_ms": 260338,
+      "name": "Edge of the Dark",
+      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Artifice",
+      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl"
       },
       "artists": [
         {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+          "name": "New Friends",
+          "url": "https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb"
         }
       ],
-      "duration_ms": 197977,
-      "name": "Artifice",
-      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
+      "duration_ms": 255847,
+      "name": "Purple Candy",
+      "url": "https://open.spotify.com/track/6Nw8yJrwuuGalE9FPejPuZ"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -995,6 +995,30 @@
       "duration_ms": 252880,
       "name": "Feel Real",
       "url": "https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 199768,
+      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1087,30 +1111,6 @@
       "duration_ms": 268000,
       "name": "I Can't Believe I Had You",
       "url": "https://open.spotify.com/track/7n4UFFZEY1HfF87DfG2LZ4"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Subconsciously",
-        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 199768,
-      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
-      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "YOUNG",
-        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Nighttime Hunger",
-      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Gold (Flume Rework)",
         "url": "https://open.spotify.com/album/0c6k1Sx08mOgZ1ZmnyqG9T"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 267231,
       "name": "Gold - Flume Rework",
       "url": "https://open.spotify.com/track/6iIDeCpn9TQB7yns5zwkc6"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Nighttime Hunger",
+      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
     },
     {
       "added_at": "2023-01-11 21:01:15",

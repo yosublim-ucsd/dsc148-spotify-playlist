@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 167586,
+  "num_followers": 167676,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYThiYmYyMzY1YjE4NGI2MzUwMzkzN2JlZDkyYjYwYTRjYTBkYTEy",
+  "snapshot_id": "MCw1MDFiNGY3MzE4NTg3MDNiZDNhNjc2NTE3Mzk3ZWQwYTUxYmJkNmRl",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Vivi",
-        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
-      },
-      "artists": [
-        {
-          "name": "Elevven",
-          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Vivi",
-      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Calling EP",
         "url": "https://open.spotify.com/album/0dDkU7N5EdbL9cernFdnKi"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 247862,
       "name": "Calling",
       "url": "https://open.spotify.com/track/5NrecJDB0DefSkXKERjTFF"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Vivi",
+        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
+      },
+      "artists": [
+        {
+          "name": "Elevven",
+          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Vivi",
+      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Hope In Balance",
-        "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
+        "name": "Influence",
+        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
       },
       "artists": [
         {
-          "name": "S\u00e3o Miguel",
-          "url": "https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq"
-        },
-        {
-          "name": "Sebastian Reynoso",
-          "url": "https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX"
+          "name": "Joe Turner",
+          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
         }
       ],
-      "duration_ms": 278796,
-      "name": "Hope In Balance",
-      "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
+      "duration_ms": 259364,
+      "name": "Influence - Edit",
+      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
     },
     {
       "added_at": "2022-11-25 16:56:36",

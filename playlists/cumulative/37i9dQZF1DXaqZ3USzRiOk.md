@@ -4,7 +4,7 @@
 
 > Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...
 
-247 songs - 12 hr 47 min
+248 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 | 2022-06-17 |  |
 | [Cama de Piedra](https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:11 | 2021-12-29 |  |
 | [Cancion Mexicana](https://open.spotify.com/track/0vCKgfSk9GmKGkfWrr0io5) | [María de Lourdes](https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R) | [La Cancion Mexicana, Vol\. I](https://open.spotify.com/album/5jMc3Jzu9tUzJken0caYyS) | 2:46 | 2021-12-29 | 2022-07-27 |
-| [Cancion Mexicana](https://open.spotify.com/track/1pg0HSVFiMq63vpFc2sO11) | [María de Lourdes](https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R) | [La Cancion Mexicana, Vol\. 1](https://open.spotify.com/album/56mmo9BDi9ySuahrHgRtAZ) | 2:46 | 2022-06-07 |  |
+| [Cancion Mexicana](https://open.spotify.com/track/1pg0HSVFiMq63vpFc2sO11) | [María de Lourdes](https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R) | [La Cancion Mexicana, Vol\. 1](https://open.spotify.com/album/56mmo9BDi9ySuahrHgRtAZ) | 2:46 | 2022-06-07 | 2023-10-30 |
 | [Cancion Mexicana](https://open.spotify.com/track/5vG5yOxyMHnWDR4Aj1wDg1) | [María de Lourdes](https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R) | [Fiesta Mexicana 15 de Septiembre](https://open.spotify.com/album/0bqCCnTmAA8NqLEnnV1w3N) | 2:46 | 2022-06-07 | 2022-11-12 |
 | [Cariñito de Mi Vida](https://open.spotify.com/track/6Hmzec6yf2OR0w6Fpz115u) | [Dueto Las Palomas](https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E) | [Serie De Coleción "15 Auténticos Éxitos"](https://open.spotify.com/album/3BxdhnjRLQENU2dv4XeERQ) | 2:03 | 2021-12-29 | 2022-06-08 |
 | [Casas de Madera](https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Gran Colección del 60 Aniversario CBS \- Ramón Ayala y Sus Bravos del Norte](https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN) | 4:23 | 2022-06-07 | 2022-07-29 |
@@ -210,6 +210,7 @@
 | [Si Tú No Vuelves](https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:14 | 2021-12-29 | 2022-06-08 |
 | [Sin Fortuna](https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:56 | 2021-12-29 |  |
 | [Sin Ti](https://open.spotify.com/track/4DrxITDkVND3H3ptCuCvab) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [15 Exitos Inmortales](https://open.spotify.com/album/5F97yxlWDURcyfLJJfDplk) | 2:45 | 2022-06-17 | 2023-10-16 |
+| [Sin Ti](https://open.spotify.com/track/2Opi06HxyP4GNjMVn0yRP3) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Presenting Los Panchos](https://open.spotify.com/album/5z5Ak2HJTugn1QCPgTkAxp) | 2:45 | 2023-06-16 |  |
 | [Sombras Nada Más](https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:56 | 2021-12-29 | 2022-07-29 |
 | [Son las Dos de la Mañana](https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [20 Exitos de Ley](https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph) | 2:44 | 2023-02-24 |  |
 | [Sonora Y Sus Ojos Negros](https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 3:01 | 2022-06-07 |  |

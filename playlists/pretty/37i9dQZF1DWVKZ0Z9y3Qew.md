@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="spotify:artist:0y55D5fL0ywYdEpIQPbwJC">Livt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,031 likes - 55 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,075 likes - 55 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 19 | [Blame Game](https://open.spotify.com/track/5RQd7pmmMPbkChg9v6TGbM) | [James Lite](https://open.spotify.com/artist/7e2dIr2GwZgilIk9CrtUUU) | [THINGS CHANGE](https://open.spotify.com/album/2tJBNw7dWw7JbkbuFcujbR) | 2:14 |
 | 20 | [Bluffin](https://open.spotify.com/track/37GcBBr2KEo2siG5NTs557) | [LATE2THEPARTY](https://open.spotify.com/artist/4kjx7LNxQOFq945cLqDw7R), [Jaywop](https://open.spotify.com/artist/7LHBUDRMoLWz3aw9H3YSb9) | [Bluffin](https://open.spotify.com/album/1fA7ucPWozog93zaGCWTYV) | 3:08 |
 | 21 | [Keep Ur Word](https://open.spotify.com/track/1sIa4VC0wvA1kRExD9Vk9g) | [Bocha](https://open.spotify.com/artist/3Uyli9ZRk3FZa1jYkMrxhz), [Shareef Keyes](https://open.spotify.com/artist/6xzRt7aCenQ4Oyk21pp5Gx) | [EVERYTHING MUST GO](https://open.spotify.com/album/7bfv7sUZ2SvxteTHQTTVlV) | 2:41 |
-| 22 | [ROPE \- Sango Remix](https://open.spotify.com/track/0VfrzUCHm1wqQjCTqH5EbG) | [Campana](https://open.spotify.com/artist/2364ipmlSnhR9dgygYHkqu), [Dave Shanaé](https://open.spotify.com/artist/5ppKWaWRnYsBET84EoCQ2o), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [ROPE \(Sango Remix\)](https://open.spotify.com/album/0DusIZLejsXiT9rFVp9zBz) | 3:08 |
+| 22 | [ROPE \- Sango Remix](https://open.spotify.com/track/01z1dsm09aZE9kseq11JBz) | [Campana](https://open.spotify.com/artist/2364ipmlSnhR9dgygYHkqu), [Dave Shanaé](https://open.spotify.com/artist/5ppKWaWRnYsBET84EoCQ2o), [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [ROPE \(Remixes\)](https://open.spotify.com/album/5EGIOt8BpGtR5ll87XOuDn) | 3:08 |
 | 23 | [of growth](https://open.spotify.com/track/13azilraBR7qeUvu0QL9FD) | [dsrt flwr](https://open.spotify.com/artist/0d4I9rxMoQb7iK2hwes4PK) | [of growth](https://open.spotify.com/album/1kvlIhWrmryV0zPWVTlYEu) | 1:53 |
 | 24 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 |
 | 25 | [High Hopes](https://open.spotify.com/track/2UJ80LD2GgnFWscA9xYRhW) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [High Hopes](https://open.spotify.com/album/2xKzoJFOERzcLF70yODya3) | 2:42 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 54 | [DX FREESTYLE](https://open.spotify.com/track/74Ceds2DwoSB3PIZ3xA24B) | [Kid Cambo](https://open.spotify.com/artist/4n9wn5OJVBp96xO2cAqVDf), [SuburbanTrapstar](https://open.spotify.com/artist/467zkq3yEhxHqSaXi6aUfL) | [KC CHRONICLES](https://open.spotify.com/album/4DA0mreqoWOuz0Ma1i3TYs) | 2:38 |
 | 55 | [Nann](https://open.spotify.com/track/1LSR4qQRrDaHVeDHQNi31H) | [Dyrect](https://open.spotify.com/artist/1dhCuRGoNbR8a8bhdY3UUs), [Drae Slapz](https://open.spotify.com/artist/1RKGcbu15VTqYNYMjyisNM), [Scooter Rogers](https://open.spotify.com/artist/6KKQAa1W5yArQ6Q31UFFcG) | [Nann](https://open.spotify.com/album/3EHesZZ4ZqLuc6eyUwo9bR) | 2:42 |
 
-Snapshot ID: `MCxhYmY2NzM2ODBlOTBlNTM2M2IyZjAxMWNiZTE0MWQ2OTYyOGY3M2Vm`
+Snapshot ID: `MCw5ZjcyNjcyNjY1ZGUzMjU5NDNjNzkxN2U3NDhjODJiOWVjNDg1ODFm`

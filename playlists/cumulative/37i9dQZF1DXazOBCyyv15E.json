@@ -6211,6 +6211,24 @@
     },
     {
       "album": {
+        "name": "Could You Help Me",
+        "url": "https://open.spotify.com/album/02grbmPkJrTIPpb1MYMn7L"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166678,
+      "name": "Could You Help Me",
+      "url": "https://open.spotify.com/track/5BEFUHkJkE96hq89ESAfgF"
+    },
+    {
+      "album": {
         "name": "Cowboy Nudes",
         "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
       },
@@ -7966,10 +7984,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 248759,
       "name": "Do You",
       "url": "https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf"
+    },
+    {
+      "album": {
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/0RqhEB5mHX22h2FsHLF2m4"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248759,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/4ZffJ6gXFwMzpzLrlRHSh0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: YUNGBLUD ft\. Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,668 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,684 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 49 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 |
 | 50 | [BLACK HEARSE](https://open.spotify.com/track/2TcdALHDcTIeaKhqJDaej1) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Family Drama](https://open.spotify.com/album/2FlBZwnnKhHR2fYleJY3de) | 2:28 |
 
-Snapshot ID: `MCw3NTZlNjk1ZDQyZDUzOGEzNTMzMzUyZDk1ZWI3ZGFjODNjYjYzMmY5`
+Snapshot ID: `MCxkNTg3OTkxYmMyYzEzNGM1ZjBlNzk4NWNkOWM0ZDFkYWI2YjIxZmE3`

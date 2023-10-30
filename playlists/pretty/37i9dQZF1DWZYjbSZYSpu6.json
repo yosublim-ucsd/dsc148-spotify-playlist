@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: SOLE, Sung Si Kyung)",
-  "num_followers": 391970,
+  "num_followers": 392001,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzlkYWM0OGJkOTUwYWEwZjkyMTMzYTQzOTY1MzlmZDQxZWUzZGRl",
+  "snapshot_id": "MCw2MzJkY2UyZTVmNDhkMjI0ODY1NTY2ZDdlNWNkNWE1MjYwMTVhNzJl",
   "tracks": [
     {
       "added_at": "2023-10-27 04:27:06",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-10-27 04:27:06",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 217412,
-      "name": "Palette (feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
-    },
-    {
-      "added_at": "2023-10-27 04:27:06",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 222415,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
+    },
+    {
+      "added_at": "2023-10-27 04:27:06",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 217412,
+      "name": "Palette (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
     },
     {
       "added_at": "2023-10-27 04:27:06",

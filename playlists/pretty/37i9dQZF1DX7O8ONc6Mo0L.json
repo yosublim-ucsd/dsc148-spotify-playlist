@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: AM\u00c9M",
-  "num_followers": 275325,
+  "num_followers": 275523,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2IxOTgxOTE3NzE4YzY0YjY0N2MyNzE1NjUzZTk1OWI4MWJhYWNl",
+  "snapshot_id": "MCwzNTNiZDM5OTg5N2E3NjcxMTc0ZmMwYzdlNGRmNDJkNTQxN2IwOTg5",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "A Mesa",
+        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 306573,
+      "name": "A Mesa",
+      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Gra\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0Gdv1W2qUBvyGokxjDmK71"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 513960,
       "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
       "url": "https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "A Mesa",
-        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 306573,
-      "name": "A Mesa",
-      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Tuas \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Fernanda Madaloni",
-          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
-        }
-      ],
-      "duration_ms": 299893,
-      "name": "Tuas \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Primeira Ess\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
       },
@@ -1047,18 +1027,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Cicatrizes",
-        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
+        "name": "Tuas \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
       },
       "artists": [
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
         }
       ],
-      "duration_ms": 215343,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
+      "duration_ms": 299893,
+      "name": "Tuas \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1079,6 +1063,22 @@
       "duration_ms": 260579,
       "name": "Sala De Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Cicatrizes",
+        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 215343,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "O Lugar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 211999,
       "name": "O Lugar (Ao Vivo)",
       "url": "https://open.spotify.com/track/21KjObq0eAFQD3Dahk5O2m"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2023-10-20 03:00:00",

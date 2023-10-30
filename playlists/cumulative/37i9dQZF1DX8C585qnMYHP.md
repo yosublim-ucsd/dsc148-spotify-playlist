@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Of The Muses on cover\. Updates every Wednesday.
 
-1,535 songs - 5 day 3 hr 54 min
+1,536 songs - 5 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Asa De Menino Chapter 2](https://open.spotify.com/track/7Ctmgg8dk0cSiFersf7nwZ) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Asa De Menino Chapter 2](https://open.spotify.com/album/0iZIAcvk4pHh9GizYvoTMh) | 1:38 | 2023-06-28 | 2023-10-05 |
 | [Askew](https://open.spotify.com/track/13NA43NS3lFqwzGOO4Y2nL) | [Macaque Sauna](https://open.spotify.com/artist/6uioSwHxtJHdMnwPro7Avb) | [Balance](https://open.spotify.com/album/4Iwk2ewnpoNveZYtyUOkVh) | 15:24 | 2023-01-11 | 2023-03-16 |
 | [Asleep](https://open.spotify.com/track/7fE3ZAc2j7Z5Y4gQwW1lB0) | [Everything Else](https://open.spotify.com/artist/1xFZYGv7rqQ21JjoO4qhGd) | [Two Monkeys](https://open.spotify.com/album/0roIOBFDe3nLLmNobQbggs) | 4:44 | 2023-08-01 | 2023-10-26 |
-| [Assim](https://open.spotify.com/track/5QsxLzOb24HfclGs6BLEt1) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Assim](https://open.spotify.com/album/5tnZGrsPtDVAHePDI2TIun) | 2:08 | 2023-10-25 |  |
+| [Assim](https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Vibrações de Prata](https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj) | 2:08 | 2023-10-25 |  |
+| [Assim](https://open.spotify.com/track/5QsxLzOb24HfclGs6BLEt1) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Assim](https://open.spotify.com/album/5tnZGrsPtDVAHePDI2TIun) | 2:08 | 2023-10-25 | 2023-10-30 |
 | [Astral Melancholy Suite](https://open.spotify.com/track/2FWwB6OgKxHgVG3MNFPNdb) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 15:05 | 2022-05-18 | 2022-07-28 |
 | [Astronomy kittens \(Song for Betty\)](https://open.spotify.com/track/69rmPrVJ4VJgLG0Hz4gOJj) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Iterations Felidae](https://open.spotify.com/album/7K3mrgVogFrTHHPSM7vOG8) | 3:43 | 2022-04-27 | 2023-03-16 |
 | [Asylum](https://open.spotify.com/track/784TRr21dCyvXHsm4tH3BE) | [Lubelski](https://open.spotify.com/artist/7EPi1KiQMnSB6cxmuGcEnS) | [Asylum](https://open.spotify.com/album/62UmYPboEY6ypNIT92Vh8x) | 6:46 | 2021-09-30 | 2021-11-03 |

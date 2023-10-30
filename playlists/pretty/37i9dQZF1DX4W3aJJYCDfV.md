@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Taylor Swift \(pictured\), Nathan Dawe, Rema and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,011 likes - 152 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,057 likes - 152 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 18 | [The Last One](https://open.spotify.com/track/6VKGPwLUO7nki5cDXT3gvQ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:59 |
 | 19 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 |
 | 20 | [The Great British Bar Off](https://open.spotify.com/track/4Eq1mE0wcq0vhkxHGm7TBw) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The Great British Bar Off](https://open.spotify.com/album/0bcCx5VccntCsUVb1NhUuP) | 5:21 |
-| 21 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 |
+| 21 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 |
 | 22 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 |
 | 23 | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/track/2VqXiJCKjkEKbI1SChyG4m) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/album/3By2H5WNB4ZpLN5Llmwrr8) | 2:08 |
 | 24 | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/track/77PlrIDSmmWwCj7vgNQiR4) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/album/3urTyQXxwNAcuNmQa5Xho3) | 2:46 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 151 | [Who Dunnit?](https://open.spotify.com/track/2rcKuc6LBiOQFSzYIa5CsW) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Who Dunnit?](https://open.spotify.com/album/65zcWNbHC9PzhkrBw3Mtcx) | 2:59 |
 | 152 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 |
 
-Snapshot ID: `MCwwYWI1OWNiOWJiNmIyYmQzZWQxMmFkYTIxMWIwMmFmMmI3MWE4ZDAw`
+Snapshot ID: `MCxkYTc5YTNkZDU3ZTgzMmU3MGJhYzIyNjZhYjgzZmIzZWEzZDg1NDQ1`

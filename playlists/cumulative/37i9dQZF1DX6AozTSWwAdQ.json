@@ -728,7 +728,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 204878,
       "name": "broken",
       "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
@@ -2050,6 +2050,24 @@
       "duration_ms": 183786,
       "name": "GO TO HELL",
       "url": "https://open.spotify.com/track/55XRXhQeU25IwqVpjQqxkz"
+    },
+    {
+      "album": {
+        "name": "GO TO HELL!!!",
+        "url": "https://open.spotify.com/album/2emQssdGVDdZ0gsf9yyzP6"
+      },
+      "artists": [
+        {
+          "name": "Lesha",
+          "url": "https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156750,
+      "name": "GO TO HELL!!!",
+      "url": "https://open.spotify.com/track/12c3eURzh9miwevJYZBbjX"
     },
     {
       "album": {
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 176826,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
@@ -5291,6 +5309,28 @@
     },
     {
       "album": {
+        "name": "TALL GRASS",
+        "url": "https://open.spotify.com/album/7bdOwVxARtsy2LVwbpWwVE"
+      },
+      "artists": [
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168882,
+      "name": "TALL GRASS",
+      "url": "https://open.spotify.com/track/15gjWTwhMqWC5U2BXzYMPJ"
+    },
+    {
+      "album": {
         "name": "Team Sport",
         "url": "https://open.spotify.com/album/3JGHQb2bf6F3HDGYJAF24R"
       },
@@ -5360,6 +5400,24 @@
       "duration_ms": 202000,
       "name": "That Was A Joke",
       "url": "https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg"
+    },
+    {
+      "album": {
+        "name": "The American Dream Is Killing Me",
+        "url": "https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186270,
+      "name": "The American Dream Is Killing Me",
+      "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
     },
     {
       "album": {

@@ -9431,6 +9431,24 @@
     },
     {
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415748,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
+    },
+    {
+      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp"
       },
@@ -14232,7 +14250,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 244802,
       "name": "You Can Dance Now",
       "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"

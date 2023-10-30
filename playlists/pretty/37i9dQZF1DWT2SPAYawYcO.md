@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Angie McMahon
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,574 likes - 93 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,624 likes - 93 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 61 | [Something You Were Trying](https://open.spotify.com/track/3HRYKVE4A2xvRdYB7RYCSa) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Something You Were Trying](https://open.spotify.com/album/1PLBCou4TZgA75enTZls1Z) | 3:39 |
 | 62 | [Jesus Take The Wheel](https://open.spotify.com/track/11QMuq982U72vpeJZghen5) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Hertz](https://open.spotify.com/album/1VxTBEpLyegYnGaNG3to25) | 2:56 |
 | 63 | [Life Lesson](https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Life Lesson](https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ) | 3:36 |
-| 64 | [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 |
+| 64 | [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 |
 | 65 | [Final Ask](https://open.spotify.com/track/6FyBbBGQ8GpuL8KMhXlptl) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Final Ask](https://open.spotify.com/album/67HVN6yNoE6MnH2PjPxTIw) | 3:44 |
 | 66 | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5) | 2:51 |
 | 67 | [Out Of Sight](https://open.spotify.com/track/0jQrns09SOaY7jmX8Rm4lZ) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Out Of Sight \(HOUSE OF GROOVE\)](https://open.spotify.com/album/5owq1MUMiuVKZ1nPZhH0d5) | 2:48 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 71 | [I Can't Ride A Bike](https://open.spotify.com/track/0p7wexjYuHcdpncY4B8x1N) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [I Can't Ride A Bike](https://open.spotify.com/album/20z0aSMzBfPArX2q1CYBbO) | 2:19 |
 | 72 | [I'M FEELING LIKE](https://open.spotify.com/track/0B7Bg35ncl74CCB7GWBbrw) | [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d), [Benny Balance](https://open.spotify.com/artist/4tBCJ7ZsTjXfe2fZ2X0VXk) | [SLEEVE TEST](https://open.spotify.com/album/6iuBfDp4c21b5JC37Mk0Kq) | 2:55 |
 | 73 | [Ember](https://open.spotify.com/track/3eD7Z4qOcBitNcL5WRfTJR) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Ember](https://open.spotify.com/album/29oysxY69oKBVkuY1BvDJc) | 5:59 |
-| 74 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 |
+| 74 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 |
 | 75 | [One For The Road](https://open.spotify.com/track/771X4iYnNtGNhgnFnykQU7) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I) | [One For The Road](https://open.spotify.com/album/4n9lQrEEOQtc4aVRE0JeLP) | 2:21 |
 | 76 | [The Punch](https://open.spotify.com/track/6ncKyPFFgKVPKuoTWsMEch) | [Romanie](https://open.spotify.com/artist/3hHGY5nAdKoijU3IYpW5y5) | [Are We There Yet?](https://open.spotify.com/album/1A2MbTQddo1HkfzHrxdBoV) | 3:44 |
 | 77 | [24 hours to live](https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [24 hours to live](https://open.spotify.com/album/73djAmtght7e1sfNLior3P) | 3:28 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 92 | [Weightless](https://open.spotify.com/track/0zWKEW4wxvNUW2z58HWJSr) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [Everything Can Levitate](https://open.spotify.com/album/5VIr5VJPxXeMjlT7IAAwel) | 2:38 |
 | 93 | [The One](https://open.spotify.com/track/4tCzAMFUd31yxOA4Mc8cz4) | [Peter Bibby](https://open.spotify.com/artist/2hL4zRvjx5funfrhNUxUS2) | [The One](https://open.spotify.com/album/7hjGINTLUq7K82NK9brytF) | 2:24 |
 
-Snapshot ID: `MCw1NDEzNGJiZGY1YzMxNDJjMTQ3ZTU4ZTVjYTk1YzE3ZjIwNGZiOWFj`
+Snapshot ID: `MCxhOWU2NDc1MzY2OTU4ZjQxOWM5NjcwZjM4Y2ZmYTYxMmI4YzQxMGIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Any Other
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,504 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,518 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 45 | [Strade Smarrite](https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5) | [Strade Smarrite](https://open.spotify.com/album/1Vf70Udh78YnTe6SLUwvDw) | 3:26 |
 | 46 | [Satelliti](https://open.spotify.com/track/0mHgGcaO1VBp50XuTB1Avl) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Scartaggi](https://open.spotify.com/album/06BUg0CBtQcPvXmAA8Uwx1) | 3:12 |
 | 47 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 |
-| 48 | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/track/3FkCUmmNarqRBVkAqBDiyJ) | [Alfonso Cheng](https://open.spotify.com/artist/67Ei8mhmeEmM3KAl4PX1hz), [Visconti](https://open.spotify.com/artist/5UZR9WTGdqLZHX8nRed9WL) | [Nocera by Night \(feat Visconti\)](https://open.spotify.com/album/6D3Z18y2SziNIlaGy2OFMe) | 3:11 |
+| 48 | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/track/63CV2MUMGNraD6LbmDk3aU) | [Alfonso Cheng](https://open.spotify.com/artist/67Ei8mhmeEmM3KAl4PX1hz), [Visconti](https://open.spotify.com/artist/5UZR9WTGdqLZHX8nRed9WL) | [Nocera by Night \(feat\. Visconti\)](https://open.spotify.com/album/6TqZM3iOYB1USiWyxvd17i) | 3:11 |
 | 49 | [Capelli scarmigliati](https://open.spotify.com/track/0HLhUam366SqCMjtrazrue) | [Maremarcio](https://open.spotify.com/artist/1HkEEypIQJePOJGOEEJFH9) | [Maremarcio/Alas Split](https://open.spotify.com/album/1byaT6ElGVwRZPAyn14GUS) | 2:24 |
 | 50 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 |
 | 51 | [MANTRA](https://open.spotify.com/track/5OeXR8t6XNBJHabaybzknU) | [Isoladellerose](https://open.spotify.com/artist/0kLYaTmvi8RPAmOEgS2oRb) | [MANTRA](https://open.spotify.com/album/7LaUP7iIURuc6QPGSOPY2B) | 2:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 74 | [Rossetto](https://open.spotify.com/track/65TUe2ZU0gG23xANNj3q6g) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Rossetto](https://open.spotify.com/album/6zUBlbn5dgLDIfsku4zQqy) | 2:50 |
 | 75 | [Medioriente](https://open.spotify.com/track/1DRTAkWNgNyjUknJ5zcXQE) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Medioriente / Miku五](https://open.spotify.com/album/2f31VolieJe7o0J9m1en3I) | 6:21 |
 
-Snapshot ID: `MCwzYTU1M2M1NjQyZGU2Y2JlYzM1ODBlMDc4NDVlMzIzOTI0ZmY4M2Vm`
+Snapshot ID: `MCw4ZGMyZjg3OTAzNGU1MjUwNmY4ZWMyOTZhYTY1M2JjODlhMzExYjEy`

@@ -4,7 +4,7 @@
 
 > New music from Taylor Swift, Majid Jordan, Rema, Tenille Arts and more.
 
-9,471 songs - 21 day 0 hr 19 min
+9,473 songs - 21 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4021,7 +4021,8 @@
 | [Ibiza](https://open.spotify.com/track/2Fm1t1oY0uDQSKXz3R8F9o) | [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [Greez185](https://open.spotify.com/artist/45PJclnxVG0BakHfqNJbDs) | [Ibiza](https://open.spotify.com/album/4M7RxJ8EMFsb7HOPe6TxMX) | 3:07 | 2022-05-13 | 2022-05-20 |
 | [ICE COLD ZEL FREESTYLE \[Feat\. ICECOLDBISHOP\]](https://open.spotify.com/track/4P6ivDGUbbfXWpFJVyzV6s) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [BLOOD ON MY NIKEZ](https://open.spotify.com/album/6XJQyWSjUaPb0M30hX2QU8) | 1:39 | 2023-08-04 | 2023-08-12 |
 | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0) | 2:03 | 2022-04-01 | 2022-04-09 |
-| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-27 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-27 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-27 | 2023-10-30 |
 | [Ice Cream Dream \(feat\. French Montana\)](https://open.spotify.com/track/1BsZW3NH0aTEc7KMmglYWU) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Ice Cream Dream \(feat\. French Montana\)](https://open.spotify.com/album/3UkdUEC0ih1F7F6tXMlXbT) | 2:32 | 2022-04-22 | 2022-04-29 |
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-03 | 2023-02-11 |
 | [Ice It](https://open.spotify.com/track/6SqaPZe3MK7g5EgzyIGZGq) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Ice It](https://open.spotify.com/album/7E11Lel6ajqL3Z3yAr7Y3H) | 2:03 | 2023-06-23 | 2023-07-01 |
@@ -4380,7 +4381,8 @@
 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 | 2022-12-09 | 2022-12-17 |
 | [Keep Dancing](https://open.spotify.com/track/40MvWovKhWdX9jxbthw62T) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Keep Dancing](https://open.spotify.com/album/2g1V6cI8hGRPXiyVEDnXYN) | 2:59 | 2022-04-22 | 2022-04-29 |
 | [Keep From Falling](https://open.spotify.com/track/2J1iMDApDGF5akWEl1spZQ) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Keep From Falling](https://open.spotify.com/album/2XrROypIe8YTa9kWrFBIaB) | 3:56 | 2023-03-24 | 2023-04-01 |
-| [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 | 2023-10-27 |  |
+| [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 | 2023-10-27 | 2023-10-30 |
+| [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 | 2023-10-27 |  |
 | [Keep Going Up \(with Nelly Furtado & Justin Timberlake\)](https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Keep Going Up](https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c) | 2:54 | 2023-09-01 | 2023-09-09 |
 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/3kH94a1MQM7YrpsZRWuXrh) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Keep It Low \(feat\. Future\)](https://open.spotify.com/album/30XjUCo4sqJqNuYuJdYAFu) | 2:22 | 2023-06-02 | 2023-06-10 |
 | [Keep It Real](https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:47 | 2022-06-24 | 2022-07-02 |

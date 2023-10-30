@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,393 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,435 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 51 | [Take My Chance](https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9) | 3:18 |
 | 52 | [Ice Cream \(feat\. YN Jay & Riff Raff\)](https://open.spotify.com/track/2aA3Xz6XKAo96jp03h4Zak) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o) | [MegaTron 2](https://open.spotify.com/album/7zezk3hbEWlOooKBLuLJKp) | 3:01 |
 | 53 | [Alcohol \(with BRELAND\)](https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Alcohol \(with BRELAND\)](https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch) | 3:38 |
-| 54 | [Snake at The Altar](https://open.spotify.com/track/09g9dZqULC8yNN8FrlK9QP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Snake at The Altar](https://open.spotify.com/album/5HquJB12UiWeUK0f4T5meF) | 2:58 |
+| 54 | [Snake at the Altar](https://open.spotify.com/track/09g9dZqULC8yNN8FrlK9QP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Snake at the Altar](https://open.spotify.com/album/5HquJB12UiWeUK0f4T5meF) | 2:58 |
 | 55 | [DOOMED](https://open.spotify.com/track/2QW7HsMtYAlVlwqUJfkpry) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [CURSED / DOOMED](https://open.spotify.com/album/0oeVxAxERa1JAsvq4nZYi2) | 2:58 |
 | 56 | [Halloweenie V: The Moss King](https://open.spotify.com/track/0MWkCSW0W7rGLSvDR2xExC) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie V: The Moss King](https://open.spotify.com/album/76o6AaSFr2owQN4AEit99z) | 2:07 |
 | 57 | [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 |
 | 100 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 |
 
-Snapshot ID: `MCwwMDc2OWQxYmQwOTU1ODVlNzlhYmFhMjczZWVhOTUyMDAxODIxMjBh`
+Snapshot ID: `MCxhY2JjZTlhMzUxNTI0NDM4ZjU1Mjk0ZjJmNDdjNjU1ZDI5NDgwMjE4`

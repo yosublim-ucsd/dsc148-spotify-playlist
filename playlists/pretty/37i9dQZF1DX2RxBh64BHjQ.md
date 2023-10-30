@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,787,622 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,787,808 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [No Statements](https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [No Statements](https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK) | 2:38 |
 | 100 | [Bang Man](https://open.spotify.com/track/735AY1Wwc1zb6exlKxH0mT) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Bang Man](https://open.spotify.com/album/5Lmpc36dtIEEtxa6iNE1dv) | 2:59 |
 
-Snapshot ID: `MCw5ZWEyMzI2NGYyZTQwMTEzZDkyMTY0MDZkMGQ0N2QxOTUyNzJiMzVm`
+Snapshot ID: `MCxjYmVmMjZkOGY2OTk1ODMxNzBiMzQyZGUzMTExYjQ5OTY2MGYxOWU4`

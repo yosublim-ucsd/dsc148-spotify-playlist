@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 
 > El sonido experimental del Caribe 🌴🦀⚛️
 
-[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 417 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,21 +28,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 18 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 |
 | 19 | [El Benson](https://open.spotify.com/track/0W16rC9z9YGHFe9ZULahO7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 4:29 |
 | 20 | [Desastre Comunal](https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 3:05 |
-| 21 | [Boca Chica](https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Caribbean All\-Inclusive Luxury](https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl) | 4:02 |
-| 22 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
+| 21 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
+| 22 | [Boca Chica](https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Caribbean All\-Inclusive Luxury](https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl) | 4:02 |
 | 23 | [Métele](https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP I](https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1) | 4:08 |
 | 24 | [Desconocidos](https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa) | [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi), [Mula](https://open.spotify.com/artist/7wGtDLvDRGllVRX01cj9Ml) | [Caribe Express](https://open.spotify.com/album/4ab1kveCYeqKhuhYwX17P8) | 3:01 |
 | 25 | [Babylon Will Fall](https://open.spotify.com/track/2t8F5RetPO9gKWAUKoQjcI) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [At 333 House](https://open.spotify.com/album/1ZoJQSxfZempYe5j2auBLh) | 3:06 |
-| 26 | [Veneno](https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Veneno](https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp) | 2:32 |
-| 27 | [Ñe Ñe Ñé](https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:07 |
-| 28 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
+| 26 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
+| 27 | [Déjame Decirte \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 5:23 |
+| 28 | [Veneno](https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Veneno](https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp) | 2:32 |
 | 29 | [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Cool Down \(Ice Cream Donut\)](https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te) | 3:42 |
 | 30 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:08 |
 | 31 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
 | 32 | [Oigo voces](https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El Pozo](https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3) | 4:36 |
 | 33 | [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 |
 | 34 | [Crónico](https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Crónico](https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae) | 3:01 |
-| 35 | [Déjame Decirte \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 5:23 |
+| 35 | [Ñe Ñe Ñé](https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:07 |
 | 36 | [Bajito a selva](https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 4:59 |
 | 37 | [Yo Sé Que Tú Me Conoces](https://open.spotify.com/track/3H2VzqCdBQCJ5I0Zd8iUlp) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 4:18 |
 | 38 | [Heart Full of Love](https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [0000+0000](https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp) | 4:10 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 44 | [Pasame a buca](https://open.spotify.com/track/60EESpZTd9pRPhXfRIo2h6) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 5:45 |
 | 45 | [Agua que Llegó](https://open.spotify.com/track/1WBC4Eg7S6448UzcZP7tYi) | [La Marimba](https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx) | [Agua que Llegó](https://open.spotify.com/album/7A2qFodTELKiPiZjcxrMdV) | 4:01 |
 | 46 | [Subo Subo](https://open.spotify.com/track/4SulPJvtMSoxfj1uCuNzMz) | [Turista](https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F), [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [La Nueva Esquina](https://open.spotify.com/album/3PzZzZV9XyKNaRfF7oMEQM) | 3:47 |
-| 47 | [Nice & Easy](https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE), [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c) | [Nice & Easy](https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk) | 3:36 |
+| 47 | [No le de tó](https://open.spotify.com/track/46gUBj8C01B7vWo7cpU9OQ) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [No le de tó](https://open.spotify.com/album/4F1aR4ERzltYUOOnoU7T0r) | 4:24 |
 | 48 | [Dos amores](https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw), [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Dos amores](https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM) | 3:22 |
-| 49 | [No le de tó](https://open.spotify.com/track/46gUBj8C01B7vWo7cpU9OQ) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [No le de tó](https://open.spotify.com/album/4F1aR4ERzltYUOOnoU7T0r) | 4:24 |
+| 49 | [Nice & Easy](https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE), [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c) | [Nice & Easy](https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk) | 3:36 |
 | 50 | [Conmigo](https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Conmigo](https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV) | 3:35 |
 
-Snapshot ID: `MCxhMjRjNTYyYTU5ZGYwNzRjNGU3MDQ0MGM0Njc5NjFjZjViYTljODAy`
+Snapshot ID: `MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi`

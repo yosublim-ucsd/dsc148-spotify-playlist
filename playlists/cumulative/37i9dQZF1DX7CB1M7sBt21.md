@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-188 songs - 9 hr 9 min
+189 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 | 2021-11-19 |  |
 | [OMG What's Happening](https://open.spotify.com/track/11OPriDpmUrTMTji52ta17) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:59 | 2022-07-28 |  |
 | [OMG What's Happening](https://open.spotify.com/track/6T7NPX0BWpaapcp0Jn7OK9) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [OMG What's Happening](https://open.spotify.com/album/7hFIRIvyj0EvBfEUsBfrqX) | 2:59 | 2021-11-19 | 2022-07-29 |
+| [On My Love \- Felix Jaehn Remix](https://open.spotify.com/track/1CCjb1x6tRof8W6ApIJy6o) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [On My Love \(Felix Jaehn Remix\)](https://open.spotify.com/album/0LMyvKO91nmgBAb1JFpIQw) | 3:30 | 2023-10-19 |  |
 | [One Touch](https://open.spotify.com/track/4IcysXELq8QqdroY4qEJIi) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [HARD FEELINGS: Ventricle 2](https://open.spotify.com/album/3X56wKXaQ8r6Oexj6v92Lw) | 3:32 | 2021-11-19 | 2022-07-29 |
 | [Only Fanz \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/3bcv37HaYugMNI6VUEhwBy) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Only Fanz](https://open.spotify.com/album/6mjAFRn6ioy8Z2fxWhGn3I) | 2:53 | 2021-11-19 | 2022-07-04 |
 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 | 2022-07-15 |  |
@@ -169,7 +170,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2022-07-28 |  |
 | [Take Me Away](https://open.spotify.com/track/0lixDLKnErIvmoeqmdm0Di) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Take Me Away](https://open.spotify.com/album/0hAyGMbHb1HTWrPuKYKmk1) | 3:16 | 2021-11-19 | 2022-07-29 |
 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-11-19 |  |
-| [Tequila](https://open.spotify.com/track/3MVNXhRlsGAPALmUzkFxNd) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Sidmer](https://open.spotify.com/artist/6SsaokMkJuefE4Fg3ZXGOY) | [Tequila](https://open.spotify.com/album/7IxBfo8uxIpu8GHslBHikQ) | 2:55 | 2023-10-12 |  |
+| [Tequila](https://open.spotify.com/track/3MVNXhRlsGAPALmUzkFxNd) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Sidmer](https://open.spotify.com/artist/6SsaokMkJuefE4Fg3ZXGOY) | [Tequila](https://open.spotify.com/album/7IxBfo8uxIpu8GHslBHikQ) | 2:55 | 2023-10-12 | 2023-10-30 |
 | [The Dirt \- Alternative Version](https://open.spotify.com/track/5EaJ5uIPi6QoiZfBKb3kau) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [YARO](https://open.spotify.com/artist/0eQVzVjmhZ3c7cXrIKJFOK), [NANNO](https://open.spotify.com/artist/3u1RvsYgD1jXDRuWDgtiKo) | [The Dirt](https://open.spotify.com/album/3NxLgrRi0NZhyGKt6MN6JU) | 2:52 | 2021-11-19 | 2022-07-29 |
 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 | 2022-07-28 |  |
 | [The Truth \- Sam Feldt Remix](https://open.spotify.com/track/4ERDsm0YhyQuP32Qrvg2ne) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [The Truth \(Sam Feldt Remix\)](https://open.spotify.com/album/3eLaVXLiU0z1oguPxtNHLD) | 3:40 | 2021-11-19 | 2022-07-29 |

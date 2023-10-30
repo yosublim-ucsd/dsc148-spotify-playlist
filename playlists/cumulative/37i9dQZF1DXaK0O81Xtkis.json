@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: MICHELLE",
+  "description": "make it pop! cover: Stephen Dawes",
   "name": "soda",
   "tracks": [
     {
@@ -296,6 +296,24 @@
       "duration_ms": 207120,
       "name": "6am in amsterdam.",
       "url": "https://open.spotify.com/track/4SRmLLMhqGvYc4QuvVhFsO"
+    },
+    {
+      "album": {
+        "name": "I Found Love at 23",
+        "url": "https://open.spotify.com/album/1yZ7o3rLx5tSzMNQOe7FMy"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144512,
+      "name": "A-List",
+      "url": "https://open.spotify.com/track/3aLMnL5LOmwMXYgnWWPJid"
     },
     {
       "album": {
@@ -3095,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "The Day We Met",
+        "url": "https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156284,
+      "name": "Don't Hate Me When It's Over",
+      "url": "https://open.spotify.com/track/76pV06GMcz7OMVEnmjV83e"
+    },
+    {
+      "album": {
         "name": "Don't Say That",
         "url": "https://open.spotify.com/album/1AzVuGLx8kINmnKgBJ4gY8"
       },
@@ -5707,6 +5743,24 @@
     },
     {
       "album": {
+        "name": "i can't get my shit together",
+        "url": "https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173551,
+      "name": "i can't get my shit together",
+      "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
+    },
+    {
+      "album": {
         "name": "I Can't Grow Up",
         "url": "https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm"
       },
@@ -7842,7 +7896,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 129289,
       "name": "Loser",
       "url": "https://open.spotify.com/track/17fCb9V3l6TDdZgITI2JxB"
@@ -9170,7 +9224,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 174996,
       "name": "Novocaine",
       "url": "https://open.spotify.com/track/561WtF4saXolXokGjeVPYJ"
@@ -13256,7 +13310,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 163253,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
@@ -13506,6 +13560,24 @@
       "duration_ms": 185634,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/7EOBY5TowmAjt1aZDkk8TG"
+    },
+    {
+      "album": {
+        "name": "Used To Be Happy",
+        "url": "https://open.spotify.com/album/7h0zp8TPf3JtmZLD8InVPx"
+      },
+      "artists": [
+        {
+          "name": "CVBZ",
+          "url": "https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Used To Be Happy",
+      "url": "https://open.spotify.com/track/3ViOvmmajqs6me31ywndGn"
     },
     {
       "album": {
@@ -13780,7 +13852,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 201047,
       "name": "We Can Be Anything",
       "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"

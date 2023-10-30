@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,962 likes - 74 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,194,073 likes - 74 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 73 | [Gangsta Lean](https://open.spotify.com/track/0EFY0o5DqcD8n7JKDtfgf9) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Gangsta Lean](https://open.spotify.com/album/0dy9A6nscVVldqXuWDgREB) | 2:09 |
 | 74 | [The One](https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [I Showed U So](https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU) | 2:14 |
 
-Snapshot ID: `MCwyNDY0ZTQzNTZmOGRiZGFlMzViOGUxOWQzYmFmMTY3ODZkZTMzZmM2`
+Snapshot ID: `MCwxNjY2ODA0MjRlN2M4NjIzNGM2MTdlNzAzOWVjYzFmZGYzMzUzOTUy`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como El \u00daltimo de la Fila.",
-  "num_followers": 567292,
+  "num_followers": 567577,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmZhMGQ0MmY2MzM2YjBmMzg5NWZmZDE4NzI5OTY5MTU2YjI0Yzdh",
+  "snapshot_id": "MCxhYjg3MDVkZTk4MTg3NjFhMDA5MWYwYWJjZmY5ZDJlYzExMWU2MGIy",
   "tracks": [
     {
       "added_at": "2023-10-26 22:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Arena En Los Bolsillos",
+        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
+      },
+      "artists": [
+        {
+          "name": "Manolo Garcia",
+          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "A San Fernando un Ratito a Pie y Otro Caminando",
+      "url": "https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 164669,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Arena En Los Bolsillos",
-        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
-      },
-      "artists": [
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "A San Fernando un Ratito a Pie y Otro Caminando",
-      "url": "https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Sopa fria",
-        "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
-      },
-      "artists": [
-        {
-          "name": "M-Clan",
-          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
-        }
-      ],
-      "duration_ms": 297106,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Ese d\u00eda piensa en m\u00ed",
         "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 311866,
       "name": "Dolores se llamaba Lola",
       "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Sopa fria",
+        "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
+      },
+      "artists": [
+        {
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+        }
+      ],
+      "duration_ms": 297106,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Marines A Pleno Sol",
+        "url": "https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539"
+      },
+      "artists": [
+        {
+          "name": "LOS NIKIS",
+          "url": "https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "El imperio contraataca",
+      "url": "https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "El Carro de la Vida (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5TziM0FWmtLYoKQZxlijkp"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Marines A Pleno Sol",
-        "url": "https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539"
-      },
-      "artists": [
-        {
-          "name": "LOS NIKIS",
-          "url": "https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "El imperio contraataca",
-      "url": "https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Vamos Tirando",
         "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
       },
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
-        "url": "https://open.spotify.com/album/4qByfq5tS7o8pQXyz3QzI0"
-      },
-      "artists": [
-        {
-          "name": "Despistaos",
-          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
-        },
-        {
-          "name": "Funambulista",
-          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
-        },
-        {
-          "name": "Shinova",
-          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
-        }
-      ],
-      "duration_ms": 227319,
-      "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
-      "url": "https://open.spotify.com/track/6VwFAPGWOfHirpRLMVj7Go"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
         "url": "https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3"
       },
@@ -1515,6 +1491,30 @@
       "duration_ms": 226813,
       "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
       "url": "https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
+        "url": "https://open.spotify.com/album/4qByfq5tS7o8pQXyz3QzI0"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "Funambulista",
+          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+        },
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
+        }
+      ],
+      "duration_ms": 227319,
+      "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
+      "url": "https://open.spotify.com/track/6VwFAPGWOfHirpRLMVj7Go"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1607,6 +1607,38 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Corre Corre",
+        "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f1o",
+          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
+        }
+      ],
+      "duration_ms": 245440,
+      "name": "Sorprendente",
+      "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Destrozares, Canciones para el Final de los Tiempos",
+        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 429000,
+      "name": "Del Tiempo Perdido",
+      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Un d\u00eda nada m\u00e1s",
         "url": "https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x"
       },
@@ -1631,38 +1663,6 @@
       "duration_ms": 249791,
       "name": "Fr\u00edo (con Fito y Fitipaldis, Tarque y Rosendo)",
       "url": "https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Destrozares, Canciones para el Final de los Tiempos",
-        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 429000,
-      "name": "Del Tiempo Perdido",
-      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Corre Corre",
-        "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f1o",
-          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
-        }
-      ],
-      "duration_ms": 245440,
-      "name": "Sorprendente",
-      "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
     },
     {
       "added_at": "2023-10-26 22:00:00",

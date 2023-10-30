@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u4e0a\u767d\u77f3\u840c\u97f3",
-  "num_followers": 104396,
+  "num_followers": 104486,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Njg4NDRlM2M1YTM0MGU0M2ZmYWFlNzM2ZjBiN2MzNmExNGM5NzEw",
+  "snapshot_id": "MCxiNDRhZDljYWE5NDg5MmI2NmQ0NmFkNzFlMWViZWYyMTJlY2UzNTgz",
   "tracks": [
     {
       "added_at": "2023-10-26 15:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
+        "name": "\u661f\u6708\u591c",
+        "url": "https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ"
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
         }
       ],
-      "duration_ms": 254291,
-      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
+      "duration_ms": 265714,
+      "name": "\u661f\u6708\u591c",
+      "url": "https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "\u661f\u6708\u591c",
-        "url": "https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ"
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
       },
       "artists": [
         {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
-      "duration_ms": 265714,
-      "name": "\u661f\u6708\u591c",
-      "url": "https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm"
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1007,6 +1007,38 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
+        "name": "\u604b\u3060\u3068\u306f",
+        "url": "https://open.spotify.com/album/0U5Ngt5P22CZPHNhhnH0Tb"
+      },
+      "artists": [
+        {
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
+        }
+      ],
+      "duration_ms": 226677,
+      "name": "\u604b\u3060\u3068\u306f",
+      "url": "https://open.spotify.com/track/2jI3IN3kyMDlWONkR6G3lc"
+    },
+    {
+      "added_at": "2023-10-26 15:00:00",
+      "album": {
+        "name": "\u6d88\u3048\u308b\u307e\u3067",
+        "url": "https://open.spotify.com/album/5KfRRpVhvrtESciHQy4gWo"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "duration_ms": 205665,
+      "name": "\u6d88\u3048\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/39v0hXWTXExgku2HrkBhJX"
+    },
+    {
+      "added_at": "2023-10-26 15:00:00",
+      "album": {
         "name": "LEFT RIGHT REMIXX (FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS)",
         "url": "https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX"
       },
@@ -1031,38 +1063,6 @@
       "duration_ms": 271893,
       "name": "LEFT RIGHT REMIXX - FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS",
       "url": "https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar"
-    },
-    {
-      "added_at": "2023-10-26 15:00:00",
-      "album": {
-        "name": "\u6d88\u3048\u308b\u307e\u3067",
-        "url": "https://open.spotify.com/album/5KfRRpVhvrtESciHQy4gWo"
-      },
-      "artists": [
-        {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
-        }
-      ],
-      "duration_ms": 205665,
-      "name": "\u6d88\u3048\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/39v0hXWTXExgku2HrkBhJX"
-    },
-    {
-      "added_at": "2023-10-26 15:00:00",
-      "album": {
-        "name": "\u604b\u3060\u3068\u306f",
-        "url": "https://open.spotify.com/album/0U5Ngt5P22CZPHNhhnH0Tb"
-      },
-      "artists": [
-        {
-          "name": "shimamo",
-          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
-        }
-      ],
-      "duration_ms": 226677,
-      "name": "\u604b\u3060\u3068\u306f",
-      "url": "https://open.spotify.com/track/2jI3IN3kyMDlWONkR6G3lc"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "The Flame of Love",
-        "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
+        "name": "\u79c1\u306e\u307e\u307e\u3067",
+        "url": "https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B"
       },
       "artists": [
         {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
         }
       ],
-      "duration_ms": 199117,
-      "name": "The Flame of Love",
-      "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
+      "duration_ms": 255605,
+      "name": "\u79c1\u306e\u307e\u307e\u3067",
+      "url": "https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "L7 Blues",
-        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+        "name": "The Flame of Love",
+        "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
       },
       "artists": [
         {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
         }
       ],
-      "duration_ms": 141974,
-      "name": "L7 Blues",
-      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+      "duration_ms": 199117,
+      "name": "The Flame of Love",
+      "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1275,34 +1275,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "\u79c1\u306e\u307e\u307e\u3067",
-        "url": "https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B"
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
       "artists": [
         {
-          "name": "SHISHAMO",
-          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
         }
       ],
-      "duration_ms": 255605,
-      "name": "\u79c1\u306e\u307e\u307e\u3067",
-      "url": "https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI"
-    },
-    {
-      "added_at": "2023-10-26 15:00:00",
-      "album": {
-        "name": "\u30b9\u30de\u30a4\u30eb\u3042\u3052\u306a\u3044",
-        "url": "https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5"
-      },
-      "artists": [
-        {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
-        }
-      ],
-      "duration_ms": 197722,
-      "name": "\u30b9\u30de\u30a4\u30eb\u3042\u3052\u306a\u3044",
-      "url": "https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL"
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 191180,
       "name": "Tokyo Calling",
       "url": "https://open.spotify.com/track/2WNjQidYVQO0oFFlTuF8fo"
+    },
+    {
+      "added_at": "2023-10-26 15:00:00",
+      "album": {
+        "name": "\u30b9\u30de\u30a4\u30eb\u3042\u3052\u306a\u3044",
+        "url": "https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "duration_ms": 197722,
+      "name": "\u30b9\u30de\u30a4\u30eb\u3042\u3052\u306a\u3044",
+      "url": "https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "\u5929\u60aa",
-        "url": "https://open.spotify.com/album/5AN3eT7pdKKPrBpSFQcJE2"
-      },
-      "artists": [
-        {
-          "name": "shimamo",
-          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
-        }
-      ],
-      "duration_ms": 201754,
-      "name": "\u5929\u60aa",
-      "url": "https://open.spotify.com/track/6QVXXnFhB9xqos2aqwczhi"
-    },
-    {
-      "added_at": "2023-10-26 15:00:00",
-      "album": {
         "name": "\u7d14\u611b\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
         "url": "https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Dusk to Dawn",
-        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
+        "name": "\u5929\u60aa",
+        "url": "https://open.spotify.com/album/5AN3eT7pdKKPrBpSFQcJE2"
       },
       "artists": [
         {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
         }
       ],
-      "duration_ms": 226843,
-      "name": "Around the Corner",
-      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
+      "duration_ms": 201754,
+      "name": "\u5929\u60aa",
+      "url": "https://open.spotify.com/track/6QVXXnFhB9xqos2aqwczhi"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
+        "name": "Dusk to Dawn",
+        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "duration_ms": 226843,
+      "name": "Around the Corner",
+      "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
+    },
+    {
+      "added_at": "2023-10-26 15:00:00",
+      "album": {
         "name": "Under Mentality",
         "url": "https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 203166,
       "name": "It Might Be Painful, But I Still Love It.",
       "url": "https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg"
+    },
+    {
+      "added_at": "2023-10-26 15:00:00",
+      "album": {
+        "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 249273,
+      "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1595,38 +1611,6 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "meringue doll",
-        "url": "https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 253057,
-      "name": "meringue doll",
-      "url": "https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ"
-    },
-    {
-      "added_at": "2023-10-26 15:00:00",
-      "album": {
-        "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 249273,
-      "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
-    },
-    {
-      "added_at": "2023-10-26 15:00:00",
-      "album": {
         "name": "\u30c1\u30ce\u30ab\u30c6",
         "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 248300,
       "name": "\u30c1\u30ce\u30ab\u30c6",
       "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
+    },
+    {
+      "added_at": "2023-10-26 15:00:00",
+      "album": {
+        "name": "meringue doll",
+        "url": "https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 253057,
+      "name": "meringue doll",
+      "url": "https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ"
     },
     {
       "added_at": "2023-10-26 15:00:00",

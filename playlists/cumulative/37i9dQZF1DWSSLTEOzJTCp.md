@@ -4,7 +4,7 @@
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-58 songs - 3 hr 14 min
+59 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/44J9wUVTFIGKmjDJb4e5Oq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 3:19 | 2022-11-30 |  |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-11-30 |  |
 | [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 | 2022-11-30 |  |
-| [Desire](https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Revive EP](https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r) | 3:08 | 2022-11-30 |  |
+| [Desire](https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Revive EP](https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r) | 3:08 | 2022-11-30 | 2023-10-30 |
 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 | 2022-11-30 | 2023-10-26 |
 | [End Of The World](https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [End Of The World](https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW) | 3:42 | 2022-11-30 |  |
 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 | 2022-11-30 |  |
@@ -51,6 +51,7 @@
 | [Pain Killer](https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:32 | 2022-11-30 |  |
 | [PERFECT CHERRY BLOSSOM](https://open.spotify.com/track/6ZPuQzivx212dWhy688ain) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [PERFECT CHERRY BLOSSOM](https://open.spotify.com/album/20FG884jVaTdrTHcnkev9d) | 4:36 | 2022-11-30 | 2022-12-18 |
 | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Abdul Cisse\]](https://open.spotify.com/track/0nb9kXzptLW51z6gX5jzz7) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Abdul Cisse](https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl) | [PS5 \(Fortnite Battle Pass Gamer Remix\) \[with Alan Walker & Abdul Cisse\] \[Fortnite Battle Pass Gamer Remix/ with Alan Walker & Abdul Cisse\]](https://open.spotify.com/album/3aWHGpf2SLqsaeZElKcD3N) | 2:28 | 2022-11-30 | 2023-10-24 |
+| [PS5 \- Fortnite Battle Pass Gamer Remix](https://open.spotify.com/track/781ETukr0feYzkNRONUZYx) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Abdul Cisse](https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:28 | 2022-11-30 |  |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-11-30 |  |
 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 | 2022-11-30 |  |
 | [Seduce / Destroy](https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Seduce / Destroy](https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv) | 3:02 | 2022-11-30 |  |

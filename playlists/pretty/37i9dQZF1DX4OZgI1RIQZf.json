@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 73745,
+  "num_followers": 74421,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzY2YTljNjY5MGFmNWE3ZTczNmQyNmZiYTVlZDBiZTIzZDg3MTRi",
+  "snapshot_id": "MCxjNTliMzU2ZmNhMjAxMjdmZDA2MjUxODIzMjllNjEyMjgyNjYyMjBh",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 189213,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0ThaVtdQ5zuAYLjvoT342v"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },
@@ -331,18 +315,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Carry On The Grudge",
-        "url": "https://open.spotify.com/album/3iRWCjHbKKSICMbXarCTRC"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
       "artists": [
         {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 246186,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/22eNdxGb4tEvBt0nBCp52o"
+      "duration_ms": 189213,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0ThaVtdQ5zuAYLjvoT342v"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -359,6 +343,22 @@
       "duration_ms": 210333,
       "name": "Pet Sematary",
       "url": "https://open.spotify.com/track/2PN0JeaGtkHrlcmwZFWzBM"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Carry On The Grudge",
+        "url": "https://open.spotify.com/album/3iRWCjHbKKSICMbXarCTRC"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 246186,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/22eNdxGb4tEvBt0nBCp52o"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "To Lose My Life... (Bonus remix version)",
-        "url": "https://open.spotify.com/album/4A8HMvPUKHOxvTlsrPeNKh"
-      },
-      "artists": [
-        {
-          "name": "White Lies",
-          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "To Lose My Life",
-      "url": "https://open.spotify.com/track/2W4R6zrp1lLWtMXCJLA98H"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "So Jealous",
         "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 150293,
       "name": "Walking with a Ghost",
       "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "To Lose My Life... (Bonus remix version)",
+        "url": "https://open.spotify.com/album/4A8HMvPUKHOxvTlsrPeNKh"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "To Lose My Life",
+      "url": "https://open.spotify.com/track/2W4R6zrp1lLWtMXCJLA98H"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "Flexorcist",
+        "url": "https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 357463,
+      "name": "Flexorcist",
+      "url": "https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 309786,
       "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
       "url": "https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "St. Charles Square",
         "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "The Great Awakening",
-        "url": "https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN"
-      },
-      "artists": [
-        {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
-        }
-      ],
-      "duration_ms": 190728,
-      "name": "Can't Get You Out of My Head",
-      "url": "https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "The Great Awakening",
+        "url": "https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "duration_ms": 190728,
+      "name": "Can't Get You Out of My Head",
+      "url": "https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "Noise Floor (Rarities: 1998-2005)",
         "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 183240,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Halloween Store",
-      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Halloween Store",
+      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 245253,
       "name": "We Only Come Out At Night - Remastered 2012",
       "url": "https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "Flexorcist",
-        "url": "https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb"
-      },
-      "artists": [
-        {
-          "name": "The Voidz",
-          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
-        }
-      ],
-      "duration_ms": 357463,
-      "name": "Flexorcist",
-      "url": "https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "A Weekend in the City",
-        "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 210146,
-      "name": "Hunting for Witches",
-      "url": "https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "The Physical World",
         "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 185386,
       "name": "Right On, Frankenstein!",
       "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "A Weekend in the City",
+        "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 210146,
+      "name": "Hunting for Witches",
+      "url": "https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
-        "url": "https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
-      "url": "https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Come Of Age",
         "url": "https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 140906,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/347OA86TbdeTydHhy90blH"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
+        "url": "https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
+      "url": "https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Friendly Fires",
-        "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Skeleton Boy",
-      "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Pip Paine (Pay The \u00a35000 You Owe)",
         "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Transangelic Exodus",
-        "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
       },
       "artists": [
         {
-          "name": "Ezra Furman",
-          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
         }
       ],
-      "duration_ms": 289000,
-      "name": "Suck the Blood from My Wound",
-      "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
+      "duration_ms": 213640,
+      "name": "Skeleton Boy",
+      "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Four Words To Stand On",
-        "url": "https://open.spotify.com/album/0UIVEV4vALA9fawXE8YLHS"
+        "name": "Transangelic Exodus",
+        "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
         }
       ],
-      "duration_ms": 211480,
-      "name": "Standing On Ghosts",
-      "url": "https://open.spotify.com/track/5DQNmdJagdL4HGnkcu6qwW"
+      "duration_ms": 289000,
+      "name": "Suck the Blood from My Wound",
+      "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "Four Words To Stand On",
+        "url": "https://open.spotify.com/album/0UIVEV4vALA9fawXE8YLHS"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Standing On Ghosts",
+      "url": "https://open.spotify.com/track/5DQNmdJagdL4HGnkcu6qwW"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "Keep On Your Mean Side",
         "url": "https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "River Styx",
-      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "A Girl Like You",
         "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 192600,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "River Styx",
+      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
     },
     {
       "added_at": "2023-10-27 07:45:00",

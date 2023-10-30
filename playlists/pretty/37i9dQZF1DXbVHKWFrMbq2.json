@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 13515,
+  "num_followers": 13582,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWFhNWNjOTE0MDkzZjU2OGEwOGJlZDIxMTkwZDMxYmRiYjFlOWMz",
+  "snapshot_id": "MCw3ZjdjNzM3NjllOWNmN2E4MjFmYjk0OTJjMDkwMmM1MzM3Nzc2MjZh",
   "tracks": [
     {
       "added_at": "2023-10-26 18:57:01",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-10-26 18:57:01",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
-    },
-    {
-      "added_at": "2023-10-26 18:57:01",
-      "album": {
         "name": "My Mind & Me",
         "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 147597,
       "name": "My Mind & Me",
       "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
+    },
+    {
+      "added_at": "2023-10-26 18:57:01",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
     },
     {
       "added_at": "2023-10-26 18:57:01",
@@ -307,26 +307,6 @@
       "duration_ms": 192703,
       "name": "DESAFIANDO EL DESTINO",
       "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
-    },
-    {
-      "added_at": "2023-10-26 18:57:01",
-      "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2023-10-26 18:57:01",
@@ -419,22 +399,6 @@
     {
       "added_at": "2023-10-26 18:57:01",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
-    },
-    {
-      "added_at": "2023-10-26 18:57:01",
-      "album": {
         "name": "I Won't Be Your Foe",
         "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
       },
@@ -447,6 +411,42 @@
       "duration_ms": 164195,
       "name": "Maybe October",
       "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
+    },
+    {
+      "added_at": "2023-10-26 18:57:01",
+      "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "added_at": "2023-10-26 18:57:01",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
     },
     {
       "added_at": "2023-10-26 18:57:01",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-10-26 18:57:01",
       "album": {
-        "name": "Nocturna",
-        "url": "https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3"
+        "name": "(un poco + de) FE",
+        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
       },
       "artists": [
         {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 149900,
-      "name": "Me Gustas T\u00fa",
-      "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
+      "duration_ms": 204500,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
     },
     {
       "added_at": "2023-10-26 18:57:01",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-10-26 18:57:01",
       "album": {
-        "name": "(un poco + de) FE",
-        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
+        "name": "Nocturna",
+        "url": "https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
+      "duration_ms": 149900,
+      "name": "Me Gustas T\u00fa",
+      "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
     },
     {
       "added_at": "2023-10-26 18:57:01",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-10-26 18:57:01",
       "album": {
-        "name": "Cristal (Deluxe)",
-        "url": "https://open.spotify.com/album/1oZfvju3LYDgcBSlShJWpE"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 207136,
-      "name": "Piquete - Remix",
-      "url": "https://open.spotify.com/track/3rfl3nO4bG8jP1jj8XdXnF"
-    },
-    {
-      "added_at": "2023-10-26 18:57:01",
-      "album": {
         "name": "Una L\u00e1grima y Un Beso",
         "url": "https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 200560,
       "name": "Una L\u00e1grima y Un Beso",
       "url": "https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV"
+    },
+    {
+      "added_at": "2023-10-26 18:57:01",
+      "album": {
+        "name": "Cristal (Deluxe)",
+        "url": "https://open.spotify.com/album/1oZfvju3LYDgcBSlShJWpE"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 207136,
+      "name": "Piquete - Remix",
+      "url": "https://open.spotify.com/track/3rfl3nO4bG8jP1jj8XdXnF"
     },
     {
       "added_at": "2023-10-26 18:57:01",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-10-26 18:57:01",
       "album": {
+        "name": "Tus Ojos",
+        "url": "https://open.spotify.com/album/2kbuz6nzNvlAgmNavzihpv"
+      },
+      "artists": [
+        {
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+        }
+      ],
+      "duration_ms": 135937,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2AxlsVkjmhSPn8xVZLLeDx"
+    },
+    {
+      "added_at": "2023-10-26 18:57:01",
+      "album": {
         "name": "Agradezco Haberme Equivocado",
         "url": "https://open.spotify.com/album/6qYU7btru03OP3M4eMHtJa"
       },
@@ -1227,38 +1243,6 @@
     {
       "added_at": "2023-10-26 18:57:01",
       "album": {
-        "name": "Pulsi\u00f3n",
-        "url": "https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2"
-      },
-      "artists": [
-        {
-          "name": "Mar Marzo",
-          "url": "https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc"
-        }
-      ],
-      "duration_ms": 145161,
-      "name": "Mal Marzo",
-      "url": "https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4"
-    },
-    {
-      "added_at": "2023-10-26 18:57:01",
-      "album": {
-        "name": "Tus Ojos",
-        "url": "https://open.spotify.com/album/2kbuz6nzNvlAgmNavzihpv"
-      },
-      "artists": [
-        {
-          "name": "Beruti",
-          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
-        }
-      ],
-      "duration_ms": 135937,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/2AxlsVkjmhSPn8xVZLLeDx"
-    },
-    {
-      "added_at": "2023-10-26 18:57:01",
-      "album": {
         "name": "De cabeza a pies",
         "url": "https://open.spotify.com/album/6kxifQONbXoeQJDXQT8eqy"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 143511,
       "name": "De cabeza a pies",
       "url": "https://open.spotify.com/track/1CQ5RmaOyNaEpSm1zJDkZz"
+    },
+    {
+      "added_at": "2023-10-26 18:57:01",
+      "album": {
+        "name": "Pulsi\u00f3n",
+        "url": "https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2"
+      },
+      "artists": [
+        {
+          "name": "Mar Marzo",
+          "url": "https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc"
+        }
+      ],
+      "duration_ms": 145161,
+      "name": "Mal Marzo",
+      "url": "https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4"
     },
     {
       "added_at": "2023-10-26 18:57:01",

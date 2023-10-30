@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: The HU",
-  "num_followers": 338268,
+  "num_followers": 338337,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTExMjc0ZGQ1YjUyM2JiNjg0ODExYjE3ZDhmYjZjYTU4ZDg2NGIz",
+  "snapshot_id": "MCw2YzRiODQ5MGUyMjJjYTllYzNlNzlhMDE0NjViNGFjNTM1ZjdmNTVm",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Dial Tone",
-        "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
-      },
-      "artists": [
-        {
-          "name": "Catch Your Breath",
-          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
-        }
-      ],
-      "duration_ms": 200495,
-      "name": "Dial Tone",
-      "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 220066,
       "name": "Sign Of Life",
       "url": "https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "duration_ms": 200495,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Scoring The End Of The World",
+        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 212082,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Life Is But a Dream\u2026",
         "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Scoring The End Of The World",
-        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 212082,
-      "name": "Werewolf",
-      "url": "https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Waiting On The Sky To Change",
         "url": "https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 244135,
       "name": "Waiting On The Sky To Change",
       "url": "https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 211119,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or"
     },
     {
       "added_at": "2023-09-29 04:00:00",

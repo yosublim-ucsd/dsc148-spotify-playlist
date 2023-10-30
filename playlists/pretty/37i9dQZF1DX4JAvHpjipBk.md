@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Brent Faiyaz, Taylor Swift, The Kid LAROI, PARTYNEXTDOOR, Alec Benjamin and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,168,672 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,168,957 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 52 | [Take My Chance](https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9) | 3:18 |
 | 53 | [Ice Cream \(feat\. YN Jay & Riff Raff\)](https://open.spotify.com/track/2aA3Xz6XKAo96jp03h4Zak) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o) | [MegaTron 2](https://open.spotify.com/album/7zezk3hbEWlOooKBLuLJKp) | 3:01 |
 | 54 | [Alcohol \(with BRELAND\)](https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Alcohol \(with BRELAND\)](https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch) | 3:38 |
-| 55 | [Snake at The Altar](https://open.spotify.com/track/09g9dZqULC8yNN8FrlK9QP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Snake at The Altar](https://open.spotify.com/album/5HquJB12UiWeUK0f4T5meF) | 2:58 |
+| 55 | [Snake at the Altar](https://open.spotify.com/track/09g9dZqULC8yNN8FrlK9QP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Snake at the Altar](https://open.spotify.com/album/5HquJB12UiWeUK0f4T5meF) | 2:58 |
 | 56 | [DOOMED](https://open.spotify.com/track/2QW7HsMtYAlVlwqUJfkpry) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [CURSED / DOOMED](https://open.spotify.com/album/0oeVxAxERa1JAsvq4nZYi2) | 2:58 |
 | 57 | [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 |
 | 58 | [ASHAMED](https://open.spotify.com/track/1uPH3SgVthz4OXsAMqBwIa) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [ASHAMED](https://open.spotify.com/album/2hg8747uZcykBVgq0fSiyN) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
 | 100 | [backup plan](https://open.spotify.com/track/79TutI4UOZsovErs89Dzq6) | [Ezra](https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY) | [backup plan](https://open.spotify.com/album/2ZC8xPR2yyoqYunzPd89e0) | 2:06 |
 
-Snapshot ID: `MCxhMmIwNWEyY2ZkYzQyMmMxMDczMmQzZDNlMzRkOTY4OTU0ZTNjZDYw`
+Snapshot ID: `MCw3Y2FkNjk5NWEzODc3YTk2MDQ4NzVhMTY4NWNlMmFkYWQ2OGIxM2Zl`

@@ -784,6 +784,24 @@
     {
       "album": {
         "name": "Ghost",
+        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Case",
+      "url": "https://open.spotify.com/track/1kOkkEe8QdviYXBqDZpavh"
+    },
+    {
+      "album": {
+        "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
       "artists": [
@@ -798,7 +816,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 135500,
       "name": "Case",
       "url": "https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID"
@@ -2674,10 +2692,32 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 160500,
       "name": "Lalkara",
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Lalkara",
+      "url": "https://open.spotify.com/track/6swVP5qDAjqlzbF2R3A4bC"
     },
     {
       "album": {
@@ -4926,6 +4966,24 @@
     {
       "album": {
         "name": "Ghost",
+        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137395,
+      "name": "Whatcha Doin'",
+      "url": "https://open.spotify.com/track/4qQnXwD4XtiWq4PfjQoTbo"
+    },
+    {
+      "album": {
+        "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
       "artists": [
@@ -4940,7 +4998,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 137395,
       "name": "Whatcha Doin'",
       "url": "https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Sued Nunes e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
+  "description": "Mc Kadu e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
   "name": "AMPLIFIKA",
   "tracks": [
     {
@@ -889,7 +889,7 @@
     },
     {
       "album": {
-        "name": "Atlanta",
+        "name": "Atlanta - Spotify Singles",
         "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
       },
       "artists": [
@@ -902,7 +902,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 121031,
-      "name": "Atlanta",
+      "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 157772,
       "name": "Coisas Simples",
       "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
@@ -2772,6 +2772,32 @@
       "duration_ms": 144000,
       "name": "De F\u00e9",
       "url": "https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72"
+    },
+    {
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "album": {
@@ -4414,7 +4440,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 142500,
       "name": "Hentai",
       "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
@@ -4834,6 +4860,44 @@
       "duration_ms": 300506,
       "name": "INVEJOSO",
       "url": "https://open.spotify.com/track/1yecpnQJ3PL2BtOt8Eon6O"
+    },
+    {
+      "album": {
+        "name": "Invis\u00edvel pt.2",
+        "url": "https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174556,
+      "name": "Invis\u00edvel pt.2",
+      "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
     },
     {
       "album": {
@@ -8441,6 +8505,28 @@
     },
     {
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133517,
+      "name": "Pensamentos Intrusivos",
+      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
+    },
+    {
+      "album": {
         "name": "Dos Pr\u00e9dios",
         "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
       },
@@ -8584,7 +8670,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 164763,
       "name": "Pirra\u00e7a",
       "url": "https://open.spotify.com/track/5DRqQYWI7xJMDURRQ0iJrK"
@@ -9340,7 +9426,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 238849,
       "name": "Respeita as Mina",
       "url": "https://open.spotify.com/track/3voRJc2su3jGlxAifjwWmF"
@@ -11432,6 +11518,32 @@
       "duration_ms": 188852,
       "name": "X1",
       "url": "https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X"
+    },
+    {
+      "album": {
+        "name": "X6",
+        "url": "https://open.spotify.com/album/0udOR3FWCWME2YWiQE3etx"
+      },
+      "artists": [
+        {
+          "name": "Ig\u00e3o",
+          "url": "https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "X6",
+      "url": "https://open.spotify.com/track/7mBvm8Btuuki2jsh6y1d6L"
     },
     {
       "album": {

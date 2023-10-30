@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 5313,
+  "num_followers": 5315,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTg2YWFiNzc1MzFiYTQxNmIwMTE3OTVlZjg5Y2I3MmQwMDVhMTky",
+  "snapshot_id": "MCw3YzVlODExNzI5NzljNzBhMjk4NDJiNDljNDcxZTc2NmFkMzExYjZi",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -483,6 +483,22 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
+        "name": "Breakin' (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26t5mXFJxvVphBv2iRZwcX"
+      },
+      "artists": [
+        {
+          "name": "Hot Streak",
+          "url": "https://open.spotify.com/artist/4xzzrt8hBV9crpgXcLKXyd"
+        }
+      ],
+      "duration_ms": 265066,
+      "name": "Body Work",
+      "url": "https://open.spotify.com/track/5gcLUfLPnfi8GMkRSrM2gO"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
         "name": "Greatest Hits: Straight Up",
         "url": "https://open.spotify.com/album/73RNO2BAAyYy4kq0gP9Szu"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 339480,
       "name": "Tight Jeans",
       "url": "https://open.spotify.com/track/7ltgjbYbyoRYCuLTFnAt5L"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
-        "name": "Breakin' (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26t5mXFJxvVphBv2iRZwcX"
-      },
-      "artists": [
-        {
-          "name": "Hot Streak",
-          "url": "https://open.spotify.com/artist/4xzzrt8hBV9crpgXcLKXyd"
-        }
-      ],
-      "duration_ms": 265066,
-      "name": "Body Work",
-      "url": "https://open.spotify.com/track/5gcLUfLPnfi8GMkRSrM2gO"
     },
     {
       "added_at": "2020-08-28 18:46:05",

@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Renegade EP",
+        "url": "https://open.spotify.com/album/43VEJuOIWJa5GfwrGC7ral"
+      },
+      "artists": [
+        {
+          "name": "Farsight",
+          "url": "https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300924,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/2XRgGgN0DCEJ05NIAWeM05"
+    },
+    {
+      "album": {
         "name": "Ringa Ringa (The Old Pandemic Folk Song) [Breakage Remix]",
         "url": "https://open.spotify.com/album/1DQbuba1bTaOfSqryD1Q0M"
       },
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 364749,
       "name": "Stretchpants",
       "url": "https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL"

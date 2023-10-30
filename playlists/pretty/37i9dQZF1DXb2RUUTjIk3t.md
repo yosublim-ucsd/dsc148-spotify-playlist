@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,769 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,795 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 66 | [Stranger With A Wall](https://open.spotify.com/track/01kfjty2wVYRg53xiwrGtr) | [thepicnik](https://open.spotify.com/artist/4SMvJNBPlNx6JsonzNi3Nw) | [Stranger With A Wall](https://open.spotify.com/album/1Xwbb0gjsrPdx90mhmJLR5) | 3:45 |
 | 67 | [Nobody Like You](https://open.spotify.com/track/10HqYPk8krVdDYQCgYh3z7) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:03 |
 | 68 | [Nada Que Ver](https://open.spotify.com/track/3VSZNY35QyJVDqjYuSJ94K) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Nada Que Ver](https://open.spotify.com/album/19CbXgP9Dc5Z8lJld7dQvo) | 3:16 |
-| 69 | [let me hold you](https://open.spotify.com/track/66k75vZNgRnOuJosuAFNeY) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col), [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:25 |
+| 69 | [let me hold you](https://open.spotify.com/track/34VtJPNWcYofrlq35izm84) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col), [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [oldies](https://open.spotify.com/album/2QbZsCrvSQeFKn1UUgJxXw) | 1:26 |
 | 70 | [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 |
 | 71 | [Terminal](https://open.spotify.com/track/40wkW3SBJMhemcvtzKjxkO) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 3:22 |
 | 72 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/0DzmuigZNTpqOedCW3e6cb) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 74 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 |
 | 75 | [Dusty Issues](https://open.spotify.com/track/27Kcb2Hslz0lSplnxVmmQk) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Dusty Issues](https://open.spotify.com/album/1kBh2A0rSYYbNVoCaNsjdQ) | 2:04 |
 
-Snapshot ID: `MCwyNWMxYmRmNzg4MWNlYTdkZGU4OGNhODQ2OTg1ZTBjYzJlNmU2NmVh`
+Snapshot ID: `MCw5YWYzNjUzYjNjNDg1ZmJjODViMThhNTIxYzQ3NWVjMTliNjYzZjk1`

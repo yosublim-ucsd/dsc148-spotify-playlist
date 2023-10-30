@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 933852,
+  "num_followers": 933941,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDgwYzkzYWM2ZjJmYWQ0OGNiYjcwNDRhYzI3YjBlNGNlOGY5MzA0",
+  "snapshot_id": "MCw4NTg5NGVlN2FlNjBhMTQ2MWI3MGFhNDRiNmQ2MmJjOGE1ZWRlYjlh",
   "tracks": [
     {
       "added_at": "2023-10-27 20:10:59",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 206458,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -371,22 +387,6 @@
       "duration_ms": 145065,
       "name": "Do It Like That",
       "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
         "name": "The Rose Song [From \"High School Musical: The Musical: The Series (Season 2)\"]",
         "url": "https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 174380,
       "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
       "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 215229,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Call on me (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/23uCYiDGcfNkrKbGAfMTLx"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 200706,
       "name": "Call on me (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 215229,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2023-10-27 20:10:59",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "Where The Light Goes",
-        "url": "https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 212649,
-      "name": "Queen of New York City",
-      "url": "https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D"
-    },
-    {
-      "added_at": "2023-10-27 20:10:59",
-      "album": {
         "name": "Dare You To Doubt Me",
         "url": "https://open.spotify.com/album/5EUrcYE8wqM2tavV6GXDM3"
       },
@@ -2619,18 +2603,42 @@
     {
       "added_at": "2023-10-27 20:10:59",
       "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz"
+        "name": "Where The Light Goes",
+        "url": "https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV"
       },
       "artists": [
         {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
         }
       ],
-      "duration_ms": 150180,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
+      "duration_ms": 212649,
+      "name": "Queen of New York City",
+      "url": "https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D"
+    },
+    {
+      "added_at": "2023-10-27 20:10:59",
+      "album": {
+        "name": "Closure (feat. BIRDY and Mishaal)",
+        "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "Closure (feat. BIRDY and Mishaal)",
+      "url": "https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP"
     }
   ],
   "unique_name": "Work From Home",

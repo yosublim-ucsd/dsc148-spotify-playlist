@@ -1,12 +1,12 @@
 {
   "description": "cute moments in fields and on dancefloors #SpotifyWrapped",
-  "num_followers": 55092,
+  "num_followers": 55155,
   "original_name": "dance tracks we hugged our friends to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmNkYzk5ZGQ2NDNlY2Y0ZDFhOGRhNjU2YTg3MGU3MzY0Mjc0ZTEz",
+  "snapshot_id": "MCwxZWViMjlkOWMzNGUwNGFmNGZkMGZlMDFhODVkMWM5Mjc3NzM5MjY2",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Intimate Fantasy - EP",
+        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Intimate Fantasy - EP",
-        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
     },
     {
       "added_at": "2022-11-30 13:46:00",

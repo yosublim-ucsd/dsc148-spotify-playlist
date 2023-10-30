@@ -1932,10 +1932,36 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 133339,
       "name": "Cantina Band",
       "url": "https://open.spotify.com/track/1yDCrRrL6mUNu9z8DiMvDy"
+    },
+    {
+      "album": {
+        "name": "Cantina Band",
+        "url": "https://open.spotify.com/album/3EOUj1PicETk9jwnmGj6Ii"
+      },
+      "artists": [
+        {
+          "name": "Marc Kiss",
+          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
+        },
+        {
+          "name": "ThomTree",
+          "url": "https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133339,
+      "name": "Cantina Band",
+      "url": "https://open.spotify.com/track/5XZbxQxjX3OzoevSPA4tZI"
     },
     {
       "album": {
@@ -10446,10 +10472,40 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 137739,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/525hCdMwYXzLAY8YVokr0v"
+    },
+    {
+      "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/4TNg97E9XIzyEo4PnyuKYw"
+      },
+      "artists": [
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Pule",
+          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
+        },
+        {
+          "name": "Marc Kiss",
+          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
+        },
+        {
+          "name": "Joey Diggs Jr.",
+          "url": "https://open.spotify.com/artist/1j2YFWbyYy75mQyT7Ej4Bw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/53bcMjLxDtrDyiWz4FrcNy"
     },
     {
       "album": {

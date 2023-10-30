@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Armenia
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,981 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,984 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 57 | [A Veces Llueve](https://open.spotify.com/track/5psSJW6SH7sgcspg1ejO63) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Grita \- II](https://open.spotify.com/album/4z8CUoe6p3VIQewnjGJB10) | 3:12 |
 | 58 | [Fine Line En Tu Habitación](https://open.spotify.com/track/4AgudkNxMoJaGtAyOJHFFe) | [Luis Aguirre](https://open.spotify.com/artist/2GgVRZoZbteN3wXsqJ7uEB) | [Fine Line En Tu Habitación](https://open.spotify.com/album/1jSd3glxPGcli80ZEm4KpW) | 3:00 |
 | 59 | [Apología de una Amigdala Inflamada](https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Apología de una Amigdala Inflamada](https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ) | 2:32 |
-| 60 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
+| 60 | [Nómada](https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb) | 4:47 |
 | 61 | [El Tiempo](https://open.spotify.com/track/2Fofr3MUi6NXUjO3xb9CjK) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Grita \- II](https://open.spotify.com/album/4z8CUoe6p3VIQewnjGJB10) | 4:19 |
 | 62 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
 | 63 | [Estar Bien](https://open.spotify.com/track/1PQltLG8NezKxaW3cWAM57) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Expuesta](https://open.spotify.com/album/0jMDCpaptqMNvwuAJvHz9B) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 99 | [Salvavidas](https://open.spotify.com/track/26sncSwReSsEXl5CxS1hMX) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 4:11 |
 | 100 | [Luces Neón](https://open.spotify.com/track/3Y8EuhwZ6LdGi3leKQHBXZ) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Luces Neón](https://open.spotify.com/album/1e4X4ReVQErGDwchkE34sN) | 3:47 |
 
-Snapshot ID: `MCwxY2I0OTgwOWU5MjE0YzFhZjhiZGFiY2FkZjdjYjc3YTMxNGI0N2Jj`
+Snapshot ID: `MCw5ZDg1YzJmMmRiMmRkZWUzY2I4NDE0ZWZlNzM4Yjc1YmE1MTQ3OWM5`

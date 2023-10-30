@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: BUCK\-TICK
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,685 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,717 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [Diamonds and Pearls \- Long Version](https://open.spotify.com/track/5TxSg1FyeRVmveDh0DDxsb) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Diamonds And Pearls \(Super Deluxe Edition\)](https://open.spotify.com/album/7yS8FoMCF2XSiJK2DWYYci) | 5:32 |
 | 50 | [もう恋なんてしない \- 2012 Remaster](https://open.spotify.com/track/2GU85vhIa7EGUt5mDNLHK6) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物 \(2012 Remaster\)](https://open.spotify.com/album/0xl7RrBF9tVKPUu5EHHcf3) | 4:33 |
 
-Snapshot ID: `MCxmOTYxZjNmYjFkMzE5Yjg0ZmE4MzY4MWU2ODQ5OTU2MTFjM2M5N2Vh`
+Snapshot ID: `MCw5NDIwMjM0ZWE5ZDViZDEwYTkzNzE4OTgyOGYxMWM2YzRmNGM3NjAw`

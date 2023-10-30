@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,117 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,590 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 74 | [Mistletoe And Holly](https://open.spotify.com/track/3ECWipwM2liY1Z0pcbCXVj) | [Dim Light Quartet](https://open.spotify.com/artist/55PYUwgpz4KVtb2I5FNREc) | [Mistletoe And Holly](https://open.spotify.com/album/16erh4O46uaVuPocbpDBIE) | 2:51 |
 | 75 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/55tU7r4O96CUsaWZuMDaBo) | [Upstage Trio](https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/4sBMrHHFC65NetHmShTGgO) | 2:48 |
 
-Snapshot ID: `MCxiYzUxZGI3MDFiZjY1OTJkNDM5YjExYTNlOTZmOTU0MjJiYzIyYWQy`
+Snapshot ID: `MCxlY2E5ZWQxMDdhZTE5MDRjNTM1OGJlOWQ3NWY4YWQwNDM4MDBkMWEz`

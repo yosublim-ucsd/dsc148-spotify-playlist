@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > hungria é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,218 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,209 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 29 | [Zona Sul](https://open.spotify.com/track/2ZcZ4qYoqAeYgynTdfhWue) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Autodomínio](https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc) | 2:01 |
 | 30 | [até sua alma](https://open.spotify.com/track/7CW1spLNtlpsLXpxpZu78C) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 5:00 |
 | 31 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 |
-| 32 | [Mil Motivos](https://open.spotify.com/track/46107kkgYPfPy8sC1WTJ6q) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Mil Motivos](https://open.spotify.com/album/3qTDI8YeiQAZjQVxxkILim) | 3:08 |
+| 32 | [Mil Motivos](https://open.spotify.com/track/46107kkgYPfPy8sC1WTJ6q) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Mil Motivos](https://open.spotify.com/album/3qTDI8YeiQAZjQVxxkILim) | 3:08 |
 | 33 | [Tocaia](https://open.spotify.com/track/6wb640UDLelevIzL7qjtz2) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Tocaia](https://open.spotify.com/album/1H86cfv3CQSqeqrg3QmjBq) | 3:18 |
 | 34 | [O Preço da Guerra](https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 4:49 |
 | 35 | [favela venceu \- citação "Rap das Armas" \(MC Junior / MC Leonardo\) \- Remix](https://open.spotify.com/track/54wceMXtQFk0PXorm1qNrX) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [BAKKARI](https://open.spotify.com/artist/0vWsNWKmv6lXgRQa9L2vld) | [favela venceu \- citação "Rap das Armas" \(MC Junior / MC Leonardo\) \[Remix\]](https://open.spotify.com/album/7vvSwqUZEexMXew07XfEhx) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [To de Pé](https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:22 |
 | 50 | [Favela Vive 5](https://open.spotify.com/track/5svioJ5BlJIYfQFPT1eq7v) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc Marechal](https://open.spotify.com/artist/5YZEcrC3yHeiZ1bBvwKRUF), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Favela Vive 5](https://open.spotify.com/album/0HIqiDgY7xzP0vzbg8aGT8) | 8:13 |
 
-Snapshot ID: `MCwxYWE1N2ViY2IzZGQzOTlmZDUxZmU0NWUyMDQwOWFmZWEwOTFlNWYw`
+Snapshot ID: `MCxkYjJhOTJhOTIwOGY1NDA3Njg3ODI1MGM1MDc1ZWQ3MDI2YWVlODM4`

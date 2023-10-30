@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,466 likes - 62 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,611 likes - 62 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 18 | [Patuleco](https://open.spotify.com/track/09bGYFnMVZRh0ilaVUiYio) | [Orquesta Sonora Curro](https://open.spotify.com/artist/1s3glHhVbcSfPu5EjyrVrN) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/0UbcmD65kthpuyIIYajOYY) | 2:48 |
 | 19 | [Asi no papacito](https://open.spotify.com/track/070vRAgWBtWgzDtWex7Unl) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Mario Manzanares](https://open.spotify.com/artist/3r7BC9mw1EwyzOp6lU1ZXt), [Sergio Alvarez](https://open.spotify.com/artist/6n8BdKdBM7ckmMhz1Wr1N9), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [Miguel Castro](https://open.spotify.com/artist/4811WtF0znWG09E9YG8mXF) | [Sergio Alvarez: Cuba, Cuba! \- The Most Popular Songs](https://open.spotify.com/album/4YRflLUQPNyugAgWNV9cfI) | 4:09 |
 | 20 | [Reunión de Cantores](https://open.spotify.com/track/2TK5hjVlLojMLsXHKLnHkd) | [Tiburon Morales](https://open.spotify.com/artist/671ge0J7hfPRMiZZgcR7jF) | [Cuba: The Ultimate Salsa Collection](https://open.spotify.com/album/5eu5gIZatGsL1r8EaG29ft) | 4:12 |
-| 21 | [Ochun](https://open.spotify.com/track/3finbqt0hFJpfsJYeeFvJh) | [René Ferrer](https://open.spotify.com/artist/7hQEtpzH8zuOJOA25dk004) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/4CipbkwsxBGdIBW5Tn2Rz2) | 3:55 |
+| 21 | [Ochun](https://open.spotify.com/track/0iKZ6gV5y88dG8nLR815in) | [René](https://open.spotify.com/artist/5rq2bAasq0sAj2SjyzNVgr) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/0CkhEA7pJGHKPHEjl33arE) | 3:55 |
 | 22 | [Guantanamera](https://open.spotify.com/track/6ek8f65UGCZaiIBcXkexlE) | [Joseito Fernández](https://open.spotify.com/artist/7ggrY9cEKx1pnl2lkqx4gu) | [La Música de La Bodeguita: Vol\. 1 De Cuba con Sabor](https://open.spotify.com/album/4zU5ji5KJmtovm3pgEsCGc) | 4:28 |
 | 23 | [Mi Caramelo](https://open.spotify.com/track/4HEoXMg4q0Qwn7oueNaAGL) | [Cuba Cafe Express](https://open.spotify.com/artist/5suSWbd4Oy5ZBnwvk2ruCt) | [What About Cuba](https://open.spotify.com/album/2PpQzhiPBQl6cbWvmgNhTn) | 4:08 |
 | 24 | [Chan Chan](https://open.spotify.com/track/3fN0SB5OWTLCzgEuqfaK2s) | [The Sons Of Buena Vista](https://open.spotify.com/artist/5v7FgnzkIKDUOIXwEloKf1) | [Con Un Poco De Ayuda](https://open.spotify.com/album/2uZom9MDeqLCQA3AOm1vcJ) | 4:17 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 40 | [El rincón caliente](https://open.spotify.com/track/3t1XXF8kQQBNsDw3iYRQps) | [Manuel Guajiro Mirabal](https://open.spotify.com/artist/0STnzOo1kc5Ll215NgLiGm) | [Buena Vista Social Club Presents Manuel 'Guajiro' Mirabal](https://open.spotify.com/album/66sFJspZ4Fjg9Gh0g3ovdy) | 4:46 |
 | 41 | [Zun Zun Paloma](https://open.spotify.com/track/4bLWcSxLbBfxRCXGyuwJvR) | [Vieja Trova Santiaguera](https://open.spotify.com/artist/2t7ndReOwR0bTqTaDxYa9G) | [Hotel Asturias](https://open.spotify.com/album/61prW69rxU0bTRWQ9Uju2C) | 3:15 |
 | 42 | [El traguito](https://open.spotify.com/track/4JZl2QBkPqALZhq9gR9NXJ) | [Grupo Cimarron De Cuba](https://open.spotify.com/artist/43Nf9Fu11OoPHkbZFfGMCE) | [The Most Popular Songs from Cuba](https://open.spotify.com/album/4C3zYZy8KynpglX602ev5l) | 3:56 |
-| 43 | [Como a Cada Mañana](https://open.spotify.com/track/0lfT8VYlsuS8f2ZczCECh6) | [René Ferrer](https://open.spotify.com/artist/7hQEtpzH8zuOJOA25dk004) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/4CipbkwsxBGdIBW5Tn2Rz2) | 3:43 |
+| 43 | [Como A Cada Mañana](https://open.spotify.com/track/7vhofmkO5UMRxdwYptZo7V) | [René](https://open.spotify.com/artist/5rq2bAasq0sAj2SjyzNVgr) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/0CkhEA7pJGHKPHEjl33arE) | 3:43 |
 | 44 | [De Cuba Traigo](https://open.spotify.com/track/2hhUEXxTSFpJaQSd9utoey) | [Ecos De Siboney](https://open.spotify.com/artist/6qmBkBPceisKHwr9upY4VF) | [Saludo Compay](https://open.spotify.com/album/6Gd3EGgnukbh5pDxlLnf6m) | 2:57 |
 | 45 | [Alto songo](https://open.spotify.com/track/4Evp4SGxHiKWGJmaBBxSo2) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [A Toda Cuba Le Gusta](https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT) | 6:42 |
 | 46 | [Buscando Novia \(Amigo Miguel\)](https://open.spotify.com/track/74v1Csjva4kXsZhUdBZhxE) | [Labori](https://open.spotify.com/artist/4HGPHi3uv1cyTjvjpg3g58) | [Amores Y Cuba](https://open.spotify.com/album/4pnA4EsaeljYDo5nFXoG6q) | 3:08 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 61 | [Habanera](https://open.spotify.com/track/5fJ59hC02dd43Ej9I1Zyyp) | [Cuba Cafe Express](https://open.spotify.com/artist/5suSWbd4Oy5ZBnwvk2ruCt) | [What About Cuba](https://open.spotify.com/album/2PpQzhiPBQl6cbWvmgNhTn) | 3:42 |
 | 62 | [El Guayo de Catilina](https://open.spotify.com/track/0YMHpQZ6FYqS4V6J6xOVqL) | [Havana Club](https://open.spotify.com/artist/3OVEfqUmt746LvlpP2rKK2) | [Cafè de Cuba \(Latin Music, Cuba\)](https://open.spotify.com/album/1hPlkjUn6C9cRVVN3VEfhu) | 3:17 |
 
-Snapshot ID: `MCxkNjZkNDdkZTU5N2YxYWRmYjA4MDcxYzZhNTdjYWZjZTM2MmJhYmIw`
+Snapshot ID: `MCw4MGM2NTcyYmJhOTAxNjc0OWVmNjI3ODQzYjM4MWJmYjA4MjkzYjlh`

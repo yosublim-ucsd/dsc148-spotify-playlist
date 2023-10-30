@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMDYyNjAsMDAwMDAwMDBhN2Q5NWE3MWNiYjBhYjVhYmE3ZjU0YjVkYmZmM2U2OA==",
+  "snapshot_id": "MjgzMDYyNjAsMDAwMDAwMDBlM2Y1ZjViOTdiMTg3NGQxNDM1MTVmZmViYTI5ZWRjYg==",
   "tracks": [
     {
       "added_at": "2023-10-27 03:00:00",
@@ -104,9 +104,25 @@
           "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
         }
       ],
-      "duration_ms": 491043,
-      "name": "Lights Out - Live",
-      "url": "https://open.spotify.com/track/0upfloDjQfrNsU46OUHDYB"
+      "duration_ms": 289226,
+      "name": "Too Hot To Handle - Live",
+      "url": "https://open.spotify.com/track/2rlffrDQJR9K2zPsAWGQ47"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        }
+      ],
+      "duration_ms": 208821,
+      "name": "Lucero",
+      "url": "https://open.spotify.com/track/2VT5GfzNkU69TCNxpTvwXs"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -131,22 +147,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "New Gold Dream - Live From Paisley Abbey",
-        "url": "https://open.spotify.com/album/10qu2t6AjSGBN0vXSZ86hU"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Glittering Prize - Live From Paisley Abbey",
-      "url": "https://open.spotify.com/track/2yzyrPWGjrP5UNdbZPo3x9"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Live 1978 - 1992",
         "url": "https://open.spotify.com/album/5nnR9Is6buE9ntceg1whyP"
       },
@@ -159,6 +159,22 @@
       "duration_ms": 409000,
       "name": "I Think I Love You Too Much - Live Version / Mixed And Remastered 2023",
       "url": "https://open.spotify.com/track/1tAcyjUd44AAkajiuu7NUO"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "New Gold Dream - Live From Paisley Abbey",
+        "url": "https://open.spotify.com/album/10qu2t6AjSGBN0vXSZ86hU"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Glittering Prize - Live From Paisley Abbey",
+      "url": "https://open.spotify.com/track/2yzyrPWGjrP5UNdbZPo3x9"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -179,22 +195,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
-        }
-      ],
-      "duration_ms": 199158,
-      "name": "Reloj de Viento",
-      "url": "https://open.spotify.com/track/0cGG17lAn1vhWje5CbVbQ0"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "152",
         "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
       },
@@ -207,30 +207,6 @@
       "duration_ms": 192813,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Real Love (Liva K Remix)",
-        "url": "https://open.spotify.com/album/3rmNlvswDE9CQIl3pElKXP"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        },
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 177577,
-      "name": "Real Love - Liva K Remix",
-      "url": "https://open.spotify.com/track/6OBEM2Laa2NNsuCaWd3YDv"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -279,6 +255,30 @@
       "duration_ms": 332680,
       "name": "Diamonds and Pearls (Long Version)",
       "url": "https://open.spotify.com/track/1FgB9Iqyvi59tC0GNtQxGQ"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Real Love (Liva K Remix)",
+        "url": "https://open.spotify.com/album/3rmNlvswDE9CQIl3pElKXP"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        },
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 177577,
+      "name": "Real Love - Liva K Remix",
+      "url": "https://open.spotify.com/track/6OBEM2Laa2NNsuCaWd3YDv"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "My Favourite Stranger (Remixes)",
-        "url": "https://open.spotify.com/album/4sKi74JyzjNzfrb1KYNtue"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 228883,
-      "name": "My Favourite Stranger - Ela Minus Remix",
-      "url": "https://open.spotify.com/track/0mmzCZ3uYf9r4AwiH0m3o3"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "I Want You (Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978)",
         "url": "https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT"
       },
@@ -459,26 +439,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "El Viaje Nunca Llega al Horizonte",
-        "url": "https://open.spotify.com/album/5jW99GeUF9H8mNoxaRZrWn"
+        "name": "My Favourite Stranger (Remixes)",
+        "url": "https://open.spotify.com/album/4sKi74JyzjNzfrb1KYNtue"
       },
       "artists": [
         {
-          "name": "Ed Neidhardt",
-          "url": "https://open.spotify.com/artist/3bNG06xa1cMet4wV0dg21h"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         },
         {
-          "name": "Bufalo Dit",
-          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         }
       ],
-      "duration_ms": 209250,
-      "name": "Tr\u00e1tate Bi\u00e9n",
-      "url": "https://open.spotify.com/track/0H9XzJ1wraMqsGheDlxsLH"
+      "duration_ms": 228883,
+      "name": "My Favourite Stranger - Ela Minus Remix",
+      "url": "https://open.spotify.com/track/0mmzCZ3uYf9r4AwiH0m3o3"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -519,6 +495,30 @@
       "duration_ms": 170261,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "El Viaje Nunca Llega al Horizonte",
+        "url": "https://open.spotify.com/album/5jW99GeUF9H8mNoxaRZrWn"
+      },
+      "artists": [
+        {
+          "name": "Ed Neidhardt",
+          "url": "https://open.spotify.com/artist/3bNG06xa1cMet4wV0dg21h"
+        },
+        {
+          "name": "Bufalo Dit",
+          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        }
+      ],
+      "duration_ms": 209250,
+      "name": "Tr\u00e1tate Bi\u00e9n",
+      "url": "https://open.spotify.com/track/0H9XzJ1wraMqsGheDlxsLH"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Catch A Fire (50th Anniversary)",
-        "url": "https://open.spotify.com/album/1KQFJswSSy7hTfxSgy3ql4"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 384706,
-      "name": "Get Up, Stand Up - Live At The Sundown Theatre, Edmonton, UK / May 1973",
-      "url": "https://open.spotify.com/track/1T9ixkQTfQ8H00O6Na0KxL"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Rewind Forward",
         "url": "https://open.spotify.com/album/2ETwP4mpMMUgx9BYYuzdmm"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Catch A Fire (50th Anniversary)",
+        "url": "https://open.spotify.com/album/1KQFJswSSy7hTfxSgy3ql4"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 384706,
+      "name": "Get Up, Stand Up - Live At The Sundown Theatre, Edmonton, UK / May 1973",
+      "url": "https://open.spotify.com/track/1T9ixkQTfQ8H00O6Na0KxL"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Live in Switzerland (Remastered 2023)",
         "url": "https://open.spotify.com/album/1DLdNlZoXWPL3ooXijwcEI"
       },
@@ -783,6 +783,38 @@
       "duration_ms": 395000,
       "name": "Farm On The Freeway - Live - Remastered 2023",
       "url": "https://open.spotify.com/track/7Iq3UghudyQNWGbJ8mg7cG"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 179091,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Mantra del Maestro Jes\u00fas",
+        "url": "https://open.spotify.com/album/6zPoGZ5VIBoeFNJsPtGFMC"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "duration_ms": 312378,
+      "name": "Mantra del Maestro Jes\u00fas",
+      "url": "https://open.spotify.com/track/3LtyBtGFstooQecQfxHDUS"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -807,24 +839,8 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Mantra del Maestro Jes\u00fas",
-        "url": "https://open.spotify.com/album/6zPoGZ5VIBoeFNJsPtGFMC"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Donalson",
-          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
-        }
-      ],
-      "duration_ms": 312378,
-      "name": "Mantra del Maestro Jes\u00fas",
-      "url": "https://open.spotify.com/track/3LtyBtGFstooQecQfxHDUS"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Naughty Girl",
-        "url": "https://open.spotify.com/album/7bhmi0fi3gB7PXRKfeE4jQ"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
       },
       "artists": [
         {
@@ -838,23 +854,7 @@
       ],
       "duration_ms": 176529,
       "name": "Naughty Girl",
-      "url": "https://open.spotify.com/track/6N1T8r7vpVoxUIwdMCihKr"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 179091,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv"
+      "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1055,6 +1055,30 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Call Your Name (Andromedik Remix)",
+        "url": "https://open.spotify.com/album/3TIjAIFSHDzJMBSSCtGtmc"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        },
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Call Your Name - Andromedik Remix",
+      "url": "https://open.spotify.com/track/2ktvmX53byZmws2q2qMRiI"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Insatiable Remixes Vol. 001",
         "url": "https://open.spotify.com/album/71suyBVVP754NLECru0cZo"
       },
@@ -1079,30 +1103,6 @@
       "duration_ms": 169533,
       "name": "Insatiable - BLVCK CROWZ Remix",
       "url": "https://open.spotify.com/track/1Az1YG8U4nuNuNLnfALqas"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Call Your Name (Remixes)",
-        "url": "https://open.spotify.com/album/01hRhyAiNnaz2SeosAXPIo"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        },
-        {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Call Your Name - Andromedik Remix",
-      "url": "https://open.spotify.com/track/2ZKB2c2R5pWjRJoRbpL0mR"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

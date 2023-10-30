@@ -1,12 +1,12 @@
 {
   "description": "Una uni\u00f3n que no sabr\u00e1s olvidar. Escucha la Fusi\u00f3n entre Jos\u00e9 Alfredo y Silvana Estrada. ",
-  "num_followers": 19104,
+  "num_followers": 19154,
   "original_name": "Silvana Estrada + Jos\u00e9 Alfredo Jim\u00e9nez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWUyMjFkNmIyYzgxZDY4MDRiZmU5YjkwNzEzZjBiMjgyYzMzZmVj",
+  "snapshot_id": "MCxlNTM5MDQ2ZjI0MzZjODlhYzNmY2YzNzVhOTE0MGU5ODc3NTBmOTdm",
   "tracks": [
     {
       "added_at": "2023-10-17 06:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-10-17 06:00:00",
       "album": {
+        "name": "Lo Mejor De El Piporro",
+        "url": "https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643"
+      },
+      "artists": [
+        {
+          "name": "El Piporro",
+          "url": "https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Lleg\u00f3 Borracho El Borracho",
+      "url": "https://open.spotify.com/track/1ZBQmE5npCm3h5VTRVR8iy"
+    },
+    {
+      "added_at": "2023-10-17 06:00:00",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 170733,
       "name": "Di Que No Es Verdad",
       "url": "https://open.spotify.com/track/4hcS1eJzODgZyKnVJlmtj4"
-    },
-    {
-      "added_at": "2023-10-17 06:00:00",
-      "album": {
-        "name": "Lo Mejor De El Piporro",
-        "url": "https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643"
-      },
-      "artists": [
-        {
-          "name": "El Piporro",
-          "url": "https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Lleg\u00f3 Borracho El Borracho",
-      "url": "https://open.spotify.com/track/1ZBQmE5npCm3h5VTRVR8iy"
     },
     {
       "added_at": "2023-10-17 06:00:00",

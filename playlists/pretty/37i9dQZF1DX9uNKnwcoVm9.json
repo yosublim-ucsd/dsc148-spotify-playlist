@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 247659,
+  "num_followers": 248086,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmYzN2E2NWIxNTNhOWRhMzdjYjdmYTJkYTg2NWU0NjUzMGJhODY0",
+  "snapshot_id": "MCxhN2Y0OWFiYzVjNWYzMjM2MTRlNTAwNDA4NjViYjdiMjIwNzUyYjAw",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Listo Para Nuestro Encuentro",
-        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
-      },
-      "artists": [
-        {
-          "name": "Abel Zavala",
-          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "El Padre Que Siempre So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Jes\u00fas Siempre Llega a Tiempo",
         "url": "https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 319650,
       "name": "Levanto Mis Manos",
       "url": "https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Listo Para Nuestro Encuentro",
+        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
+      },
+      "artists": [
+        {
+          "name": "Abel Zavala",
+          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "El Padre Que Siempre So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -195,18 +195,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Algo Grande Viene",
-        "url": "https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX"
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
       },
       "artists": [
         {
-          "name": "Jose Luis Reyes",
-          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
         }
       ],
-      "duration_ms": 289613,
-      "name": "Algo Grande Viene",
-      "url": "https://open.spotify.com/track/3qrF7uBexHKFQevKCIR6GH"
+      "duration_ms": 380316,
+      "name": "Precioso Jes\u00fas",
+      "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -227,18 +227,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
+        "name": "Algo Grande Viene",
+        "url": "https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX"
       },
       "artists": [
         {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
         }
       ],
-      "duration_ms": 380316,
-      "name": "Precioso Jes\u00fas",
-      "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
+      "duration_ms": 289613,
+      "name": "Algo Grande Viene",
+      "url": "https://open.spotify.com/track/3qrF7uBexHKFQevKCIR6GH"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Dios Lo Har\u00e1 Otra Vez",
-        "url": "https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI"
+        "name": "Inquebrantable",
+        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
         }
       ],
-      "duration_ms": 270001,
-      "name": "Por el Sue\u00f1o De Dios",
-      "url": "https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR"
+      "duration_ms": 329013,
+      "name": "Por el poder de tu amor (The power of your Love)",
+      "url": "https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1119,8 +1119,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Glorificad a Jehov\u00e1",
-        "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
+        "name": "Santo Es El Se\u00f1or",
+        "url": "https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS"
       },
       "artists": [
         {
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 183040,
-      "name": "Como Hizo David",
-      "url": "https://open.spotify.com/track/75IhuMXXHxnSCnaWKwPjSQ"
+      "duration_ms": 305040,
+      "name": "Yo Quiero Estar Donde Tu Est\u00e1s",
+      "url": "https://open.spotify.com/track/4yHpEcaH1WLJ2e6MlMXZXd"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Inquebrantable",
-        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
+        "name": "Dios Lo Har\u00e1 Otra Vez",
+        "url": "https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI"
       },
       "artists": [
         {
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
         }
       ],
-      "duration_ms": 329013,
-      "name": "Por el poder de tu amor (The power of your Love)",
-      "url": "https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT"
+      "duration_ms": 270001,
+      "name": "Por el Sue\u00f1o De Dios",
+      "url": "https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1239,8 +1239,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Santo Es El Se\u00f1or",
-        "url": "https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS"
+        "name": "Glorificad a Jehov\u00e1",
+        "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
       },
       "artists": [
         {
@@ -1252,9 +1252,9 @@
           "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 305040,
-      "name": "Yo Quiero Estar Donde Tu Est\u00e1s",
-      "url": "https://open.spotify.com/track/4yHpEcaH1WLJ2e6MlMXZXd"
+      "duration_ms": 183040,
+      "name": "Como Hizo David",
+      "url": "https://open.spotify.com/track/75IhuMXXHxnSCnaWKwPjSQ"
     },
     {
       "added_at": "2020-11-24 13:23:38",

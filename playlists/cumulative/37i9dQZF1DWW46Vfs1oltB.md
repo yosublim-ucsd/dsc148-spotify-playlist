@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Giriboy\(기리보이\)\)
 
-1,010 songs - 2 day 7 hr 29 min
+1,011 songs - 2 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Dissonance \(Feat\. AKMU\) \(Prod\. GRAY\)](https://open.spotify.com/track/0AF50NdDzZ3cze2O0SyjXf) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:33 | 2021-12-18 | 2022-07-08 |
 | [Diving \(Feat\. Nochang\)](https://open.spotify.com/track/4pG9XOyy4aJd5J08Wab3CE) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO) | [Diving](https://open.spotify.com/album/2lONskv5bwiRn8mGCuC6WQ) | 2:38 | 2023-08-16 | 2023-10-15 |
 | [Django \(Feat\. OUREALGOAT, lobonabeat!, Gwangil Jo\)](https://open.spotify.com/track/7uGO4ntCROPoSs1VmzklAt) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [926](https://open.spotify.com/album/46UAhlKGdxGrdPaa65MsQK) | 4:13 | 2022-07-07 | 2022-08-13 |
+| [Do](https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Do](https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX) | 2:45 | 2023-10-29 |  |
 | [DO Gae Bee \(Prod by D.O\)](https://open.spotify.com/track/1BcufSE0XxEPM2Q2qVLh38) | [D.O](https://open.spotify.com/artist/4X7RCrqaJpKMoeyeH5NPvj), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [D.O.P.E.](https://open.spotify.com/album/3Wx5L6QlWOzdW4Rg1OetdU) | 2:50 | 2022-01-11 | 2022-07-04 |
 | [Do what I do \(Feat\. Lee Juck, Pphk\)](https://open.spotify.com/track/0axQuDH6BVXiUCkPrbuJb7) | [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx), [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa), [Pphk](https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv) | [JAEHO](https://open.spotify.com/album/3Rdp3uLt6BdeV8a64pNTbi) | 4:11 | 2022-02-25 | 2022-06-23 |
 | [DO WHAT MOVES YOU](https://open.spotify.com/track/3xz8SHm92SMqRVg48aNPwE) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [DO WHAT MOVES YOU](https://open.spotify.com/album/3MaLv0d5hgUDPSNork5zJ4) | 2:30 | 2023-07-11 |  |

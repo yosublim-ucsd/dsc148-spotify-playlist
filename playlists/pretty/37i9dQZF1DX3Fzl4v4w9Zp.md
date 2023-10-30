@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,162 likes - 149 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,158 likes - 149 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 9 | [Homesick \[Feat\. Jonathan Wilson\]](https://open.spotify.com/track/3hUgiY4yuQhiLbVytTCmS7) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Strays II](https://open.spotify.com/album/6O4somF5cgA58eOK1wWdmJ) | 4:28 |
 | 10 | [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 |
 | 11 | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj), [Andrea Kukuly Uriarte](https://open.spotify.com/artist/5RBnd1QU744YvLMRf458SS) | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/album/1nSFYhxHnBvrwrUHwANAXW) | 3:32 |
-| 12 | [Angel](https://open.spotify.com/track/3D4XjhkvYU3F89G9Elok5T) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Angel](https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU) | 5:05 |
+| 12 | [Angel](https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 5:05 |
 | 13 | [Jersey Giant](https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Jersey Giant](https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO) | 4:26 |
 | 14 | [Press On](https://open.spotify.com/track/0pfcSDN5SE7WBG5DNaSBLs) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Heat Comes Down](https://open.spotify.com/album/6VcQbbneWsPFS89mH5QWqN) | 3:37 |
 | 15 | [Find Your People](https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 3:14 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Searching For My Love](https://open.spotify.com/track/4r7q81d4NQGRPixkZWKR7e) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:03 |
 | 149 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 |
 
-Snapshot ID: `MCxkOTkzNmVmNzkyY2M0ODJhNjUyYWNlMTZhM2JhYmY1ZTU3NjM5ZGFi`
+Snapshot ID: `MCxkYTYxMzQ5MmYyOWFhNzM3M2EwYjA4Yzk0MWVmY2I4ZWQwNDY1Nzli`

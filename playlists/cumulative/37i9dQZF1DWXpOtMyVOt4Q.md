@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-213 songs - 13 hr 8 min
+214 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Dustism](https://open.spotify.com/track/6Q1aEumqxRnW8YbolJ8osI) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Another Language](https://open.spotify.com/album/7i1Q1gcCd5o8CBV1Uivhuu) | 6:19 | 2019-12-16 | 2022-09-01 |
 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 | 2019-12-16 | 2022-09-01 |
 | [Eyesdown](https://open.spotify.com/track/0XiHcuUEf1wmvmX1cOaVR9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 5:26 | 2019-12-16 | 2022-09-01 |
+| [fable](https://open.spotify.com/track/7hcfdrnoZhjyzyHtnYpGEK) | [a vow](https://open.spotify.com/artist/03vWQx7x09Nqiv7Ks0HC7C) | [fable](https://open.spotify.com/album/6o67yjpRSClfPymMcIXg5o) | 2:50 | 2023-09-08 |  |
 | [Fake Starfield](https://open.spotify.com/track/01sIVQByS0Z4NpkbgCa6Xp) | [a\\wshhine](https://open.spotify.com/artist/7hVjrS9PyralpN34AsqlGR), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [Fake Starfield](https://open.spotify.com/album/3UanbDy5SRrq3K1LCcdWPK) | 2:40 | 2022-08-31 | 2023-09-09 |
 | [Fallen Down \(Reprise\) \- Piano Slowed & Reverb](https://open.spotify.com/track/3Ttu9jVJBNSkyOuydS9RZ6) | [Augustin Garnier](https://open.spotify.com/artist/4l0fkLKO9mQEVub2zoouh8) | [Fallen Down \(Reprise\)](https://open.spotify.com/album/5jqDoz4ZXsfUQyh6PrQO9b) | 2:30 | 2023-09-08 |  |
 | [fallinginlove.](https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 | 2023-09-08 |  |
@@ -77,7 +78,7 @@
 | [Fireflies](https://open.spotify.com/track/1dhjmr1m86R9NUDRBpWowk) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Awakening](https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm) | 5:03 | 2019-12-16 | 2022-09-01 |
 | [Fireflies](https://open.spotify.com/track/7FtKmHnpcW6NDCCLe83CjR) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/3GDrSVfvjeXnRUjXaE0XBb) | 4:58 | 2022-11-22 | 2023-09-09 |
 | [Fireflies](https://open.spotify.com/track/4Al96JAyCmkAn9tryHNEFx) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/45QD5MLnRkj2F2RVJfwkcc) | 4:58 | 2022-08-31 | 2022-11-30 |
-| [for B.](https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [for B.](https://open.spotify.com/album/3l3JcGx513fCNPY6nGarLk) | 1:29 | 2023-09-08 |  |
+| [for B.](https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [for B.](https://open.spotify.com/album/3l3JcGx513fCNPY6nGarLk) | 1:29 | 2023-09-08 | 2023-10-30 |
 | [Forgotten](https://open.spotify.com/track/2yra4e1hv7mRcjPY4GRS9h) | [trxxshed](https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU), [Lomtre](https://open.spotify.com/artist/1k3LtgjJQgOGwjOyNSQuMJ) | [Far from Reality](https://open.spotify.com/album/395JmKtHQEzMCI05Mkwb6i) | 2:07 | 2022-08-31 | 2023-09-09 |
 | [forgotten thoughts, but it's nightcore](https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:17 | 2023-09-08 |  |
 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 | 2022-08-31 | 2022-09-03 |

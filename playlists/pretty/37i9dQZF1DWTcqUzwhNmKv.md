@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Of Virtue on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,457,002 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,457,215 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Fedrekult](https://open.spotify.com/track/6USwgMF3VBSKMe14P0TJb4) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Endling](https://open.spotify.com/album/5LlLDIoYFzmH7CLK8jI2YA) | 3:51 |
 | 75 | [Obliquity of the Ecliptic](https://open.spotify.com/track/0c1EnTUEQoXVH73NbVDi3D) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Luminescent Bridge](https://open.spotify.com/album/6fw6OaFAR6IsxWk1ZjIYUJ) | 8:53 |
 
-Snapshot ID: `MCwwNjc5YmUxNWFhN2JiMTE3NzIwMDgxNDg5MmNmODkwMGRkMGYyNDhj`
+Snapshot ID: `MCw5N2Y3YjNkOGEwMGUyYzAyMzU0MDZjM2MzMjdmODc5OGUwNTgwYjQz`

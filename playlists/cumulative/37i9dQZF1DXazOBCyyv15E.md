@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Ray Laurél
 
-1,840 songs - 4 day 13 hr 19 min
+1,842 songs - 4 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [cool kid](https://open.spotify.com/track/7Iq3WKDjRaGyYjaAZr0Lcx) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [cool kid](https://open.spotify.com/album/2AXY3PdfKoLLcIHtEfPSZN) | 4:02 | 2021-07-15 | 2021-09-10 |
 | [Cool Kids](https://open.spotify.com/track/1KuKl8qIrUfkvtQtGn1Awo) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Cool Kids](https://open.spotify.com/album/05IcnMq0Wn025bMmbV8J9L) | 3:26 | 2021-09-10 | 2021-10-29 |
 | [Cop Car](https://open.spotify.com/track/3h1P9jnY42axEAIm28POdL) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Misled](https://open.spotify.com/album/4mCPQKGgqWVHBgkG1eHH7j) | 3:34 | 2021-10-29 | 2022-02-04 |
+| [Could You Help Me](https://open.spotify.com/track/5BEFUHkJkE96hq89ESAfgF) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Could You Help Me](https://open.spotify.com/album/02grbmPkJrTIPpb1MYMn7L) | 2:46 | 2023-10-27 |  |
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-02-03 | 2023-03-31 |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2022-06-24 | 2022-09-23 |
 | [Crash](https://open.spotify.com/track/2zeBmXU5qg3ZlTcuCPdfjl) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Crash](https://open.spotify.com/album/1aZaklts6YFnC8ojW4WSIT) | 3:46 | 2020-10-23 | 2021-01-29 |
@@ -431,7 +432,8 @@
 | [Do It Right](https://open.spotify.com/track/5V50egGmw0ZjASATtfBaHm) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA), [OURAA](https://open.spotify.com/artist/3bQnpQzxvtefA2xaVzhN0e) | [Do It Right](https://open.spotify.com/album/70ntvrqMgysU1gsAizeLvM) | 3:20 | 2023-04-20 | 2023-06-09 |
 | [Do We Really Care? Pt\. 1](https://open.spotify.com/track/6XtGd5hBVughrp1piyXWXR) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Tia Carys](https://open.spotify.com/artist/6G5nZjv6YmdialJA071tD3) | [Do We Really Care?](https://open.spotify.com/album/4XXg2VwSGu9WGyb4IxEgFP) | 2:27 | 2020-10-02 | 2020-11-13 |
 | [Do Whatever Makes You Happy](https://open.spotify.com/track/3Y9n6XbVFOzx2scoU2PjGj) | [Lemonade Shoelace](https://open.spotify.com/artist/72gHreLHpaDQdue2ON7snF) | [Do Whatever Makes You Happy](https://open.spotify.com/album/2xZjLVk98NcUT2JUBSaVNg) | 4:57 | 2023-04-27 | 2023-06-09 |
-| [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 | 2023-10-13 |  |
+| [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 | 2023-10-13 | 2023-10-30 |
+| [Do You](https://open.spotify.com/track/4ZffJ6gXFwMzpzLrlRHSh0) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Do You](https://open.spotify.com/album/0RqhEB5mHX22h2FsHLF2m4) | 4:08 | 2023-10-26 |  |
 | [Do You Want It All?](https://open.spotify.com/track/4PkxkGJ8393zzsgLC87esM) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Do You Want It All?](https://open.spotify.com/album/7FO5BmKZbsB0T25JudO5UC) | 3:12 | 2022-06-16 | 2022-08-19 |
 | [Does It Make You Feel Good?](https://open.spotify.com/track/4ELXniqcm1QKYoJpFPE5eO) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Does It Make You Feel Good?](https://open.spotify.com/album/5PA3iYQ0LLadsqmpWk9W2w) | 3:03 | 2020-10-09 | 2020-12-18 |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-25 | 2023-08-04 |

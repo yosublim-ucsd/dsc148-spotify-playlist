@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,726 likes - 44 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,866 likes - 44 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 36 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
 | 37 | [Fingerprints](https://open.spotify.com/track/15oT4PGAtcWflYCVUCtkug) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Fingerprints](https://open.spotify.com/album/4ABIVST2di5nUzxsT0EZtb) | 3:48 |
 | 38 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 |
-| 39 | [Ecstasy \(Over & Over\)](https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Ecstasy \(Over & Over\)](https://open.spotify.com/album/4IMEWyvS2r1mpnTYD8j4Sb) | 3:36 |
+| 39 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
 | 40 | [Is U](https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:48 |
-| 41 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
+| 41 | [Ecstasy \(Over & Over\)](https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Ecstasy \(Over & Over\)](https://open.spotify.com/album/4IMEWyvS2r1mpnTYD8j4Sb) | 3:36 |
 | 42 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 |
 | 43 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 |
 | 44 | [Alive](https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Alive](https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H) | 3:53 |
 
-Snapshot ID: `MCw3YzhhMDY5MGQ1NGRkYmU0N2EyMjZhNGI1NzY2NjBkZTkyN2MwMmIx`
+Snapshot ID: `MCxiNzliMjRhZDY1NzA4MzAwY2NmMDdlN2Q0ZmNlZWI1YjMxYzg4NWE5`

@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 240773,
       "name": "BABY NUEVA",
       "url": "https://open.spotify.com/track/3NhstUmrlhaN1M6hP8zMbb"
@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 231833,
       "name": "Blank Space (Taylor's Version)",
       "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
@@ -4130,6 +4130,28 @@
       "duration_ms": 288746,
       "name": "El Aguante",
       "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
+    },
+    {
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165848,
+      "name": "EL AMOR DE SU VIDA",
+      "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
     },
     {
       "album": {
@@ -7304,7 +7326,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
@@ -11188,7 +11210,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 151666,
       "name": "Pa' Que Retozen",
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
@@ -13464,7 +13486,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 173005,
       "name": "S91",
       "url": "https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO"
@@ -14354,7 +14376,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 231000,
       "name": "Style (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
@@ -14902,7 +14924,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 217133,
       "name": "THUNDER Y LIGHTNING",
       "url": "https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E"

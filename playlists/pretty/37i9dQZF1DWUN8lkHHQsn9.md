@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:4GUR4UKtbNQiAV2h5qV2df">Kamil Kempiński</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,696 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,695 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 30 | [oddaję Ci melodię](https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [oddaję Ci melodię](https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U) | 2:23 |
 | 31 | [twój zapach](https://open.spotify.com/track/0irIpENIile1obCEpugDL1) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [twój zapach](https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K) | 3:00 |
 | 32 | [Spytaj mnie](https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb) | 3:13 |
-| 33 | [Le$bijka](https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Le$bijka](https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2) | 2:49 |
-| 34 | [Miło Cię Poznać](https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Miło Cię Poznać](https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri) | 3:31 |
+| 33 | [Miło Cię Poznać](https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Miło Cię Poznać](https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri) | 3:31 |
+| 34 | [Le$bijka](https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Le$bijka](https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2) | 2:49 |
 | 35 | [Wiem, że Smakuję Jak...](https://open.spotify.com/track/4GMIKtwsgJwa6zvA0krAS4) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [H8](https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO) | [Przekleństwa Niewinności](https://open.spotify.com/album/5zBEDCmcK2SVgyTK8maiu5) | 2:51 |
 | 36 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 |
 | 37 | [Nie chcę tu wracać już](https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH), [Bart Gałązka](https://open.spotify.com/artist/1Uem85RHws6LkjjfsX285A) | [Nie chcę tu wracać już](https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd) | 4:10 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 47 | [Bolt](https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Bolt](https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62) | 3:36 |
 | 48 | [SLAY](https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [SLAY](https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m) | 2:59 |
 | 49 | [Diego M.](https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Diego M.](https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM) | 2:45 |
-| 50 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
-| 51 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 |
-| 52 | [priorytetem](https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [psychodynamiczne](https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9) | 3:10 |
+| 50 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 |
+| 51 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
+| 52 | [Spicy](https://open.spotify.com/track/0L6WdUBOquVBQ8Gu3ASpZZ) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [H8](https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO) | [Spicy](https://open.spotify.com/album/5s9O3oTtIG0TscYAG8gRaH) | 2:39 |
 | 53 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
-| 54 | [Spicy](https://open.spotify.com/track/0L6WdUBOquVBQ8Gu3ASpZZ) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [H8](https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO) | [Spicy](https://open.spotify.com/album/5s9O3oTtIG0TscYAG8gRaH) | 2:39 |
+| 54 | [priorytetem](https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [psychodynamiczne](https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9) | 3:10 |
 | 55 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
 | 56 | [Scarchest](https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Scarchest](https://open.spotify.com/album/5uRIdLZnznQsisjxhqFZ8P) | 2:34 |
 | 57 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 70 | [Bezpowrotnie](https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Bezpowrotnie](https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06) | 3:02 |
 | 71 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
 | 72 | [Bum Bum](https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Maski](https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK) | 3:59 |
-| 73 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
-| 74 | [49 Groszy \- Remix](https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Młody B](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c) | [4900 Groszy](https://open.spotify.com/album/4YLvr3nm2e4Dt8L04dwu2a) | 2:09 |
+| 73 | [Nieludzie \(Ignorance Ha\)](https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [Gusła \(Human Rites\)](https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX) | 5:05 |
+| 74 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
 | 75 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
-| 76 | [Nieludzie \(Ignorance Ha\)](https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [Gusła \(Human Rites\)](https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX) | 5:05 |
+| 76 | [49 Groszy \- Remix](https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Młody B](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c) | [4900 Groszy](https://open.spotify.com/album/4YLvr3nm2e4Dt8L04dwu2a) | 2:09 |
 | 77 | [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 |
 | 78 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 |
 | 79 | [Cztery Dwa Zero](https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg) | [Brokatowe Damy](https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX) | [POTĘŻNE LESBIJKI Z MIECZAMI](https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7) | 4:20 |
 | 80 | [Monsters](https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Maski](https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK) | 4:14 |
 
-Snapshot ID: `MCw5M2E1NzE3ZjU4YjliNjlkN2Q4NzU4MjA3ZThkNjAzMDljYWZjZTk4`
+Snapshot ID: `MCw2NzhlNzM4MTUxNjQ2MDVmNDhmYTQwYjUxYThjZjMwMThhOTljZGFl`

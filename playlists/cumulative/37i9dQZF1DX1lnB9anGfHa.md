@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-213 songs - 14 hr 15 min
+214 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Shake well before use](https://open.spotify.com/track/6JnPiDL5e9Z56jWahzGWMY) | [YSI](https://open.spotify.com/artist/2UvpgJrLxsGgyStbpzldZj) | [Sway](https://open.spotify.com/album/6XplDOCrKwqK9MzH7HZQvN) | 5:40 | 2020-10-20 |  |
 | [Shivers](https://open.spotify.com/track/5ifWjwfK1QclwoqC8axwmQ) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [The Dog and the Future](https://open.spotify.com/album/1S5GLfv8Lmn4vmRMImheVu) | 6:18 | 2020-11-20 | 2023-03-04 |
 | [Signal \(Maral Remix\)](https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU), [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Signal Remixes](https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ) | 3:38 | 2023-04-15 | 2023-05-10 |
+| [Squid For A Day](https://open.spotify.com/track/129NkktWJoqa7S7PutQpYc) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Squid For A Day](https://open.spotify.com/album/0dCecSOQZTiP5Db8qxye7P) | 2:56 | 2023-10-28 |  |
 | [Such A Drag](https://open.spotify.com/track/5YT4bVAzGz8sxh3vGFzzyJ) | [Elena Setién](https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg) | [Such A Drag](https://open.spotify.com/album/5Ymty4zuZZHYYPdynHvivm) | 3:46 | 2021-09-24 | 2023-03-04 |
 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 | 2023-06-07 |  |
 | [Tectonic](https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Tectonic](https://open.spotify.com/album/3VZtu7girTT5vEWivWj3oC) | 4:37 | 2021-07-09 | 2023-10-26 |

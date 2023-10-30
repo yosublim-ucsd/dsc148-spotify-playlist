@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: BADBADNOTGOOD
 
-1,247 songs - 3 day 3 hr 20 min
+1,248 songs - 3 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1002,7 +1002,8 @@
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 | 2023-08-19 |
 | [stand by me](https://open.spotify.com/track/4xHZVxc7NvQheFGnOqJ40Q) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [stand by me](https://open.spotify.com/album/0jhBekxMtqRBSHcC9tKKej) | 3:35 | 2023-09-29 |  |
 | [Star](https://open.spotify.com/track/4fCeKZHKZt5PTMEEGxHYQj) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Star](https://open.spotify.com/album/79H8ASriYHc6JBmxm4vq6f) | 5:21 | 2023-04-07 | 2023-04-29 |
-| [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-25 |  |
+| [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-25 | 2023-10-30 |
+| [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2023-10-20 |  |
 | [Stationary Bike](https://open.spotify.com/track/6VRvc0MJnGEoxBJJE81iyM) | [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [Stationary Bike](https://open.spotify.com/album/0iTtw3q2b3w5krUub6W9Ed) | 2:46 | 2023-05-12 | 2023-06-10 |
 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 | 2022-09-16 | 2022-10-14 |
 | [Stay \(feat\. Your Smith\)](https://open.spotify.com/track/0bDL2MOuaqdzRLVMAhbCp7) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/1csTPYu7DloHLOLPZygikk) | 3:45 | 2021-12-16 | 2022-01-14 |

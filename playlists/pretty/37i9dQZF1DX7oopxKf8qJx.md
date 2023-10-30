@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,947 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,045 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 69 | [Strangers In The Night](https://open.spotify.com/track/0bwGQuuUox874LzqHfs6yP) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX), [Charles Singleton](https://open.spotify.com/artist/73CBAbob2ngJHFfCUgsRjb), [Eddie Snyder](https://open.spotify.com/artist/3GJtenASPXw0kiHS1ylGZb), [Hugo Winterhalter](https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53) | [28 Big Ones](https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ) | 2:14 |
 | 70 | [Melancholy Serenade](https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [And Awaaay We Go! \(Expanded Edition\)](https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP) | 3:16 |
 
-Snapshot ID: `MCwxYWU5MDQ4OGQ4YmIzM2NhYzkxNTM5NjIzOTJhNDUxMmE2MmIyOGU4`
+Snapshot ID: `MCwxOTZhOTY5YTJmMDgwYmY1NzY4ZTgwMzg5OTU3NDI3YWM1ZjgwYmMz`

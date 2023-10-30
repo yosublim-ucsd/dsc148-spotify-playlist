@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Taking Back Sunday
 
-4,765 songs - 11 day 6 hr 15 min
+4,766 songs - 11 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2225,7 +2225,8 @@
 | [Kawasaki Boy](https://open.spotify.com/track/19hRhszlgDmbkabDDwyQcU) | [Puppet](https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O) | [Kawasaki Boy](https://open.spotify.com/album/3Vzukpy1HHtgCzI4GjGMwz) | 2:10 | 2023-04-28 | 2023-05-06 |
 | [keep a window open//](https://open.spotify.com/track/32Y6HMKVOnPXqmtOr8TR4j) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open//](https://open.spotify.com/album/5YJXQWhjuBdthyBOewxTql) | 2:30 | 2023-08-18 | 2023-08-26 |
 | [Keep Going](https://open.spotify.com/track/14YFX4TkMfBY7ibVbtTbzh) | [Atlas for Home](https://open.spotify.com/artist/37spg9xBapfjLG1oE8uv7a) | [Keep Going](https://open.spotify.com/album/4qPiGWdTX6uusv4dhTZVSK) | 3:55 | 2022-01-20 | 2022-01-28 |
-| [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 | 2023-10-27 |  |
+| [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 | 2023-10-27 | 2023-10-30 |
+| [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 | 2023-10-27 |  |
 | [Keep It Close](https://open.spotify.com/track/5WNo1Eho32Jl9iKibSSkgg) | [Solcura](https://open.spotify.com/artist/445zBUVF0rFPYykLcOpjXN) | [Keep It Close](https://open.spotify.com/album/3A4GL4Kr2Ysg76tuI7bKp3) | 3:25 | 2022-12-02 | 2022-12-10 |
 | [Keep It Rolling](https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Keep It Rolling](https://open.spotify.com/album/2YIfWZjgVJWrrSTZJot3Mp) | 2:50 | 2023-06-02 | 2023-06-10 |
 | [Keep Me Sane](https://open.spotify.com/track/2WOICHVDt9A9xDwWG4i8Jw) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Keep Me Sane](https://open.spotify.com/album/2qgPRNfb783lWEpKc3Gmpj) | 3:10 | 2023-03-17 | 2023-03-25 |

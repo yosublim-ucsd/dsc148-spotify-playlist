@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "A Wayfarer's Tale",
+        "url": "https://open.spotify.com/album/3E7581DaCGTtHOi5KvwYpN"
+      },
+      "artists": [
+        {
+          "name": "Ray Love Trio",
+          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214873,
+      "name": "A Wayfarer's Tale",
+      "url": "https://open.spotify.com/track/0RrvMxwdAX6qBQHjR3EEPZ"
+    },
+    {
+      "album": {
         "name": "Candles on the Moon",
         "url": "https://open.spotify.com/album/0KtqPp4quy5rDlMfWnRIjL"
       },
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 188077,
       "name": "Arbitrary Love",
       "url": "https://open.spotify.com/track/4vhr8jvSyLmzWJxjjBvPRv"
@@ -2254,6 +2272,24 @@
       "duration_ms": 208133,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/55FGpcsMf5cQGF3BQtZjEw"
+    },
+    {
+      "album": {
+        "name": "Chasing Raindrops",
+        "url": "https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08"
+      },
+      "artists": [
+        {
+          "name": "Shay Walsh",
+          "url": "https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Chasing Raindrops",
+      "url": "https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU"
     },
     {
       "album": {
@@ -5159,6 +5195,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/6gkJFEs7AFfAMVgOJ8eaR5"
+      },
+      "artists": [
+        {
+          "name": "Thames Quartet",
+          "url": "https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191473,
+      "name": "How Long Have I Waited?",
+      "url": "https://open.spotify.com/track/1NcO5gArgmWrwUH0LfmKqW"
+    },
+    {
+      "album": {
         "name": "Hum Sweet Serenades",
         "url": "https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF"
       },
@@ -5268,7 +5322,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 539266,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/4xmNWf3u3LM9hu2noChFzA"
@@ -6992,7 +7046,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 179816,
       "name": "Just Imagine",
       "url": "https://open.spotify.com/track/4nndewSr38VMklIgluKRHo"
@@ -7356,7 +7410,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 630280,
       "name": "Left Alone",
       "url": "https://open.spotify.com/track/5niuB6LyaMlfOizwxsLAlZ"
@@ -8440,7 +8494,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 387372,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/6HRaRgiuyrnd3bENS5ZoM2"
@@ -9075,6 +9129,24 @@
     },
     {
       "album": {
+        "name": "Mystic Moonlight Groove",
+        "url": "https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S"
+      },
+      "artists": [
+        {
+          "name": "Greydon Park Band",
+          "url": "https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211079,
+      "name": "Mystic Moonlight Groove",
+      "url": "https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi"
+    },
+    {
+      "album": {
         "name": "Naima",
         "url": "https://open.spotify.com/album/2sSS9Mxw73wnpilrkA4mdJ"
       },
@@ -9306,6 +9378,24 @@
       "duration_ms": 252975,
       "name": "Nocturnal Serenade",
       "url": "https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R"
+    },
+    {
+      "album": {
+        "name": "Nocturnal Whispers",
+        "url": "https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267688,
+      "name": "Nocturnal Whispers",
+      "url": "https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt"
     },
     {
       "album": {
@@ -12432,7 +12522,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 185323,
       "name": "That Lingering Feeling",
       "url": "https://open.spotify.com/track/3hCYV3GlOiuywPLW6zchgr"
@@ -15286,6 +15376,24 @@
       "duration_ms": 186074,
       "name": "Your Shining Eyes",
       "url": "https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6"
+    },
+    {
+      "album": {
+        "name": "Your Smile",
+        "url": "https://open.spotify.com/album/7FHXsFk96blgIpAujGbNUT"
+      },
+      "artists": [
+        {
+          "name": "Magnolia",
+          "url": "https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201465,
+      "name": "Your Smile",
+      "url": "https://open.spotify.com/track/1j49Blzw3HDfZ3KUs88zzl"
     },
     {
       "album": {

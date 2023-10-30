@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 987844,
+  "num_followers": 987905,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWZhMWJmMGQ3MWJkNzlhYjlmNGQwMzY0NDNkMjY1ZjBhNjUxMDQy",
+  "snapshot_id": "MCxmNTViMWU0YTA0NDNhOTJiNGU2NzJkNDdlZDU4Yjc3ODlkMmFiZWVi",
   "tracks": [
     {
       "added_at": "2023-10-27 17:45:24",
@@ -283,18 +283,22 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "Todo Contigo",
-        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
+        "name": "El Correcto",
+        "url": "https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH"
       },
       "artists": [
         {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 165527,
-      "name": "Todo Contigo",
-      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
+      "duration_ms": 168124,
+      "name": "El Correcto",
+      "url": "https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -319,22 +323,18 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "El Correcto",
-        "url": "https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH"
+        "name": "Todo Contigo",
+        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 168124,
-      "name": "El Correcto",
-      "url": "https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo"
+      "duration_ms": 165527,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "Hoy Festejo",
-        "url": "https://open.spotify.com/album/2EchHhx889NsqylPaAzboM"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 164119,
-      "name": "Hoy Festejo",
-      "url": "https://open.spotify.com/track/5VzeBUPnyf9rWSPkEFeL6X"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 165855,
       "name": "La Noche Perfecta",
       "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
+        "name": "DE PLASTILINA",
+        "url": "https://open.spotify.com/album/0PoBB1ZYvloZYblyrAIWYa"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Pepe y Vizio",
+          "url": "https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "DE PLASTILINA",
+      "url": "https://open.spotify.com/track/6oA2XNlyXtGl0y49bdwIoI"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -487,22 +487,22 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "DE PLASTILINA",
-        "url": "https://open.spotify.com/album/0PoBB1ZYvloZYblyrAIWYa"
+        "name": "Hoy Festejo",
+        "url": "https://open.spotify.com/album/2EchHhx889NsqylPaAzboM"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         },
         {
-          "name": "Pepe y Vizio",
-          "url": "https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu"
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 209533,
-      "name": "DE PLASTILINA",
-      "url": "https://open.spotify.com/track/6oA2XNlyXtGl0y49bdwIoI"
+      "duration_ms": 164119,
+      "name": "Hoy Festejo",
+      "url": "https://open.spotify.com/track/5VzeBUPnyf9rWSPkEFeL6X"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -627,38 +627,6 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "PORTARSE MAL",
-        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 192126,
-      "name": "PORTARSE MAL",
-      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
-        "name": "Poquito a Poquito",
-        "url": "https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Poquito a Poquito",
-      "url": "https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
         "name": "Puerta del Sol",
         "url": "https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU"
       },
@@ -679,6 +647,38 @@
       "duration_ms": 193150,
       "name": "Puerta del Sol",
       "url": "https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
+        "name": "Poquito a Poquito",
+        "url": "https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Poquito a Poquito",
+      "url": "https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
+        "name": "PORTARSE MAL",
+        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 192126,
+      "name": "PORTARSE MAL",
+      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
+        "name": "VUELA ALTO",
+        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
         "name": "RESPIRAR",
         "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 145573,
       "name": "RESPIRAR",
       "url": "https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
-        "name": "VUELA ALTO",
-        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 201206,
-      "name": "MI BANDERA",
-      "url": "https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -979,6 +979,26 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
+        "name": "Con Solo una Sonrisa",
+        "url": "https://open.spotify.com/album/5PsdC4KHAN21WOZN0sW8zP"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        }
+      ],
+      "duration_ms": 234611,
+      "name": "Con Solo una Sonrisa",
+      "url": "https://open.spotify.com/track/6mu9zsveVti5Tf4gVs0LLR"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
         "name": "Frenes\u00ed",
         "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 227628,
       "name": "Que se caiga el cielo",
       "url": "https://open.spotify.com/track/5hpOWFyKa1hvE5DnCoGV2A"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
-        "name": "Con Solo una Sonrisa",
-        "url": "https://open.spotify.com/album/5PsdC4KHAN21WOZN0sW8zP"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        }
-      ],
-      "duration_ms": 234611,
-      "name": "Con Solo una Sonrisa",
-      "url": "https://open.spotify.com/track/6mu9zsveVti5Tf4gVs0LLR"
     },
     {
       "added_at": "2023-10-27 17:45:24",

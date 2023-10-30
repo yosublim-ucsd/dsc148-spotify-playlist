@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-273 songs - 15 hr 56 min
+274 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,9 +167,10 @@
 | [O Come O Come Emmanuel](https://open.spotify.com/track/4YIoQTJDBXAc7r8rDxUi50) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks In the Snow](https://open.spotify.com/album/28Fqt02jcDyoi6EfOMy8kQ) | 3:38 | 2021-12-24 | 2022-07-29 |
 | [O Come O Come Emmanuel](https://open.spotify.com/track/5K4NYwDJTh0WVBgc5fxyYK) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks in the Snow](https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9) | 3:38 | 2021-12-24 |  |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/3kVnoW7oDuuovp1SyMj9Kb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:04 | 2021-12-24 |  |
-| [O Holy Night](https://open.spotify.com/track/0NI13AjDx03bIKUG4pWW7f) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [O Holy Night](https://open.spotify.com/album/6jMJTRRrt71X3uJZ98MT9h) | 3:39 | 2021-12-24 |  |
+| [O Holy Night](https://open.spotify.com/track/0NI13AjDx03bIKUG4pWW7f) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [O Holy Night](https://open.spotify.com/album/6jMJTRRrt71X3uJZ98MT9h) | 3:39 | 2021-12-24 | 2023-10-30 |
 | [O Holy Night](https://open.spotify.com/track/54AYl95uqv3p1uiT7q1uLQ) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [O Holy Night](https://open.spotify.com/album/69t87Nw2V9kqKLn5haGDPI) | 3:39 | 2021-12-24 | 2022-07-29 |
 | [O Holy Night](https://open.spotify.com/track/7hWs7SHdvZQVtEyWBha5QG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [O Holy Night](https://open.spotify.com/album/0xj9dGod1YUIMOgYHto1nU) | 2:35 | 2021-12-24 |  |
+| [O Holy Night](https://open.spotify.com/track/6QWvGSGhWrgEt9XicZoU73) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Christmas Together \(Wherever We Are\)](https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx) | 3:39 | 2023-10-16 |  |
 | [O Little Town of Bethlehelm](https://open.spotify.com/track/5NHjU6TqwIFrunmTaHfUI4) | [Scott Mulvahill](https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [O Come Let Us Adore: A Christmas Collective](https://open.spotify.com/album/3EmPHDaZEz0VpqjWWAlDrL) | 3:18 | 2021-12-24 |  |
 | [Oh, Watch the Stars](https://open.spotify.com/track/30lIm60ZjlBzP7GC2glvBO) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [The Sounding Joy: Christmas Songs in and out of the Ruth Crawford Seeger Songbook](https://open.spotify.com/album/5oBIwFL3EoCkCfgDCINqDI) | 2:17 | 2021-12-24 |  |
 | [Old Fashioned Holiday](https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Fashioned Holiday](https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9) | 3:06 | 2021-12-24 |  |

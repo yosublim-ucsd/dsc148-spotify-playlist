@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 242006,
       "name": "A Roller Skating Jam Named \"Saturdays\"",
       "url": "https://open.spotify.com/track/1ihXWWbKNIrb7S7ERA6Qcb"
@@ -298,6 +298,28 @@
       "duration_ms": 164136,
       "name": "AIGHT (feat. Shelley FKA DRAM)",
       "url": "https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60"
+    },
+    {
+      "album": {
+        "name": "Ain't Safe (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/3yj2uESNcngIeP0BdISs58"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166514,
+      "name": "Ain't Safe (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/22sJiw8rbuiiDEpdKNMRVP"
     },
     {
       "album": {
@@ -514,7 +536,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 138410,
       "name": "ARE YOU WITH THAT?",
       "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
@@ -550,7 +572,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 164436,
       "name": "Ay Caramba",
       "url": "https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn"
@@ -1748,7 +1770,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 205851,
       "name": "Dark Hearted",
       "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
@@ -2438,6 +2460,28 @@
       "duration_ms": 240080,
       "name": "Flatline (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
+    },
+    {
+      "album": {
+        "name": "Flossin'",
+        "url": "https://open.spotify.com/album/0W3XpjZWbYHhOyMs756EIs"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Flossin'",
+      "url": "https://open.spotify.com/track/7ancvwiSHq5uQSUCxW6IFY"
     },
     {
       "album": {
@@ -5687,6 +5731,24 @@
     },
     {
       "album": {
+        "name": "Roule un autre (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Roule un autre - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
+    },
+    {
+      "album": {
         "name": "Rover (feat. DTG)",
         "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
       },
@@ -7434,7 +7496,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 275162,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"

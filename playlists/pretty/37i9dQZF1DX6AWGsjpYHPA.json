@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 128440,
+  "num_followers": 128558,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmUxY2FiNjgxZTNkYTdjMzA5MzJiNTgyNTc1NmU4M2E4ZGE1ZmIw",
+  "snapshot_id": "MCwxNmI3NTcwMGViN2UzY2VmZjBkNWZkZDQ5ODI1MjlmOTQyZTM5ZTM2",
   "tracks": [
     {
       "added_at": "2023-07-18 19:55:42",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "The Best of the Black President",
         "url": "https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 591693,
       "name": "Water No Get Enemy",
       "url": "https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
         "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 214893,
       "name": "Do What You Gotta Do",
       "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Diego E.P.",
-        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Talk Memory",
         "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 313587,
       "name": "Beside April",
       "url": "https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Diego E.P.",
+        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Um Viol\u00e3o em Primeiro Plano",
-        "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
-      },
-      "artists": [
-        {
-          "name": "Rosinha De Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Asa Branca",
-      "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Jazz, Vol. 1",
         "url": "https://open.spotify.com/album/4xGe2QuoGL5Wc5O3Uk9SiA"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 397477,
       "name": "Jazz, Vol. 1",
       "url": "https://open.spotify.com/track/5QqLqt8iHJIJOvXXxcLXvw"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Um Viol\u00e3o em Primeiro Plano",
+        "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
+      },
+      "artists": [
+        {
+          "name": "Rosinha De Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Asa Branca",
+      "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
     },
     {
       "added_at": "2023-07-18 19:55:42",

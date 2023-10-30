@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Mad Tsai
 
-292 songs - 15 hr 50 min
+293 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [bop it](https://open.spotify.com/track/3AKYihZBUkVTjyVqHsBgqg) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [sometimes i'm a warrior, sometimes i'm a little bird that can't get up off the ground](https://open.spotify.com/album/07soOdkeZA8ODgj7RHkQV4) | 2:53 | 2023-03-16 |  |
 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 | 2022-05-17 | 2023-05-27 |
 | [Bruno is Orange](https://open.spotify.com/track/4pY1okPrJvIPBQM0t4i28v) | [Hop Along, Queen Ansleis](https://open.spotify.com/artist/7hDLm8O99kRfpY3DjFHQAP), [Frances Quinlan](https://open.spotify.com/artist/5yO8MmDV2hnMbiIoZGZMGr) | [Freshman Year](https://open.spotify.com/album/3ctenyhN6B5SQhRXy9Q5ux) | 3:22 | 2022-05-17 | 2022-12-03 |
-| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-28 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 | 2023-10-27 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-28 | 2023-10-30 |
 | [Bugbear](https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:53 | 2022-05-17 | 2023-01-14 |
 | [Burning Pile](https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:22 | 2023-05-26 |  |
 | [Bust Your Kneecaps](https://open.spotify.com/track/5QjoIwD2oUBUUlrHpZa1nZ) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Pomplamoose Live](https://open.spotify.com/album/3dA0Ge9uyMIyGrUV2qQg50) | 3:16 | 2022-05-17 |  |

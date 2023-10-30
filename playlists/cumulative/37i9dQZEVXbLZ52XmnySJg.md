@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- India.
 
-780 songs - 1 day 22 hr 39 min
+781 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Humraah \(From "Malang \- Unleash The Madness"\)](https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [The Fusion Project](https://open.spotify.com/artist/6kNlPxUqmZMUyeGRMrWnuQ) | [Humraah \(From "Malang \- Unleash The Madness"\)](https://open.spotify.com/album/1R72FwrqoofsuAM2xil26G) | 4:59 | 2021-10-08 | 2021-10-23 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-09-01 | 2021-09-02 |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2023-09-26 | 2023-09-28 |
+| [I'm Scared \(From "Leo"\)](https://open.spotify.com/track/6vPFDbyzSYWAL7r3Waa7BZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [I'm Scared \(From "Leo"\)](https://open.spotify.com/album/55iZCHzl5CsBTT8QlAh1ZY) | 2:25 | 2023-10-29 |  |
 | [IDGAF \(feat\. Morrisson\)](https://open.spotify.com/track/7F5O2pMgNNjONTbdqQx9b3) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:56 | 2021-07-20 | 2021-07-23 |
 | [Ik Lamha](https://open.spotify.com/track/6KtSNVgCmQEvDgIuHoXAkT) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Main Tera](https://open.spotify.com/album/47nAxBUhyce2q5v8lN1H2v) | 4:18 | 2022-08-03 | 2022-09-10 |
 | [In Da Getto](https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:10 | 2021-10-11 | 2021-11-04 |
@@ -381,7 +382,7 @@
 | [Labon Ko](https://open.spotify.com/track/5WncH5iZ5GFlnXm7jKEXVP) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Bhool Bhulaiyaa](https://open.spotify.com/album/4BKbiFqwZBaBG6MeDdkwID) | 5:41 | 2022-06-02 | 2022-06-07 |
 | [Lag Ja Gale Se Phir \(From "Woh Kaun Thi"\)](https://open.spotify.com/track/6clAHjokFftNtzUjOfH7WK) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:17 | 2022-02-07 | 2022-02-09 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-11-09 |
-| [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 | 2023-10-12 |  |
+| [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 | 2023-10-12 | 2023-10-30 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-10-24 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-05-05 | 2021-05-30 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-25 | 2022-09-18 |

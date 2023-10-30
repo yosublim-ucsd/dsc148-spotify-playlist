@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=HVlq4wOvRTOtVCoJDJtpKA"> Blaqbonez </a>
 
-299 songs - 14 hr 27 min
+300 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Egbon](https://open.spotify.com/track/2mfmd4yGuAyoblktI50Z3i) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Egbon](https://open.spotify.com/album/6TgR9zfNjqND5lRoOtFny3) | 3:14 | 2022-06-09 | 2022-10-30 |
 | [Elephant Man](https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl) | [Elephant Man](https://open.spotify.com/album/2CG9eOhIFEh9SDraWK8Olm) | 2:46 | 2022-07-07 | 2022-12-09 |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/0EW6FrqEuVFwZ36k502Pwy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:01 | 2022-10-28 | 2022-11-11 |
-| [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 | 2022-10-28 |  |
+| [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 | 2022-10-28 | 2023-10-30 |
 | [Fame \- A COLORS ENCORE](https://open.spotify.com/track/2QvH1FPHBBWRYA0K9X89le) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fame \- A COLORS ENCORE](https://open.spotify.com/album/2ftWbyBuXI9qbHG5GkeUlL) | 1:51 | 2022-10-14 | 2022-10-29 |
 | [Fame Sh\*T](https://open.spotify.com/track/4UWZR7yJAadx3Nr7fh9wcV) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Loose kaynon](https://open.spotify.com/artist/2duu55b7CSAycmIyJuvhc2), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Behold the Lamb](https://open.spotify.com/album/3BgEVKKRvtbGgElezps7nH) | 2:32 | 2022-10-14 | 2022-10-29 |
 | [Family](https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Family](https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN) | 3:21 | 2023-04-27 |  |
@@ -234,6 +234,7 @@
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2022-06-09 | 2023-02-24 |
 | [Shakur](https://open.spotify.com/track/6FAZgSguZfXqdpqtVjV7iP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:23 | 2022-10-14 | 2022-10-29 |
 | [Shina Peters](https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Shina Peters](https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P) | 2:46 | 2023-06-02 | 2023-06-17 |
+| [SHINE FOREVER](https://open.spotify.com/track/5GU7NV6PiTRmxWb0Q5D4eH) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 1:43 | 2023-10-27 |  |
 | [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 | 2023-10-13 |  |
 | [Shut Up](https://open.spotify.com/track/0NWt2GeH14qHbs3S9dgdXl) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Mr\. Boombastic](https://open.spotify.com/album/3xTfkqfqwu6qwhdi3lgITb) | 3:20 | 2022-10-14 | 2022-10-29 |
 | [Sigh](https://open.spotify.com/track/61pbywwUdnOdgiBXmDQwLy) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Icen B4 the Cake](https://open.spotify.com/album/1z1mjM7ERkcVau0B0OWQhF) | 2:13 | 2022-10-14 | 2022-10-29 |

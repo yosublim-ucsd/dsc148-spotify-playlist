@@ -6690,10 +6690,32 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 191000,
       "name": "Nocera by Night (feat. Visconti)",
       "url": "https://open.spotify.com/track/3FkCUmmNarqRBVkAqBDiyJ"
+    },
+    {
+      "album": {
+        "name": "Nocera by Night (feat. Visconti)",
+        "url": "https://open.spotify.com/album/6TqZM3iOYB1USiWyxvd17i"
+      },
+      "artists": [
+        {
+          "name": "Alfonso Cheng",
+          "url": "https://open.spotify.com/artist/67Ei8mhmeEmM3KAl4PX1hz"
+        },
+        {
+          "name": "Visconti",
+          "url": "https://open.spotify.com/artist/5UZR9WTGdqLZHX8nRed9WL"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Nocera by Night (feat. Visconti)",
+      "url": "https://open.spotify.com/track/63CV2MUMGNraD6LbmDk3aU"
     },
     {
       "album": {

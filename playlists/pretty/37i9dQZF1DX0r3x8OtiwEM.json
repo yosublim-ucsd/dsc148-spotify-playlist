@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 910665,
+  "num_followers": 910861,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjU5MmFlNTAwOTBlMzFlM2Q0YWZhNDliZTU0ZjMwZDdlZTBlOWEw",
+  "snapshot_id": "MCw5ZTAwYzVhNWY1MWFkNDA2YWVmMGY2MTdiYTE0OTEwZDRkNjE2NjQ1",
   "tracks": [
     {
       "added_at": "2023-09-19 17:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-09-19 17:00:00",
       "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
-    },
-    {
-      "added_at": "2023-09-19 17:00:00",
-      "album": {
         "name": "Schwer",
         "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 214895,
       "name": "Schwer",
       "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
+    },
+    {
+      "added_at": "2023-09-19 17:00:00",
+      "album": {
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "added_at": "2023-09-19 17:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-09-19 17:00:00",
       "album": {
-        "name": "Stay There",
-        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "Stay There",
-      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
-    },
-    {
-      "added_at": "2023-09-19 17:00:00",
-      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 227987,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
+    },
+    {
+      "added_at": "2023-09-19 17:00:00",
+      "album": {
+        "name": "Stay There",
+        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "Stay There",
+      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2023-09-19 17:00:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-09-19 17:00:00",
       "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
-        }
-      ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2023-09-19 17:00:00",
-      "album": {
         "name": "Alone (Stephan Jolk Remix)",
         "url": "https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs"
       },
@@ -759,22 +739,22 @@
     {
       "added_at": "2023-09-19 17:00:00",
       "album": {
-        "name": "Admit It (u don't want 2)",
-        "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
         }
       ],
-      "duration_ms": 385074,
-      "name": "Admit It (u don't want 2)",
-      "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     },
     {
       "added_at": "2023-09-19 17:00:00",
@@ -791,6 +771,26 @@
       "duration_ms": 325744,
       "name": "Dreamcast",
       "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
+    },
+    {
+      "added_at": "2023-09-19 17:00:00",
+      "album": {
+        "name": "Admit It (u don't want 2)",
+        "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 385074,
+      "name": "Admit It (u don't want 2)",
+      "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
     },
     {
       "added_at": "2023-09-19 17:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-09-19 17:00:00",
       "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 266676,
+      "name": "EASY PREY",
+      "url": "https://open.spotify.com/track/6WqO9gLZu212VEJcVFAYdo"
+    },
+    {
+      "added_at": "2023-09-19 17:00:00",
+      "album": {
         "name": "Plastic (Scheinizzl Remix)",
         "url": "https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 407000,
       "name": "Plastic (Scheinizzl Remix)",
       "url": "https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP"
-    },
-    {
-      "added_at": "2023-09-19 17:00:00",
-      "album": {
-        "name": "MORE D4TA",
-        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 266676,
-      "name": "EASY PREY",
-      "url": "https://open.spotify.com/track/6WqO9gLZu212VEJcVFAYdo"
     },
     {
       "added_at": "2023-09-19 17:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-09-19 17:00:00",
       "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 276689,
+      "name": "MORE LOVE",
+      "url": "https://open.spotify.com/track/64rYiYzQNM4uRx6m03Uv9J"
+    },
+    {
+      "added_at": "2023-09-19 17:00:00",
+      "album": {
         "name": "Home (Mind Against Remix)",
         "url": "https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 437647,
       "name": "Home - Mind Against Remix",
       "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
-    },
-    {
-      "added_at": "2023-09-19 17:00:00",
-      "album": {
-        "name": "MORE D4TA",
-        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 276689,
-      "name": "MORE LOVE",
-      "url": "https://open.spotify.com/track/64rYiYzQNM4uRx6m03Uv9J"
     },
     {
       "added_at": "2023-09-19 17:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-19 17:00:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
-    },
-    {
-      "added_at": "2023-09-19 17:00:00",
-      "album": {
         "name": "I WON'T STAY",
         "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
       },
@@ -1091,18 +1075,34 @@
     {
       "added_at": "2023-09-19 17:00:00",
       "album": {
-        "name": "Holocene, Pt. II",
-        "url": "https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys"
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
       },
       "artists": [
         {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         }
       ],
-      "duration_ms": 414600,
-      "name": "Holocene, Pt. II",
-      "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
+    },
+    {
+      "added_at": "2023-09-19 17:00:00",
+      "album": {
+        "name": "When the Lights Go (Deluxe)",
+        "url": "https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6"
     }
   ],
   "unique_name": "Lowkey Tech",

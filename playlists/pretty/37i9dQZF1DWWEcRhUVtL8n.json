@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: hemlocke springs ",
-  "num_followers": 1698019,
+  "num_followers": 1697988,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWU0MjU5MGU5MjBjOGY0NTQzMzU2Y2Q4ZmM5ODM3ZjlhYTAzZmY0",
+  "snapshot_id": "MCxhNjQwYTliYjU3YWMwODgyYzRmMWJkMGZhMjZjMTJkOTA3ODNmMTc4",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb"
     },
     {
-      "added_at": "2023-08-25 04:56:29",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Over",
@@ -711,6 +695,22 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "added_at": "2023-08-25 04:56:29",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 218588,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
-    },
-    {
       "added_at": "2023-07-03 15:40:30",
       "album": {
         "name": "Kill Your Pain (with King Princess)",
@@ -779,6 +763,22 @@
       "duration_ms": 166194,
       "name": "Kill Your Pain (with King Princess)",
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 218588,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Boy Toy",
-        "url": "https://open.spotify.com/album/4Fu86wa5adwAw8xEcnUnT7"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 176474,
-      "name": "Boy Toy",
-      "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Bloom",
@@ -879,6 +863,22 @@
       "duration_ms": 213271,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Boy Toy",
+        "url": "https://open.spotify.com/album/4Fu86wa5adwAw8xEcnUnT7"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 176474,
+      "name": "Boy Toy",
+      "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
     },
     {
-      "added_at": "2023-07-07 18:51:45",
-      "album": {
-        "name": "a beautiful blur",
-        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 238346,
-      "name": "Alonica",
-      "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Lots of Nothing (feat. BENEE)",
@@ -963,6 +947,22 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
+    },
+    {
+      "added_at": "2023-07-07 18:51:45",
+      "album": {
+        "name": "a beautiful blur",
+        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
     },
     {
       "added_at": "2023-08-14 19:08:31",
@@ -1197,20 +1197,24 @@
       "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
     },
     {
-      "added_at": "2023-08-25 04:56:29",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Don\u2019t Wanna Love U",
-        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
       "artists": [
         {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 209418,
-      "name": "Don\u2019t Wanna Love U",
-      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
+      "duration_ms": 215986,
+      "name": "Diving - feat. Holly Humberstone",
+      "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
     },
     {
       "added_at": "2023-06-30 04:21:00",
@@ -1233,6 +1237,22 @@
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
     },
     {
+      "added_at": "2023-08-25 04:56:29",
+      "album": {
+        "name": "Don\u2019t Wanna Love U",
+        "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 209418,
+      "name": "Don\u2019t Wanna Love U",
+      "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Coping on Unemployment",
@@ -1247,26 +1267,6 @@
       "duration_ms": 228000,
       "name": "Coping on Unemployment",
       "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Diving - feat. Holly Humberstone",
-      "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
     },
     {
-      "added_at": "2023-04-18 18:49:21",
-      "album": {
-        "name": "Til U Hate Me",
-        "url": "https://open.spotify.com/album/75TNCn37hWQM0jVKPTqKrt"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 199042,
-      "name": "Til U Hate Me",
-      "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "i wanna be your right hand",
@@ -1315,6 +1299,22 @@
       "duration_ms": 148533,
       "name": "i wanna be your right hand",
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
+    },
+    {
+      "added_at": "2023-04-18 18:49:21",
+      "album": {
+        "name": "Til U Hate Me",
+        "url": "https://open.spotify.com/album/75TNCn37hWQM0jVKPTqKrt"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 199042,
+      "name": "Til U Hate Me",
+      "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
     },
     {
       "added_at": "2023-08-14 19:08:31",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
     },
     {
-      "added_at": "2023-07-07 18:51:45",
-      "album": {
-        "name": "Hello Hi / Un Deux Trois",
-        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "I Met God",
@@ -1411,6 +1395,22 @@
       "duration_ms": 262454,
       "name": "I Met God",
       "url": "https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk"
+    },
+    {
+      "added_at": "2023-07-07 18:51:45",
+      "album": {
+        "name": "Hello Hi / Un Deux Trois",
+        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1593,6 +1593,22 @@
       "url": "https://open.spotify.com/track/7sm7RkEXLx4IFvvbw8h5rC"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 206427,
+      "name": "I Can't Get My Head Around You",
+      "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "MOVIES! WORLDWIDE: PART I",
@@ -1613,20 +1629,20 @@
       "url": "https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Drop Cherries",
-        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+        "name": "From The Valley",
+        "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
         }
       ],
-      "duration_ms": 206427,
-      "name": "I Can't Get My Head Around You",
-      "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
+      "duration_ms": 212968,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD"
     },
     {
       "added_at": "2023-07-14 18:19:08",
@@ -1643,22 +1659,6 @@
       "duration_ms": 165916,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "From The Valley",
-        "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
-      },
-      "artists": [
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        }
-      ],
-      "duration_ms": 212968,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD"
     }
   ],
   "unique_name": "Indie Pop",

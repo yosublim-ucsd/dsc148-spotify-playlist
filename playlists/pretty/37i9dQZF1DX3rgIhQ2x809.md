@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,065 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,077 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 33 | [6B \(feat\. Go Get Music\)](https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Go Get Music](https://open.spotify.com/artist/0BKYcWhq6W4TYSLSJk1ZDJ) | [6B \(feat\. Go Get Music\)](https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45) | 3:34 |
 | 34 | [Kame Hame](https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Kame Hame](https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8) | 2:47 |
 | 35 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 |
-| 36 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
-| 37 | [Dejanos Pasar](https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Dejanos Pasar](https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN) | 2:55 |
+| 36 | [Dejanos Pasar](https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Dejanos Pasar](https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN) | 2:55 |
+| 37 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
 | 38 | [Xexo](https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Xexo](https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T) | 3:00 |
 | 39 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 |
 | 40 | [Mi Secreto](https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Mi Secreto](https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 99 | [Nena Buena](https://open.spotify.com/track/1LipU0DjCXaCK8yBfmglm6) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Nena Buena](https://open.spotify.com/album/6H0y2FOaj4tPcZTQ1VRTUU) | 3:28 |
 | 100 | [En Mis Sueños](https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:36 |
 
-Snapshot ID: `MCwwMmQ2Nzg2MmU2OTk2YzkwZmViNTM2YmEzOWM1N2JlYjk5YTc5NjRm`
+Snapshot ID: `MCwyYzFiMzcxOTY2ZjlkMTk1YTJjNGFiOTc2ZWJkZmI4NGJlZGU0Njc3`

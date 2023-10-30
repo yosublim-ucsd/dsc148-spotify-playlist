@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,939 likes - 104 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,945 likes - 104 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 103 | [Ikhlas](https://open.spotify.com/track/4l6kxQ8DF4WGinhZJEX8mo) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [buangan](https://open.spotify.com/album/5YEfYIYoE7V9nHeC9k42oA) | 2:13 |
 | 104 | [The Only Word I Know](https://open.spotify.com/track/4ywjl52RZkFVCAcgXTD4dg) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [The Only Word I Know](https://open.spotify.com/album/1LuGjHM03Id63XXJUOrW4V) | 3:03 |
 
-Snapshot ID: `MCw3NmQwYzA5MWFkYjE3OTg2NWU3NTk4MGVmMGQ2YmJjYzM3NWE3NDll`
+Snapshot ID: `MCw0ZThmMDU0Y2EyZWQxN2Y0MmU4Y2M0NDA1ZjIyNzg4OWVlMjgwNGY1`

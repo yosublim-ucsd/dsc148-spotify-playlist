@@ -4,7 +4,7 @@
 
 > The best in folk & acoustic today\. Cover: Angie McMahon
 
-467 songs - 1 day 5 hr 2 min
+468 songs - 1 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [BRIGHTSIDE](https://open.spotify.com/track/63q3GlHZstxXzfb0zt7ZYY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 3:49 | 2022-01-14 | 2022-01-22 |
 | [Broken Sky](https://open.spotify.com/track/09Acpmydc7iDDJeAos8gUL) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Broken Sky / It Takes Me Back](https://open.spotify.com/album/6CTPYg4bUm19T50eRleWnD) | 4:30 | 2023-09-01 |  |
 | [Buffet Days](https://open.spotify.com/track/1Y7XrntbqWMMR2Rm6HLnG4) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O), [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [Buffet Days](https://open.spotify.com/album/272cuK8kjbVwLnIl41N4rx) | 3:41 | 2022-07-22 | 2022-11-19 |
-| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-28 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 | 2023-10-27 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-28 | 2023-10-30 |
 | [Burn](https://open.spotify.com/track/2m2tE9Extv1FJ4tWq6frPg) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Burn](https://open.spotify.com/album/2sxPmS3nA6VLGbhkIhTvW3) | 2:10 | 2023-09-22 |  |
 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 | 2022-12-09 | 2023-09-09 |
 | [Buy My Round](https://open.spotify.com/track/2MhTrtRPIIZoVuXQFjyeSx) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Buy My Round](https://open.spotify.com/album/2IWnXOBRdLybyCc4HgogCu) | 4:24 | 2023-05-05 | 2023-06-17 |

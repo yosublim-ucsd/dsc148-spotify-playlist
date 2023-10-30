@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Israel.",
-  "num_followers": 55985,
+  "num_followers": 56030,
   "original_name": "Top 50 - Israel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUxODU3NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUxOTQ0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
         "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "\u05dc\u05e6\u05d0\u05ea \u05de\u05d3\u05d9\u05db\u05d0\u05d5\u05df",
         "url": "https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "Part II",
         "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
@@ -93,23 +93,7 @@
       "url": "https://open.spotify.com/track/34aKXUhVdHGTzWOt85RjGq"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "Part II",
-        "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "\u05db\u05db\u05d4 \u05d5\u05db\u05db\u05d4",
-      "url": "https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -125,27 +109,23 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
-        "name": "\u05ea\u05e8\u05e7\u05d5\u05d3 \u05dc\u05e0\u05e6\u05d7",
-        "url": "https://open.spotify.com/album/7gCZApUPjkkS1mdOLMTTbQ"
+        "name": "Part II",
+        "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
       },
       "artists": [
         {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        },
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
         }
       ],
-      "duration_ms": 296400,
-      "name": "\u05ea\u05e8\u05e7\u05d5\u05d3 \u05dc\u05e0\u05e6\u05d7",
-      "url": "https://open.spotify.com/track/3mITeXQ9Dt7M6nTutuNtsx"
+      "duration_ms": 219047,
+      "name": "\u05db\u05db\u05d4 \u05d5\u05db\u05db\u05d4",
+      "url": "https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "\u05dc\u05d0\u05d4\u05d5\u05d1 \u05d0\u05d5\u05ea\u05da \u05db\u05dc \u05d9\u05d5\u05dd",
         "url": "https://open.spotify.com/album/0QNl8z4VM5lUUI5nDDIsHA"
@@ -165,59 +145,7 @@
       "url": "https://open.spotify.com/track/0QDGzInNYjTlYI28Xq7slK"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style (Taylor's Version)",
-      "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "\u05d7\u05d5\u05e8\u05e3 23",
-        "url": "https://open.spotify.com/album/2Kq5LsFyyagcFRKBKgfOY5"
-      },
-      "artists": [
-        {
-          "name": "Odeya",
-          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
-        },
-        {
-          "name": "E-Z",
-          "url": "https://open.spotify.com/artist/2YHuWGXNWLmpBTKo1rQ3me"
-        }
-      ],
-      "duration_ms": 189428,
-      "name": "\u05d7\u05d5\u05e8\u05e3 23",
-      "url": "https://open.spotify.com/track/2pvlbipBAnMXwFkuRwLJpo"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "\u05e2\u05dd \u05d9\u05e9\u05e8\u05d0\u05dc \u05d7\u05d9",
-        "url": "https://open.spotify.com/album/6I7n9Q1PmQ7zNQEU4DA51N"
-      },
-      "artists": [
-        {
-          "name": "Eyal Golan",
-          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
-        }
-      ],
-      "duration_ms": 210858,
-      "name": "\u05e2\u05dd \u05d9\u05e9\u05e8\u05d0\u05dc \u05d7\u05d9",
-      "url": "https://open.spotify.com/track/5oi46p5BbFdvgI0bAeu1rX"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -233,7 +161,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "TATE WE MADE IT",
         "url": "https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn"
@@ -253,39 +181,47 @@
       "url": "https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "\u05d7\u05d5\u05e8\u05e3 23",
+        "url": "https://open.spotify.com/album/2Kq5LsFyyagcFRKBKgfOY5"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        },
+        {
+          "name": "E-Z",
+          "url": "https://open.spotify.com/artist/2YHuWGXNWLmpBTKo1rQ3me"
         }
       ],
-      "duration_ms": 180381,
-      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+      "duration_ms": 189428,
+      "name": "\u05d7\u05d5\u05e8\u05e3 23",
+      "url": "https://open.spotify.com/track/2pvlbipBAnMXwFkuRwLJpo"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "\u05ea\u05e8\u05e7\u05d5\u05d3 \u05dc\u05e0\u05e6\u05d7",
+        "url": "https://open.spotify.com/album/7gCZApUPjkkS1mdOLMTTbQ"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
         }
       ],
-      "duration_ms": 231833,
-      "name": "Blank Space (Taylor's Version)",
-      "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
+      "duration_ms": 296400,
+      "name": "\u05ea\u05e8\u05e7\u05d5\u05d3 \u05dc\u05e0\u05e6\u05d7",
+      "url": "https://open.spotify.com/track/3mITeXQ9Dt7M6nTutuNtsx"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "\u05de\u05e9\u05d4\u05d5 \u05d0\u05de\u05d9\u05ea\u05d9 \u05d1\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
         "url": "https://open.spotify.com/album/6QPX656Si3DHxKEgDXoi9G"
@@ -301,7 +237,7 @@
       "url": "https://open.spotify.com/track/74kYHwU43s49Y5AukKArWQ"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "\u05e1\u05d4\u05e8\u05d4 (Live)",
         "url": "https://open.spotify.com/album/78GQ3pNd1Uy3oQJsX3MmGk"
@@ -321,55 +257,135 @@
       "url": "https://open.spotify.com/track/7BcRDWY4VTCvRRHoobFWWo"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 212600,
-      "name": "Welcome To New York (Taylor's Version)",
-      "url": "https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9"
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "\u05dc\u05d9\u05e8\u05d6",
+        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
         }
       ],
-      "duration_ms": 279833,
-      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
+      "duration_ms": 114625,
+      "name": "\u05e8\u05d5\u05e0\u05d3\u05dc\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
-        "name": "\u05de\u05d5\u05dc\u05d3\u05ea",
-        "url": "https://open.spotify.com/album/24mJlivVrpy5nzUbA1vxOa"
+        "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
+        "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
       },
       "artists": [
         {
-          "name": "Hanan Ben Ari",
-          "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
         }
       ],
-      "duration_ms": 168813,
-      "name": "\u05de\u05d5\u05dc\u05d3\u05ea",
-      "url": "https://open.spotify.com/track/1f6O2TPzZQhW1Ky2iGYb5X"
+      "duration_ms": 161208,
+      "name": "\u05db\u05dc \u05d4\u05db\u05d5\u05db\u05d1\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6xtqda5h0wlcFn3WdI4pb6"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05e2\u05dd \u05d9\u05e9\u05e8\u05d0\u05dc \u05d7\u05d9",
+        "url": "https://open.spotify.com/album/6I7n9Q1PmQ7zNQEU4DA51N"
+      },
+      "artists": [
+        {
+          "name": "Eyal Golan",
+          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
+        }
+      ],
+      "duration_ms": 210858,
+      "name": "\u05e2\u05dd \u05d9\u05e9\u05e8\u05d0\u05dc \u05d7\u05d9",
+      "url": "https://open.spotify.com/track/5oi46p5BbFdvgI0bAeu1rX"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05e1\u05d8\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "duration_ms": 237967,
+      "name": "\u05e1\u05d8\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
+        "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
+      },
+      "artists": [
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        }
+      ],
+      "duration_ms": 187901,
+      "name": "\u05d4\u05d9\u05d9 \u05d1\u05d9\u05d9\u05d1",
+      "url": "https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -385,23 +401,7 @@
       "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Out Of The Woods (Taylor's Version)",
-      "url": "https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "38 \u05d5\u05d7\u05d5\u05e5 \u05de\u05db\u05d3\u05d5\u05e8\u05d2\u05dc",
         "url": "https://open.spotify.com/album/20Pqok9eZIM415mGqpRPya"
@@ -421,267 +421,7 @@
       "url": "https://open.spotify.com/track/3X0WwsNHfSqpd85A9Iggr2"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 146436,
-      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "\u05e1\u05d8\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        }
-      ],
-      "duration_ms": 237967,
-      "name": "\u05e1\u05d8\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219209,
-      "name": "Shake It Off (Taylor's Version)",
-      "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "\u05dc\u05d9\u05e8\u05d6",
-        "url": "https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G"
-      },
-      "artists": [
-        {
-          "name": "Static",
-          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
-        }
-      ],
-      "duration_ms": 114625,
-      "name": "\u05e8\u05d5\u05e0\u05d3\u05dc\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
-        "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
-      },
-      "artists": [
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        }
-      ],
-      "duration_ms": 187901,
-      "name": "\u05d4\u05d9\u05d9 \u05d1\u05d9\u05d9\u05d1",
-      "url": "https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
-        "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
-      },
-      "artists": [
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        }
-      ],
-      "duration_ms": 161208,
-      "name": "\u05db\u05dc \u05d4\u05db\u05d5\u05db\u05d1\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/6xtqda5h0wlcFn3WdI4pb6"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Suburban Legends (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
-        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 212963,
-      "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 193289,
-      "name": "All You Had To Do Was Stay (Taylor's Version)",
-      "url": "https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "\u05e9\u05dc\u05d5\u05dd \u05d0\u05d4\u05d5\u05d1\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/3OXK2W6Y0arDMf7aNRJN86"
-      },
-      "artists": [
-        {
-          "name": "Eyal Golan",
-          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
-        }
-      ],
-      "duration_ms": 246944,
-      "name": "\u05e9\u05dc\u05d5\u05dd \u05d0\u05d4\u05d5\u05d1\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/7q40jR7vLHky0IKFTJWJ4K"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 211103,
-      "name": "Bad Blood (Taylor's Version)",
-      "url": "https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "\u05d0\u05d5\u05e9\u05e8",
-        "url": "https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        },
-        {
-          "name": "Odeya",
-          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
-        }
-      ],
-      "duration_ms": 127080,
-      "name": "\u05d0\u05e0\u05d9 \u05e4\u05d4",
-      "url": "https://open.spotify.com/track/60BOR51eeN8A3wYIrElggH"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 220433,
-      "name": "Wildest Dreams (Taylor's Version)",
-      "url": "https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK"
-    },
-    {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "\u05d0\u05d9\u05e0\u05d8\u05dc\u05e7\u05d8\u05d5\u05e2\u05e8\u05e1\u05d9\u05ea",
         "url": "https://open.spotify.com/album/5i0yY5QdEqzdok088Yp4af"
@@ -697,10 +437,10 @@
       "url": "https://open.spotify.com/track/4E5fqKktoOAT3shxlolPBm"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
-        "name": "\u05d9\u05e9 \u05db\u05d0\u05df \u05d9\u05d5\u05ea\u05e8 \u05de\u05d6\u05d4",
-        "url": "https://open.spotify.com/album/56GkzCsk4lVT9GRtUxTb1a"
+        "name": "\u05de\u05d5\u05dc\u05d3\u05ea",
+        "url": "https://open.spotify.com/album/24mJlivVrpy5nzUbA1vxOa"
       },
       "artists": [
         {
@@ -708,12 +448,28 @@
           "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
         }
       ],
-      "duration_ms": 229411,
-      "name": "\u05e2\u05d8\u05dc\u05e3 \u05e2\u05d9\u05d5\u05d5\u05e8",
-      "url": "https://open.spotify.com/track/6oTChqDVAXNxJrg57siTxB"
+      "duration_ms": 168813,
+      "name": "\u05de\u05d5\u05dc\u05d3\u05ea",
+      "url": "https://open.spotify.com/track/1f6O2TPzZQhW1Ky2iGYb5X"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
+        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 212963,
+      "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -724,12 +480,12 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 230177,
-      "name": "New Romantics (Taylor's Version)",
-      "url": "https://open.spotify.com/track/2vPMoMDXxu9uX1igWZmXSG"
+      "duration_ms": 279833,
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -740,15 +496,15 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 207650,
-      "name": "I Wish You Would (Taylor's Version)",
-      "url": "https://open.spotify.com/track/43y1WpBdnEy5TR9aZoSQL9"
+      "duration_ms": 146436,
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
-        "name": "2023",
-        "url": "https://open.spotify.com/album/1rK9oII8KSQLi5WRYhVaVk"
+        "name": "\u05e9\u05dc\u05d5\u05dd \u05d0\u05d4\u05d5\u05d1\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/3OXK2W6Y0arDMf7aNRJN86"
       },
       "artists": [
         {
@@ -756,12 +512,12 @@
           "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
         }
       ],
-      "duration_ms": 250878,
-      "name": "\u05e2\u05d9\u05e8 \u05e0\u05de\u05dc",
-      "url": "https://open.spotify.com/track/6NUzJGlQORUv6NjUwcefr8"
+      "duration_ms": 246944,
+      "name": "\u05e9\u05dc\u05d5\u05dd \u05d0\u05d4\u05d5\u05d1\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/7q40jR7vLHky0IKFTJWJ4K"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9 & \u05d0\u05d5\u05e8\u05d5\u05ea",
         "url": "https://open.spotify.com/album/5iw1EWAmGUHfrCNfTi7z14"
@@ -781,7 +537,7 @@
       "url": "https://open.spotify.com/track/6Eds9y8ZiQHcIegsEIVcYP"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -792,28 +548,64 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 195700,
-      "name": "I Know Places (Taylor's Version)",
-      "url": "https://open.spotify.com/track/2f0GI2ZLUtbGqFx8t2Gk6A"
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
       "album": {
-        "name": "\u05d0\u05e3 \u05e4\u05e2\u05dd \u05dc\u05d0 \u05dc\u05d1\u05d3",
-        "url": "https://open.spotify.com/album/7vnTXeAqPJARapvbC3tSCW"
+        "name": "\u05d8\u05d9\u05dc \u05e4\u05e6\u05de\u05e8",
+        "url": "https://open.spotify.com/album/7pkmnnhjVV4vSCbUnguYcj"
       },
       "artists": [
         {
-          "name": "Inbal Bibi",
-          "url": "https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc"
+          "name": "\u05dc\u05d9\u05e2\u05d3 \u05de\u05d0\u05d9\u05e8",
+          "url": "https://open.spotify.com/artist/0pv7p5CElqhjhzyPD4eXpe"
         }
       ],
-      "duration_ms": 168705,
-      "name": "\u05d0\u05e3 \u05e4\u05e2\u05dd \u05dc\u05d0 \u05dc\u05d1\u05d3",
-      "url": "https://open.spotify.com/track/4ZGe1hugAeejCOd7TWGiz0"
+      "duration_ms": 135374,
+      "name": "\u05d8\u05d9\u05dc \u05e4\u05e6\u05de\u05e8",
+      "url": "https://open.spotify.com/track/0JoYMP7hvEwxKCjj9szUo6"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05d0\u05d5\u05e9\u05e8",
+        "url": "https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        },
+        {
+          "name": "Odeya",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "duration_ms": 127080,
+      "name": "\u05d0\u05e0\u05d9 \u05e4\u05d4",
+      "url": "https://open.spotify.com/track/60BOR51eeN8A3wYIrElggH"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7",
         "url": "https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci"
@@ -829,7 +621,223 @@
       "url": "https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso"
     },
     {
-      "added_at": "2023-10-28 12:47:37",
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "2023",
+        "url": "https://open.spotify.com/album/1rK9oII8KSQLi5WRYhVaVk"
+      },
+      "artists": [
+        {
+          "name": "Eyal Golan",
+          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
+        }
+      ],
+      "duration_ms": 250878,
+      "name": "\u05e2\u05d9\u05e8 \u05e0\u05de\u05dc",
+      "url": "https://open.spotify.com/track/6NUzJGlQORUv6NjUwcefr8"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05dc\u05d0 \u05ea\u05e8\u05d0\u05d4 \u05d0\u05d5\u05ea\u05d9 \u05d1\u05d5\u05db\u05d4",
+        "url": "https://open.spotify.com/album/0I8aFc70s5OVGIfFWjdRuM"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 218658,
+      "name": "\u05dc\u05d0 \u05ea\u05e8\u05d0\u05d4 \u05d0\u05d5\u05ea\u05d9 \u05d1\u05d5\u05db\u05d4",
+      "url": "https://open.spotify.com/track/5JGVm5Xshr1IlNlW9phZFQ"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        },
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "duration_ms": 167889,
+      "name": "\u05e6\u05d5\u05e0\u05d0\u05de\u05d9",
+      "url": "https://open.spotify.com/track/6W6ssWo1mqA9bLTo47Alsz"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05d9\u05e9 \u05db\u05d0\u05df \u05d9\u05d5\u05ea\u05e8 \u05de\u05d6\u05d4",
+        "url": "https://open.spotify.com/album/56GkzCsk4lVT9GRtUxTb1a"
+      },
+      "artists": [
+        {
+          "name": "Hanan Ben Ari",
+          "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
+        }
+      ],
+      "duration_ms": 229411,
+      "name": "\u05e2\u05d8\u05dc\u05e3 \u05e2\u05d9\u05d5\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/6oTChqDVAXNxJrg57siTxB"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05e7\u05e8\u05df \u05e9\u05de\u05e9",
+        "url": "https://open.spotify.com/album/78H1vv98dzzXHPeMeDV5J3"
+      },
+      "artists": [
+        {
+          "name": "Benaia Barabi",
+          "url": "https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9"
+        }
+      ],
+      "duration_ms": 227700,
+      "name": "\u05e7\u05e8\u05df \u05e9\u05de\u05e9",
+      "url": "https://open.spotify.com/track/3zhFqDzJZfnc8L5QkGWWG6"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05d0\u05e3 \u05e4\u05e2\u05dd \u05dc\u05d0 \u05dc\u05d1\u05d3",
+        "url": "https://open.spotify.com/album/7vnTXeAqPJARapvbC3tSCW"
+      },
+      "artists": [
+        {
+          "name": "Inbal Bibi",
+          "url": "https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "\u05d0\u05e3 \u05e4\u05e2\u05dd \u05dc\u05d0 \u05dc\u05d1\u05d3",
+      "url": "https://open.spotify.com/track/4ZGe1hugAeejCOd7TWGiz0"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05dc\u05d9\u05dc\u05d4 \u05db\u05d9\u05d5\u05dd \u05d9\u05d0\u05d9\u05e8",
+        "url": "https://open.spotify.com/album/6MTaG6ouyHqSauq4Xks8E7"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "\u05e2\u05d3 \u05de\u05d7\u05e8",
+      "url": "https://open.spotify.com/track/1ttOlVyZvmnozD2muIxulw"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW"
+      },
+      "artists": [
+        {
+          "name": "Avraham Tal",
+          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
+        }
+      ],
+      "duration_ms": 151442,
+      "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05d0\u05d6 \u05de\u05d4 \u05e2\u05db\u05e9\u05d9\u05d5",
+        "url": "https://open.spotify.com/album/6XHPGLxwmqGIsahq2wrUbJ"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 151143,
+      "name": "\u05d0\u05d6 \u05de\u05d4 \u05e2\u05db\u05e9\u05d9\u05d5",
+      "url": "https://open.spotify.com/track/16NPQQxjcSfhb0UFaUVw5s"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05e1\u05d5\u05e3 \u05d4\u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/1wkBFAYxB3n1hriR7rAZlT"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "David Broza",
+          "url": "https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "\u05e1\u05d9\u05d2\u05dc\u05d9\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/3Q6d64XJr20cHQtRd07YGj"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
+      "album": {
+        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
+        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO"
+    },
+    {
+      "added_at": "2023-10-29 08:36:59",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -840,9 +848,9 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Clean (Taylor's Version)",
-      "url": "https://open.spotify.com/track/2ByBBvpR9b7IynvRmnG7kG"
+      "duration_ms": 231833,
+      "name": "Blank Space (Taylor's Version)",
+      "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
     }
   ],
   "unique_name": "Top 50 - Israel",

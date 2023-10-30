@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 27589,
+  "num_followers": 27603,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmI2YTY2MGVlZGNkMTljMmQ1ZTA4MzFiNTU1ZGE2NzMxY2ZmNTRj",
+  "snapshot_id": "MCw2NjlhZmVmNjIxYzUyZDI5MmJlOGI5NWRkZmJiOTgzNDg3ZWEzNjE2",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Margaritas Podridas",
         "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 319058,
       "name": "Wow",
       "url": "https://open.spotify.com/track/5nO4n8RClXZg2ugsBU9hXy"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Margaritas Podridas",
-        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 174343,
-      "name": "Purpura",
-      "url": "https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Amor de Furgoneta",
         "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 192865,
       "name": "Amor de Furgoneta",
       "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Margaritas Podridas",
+        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 174343,
+      "name": "Purpura",
+      "url": "https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -567,18 +567,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "El Tiempo",
-        "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
       },
       "artists": [
         {
-          "name": "Flores",
-          "url": "https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt"
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        },
+        {
+          "name": "Z.A.M.P.A",
+          "url": "https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2"
         }
       ],
-      "duration_ms": 277443,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
+      "duration_ms": 267019,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -599,22 +603,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
       },
       "artists": [
         {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        },
-        {
-          "name": "Z.A.M.P.A",
-          "url": "https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2"
+          "name": "Flores",
+          "url": "https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt"
         }
       ],
-      "duration_ms": 267019,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
+      "duration_ms": 277443,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
+      },
+      "artists": [
+        {
+          "name": "Myun\u00e9",
+          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Boni Nait\u00f3",
+      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Animita",
         "url": "https://open.spotify.com/album/2gz1tfqRhfFjD4noTtqKUs"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
+        "name": "Margaritas Podridas",
+        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
       },
       "artists": [
         {
-          "name": "Myun\u00e9",
-          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Boni Nait\u00f3",
-      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
+      "duration_ms": 299999,
+      "name": "Ceremonia",
+      "url": "https://open.spotify.com/track/4E7o5iEkv5jl7NIvXfcUUV"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Margaritas Podridas",
-        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 299999,
-      "name": "Ceremonia",
-      "url": "https://open.spotify.com/track/4E7o5iEkv5jl7NIvXfcUUV"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 251595,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Sofocar",
-        "url": "https://open.spotify.com/album/3b5oM94hjKo7WcX05XJ2Nq"
-      },
-      "artists": [
-        {
-          "name": "Sadfields",
-          "url": "https://open.spotify.com/artist/21EFkTCquqEqYOWXi19fDF"
-        }
-      ],
-      "duration_ms": 285714,
-      "name": "Sofocar",
-      "url": "https://open.spotify.com/track/0HTqH2Wqa6qZNWHNfRR6DB"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -823,6 +807,26 @@
       "duration_ms": 245840,
       "name": "reina de primavera",
       "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
+      },
+      "artists": [
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        },
+        {
+          "name": "Simone Pace",
+          "url": "https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo"
+        }
+      ],
+      "duration_ms": 212008,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

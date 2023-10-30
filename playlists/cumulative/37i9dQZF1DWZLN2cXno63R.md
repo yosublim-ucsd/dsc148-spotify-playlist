@@ -4,7 +4,7 @@
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
-118 songs - 7 hr 59 min
+120 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Chan Chan](https://open.spotify.com/track/1HrtoRjIFmGStq47TuPkok) | [The Real Maestros](https://open.spotify.com/artist/4VMdLVoiCHsu8gNEWzNVm6), [Pío Leiva](https://open.spotify.com/artist/7vf3cusT4A12yB9wu0714H), [Mayito Rivera](https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD), [Luis Frank Arias](https://open.spotify.com/artist/5wBACEQjA6fxwh1wz7c96V), [Telmary](https://open.spotify.com/artist/5HgcoxgOLZfWfiuzjdlhyw), [Osdalgia](https://open.spotify.com/artist/07k4rO9r8H2IlBP98C6jI5) | [From Cuba](https://open.spotify.com/album/0UkomEFUMvyRjo5cbdNsAm) | 4:20 | 2022-08-05 | 2022-11-14 |
 | [Chan Chan](https://open.spotify.com/track/3fN0SB5OWTLCzgEuqfaK2s) | [The Sons Of Buena Vista](https://open.spotify.com/artist/5v7FgnzkIKDUOIXwEloKf1) | [Con Un Poco De Ayuda](https://open.spotify.com/album/2uZom9MDeqLCQA3AOm1vcJ) | 4:17 | 2022-03-30 |  |
 | [Chan Chan](https://open.spotify.com/track/4VebImNsdNAIOnmGynCvsI) | [The Sons Of Cuba](https://open.spotify.com/artist/25dKCg34lEVfoX7YERGlmq) | [Legends of Cuba](https://open.spotify.com/album/2IhAVuungiNKo5sJ0F8iIS) | 4:15 | 2021-12-10 | 2022-07-29 |
-| [Como a Cada Mañana](https://open.spotify.com/track/0lfT8VYlsuS8f2ZczCECh6) | [René Ferrer](https://open.spotify.com/artist/7hQEtpzH8zuOJOA25dk004) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/4CipbkwsxBGdIBW5Tn2Rz2) | 3:43 | 2021-12-10 |  |
+| [Como A Cada Mañana](https://open.spotify.com/track/7vhofmkO5UMRxdwYptZo7V) | [René](https://open.spotify.com/artist/5rq2bAasq0sAj2SjyzNVgr) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/0CkhEA7pJGHKPHEjl33arE) | 3:43 | 2022-08-05 |  |
+| [Como a Cada Mañana](https://open.spotify.com/track/0lfT8VYlsuS8f2ZczCECh6) | [René Ferrer](https://open.spotify.com/artist/7hQEtpzH8zuOJOA25dk004) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/4CipbkwsxBGdIBW5Tn2Rz2) | 3:43 | 2021-12-10 | 2023-10-30 |
 | [De Cuba Traigo](https://open.spotify.com/track/44DHqBp0NhYfb9ek1KNIj5) | [Ecos De Siboney](https://open.spotify.com/artist/6qmBkBPceisKHwr9upY4VF) | [Legends of Cuba](https://open.spotify.com/album/2IhAVuungiNKo5sJ0F8iIS) | 2:54 | 2021-12-10 | 2022-07-29 |
 | [De Cuba Traigo](https://open.spotify.com/track/2hhUEXxTSFpJaQSd9utoey) | [Ecos De Siboney](https://open.spotify.com/artist/6qmBkBPceisKHwr9upY4VF) | [Saludo Compay](https://open.spotify.com/album/6Gd3EGgnukbh5pDxlLnf6m) | 2:57 | 2022-03-30 |  |
 | [De Cuba traigo](https://open.spotify.com/track/5SkCJELfNdb4uUOmCprdLa) | [Ernesto Morales Repilado](https://open.spotify.com/artist/7vobFZFpMarrc4DH5sz0Sv), [Ecos De Siboney](https://open.spotify.com/artist/6qmBkBPceisKHwr9upY4VF) | [Best of Cuba](https://open.spotify.com/album/7jT6GMmUSudbIvCIMXom02) | 2:54 | 2022-08-05 | 2022-11-13 |
@@ -87,7 +88,8 @@
 | [Moliendo café](https://open.spotify.com/track/4jM0v4ReOQh5RntXfiG3NN) | [Vieja Trova Santiaguera](https://open.spotify.com/artist/2t7ndReOwR0bTqTaDxYa9G) | [El Balcon Del Adios](https://open.spotify.com/album/6RrE499bQ4sEOT81yuqUIM) | 4:55 | 2021-12-10 |  |
 | [Move Your Body \(Mana Mix\)](https://open.spotify.com/track/1aKQvshZjFlW5bZ8zvR324) | [Latin Groove](https://open.spotify.com/artist/14BXEgDN7cRyitwzEzK0ik) | [Bar De Lune Platinum Cuban Cafe](https://open.spotify.com/album/5hXyjnUZVwAC5dgH03Yc8f) | 3:15 | 2021-12-10 |  |
 | [No Llores Mas](https://open.spotify.com/track/7cM93GhjLMv6kXqKrqhTL8) | [Banda Caio Rodriguez](https://open.spotify.com/artist/3r3LCgq60jmbEQkEh2Q8aW), [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv), [Los Brillantes Cubanos](https://open.spotify.com/artist/0LcZ3t6cQtrE8IASQxDmcu) | [Cuba Café \(The Very Best of Cuban Music\)](https://open.spotify.com/album/6AcFLwyRVfDb0MubVagUdl) | 4:49 | 2021-12-10 |  |
-| [Ochun](https://open.spotify.com/track/3finbqt0hFJpfsJYeeFvJh) | [René Ferrer](https://open.spotify.com/artist/7hQEtpzH8zuOJOA25dk004) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/4CipbkwsxBGdIBW5Tn2Rz2) | 3:55 | 2021-12-23 |  |
+| [Ochun](https://open.spotify.com/track/0iKZ6gV5y88dG8nLR815in) | [René](https://open.spotify.com/artist/5rq2bAasq0sAj2SjyzNVgr) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/0CkhEA7pJGHKPHEjl33arE) | 3:55 | 2022-08-05 |  |
+| [Ochun](https://open.spotify.com/track/3finbqt0hFJpfsJYeeFvJh) | [René Ferrer](https://open.spotify.com/artist/7hQEtpzH8zuOJOA25dk004) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/4CipbkwsxBGdIBW5Tn2Rz2) | 3:55 | 2021-12-23 | 2023-10-30 |
 | [Orgullecida](https://open.spotify.com/track/2qvaMKoBv9eAsiL3x4s5KG) | [Hector Rey y Los Brillantes Cubanos](https://open.spotify.com/artist/5PI1oPBGWN4CJk5fi1NPJY) | [Cuba Libra Café](https://open.spotify.com/album/3UMCdgAKQx9q39J32WYMtb) | 3:10 | 2021-12-10 |  |
 | [Pan Con Timba](https://open.spotify.com/track/2BHobvp2ZHnOuMG5ic42Mg) | [Bebo Valdes](https://open.spotify.com/artist/0qgJqqqTwN1fuQGs4Ik0jj), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Esencia Cubana "La Primera Ola"](https://open.spotify.com/album/6sWNDuLNRAZuXyfOI19WpY) | 6:57 | 2022-08-05 | 2022-11-13 |
 | [Pan con Timba](https://open.spotify.com/track/4Epw5PN8lebFqJ6dZRrl5n) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Legends of Cuba](https://open.spotify.com/album/2IhAVuungiNKo5sJ0F8iIS) | 6:56 | 2021-12-10 | 2022-07-29 |

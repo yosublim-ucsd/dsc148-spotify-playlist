@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,876 likes - 98 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,921 likes - 98 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 97 | [Do You Wanna \- Live](https://open.spotify.com/track/4dHpgdH4HNPTDxOrTFKnhy) | [Vanja Sky](https://open.spotify.com/artist/11qCism35wezz8ve5s5hBq) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 3:35 |
 | 98 | [Backwater Blues \- Live](https://open.spotify.com/track/4ScrL9E0Ifv2dL1liFqnf7) | [Cedric Burnside Project](https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W) | [Backwater Blues \(Live\)](https://open.spotify.com/album/1acsrcWZZlLtWnzhHykdrU) | 4:37 |
 
-Snapshot ID: `MCw4MmIyNjkzNWYxMDE3NGE4Y2E0ZmIzYWQ1NWYyMzM1ZDA5MGNkMjVh`
+Snapshot ID: `MCw1MTYyY2I2NzJlMDRkM2U1ZGQ5N2UyZGUwYTBiYTlhOWZkNjYxNDQ0`

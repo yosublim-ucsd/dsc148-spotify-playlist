@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 384500,
+  "num_followers": 384534,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDUxZjY0NzljZWI5ZDE1MDFhODQzNTViNWZkMTg2YmY4MzQzZmQ2",
+  "snapshot_id": "MCw5NDgzMTcyMDVjYjNkN2NlNmYwY2ZmZTdlMTRjMjc2MmRhNzNjNzky",
   "tracks": [
     {
       "added_at": "2023-09-28 14:56:43",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
+        "name": "Hey Papi",
+        "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 158859,
+      "name": "Hey Papi - Edit",
+      "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
         "name": "NO SKIN",
         "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 278124,
       "name": "NO SKIN",
       "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
-        "name": "Hey Papi",
-        "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 158859,
-      "name": "Hey Papi - Edit",
-      "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
+        "name": "Amman",
+        "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 208290,
+      "name": "Amman",
+      "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
         "name": "Deadbeat Gospel",
         "url": "https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 254791,
       "name": "Deadbeat Gospel",
       "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
-        "name": "Amman",
-        "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 208290,
-      "name": "Amman",
-      "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "Astray",
-        "url": "https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Astray",
-      "url": "https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
         "name": "Touching My Body / Down Shovel",
         "url": "https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 224500,
       "name": "Wake Up Call",
       "url": "https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
         "name": "can you see me?",
         "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 197994,
       "name": "can you see me?",
       "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
         "name": "Ask",
         "url": "https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 140826,
       "name": "Ask",
       "url": "https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     },
     {
       "added_at": "2023-09-28 14:56:43",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-09-28 14:56:43",
       "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 172319,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
-    },
-    {
-      "added_at": "2023-09-28 14:56:43",
-      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 229213,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
+    },
+    {
+      "added_at": "2023-09-28 14:56:43",
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
     }
   ],
   "unique_name": "Just Chill",

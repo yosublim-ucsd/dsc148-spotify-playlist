@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,554 likes - 67 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,583 likes - 67 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 66 | [A Loba/Ou Ela ou Eu \- Ao Vivo](https://open.spotify.com/track/6mEjmheFPc7L7n57YbwKfH) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione 50 Anos \(Ao Vivo\)](https://open.spotify.com/album/0ONQQA0n7AHNzHFjMcrth0) | 3:45 |
 | 67 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/5ZkwwBa9DlwuUFbXwrLeXF) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7B0EpsE17BgPH8zVUjjpNx) | 2:42 |
 
-Snapshot ID: `MCwxM2YzNDZiZGYxMWM3Nzk5OGNjNWU5NjdlNjQ5ODQwYTIwNzE5NTg3`
+Snapshot ID: `MCwwZjdlZDE4ZTQzNDdjMmQzMmE2ZTUwNTZiMGU1ZDMyOWJmOTljNzdm`

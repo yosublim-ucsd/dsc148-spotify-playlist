@@ -4,7 +4,7 @@
 
 > Brand new music from Taylor Swift \(pictured\), Nathan Dawe, Rema and more!
 
-6,875 songs - 15 day 11 hr 39 min
+6,876 songs - 15 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2949,7 +2949,8 @@
 | [IB3Y](https://open.spotify.com/track/2qIV78JoiCC4Oti2FT3D7q) | [Gwilym](https://open.spotify.com/artist/783lhacWukfZNuzYw21ELR) | [IB3Y](https://open.spotify.com/album/1Hx5rPY4oDjIyyWMRLYg6R) | 2:58 | 2023-05-04 | 2023-05-12 |
 | [iBD](https://open.spotify.com/track/3giCuTA3jS06uRrnWEEDCt) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP) | [iBD](https://open.spotify.com/album/4Dc6m6S1IDbjKogCbKulo2) | 2:59 | 2023-08-31 | 2023-09-08 |
 | [ICE COLD ZEL FREESTYLE \[Feat\. ICECOLDBISHOP\]](https://open.spotify.com/track/4P6ivDGUbbfXWpFJVyzV6s) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [BLOOD ON MY NIKEZ](https://open.spotify.com/album/6XJQyWSjUaPb0M30hX2QU8) | 1:39 | 2023-08-03 | 2023-08-11 |
-| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-26 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-27 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-26 | 2023-10-30 |
 | [Ice Cream In The Rain](https://open.spotify.com/track/3Nc3ahxlz13drqNnJFMqBl) | [Bea Stewart](https://open.spotify.com/artist/1HjCjNkTNeBFF3aqqf6kli) | [Things We Never Say Out Loud](https://open.spotify.com/album/7GA4bFAvsU3HFYfQVozFbc) | 3:13 | 2023-05-18 | 2023-05-26 |
 | [Ice Cream Man.](https://open.spotify.com/track/4p5xgTJofLgL4A3trgk7EQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Ice Cream Man.](https://open.spotify.com/album/0aU6C7aErcXKwpQAdTmmrY) | 4:08 | 2023-02-03 | 2023-02-04 |
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-03 | 2023-02-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE?si=OFuCTSgFTWKQJZwmSAiNNg">Kaien Cruz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,795 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,875 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 49 | [On it](https://open.spotify.com/track/0tx9XxpGK0tPusehiixbMd) | [Cindii Masina](https://open.spotify.com/artist/4mh4cMpsxH7elAqheOtTf5) | [Love Fictioned](https://open.spotify.com/album/0pETiaM7mnLFyDbQKJXyoN) | 2:51 |
 | 50 | [Friends](https://open.spotify.com/track/2nhyCoUnpb9hea8f95iK4K) | [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Friends](https://open.spotify.com/album/6LGd6l4RhmR8hh99nPdLbK) | 3:18 |
 
-Snapshot ID: `MCw2YjJlMzVjYmIwMDBjYTFlYTY3NGZhNWJmMzg2ZjIzODk1NGZlMTlh`
+Snapshot ID: `MCxiYjM2NmRlNmU0N2JhOTljYjQ5OTA3NWFhZWUyOWIwYzc0NTI5ZDY3`

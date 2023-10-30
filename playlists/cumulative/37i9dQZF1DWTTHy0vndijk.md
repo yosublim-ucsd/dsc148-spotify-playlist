@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: ILY:1 \(아일리원\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-374 songs - 20 hr 57 min
+375 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Paradise](https://open.spotify.com/track/4IT5FuLhPEFlGfaApivmZi) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:28 | 2021-11-29 | 2022-07-23 |
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-11 |  |
 | [Pat Pat](https://open.spotify.com/track/49Ija3jkDVMCi5ZZnKWx8K) | [MelodyDay](https://open.spotify.com/artist/7lD3HWDgSgMxHNFno02dJp) | [Restless](https://open.spotify.com/album/3LsPMmtxBywAqrgc1QoMS6) | 3:48 | 2022-02-14 | 2022-06-20 |
+| [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-10-29 |  |
 | [PICK ME](https://open.spotify.com/track/1LShDXXs40R8bQFNBBupI3) | [PRODUCE 48](https://open.spotify.com/artist/5ORE0ElD7HiONogJZzhKrS) | [PRODUCE 48 \- NEKKOYA \(PICK ME\)](https://open.spotify.com/album/2bl024XQdz3Pd4jQLNyaZg) | 4:39 | 2022-03-29 | 2022-04-02 |
 | [Picky Picky](https://open.spotify.com/track/2RwHcRK2KfIAUGNq4Nlfv5) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [LOCK END LOL](https://open.spotify.com/album/1JrQT5pcTgC9HfVe5f2SL6) | 3:16 | 2022-03-29 | 2022-04-10 |
 | [Pinocchio](https://open.spotify.com/track/5IHqT5CMbpc35bh5aomwNK) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:20 | 2021-11-29 | 2022-07-11 |
@@ -347,7 +348,7 @@
 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 | 2023-02-14 | 2023-04-25 |
 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 | 2021-11-29 | 2023-09-28 |
 | [We, First](https://open.spotify.com/track/0y1LIecRU2h6RcMIQ4P5vt) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [WE, first](https://open.spotify.com/album/21dgcZBV7sIgFLS2ASogQ4) | 3:22 | 2021-11-29 | 2022-07-29 |
-| [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 | 2021-11-29 |  |
+| [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 | 2021-11-29 | 2023-10-30 |
 | [What Are You Up To Today?](https://open.spotify.com/track/70PEnzFqWKtR1PgFfaL6w5) | [HELLOVENUS](https://open.spotify.com/artist/3TW9U1f93tpGBsEtCSf7JG) | [What Are You Up To Today?](https://open.spotify.com/album/7nRrjHOqwT70Oxm3kk6mrL) | 3:22 | 2022-01-26 | 2022-06-20 |
 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 | 2022-07-28 |  |
 | [What is Love?](https://open.spotify.com/track/5m95gCTAiHshTaajznt5fA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What is Love?](https://open.spotify.com/album/5NObA8Cx4Ri5cATR1DLTjj) | 3:28 | 2021-11-29 | 2022-07-29 |

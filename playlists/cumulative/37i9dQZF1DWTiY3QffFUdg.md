@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-98 songs - 5 hr 54 min
+99 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [One Time](https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [One Time](https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu) | 3:36 | 2023-08-11 | 2023-08-26 |
 | [OPEN YOUR MIND](https://open.spotify.com/track/6zQ2emOrf68vYJiaQxwJNV) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [CRESCENDO](https://open.spotify.com/album/2WAxjTUkv403ujorGiYcOE) | 3:25 | 2023-08-11 | 2023-08-30 |
 | [Otherside](https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Otherside](https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG) | 3:30 | 2023-08-18 | 2023-09-04 |
+| [Oui mais Non \- Remix](https://open.spotify.com/track/36ZvYgWivlGx3G11YXReLL) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [SM:LY](https://open.spotify.com/artist/51mRBkF1rU3x37NMHJ5teX) | [Oui mais Non \(Remix\)](https://open.spotify.com/album/0lkocvL7as5pbxEVzm83lD) | 2:42 | 2023-10-26 |  |
 | [Overdrive \- Edit](https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 4:14 | 2023-08-11 |  |
 | [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 | 2023-09-29 | 2023-10-21 |
 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 | 2023-08-25 |  |
@@ -96,7 +97,7 @@
 | [The Parade \(Techno Remix\)](https://open.spotify.com/track/3j9RucX8VImndwic630g9w) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [The Parade \(Techno Remix\)](https://open.spotify.com/album/7phtUgPQObPbFNrWOMyyiK) | 1:55 | 2023-09-01 | 2023-09-28 |
 | [The Procedure \- Original Mix](https://open.spotify.com/track/4ECckb5B0UtR6f9RbKL5SS) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [The Procedure EP](https://open.spotify.com/album/1nKD4vwGp5TJPRsKjFCKiQ) | 3:13 | 2023-08-25 | 2023-10-08 |
 | [The Stutter](https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [The Stutter](https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4) | 3:27 | 2023-08-11 | 2023-09-17 |
-| [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 | 2023-09-15 |  |
+| [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 | 2023-09-15 | 2023-10-30 |
 | [The Violator](https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [The Violator](https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB) | 4:01 | 2023-09-19 |  |
 | [This Is The Life](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [This Is The Life](https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp) | 2:11 | 2023-10-13 |  |
 | [Time](https://open.spotify.com/track/20QjNItuQEZvwXnIy5Va37) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Time](https://open.spotify.com/album/2uDgmgef8WIKFJuzR1RnDg) | 3:32 | 2023-08-11 | 2023-09-17 |

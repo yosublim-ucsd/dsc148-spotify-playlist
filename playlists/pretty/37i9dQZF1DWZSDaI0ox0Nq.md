@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,577 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,596 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 7 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 |
 | 8 | [Siempre Se Vuelve a Buenos Aires](https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1) | 3:18 |
 | 9 | [Desde el alma](https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:36 |
-| 10 | [Juguete Rabioso](https://open.spotify.com/track/0n3GMCF0LyCHxwVlBsfbCE) | [La Chicana](https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ) | [Tango Agazapado](https://open.spotify.com/album/6vvNXu2ekbHPJP0WC2m1RD) | 3:44 |
+| 10 | [Tu Corazón](https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP) | [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln), [Donato Racciatti y Su Orquesta Típica](https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t) | [Tu Corazón](https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO) | 2:28 |
 | 11 | [Los Mareados](https://open.spotify.com/track/6m63Jr9CRpaOlwhO7ZUe1n) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Tangos de Lengue](https://open.spotify.com/album/2rtuc3kn27unPR4F8B2nGH) | 3:08 |
 | 12 | [El Choclo](https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:03 |
 | 13 | [Sería Facil Decir](https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 2:34 |
-| 14 | [Tu Corazón](https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP) | [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln), [Donato Racciatti y Su Orquesta Típica](https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t) | [Tu Corazón](https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO) | 2:28 |
+| 14 | [Juguete Rabioso](https://open.spotify.com/track/0n3GMCF0LyCHxwVlBsfbCE) | [La Chicana](https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ) | [Tango Agazapado](https://open.spotify.com/album/6vvNXu2ekbHPJP0WC2m1RD) | 3:44 |
 | 15 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |
 | 16 | [Por una Cabeza](https://open.spotify.com/track/0qVDC2Swbbs7VrgZu3fe6P) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Adriana Varela y Piano](https://open.spotify.com/album/7yndjj9dS2GfQzQQiZzWpv) | 3:13 |
 | 17 | [Atenti pebeta](https://open.spotify.com/track/4aLT7Jg103QAoZI9K3cS5I) | [La Fulana Tango](https://open.spotify.com/artist/0A4dBvTbLRuAFzBmiOhepA) | [Atenti pebeta](https://open.spotify.com/album/4Dvuv4RNoWSiv0kUQcpoCp) | 2:50 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Sur](https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [Tangos Famosos Cantados](https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo) | 3:18 |
 | 55 | [Nunca Tuvo Novio](https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu) | [Rita Cortese](https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3) | [El Amor Ese Loco Berretin](https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj) | 3:38 |
 
-Snapshot ID: `MCxjMTAxMDQ5NjRiNGFiOWE5ZTQ2YzlhNDc4MWRlYjQxNTY3Zjc2ODE2`
+Snapshot ID: `MCwxM2ZhMDI2ZWIxMmE5MDQ2MjMwZDBiNTUyMzQxMGQyNDhmNmFmYzhl`

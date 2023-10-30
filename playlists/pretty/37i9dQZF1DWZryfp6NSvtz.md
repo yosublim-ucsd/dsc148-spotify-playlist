@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,943 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,079 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 |
+| 1 | [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 |
 | 2 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 |
 | 3 | [Candles](https://open.spotify.com/track/4uJ91RNHU2dG3WBFpVtY6P) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Halloween Mixtape II](https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5) | 2:09 |
 | 4 | [Evil People](https://open.spotify.com/track/12mgWzCmMk1WsQyEctDj2e) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Evil People](https://open.spotify.com/album/4U8HZ4Cw7fyZ2AbLAchzuP) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [An Elegy Written on Porcelain Arms](https://open.spotify.com/track/4aY3jXrsltZ8J6L3XRRY6e) | [The Requiem](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [An Elegy Written on Porcelain Arms](https://open.spotify.com/album/1u1WmdaoOTSZBdj6mIUBjK) | 3:23 |
 | 50 | [In My Head](https://open.spotify.com/track/53rpjI533RjaRNlL58gk4f) | [Ethereal](https://open.spotify.com/artist/0SolhJ6GwWLTkAFIfwWlfE) | [In My Head](https://open.spotify.com/album/3d8fAHGmxrWHa7jRdUpA2f) | 3:29 |
 
-Snapshot ID: `MCw2Y2I3ZTYwMDNlNGVlMjFjMjVlNzI1NTJjZmNkMTFlOGIzZTlmMTgw`
+Snapshot ID: `MCxjZTZiMjhkMTI4ODc3NDhmYzVhMGE5ZWU0ZDFiZTZiYjlkY2Q3YjJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBgip4myx26.md) - [plain]
 
 > <a href="spotify:artist:0RMeG9M8QFzss9bAbq99KA">Maddix</a> will take you straight to main stage with this mix blending Techno, Trance, and EDM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,816 likes - 17 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,835 likes - 17 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBgip4myx26.md) - [plain]
 | 16 | [Ce Soir \(Voulez\-Vous\) \- Mixed](https://open.spotify.com/track/3lXX1EK1Iwc6OdJoe9MaMR) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Ce Soir \(Voulez\-Vous\) \[Mixed\]](https://open.spotify.com/album/1ISzsnM7sHADW8wiX0Af68) | 2:51 |
 | 17 | [Push Up \- Original Mix \- Mixed](https://open.spotify.com/track/2TRIs3QpRTa6HUcygEZIXE) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \- Original Mix \(Mixed\)](https://open.spotify.com/album/0qxS1ciIaSbp0RJNJkIivV) | 3:11 |
 
-Snapshot ID: `MCw4YWM3NjZkMTNmMWQzYjY1MGNiMTA2YjkzYjMxODA2NmQ5YTMyODMz`
+Snapshot ID: `MCwxZjFjZTJmNWVlM2QyM2ZhMjRkYWU1OTA4NTAzNjRmMjg4N2ZkNzIy`

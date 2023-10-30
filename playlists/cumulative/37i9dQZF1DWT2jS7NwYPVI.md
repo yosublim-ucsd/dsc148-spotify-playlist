@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: EKKSTACY
 
-1,929 songs - 4 day 5 hr 37 min
+1,930 songs - 4 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,7 +846,8 @@
 | [I've Got the Secret](https://open.spotify.com/track/3vmrs8krg22Mb4wQnbUXid) | [Island of Love](https://open.spotify.com/artist/6Owu7hgXQkNtgcVMo7UYqn) | [I've Got the Secret](https://open.spotify.com/album/1VBLok9ijl1npYpG2NKUVE) | 3:05 | 2023-04-21 | 2023-06-03 |
 | [I.N.V.U.](https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [I.N.V.U.](https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v) | 2:43 | 2022-09-08 | 2022-09-24 |
 | [I.W.G.F.U.](https://open.spotify.com/track/6nIsw8hm5Qwna1iwJYTwXc) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [I.W.G.F.U.](https://open.spotify.com/album/2X8mrYWzbs724f3FEnSUEI) | 3:36 | 2021-11-26 | 2022-03-05 |
-| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-27 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-27 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-27 | 2023-10-30 |
 | [IDC AT ALL](https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [IDC AT ALL](https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo) | 3:21 | 2023-06-02 | 2023-07-22 |
 | [If I Die Tomorrow](https://open.spotify.com/track/0VKpmchcyKYQ1ZalAKnfhT) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [If I Die Tomorrow](https://open.spotify.com/album/1c5GxvnVBWZQsTEODrZqpQ) | 2:59 | 2022-06-10 | 2022-08-13 |
 | [If Only You Knew](https://open.spotify.com/track/7qOmxHqPGd1tPEI9CbGlnA) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA), [\*repeat repeat](https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn) | [If Only You Knew](https://open.spotify.com/album/5A4eMP13R4xBxuSH69L54e) | 2:20 | 2023-09-15 | 2023-10-07 |

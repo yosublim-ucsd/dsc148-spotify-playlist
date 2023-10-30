@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "A Vibe Thing",
+        "url": "https://open.spotify.com/album/7FHRfmURdeXSTCbvKXiNJN"
+      },
+      "artists": [
+        {
+          "name": "DJ Merci",
+          "url": "https://open.spotify.com/artist/0aWG9QV2R47xsBMYaDSaPj"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344500,
+      "name": "A Vibe Thing",
+      "url": "https://open.spotify.com/track/22nTQWFdnEhqXnV9g5eFAa"
+    },
+    {
+      "album": {
         "name": "Alfa",
         "url": "https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY"
       },
@@ -816,6 +834,28 @@
       "duration_ms": 208000,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+    },
+    {
+      "album": {
+        "name": "Cel mai discret dintre pamanteni",
+        "url": "https://open.spotify.com/album/77XfAKegSL0VqkD5fYpfVq"
+      },
+      "artists": [
+        {
+          "name": "Discret Popescu",
+          "url": "https://open.spotify.com/artist/4siElKDGrsy2P7gX5i68uN"
+        },
+        {
+          "name": "Crihan",
+          "url": "https://open.spotify.com/artist/1xn7qDCSTB4NNqj4OYAJIf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523872,
+      "name": "Cel mai discret dintre pamanteni",
+      "url": "https://open.spotify.com/track/3NuLpvv9cga9kWAGTn15ey"
     },
     {
       "album": {
@@ -1960,7 +2000,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 197825,
       "name": "Indepanties day",
       "url": "https://open.spotify.com/track/0FwPSxriJhjWU4TTfzvNuh"
@@ -2414,7 +2454,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 202137,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3GcQOMGQ8cXwitx8Koe7NG"

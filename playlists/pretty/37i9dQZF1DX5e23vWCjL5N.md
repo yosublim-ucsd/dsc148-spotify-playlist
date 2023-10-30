@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Il Tre
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,811 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,856 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 55 | [Noia](https://open.spotify.com/track/67eVdMdbm9cp8A1Thsdcr1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 4:44 |
 | 56 | [Veleno 8 \(feat\. Gemitaiz\)](https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 3:02 |
 
-Snapshot ID: `MCw1ZTEzZDEzMWU2YjA1MjczMGJiOTgwY2UyNTVlZjIzZjAxOGFjYmVi`
+Snapshot ID: `MCxkNDg5Yjg2ZDhiNzMzMmQyZTgxN2Y5OGM1NGU1YWVhYWQ2ZmE0ZTll`

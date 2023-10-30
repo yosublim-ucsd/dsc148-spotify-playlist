@@ -4,7 +4,7 @@
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Out Of Control Army en portada.
 
-186 songs - 11 hr 19 min
+187 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Dame un Tiempecito](https://open.spotify.com/track/3zig33r5f16Hs0G1N78yUk) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [Dale un Dulze al Chamakito!!!](https://open.spotify.com/album/6bSHESkw8R2JJnyyTGqvPv) | 3:49 | 2022-03-18 | 2023-02-04 |
 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 | 2022-03-18 | 2023-02-04 |
 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 | 2022-03-18 | 2023-02-04 |
-| [El Chapulín](https://open.spotify.com/track/59sQU11cdcoC2HEmMxVFv5) | [Paco Ellington](https://open.spotify.com/artist/2GJeoAx45CGPveeIWVD8Hg), [Skapoli](https://open.spotify.com/artist/3nrbc0A8FvXAaS7XxV2iLE) | [El Chapulín](https://open.spotify.com/album/165IEkSYLUmnQvd4GS8hNR) | 3:26 | 2023-06-02 |  |
+| [El Chapulín](https://open.spotify.com/track/59sQU11cdcoC2HEmMxVFv5) | [Paco Ellington](https://open.spotify.com/artist/2GJeoAx45CGPveeIWVD8Hg), [Skapoli](https://open.spotify.com/artist/3nrbc0A8FvXAaS7XxV2iLE) | [El Chapulín](https://open.spotify.com/album/165IEkSYLUmnQvd4GS8hNR) | 3:26 | 2023-06-02 | 2023-10-30 |
 | [El Dejado](https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:56 | 2022-03-18 | 2023-05-20 |
 | [El Esqueleto](https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Victimas Del Doctor Cerebro](https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv) | 3:41 | 2022-03-18 | 2022-07-29 |
 | [El Esqueleto](https://open.spotify.com/track/6dCt1ri0Cnv5mqI3bRcOHm) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Vida Latina Vol\. 1](https://open.spotify.com/album/2WLI7eYxdBUXhNyPWh05MJ) | 3:41 | 2022-03-18 | 2022-11-14 |
@@ -194,5 +194,6 @@
 | [War 4 Peace](https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Diego Benlliure](https://open.spotify.com/artist/632hZrvw4igilYgJr25TNF), [José Grela](https://open.spotify.com/artist/6asUVMkGHy6e5CeyRtygEn) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:26 | 2022-03-18 |  |
 | [Y la Recuerdo de Ayer](https://open.spotify.com/track/30qRh0j4htHrsroySiDh57) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [La Rebelión](https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL) | 4:31 | 2022-03-18 |  |
 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 | 2022-03-18 |  |
+| [Yo Estoy Bien](https://open.spotify.com/track/1x04WAqPMgaauCZpOcN8Y3) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Yo Estoy Bien](https://open.spotify.com/album/5hEn3HHXyH9IF7jxF7u1yq) | 2:55 | 2023-10-27 |  |
 
 \*This playlist was first scraped on 2022-04-22. Prior content cannot be recovered.

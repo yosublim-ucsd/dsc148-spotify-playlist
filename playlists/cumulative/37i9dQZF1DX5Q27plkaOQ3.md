@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: JEANIE
 
-438 songs - 1 day 0 hr 57 min
+439 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [Kill The Machine \(feat\. Bad/Love\)](https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ), [TMRRW](https://open.spotify.com/artist/2T5c5IrQGkNGuQNOVJSU9y) | [Kill The Machine \(feat\. Bad/Love\)](https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi) | 3:15 | 2022-01-28 | 2023-04-01 |
 | [Kill to Feel](https://open.spotify.com/track/4hSCaNNtzVlek62PCmsti5) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Unity](https://open.spotify.com/album/2AhomobPIGZiBZodF1cVEg) | 5:55 | 2023-04-28 |  |
 | [Killing Machine](https://open.spotify.com/track/2vp3HUzMnyaI3hLZKW5d2k) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk) | [Killing Machine](https://open.spotify.com/album/4STgH4wL9troz6flN3FeE1) | 3:03 | 2021-12-17 | 2022-04-02 |
-| [Kooks Of Hazard](https://open.spotify.com/track/2bIYzDC6FTTmKq8sqPh7q9) | [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Shank Aaron](https://open.spotify.com/artist/21yw8sbZyhtBAemlhNzOuK) | [Kooks of Hazard](https://open.spotify.com/album/2eyMz0a4EqXyPPhvSbfXkN) | 2:33 | 2023-07-21 |  |
+| [King Mathematics](https://open.spotify.com/track/5Io5ZJw8KIFQb6E0paDhXY) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [King Mathematics](https://open.spotify.com/album/46v2Sk8xBnqHtq1sRcDUZH) | 2:33 | 2023-10-27 |  |
+| [Kooks Of Hazard](https://open.spotify.com/track/2bIYzDC6FTTmKq8sqPh7q9) | [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Shank Aaron](https://open.spotify.com/artist/21yw8sbZyhtBAemlhNzOuK) | [Kooks of Hazard](https://open.spotify.com/album/2eyMz0a4EqXyPPhvSbfXkN) | 2:33 | 2023-07-21 | 2023-10-30 |
 | [Lake Nyos](https://open.spotify.com/track/2kY8pUpM4QcGWkjflY38tx) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Give Up The Ghost](https://open.spotify.com/album/7ya7R7sEXTSgU1HuExQQY9) | 3:15 | 2022-02-25 | 2022-07-29 |
 | [Laserbeam](https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Laserbeam](https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a) | 3:41 | 2022-06-24 | 2023-10-14 |
 | [Laserbeam \- Sullivan King Remix](https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Laserbeam \(Sullivan King Remix\)](https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP) | 3:46 | 2022-10-21 |  |

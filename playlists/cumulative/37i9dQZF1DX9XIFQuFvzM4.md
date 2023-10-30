@@ -4,7 +4,7 @@
 
 > Feel good with this positively timeless playlist!
 
-264 songs - 14 hr 44 min
+265 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 | 2021-10-19 |  |
 | [It Takes Two](https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK) | 2:57 | 2021-10-19 |  |
 | [It Takes Two](https://open.spotify.com/track/4wQD0djo6Id4fQLQeRKQ6e) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/5olHUIEjslOonYs3lyffCv) | 2:57 | 2021-10-19 | 2022-07-29 |
+| [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 | 2021-10-19 |  |
 | [It's A Shame](https://open.spotify.com/track/6cpNEgirhi0QmLDA2cVSHO) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Best Of The Spinners](https://open.spotify.com/album/1YtoIFW84QtpYVlkOR8xTe) | 3:11 | 2021-10-19 | 2022-07-29 |
 | [It's Only A Paper Moon](https://open.spotify.com/track/5CMw1IWB7JOpUY9nk54n1K) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [Ella & Friends](https://open.spotify.com/album/0MgX1r8D5sEhpC3JPs6pLG) | 2:36 | 2021-10-19 | 2022-07-27 |
 | [It's Only A Paper Moon](https://open.spotify.com/track/373yGkNo74RZgmQgTiR8xK) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:40 | 2021-10-19 |  |
@@ -157,7 +158,7 @@
 | [Last One Standing](https://open.spotify.com/track/7DFA3k0QQtvAkItuNAwKh4) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us](https://open.spotify.com/album/2ORpnTwbgJ73BHva0aSeVX) | 7:16 | 2021-10-19 | 2023-07-25 |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2021-10-19 |  |
 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 | 2021-10-19 | 2022-07-29 |
-| [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 | 2021-10-19 |  |
+| [Love Again](https://open.spotify.com/track/16KSqTxxJWUp4W0UU9N0hO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:30 | 2021-10-19 | 2023-10-30 |
 | [Love Again](https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 3:30 | 2021-10-19 | 2022-11-13 |
 | [Love Again](https://open.spotify.com/track/4oP1iFJ5GSxeMMHofCg4ae) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters Of The Heart](https://open.spotify.com/album/56GwQuFFJwfFMcSsmvwUYK) | 3:30 | 2021-10-19 | 2022-06-07 |
 | [Love Child](https://open.spotify.com/track/0Usw6bbxjqROH3OCDYkMFi) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Great Songs And Performances That Inspired The Motown 25th Anniversary T.V\. Special](https://open.spotify.com/album/6vnYOGfz9BjjXEpUzWURWi) | 2:56 | 2021-10-19 | 2022-04-21 |

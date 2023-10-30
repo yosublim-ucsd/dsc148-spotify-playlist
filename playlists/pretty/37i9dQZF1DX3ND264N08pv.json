@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 63095,
+  "num_followers": 63204,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmI2OGM1OTQ4MGM2Mzk0ZTkzNjhmYzQyNWQ0MzJjYTZlOWIwM2Ri",
+  "snapshot_id": "MCxjYzFiMGU1OTFkMDU4MjVmMDcyNzY0ZDJjYzdkOTI4YjdhZWFkOWIz",
   "tracks": [
     {
       "added_at": "2023-10-25 21:17:13",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-10-25 21:17:13",
       "album": {
+        "name": "You Can't Stop Me",
+        "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "You Can't Stop Me",
+      "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
+    },
+    {
+      "added_at": "2023-10-25 21:17:13",
+      "album": {
         "name": "Terrified",
         "url": "https://open.spotify.com/album/4tD5GB1lBAMJLWqZDif3Ae"
       },
@@ -499,18 +515,22 @@
     {
       "added_at": "2023-10-25 21:17:13",
       "album": {
-        "name": "You Can't Stop Me",
-        "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
+        "name": "So Druff (D-Fence Remix)",
+        "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
       },
       "artists": [
         {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+          "name": "KNTRLVRLST",
+          "url": "https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V"
+        },
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
         }
       ],
-      "duration_ms": 199200,
-      "name": "You Can't Stop Me",
-      "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
+      "duration_ms": 166950,
+      "name": "So Druff - D-Fence Remix",
+      "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
     },
     {
       "added_at": "2023-10-25 21:17:13",
@@ -531,26 +551,6 @@
       "duration_ms": 156979,
       "name": "Killing No More",
       "url": "https://open.spotify.com/track/7LSbuUA9AtvZqec21ajsfQ"
-    },
-    {
-      "added_at": "2023-10-25 21:17:13",
-      "album": {
-        "name": "So Druff (D-Fence Remix)",
-        "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
-      },
-      "artists": [
-        {
-          "name": "KNTRLVRLST",
-          "url": "https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V"
-        },
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "So Druff - D-Fence Remix",
-      "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
     },
     {
       "added_at": "2023-10-25 21:17:13",
@@ -1199,26 +1199,22 @@
     {
       "added_at": "2023-10-25 21:17:13",
       "album": {
-        "name": "DON'T BE SCARED",
-        "url": "https://open.spotify.com/album/5beQxSHKyvH6FeYkRttFNn"
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i"
       },
       "artists": [
         {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
         },
         {
-          "name": "Frenchkillerz",
-          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
-        },
-        {
-          "name": "BLACK FREQUENCY",
-          "url": "https://open.spotify.com/artist/6npcGVRXFdD99Gcv9AKaaH"
+          "name": "Psycho Boys Club",
+          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
         }
       ],
-      "duration_ms": 186098,
-      "name": "DON'T BE SCARED",
-      "url": "https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98"
+      "duration_ms": 194117,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
     },
     {
       "added_at": "2023-10-25 21:17:13",
@@ -1243,22 +1239,26 @@
     {
       "added_at": "2023-10-25 21:17:13",
       "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i"
+        "name": "DON'T BE SCARED",
+        "url": "https://open.spotify.com/album/5beQxSHKyvH6FeYkRttFNn"
       },
       "artists": [
         {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
         },
         {
-          "name": "Psycho Boys Club",
-          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
+        },
+        {
+          "name": "BLACK FREQUENCY",
+          "url": "https://open.spotify.com/artist/6npcGVRXFdD99Gcv9AKaaH"
         }
       ],
-      "duration_ms": 194117,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
+      "duration_ms": 186098,
+      "name": "DON'T BE SCARED",
+      "url": "https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98"
     },
     {
       "added_at": "2023-10-25 21:17:13",

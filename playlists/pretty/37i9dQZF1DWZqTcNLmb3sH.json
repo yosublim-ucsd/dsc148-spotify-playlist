@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ghost",
-  "num_followers": 55140,
+  "num_followers": 55165,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTNmZWY1ZTc0MTk0ZjNiZDM5NGFmNTdiYzNlM2QwYzUwZjIyNzQ4",
+  "snapshot_id": "MCw0NzU2YzUyODE2YzZkMmYzYmU5MGNjMWYwNjJjZjViOGI4NTcyYmNh",
   "tracks": [
     {
       "added_at": "2023-10-18 05:00:00",
@@ -80,21 +80,25 @@
       "added_at": "2023-10-27 10:45:27",
       "album": {
         "name": "Bairagi Aadiyogi Shankara (From \"Inamdar\")",
-        "url": "https://open.spotify.com/album/5F1qIZOSQqT8B82bp6LDTK"
+        "url": "https://open.spotify.com/album/1WGSceoO3Vm8SjIuWhY4xq"
       },
       "artists": [
+        {
+          "name": "Siddharth Belmannu",
+          "url": "https://open.spotify.com/artist/79LdQ8oCiYU93qEqWMEUCj"
+        },
         {
           "name": "Rakesh Acharya",
           "url": "https://open.spotify.com/artist/6AueyJq6aqbvnRw0zpTSVD"
         },
         {
-          "name": "Siddharth Belmannu",
-          "url": "https://open.spotify.com/artist/79LdQ8oCiYU93qEqWMEUCj"
+          "name": "Naveen Rai",
+          "url": "https://open.spotify.com/artist/3vUn9w8cKyAMXeqQlXtcaU"
         }
       ],
       "duration_ms": 281142,
       "name": "Bairagi Aadiyogi Shankara (From \"Inamdar\")",
-      "url": "https://open.spotify.com/track/4ZvZmGwztSaeMg5ggJLjaw"
+      "url": "https://open.spotify.com/track/3KHqyBXEQbK2gutnt2ossH"
     },
     {
       "added_at": "2023-10-04 05:39:45",

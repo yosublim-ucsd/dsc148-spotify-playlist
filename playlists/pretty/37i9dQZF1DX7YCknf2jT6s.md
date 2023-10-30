@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Myele Manzanza
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,054 likes - 100 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,118 likes - 100 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 | 100 | [JERICHO](https://open.spotify.com/track/6ggQiv5Hr3CHTqI7sFfnxV) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [JERICHO](https://open.spotify.com/album/2GSNn4nuV4BzdgIJoZZgYT) | 2:39 |
 
-Snapshot ID: `MCxhMzNhOWJiYWM0ODJkNjMyNzZjZDJmMDc4NWYzZjNlMTY4ZDYwN2Ey`
+Snapshot ID: `MCw4NjMwZmIzODYwOWE5ODAzMjJmZjdmODE0ZmMyOTdmMjMxN2YwOWYx`

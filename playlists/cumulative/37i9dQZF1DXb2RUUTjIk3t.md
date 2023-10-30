@@ -4,7 +4,7 @@
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-84 songs - 4 hr 37 min
+85 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-11-30 |  |
 | [La Novela](https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [La Novela](https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY) | 4:51 | 2022-11-30 |  |
 | [Leaving Today](https://open.spotify.com/track/1CBcG3eKJqVwp7NCSh5xHG) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 4:12 | 2022-11-30 |  |
-| [let me hold you](https://open.spotify.com/track/66k75vZNgRnOuJosuAFNeY) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col), [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:25 | 2022-11-30 |  |
+| [let me hold you](https://open.spotify.com/track/66k75vZNgRnOuJosuAFNeY) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col), [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:25 | 2022-11-30 | 2023-10-30 |
+| [let me hold you](https://open.spotify.com/track/34VtJPNWcYofrlq35izm84) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col), [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [oldies](https://open.spotify.com/album/2QbZsCrvSQeFKn1UUgJxXw) | 1:26 | 2022-11-30 |  |
 | [Little Miss](https://open.spotify.com/track/5bd5tnV0yMeR1dn1oydUo5) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 2:52 | 2022-11-30 |  |
 | [Loneliness](https://open.spotify.com/track/0t1qI2DYS68veTpLBGUsNM) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loneliness](https://open.spotify.com/album/1YYUqltzKKaDPsOELPiUEx) | 3:27 | 2022-11-30 |  |
 | [Long Drives](https://open.spotify.com/track/1APefTkgjjwQfZbUWQkOFc) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:39 | 2022-11-30 |  |

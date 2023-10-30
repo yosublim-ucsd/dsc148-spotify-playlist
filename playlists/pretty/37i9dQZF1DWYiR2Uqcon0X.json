@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 724191,
+  "num_followers": 724242,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjIxN2NjODEwOWYyYzk4ZTdjYzFhZjFhMjhmMjUxYjk0MDM0N2I1",
+  "snapshot_id": "MCw0MjA5YmI5ZTE2YjAxZGYzZGRmN2MwMjViYzQ5NGMxMzIyYjUyMzM1",
   "tracks": [
     {
       "added_at": "2023-09-22 17:07:04",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-22 17:07:04",
       "album": {
-        "name": "Under Fire",
-        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
-      },
-      "artists": [
-        {
-          "name": "Green River Ordinance",
-          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Dancing Shoes",
-      "url": "https://open.spotify.com/track/3Y6BuzQCg9p4yH347Nn8OW"
-    },
-    {
-      "added_at": "2023-09-22 17:07:04",
-      "album": {
         "name": "Far from Home",
         "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-09-22 17:07:04",
       "album": {
+        "name": "Under Fire",
+        "url": "https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m"
+      },
+      "artists": [
+        {
+          "name": "Green River Ordinance",
+          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Dancing Shoes",
+      "url": "https://open.spotify.com/track/3Y6BuzQCg9p4yH347Nn8OW"
+    },
+    {
+      "added_at": "2023-09-22 17:07:04",
+      "album": {
         "name": "Johnny Cash: Forever Words Expanded",
         "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 297746,
       "name": "The Captain's Daughter",
       "url": "https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab"
-    },
-    {
-      "added_at": "2023-09-22 17:07:04",
-      "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "hookup scene",
-      "url": "https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM"
     },
     {
       "added_at": "2023-09-22 17:07:04",
@@ -799,6 +783,22 @@
       "duration_ms": 262079,
       "name": "Nothing Like You",
       "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
+    },
+    {
+      "added_at": "2023-09-22 17:07:04",
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "hookup scene",
+      "url": "https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM"
     },
     {
       "added_at": "2023-09-22 17:07:04",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-22 17:07:04",
       "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
-      },
-      "artists": [
-        {
-          "name": "Krysta Nick",
-          "url": "https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
-    },
-    {
-      "added_at": "2023-09-22 17:07:04",
-      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/7sL48SpehQMoKg4whNhjMI"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 171982,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/4aNhnfiXE1BMVXcbCVY037"
+    },
+    {
+      "added_at": "2023-09-22 17:07:04",
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
+      },
+      "artists": [
+        {
+          "name": "Krysta Nick",
+          "url": "https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
     },
     {
       "added_at": "2023-09-22 17:07:04",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-22 17:07:04",
       "album": {
-        "name": "The Dream: Living The Dream (Deluxe)",
-        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
-    },
-    {
-      "added_at": "2023-09-22 17:07:04",
-      "album": {
         "name": "Without A Word",
         "url": "https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 238560,
       "name": "Without A Word",
       "url": "https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN"
+    },
+    {
+      "added_at": "2023-09-22 17:07:04",
+      "album": {
+        "name": "The Dream: Living The Dream (Deluxe)",
+        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
     },
     {
       "added_at": "2023-09-22 17:07:04",

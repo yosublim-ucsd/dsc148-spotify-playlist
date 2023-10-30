@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Babehoven
+> Underground indie rock gems\. Cover: Teethe
 
-1,078 songs - 2 day 13 hr 26 min
+1,082 songs - 2 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Cowboy Boots](https://open.spotify.com/track/71jdngFJlIYfkwYZXHRQP1) | [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Cowboy Boots](https://open.spotify.com/album/7DcpreV9l4SVhit3cWhMBm) | 3:00 | 2021-08-27 | 2022-03-12 |
 | [Cowboy Killer](https://open.spotify.com/track/3WQuo1C5WhP15EBv9aXbQy) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [Cowboy Killer](https://open.spotify.com/album/6GlVNhYfePusaOwiqbENkR) | 6:39 | 2023-03-03 | 2023-04-22 |
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-03-03 | 2023-06-16 |
-| [Cowboy Nudes](https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 2:50 | 2023-07-28 |  |
+| [Cowboy Nudes](https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 2:50 | 2023-07-28 | 2023-10-30 |
 | [Cowboys in the Dark](https://open.spotify.com/track/4chdbznSgQEiTsmKY1mKLh) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [AWAKE/ASLEEP](https://open.spotify.com/album/2SM92RVNoh8JWPf4cSc6iy) | 3:32 | 2023-03-03 | 2023-05-13 |
 | [Cramps](https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Cramps](https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE) | 2:51 | 2023-06-15 |  |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-03 | 2023-06-16 |
@@ -319,7 +319,7 @@
 | [Endless Afternoon](https://open.spotify.com/track/43qnFgYuN5YMfLoghgTVws) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/5Cx0Q4bHaAxNZ7xKaNYmuJ) | 4:35 | 2022-06-01 | 2022-07-29 |
 | [Entitled To](https://open.spotify.com/track/4a3AosNrplvGuvnOODh2WP) | [Mr Floyd Larry](https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM) | [Dream Punk](https://open.spotify.com/album/6vZVc2ApISADXou1bVzhF2) | 3:00 | 2022-02-25 | 2022-04-16 |
 | [ERUPT](https://open.spotify.com/track/3UrBQlFZijtZuWWbq3xtCe) | [Rain on Fridays](https://open.spotify.com/artist/1clbqsZIkv7ci3xQ9lmGPj) | [ERUPT](https://open.spotify.com/album/5tqV7K4XoM6Cjcf5BhsYRn) | 4:11 | 2022-09-02 | 2022-10-29 |
-| [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 2:19 | 2023-06-15 |  |
+| [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 2:19 | 2023-06-15 | 2023-10-30 |
 | [Every Once In A While](https://open.spotify.com/track/02J8r68LSYS8MuxI5rEzaO) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Every Once In A While](https://open.spotify.com/album/3MDfSodOC8B0eF6HFrySvH) | 4:37 | 2021-03-05 | 2022-04-29 |
 | [Everybody's Birthday](https://open.spotify.com/track/32JZLH23FvupI5jvzKrahn) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Everybody's Birthday](https://open.spotify.com/album/3B4J9TUXP9AMwU5ltYHErn) | 2:48 | 2021-08-27 | 2022-04-29 |
 | [Everything](https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Everything](https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA) | 3:17 | 2022-03-26 | 2022-07-16 |
@@ -379,7 +379,7 @@
 | [French Blonde](https://open.spotify.com/track/4S1kcKYVKQ5GGOuKHRi3AN) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [French Blonde](https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z) | 4:26 | 2022-10-07 | 2023-03-04 |
 | [Friend](https://open.spotify.com/track/7HXwmIISEI1CXfOxOQxNoT) | [Valley Palace](https://open.spotify.com/artist/3jF2ypAAgPGDrMya2J4sHM) | [Friend](https://open.spotify.com/album/0pyWpmLw8VokeiFWGRKdXW) | 3:17 | 2021-07-16 | 2022-03-22 |
 | [Frog 2](https://open.spotify.com/track/69MeyO4Ezuqggns3I4w5Dx) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/6UY5t9DTGGXtaGzEKlB59A) | 2:40 | 2022-09-30 | 2022-12-15 |
-| [From Me to You](https://open.spotify.com/track/0yTizzQjcAOj8zZNfHBkgL) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [From Me to You](https://open.spotify.com/album/333e8sycLvInCv5SVViLLt) | 3:16 | 2023-08-03 |  |
+| [From Me to You](https://open.spotify.com/track/0yTizzQjcAOj8zZNfHBkgL) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [From Me to You](https://open.spotify.com/album/333e8sycLvInCv5SVViLLt) | 3:16 | 2023-08-03 | 2023-10-30 |
 | [fuck sex](https://open.spotify.com/track/2aBd3rkEzBc35myxSkEzQS) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [fuck sex](https://open.spotify.com/album/1WziZgKNvFgY3nkQVcvosw) | 3:19 | 2022-01-28 | 2022-07-23 |
 | [Fugazi](https://open.spotify.com/track/6iLpuiKY29qbQbRVJ4jb8O) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Fugazi](https://open.spotify.com/album/2HGQJZb8cMX6GlLCdNuciB) | 4:26 | 2022-01-28 | 2022-03-17 |
 | [Full Size Render](https://open.spotify.com/track/13YkIo5DIQwpJvPjEzgY3D) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/1ITm7iuEyilyq4EDMMzzRN) | 2:58 | 2021-08-27 | 2022-04-29 |
@@ -649,6 +649,7 @@
 | [Monday's Fácil](https://open.spotify.com/track/00W5tnmuEvWvIJiiWJzHr6) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Monday's Fácil](https://open.spotify.com/album/4O5cQY3eatUzq7Kvx2Sei2) | 4:07 | 2021-04-30 | 2022-04-25 |
 | [Monkey Ball Gatekeeper \(Cinnamon\)](https://open.spotify.com/track/5GcTGdSfTJOs0G7Q0T0Dzj) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Miracle](https://open.spotify.com/album/7fGs8fgBZi8JmAEGdNFF9E) | 3:24 | 2023-03-03 | 2023-04-09 |
 | [Montana](https://open.spotify.com/track/5f4jIPLCdVFXLOO3wadbiM) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Montana](https://open.spotify.com/album/1QRmUd7quysdvWp0m32526) | 3:20 | 2021-03-05 | 2022-04-29 |
+| [Moon](https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [All Over Again b/w Moon](https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty) | 2:42 | 2023-10-27 |  |
 | [Motorbike](https://open.spotify.com/track/2JMB5piiHlzUWqvnPfuVCO) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:21 | 2022-10-21 | 2023-03-04 |
 | [Motorbike](https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Motorbike](https://open.spotify.com/album/5BAb9XB8KHaO1KZRwE3Cuw) | 3:21 | 2022-07-01 | 2022-07-29 |
 | [Motorbike](https://open.spotify.com/track/5JYygTGD21lSETNIm09f5G) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:21 | 2022-07-01 | 2022-12-01 |
@@ -919,6 +920,7 @@
 | [Sweet](https://open.spotify.com/track/05vnmfSANBVUgbHuZ6cc8W) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:35 | 2023-06-09 | 2023-06-16 |
 | [Sweet Delila](https://open.spotify.com/track/75RVE1N6t9Lyku02EpOGKd) | [Celler Dwellers](https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx) | [Sweet Delila](https://open.spotify.com/album/4oZfvdDPjf20MludjEHUpS) | 2:47 | 2022-12-02 | 2022-12-15 |
 | [Sweetgreen](https://open.spotify.com/track/1vE7VkxO8nIvtidcZTf1yy) | [Gabbo](https://open.spotify.com/artist/1RSDS6LlCTScYAfJivL0Cw) | [Sweetgreen](https://open.spotify.com/album/5vheKIiwAA69WtWQT67DWs) | 4:16 | 2021-07-16 | 2022-04-12 |
+| [Table](https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Table](https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID) | 2:00 | 2023-10-27 |  |
 | [Take Care](https://open.spotify.com/track/18aiK0KLCZjHME5ILdgJqK) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Take Care](https://open.spotify.com/album/55c7EDosAWRRQgSr2oeuCZ) | 3:47 | 2023-02-17 | 2023-04-09 |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-04-30 | 2022-04-20 |
 | [Tear It Apart](https://open.spotify.com/track/564EdN2zwo3VzYiMwfnedc) | [Lazylazy](https://open.spotify.com/artist/1TPIf8I6WXXXIRjjSWYiuD) | [Tear It Apart](https://open.spotify.com/album/7gSRTvnzdzujSgkhJMUjuY) | 3:39 | 2022-12-22 | 2023-02-18 |
@@ -941,7 +943,7 @@
 | [The Knife](https://open.spotify.com/track/45ikoDZrTVZxfBQIJPCu0T) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain \(Deluxe\)](https://open.spotify.com/album/2nY1MSBmfCYBiVY0oa013l) | 3:31 | 2022-04-29 | 2022-10-01 |
 | [The Link Is About to Die](https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:48 | 2022-03-26 | 2022-07-16 |
 | [THE MIDDLE](https://open.spotify.com/track/4wjpgioltZ2TGkN4h6kMqd) | [PHONY](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [THE MIDDLE](https://open.spotify.com/album/009SqNhfhKPDIfa6hQRV69) | 2:04 | 2022-07-29 | 2022-09-29 |
-| [the ocean that ate new york](https://open.spotify.com/track/3h8YKo7IZuJI5rqsUeQ3oP) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [this place isnt real](https://open.spotify.com/album/0nTEWpbV22L2jSR7sTbc2R) | 2:47 | 2023-09-01 |  |
+| [the ocean that ate new york](https://open.spotify.com/track/3h8YKo7IZuJI5rqsUeQ3oP) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [this place isnt real](https://open.spotify.com/album/0nTEWpbV22L2jSR7sTbc2R) | 2:47 | 2023-09-01 | 2023-10-30 |
 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 | 2022-03-26 | 2022-05-19 |
 | [The Perfect Life](https://open.spotify.com/track/0h3N07sZgc9rzDLfsOniri) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [The Perfect Life](https://open.spotify.com/album/5GqVTkArRf7qxyfEkvtYvR) | 2:42 | 2022-04-09 | 2022-05-06 |
 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 | 2022-08-25 | 2023-05-20 |
@@ -986,6 +988,7 @@
 | [True Love](https://open.spotify.com/track/67qECmW0iXpWA7tnClskbH) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/7h3a2tSmHjJXXqnQGbiuTf) | 4:11 | 2021-10-02 | 2022-04-29 |
 | [Truth Nugget](https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 4:41 | 2021-03-05 | 2022-04-29 |
 | [Try](https://open.spotify.com/track/7uuomiEzgF5w4TPJDUvAEQ) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [Try](https://open.spotify.com/album/1rvh7AKmoPg6RMMT9gDO5z) | 3:23 | 2022-12-13 | 2023-01-14 |
+| [Trying](https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Trying](https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB) | 3:46 | 2023-10-27 |  |
 | [Tulip Sniper](https://open.spotify.com/track/6uE5dLKF2y9brgIwJVGwNf) | [Charmer](https://open.spotify.com/artist/6vXndytZhDoSVuUIo3rOYc) | [Seney Stretch](https://open.spotify.com/album/34bh9mmSZIaDvCcfW6W2AH) | 2:02 | 2023-03-03 | 2023-04-22 |
 | [Tungs](https://open.spotify.com/track/4WYwP4V2SGCUXJGEha0ODM) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [You Are Going to Hate This](https://open.spotify.com/album/6HPeu1jcBnHNuzDlHAddc8) | 2:50 | 2022-04-29 | 2022-07-23 |
 | [tunnels](https://open.spotify.com/track/0eyAqg3viU4tRH9aGYfQLF) | [saturn 17](https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq) | [tunnels](https://open.spotify.com/album/5KoX3aCqCu1r7QHgl4orSv) | 3:05 | 2022-12-07 | 2023-02-02 |
@@ -1024,6 +1027,7 @@
 | [Veronica Mars](https://open.spotify.com/track/1D8gAw88OF911utrFnVQdM) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Veronica Mars](https://open.spotify.com/album/5uVhPTXAfU9Bboa6Jbl1cB) | 1:57 | 2023-01-17 | 2023-03-04 |
 | [Veronica's Shield](https://open.spotify.com/track/5UpGyLAkTFoWx6DWuiQ3eE) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [Veronica's Shield](https://open.spotify.com/album/1slozzvkXlyqatUhmQok4b) | 2:51 | 2022-07-29 | 2022-12-15 |
 | [Violent](https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Violent](https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd) | 2:41 | 2022-07-01 | 2022-10-15 |
+| [Void](https://open.spotify.com/track/71CABiTtVWO3eSXTXJRRYz) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Void](https://open.spotify.com/album/0oqG9MPBLpR0fsfMcLqgp3) | 4:15 | 2023-10-27 |  |
 | [Waking Up 2 A Heartbreak](https://open.spotify.com/track/7CrP18CRBQjKIfr6R68zAJ) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [Waking Up 2 A Heartbreak](https://open.spotify.com/album/1eY6U2NnpeAvh1lPz6PG0L) | 2:22 | 2023-01-27 | 2023-05-06 |
 | [Walk in the Dark](https://open.spotify.com/track/3g3bipEmAdh12uRH2pGpLe) | [A.O\. Gerber](https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf) | [Meet Me at the Gloaming](https://open.spotify.com/album/2h503WD2Ll2p8oEbBx6LmK) | 4:00 | 2022-10-14 | 2022-12-15 |
 | [Wanna Say](https://open.spotify.com/track/1eGrBNUpkLzFpAJStjlwOo) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Wanna Say](https://open.spotify.com/album/5rKcHgjJmuawXDqH8sMFU2) | 2:58 | 2021-08-27 | 2022-04-20 |

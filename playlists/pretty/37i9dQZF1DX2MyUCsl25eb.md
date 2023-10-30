@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,861 likes - 101 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,873 likes - 101 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 7 | [Before We Step Inside](https://open.spotify.com/track/6bxfwQ5z8qe2uoEOiO35YG) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Before We Step Inside](https://open.spotify.com/album/4nXC12lYgRlswGeLUumBJb) | 2:14 |
 | 8 | [Sunday](https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sunday](https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO) | 2:58 |
 | 9 | [I Get It Now](https://open.spotify.com/track/0bgkFYeUHHu3ANzPwvGUgH) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky Continued](https://open.spotify.com/album/3iguCKsubREAOrpyG0wcoZ) | 3:38 |
-| 10 | [Angel](https://open.spotify.com/track/3D4XjhkvYU3F89G9Elok5T) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Angel](https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU) | 5:05 |
+| 10 | [Angel](https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 5:05 |
 | 11 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
 | 12 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 |
 | 13 | [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 100 | [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 |
 | 101 | [Parallel Universe](https://open.spotify.com/track/4ax79FbkxYsNHDCz7Hy6TL) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Parallel Universe](https://open.spotify.com/album/0q5vqqkXRRnL5w3CCYlxiJ) | 3:34 |
 
-Snapshot ID: `MCxlMTQwMTczMWE5OGY3ZjVmMmM5MGI5NDEwNWEzMGEwMzNkY2Y3YWRl`
+Snapshot ID: `MCwxNGM1ZjRhYjM1ZjlmMTJlODU1ODZkYjI4YWEzNTRiZmNjNzdmMDc0`

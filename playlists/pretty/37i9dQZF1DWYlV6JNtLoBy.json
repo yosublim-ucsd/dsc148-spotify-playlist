@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 3354,
+  "num_followers": 3371,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzMzZWEzYzVmNjYyNzc4ZDcyZjQ2YjAyNTc5NmRlOTZlNjM4MDUx",
+  "snapshot_id": "MCxiNmNjMDk2NmFiMWQ2OGRjZGY2N2ExMDJkNjk5YTI4NzZiMGY5Y2Fk",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-10-20 00:01:00",
       "album": {
-        "name": "WINNING",
-        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
-      },
-      "artists": [
-        {
-          "name": "Harmini",
-          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
-        },
-        {
-          "name": "Chud'e",
-          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
-        }
-      ],
-      "duration_ms": 152622,
-      "name": "WINNING",
-      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
-    },
-    {
-      "added_at": "2023-10-20 00:01:00",
-      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 216111,
       "name": "Good",
       "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
+    },
+    {
+      "added_at": "2023-10-20 00:01:00",
+      "album": {
+        "name": "WINNING",
+        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
+      },
+      "artists": [
+        {
+          "name": "Harmini",
+          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
+        },
+        {
+          "name": "Chud'e",
+          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
+        }
+      ],
+      "duration_ms": 152622,
+      "name": "WINNING",
+      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
     },
     {
       "added_at": "2023-10-20 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,800 likes - 65 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,894 likes - 65 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 50 | [Felina, Ai Meu Deus](https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP) | [DJ MT SILVÉRIO](https://open.spotify.com/artist/3BYtk2sGyLpV9UfmCghNSd), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [Felina, Ai Meu Deus](https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt) | 2:27 |
 | 51 | [Florxs Speed Up](https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Florxs Speed Up](https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW) | 2:56 |
 | 52 | [Sou Eu \- Speed](https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [Sou Eu \(Speed\)](https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6) | 2:05 |
-| 53 | [Rede Social \- Speed](https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Rede Social \(Speed\)](https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ) | 2:34 |
-| 54 | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE) | 2:29 |
+| 53 | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE) | 2:29 |
+| 54 | [Rede Social \- Speed](https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Rede Social \(Speed\)](https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ) | 2:34 |
 | 55 | [Como Era Antes..\. \(Speed Up\)](https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [Como Era Antes](https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98) | 1:04 |
 | 56 | [Kill Bill \- Speed](https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS) | [Cabrxlzin](https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Kill Bill \- Speed](https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB) | 1:28 |
 | 57 | [NICOTINA \- Speed](https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN) | [NICOTINA](https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN) | 1:30 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 64 | [Contatos \- Speed Plug](https://open.spotify.com/track/2uagJoFfpDCEnIwHftuduv) | [Rod 011](https://open.spotify.com/artist/0EQKO8vvXzLyITxRJHfC00), [Yo Besy](https://open.spotify.com/artist/2cXJUibUE3MA7VY1HYvBug), [wazy](https://open.spotify.com/artist/05CehQVgU6xs0LJOGoj3OO), [Dexhenry](https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u) | [Gorilla Dream, Vol\. I](https://open.spotify.com/album/2q9mARnuyo6TwdNmTwRkqk) | 2:14 |
 | 65 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 
-Snapshot ID: `MCw1NWJlMDk3MTQzZGJmNWNiYmU1NjcyNjUyY2FhZDEzMTBiMmJhYzE1`
+Snapshot ID: `MCwxODFjYjNiMjczYzdhYzU1NTI1NjY4ODZiNDM2MGJhNDE5Zjc4ZjRl`

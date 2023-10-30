@@ -4,7 +4,7 @@
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-63 songs - 3 hr 39 min
+64 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Lembrar Me Faz Sofrer](https://open.spotify.com/track/6gibLc856RW7O3bL8gcENe) | [Display](https://open.spotify.com/artist/6wK3QnC206lJhV7QtC352T) | [Um Dia Pra Sonhar](https://open.spotify.com/album/3RCvS7nvwuIm7CszP8P7A7) | 2:48 | 2023-03-02 |  |
 | [Lentamente](https://open.spotify.com/track/71pHOZUBFAXxE7g3iDf04f) | [Square](https://open.spotify.com/artist/7dqP3g4hzcHcjJ0GM6Cn3y) | [Maior Que o Céu](https://open.spotify.com/album/3B3qszHZhsmT3ZLYoMdrTi) | 2:17 | 2023-03-02 |  |
 | [Levo Comigo](https://open.spotify.com/track/6BcqNZ7D3gI0ALivZMAvux) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Restart](https://open.spotify.com/album/6IqdfOX19OBSSxNTTRA5kg) | 3:26 | 2023-03-02 |  |
+| [Levo Comigo](https://open.spotify.com/track/77Y6GBebTNjzyLVTX3PmAk) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Greatest Hits \- Tour Edition](https://open.spotify.com/album/4LYsPGQ18Rb9fPnDbebCYC) | 3:28 | 2023-10-29 |  |
 | [Mais Que um Perdão](https://open.spotify.com/track/5Dd5gzk4YVeSk6yfCF2VMy) | [Opallas](https://open.spotify.com/artist/45dNW6B9d2DdqCgJlrLbOh) | [Que Mal Há em Chorar por Nós Dois](https://open.spotify.com/album/0tZh9WyHmwIASV09q57nQh) | 1:25 | 2023-03-02 |  |
 | [Me Leve às Estrelas](https://open.spotify.com/track/7B6z4Ycf1k9o8mZdSkRoyc) | [Dance of Days](https://open.spotify.com/artist/3pICQ7QvYXozuzJjgb6eM5) | [A História Não Tem Fim](https://open.spotify.com/album/43WGY8Tt3dyQOqbYIosPRy) | 4:16 | 2023-03-02 |  |
 | [Minha Paz](https://open.spotify.com/track/0OZqJIjspmfNvsbmwoBbs7) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Gloria](https://open.spotify.com/album/7czSPeqnlYBszPJFxiRO86) | 4:09 | 2023-03-02 |  |
@@ -58,7 +59,7 @@
 | [Piloto Automático](https://open.spotify.com/track/6EmC6JFwF0Aq92ajBPKYiO) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Amianto](https://open.spotify.com/album/1WgexL6crC80Q39HwvkyXK) | 3:17 | 2023-03-02 |  |
 | [Porto Alegre](https://open.spotify.com/track/33Y1jukFR76pj7TXFTHQBJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Revanche](https://open.spotify.com/album/6SH5RNO347OXTrPndPUj52) | 3:47 | 2023-03-02 |  |
 | [Quebre As Correntes](https://open.spotify.com/track/0tu6BHa46Jb0Hah7QzRMBk) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 3:46 | 2023-03-02 |  |
-| [Quente](https://open.spotify.com/track/7ps1PDz7k02LnPNFsyprTo) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Saúde](https://open.spotify.com/album/18qL4P3zNK4SsXE237lFGO) | 2:29 | 2023-03-02 |  |
+| [Quente](https://open.spotify.com/track/7ps1PDz7k02LnPNFsyprTo) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Saúde](https://open.spotify.com/album/18qL4P3zNK4SsXE237lFGO) | 2:29 | 2023-03-02 | 2023-10-30 |
 | [Razões E Emoções](https://open.spotify.com/track/3VPWRmLJaUtj8WPFo4LXtg) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:42 | 2023-03-02 |  |
 | [Razões E Emoções](https://open.spotify.com/track/4w0UUctedmEbrpUtlrHuaN) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock Nacional Anos 2000](https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy) | 3:42 | 2023-03-02 | 2023-09-04 |
 | [Se Essas Paredes Falassem](https://open.spotify.com/track/6EBuhDXGEe8ZPDR8WuuieN) | [Dance of Days](https://open.spotify.com/artist/3pICQ7QvYXozuzJjgb6eM5) | [A História Não Tem Fim](https://open.spotify.com/album/43WGY8Tt3dyQOqbYIosPRy) | 3:27 | 2023-03-02 |  |

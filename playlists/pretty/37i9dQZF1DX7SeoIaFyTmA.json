@@ -1,12 +1,12 @@
 {
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
-  "num_followers": 1255700,
+  "num_followers": 1256056,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjBjYmYyYjhiZTRjYzYzNDg2MDcxOTE5NjI3YzdhZWUwMmI5YWI2",
+  "snapshot_id": "MCw2NGUxMGQwNjFjOWRiNmM0NmQyMTI3OWEyNjE5M2RiYzllNDUwYTdm",
   "tracks": [
     {
       "added_at": "2023-10-19 19:32:57",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-10-19 19:32:57",
       "album": {
-        "name": "Voy Pa'Encima",
-        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
-    },
-    {
-      "added_at": "2023-10-19 19:32:57",
-      "album": {
         "name": "Salsa",
         "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 386853,
       "name": "La Cartera",
       "url": "https://open.spotify.com/track/1mpKcP8f2gQrInkh2FLb1N"
+    },
+    {
+      "added_at": "2023-10-19 19:32:57",
+      "album": {
+        "name": "Voy Pa'Encima",
+        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
     },
     {
       "added_at": "2023-10-19 19:32:57",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-10-19 19:32:57",
       "album": {
-        "name": "Dicen Que Soy",
-        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
+        "name": "Cant\u00e1ndole al Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
       },
       "artists": [
         {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 280013,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
+      "duration_ms": 301441,
+      "name": "T\u00fa Con El",
+      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
     },
     {
       "added_at": "2023-10-19 19:32:57",
@@ -1135,6 +1135,22 @@
       "duration_ms": 426840,
       "name": "V\u00e1monos Pa'l Monte",
       "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+    },
+    {
+      "added_at": "2023-10-19 19:32:57",
+      "album": {
+        "name": "Dicen Que Soy",
+        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 280013,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
     },
     {
       "added_at": "2023-10-19 19:32:57",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2023-10-19 19:32:57",
       "album": {
-        "name": "Cant\u00e1ndole al Amor, Vol. 2",
-        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 301441,
-      "name": "T\u00fa Con El",
-      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
-    },
-    {
-      "added_at": "2023-10-19 19:32:57",
-      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
+    },
+    {
+      "added_at": "2023-10-19 19:32:57",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 270093,
+      "name": "Mi Libertad",
+      "url": "https://open.spotify.com/track/25rZ4tMiSLmMDnk1jHZCGh"
     },
     {
       "added_at": "2023-10-19 19:32:57",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2023-10-19 19:32:57",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 270093,
-      "name": "Mi Libertad",
-      "url": "https://open.spotify.com/track/25rZ4tMiSLmMDnk1jHZCGh"
-    },
-    {
-      "added_at": "2023-10-19 19:32:57",
-      "album": {
         "name": "Rey del Bajo",
         "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
       },
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-10-19 19:32:57",
       "album": {
-        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
-        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
+        "name": "Oro Salsero (Vol 2)",
+        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 286320,
-      "name": "Date un Chance",
-      "url": "https://open.spotify.com/track/4NM6nmPnoqnQovcZ93kACn"
+      "duration_ms": 298546,
+      "name": "T\u00fa Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
     },
     {
       "added_at": "2023-10-19 19:32:57",
@@ -1435,6 +1435,22 @@
       "duration_ms": 281040,
       "name": "Dicen Que Soy",
       "url": "https://open.spotify.com/track/6Lr6DGoVF77bNdHsfiwfPZ"
+    },
+    {
+      "added_at": "2023-10-19 19:32:57",
+      "album": {
+        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
+        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 286320,
+      "name": "Date un Chance",
+      "url": "https://open.spotify.com/track/4NM6nmPnoqnQovcZ93kACn"
     },
     {
       "added_at": "2023-10-19 19:32:57",
@@ -1487,22 +1503,6 @@
       "duration_ms": 376013,
       "name": "La rebelion",
       "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
-    },
-    {
-      "added_at": "2023-10-19 19:32:57",
-      "album": {
-        "name": "Oro Salsero (Vol 2)",
-        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 298546,
-      "name": "T\u00fa Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
     },
     {
       "added_at": "2023-10-19 19:32:57",

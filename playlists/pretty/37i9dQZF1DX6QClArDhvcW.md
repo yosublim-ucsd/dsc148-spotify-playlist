@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,306 likes - 245 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,597 likes - 245 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 12 | [town life](https://open.spotify.com/track/7o6Tpfymsh47oT5VeSSIPL) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [town life](https://open.spotify.com/album/6MorDTaeyPwDA16tn5d3VF) | 1:57 |
 | 13 | [left\_right](https://open.spotify.com/track/5wTr5jU2T9JIkvP3TdJNaL) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [Aldo](https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1) | 2:26 |
 | 14 | [Oonga Boonga](https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Oonga Boonga](https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk) | 2:05 |
-| 15 | [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 |
+| 15 | [peanut dream shake](https://open.spotify.com/track/32R8uRLa9uf1ffKWhVrdFR) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/7aqITKpq0WfAmXYwNCwj9u) | 2:45 |
 | 16 | [at your pace](https://open.spotify.com/track/2PoVtcjYl5siHm6PR2y0dv) | [Tofu Sunae](https://open.spotify.com/artist/1Q049I4R7Yua2JHakqjJjn) | [at your pace](https://open.spotify.com/album/23HAZTrV4RBIsSm8H7B1Lp) | 2:01 |
 | 17 | [silver sky](https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [silver sky](https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh) | 2:01 |
 | 18 | [two fates](https://open.spotify.com/track/4eHboBgELs4U4dWOuXoR11) | [ozai](https://open.spotify.com/artist/39rqcB615LQYvtRQwiE5I7) | [two fates](https://open.spotify.com/album/1Wn2iBgOPajEjtaIpg9lL8) | 2:04 |
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 244 | [early birds](https://open.spotify.com/track/0hAVPGHwhiaAfwEQaMVsbG) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [ghost & nature](https://open.spotify.com/album/4GYfLtvKi4R23EBOy2SsV8) | 2:22 |
 | 245 | [Misty](https://open.spotify.com/track/482jgUtNalNOBuOC9XAuJu) | [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Misty](https://open.spotify.com/album/28l4AuuySCumrAxCvlic76) | 1:57 |
 
-Snapshot ID: `MCwzMjk5YmYxZjg5NzFkN2UyNzJmMmNhNmU2MmFiYWM5YmE3YWI3Yjcx`
+Snapshot ID: `MCw1YjI1MGM0NjcyYzYwZDhjYzZlMzc2OWVmYWQ2ZGU4YmIxZDAxZmMy`

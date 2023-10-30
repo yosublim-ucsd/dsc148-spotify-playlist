@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 192590,
+  "num_followers": 193715,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDMyMzUwOWZkOTcyYjhlOTNjODYyOGYwMzI2ZGQyZmFmNDdhMDZk",
+  "snapshot_id": "MCwxZjQ3MzJlZDVjOTEwMzBjNzMzZTlhNDFlNmU0MzkzYjk1ODNlZDY2",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "effective. Power",
+        "url": "https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP"
+      },
+      "artists": [
+        {
+          "name": "MIMIDEATH",
+          "url": "https://open.spotify.com/artist/55VDe291360aWSrwt1U96m"
+        }
+      ],
+      "duration_ms": 58363,
+      "name": "if god didnt want us to snort worms he wouldn't have made them cylindrical!",
+      "url": "https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "LET ME SEE YA MOVE!",
         "url": "https://open.spotify.com/album/1qKJSTBYWQMuN4efzNuY2e"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 121734,
       "name": "LET ME SEE YA MOVE!",
       "url": "https://open.spotify.com/track/3WZQ5lbOdeXEcspmshc9YS"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "effective. Power",
-        "url": "https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP"
-      },
-      "artists": [
-        {
-          "name": "MIMIDEATH",
-          "url": "https://open.spotify.com/artist/55VDe291360aWSrwt1U96m"
-        }
-      ],
-      "duration_ms": 58363,
-      "name": "if god didnt want us to snort worms he wouldn't have made them cylindrical!",
-      "url": "https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "backroom labyrinth",
-        "url": "https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk"
-      },
-      "artists": [
-        {
-          "name": "Oliver Buckland",
-          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
-        }
-      ],
-      "duration_ms": 168734,
-      "name": "backroom labyrinth",
-      "url": "https://open.spotify.com/track/0HRk2U8OCDkS2asQEt22wf"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Music for Awkward Dates",
         "url": "https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 186257,
       "name": "My Head Hurts",
       "url": "https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "backroom labyrinth",
+        "url": "https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk"
+      },
+      "artists": [
+        {
+          "name": "Oliver Buckland",
+          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
+        }
+      ],
+      "duration_ms": 168734,
+      "name": "backroom labyrinth",
+      "url": "https://open.spotify.com/track/0HRk2U8OCDkS2asQEt22wf"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Computer Afterlife",
-        "url": "https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 86428,
-      "name": "Implanted Memories",
-      "url": "https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "RePorpoised Phantasies",
         "url": "https://open.spotify.com/album/5BPW34xVtNwez7rVSjWQB3"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 305454,
       "name": "Cyan Hardcore",
       "url": "https://open.spotify.com/track/3tHuc2GGxetquuJKCleNmK"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Computer Afterlife",
+        "url": "https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 86428,
+      "name": "Implanted Memories",
+      "url": "https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 89640,
-      "name": "The descent",
-      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": ")\u2727\u20db*",
         "url": "https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz"
       },
@@ -575,6 +559,38 @@
       "duration_ms": 190344,
       "name": "\u01aa. \u25d6\u01aa\u274d\u227b\u0338\u25de.|\u25d7\u0449 (*\u110b\u25b3+\u204e\u275d\u1dc0\u0ebb\u0f7d*\u0cc3:(\ua4a1\u0361 \u275d\u1dc0\u0ebb\u0f7d \ua27a \u0308.\u00b7*:\u30fb\u2727\u20db(\u0f7d\u0e51",
       "url": "https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/2FeYIfCmI3kGAJt1SAdTpV"
+      },
+      "artists": [
+        {
+          "name": "Mayo.",
+          "url": "https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX"
+        }
+      ],
+      "duration_ms": 77588,
+      "name": "Reduplicate",
+      "url": "https://open.spotify.com/track/64PKCSw5Jg7grMo9MnlFoO"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 89640,
+      "name": "The descent",
+      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -611,18 +627,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/2FeYIfCmI3kGAJt1SAdTpV"
+        "name": "TILT",
+        "url": "https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa"
       },
       "artists": [
         {
-          "name": "Mayo.",
-          "url": "https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX"
+          "name": "NANORAY",
+          "url": "https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1"
         }
       ],
-      "duration_ms": 77588,
-      "name": "Reduplicate",
-      "url": "https://open.spotify.com/track/64PKCSw5Jg7grMo9MnlFoO"
+      "duration_ms": 180048,
+      "name": "DesktopBuddy",
+      "url": "https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -643,18 +659,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "TILT",
-        "url": "https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa"
+        "name": "804",
+        "url": "https://open.spotify.com/album/6ZzVFa0F3KuUHVqf8bse0h"
       },
       "artists": [
         {
-          "name": "NANORAY",
-          "url": "https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1"
+          "name": "Mayo.",
+          "url": "https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX"
         }
       ],
-      "duration_ms": 180048,
-      "name": "DesktopBuddy",
-      "url": "https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri"
+      "duration_ms": 89236,
+      "name": "804",
+      "url": "https://open.spotify.com/track/6jLaIaYXWkneF8qp99t3z4"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Rose Gold (Deluxe)",
-        "url": "https://open.spotify.com/album/06IUvNGmc633oFRZpdKXCr"
-      },
-      "artists": [
-        {
-          "name": "Kitty",
-          "url": "https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Counting All The Starfish",
-      "url": "https://open.spotify.com/track/1jpeaMkkBI62OYH0z5nAhb"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "DIRT BIRD",
         "url": "https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "804",
-        "url": "https://open.spotify.com/album/6ZzVFa0F3KuUHVqf8bse0h"
-      },
-      "artists": [
-        {
-          "name": "Mayo.",
-          "url": "https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX"
-        }
-      ],
-      "duration_ms": 89236,
-      "name": "804",
-      "url": "https://open.spotify.com/track/6jLaIaYXWkneF8qp99t3z4"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": ".Temp",
         "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 96883,
       "name": "Eternal.Temp",
       "url": "https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Rose Gold (Deluxe)",
+        "url": "https://open.spotify.com/album/06IUvNGmc633oFRZpdKXCr"
+      },
+      "artists": [
+        {
+          "name": "Kitty",
+          "url": "https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Counting All The Starfish",
+      "url": "https://open.spotify.com/track/1jpeaMkkBI62OYH0z5nAhb"
     },
     {
       "added_at": "2023-07-18 20:06:10",

@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-168 songs - 11 hr 17 min
+169 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bayen Habeit](https://open.spotify.com/track/29KS7kBSU77PrYGB6RVR5O) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Bayen Habeit](https://open.spotify.com/album/4RdUsMpepg4HbsFyaIpHsB) | 2:19 | 2023-08-29 |  |
 | [Bel Ahlam \(Remix\)](https://open.spotify.com/track/5jonBF1ctoQZ3vkaTN5VIv) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Bel Ahlam \(Remix\)](https://open.spotify.com/album/7F8KwU004mAZFkyAzzK4qc) | 3:22 | 2022-12-22 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2023-06-23 |  |
+| [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 | 2023-10-29 |  |
 | [Bnt El Chalabyea](https://open.spotify.com/track/7tqxqX5Ee6AEtyfcLAnQeF) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Bnt El Chalabyea](https://open.spotify.com/album/4zypeoqTlxujSqK0m7GJFK) | 5:09 | 2023-03-11 | 2023-06-24 |
 | [Bom Bom Bom](https://open.spotify.com/track/0iZPgfxzGQL0TIqP2twBi3) | [DJ Kantik](https://open.spotify.com/artist/3ojxLRDFTdWKXQDBewrCr4) | [Bom Bom Bom](https://open.spotify.com/album/2aRHgRSxnBHPmnfoc2LgWa) | 3:00 | 2023-08-16 |  |
 | [By Your Side](https://open.spotify.com/track/33pkvSE2Bh9KHLz7X4fLeS) | [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1) | [By Your Side](https://open.spotify.com/album/2Rz7LhGdUMCvUcPxNaojjx) | 2:26 | 2023-08-16 |  |
@@ -110,7 +111,7 @@
 | [Mn Alby Baghany](https://open.spotify.com/track/4zViTBjVXkd5eaUsSjrhHv) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:50 | 2022-03-30 | 2023-06-24 |
 | [Mogador](https://open.spotify.com/track/2FBUQ0rB58kVxpR1xicpJs) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mogador](https://open.spotify.com/album/05yz2wpMI4wJiBwyj7fvQj) | 2:30 | 2023-03-02 | 2023-06-24 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 | 2023-06-23 | 2023-08-17 |
-| [Moulayiten](https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr) | [Moulayiten](https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa) | 4:57 | 2022-08-22 |  |
+| [Moulayiten](https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr) | [Moulayiten](https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa) | 4:57 | 2022-08-22 | 2023-10-30 |
 | [Mulajia \- Live Album](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 | 2022-05-19 | 2023-06-24 |
 | [Nagham](https://open.spotify.com/track/2X3XbK8XGq6kDjhEYu3gxF) | [Said Mrad](https://open.spotify.com/artist/7IrQY3CFcNbiiRgnhyA9rg), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Nagham](https://open.spotify.com/album/1WtsKi9pzRU5Ykx6womfzR) | 9:15 | 2023-02-01 | 2023-02-03 |
 | [Nasini El Donya \( House Mix \)](https://open.spotify.com/track/2kuqe8VWo6jfzWhOjYKUFT) | [Eylie](https://open.spotify.com/artist/2LEuHMar2nVA7ohZ3oE8cj), [DJ Maximus](https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE) | [Nasini El Donya \( House Mix \)](https://open.spotify.com/album/7mZDbuKkM0yDAQqCD6zQM0) | 2:18 | 2023-08-29 |  |

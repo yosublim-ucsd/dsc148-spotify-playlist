@@ -1,12 +1,12 @@
 {
   "description": "The hottest in hip-hop, R&B and Afrobeats. Cover: Burna Boy",
-  "num_followers": 7440,
+  "num_followers": 7473,
   "original_name": "Now Playing...",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2EyY2ZkZjViMDM3NTE5Y2ViNTc2YjljN2M3YjgyMmIwZDE0ODQ4",
+  "snapshot_id": "MCxkNTU0ZjcxMzM4Mjc0ZjNhYjFhNTliZmUyZWE5NGYwOTc3OTQ5YmNi",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "PAINTING PICTURES",
+        "url": "https://open.spotify.com/album/1mHSRTfrDnc4LmEOH0ISTC"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "duration_ms": 125857,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/6RGH7mvHffrBcHuW60vgZB"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Self Esteem (featuring NLE Choppa)",
         "url": "https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "PAINTING PICTURES",
-        "url": "https://open.spotify.com/album/1mHSRTfrDnc4LmEOH0ISTC"
-      },
-      "artists": [
-        {
-          "name": "Superstar Pride",
-          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
-        }
-      ],
-      "duration_ms": 125857,
-      "name": "PAINTING PICTURES",
-      "url": "https://open.spotify.com/track/6RGH7mvHffrBcHuW60vgZB"
     },
     {
       "added_at": "2023-07-28 04:00:00",

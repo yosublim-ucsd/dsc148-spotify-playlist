@@ -1,12 +1,12 @@
 {
   "description": "New music each and every Friday.   Cover: <a href=\"spotify:artist:3tlXnStJ1fFhdScmQeLpuG\">Brent Faiyaz</a>",
-  "num_followers": 1002607,
+  "num_followers": 1002598,
   "original_name": "This is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWI4MmMzMmViYjRhNWI4ZTViYTk4ODRhNDQ1OThlNTg2NGFlNTdl",
+  "snapshot_id": "MCxlNTY0MjFlZDZmZGU3MWUxMjhmMTY1MGU4YmEwOWIwYTc0NzYxYWE1",
   "tracks": [
     {
       "added_at": "2023-10-27 07:33:23",
@@ -751,6 +751,26 @@
       "duration_ms": 199460,
       "name": "Play",
       "url": "https://open.spotify.com/track/6YoqG5R2uqq5MQBj4kbnz4"
+    },
+    {
+      "added_at": "2023-10-27 07:33:23",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
       "added_at": "2023-10-27 07:33:23",

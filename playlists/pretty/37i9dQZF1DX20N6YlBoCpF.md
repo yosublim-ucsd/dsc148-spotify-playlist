@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu?si=V\-INLW0zRN\-JAv5SQGYvog">Mionette</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,492 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,510 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Groenlig](https://open.spotify.com/track/02LfA4rOmSeVgk9koPe3y9) | [Mionette](https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu) | [Groenlig](https://open.spotify.com/album/7x5N6Oh2It2xKLGjhq6r7h) | 3:23 |
-| 2 | [Lekker Ou Struis](https://open.spotify.com/track/3I8JabLyjmDMeOwkn91rxS) | [Armand Steenkamp](https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5) | [Lekker Ou Struis](https://open.spotify.com/album/7AOLJ2XvVYCacOz0wOG7gG) | 2:49 |
-| 3 | [Tannie Katesbes](https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Tannie Katesbes](https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N) | 3:00 |
+| 2 | [Tannie Katesbes](https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Tannie Katesbes](https://open.spotify.com/album/3MONfNQ8xdPBx77X5J4D3N) | 3:00 |
+| 3 | [Lekker Ou Struis](https://open.spotify.com/track/3I8JabLyjmDMeOwkn91rxS) | [Armand Steenkamp](https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5) | [Lekker Ou Struis](https://open.spotify.com/album/7AOLJ2XvVYCacOz0wOG7gG) | 2:49 |
 | 4 | [Boksemdais](https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Boksemdais](https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0) | 3:08 |
 | 5 | [In My Oë](https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 2:30 |
 | 6 | [Moegdans](https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Moegdans](https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Ons Sal Jonk Bly](https://open.spotify.com/track/5kmedYH2KGOpqYcjhkut2f) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/6kgghUTYltx1TaKHamBWOe) | 4:25 |
 | 50 | [Boer In My Hart](https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Boer In My Hart](https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj) | 3:50 |
 
-Snapshot ID: `MCw1N2M5ODI5YzhmNmIyZTIxMGZlZGU5NDMxOGEzN2ZmMjc0NTM5ODFk`
+Snapshot ID: `MCxlMzJkOGQ3NmFkZDY0NDE3NjIwOGFjNjg2OTQ0ZWY0MzA3MDQzZjU0`

@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 153750,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK"
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 172904,
       "name": "Better (feat. Jena)",
       "url": "https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 180278,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/4stpA04LZHBCx3YejNdodF"
@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 185120,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i"
@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 194423,
       "name": "Dancing At The Disco",
       "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 186625,
       "name": "Do You Feel It",
       "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
@@ -3878,7 +3878,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
@@ -4164,7 +4164,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 112741,
       "name": "Es un secreto (feat. Pensi\u00f3n & Juanmih)",
       "url": "https://open.spotify.com/track/5TRubkfle0s3bQAPtBPQIf"
@@ -5102,7 +5102,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 157673,
       "name": "Friends",
       "url": "https://open.spotify.com/track/4kwbbhuemSkRWvtN5dkWmb"
@@ -6480,7 +6480,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
@@ -7433,6 +7433,32 @@
     },
     {
       "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW"
+      },
+      "artists": [
+        {
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169635,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
+    },
+    {
+      "album": {
         "name": "Language (Walker & Royce Remix)",
         "url": "https://open.spotify.com/album/1OjBPbb3Yvg2zyOBOk4syJ"
       },
@@ -7470,6 +7496,32 @@
       "duration_ms": 200550,
       "name": "Lauren (I Can't Stay Forever)",
       "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+    },
+    {
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/49U4muHd77m24ZC0h09385"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129242,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp"
     },
     {
       "album": {
@@ -7840,6 +7892,32 @@
       "duration_ms": 196188,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0WWSJNzZ3GUXNMHkWj0Kno"
+    },
+    {
+      "album": {
+        "name": "Life Lesson",
+        "url": "https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "Life Lesson",
+      "url": "https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr"
     },
     {
       "album": {
@@ -8764,7 +8842,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 204545,
       "name": "Make Me Happy (feat. Might Delete Later)",
       "url": "https://open.spotify.com/track/3O4mzMMjxZpCQUSYtq4So4"
@@ -11052,7 +11130,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 127734,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1LoGrm5coC2yXhofVni5Cp"
@@ -11476,7 +11554,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 141120,
       "name": "Saturday Love",
       "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
@@ -12670,7 +12748,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 159047,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
@@ -12754,6 +12832,24 @@
       "duration_ms": 179528,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
+    },
+    {
+      "album": {
+        "name": "Take My Chance",
+        "url": "https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198603,
+      "name": "Take My Chance",
+      "url": "https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR"
     },
     {
       "album": {
@@ -14089,6 +14185,32 @@
     },
     {
       "album": {
+        "name": "Up N' Down (feat. JmNPR)",
+        "url": "https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        },
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        },
+        {
+          "name": "JmNPR",
+          "url": "https://open.spotify.com/artist/30tkBTplmnwCCDx8Ueuau2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208637,
+      "name": "Up N' Down (feat. JmNPR)",
+      "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
+    },
+    {
+      "album": {
         "name": "DnH",
         "url": "https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb"
       },
@@ -14520,7 +14642,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 136062,
       "name": "what we had was real",
       "url": "https://open.spotify.com/track/7lPVC3ppoIixU2PH2KcvTK"
@@ -14538,7 +14660,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 173238,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB"
@@ -14560,7 +14682,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 218040,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"

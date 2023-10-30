@@ -4,7 +4,7 @@
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
-500 songs - 1 day 1 hr 40 min
+501 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-10-14 | 2022-11-13 |
 | [Carried Away \(Love To Love\) \(with Madison Beer\)](https://open.spotify.com/track/4IvuPZogXbY7LODs7qzr0W) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Carried Away \(Love To Love\) \(with Madison Beer\)](https://open.spotify.com/album/57LmwffyQvnFHRHzbitsEO) | 3:02 | 2022-02-18 | 2022-07-29 |
 | [Central Station](https://open.spotify.com/track/12k0MroOt3VGEoE7EzkB56) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Don't Kiss Ur Friends](https://open.spotify.com/album/1UpmgLLg3w0pI5SGa0XaH4) | 3:28 | 2022-03-25 | 2022-04-07 |
-| [Chama De Amor](https://open.spotify.com/track/7FENXy3cRC1nkwerVvxgCI) | [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Amor É A Lei](https://open.spotify.com/album/2Q9MleGD9sn4WnOO51KPix) | 3:12 | 2023-08-04 |  |
+| [Chama De Amor](https://open.spotify.com/track/7FENXy3cRC1nkwerVvxgCI) | [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Amor É A Lei](https://open.spotify.com/album/2Q9MleGD9sn4WnOO51KPix) | 3:12 | 2023-08-04 | 2023-10-30 |
 | [CHARGER](https://open.spotify.com/track/0ZHSbNRrrfAs8hwEuecJM6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [chillpill](https://open.spotify.com/artist/1QzqrU2lmiW9l1mSvliVoM) | [CHARGER](https://open.spotify.com/album/5y1t9JGawPBdgJjd3Ogl0a) | 1:53 | 2022-03-25 | 2022-04-18 |
 | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf) | 2:32 | 2022-03-25 | 2022-04-09 |
 | [Circles](https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5) | 3:34 | 2022-03-25 | 2022-04-21 |
@@ -284,6 +284,7 @@
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-05-13 | 2023-07-15 |
 | [Me Chama](https://open.spotify.com/track/5nkQ6XoigkqO9lqy28hLis) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Me Chama](https://open.spotify.com/album/40WvdGsOPwzkEVcVSzW8lO) | 2:35 | 2022-02-18 | 2022-07-29 |
 | [Met Him Last Night \(feat\. Ariana Grande\)](https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dancing With The Devil…The Art of Starting Over](https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd) | 3:24 | 2022-03-02 | 2022-07-23 |
+| [Meu Quesito é Saber Viver \- Ao Vivo](https://open.spotify.com/track/27UDhlspddipfQ4y5bE2j1) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 3](https://open.spotify.com/album/7G7KssIGmmCFxf57ry7Hi1) | 3:19 | 2023-10-27 |  |
 | [Midas Touch](https://open.spotify.com/track/2H5uvk1o7ZpEHtclzN91Fh) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Midas Touch](https://open.spotify.com/album/4sOFqXBv8PvKDxFszHomGu) | 2:41 | 2022-03-25 | 2022-04-17 |
 | [Miss U More Than U Know \(with R3HAB\)](https://open.spotify.com/track/7s61Kg0qZhhFj5MQW7DDIB) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Miss U More Than U Know \(with R3HAB\)](https://open.spotify.com/album/2bl8B6G1wit5BFNtAwkX51) | 2:36 | 2022-02-18 | 2022-06-21 |
 | [Moment](https://open.spotify.com/track/5ECMw9uUKsESaf3EeKTGID) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Strangers / Lovers](https://open.spotify.com/album/7voNzojlnciw4Dld8KywVw) | 2:45 | 2022-03-25 | 2022-04-17 |

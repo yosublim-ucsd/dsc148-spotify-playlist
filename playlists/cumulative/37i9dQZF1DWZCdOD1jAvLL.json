@@ -1547,6 +1547,32 @@
     },
     {
       "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/4os1LiFckLA5tv0RuD4Mjj"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182665,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/43girkLVD5WYKCBMOphHhd"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
       },
@@ -6946,7 +6972,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 252399,
       "name": "Mindstate",
       "url": "https://open.spotify.com/track/5V9cyDgo1wBu0gj5tkk57E"

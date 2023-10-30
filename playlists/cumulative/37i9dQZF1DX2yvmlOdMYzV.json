@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 163177,
       "name": "Don't Say It",
       "url": "https://open.spotify.com/track/6ltghPpgP522rAJvYuplke"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 182213,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/3BTFuuXsPukaLonG6fy2kU"
@@ -5375,6 +5375,24 @@
     },
     {
       "album": {
+        "name": "Let This Go",
+        "url": "https://open.spotify.com/album/4JtkxBWC37gnLUi1oWid1V"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177363,
+      "name": "Let This Go",
+      "url": "https://open.spotify.com/track/5AvT8QuysDMHiqKD9lDulK"
+    },
+    {
+      "album": {
         "name": "Doin' Our Thing",
         "url": "https://open.spotify.com/album/2OWQVMKNjSZeTaVXpfHPX5"
       },
@@ -5867,6 +5885,24 @@
     },
     {
       "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "LOW TIDE",
+      "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
+    },
+    {
+      "album": {
         "name": "1021",
         "url": "https://open.spotify.com/album/4jIEMRSPsEVpjn75QTMlc8"
       },
@@ -6132,6 +6168,24 @@
       "duration_ms": 207716,
       "name": "Many Ways",
       "url": "https://open.spotify.com/track/2AfcTMT8jdpbUAEXYhcj2d"
+    },
+    {
+      "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132068,
+      "name": "MARIPOSA",
+      "url": "https://open.spotify.com/track/6mpANPTNlj2LpLIbTItVnQ"
     },
     {
       "album": {
@@ -7870,7 +7924,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 210910,
       "name": "Rodeo Clown",
       "url": "https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5"

@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-439 songs - 16 hr 29 min
+440 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [Pass It On](https://open.spotify.com/track/6W14nPKn5Xro5bg98uTM33) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Pass It On](https://open.spotify.com/album/50qapmoJ4j60haCzDTp9hX) | 2:15 | 2022-05-20 | 2023-10-27 |
 | [Pass Out](https://open.spotify.com/track/5mePmsWKsgqAW2MY8PuAae) | [Tentoe](https://open.spotify.com/artist/6FpbduvSpaRBCVrmiiJfwk) | [Pass Out](https://open.spotify.com/album/1aRc3EAbwe7o57jYRTH0ny) | 2:17 | 2022-12-09 |  |
 | [pEach cObbler](https://open.spotify.com/track/7nLZjRukkxR0WHv95DrnZX) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [pEach cObbler](https://open.spotify.com/album/1jYX0kd0KX5wALVLaiur3i) | 1:50 | 2022-05-20 |  |
-| [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 | 2023-10-27 |  |
+| [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 | 2023-10-27 | 2023-10-30 |
+| [peanut dream shake](https://open.spotify.com/track/32R8uRLa9uf1ffKWhVrdFR) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/7aqITKpq0WfAmXYwNCwj9u) | 2:45 | 2023-10-27 |  |
 | [peg your bardon](https://open.spotify.com/track/00sc16mjcSsbWxoWqwt2nu) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [peg your bardon](https://open.spotify.com/album/6jgaFaSDSkS4bUXx3Qu8ot) | 1:59 | 2022-11-11 |  |
 | [Peoples Plan](https://open.spotify.com/track/7GtYYBupIPtnzdmviZyLfR) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [Peoples Plan](https://open.spotify.com/album/2idlBBN2mSxgUS5GWJEl4t) | 2:22 | 2023-09-22 |  |
 | [perception](https://open.spotify.com/track/6fVMTxRuHpBL5TwL71HL6R) | [cloudi](https://open.spotify.com/artist/64LHvgl55hJTLXtgaO454g) | [perception](https://open.spotify.com/album/4pMhm2IQ8ojjdvOPpaZA91) | 1:25 | 2022-05-20 | 2023-09-22 |

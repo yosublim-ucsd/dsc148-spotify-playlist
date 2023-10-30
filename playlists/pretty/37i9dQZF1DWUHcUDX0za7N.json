@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=HVlq4wOvRTOtVCoJDJtpKA\"> Blaqbonez </a>  ",
-  "num_followers": 29591,
+  "num_followers": 29660,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWQ1YjQ5Y2ZlMzE1ZDU5MzZhNWQ3ZDgyYzUzYWJmMDIzN2RmYjlj",
+  "snapshot_id": "MCw0YjI2MTkxZTJkNGVkOTZkNGQxMjUxOTdlZDYyMTAxNTJhYjk0NThj",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -303,22 +303,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Tequila Ever After",
-        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 163685,
-      "name": "Wrong Person (with ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -359,6 +355,26 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 163685,
+      "name": "Wrong Person (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 224000,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -579,66 +579,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Hustle",
-        "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
-      },
-      "artists": [
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 189038,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Kpe Paso",
-        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 177915,
-      "name": "Kpe Paso",
-      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -663,18 +603,62 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
+        "name": "Hustle",
+        "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
       },
       "artists": [
         {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
         }
       ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
+      "duration_ms": 189038,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Kpe Paso",
+        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 177915,
+      "name": "Kpe Paso",
+      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -695,6 +679,22 @@
       "duration_ms": 132173,
       "name": "PAPILO (Smadumodu)",
       "url": "https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -883,8 +883,8 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Commander",
-        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Commander",
-      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
+      "duration_ms": 103750,
+      "name": "SHINE FOREVER",
+      "url": "https://open.spotify.com/track/5GU7NV6PiTRmxWb0Q5D4eH"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1019,26 +1019,18 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Young Preacher",
-        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
+        "name": "Commander",
+        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
       },
       "artists": [
         {
           "name": "Blaqbonez",
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
         }
       ],
-      "duration_ms": 181250,
-      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
-      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
+      "duration_ms": 158400,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1215,6 +1207,34 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "ATSG, Vol. 1",
+        "url": "https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn"
+      },
+      "artists": [
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "Powpeezy",
+          "url": "https://open.spotify.com/artist/6x91G9xyfu0x9rFyUzk9Fv"
+        }
+      ],
+      "duration_ms": 155958,
+      "name": "Olu Maintain",
+      "url": "https://open.spotify.com/track/6Hc5qCdQekUa3ALn2KwsPc"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "STILL FIGURING LIFE",
         "url": "https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9"
       },
@@ -1359,34 +1379,6 @@
       "duration_ms": 249286,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/1Kk6brKxaBAhMIkmgIvMsN"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "ATSG, Vol. 1",
-        "url": "https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn"
-      },
-      "artists": [
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Dremo",
-          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
-        },
-        {
-          "name": "Powpeezy",
-          "url": "https://open.spotify.com/artist/6x91G9xyfu0x9rFyUzk9Fv"
-        }
-      ],
-      "duration_ms": 155958,
-      "name": "Olu Maintain",
-      "url": "https://open.spotify.com/track/6Hc5qCdQekUa3ALn2KwsPc"
     },
     {
       "added_at": "2023-10-27 00:01:00",

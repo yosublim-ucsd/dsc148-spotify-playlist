@@ -712,7 +712,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 171616,
       "name": "B'CUZ (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x"
@@ -3569,6 +3569,28 @@
     },
     {
       "album": {
+        "name": "Fuck Fame PT. 2 (feat. Lola Brooke)",
+        "url": "https://open.spotify.com/album/24VvrSk68HBYD1eHDG2IKa"
+      },
+      "artists": [
+        {
+          "name": "Skylar Blatt",
+          "url": "https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219973,
+      "name": "Fuck Fame PT. 2 (feat. Lola Brooke)",
+      "url": "https://open.spotify.com/track/5ocQrLeov9liXKoO5tjiEl"
+    },
+    {
+      "album": {
         "name": "Fuck My Cousin, Pt. II (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa"
       },
@@ -3825,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/7AkY91byYrxUdKHrK4PBdP"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154818,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/0Yn7YAYQVEtOZYJDhRN1Le"
+    },
+    {
+      "album": {
         "name": "Fighting Demons (Complete Edition)",
         "url": "https://open.spotify.com/album/0IQVwg2jMqKExCLTEyVvsL"
       },
@@ -3938,7 +3978,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 276986,
       "name": "GOMD (feat. Lil Uzi Vert) - Remix",
       "url": "https://open.spotify.com/track/1Df2S7GoD8PsOuLmDcenTY"
@@ -4255,6 +4295,28 @@
     },
     {
       "album": {
+        "name": "Gumbo Mix (with YTB Fatt)",
+        "url": "https://open.spotify.com/album/1SvmgqJLo2eoGAb2BeHeHR"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160969,
+      "name": "Gumbo Mix (with YTB Fatt)",
+      "url": "https://open.spotify.com/track/6Ir8jlNR8bBTg9tKIaSDhW"
+    },
+    {
+      "album": {
         "name": "2 Effortless",
         "url": "https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz"
       },
@@ -4430,7 +4492,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 166032,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur"
@@ -4892,7 +4954,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 189026,
       "name": "I'm Geekin (feat. NLE Choppa & BIA) - Remix",
       "url": "https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc"
@@ -4976,6 +5038,40 @@
       "duration_ms": 123750,
       "name": "Ice Cream (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi"
+    },
+    {
+      "album": {
+        "name": "MegaTron 2",
+        "url": "https://open.spotify.com/album/7zezk3hbEWlOooKBLuLJKp"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        },
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        },
+        {
+          "name": "Riff Raff",
+          "url": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181577,
+      "name": "Ice Cream (feat. YN Jay & Riff Raff)",
+      "url": "https://open.spotify.com/track/2aA3Xz6XKAo96jp03h4Zak"
     },
     {
       "album": {
@@ -5100,6 +5196,24 @@
       "duration_ms": 186609,
       "name": "If You Know You Know",
       "url": "https://open.spotify.com/track/73hjVsSxAk9ia713WUnF8v"
+    },
+    {
+      "album": {
+        "name": "ILL WHAT I BLEED",
+        "url": "https://open.spotify.com/album/13qwsJ7ZhrTSPJLN8nhBCH"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173440,
+      "name": "ILL WHAT I BLEED",
+      "url": "https://open.spotify.com/track/2k8JxnsUCkaxpE50KTGFHn"
     },
     {
       "album": {
@@ -6936,7 +7050,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 144000,
       "name": "Need Prescriptions (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn"
@@ -7278,7 +7392,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 193937,
       "name": "Off The Court (with Polo G & Einer Bankz)",
       "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
@@ -7488,7 +7602,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 179231,
       "name": "One Time",
       "url": "https://open.spotify.com/track/6JXJgBcTfcuiPAd0416sOB"
@@ -8389,6 +8503,24 @@
     },
     {
       "album": {
+        "name": "Pyrex Kids",
+        "url": "https://open.spotify.com/album/5IMPUqSOUvIOheYQbjOlTX"
+      },
+      "artists": [
+        {
+          "name": "Talibando",
+          "url": "https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Pyrex Kids",
+      "url": "https://open.spotify.com/track/4CWWxTamXXIUJByb9YbOa1"
+    },
+    {
+      "album": {
         "name": "2 Effortless",
         "url": "https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz"
       },
@@ -8886,6 +9018,24 @@
       "duration_ms": 144630,
       "name": "Robbery",
       "url": "https://open.spotify.com/track/4fHwoYTU9sy539FSX7fv1j"
+    },
+    {
+      "album": {
+        "name": "Robbery 6",
+        "url": "https://open.spotify.com/album/7nHTFeY1uy9B24cKkTSZ1X"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302769,
+      "name": "Robbery 6",
+      "url": "https://open.spotify.com/track/5O7HgH9F5jMLZWA3sMNsLj"
     },
     {
       "album": {
@@ -9554,7 +9704,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 157125,
       "name": "SkeeYee",
       "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
@@ -10440,7 +10590,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 210050,
       "name": "Talkin Crazy",
       "url": "https://open.spotify.com/track/0ypgbUTj2YsP1JO3etqq1b"
@@ -10768,6 +10918,24 @@
       "duration_ms": 96093,
       "name": "The Next",
       "url": "https://open.spotify.com/track/7hZfOP3gtRWagxuSwNG7du"
+    },
+    {
+      "album": {
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/3Iqca530onnDoofMp0goL6"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204250,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/4b9gu3ChsEGAnle4WIqxqo"
     },
     {
       "album": {
@@ -11463,6 +11631,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/5HIRici1ACIeMmwr9CU79h"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135173,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5vPUHGrfbCQjTUmlr8JMIN"
+    },
+    {
+      "album": {
         "name": "WAY I WALK",
         "url": "https://open.spotify.com/album/5Sc7471agIN9TTuDl2XEpn"
       },
@@ -11848,6 +12034,24 @@
       "duration_ms": 151099,
       "name": "Wicked Inna RaQ 2 (with G Herbo)",
       "url": "https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0"
+    },
+    {
+      "album": {
+        "name": "Wicked Romance",
+        "url": "https://open.spotify.com/album/716Q4Y6tGbCOX0mg3eKw0Z"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Wicked Romance",
+      "url": "https://open.spotify.com/track/35uuAlEbvARgXm4lULDyUy"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1980s.",
-  "num_followers": 86585,
+  "num_followers": 86630,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGE3NWI2MTY2ZTE4YTQ1OWQxNmM2ZDM0MGNkZDY2ZTBmNDZmYmZi",
+  "snapshot_id": "MCw1NmFjZjVhYzUyNzk4NGJkZjkxNTc4MzU2NzhhMzE1YmE4MDVhYjU2",
   "tracks": [
     {
       "added_at": "2023-01-18 20:42:10",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
         }
       ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+      "duration_ms": 263040,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
       "artists": [
         {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 263040,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Songs From The Big Chair",
-        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 302120,
-      "name": "Head Over Heels / Broken",
-      "url": "https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Theatre Of Pain (Deluxe Version)",
         "url": "https://open.spotify.com/album/317PMJr7FxxDrsjJWydYVb"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 208400,
       "name": "Smokin' In The Boys Room",
       "url": "https://open.spotify.com/track/2gvgvbokPJZ7Uw5u2m5LeP"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 302120,
+      "name": "Head Over Heels / Broken",
+      "url": "https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Above The Clouds - The Collection (Deluxe)",
-        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
-      "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Brothers in Arms",
         "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
       },
@@ -751,34 +735,34 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+        "name": "Above The Clouds - The Collection (Deluxe)",
+        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
         }
       ],
-      "duration_ms": 265693,
-      "name": "Rag Doll",
-      "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
+      "duration_ms": 227800,
+      "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
+      "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
     },
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Pyromania (Deluxe)",
-        "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
+        "name": "Piece of Mind (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 247828,
-      "name": "Rock Of Ages",
-      "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -799,18 +783,34 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Piece of Mind (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
+        "name": "Pyromania (Deluxe)",
+        "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 252733,
-      "name": "The Trooper - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
+      "duration_ms": 247828,
+      "name": "Rock Of Ages",
+      "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 265693,
+      "name": "Rag Doll",
+      "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 308906,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Sonic Temple",
         "url": "https://open.spotify.com/album/1mq4iXRVf8lo5kAkeMa9aV"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 307960,
       "name": "Fire Woman",
       "url": "https://open.spotify.com/track/2rbcCco3PrSyMinVJdh61J"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 308906,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Cuts Like A Knife",
-        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 319800,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 218840,
       "name": "Big Love",
       "url": "https://open.spotify.com/track/1cWilR7SC3qyfl6emCvYf0"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 319800,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "OU812",
-        "url": "https://open.spotify.com/album/3KufjKt0L2EVahGfxOYJhg"
+        "name": "Hi Infidelity (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
         }
       ],
-      "duration_ms": 337906,
-      "name": "When It's Love",
-      "url": "https://open.spotify.com/track/7gG1RvwQRrofiL3tvq8pBI"
+      "duration_ms": 225106,
+      "name": "Don't Let Him Go",
+      "url": "https://open.spotify.com/track/6UxGF7LGJ5qE0LJViSTsA2"
     }
   ],
   "unique_name": "80s Summer Rock",

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 55724,
+  "num_followers": 55795,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2",
+  "snapshot_id": "MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Field Recordings",
-        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 468927,
-      "name": "Tracking Aeroplanes",
-      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Morning Sun, Rising Tide",
         "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 236466,
       "name": "Oh What a Father",
       "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Field Recordings",
+        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
+      },
+      "artists": [
+        {
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+        }
+      ],
+      "duration_ms": 468927,
+      "name": "Tracking Aeroplanes",
+      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Albatross EP",
-        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
-      },
-      "artists": [
-        {
-          "name": "Port Blue",
-          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
-        }
-      ],
-      "duration_ms": 142173,
-      "name": "Into The Sea",
-      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 208000,
       "name": "The Invitation",
       "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Albatross EP",
+        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
+      },
+      "artists": [
+        {
+          "name": "Port Blue",
+          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Into The Sea",
+      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Nineveh (Live)",
-        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 268347,
-      "name": "Nineveh - Live",
-      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 172000,
       "name": "wearing thin (alt. version)",
       "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Nineveh (Live)",
+        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 268347,
+      "name": "Nineveh - Live",
+      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
-      },
-      "artists": [
-        {
-          "name": "Audrey Marie",
-          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "an ep of some songs u can read ur bible + journal to",
         "url": "https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 241442,
       "name": "kindling.mp3",
       "url": "https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
+      },
+      "artists": [
+        {
+          "name": "Audrey Marie",
+          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
-      },
-      "artists": [
-        {
-          "name": "Radiant City Music",
-          "url": "https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk"
-        },
-        {
-          "name": "Devin Strasser",
-          "url": "https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI"
-        }
-      ],
-      "duration_ms": 338504,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Glorious Ruins",
         "url": "https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7"
       },
@@ -1251,18 +1231,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Survive These Seas",
-        "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
       },
       "artists": [
         {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+          "name": "Radiant City Music",
+          "url": "https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk"
+        },
+        {
+          "name": "Devin Strasser",
+          "url": "https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Survive These Seas",
-      "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
+      "duration_ms": 338504,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1287,6 +1271,22 @@
       "duration_ms": 352318,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Survive These Seas",
+        "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Survive These Seas",
+      "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Higher Ways",
-        "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
-      },
-      "artists": [
-        {
-          "name": "Olu Meduoye",
-          "url": "https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0"
-        }
-      ],
-      "duration_ms": 333750,
-      "name": "Higher Ways",
-      "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Rekindle",
         "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 327186,
       "name": "Spoken",
       "url": "https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Higher Ways",
+        "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
+      },
+      "artists": [
+        {
+          "name": "Olu Meduoye",
+          "url": "https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0"
+        }
+      ],
+      "duration_ms": 333750,
+      "name": "Higher Ways",
+      "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
     },
     {
       "added_at": "2023-07-28 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "El sonido experimental del Caribe \ud83c\udf34\ud83e\udd80\u269b\ufe0f",
-  "num_followers": 415,
+  "num_followers": 417,
   "original_name": "Caribe At\u00f3mico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjRjNTYyYTU5ZGYwNzRjNGU3MDQ0MGM0Njc5NjFjZjViYTljODAy",
+  "snapshot_id": "MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi",
   "tracks": [
     {
       "added_at": "2023-10-13 15:25:21",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
     },
     {
-      "added_at": "2023-10-13 15:25:21",
-      "album": {
-        "name": "Caribbean All-Inclusive Luxury",
-        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
-      },
-      "artists": [
-        {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
-        }
-      ],
-      "duration_ms": 242961,
-      "name": "Boca Chica",
-      "url": "https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3"
-    },
-    {
       "added_at": "2022-08-13 03:00:56",
       "album": {
         "name": "Ven Vamos",
@@ -387,6 +371,22 @@
       "duration_ms": 203265,
       "name": "Ven Vamos",
       "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
+    },
+    {
+      "added_at": "2023-10-13 15:25:21",
+      "album": {
+        "name": "Caribbean All-Inclusive Luxury",
+        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "duration_ms": 242961,
+      "name": "Boca Chica",
+      "url": "https://open.spotify.com/track/5tOWbNhSeeV4uvD7HejJB3"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -443,38 +443,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp"
-      },
-      "artists": [
-        {
-          "name": "La Dame Blanche",
-          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
-        }
-      ],
-      "duration_ms": 152639,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 187430,
-      "name": "\u00d1e \u00d1e \u00d1\u00e9",
-      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "La N\u00famero Uno",
         "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
       },
@@ -487,6 +455,42 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 323916,
+      "name": "D\u00e9jame Decirte (feat. Eddie Palmieri)",
+      "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp"
+      },
+      "artists": [
+        {
+          "name": "La Dame Blanche",
+          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
+        }
+      ],
+      "duration_ms": 152639,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -598,15 +602,11 @@
         {
           "name": "iLe",
           "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 323916,
-      "name": "D\u00e9jame Decirte (feat. Eddie Palmieri)",
-      "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
+      "duration_ms": 187430,
+      "name": "\u00d1e \u00d1e \u00d1\u00e9",
+      "url": "https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -799,22 +799,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Nice & Easy",
-        "url": "https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk"
+        "name": "No le de t\u00f3",
+        "url": "https://open.spotify.com/album/4F1aR4ERzltYUOOnoU7T0r"
       },
       "artists": [
         {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
-        },
-        {
-          "name": "Gomba Jahbari",
-          "url": "https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c"
+          "name": "NIKOLA",
+          "url": "https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk"
         }
       ],
-      "duration_ms": 216590,
-      "name": "Nice & Easy",
-      "url": "https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt"
+      "duration_ms": 264867,
+      "name": "No le de t\u00f3",
+      "url": "https://open.spotify.com/track/46gUBj8C01B7vWo7cpU9OQ"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -839,18 +835,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "No le de t\u00f3",
-        "url": "https://open.spotify.com/album/4F1aR4ERzltYUOOnoU7T0r"
+        "name": "Nice & Easy",
+        "url": "https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk"
       },
       "artists": [
         {
-          "name": "NIKOLA",
-          "url": "https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk"
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        },
+        {
+          "name": "Gomba Jahbari",
+          "url": "https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c"
         }
       ],
-      "duration_ms": 264867,
-      "name": "No le de t\u00f3",
-      "url": "https://open.spotify.com/track/46gUBj8C01B7vWo7cpU9OQ"
+      "duration_ms": 216590,
+      "name": "Nice & Easy",
+      "url": "https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt"
     },
     {
       "added_at": "2023-10-13 15:27:10",

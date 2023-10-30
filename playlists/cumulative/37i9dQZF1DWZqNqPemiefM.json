@@ -3851,6 +3851,24 @@
     },
     {
       "album": {
+        "name": "Leaving",
+        "url": "https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223538,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y"
+    },
+    {
+      "album": {
         "name": "Une Collection Des Chainons II",
         "url": "https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk"
       },
@@ -5221,6 +5239,28 @@
     },
     {
       "album": {
+        "name": "Revise",
+        "url": "https://open.spotify.com/album/6lnT4LoKtSoAL5lVfTqpOY"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        },
+        {
+          "name": "Rebelski",
+          "url": "https://open.spotify.com/artist/18zTVJ6fMHo39oGuHINfOX"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295505,
+      "name": "Past From - Rebelski Remix",
+      "url": "https://open.spotify.com/track/1pGAxg8f3DBIcXbJE7EvZJ"
+    },
+    {
+      "album": {
         "name": "Past From (Rebelski Remix)",
         "url": "https://open.spotify.com/album/6YidGPbvQ6iC6LJx3XFIQK"
       },
@@ -5236,7 +5276,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 295505,
       "name": "Past From - Rebelski Remix",
       "url": "https://open.spotify.com/track/3pCjv2qXqPpiCttub0jk32"
@@ -6876,7 +6916,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"

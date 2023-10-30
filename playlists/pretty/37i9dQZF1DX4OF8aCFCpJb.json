@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68333,
+  "num_followers": 68338,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODI4MTg1MWFmYWQwNjEzZTY5ZDFiNDJlY2I0YWMyYTVkZmIzOWRh",
+  "snapshot_id": "MCxkMGZlODBiYWM0ZGY5YjQ5N2JkZTZkN2NjOTEzYmVjZDYxNGZhM2Mz",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -463,22 +463,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Mera tid",
-        "url": "https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R"
+        "name": "D\u00f6md att bli bed\u00f6md",
+        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
       },
       "artists": [
         {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "Linda Pira",
-          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Mera tid",
-      "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
+      "duration_ms": 188773,
+      "name": "Gillar din vibe",
+      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -515,18 +511,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "D\u00f6md att bli bed\u00f6md",
-        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
+        "name": "Mera tid",
+        "url": "https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R"
       },
       "artists": [
         {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Linda Pira",
+          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
         }
       ],
-      "duration_ms": 188773,
-      "name": "Gillar din vibe",
-      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
+      "duration_ms": 189600,
+      "name": "Mera tid",
+      "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -631,6 +631,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Mellan Raderna",
+        "url": "https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        },
+        {
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Full fokus",
+      "url": "https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Slutpl\u00e4deringen",
         "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
       },
@@ -655,22 +675,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "H\u00f6g standard",
-        "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
-      },
-      "artists": [
-        {
-          "name": "Peps Blodsband",
-          "url": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "H\u00f6g standard",
-      "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Folkets R\u00f6st",
         "url": "https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw"
       },
@@ -691,22 +695,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Mellan Raderna",
-        "url": "https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE"
+        "name": "H\u00f6g standard",
+        "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
       },
       "artists": [
         {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        },
-        {
-          "name": "AKI",
-          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+          "name": "Peps Blodsband",
+          "url": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
         }
       ],
-      "duration_ms": 191120,
-      "name": "Full fokus",
-      "url": "https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb"
+      "duration_ms": 316000,
+      "name": "H\u00f6g standard",
+      "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
     },
     {
       "added_at": "2023-10-12 22:00:00",

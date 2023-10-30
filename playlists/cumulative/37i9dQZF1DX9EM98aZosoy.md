@@ -4,7 +4,7 @@
 
 > Feiern mit den größten aktuellen Partyhits.
 
-153 songs - 7 hr 5 min
+154 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [KISSENSCHLACHT](https://open.spotify.com/track/5s1EwpwmgQJ8Ti3ltrJdO8) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [KIDS WITH ATTITUDE](https://open.spotify.com/album/54cTUMcICp6BAEk5G49m3z) | 2:51 | 2023-01-05 | 2023-03-16 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-13 |  |
 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 | 2022-10-28 | 2023-01-25 |
-| [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB) | 3:08 | 2023-08-16 |  |
+| [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/2FiJGvN3fiXMwms9IftNV0) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:08 | 2023-10-18 |  |
+| [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp) | [LiEBE AUF DER RÜCKBANK](https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB) | 3:08 | 2023-08-16 | 2023-10-30 |
 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 | 2022-10-28 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-06-30 |  |
 | [Love Don't Cost A Thing](https://open.spotify.com/track/2dP9DdoQDEQu0HywlzoO2Q) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Talya](https://open.spotify.com/artist/1CBkh1iBPBMTaFfZAR8a7N) | [Love Don't Cost A Thing](https://open.spotify.com/album/2rysE1fBLardPfPbRqO7ks) | 2:18 | 2023-06-21 | 2023-07-01 |

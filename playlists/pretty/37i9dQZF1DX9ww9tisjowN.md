@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,963 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,347 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [インヒューマンエンパシー](https://open.spotify.com/track/6ite4gtP02Vfb8NvXxlI1Q) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [永遠市](https://open.spotify.com/album/5STqcXt9yxV4dpDCTB2D62) | 4:50 |
 | 75 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 |
 
-Snapshot ID: `MCw5YjYzNWJjYWU4YTY5MGU3YTYyZWFlNWM0MTg4MjQ1MTYwZWRmNTI2`
+Snapshot ID: `MCwzYTcwNzNmMTkzMzIzNzVhOTk2MjVhZTY3MjQ1Mzc3NTQwMzY0ODBh`

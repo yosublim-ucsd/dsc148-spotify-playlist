@@ -1,12 +1,12 @@
 {
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
-  "num_followers": 4737,
+  "num_followers": 4746,
   "original_name": "canciones para ver atardeceres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTVmMTFhZGE4MzQ5MDZhZmRiMzU5YWYzNzFkZDU5ZjlkMWVjNDE5",
+  "snapshot_id": "MCw2ZTUzYWRkZTAzM2E0NmM1MGVlMGIzOWIzMjRiYzAyMWYwM2NiZmE3",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "ECOS",
-        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Llama Gemela",
         "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 207089,
       "name": "Llama Gemela",
       "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "ECOS",
+        "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "C\u00e1mara Lenta",
+        "url": "https://open.spotify.com/album/02Dl37emVo6TB4mO7UOU2Z"
+      },
+      "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 204897,
+      "name": "C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/4brctVrw130rY1DS3j0mZC"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Tu Forma",
         "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
       },
@@ -611,22 +631,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "C\u00e1mara Lenta",
-        "url": "https://open.spotify.com/album/02Dl37emVo6TB4mO7UOU2Z"
+        "name": "Corolla 94",
+        "url": "https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN"
       },
       "artists": [
         {
-          "name": "Depresi\u00f3n Sonora",
-          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 204897,
-      "name": "C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/4brctVrw130rY1DS3j0mZC"
+      "duration_ms": 201176,
+      "name": "Corolla 94",
+      "url": "https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -643,22 +659,6 @@
       "duration_ms": 192416,
       "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Corolla 94",
-        "url": "https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Corolla 94",
-      "url": "https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "El Rayo Vallecano",
-        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 170864,
-      "name": "El Rayo Vallecano",
-      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Sentimiento",
         "url": "https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 172666,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "El Rayo Vallecano",
+        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 170864,
+      "name": "El Rayo Vallecano",
+      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Gran Turismo",
-        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Adolescente",
-      "url": "https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Todo Va a Estar Bien",
         "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 195500,
       "name": "Todo Va a Estar Bien",
       "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Gran Turismo",
+        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Adolescente",
+      "url": "https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "El Ding Dong",
-        "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
       },
       "artists": [
         {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         }
       ],
-      "duration_ms": 159829,
-      "name": "El Ding Dong",
-      "url": "https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI"
+      "duration_ms": 183960,
+      "name": "dejarse querer",
+      "url": "https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa"
     }
   ],
   "unique_name": "canciones para ver atardeceres",

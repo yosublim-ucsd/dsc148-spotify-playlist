@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 272000,
+  "num_followers": 272145,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjAxYzcwNjUwMWZiYTQzNWRmOGI2NmI5ZTAyNjg0MGZiMzY3YTM2",
+  "snapshot_id": "MCw0NTQ2OTBjNTg3MWVmZTlkMDc3ZjI3ODhmNWEyNDc5YjQ4ZDAzNzEx",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Who's Lovin' You",
-      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "How Sweet It Is To Be Loved By You",
         "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 184893,
       "name": "Green Green Grass Of Home",
       "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Who's Lovin' You",
+      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Spanish Harlem",
-        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Voice of Scott McKenzie (Expanded Edition)",
         "url": "https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 178933,
       "name": "San Francisco (Be Sure to Wear Some Flowers In Your Hair)",
       "url": "https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 168093,
-      "name": "Blue Velvet",
-      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 138533,
       "name": "Ain't Nothing Like The Real Thing",
       "url": "https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Chronology",
-        "url": "https://open.spotify.com/album/5LUcaJu2OGKCCABM4kgSMj"
-      },
-      "artists": [
-        {
-          "name": "Brian Hyland",
-          "url": "https://open.spotify.com/artist/6YROFUbu5zRCHi2xkir5pk"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Sealed With A Kiss",
-      "url": "https://open.spotify.com/track/6oM4ryXpuZmbFfBv2sEe7v"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 178466,
       "name": "Trust In Me",
       "url": "https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/5LUcaJu2OGKCCABM4kgSMj"
+      },
+      "artists": [
+        {
+          "name": "Brian Hyland",
+          "url": "https://open.spotify.com/artist/6YROFUbu5zRCHi2xkir5pk"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Sealed With A Kiss",
+      "url": "https://open.spotify.com/track/6oM4ryXpuZmbFfBv2sEe7v"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Horizontal (Deluxe Version)",
         "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 146906,
       "name": "Massachusetts - Stereo Version",
       "url": "https://open.spotify.com/track/3o7k5Mcdi0PFAXICTqjxra"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
     },
     {
       "added_at": "2022-05-30 13:00:37",

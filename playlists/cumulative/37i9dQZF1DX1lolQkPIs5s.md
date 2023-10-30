@@ -4,7 +4,7 @@
 
 > ディズニーの人気曲を集めた公式プレイリスト♪ディズニー映画最新作『ウィッシュ』の最新楽曲から、『リトル・マーメイド』『アナと雪の女王』『アラジン』等の名曲、パークの大人気楽曲までセレクト！
 
-155 songs - 8 hr 21 min
+157 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Think of Mickey Mouse](https://open.spotify.com/track/5jC1oRgGWIWjhX3uAg7rzc) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7), [Daisy Duck](https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB), [Donald Duck](https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU) | [The MousePack – Mickey and Friends Singing Classic Standards](https://open.spotify.com/album/7gPVGHm0w6sQWtCIAOmDgw) | 2:59 | 2022-12-28 |  |
 | [This Is The Thanks I Get?! \- From "Wish"](https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx) | [Chris Pine](https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Is The Thanks I Get?! \(From "Wish"\)](https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL) | 3:14 | 2023-10-24 |  |
 | [This Wish \- From "Wish"](https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9) | 3:25 | 2023-10-19 |  |
+| [This Wish \- From "Wish"](https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv) | 3:25 | 2023-10-29 |  |
 | [True Love's Kiss \- Japanese Version](https://open.spotify.com/track/2bgG6ty4aQPvYkEI1ss6G2) | [MC Kids](https://open.spotify.com/artist/6qZx6jUsXqawxvqDYcBBU8), [Music Creation](https://open.spotify.com/artist/26KfNrVfEweHZlOwHzKGq2), [Satoko Kimura](https://open.spotify.com/artist/0ZdqCr4L1IqAH7Oys3QfpN), [Sohsuke Komori](https://open.spotify.com/artist/6jIkSbDsaa2JdgPVaV448F), [Hiroshi Hatanaka](https://open.spotify.com/artist/2lsQq6qbk4eh3WyteNu529), [Froebel Shonen Gasshoudan](https://open.spotify.com/artist/1nxN9k9fQjgkRi68q3t1yS) | [Enchanted \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/0RhNiFVXaeFxFfYXc7kT3n) | 3:12 | 2022-12-28 |  |
 | [Try Everything \- Japan Version](https://open.spotify.com/track/5xxnw2k7QLSwL0mrGV1TaX) | [Dream Ami](https://open.spotify.com/artist/6Oeb6i0acXNe1Q1MqqfkPX) | [Zootopia \(Original Motion Picture Soundtrack / Japanese version\)](https://open.spotify.com/album/0gj5STwLy0dZ0cGFJb8Fht) | 3:17 | 2022-12-28 |  |
 | [Two Oruguitas](https://open.spotify.com/track/1sEaewPCEzD98sy2cdD8eA) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [Encanto \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT) | 3:34 | 2022-12-28 |  |
@@ -163,5 +164,6 @@
 | [Zero to Hero \- Japanese Version](https://open.spotify.com/track/1pIynPOpqprpV4WguxHFIy) | [Atsuko Takezawa](https://open.spotify.com/artist/2KVTrDvZkFSOl6M1oYrKQk), [Erika Shiraishi](https://open.spotify.com/artist/1euCVeKI4NelbAlR8b3OFY), [Hozumi Shibata](https://open.spotify.com/artist/06vefHJeIRX6MyiSAN1HRI), [Mayumi Makino](https://open.spotify.com/artist/1zBroaNdRSeOVZSsVFFO2K), [Yukari Fujii](https://open.spotify.com/artist/6B3McgP0XC4PItUSOnMbuJ) | [Hercules \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/7EmZAi08IILcveityNOOg7) | 2:18 | 2022-12-28 |  |
 | [タイム・トゥ・シャイン! \- 東京ディズニーシー20周年:タイム・トゥ・シャイン!テーマソング](https://open.spotify.com/track/4eyqMs4aOzKQTKs7iGJD8Y) | [Tokyo DisneySea](https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV) | [タイム・トゥ・シャイン! \(東京ディズニーシー20周年:タイム・トゥ・シャイン!テーマソング\)](https://open.spotify.com/album/7se4Oq7PqvUJk24q3GFACl) | 3:21 | 2022-12-28 |  |
 | [レット・イット・ゴー～ありのままで～ \- Japanese Version](https://open.spotify.com/track/3uQWsXVaSbY6938V3tJQh3) | [Takako Matsu](https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz) | [Let It Go The Complete Set \(From “Frozen”\)](https://open.spotify.com/album/7q2jd3qhtvWlV6H22h2AGe) | 3:43 | 2022-12-28 |  |
+| [映画『ウィッシュ』 アーシャ役（日本版声優）生田絵梨花 コメント](https://open.spotify.com/track/2yp1HUTF9fcv3ReIWr2KmP) | [映画『ウィッシュ』](https://open.spotify.com/artist/3k7F0Acqg8IeqpZvlQlrHX) | [映画『ウィッシュ』 アーシャ役（日本版声優）生田絵梨花 コメント](https://open.spotify.com/album/5xNHDQYEiG51CQ23P0nXr7) | 0:49 | 2023-10-29 |  |
 
 \*This playlist was first scraped on 2023-02-01. Prior content cannot be recovered.

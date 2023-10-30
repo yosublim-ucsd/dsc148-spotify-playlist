@@ -2,7 +2,7 @@
 
 ### [Chilled Jazz](https://open.spotify.com/playlist/37i9dQZF1DX2vYju3i0lNX)
 
-> Mellow jazz to stay focused or unwind.
+> Jazz suave para mantener la concentración o relajarte.
 
 740 songs - 1 day 19 hr 41 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dj Black Spygo, Djodje and Chelsea Dinorath.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,782 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,847 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 52 | [Preparado](https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Klasszik](https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD) | [Preparado](https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf) | 4:39 |
 | 53 | [Vais Me Perder](https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Vais Me Perder](https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx) | 3:41 |
 | 54 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
-| 55 | [Já Te Conheço \(feat\. Bruna Tatiana\) \- Remix](https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Bruna Tatiana](https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H) | [Já Te Conheço \(feat\. Bruna Tatiana\) \[Remix\]](https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n) | 3:57 |
-| 56 | [Safadeza](https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Safadeza](https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB) | 3:09 |
+| 55 | [Safadeza](https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Safadeza](https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB) | 3:09 |
+| 56 | [Já Te Conheço \(feat\. Bruna Tatiana\) \- Remix](https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Bruna Tatiana](https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H) | [Já Te Conheço \(feat\. Bruna Tatiana\) \[Remix\]](https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n) | 3:57 |
 | 57 | [Monarquia](https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Mylson](https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y) | [Monarquia](https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2) | 3:22 |
 | 58 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 |
 | 59 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 61 | [Tudo de Novo](https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Tudo de Novo](https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz) | 4:19 |
 | 62 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
 | 63 | [Mad Love](https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mad Love](https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ) | 3:12 |
-| 64 | [Cuiar Assim](https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Arieth Feijó](https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA) | [Cuiar Assim](https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM) | 3:50 |
-| 65 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 |
+| 64 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 |
+| 65 | [Cuiar Assim](https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Arieth Feijó](https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA) | [Cuiar Assim](https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM) | 3:50 |
 | 66 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 |
 | 67 | [Momentos](https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Momentos](https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B) | 3:30 |
 | 68 | [Boda](https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj), [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G) | [Boda](https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 99 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 |
 | 100 | [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 |
 
-Snapshot ID: `MCw2NjYzNzRhN2RhMTRjNGMxN2E1OGRlYmRlMzk3NzZhYmM4OTEyMmQz`
+Snapshot ID: `MCwyZGEzMGIyYjFmNDk4ZTlhYWQzMWMxNzc4MWU5YjZiYjVkMjg1NmQ3`

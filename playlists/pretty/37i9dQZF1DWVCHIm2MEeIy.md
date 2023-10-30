@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,140 likes - 70 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,232 likes - 70 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 14 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 |
 | 15 | [Yumi](https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Yumi EP](https://open.spotify.com/album/5LVl6B5iv7BNR4h01jWlJj) | 6:21 |
 | 16 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 |
-| 17 | [Starchaser](https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Starchaser](https://open.spotify.com/album/5hWKdvx2iIO3qOeQiWiehL) | 4:14 |
-| 18 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 |
+| 17 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 |
+| 18 | [Starchaser](https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Starchaser](https://open.spotify.com/album/5hWKdvx2iIO3qOeQiWiehL) | 4:14 |
 | 19 | [Si Soy Fuego](https://open.spotify.com/track/6oa8rEFHMIrYpHh3AmsaMa) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Si Soy Fuego](https://open.spotify.com/album/4kqAFegAsBLlAr9mWWOqOE) | 5:20 |
 | 20 | [Set My Mind Free](https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Set My Mind Free](https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO) | 3:00 |
 | 21 | [Caprice](https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Caprice](https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R) | 3:50 |
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 43 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
 | 44 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 |
 | 45 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
-| 46 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 |
-| 47 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
+| 46 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
+| 47 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 |
 | 48 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 |
 | 49 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 |
 | 50 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 |
 | 51 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
 | 52 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 |
 | 53 | [Vodka & Orange](https://open.spotify.com/track/3xv8dKKfN1WjhGnsFhn9TC) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Vodka & Orange EP](https://open.spotify.com/album/0DzRyBfMWMQZa1AtsF7PY0) | 7:19 |
-| 54 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
-| 55 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
+| 54 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
+| 55 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
 | 56 | [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 |
 | 57 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
 | 58 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [The Gates Of Babylonia](https://open.spotify.com/track/4JaCQuCXKEMo3jVDql5pqY) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [The Gates Of Babylonia](https://open.spotify.com/album/1WWuZ6jS4s45506fTQll3h) | 6:29 |
 | 70 | [Go \- Anfisa Letyago Remix](https://open.spotify.com/track/6UFcxC1P9Dr5q9vYjGT5A7) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Go \(Anfisa Letyago Remix\)](https://open.spotify.com/album/3iHg6AnbZx5YM2Q2cXWno3) | 5:38 |
 
-Snapshot ID: `MCxjNTA4ZTJjNDM3MDI3MGQyNDk0MGE1NmZlYTBjMWM5MDE5ODhhNjNk`
+Snapshot ID: `MCw4NjkyNGIxZTUxOTYzYzNkYWM5MmRlNWRhYjVjNDRjMjAxY2ZkYWQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Chayanne
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,575 likes - 202 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,610 likes - 202 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,8 +190,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 180 | [Camino a Neptuno](https://open.spotify.com/track/5xBCigex5TpSjOlHcuBzmv) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [CÓDIGOS](https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe) | 2:50 |
 | 181 | [Como Era Antes](https://open.spotify.com/track/6zNYKyc4fCXpa1afWupnSE) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [WE$T DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq) | [CÓDIGOS](https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe) | 3:14 |
 | 182 | [COSTA RICA](https://open.spotify.com/track/0RdzTYVtews6ssYQK782Jf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 3:46 |
-| 183 | [DOS PRIMAVERAS](https://open.spotify.com/track/2pcclsBymXTtQ1j8lMK3Aj) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 2:55 |
-| 184 | [MENEITO](https://open.spotify.com/track/5yDfF1BfIkPb0o4j3EL1Ha) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 3:18 |
+| 183 | [DOS PRIMAVERAS](https://open.spotify.com/track/0gltYhk3XykdEGLstAKXD0) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 2:55 |
+| 184 | [MENEITO](https://open.spotify.com/track/5S9Rlg9AF2C2imYS52J2vR) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:18 |
 | 185 | [KYLIE](https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:00 |
 | 186 | [EL MAR](https://open.spotify.com/track/4vMkJrF4sWijILPyBYsMrJ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [CRISMOLAVISION](https://open.spotify.com/artist/71HXixL2Y1cpqt7QaaTHfM) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:36 |
 | 187 | [LUNA AZUL EN TOKYO](https://open.spotify.com/track/08vNqL9YzqkeCC6O2mbytK) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:37 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [Adolescente](https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 5:00 |
 | 202 | [Como Si](https://open.spotify.com/track/6pyP7RMJNTu4HHH4n3hXmT) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:28 |
 
-Snapshot ID: `MCw0NzU2YmFmNTFkNTVjYjIzNWMwNDRjMTA2MDBmMWVhMjc2OGRiOTVl`
+Snapshot ID: `MCw4ZmIxMTQxYzE0OTIzYWRjZjRhYjliMDU2ZWJhMDAwZWNhZjEzYTgw`

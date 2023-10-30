@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Remembering Charlie Robison.",
-  "num_followers": 243433,
+  "num_followers": 243491,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTk3MDhiOTc4ZTFiNDNlMjNhMDhlMzU3N2Q1OGU3YmJhM2VlMDFm",
+  "snapshot_id": "MCxkM2E1NGJjNGM3OGMyMmNiNzgyYjEzMzNiMGMxYzc1NDFjODg3ZjY1",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Geronimo",
-        "url": "https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 257413,
-      "name": "All I See Is You",
-      "url": "https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q"
+      "duration_ms": 204352,
+      "name": "Something to Talk About",
+      "url": "https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+        "name": "Geronimo",
+        "url": "https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
         }
       ],
-      "duration_ms": 204352,
-      "name": "Something to Talk About",
-      "url": "https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC"
+      "duration_ms": 257413,
+      "name": "All I See Is You",
+      "url": "https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Ain't Nothin' to It",
         "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
@@ -655,6 +671,38 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 233685,
+      "name": "February 28, 2016",
+      "url": "https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Diamonds & Gasoline",
+        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Diamonds & Gasoline",
+      "url": "https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "The Panhandlers",
         "url": "https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R"
       },
@@ -683,38 +731,6 @@
       "duration_ms": 188610,
       "name": "West Texas in My Eye",
       "url": "https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Diamonds & Gasoline",
-        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Diamonds & Gasoline",
-      "url": "https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -751,6 +767,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 223062,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "I Believe In You",
         "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
       },
@@ -763,38 +799,6 @@
       "duration_ms": 246440,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 233685,
-      "name": "February 28, 2016",
-      "url": "https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Humble Folks",
-        "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "One I Want",
-      "url": "https://open.spotify.com/track/0EYBK3ZxxO8VlN5cJ9MiYN"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -815,18 +819,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Randy Rogers Band",
-        "url": "https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup"
+        "name": "Humble Folks",
+        "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
       },
       "artists": [
         {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 318666,
-      "name": "In My Arms Instead",
-      "url": "https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO"
+      "duration_ms": 231146,
+      "name": "One I Want",
+      "url": "https://open.spotify.com/track/0EYBK3ZxxO8VlN5cJ9MiYN"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -847,6 +851,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Randy Rogers Band",
+        "url": "https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "In My Arms Instead",
+      "url": "https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Blink You'll Miss It",
         "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 212819,
       "name": "Damn Good Goodbye",
       "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 223062,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Snake Farm",
-        "url": "https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Snake Farm",
-      "url": "https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Austin",
         "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 274716,
       "name": "Austin",
       "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Snake Farm",
+        "url": "https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Snake Farm",
+      "url": "https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Cold Hard Truth",
+        "url": "https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Front Row Seat",
         "url": "https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 223451,
       "name": "Wasn't That Drunk (feat. Carly Pearce)",
       "url": "https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Cold Hard Truth",
-        "url": "https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Choices",
-      "url": "https://open.spotify.com/track/7ottDUMz3VomUN2Ln9FWdI"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 239763,
+      "name": "The Highway Kind",
+      "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Cross Canadian Ragweed",
         "url": "https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 157053,
       "name": "Shotgun Willie",
       "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 239763,
-      "name": "The Highway Kind",
-      "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Marfa Lights",
-        "url": "https://open.spotify.com/album/24NOQ09OAx540cYX976EEo"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Marfa Lights",
-      "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 270800,
       "name": "Sunday Mornin' Comin' Down",
       "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Marfa Lights",
+        "url": "https://open.spotify.com/album/24NOQ09OAx540cYX976EEo"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Marfa Lights",
+      "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
     },
     {
       "added_at": "2023-10-13 04:01:00",

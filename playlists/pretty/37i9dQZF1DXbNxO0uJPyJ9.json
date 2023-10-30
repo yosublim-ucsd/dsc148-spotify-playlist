@@ -1,12 +1,12 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 657510,
+  "num_followers": 658009,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGQ1MTkxMDlkMTczMGIyNzcwZTc0NjM2MGI1YWNhNzI3NGNmNjcw",
+  "snapshot_id": "MCxhMjg4NGIyNDg0NjE1YmZiOWJhY2VmYmRmYzNlYjUxMjdkMGEzYzk0",
   "tracks": [
     {
       "added_at": "2022-12-23 14:03:48",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
+    },
+    {
+      "added_at": "2022-12-23 14:03:48",
+      "album": {
         "name": "Stella (Remastered 2005)",
         "url": "https://open.spotify.com/album/3Df3vYTyJKTZobnCvNUNMC"
       },
@@ -459,18 +475,18 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+        "name": "Hot Girls, Bad Boys",
+        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
       },
       "artists": [
         {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+          "name": "Bad Boys Blue",
+          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
         }
       ],
-      "duration_ms": 346800,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
+      "duration_ms": 346506,
+      "name": "Pretty Young Girl",
+      "url": "https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -507,22 +523,6 @@
       "duration_ms": 281813,
       "name": "Bakerman",
       "url": "https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n"
-    },
-    {
-      "added_at": "2022-12-23 14:03:48",
-      "album": {
-        "name": "Hot Girls, Bad Boys",
-        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
-      },
-      "artists": [
-        {
-          "name": "Bad Boys Blue",
-          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
-        }
-      ],
-      "duration_ms": 346506,
-      "name": "Pretty Young Girl",
-      "url": "https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "The 12\" Album",
-        "url": "https://open.spotify.com/album/4Pmb0lbx2GAo6LDl9iyaYI"
-      },
-      "artists": [
-        {
-          "name": "Howard Jones",
-          "url": "https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY"
-        }
-      ],
-      "duration_ms": 396093,
-      "name": "What Is Love? - Extended Mix",
-      "url": "https://open.spotify.com/track/37Q1Ql8jgueqnmN0D4sFEb"
-    },
-    {
-      "added_at": "2022-12-23 14:03:48",
-      "album": {
         "name": "Suddenly (Expanded Edition)",
         "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 494093,
       "name": "Caribbean Queen (No More Love on the Run) - Extended Mix",
       "url": "https://open.spotify.com/track/3pfJpM4ZrTAoFVi0uSnybS"
+    },
+    {
+      "added_at": "2022-12-23 14:03:48",
+      "album": {
+        "name": "The 12\" Album",
+        "url": "https://open.spotify.com/album/4Pmb0lbx2GAo6LDl9iyaYI"
+      },
+      "artists": [
+        {
+          "name": "Howard Jones",
+          "url": "https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY"
+        }
+      ],
+      "duration_ms": 396093,
+      "name": "What Is Love? - Extended Mix",
+      "url": "https://open.spotify.com/track/37Q1Ql8jgueqnmN0D4sFEb"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "Daft",
-        "url": "https://open.spotify.com/album/5zPJjpbtL6TGmm0JDlW42R"
-      },
-      "artists": [
-        {
-          "name": "The Art Of Noise",
-          "url": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
-        }
-      ],
-      "duration_ms": 421093,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/1kSORioLYEnTW7VEuBAoFG"
-    },
-    {
-      "added_at": "2022-12-23 14:03:48",
-      "album": {
         "name": "Freeez Frame! - The Best of Freeez",
         "url": "https://open.spotify.com/album/04S99UxdngAfYMS40yjcld"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 525493,
       "name": "I.O.U. - 12\" Version",
       "url": "https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI"
+    },
+    {
+      "added_at": "2022-12-23 14:03:48",
+      "album": {
+        "name": "Daft",
+        "url": "https://open.spotify.com/album/5zPJjpbtL6TGmm0JDlW42R"
+      },
+      "artists": [
+        {
+          "name": "The Art Of Noise",
+          "url": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
+        }
+      ],
+      "duration_ms": 421093,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/1kSORioLYEnTW7VEuBAoFG"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "Running In The Family (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ"
-      },
-      "artists": [
-        {
-          "name": "Level 42",
-          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
-        }
-      ],
-      "duration_ms": 374386,
-      "name": "Running In The Family - Extended Version",
-      "url": "https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq"
-    },
-    {
-      "added_at": "2022-12-23 14:03:48",
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
+        "name": "Running In The Family (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "duration_ms": 374386,
+      "name": "Running In The Family - Extended Version",
+      "url": "https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq"
+    },
+    {
+      "added_at": "2022-12-23 14:03:48",
+      "album": {
         "name": "Open Book - The Best Of...",
         "url": "https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 322026,
       "name": "Thought You Were On My Side - Extended Remix/European",
       "url": "https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm"
+    },
+    {
+      "added_at": "2022-12-23 14:03:48",
+      "album": {
+        "name": "All Or Nothing US Remix Album",
+        "url": "https://open.spotify.com/album/19oRih1H1X1QJtIJDB2Yiq"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "duration_ms": 388426,
+      "name": "Girl You Know It's True (Maxi Version) - Super Club Mix",
+      "url": "https://open.spotify.com/track/47fGEnnyxCNZfrPf8LXm7z"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -1239,34 +1255,18 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "All Or Nothing US Remix Album",
-        "url": "https://open.spotify.com/album/19oRih1H1X1QJtIJDB2Yiq"
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
       },
       "artists": [
         {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
         }
       ],
-      "duration_ms": 388426,
-      "name": "Girl You Know It's True (Maxi Version) - Super Club Mix",
-      "url": "https://open.spotify.com/track/47fGEnnyxCNZfrPf8LXm7z"
-    },
-    {
-      "added_at": "2022-12-23 14:03:48",
-      "album": {
-        "name": "The Best Of Herbie Hancock - The Hits!",
-        "url": "https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 325800,
-      "name": "Rockit",
-      "url": "https://open.spotify.com/track/2imFIZ1WcOHrA5IPFhVLJY"
+      "duration_ms": 388533,
+      "name": "Dr. Beat - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
-        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+        "name": "The Best Of Herbie Hancock - The Hits!",
+        "url": "https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 388533,
-      "name": "Dr. Beat - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
+      "duration_ms": 325800,
+      "name": "Rockit",
+      "url": "https://open.spotify.com/track/2imFIZ1WcOHrA5IPFhVLJY"
     }
   ],
   "unique_name": "12\" Classics",

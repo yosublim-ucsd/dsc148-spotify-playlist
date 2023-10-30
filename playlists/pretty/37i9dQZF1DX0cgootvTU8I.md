@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,187 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,213 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 36 | [Live And Direct](https://open.spotify.com/track/64zlbq7x2ZgHPFbOUBe5v1) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [FWD Thinking](https://open.spotify.com/album/6W1kKAUQ8LwG1vO0OXrKSr) | 6:02 |
 | 37 | [Kissed It Up \- Original](https://open.spotify.com/track/5EgPKy3Q9kFyiDpAGUOmdr) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Kissed It Up](https://open.spotify.com/album/22KE4qbTKXK95RQYCDm0T9) | 6:06 |
 | 38 | [Close Proximity](https://open.spotify.com/track/316jcVxjSLAM4oCwoTJhs8) | [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [SNKRX07](https://open.spotify.com/album/6acE2p1yUmLXPupsrzrXLg) | 8:34 |
-| 39 | [Elysian Fields \- Tim Reaper Remix](https://open.spotify.com/track/6scP0RQzLKk7grCc45KRpE) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:52 |
-| 40 | [Loss of Self Identity](https://open.spotify.com/track/5dX5ocS9rXxhnFDsnAFx2q) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/7GTZWxrsEtMaUQ8xyforOg) | 4:26 |
+| 39 | [Loss of Self Identity](https://open.spotify.com/track/5dX5ocS9rXxhnFDsnAFx2q) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/7GTZWxrsEtMaUQ8xyforOg) | 4:26 |
+| 40 | [Elysian Fields \- Tim Reaper Remix](https://open.spotify.com/track/6scP0RQzLKk7grCc45KRpE) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:52 |
 | 41 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
 | 42 | [Breakout \(Radio Edit\)](https://open.spotify.com/track/7BEW3kDFsv5ZrcI038JQHz) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [Breakout](https://open.spotify.com/album/1CUTjQ5IGKUZ87EAEMzDXl) | 3:29 |
 | 43 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
 | 44 | [Invisible Shell of Energy](https://open.spotify.com/track/06WdIZPB6gyGtCxAWDw1yQ) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1) | [Post Modern](https://open.spotify.com/album/0XxxGfjHfPm5cWCxzb3LcH) | 6:42 |
-| 45 | [1 Million Breaks](https://open.spotify.com/track/11CNiCDrhdElGjJB53Pxuv) | [AceMoMa](https://open.spotify.com/artist/5igyz9vWH6ban6NMfKeCir), [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [A Future](https://open.spotify.com/album/0DJkcrqqnMlkHt2ybbz7Qn) | 6:55 |
+| 45 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
 | 46 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
-| 47 | [Casca](https://open.spotify.com/track/4Qu41yeeAQ3bCQ4Dd8JUuG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Casca EP](https://open.spotify.com/album/3M4zL1J2RN7sZrRb4LcG4j) | 5:55 |
-| 48 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
-| 49 | [Yes, Ok?](https://open.spotify.com/track/6TfEn8jq0laP1hN0pw1Clf) | [Beep Tzt](https://open.spotify.com/artist/0OPS6KMivVzxP2moJjMvSS) | [Beep Tzt](https://open.spotify.com/album/3RSLqqDvm5YYXjytf1sMle) | 7:56 |
-| 50 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
+| 47 | [1 Million Breaks](https://open.spotify.com/track/11CNiCDrhdElGjJB53Pxuv) | [AceMoMa](https://open.spotify.com/artist/5igyz9vWH6ban6NMfKeCir), [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [A Future](https://open.spotify.com/album/0DJkcrqqnMlkHt2ybbz7Qn) | 6:55 |
+| 48 | [Casca](https://open.spotify.com/track/4Qu41yeeAQ3bCQ4Dd8JUuG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Casca EP](https://open.spotify.com/album/3M4zL1J2RN7sZrRb4LcG4j) | 5:55 |
+| 49 | [Renegade](https://open.spotify.com/track/2XRgGgN0DCEJ05NIAWeM05) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/43VEJuOIWJa5GfwrGC7ral) | 5:00 |
+| 50 | [Yes, Ok?](https://open.spotify.com/track/6TfEn8jq0laP1hN0pw1Clf) | [Beep Tzt](https://open.spotify.com/artist/0OPS6KMivVzxP2moJjMvSS) | [Beep Tzt](https://open.spotify.com/album/3RSLqqDvm5YYXjytf1sMle) | 7:56 |
 
-Snapshot ID: `MCw5NmI4MDQzOGFlYzQ5OGY5NDYyNjliYmYwZDY2YzkyMDFiMzA1N2Ri`
+Snapshot ID: `MCxmZTU0YTUzNTg2M2FmODUzNDdkZDZhYTE0MmE5MGJjM2U5YzNhMDUw`

@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-333 songs - 23 hr 33 min
+334 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-07 | 2023-04-05 |
 | [Letters](https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [Letters](https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK) | 4:34 | 2023-10-10 |  |
 | [lien \- おやすみ Live 2023.6.16](https://open.spotify.com/track/2fM2uDsIAdCtgZH2HUQcQ2) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [おやすみ Live 2023.6.16](https://open.spotify.com/album/7jscPYwxfQaEOuCrIKzgJ3) | 3:47 | 2023-08-08 | 2023-08-30 |
-| [Lighthouse \(Live Session\)](https://open.spotify.com/track/2kXbQ8jhtZqwXs9rnrWrE4) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 3:07 | 2023-09-08 |  |
+| [Lighthouse \(Live Session\)](https://open.spotify.com/track/2kXbQ8jhtZqwXs9rnrWrE4) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 3:07 | 2023-09-08 | 2023-10-30 |
 | [Lily](https://open.spotify.com/track/0GKWtlvylWnedpqA3ktByn) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Lily](https://open.spotify.com/album/5OUOq95UwuLQ78pja83Jqa) | 2:18 | 2023-01-31 | 2023-09-06 |
 | [Lonely Wayfarer](https://open.spotify.com/track/5MKzSluWqIF4aduIlvDdCN) | [高塚佑太](https://open.spotify.com/artist/1NRes74SBWkAc7ra4UO5oW) | [Lonely Wayfarer](https://open.spotify.com/album/0key84rK6pmGQl7YQGDVOg) | 4:49 | 2023-07-18 | 2023-08-09 |
 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 | 2023-01-24 |  |
@@ -217,6 +217,7 @@
 | [つぐみ](https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [THUNDERBIRD](https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg) | 3:58 | 2022-10-20 |  |
 | [なんでもないや \- movie ver.](https://open.spotify.com/track/59pUIlXjQupbiYwt40uUTi) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [chouchou](https://open.spotify.com/album/79YTP5wf0HBO3sihh5cfsN) | 5:49 | 2023-01-26 | 2023-06-21 |
 | [ねむるのまち\~Tidur Tidur\~](https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [帰ってから、歌いたくなってもいいようにと思ったのだ。](https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG) | 5:10 | 2022-10-20 |  |
+| [ねむろ](https://open.spotify.com/track/6ok2dmasEMdT6AOG5Oy8uy) | [sleepy.ab](https://open.spotify.com/artist/6K5m40eGoEYPBOg7hSLjwy) | [archive](https://open.spotify.com/album/4OG5FIOsGRGdfkBQjqBY71) | 5:43 | 2023-10-29 |  |
 | [のうぜんかつら \- リプライズ](https://open.spotify.com/track/1UoH4VvLD0w5UP2rvFnlwY) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [センチメンタルデイズ 〜Limited Collection〜](https://open.spotify.com/album/0T4mCTBql1ROLLNJCFYtoK) | 3:09 | 2023-04-18 |  |
 | [はだかのゆめ](https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 3:45 | 2022-11-29 | 2022-12-01 |
 | [はてしない恋の歌](https://open.spotify.com/track/6JjF700glSVpcoZm1mbByd) | [Masashi Sada](https://open.spotify.com/artist/0hoYZWflKchdSXPXfCRVRO) | [なつかしい未来](https://open.spotify.com/album/2tMCuXtJVD22DUrRLBulMl) | 3:21 | 2023-06-13 | 2023-06-15 |

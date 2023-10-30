@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Farruko, La Factoria & Eddy Lover. ",
-  "num_followers": 690258,
+  "num_followers": 690254,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWQ0ZDVmOWJjZDk0NjM1OGUyODZlNTQ0MzExZTg4OWI2MGI4NGZl",
+  "snapshot_id": "MCxmOTI0Zjk2OTU2NGMyMTM4MjQyMGNhZTlhZjUzYmIwYjZjYzM3YWJl",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pasa_je_ro",
-        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 247280,
-      "name": "Pasa_je_ro",
-      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Pasa_je_ro",
+        "url": "https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Pasa_je_ro",
+      "url": "https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Ojos Negros",
+        "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 199999,
+      "name": "Ojos Negros",
+      "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 201091,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Ojos Negros",
-        "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "Ojos Negros",
-      "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
     },
     {
       "added_at": "2023-10-06 04:00:00",

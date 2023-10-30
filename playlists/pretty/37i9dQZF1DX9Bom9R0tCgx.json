@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 335281,
+  "num_followers": 336474,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjBmZmNjOWE0OTYyNzdjZmFmNjM3OThkMjM2NDhkYzZiMWQ5NDE5",
+  "snapshot_id": "MCxjNzU3YmFhY2UyMTkxNjMzOGJjNThmZGQ1ZDZlNDRkZjVlNDc2MWU4",
   "tracks": [
     {
       "added_at": "2023-10-26 22:00:00",
@@ -28,7 +28,7 @@
       "added_at": "2023-10-26 22:00:00",
       "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
-        "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
+        "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
       },
       "artists": [
         {
@@ -50,7 +50,7 @@
       ],
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
-      "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
+      "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -223,8 +223,8 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Better Off (Alone, Pt. III) [feat. Vikkstar] [D-Block & S-te-Fan Remix]",
-        "url": "https://open.spotify.com/album/6wGHfkwyWX3QlgK5Tn1WQ2"
+        "name": "Better Off (Alone, Pt. III) (feat. Vikkstar) [D-Block & S-te-Fan Remix]",
+        "url": "https://open.spotify.com/album/37YzfskH2UGlfLcDkxhzTH"
       },
       "artists": [
         {
@@ -236,17 +236,17 @@
           "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
         },
         {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        },
-        {
           "name": "D-Block & S-te-Fan",
           "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
         }
       ],
-      "duration_ms": 178064,
-      "name": "Better Off (Alone, Pt. III) [feat. Vikkstar] [D-Block & S-te-Fan Remix]",
-      "url": "https://open.spotify.com/track/4hHPr9rqt7NiHi0hcCMuRK"
+      "duration_ms": 176516,
+      "name": "Better Off (Alone, Pt. III) (feat. Vikkstar) - D-Block & S-te-Fan Remix",
+      "url": "https://open.spotify.com/track/4msWqvmvORvZ8iRU60uMpW"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 132700,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Low (LUNAX Remix)",
         "url": "https://open.spotify.com/album/0ZDlbRhsIMedIxxmqOXU0H"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 157548,
       "name": "Million Places",
       "url": "https://open.spotify.com/track/3rCuELlVNqzcG8JHDJh76m"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 132700,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -891,30 +891,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
-        "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 145032,
-      "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
-      "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Rave Superstar",
         "url": "https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 159993,
       "name": "Rave Superstar",
       "url": "https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
+        "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 145032,
+      "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
+      "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 156328,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Shake That",
         "url": "https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 179738,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "No Time",
-        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 156328,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Annihilate",
-        "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Annihilate",
-      "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 163124,
       "name": "Something",
       "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Annihilate",
+        "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Annihilate",
+      "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1391,26 +1391,18 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "RIDE OR DIE",
-        "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
       },
       "artists": [
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         }
       ],
-      "duration_ms": 189855,
-      "name": "RIDE OR DIE",
-      "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1435,18 +1427,26 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Techno Sound",
-        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
+        "name": "RIDE OR DIE",
+        "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
       },
       "artists": [
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 189960,
-      "name": "Techno Sound",
-      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
+      "duration_ms": 189855,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Better Than Gold",
-        "url": "https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh"
-      },
-      "artists": [
-        {
-          "name": "Justin Hawkes",
-          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
-        },
-        {
-          "name": "Andrew Hellier",
-          "url": "https://open.spotify.com/artist/5UAiCq7VKP2MrMG2RAkPl8"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Better Than Gold",
-      "url": "https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "All Of The Lights",
         "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
       },
@@ -1527,6 +1507,46 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "Better Than Gold",
+        "url": "https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh"
+      },
+      "artists": [
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        },
+        {
+          "name": "Andrew Hellier",
+          "url": "https://open.spotify.com/artist/5UAiCq7VKP2MrMG2RAkPl8"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Better Than Gold",
+      "url": "https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Donkers",
+        "url": "https://open.spotify.com/album/06SEttic5htIY70LgIXuQR"
+      },
+      "artists": [
+        {
+          "name": "Gonzi",
+          "url": "https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 304500,
+      "name": "Donkers",
+      "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -1543,6 +1563,26 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1575,46 +1615,6 @@
       "duration_ms": 132004,
       "name": "MBAPP\u00c9 (Restricted & Sunset Bros Remix) [feat. JAY1 & KAHUKX]",
       "url": "https://open.spotify.com/track/63VejDiw2j8qvNIHWcAVwN"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Sweet Dreams (Are Made Of This)",
-        "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Donkers",
-        "url": "https://open.spotify.com/album/06SEttic5htIY70LgIXuQR"
-      },
-      "artists": [
-        {
-          "name": "Gonzi",
-          "url": "https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe"
-        },
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 304500,
-      "name": "Donkers",
-      "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Space Case",
-        "url": "https://open.spotify.com/album/61OEWqooBSWvgvqPxRvc9L"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 212252,
-      "name": "Space Case",
-      "url": "https://open.spotify.com/track/1VSbfnWlHajs3Wz9LhucLB"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Hyper Hyper",
         "url": "https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 178153,
       "name": "Hyper Hyper",
       "url": "https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Space Case",
+        "url": "https://open.spotify.com/album/61OEWqooBSWvgvqPxRvc9L"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 212252,
+      "name": "Space Case",
+      "url": "https://open.spotify.com/track/1VSbfnWlHajs3Wz9LhucLB"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Sensual, on Ecstasy (Sped Up Version)",
-        "url": "https://open.spotify.com/album/4JFYjBwuetlK5lUdXyJgV7"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 324718,
-      "name": "Sensual, on Ecstasy - Sped Up Version",
-      "url": "https://open.spotify.com/track/22FZzabHSqgMY15Cnx1alE"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
         "name": "Popcorn (Rework)",
         "url": "https://open.spotify.com/album/2t39L0Xt4lG7tslqEoZDHs"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 141679,
       "name": "Popcorn - Rework",
       "url": "https://open.spotify.com/track/6NOB3pY3jA5YEWV9DUR1ZF"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
+        "name": "Sensual, on Ecstasy (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4JFYjBwuetlK5lUdXyJgV7"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "duration_ms": 324718,
+      "name": "Sensual, on Ecstasy - Sped Up Version",
+      "url": "https://open.spotify.com/track/22FZzabHSqgMY15Cnx1alE"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1955,22 +1955,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Stamp On The Ground",
-        "url": "https://open.spotify.com/album/2it6wVltq5zEsSf21OhnrV"
+        "name": "Universo",
+        "url": "https://open.spotify.com/album/6lTv8SLRs1naQuh7YvdMjM"
       },
       "artists": [
         {
-          "name": "Jim Yosef",
-          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
         },
         {
-          "name": "Scarlett",
-          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+          "name": "Rising Dust",
+          "url": "https://open.spotify.com/artist/5ljIs5Y5MfXRmhB97gQpq0"
         }
       ],
-      "duration_ms": 136503,
-      "name": "Stamp On The Ground",
-      "url": "https://open.spotify.com/track/5QdWSor8wZmWyWWEOaJ4Fz"
+      "duration_ms": 607552,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/5DRGuHS0xJ3X3OZjCrglTI"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -1999,22 +1999,22 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
-        "name": "Universo",
-        "url": "https://open.spotify.com/album/6lTv8SLRs1naQuh7YvdMjM"
+        "name": "Stamp On The Ground",
+        "url": "https://open.spotify.com/album/2it6wVltq5zEsSf21OhnrV"
       },
       "artists": [
         {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+          "name": "Jim Yosef",
+          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
         },
         {
-          "name": "Rising Dust",
-          "url": "https://open.spotify.com/artist/5ljIs5Y5MfXRmhB97gQpq0"
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
         }
       ],
-      "duration_ms": 607552,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/5DRGuHS0xJ3X3OZjCrglTI"
+      "duration_ms": 136503,
+      "name": "Stamp On The Ground",
+      "url": "https://open.spotify.com/track/5QdWSor8wZmWyWWEOaJ4Fz"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2023-10-26 22:00:00",
       "album": {
+        "name": "DJ Turn It Up (Ben Nicky Remix)",
+        "url": "https://open.spotify.com/album/2X5Q84NtVSBrSAKuyXrnGh"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        }
+      ],
+      "duration_ms": 138088,
+      "name": "DJ Turn It Up - Ben Nicky Remix",
+      "url": "https://open.spotify.com/track/5nqW6RAWDBynvve3TDXH9r"
+    },
+    {
+      "added_at": "2023-10-26 22:00:00",
+      "album": {
         "name": "Take Me Up",
         "url": "https://open.spotify.com/album/0ZMTslSR9ktXlBVOIXXoI8"
       },
@@ -2055,42 +2075,6 @@
       "duration_ms": 205919,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/0AJD30r5ExP6Dy0frAruiT"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "She Knows (with Akon) [3 Are Legend x MANDY Remix]",
-        "url": "https://open.spotify.com/album/5LZqYANVnxVQjjV1d9KE0W"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "3 Are Legend",
-          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
-        },
-        {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
-        }
-      ],
-      "duration_ms": 182598,
-      "name": "She Knows (with Akon) - 3 Are Legend x MANDY Remix",
-      "url": "https://open.spotify.com/track/4nzwusPHj8TosWlr3J1EZ5"
     }
   ],
   "unique_name": "Bass Explosion",

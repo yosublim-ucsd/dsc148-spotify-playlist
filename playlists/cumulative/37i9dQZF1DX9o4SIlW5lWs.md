@@ -2,9 +2,9 @@
 
 ### [Cumbia y Romance](https://open.spotify.com/playlist/37i9dQZF1DX9o4SIlW5lWs)
 
-> Al corazón! Foto: Karina.
+> Al corazón! Foto: La Joaqui.
 
-347 songs - 19 hr 59 min
+349 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Abismo](https://open.spotify.com/track/6AwHodfhYS617hDDL98fKP) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Abismo](https://open.spotify.com/album/744XvERwuTvatZpUvxgZPv) | 3:37 | 2022-12-24 | 2023-01-20 |
 | [Abrazame](https://open.spotify.com/track/7FHfSx42RG2pomI48MIdIQ) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Abrazame](https://open.spotify.com/album/6CnsGZyFPMRgRs9EZLhFF2) | 3:45 | 2022-01-14 | 2022-04-21 |
 | [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 | 2022-11-25 | 2022-12-07 |
+| [ADICTO](https://open.spotify.com/track/5gx39tUko6htjixWpIMqzM) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [ADICTO](https://open.spotify.com/album/7m9VVSSHC7u07Oy8a7H8XZ) | 3:15 | 2023-10-27 |  |
 | [Adiós](https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Gonzalo Castillo](https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg) | [Adiós](https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb) | 2:35 | 2022-06-17 |  |
 | [Adiós Amor](https://open.spotify.com/track/0tC1zHCNIMpzv9Q44rTdmf) | [Juan José Piedrabuena](https://open.spotify.com/artist/4p0y36j62bcbAG6Hl0DjUe) | [Adiós Amor](https://open.spotify.com/album/2yIoKg3iN3oXgG8L4zx2fE) | 4:38 | 2022-04-01 | 2022-06-03 |
 | [Adiós Amor](https://open.spotify.com/track/367069JY6QWPaCJM21OVBC) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/14am71BKAcj6UvGOIXoo6e) | 4:19 | 2023-08-11 |  |
@@ -32,6 +33,7 @@
 | [Amor Pirata](https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:15 | 2022-03-11 |  |
 | [Amor Secreto](https://open.spotify.com/track/54Jr171k3fvsYRcuy6G7qi) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Mi Corazón Canta para Vos](https://open.spotify.com/album/3a8kuLV7GUW3tDNBNsGC7L) | 3:18 | 2022-04-01 | 2022-06-10 |
 | [Amor y Deudas](https://open.spotify.com/track/2lX34uxOakDVkNDwiV0aCL) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Amor y Deudas](https://open.spotify.com/album/7lt8y2dL66EVdZtlSJcbaY) | 4:20 | 2022-01-21 | 2022-06-17 |
+| [Anochecemos](https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Anochecemos](https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj) | 3:24 | 2023-10-27 |  |
 | [Así Era Ella](https://open.spotify.com/track/26ykEHxWfZU1UfupwrHp4K) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Así Era Ella](https://open.spotify.com/album/3NdIjdU9Zp7FquEfnZsFtA) | 3:06 | 2023-03-04 | 2023-03-11 |
 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 | 2022-01-14 | 2022-07-29 |
 | [Boleto al Amor](https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Boleto al Amor](https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX) | 3:25 | 2022-03-08 | 2023-06-10 |
@@ -123,7 +125,7 @@
 | [Escapate Conmigo](https://open.spotify.com/track/1qArUAxHiNOkigGwOLoMAF) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Ya No Llores](https://open.spotify.com/album/7lwRCZvuiKzDc0v9n0Nb5i) | 3:09 | 2022-01-14 | 2022-07-29 |
 | [Esperandote](https://open.spotify.com/track/1p8dnCh9eOPVARLbIrpPWV) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Esperandote](https://open.spotify.com/album/30lzvxFlN1pmaa0NqUSvZ1) | 3:48 | 2022-01-21 | 2022-07-17 |
 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 | 2022-01-14 | 2022-10-07 |
-| [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 | 2022-01-14 |  |
+| [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 | 2022-01-14 | 2023-10-30 |
 | [Extraño](https://open.spotify.com/track/2Ydtfox8U5t2rob7alFqS0) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Extraño](https://open.spotify.com/album/7vuYSvs3KzgnvIN2xo78Xk) | 2:07 | 2022-03-11 | 2022-04-19 |
 | [Fabricando Fantasías](https://open.spotify.com/track/1R6ug43KqWcVVOnKqKqcRN) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Fabricando Fantasías](https://open.spotify.com/album/0BbSuC3q9Vy6HM3mpOA1yO) | 3:16 | 2022-01-21 | 2023-08-05 |
 | [Fin de Semana Sin Ti](https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Fin de Semana Sin Ti](https://open.spotify.com/album/6dK4IkKmd6CSyK69a8pXyE) | 2:23 | 2022-09-23 | 2023-03-16 |
@@ -241,7 +243,7 @@
 | [Que Lloro / Mientes](https://open.spotify.com/track/1FqNwW8ifGAJgl8Dv2CCWh) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Que Lloro / Mientes](https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj) | 3:48 | 2022-01-14 |  |
 | [Que Me Van a Hablar de Amor](https://open.spotify.com/track/6JzjdWAIgYxn7sfCw9SZ8t) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Mejor de la Diosa](https://open.spotify.com/album/52rTOkOAsNU7SAVNcVnso8) | 4:10 | 2022-01-14 | 2022-07-29 |
 | [Que Nos Volvamos a Ver](https://open.spotify.com/track/1XfNFAgKsVHh0yAS8CHPv6) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Que Nos Volvamos a Ver](https://open.spotify.com/album/1XKy6pkSLzHHq3ldyftbKA) | 2:47 | 2022-01-14 | 2022-05-20 |
-| [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 | 2022-01-14 |  |
+| [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 | 2022-01-14 | 2023-10-30 |
 | [Que Vuelvas](https://open.spotify.com/track/4bTnLWORGx7b3TtTNizgZI) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Que Vuelvas](https://open.spotify.com/album/4WovYXrsDxqaUgtMLF9LUq) | 2:43 | 2023-06-02 | 2023-06-10 |
 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 | 2022-07-22 | 2023-10-21 |
 | [Quitame Ese Hombre](https://open.spotify.com/track/6laZGHZ4p75Vb1DAJ1DE9D) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Mejor de la Diosa](https://open.spotify.com/album/52rTOkOAsNU7SAVNcVnso8) | 3:39 | 2022-01-14 | 2022-07-29 |

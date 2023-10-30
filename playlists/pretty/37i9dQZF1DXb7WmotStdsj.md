@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,266 likes - 60 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,715 likes - 60 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 28 | [Manich Kima Bakri](https://open.spotify.com/track/1b6ylP8XBdY7jOD7bwSWZk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/3cjlTzZoHAlpC7VsWJBv8F) | 5:45 |
 | 29 | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/track/0ASqhlxw7xAYrYu5XPNuQ4) | [Abderrahmane Piti](https://open.spotify.com/artist/0hcxeVxZkWcHMlt0oJw9qY), [Kader Tirigou](https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs) | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/album/6GSFQJUp2IvC2z2aMQoDlz) | 4:35 |
 | 30 | [Zadma w Sayi](https://open.spotify.com/track/2H1voC89zdPWZsFw3slhXX) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl), [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [Zadma w Sayi](https://open.spotify.com/album/5f73BUqCz6mZ1mysN4gSFo) | 6:35 |
-| 31 | [Allah Ghaleb](https://open.spotify.com/track/1w1C72J7CTI02ZJabhqiF8) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Tchikou 22](https://open.spotify.com/artist/1Awe2WHMc69DBEf6TG6WvX) | [Allah Ghaleb](https://open.spotify.com/album/5tz0bhi47zfLWciF35NHsW) | 5:11 |
+| 31 | [Allah Ghaleb](https://open.spotify.com/track/4wqi6XARco9AQohzx82qti) | [Abdou Gambitta](https://open.spotify.com/artist/1Wvj6pS5vEqLFeg6c3YpiC) | [Allah Ghaleb](https://open.spotify.com/album/166IIJAv1paB97IjvM4fGF) | 5:11 |
 | 32 | [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 |
 | 33 | [EL KHAYNA](https://open.spotify.com/track/6u9cTcjvEE0MDUxUKqwDd0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [EL KHAYNA](https://open.spotify.com/album/6oq7Pz3U9QHr0r0Xey5Riq) | 3:40 |
 | 34 | [Yekedbou w ynagrou \- Ysahbou w ydouro](https://open.spotify.com/track/3UYsJqg7fTmOzuxNj1P8wk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Yekedbou w ynagrou \(Ysahbou w ydouro\)](https://open.spotify.com/album/4HFLzXyuagSkM4TBTGzye1) | 5:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 |
 | 60 | [Fi Hawmtk Tayh](https://open.spotify.com/track/58qcHWC6FE7hUw1MXW9Qlw) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samorai](https://open.spotify.com/artist/73AJQgudvAFKMhRQWOlEck) | [Fi Hawmtk Tayh](https://open.spotify.com/album/6iv0JgmVA17gmNUVialSf9) | 5:30 |
 
-Snapshot ID: `MCxiYzhjZTY3Mjg1ZTQ1OTEzZDZkYmIzNWIzZGQ2ZjVmYWIwNWNmYzk4`
+Snapshot ID: `MCwwYmQxMzZkZDM3OWMxOGFmZTQxZjI2ZjhiZGMzZDIzZDZlYmZiOWM0`

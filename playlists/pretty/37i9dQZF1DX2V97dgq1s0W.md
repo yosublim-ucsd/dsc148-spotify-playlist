@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,768 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,944 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 79 | [Run Through Fire](https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Run Through Fire](https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE) | 3:04 |
 | 80 | [Carry Me](https://open.spotify.com/track/2nwHKcQ5RG88Tf8RbLUYUA) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:43 |
 
-Snapshot ID: `MCwzZGQyZTU2ZGQ2Nzk5ZmMzN2UyZDA2MjljMDgwZjJjYjFlMjBhYjM2`
+Snapshot ID: `MCwzODYyOGRkNmM1M2I0MDFkNjZiM2IyZWQ1NGVjMzc0MDU1NDNkNWU1`

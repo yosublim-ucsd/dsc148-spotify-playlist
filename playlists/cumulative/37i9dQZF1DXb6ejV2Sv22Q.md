@@ -4,7 +4,7 @@
 
 > y kn m quida no duerme viejo de los korridones q traemos totalment n vivo y markele kmpa tolo watata watata
 
-75 songs - 3 hr 41 min
+76 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 | 2023-09-15 |  |
 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 | 2023-09-15 |  |
 | [Aquella Noche](https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 3:10 | 2023-09-15 |  |
-| [Arcángel](https://open.spotify.com/track/21l2IxWFA8KsnBmB2tW9hK) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [Arcángel](https://open.spotify.com/album/7g8Ez0RZiV8p4MrZ45BsLk) | 3:00 | 2023-10-20 |  |
+| [Arcángel](https://open.spotify.com/track/21l2IxWFA8KsnBmB2tW9hK) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [Arcángel](https://open.spotify.com/album/7g8Ez0RZiV8p4MrZ45BsLk) | 3:00 | 2023-10-20 | 2023-10-30 |
 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-09-15 |  |
 | [Automotivo Blindado](https://open.spotify.com/track/1wynWAVM1KqUQMhytk89rO) | [DJ Rossini ZS](https://open.spotify.com/artist/2ue3CASrJMbnfFcE6Pp13G), [DJ MENOR DA Z.O](https://open.spotify.com/artist/7mONoAwA8mRwvz2JYLhABI), [MC Zudo Boladão](https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7), [MC LUIS DO GRAU](https://open.spotify.com/artist/7z92LBe9MQGzZs5VpO8dwX) | [Automotivo Blindado](https://open.spotify.com/album/0coJQdhxjlgLWAsJcC9Dg8) | 3:46 | 2023-09-15 |  |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-15 | 2023-10-16 |
@@ -35,6 +35,7 @@
 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 | 2023-09-15 |  |
 | [Estás en Mí Pasado](https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:57 | 2023-09-15 |  |
 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 | 2023-09-15 |  |
+| [FATAL FANTASSY](https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [FATAL FANTASSY](https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn) | 2:29 | 2023-10-28 |  |
 | [Gracias A Ti](https://open.spotify.com/track/4AYXjnxnA4Tsr8CAYuKQDo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:09 | 2023-09-15 | 2023-10-24 |
 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 | 2023-09-15 |  |
 | [IEVAN PHONK! \- Nightcore Remix Speed Up](https://open.spotify.com/track/7j2s8QOVV4c7gO8hIde2rf) | [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [IEVAN PHONK! Rmx](https://open.spotify.com/album/4RWL7ySqIcbl7y4Ki66Llj) | 1:49 | 2023-09-15 | 2023-10-16 |

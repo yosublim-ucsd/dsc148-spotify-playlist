@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Alan Walker au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,915 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,044 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 49 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 |
 | 50 | [Shadows](https://open.spotify.com/track/0Ni4MDtBVlLPXm5gkkAuO6) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Shadows](https://open.spotify.com/album/6MlLPpOvRWGdwQEtFasIP4) | 3:45 |
 
-Snapshot ID: `MCw0MGU5NzcwNWJkODEzODZkM2YxOWIwMTJkZjU4NGRhMWI1MjU4Y2Y3`
+Snapshot ID: `MCw2ZDg4YWRlY2ZjMGE5NWE3NjhmMDRkZTYyOTU0ODc1ZjJhNTYyMGJm`

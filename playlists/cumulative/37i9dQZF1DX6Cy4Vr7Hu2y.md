@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: HWASA\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-355 songs - 19 hr 54 min
+356 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Over the Sky](https://open.spotify.com/track/68K3uCXs4JeuZ2OZdOTQr7) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Over the Sky](https://open.spotify.com/album/2HIt0M2VOzDrWL3W9tNcbu) | 3:17 | 2021-11-21 | 2022-07-13 |
 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-01-26 |  |
 | [Pantomime](https://open.spotify.com/track/0mqHEMJdDzes00D9IToXPX) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:08 | 2022-05-31 | 2022-06-01 |
+| [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-10-29 |  |
 | [Pesadilla](https://open.spotify.com/track/3Nad05x6olUEDB13M5U2kC) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [SERO](https://open.spotify.com/artist/7zE4UsNd3bR0AxdTW35hUz) | [Seoul Vibes, Pt​\. 4](https://open.spotify.com/album/6LHDppZ2sqbcy3uNub0duJ) | 4:02 | 2022-03-22 | 2022-04-20 |
 | [Piece Of Stars](https://open.spotify.com/track/7z2fpDv4PfwdtjIj1FxZGK) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Piece Of Stars](https://open.spotify.com/album/5g7tHwYoRhbTVsSrx9dJrN) | 2:46 | 2021-11-21 | 2022-07-07 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-09-06 | 2023-08-26 |
@@ -289,7 +290,7 @@
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 |  |
 | [Take My Hand](https://open.spotify.com/track/0T1OJqhF2ihqavFfxbiOO8) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Baeeori](https://open.spotify.com/artist/1pHjQiHrT8MN5KZd6ueb7c) | [Take My Hand](https://open.spotify.com/album/0bIJnz9JqrGqOKr8DCN6N5) | 3:18 | 2021-11-21 | 2022-07-17 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-31 |  |
-| [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-22 |  |
+| [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-22 | 2023-10-30 |
 | [Tell me now](https://open.spotify.com/track/2kIYgg1tOBTjs7XLZNwuSs) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:42 | 2022-05-31 | 2022-06-24 |
 | [The Best Ending](https://open.spotify.com/track/2r8ndLpyDjYJo0q03AMo5s) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [The Best Ending OST](https://open.spotify.com/album/4tcJcOrgd4qRPRXFHFslwT) | 2:56 | 2021-11-21 | 2022-07-23 |
 | [The Breath Of Winter \(feat\. Jung Young Eun\)](https://open.spotify.com/track/42UDKyFA8mxrLjP5mHvJRj) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf) | [The Breath Of Winter \(feat\. Jung Young Eun\)](https://open.spotify.com/album/2ZNsDPYOBprv3g0venQ9q6) | 3:14 | 2022-03-22 | 2022-04-14 |

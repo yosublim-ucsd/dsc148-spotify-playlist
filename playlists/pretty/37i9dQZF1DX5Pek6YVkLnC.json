@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: YOVNGCHIMI & Dei V",
-  "num_followers": 229888,
+  "num_followers": 229909,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDZiMmJlNDMxMWYxNTY5NGExMTU5ZTIwYWY2Njk1NGQzZTlkYTU0",
+  "snapshot_id": "MCw5OWU5YmM3NjI3OGZhMjU1OWIwZWJiNDAzZWZlNTVjN2YwOTViMDNk",
   "tracks": [
     {
       "added_at": "2023-10-24 20:37:41",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
         "name": "EVERYBODY GO TO THE DISCOTEK",
         "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 199946,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2023-10-24 20:37:41",
@@ -131,22 +131,18 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "Madura",
-        "url": "https://open.spotify.com/album/4joZeRAHwOmcWtVc8s7z5t"
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
       "artists": [
         {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 190995,
-      "name": "Madura",
-      "url": "https://open.spotify.com/track/5n2XTRsYFlZwNBp06KAjDX"
+      "duration_ms": 197052,
+      "name": "DILUVIO",
+      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
     },
     {
       "added_at": "2023-10-24 20:37:41",
@@ -191,34 +187,22 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+        "name": "Madura",
+        "url": "https://open.spotify.com/album/4joZeRAHwOmcWtVc8s7z5t"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "DILUVIO",
-      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Mbappe",
-      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
+      "duration_ms": 190995,
+      "name": "Madura",
+      "url": "https://open.spotify.com/track/5n2XTRsYFlZwNBp06KAjDX"
     },
     {
       "added_at": "2023-10-24 20:37:41",
@@ -239,6 +223,22 @@
       "duration_ms": 173991,
       "name": "Narcotics (with Bryant Myers)",
       "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Mbappe",
+      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
     },
     {
       "added_at": "2023-10-24 20:37:41",
@@ -347,22 +347,18 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 152960,
-      "name": "Kemba Walker",
-      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
       "added_at": "2023-10-24 20:37:41",
@@ -383,18 +379,22 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
       "artists": [
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+      "duration_ms": 152960,
+      "name": "Kemba Walker",
+      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
     },
     {
       "added_at": "2023-10-24 20:37:41",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
         "name": "Anfetamina",
         "url": "https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 236197,
       "name": "Anfetamina",
       "url": "https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
     },
     {
       "added_at": "2023-10-24 20:37:41",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "Santurcinos",
-        "url": "https://open.spotify.com/album/0kwhdyfH85kj8FxQM0K0ux"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 202292,
-      "name": "Maybach",
-      "url": "https://open.spotify.com/track/3uDP8Rf3ddTO04d069A8pH"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
         "name": "4 Palos",
         "url": "https://open.spotify.com/album/1QoaG39dqeQ6iHpHwLX0wK"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 172175,
       "name": "4 Palos",
       "url": "https://open.spotify.com/track/6Mh7481h4oyU49ukULwRtf"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
+        "name": "Santurcinos",
+        "url": "https://open.spotify.com/album/0kwhdyfH85kj8FxQM0K0ux"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 202292,
+      "name": "Maybach",
+      "url": "https://open.spotify.com/track/3uDP8Rf3ddTO04d069A8pH"
     },
     {
       "added_at": "2023-10-24 20:37:41",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-24 20:37:41",
       "album": {
-        "name": "Ultima Lagrima",
-        "url": "https://open.spotify.com/album/6VgtsJjlNJBEm0ZCANGPRu"
-      },
-      "artists": [
-        {
-          "name": "Vale Mendoza",
-          "url": "https://open.spotify.com/artist/09GD1QFN0LUiosit4WYX9p"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Ultima Lagrima",
-      "url": "https://open.spotify.com/track/6NjRDmrDRJjEBAluGAlL5P"
-    },
-    {
-      "added_at": "2023-10-24 20:37:41",
-      "album": {
         "name": "Blancos & Rojos",
         "url": "https://open.spotify.com/album/6dLcpS5nJkKsDy78PQakRP"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 163892,
       "name": "Magz de 30",
       "url": "https://open.spotify.com/track/5r1aBFDq86wy1FsnaTOsll"
+    },
+    {
+      "added_at": "2023-10-24 20:37:41",
+      "album": {
+        "name": "Ultima Lagrima",
+        "url": "https://open.spotify.com/album/6VgtsJjlNJBEm0ZCANGPRu"
+      },
+      "artists": [
+        {
+          "name": "Vale Mendoza",
+          "url": "https://open.spotify.com/artist/09GD1QFN0LUiosit4WYX9p"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Ultima Lagrima",
+      "url": "https://open.spotify.com/track/6NjRDmrDRJjEBAluGAlL5P"
     },
     {
       "added_at": "2023-10-24 20:37:41",

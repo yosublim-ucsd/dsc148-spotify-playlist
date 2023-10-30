@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "A Wayfarer's Tale",
+        "url": "https://open.spotify.com/album/3E7581DaCGTtHOi5KvwYpN"
+      },
+      "artists": [
+        {
+          "name": "Ray Love Trio",
+          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214873,
+      "name": "A Wayfarer's Tale",
+      "url": "https://open.spotify.com/track/0RrvMxwdAX6qBQHjR3EEPZ"
+    },
+    {
+      "album": {
         "name": "After Winter Comes Spring",
         "url": "https://open.spotify.com/album/5Mn1kdE6pGip1PyhX1rufH"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 294954,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/1S1NTdOasN7FQBPS5FSDHa"
@@ -1764,6 +1782,24 @@
       "duration_ms": 208133,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/55FGpcsMf5cQGF3BQtZjEw"
+    },
+    {
+      "album": {
+        "name": "Chasing Raindrops",
+        "url": "https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08"
+      },
+      "artists": [
+        {
+          "name": "Shay Walsh",
+          "url": "https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Chasing Raindrops",
+      "url": "https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU"
     },
     {
       "album": {
@@ -2430,7 +2466,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 141245,
       "name": "Dietz Monnin",
       "url": "https://open.spotify.com/track/3qfCMfMSBnIv3jWvWR4J8D"
@@ -3556,7 +3592,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 204515,
       "name": "Full-time Obsession",
       "url": "https://open.spotify.com/track/3ecM9Yp2c4Aw37mni1kOi2"
@@ -4154,6 +4190,24 @@
       "duration_ms": 202555,
       "name": "How About You",
       "url": "https://open.spotify.com/track/4tVteS21UzbqesfNG7uT8D"
+    },
+    {
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/6gkJFEs7AFfAMVgOJ8eaR5"
+      },
+      "artists": [
+        {
+          "name": "Thames Quartet",
+          "url": "https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191473,
+      "name": "How Long Have I Waited?",
+      "url": "https://open.spotify.com/track/1NcO5gArgmWrwUH0LfmKqW"
     },
     {
       "album": {
@@ -5476,7 +5530,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 218516,
       "name": "Journee",
       "url": "https://open.spotify.com/track/7xrFuH4mvXuM3JqVA3dRWi"
@@ -7266,6 +7320,24 @@
       "duration_ms": 240950,
       "name": "Mysterious Stranger",
       "url": "https://open.spotify.com/track/5NBmnHqnUz4fOn3e1hHIaI"
+    },
+    {
+      "album": {
+        "name": "Mystic Moonlight Groove",
+        "url": "https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S"
+      },
+      "artists": [
+        {
+          "name": "Greydon Park Band",
+          "url": "https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211079,
+      "name": "Mystic Moonlight Groove",
+      "url": "https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi"
     },
     {
       "album": {
@@ -9336,7 +9408,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 292573,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
@@ -12064,6 +12136,24 @@
       "duration_ms": 186074,
       "name": "Your Shining Eyes",
       "url": "https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6"
+    },
+    {
+      "album": {
+        "name": "Your Smile",
+        "url": "https://open.spotify.com/album/7FHXsFk96blgIpAujGbNUT"
+      },
+      "artists": [
+        {
+          "name": "Magnolia",
+          "url": "https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201465,
+      "name": "Your Smile",
+      "url": "https://open.spotify.com/track/1j49Blzw3HDfZ3KUs88zzl"
     },
     {
       "album": {

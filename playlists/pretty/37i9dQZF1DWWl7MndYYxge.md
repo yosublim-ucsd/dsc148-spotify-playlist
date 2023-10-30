@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,571 likes - 80 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,804 likes - 80 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 79 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
 | 80 | [The Promise You Made](https://open.spotify.com/track/1bWrJnsvHCo8vsXWaatWIs) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Cock Robin \(Expanded Edition\)](https://open.spotify.com/album/3rGS1WQSfZA9ES458g9gP4) | 3:55 |
 
-Snapshot ID: `MCw2Y2QzNmZlOWY1ZGNkOTYzZjZiZGE2YWNiZGM2OWZjNzdiNGQ3OWIx`
+Snapshot ID: `MCw0MTQyZTViN2FiOTFmMDcyYmM4OWYyYWRhMzc2NzMxMjFhYjBlZWMz`

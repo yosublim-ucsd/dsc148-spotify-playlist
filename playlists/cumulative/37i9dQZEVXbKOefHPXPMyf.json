@@ -12358,7 +12358,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 1284345,
       "name": "Hermoso Momento (Sesi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/2xMa0tcCol50Tx8juI2N6f"
@@ -14256,6 +14256,28 @@
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
+    },
+    {
+      "album": {
+        "name": "K.D.P. (feat. YOVNGCHIMI)",
+        "url": "https://open.spotify.com/album/42oHMOi2kO849JmYhf9vSl"
+      },
+      "artists": [
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250700,
+      "name": "K.D.P. (feat. YOVNGCHIMI)",
+      "url": "https://open.spotify.com/track/6woLMre9nBApTlIobN5Py5"
     },
     {
       "album": {
@@ -18240,7 +18262,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 139380,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/2hFW9TTLrpe6ZDk3qzlfX7"
@@ -18808,7 +18830,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -29213,6 +29235,24 @@
     },
     {
       "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250100,
+      "name": "This Love (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/5QVVjX0ZItqlVpEuVCM9Yg"
+    },
+    {
+      "album": {
         "name": "Color",
         "url": "https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv"
       },
@@ -31236,7 +31276,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 159666,
       "name": "Vamonos",
       "url": "https://open.spotify.com/track/7mzA5LrxAtgDDedbJH5oYL"

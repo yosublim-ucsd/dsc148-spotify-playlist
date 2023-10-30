@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,305 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,370 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 90 | [Ya Te la Cypress](https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:07 |
 | 91 | [Malvivientes](https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Karlos Loayzat](https://open.spotify.com/artist/3rfra93e0UicabkeHC9NNU) | [Malvivientes](https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI) | 4:54 |
 | 92 | [Sangre De Barrio](https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Viviendo Recio](https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB) | 5:06 |
-| 93 | [Me Gustas](https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Todo Bien](https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ) | 3:28 |
-| 94 | [Así Son Mis Días](https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:34 |
+| 93 | [Así Son Mis Días](https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:34 |
+| 94 | [Me Gustas](https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Todo Bien](https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ) | 3:28 |
 | 95 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
 | 96 | [All My Life](https://open.spotify.com/track/2B4oDTNdmVGVplWTFoSwbx) | [MC Magic](https://open.spotify.com/artist/3cuVSUrq0yoSSP7gpvI6q1), [Nichole](https://open.spotify.com/artist/4NT0dR9aUV38ZdFwQ0knZZ) | [Magic City](https://open.spotify.com/album/7BlkHZxgF2tX7lk12c3DOa) | 3:43 |
 | 97 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo](https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Borrachos Y Grifos](https://open.spotify.com/track/4Moj88SKkcxqFmBLpovzzB) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Borrachos Y Grifos](https://open.spotify.com/album/4g6oslb6tvmkt0NHdstmOP) | 5:16 |
 | 100 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 |
 
-Snapshot ID: `MCw3OTU0OGQ5N2U0NzBmZTg4Y2VhZTYzZTBmZjU3MTUyYmI3ZjBlNzRh`
+Snapshot ID: `MCwxOTY4YTllNmNkMGEyODE5MWU0MTUxNWZiMjU1MDFmZDNlMGFjMjdk`

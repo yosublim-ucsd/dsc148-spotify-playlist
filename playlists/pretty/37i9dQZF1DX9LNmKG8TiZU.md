@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des nouveautés pop, tout en douceur\. Photo : Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,303 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,389 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 19 | [As It Was \- Harry Styles Cover](https://open.spotify.com/track/3TnI411IbdarMBCu8WChv7) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [As It Was \(Harry Styles Cover\)](https://open.spotify.com/album/1ddOA3BcFJklQKeqrQwiZJ) | 3:12 |
 | 20 | [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 |
 | 21 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
-| 22 | [This could have been my summer](https://open.spotify.com/track/6fZPOZXvC8oyqMGLma0dY2) | [Angelina Beroe](https://open.spotify.com/artist/4EZjCeU9fbZidk5dS2nl0q) | [This could have been my summer](https://open.spotify.com/album/00YJr1XCVk6niqQjzrDbd9) | 4:06 |
+| 22 | [This could have been my summer](https://open.spotify.com/track/6fZPOZXvC8oyqMGLma0dY2) | [Angelina Beroe](https://open.spotify.com/artist/4EZjCeU9fbZidk5dS2nl0q) | [This could have been my summer](https://open.spotify.com/album/00YJr1XCVk6niqQjzrDbd9) | 4:10 |
 | 23 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 |
 | 24 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 |
 | 25 | [Save Your Tears \(Acoustic\)](https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [All For You](https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML) | 3:39 |
 | 50 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 
-Snapshot ID: `MCxhZmZiZGZkYTAwNGM2YTYwMDk4OGEzM2NjMDk2ZjU1MWQ4MTU1YmFk`
+Snapshot ID: `MCw4MGQ1OTUxMWU3NTE2ZDFkN2JmYWUxN2I4MDVjNzliYzQwY2ExNmMz`

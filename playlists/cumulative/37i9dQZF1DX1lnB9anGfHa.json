@@ -2903,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "Squid For A Day",
+        "url": "https://open.spotify.com/album/0dCecSOQZTiP5Db8qxye7P"
+      },
+      "artists": [
+        {
+          "name": "Panoram",
+          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176972,
+      "name": "Squid For A Day",
+      "url": "https://open.spotify.com/track/129NkktWJoqa7S7PutQpYc"
+    },
+    {
+      "album": {
         "name": "Such A Drag",
         "url": "https://open.spotify.com/album/5Ymty4zuZZHYYPdynHvivm"
       },

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de artistas con Robot95 & Bruses en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 63820,
+  "num_followers": 63836,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjRiMTkyMGZmZDIxNmMxZjA5YWE2OTQ3NjQyOWUxNmE0ZTlmZTBh",
+  "snapshot_id": "MCw5OWY5NDlmODg4NDRhZjBjMDk0NzZlYmYwNjMyZTk3MDYyNGIzMTVm",
   "tracks": [
     {
       "added_at": "2023-10-21 01:26:40",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "de mi cabeza no te vas",
-        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 151011,
-      "name": "de mi cabeza no te vas",
-      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
         "name": "Agosto",
         "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 219666,
       "name": "Agosto",
       "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
+        "name": "de mi cabeza no te vas",
+        "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "de mi cabeza no te vas",
+      "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
         "name": "Agua Caliente",
         "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 150347,
       "name": "Tengo Que Hacer Esto Por Mi",
       "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -1000,8 +1000,8 @@
       },
       "artists": [
         {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
         }
       ],
       "duration_ms": 167240,
@@ -1123,18 +1123,22 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "cansada de verte en todas partes",
-        "url": "https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf"
+        "name": "Es Tan Bonita",
+        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 170803,
-      "name": "cansada de verte en todas partes",
-      "url": "https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR"
+      "duration_ms": 159333,
+      "name": "Es Tan Bonita",
+      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -1155,22 +1159,18 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "Es Tan Bonita",
-        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
+        "name": "cansada de verte en todas partes",
+        "url": "https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf"
       },
       "artists": [
         {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 159333,
-      "name": "Es Tan Bonita",
-      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
+      "duration_ms": 170803,
+      "name": "cansada de verte en todas partes",
+      "url": "https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -1228,8 +1228,8 @@
       },
       "artists": [
         {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
         },
         {
           "name": "Carlos Colosio",

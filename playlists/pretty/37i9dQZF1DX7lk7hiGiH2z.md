@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Süßes sonst gibt's Saures! 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,624 likes - 45 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,041 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 18 | [Somebody's Watching Me](https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me](https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw) | 4:58 |
 | 19 | [Geisterzeit](https://open.spotify.com/track/3iqnMvh5RW8IAjlzUrAZcj) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanzfieber!](https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2) | 3:10 |
 | 20 | [Wir machen buh \(Das Monsterlied\)](https://open.spotify.com/track/6IEAhuasBSawgiWh42Cuvp) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Lieder für Jungs](https://open.spotify.com/album/3HnGp4MVndf6sGgmbPwavT) | 3:05 |
-| 21 | [Fledi Fledermaus](https://open.spotify.com/track/5vVnQ1jVM6COKY6NunH6xr) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Fledi Fledermaus](https://open.spotify.com/album/0jMoqZWYYp6zfdeRbp2p4M) | 2:12 |
-| 22 | [Gespenster und Vampire](https://open.spotify.com/track/4EWFa6k3VJgBjhvKu3nsdK) | [Andi Und Die Affenbande](https://open.spotify.com/artist/2TcyoCxsDs7SIunkChvNjq) | [Gespenster und Vampire](https://open.spotify.com/album/2WK7N0bHiLFXrvMjK2tG4M) | 3:02 |
+| 21 | [Gespenster und Vampire](https://open.spotify.com/track/4EWFa6k3VJgBjhvKu3nsdK) | [Andi Und Die Affenbande](https://open.spotify.com/artist/2TcyoCxsDs7SIunkChvNjq) | [Gespenster und Vampire](https://open.spotify.com/album/2WK7N0bHiLFXrvMjK2tG4M) | 3:02 |
+| 22 | [Fledi Fledermaus](https://open.spotify.com/track/5vVnQ1jVM6COKY6NunH6xr) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Fledi Fledermaus](https://open.spotify.com/album/0jMoqZWYYp6zfdeRbp2p4M) | 2:12 |
 | 23 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |
 | 24 | [Zombietanz](https://open.spotify.com/track/2o8OojmqLNat22KUd1YeRl) | [Minidisco Deutsch](https://open.spotify.com/artist/6wHvqVUezhjP2pNemRLyIY) | [Minidisco 2020 \(Deutsch Version\)](https://open.spotify.com/album/0HT9yqMozur34CCOk9pdLd) | 2:54 |
 | 25 | [Paranormal](https://open.spotify.com/track/6dmdfDexEUn0aSPgZQLbrv) | [Dolini](https://open.spotify.com/artist/4XKVz2WC7nZStQsHJv7zyS) | [Paranormal](https://open.spotify.com/album/7p7huTAyXP2i2WdfyB32rB) | 4:12 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 44 | [Drei kleine Hexen](https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T) | [Rainer Wenzel](https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh) | [Au Backe!](https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I) | 2:48 |
 | 45 | [Monsterparty](https://open.spotify.com/track/43fpx6UumXkrClViE5kfrV) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Party \- EP](https://open.spotify.com/album/1Axi7PGr2v3JLEHHkoLAK7) | 2:10 |
 
-Snapshot ID: `MCxmY2FlNDdkMDM4YjNhOGE0MTI0ZDRiZGJkOWUyNWQyNDg3Yjk5ZmIw`
+Snapshot ID: `MCxjYTlkYmI2ZTllMzM0OTY2MjExM2RlMjM4YmU1MDg4MGY0OGI5ZGJm`

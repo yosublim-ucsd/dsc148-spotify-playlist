@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 63453,
+  "num_followers": 63490,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2",
+  "snapshot_id": "MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -163,22 +163,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN"
+        "name": "Anatolia",
+        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
       },
       "artists": [
         {
-          "name": "TRYM",
-          "url": "https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z"
-        },
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
         }
       ],
-      "duration_ms": 443026,
-      "name": "Trinity - Amelie Lens Remix",
-      "url": "https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r"
+      "duration_ms": 309840,
+      "name": "Anatolia",
+      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -203,18 +199,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Anatolia",
-        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN"
       },
       "artists": [
         {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+          "name": "TRYM",
+          "url": "https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z"
+        },
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 309840,
-      "name": "Anatolia",
-      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
+      "duration_ms": 443026,
+      "name": "Trinity - Amelie Lens Remix",
+      "url": "https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "The Haunted House of House",
+        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 346640,
+      "name": "Cow Palace",
+      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Moon III",
         "url": "https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 117868,
       "name": "The Other Room",
       "url": "https://open.spotify.com/track/3BqEAXUXFoBLm2JXbEuG7o"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "The Haunted House of House",
-        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 346640,
-      "name": "Cow Palace",
-      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
     },
     {
       "added_at": "2023-06-09 18:05:35",

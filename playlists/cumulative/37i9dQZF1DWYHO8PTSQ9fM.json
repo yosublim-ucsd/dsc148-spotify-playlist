@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
@@ -3072,6 +3072,24 @@
       "duration_ms": 184633,
       "name": "People (feat. Cian Ducrot)",
       "url": "https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q"
+    },
+    {
+      "album": {
+        "name": "prayer1",
+        "url": "https://open.spotify.com/album/7byVxlCnqyq58cDcMj3bls"
+      },
+      "artists": [
+        {
+          "name": "april27",
+          "url": "https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "prayer1",
+      "url": "https://open.spotify.com/track/2R4sIoCrJb4OV5qcsNDIQ6"
     },
     {
       "album": {

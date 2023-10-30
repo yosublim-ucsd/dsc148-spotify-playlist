@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,680 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,682 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 | 4 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 5 | [Joy To The World](https://open.spotify.com/track/1G0oNJo3OpBbY6Y6infgnf) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy To The World](https://open.spotify.com/album/2JT7bugcBLWQ4wOIjVoKdy) | 5:01 |
 | 6 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 |
-| 7 | [Merry Christmas Baby](https://open.spotify.com/track/00Rlpe9Mh9jxaKf8wIBeHX) | [Jordan Mailata](https://open.spotify.com/artist/5HuUp43KWjjxtmQXB0OlUf), [Lady Alma](https://open.spotify.com/artist/61DvlgEM6AtszTLLPP4diu) | [Merry Christmas Baby](https://open.spotify.com/album/1QrvcSGTYq213gxbABZRPA) | 4:18 |
+| 7 | [Merry Christmas Baby](https://open.spotify.com/track/00Rlpe9Mh9jxaKf8wIBeHX) | [The Philly Specials](https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX), [Lady Alma](https://open.spotify.com/artist/61DvlgEM6AtszTLLPP4diu), [Jordan Mailata](https://open.spotify.com/artist/5HuUp43KWjjxtmQXB0OlUf) | [Merry Christmas Baby](https://open.spotify.com/album/1QrvcSGTYq213gxbABZRPA) | 4:18 |
 | 8 | [Ain't No Chimneys in the Projects](https://open.spotify.com/track/4RZZkgTr9PtlcmSGVBezxu) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T) | 2:22 |
 | 9 | [Everyday Will Be Like a Holiday](https://open.spotify.com/track/461QQg3ncg2El2QWtUYXvQ) | [Kyla Jade](https://open.spotify.com/artist/53h8uFTiJyCrwu5SKsqAF0) | [Everyday Will Be Like a Holiday](https://open.spotify.com/album/5iXlwKBmIVd2eEvCHU3LiZ) | 3:56 |
 | 10 | [Spend Christmas With You](https://open.spotify.com/track/556fETibluMiMzsMpqhaiy) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 4:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 | 59 | [Santa's Got a Brand New Bag](https://open.spotify.com/track/3gyxI5fCcil5xNy5RL9DPo) | [Gary Walker](https://open.spotify.com/artist/1SiS31gWN3auJDxLU1CGCL), [The Boogie Kings](https://open.spotify.com/artist/02FT4qRWquTbmIJSSSp5c8) | [Louisiana Christmas](https://open.spotify.com/album/75mbpdrEZKAXVxvXPCkCjF) | 3:09 |
 | 60 | [Merry Christmas Baby](https://open.spotify.com/track/7ooQiumdRcTkymVcekm4U1) | [Vernon Garrett](https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu) | [Merry Christmas Baby](https://open.spotify.com/album/6cVHfWKMVcKKc3VChVI9C6) | 2:48 |
 
-Snapshot ID: `MCxjYjA5ZDRhYWVhOGVlNjUxMWViYmY5ZjUwZmI4YmJlZWZjZjFmMTVk`
+Snapshot ID: `MCw0NDY5NTVkNmQ4ZDc3ZjJhYTFiMDlmY2U2ZWE5NGY1MDNlZWRmZDFi`

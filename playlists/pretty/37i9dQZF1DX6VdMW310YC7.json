@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3675383,
+  "num_followers": 3675682,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTE5ZTEwNmIyMzI3ZjBiMGE3ODA3N2U3YzU3NTE1YTYyNmQyNWJh",
+  "snapshot_id": "MCxkNjEwNWZiZjUxMjk5NTdhMGVmZDk0NmQzOWMzNGY4NjgzMzcxMjA0",
   "tracks": [
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 186472,
       "name": "High On You",
       "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 248432,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
-        }
-      ],
-      "duration_ms": 220383,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
       },
@@ -1315,6 +1295,26 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 220383,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
         "name": "Can't Help But Think About You",
         "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
       },
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "Just",
-        "url": "https://open.spotify.com/album/0vYOAJM94XCdETxlSwFi7Y"
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
       },
       "artists": [
         {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/2u9o4jlbtzqdy2bsBX9FYK"
+      "duration_ms": 174344,
+      "name": "Just Over",
+      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1363,6 +1363,22 @@
       "duration_ms": 170721,
       "name": "The Chase (Edit)",
       "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
+        "name": "Just",
+        "url": "https://open.spotify.com/album/0vYOAJM94XCdETxlSwFi7Y"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/2u9o4jlbtzqdy2bsBX9FYK"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1387,22 +1403,6 @@
       "duration_ms": 198574,
       "name": "Before Dawn",
       "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 174344,
-      "name": "Just Over",
-      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "Assassin",
-        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
-    },
-    {
-      "added_at": "2023-10-28 22:59:35",
-      "album": {
         "name": "Unfurl",
         "url": "https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 298213,
       "name": "Bound",
       "url": "https://open.spotify.com/track/1iOPoPTFROlTeYpJik7VMs"
+    },
+    {
+      "added_at": "2023-10-28 22:59:35",
+      "album": {
+        "name": "Assassin",
+        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1563,18 +1563,22 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3"
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
         }
       ],
-      "duration_ms": 220625,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
+      "duration_ms": 212906,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
     },
     {
       "added_at": "2023-10-28 22:59:35",
@@ -1619,22 +1623,18 @@
     {
       "added_at": "2023-10-28 22:59:35",
       "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3"
       },
       "artists": [
         {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 212906,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
+      "duration_ms": 220625,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
     },
     {
       "added_at": "2023-10-28 22:59:35",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Babehoven",
+  "description": "Underground indie rock gems. Cover: Teethe",
   "name": "undercurrents",
   "tracks": [
     {
@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 170537,
       "name": "Cowboy Nudes",
       "url": "https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9"
@@ -5758,7 +5758,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 139093,
       "name": "Escape",
       "url": "https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI"
@@ -6866,7 +6866,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 196125,
       "name": "From Me to You",
       "url": "https://open.spotify.com/track/0yTizzQjcAOj8zZNfHBkgL"
@@ -11764,6 +11764,24 @@
       "duration_ms": 200025,
       "name": "Montana",
       "url": "https://open.spotify.com/track/5f4jIPLCdVFXLOO3wadbiM"
+    },
+    {
+      "album": {
+        "name": "All Over Again b/w Moon",
+        "url": "https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty"
+      },
+      "artists": [
+        {
+          "name": "Teethe",
+          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162969,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0"
     },
     {
       "album": {
@@ -16723,6 +16741,24 @@
     },
     {
       "album": {
+        "name": "Table",
+        "url": "https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120867,
+      "name": "Table",
+      "url": "https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ"
+    },
+    {
+      "album": {
         "name": "Take Care",
         "url": "https://open.spotify.com/album/55c7EDosAWRRQgSr2oeuCZ"
       },
@@ -17138,7 +17174,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 167857,
       "name": "the ocean that ate new york",
       "url": "https://open.spotify.com/track/3h8YKo7IZuJI5rqsUeQ3oP"
@@ -17949,6 +17985,24 @@
     },
     {
       "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226188,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH"
+    },
+    {
+      "album": {
         "name": "Seney Stretch",
         "url": "https://open.spotify.com/album/34bh9mmSZIaDvCcfW6W2AH"
       },
@@ -18646,6 +18700,24 @@
       "duration_ms": 161040,
       "name": "Violent",
       "url": "https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA"
+    },
+    {
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/0oqG9MPBLpR0fsfMcLqgp3"
+      },
+      "artists": [
+        {
+          "name": "Black Polish",
+          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255875,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/71CABiTtVWO3eSXTXJRRYz"
     },
     {
       "album": {

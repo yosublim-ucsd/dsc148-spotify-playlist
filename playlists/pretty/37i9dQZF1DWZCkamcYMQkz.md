@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,494 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,666 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 11 | [Back in Your Own Back Yard](https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef), [William Galison](https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn) | [Got You on My Mind](https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S) | 2:32 |
 | 12 | [Waltz For Debby \- Live At The Village Vanguard, New York / 1961 / Take 2](https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [At The Village Vanguard](https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj) | 6:49 |
 | 13 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 |
-| 14 | [Everything Happens to Me](https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:47 |
-| 15 | [Ac\-Cent\-Tchu\-Ate the Positive](https://open.spotify.com/track/4JBtcz5a0WHBTfKXpg7P0e) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Electrifying Aretha Franklin \(Expanded Edition\)](https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH) | 2:16 |
+| 14 | [Ac\-Cent\-Tchu\-Ate the Positive](https://open.spotify.com/track/4JBtcz5a0WHBTfKXpg7P0e) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Electrifying Aretha Franklin \(Expanded Edition\)](https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH) | 2:16 |
+| 15 | [Everything Happens to Me](https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:47 |
 | 16 | [Let Me Take You for a Walk](https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4) | 5:06 |
 | 17 | [I'm Beginning To See The Light \- 2001 Digital Remaster](https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Oh! Look At Me Now](https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE) | 2:18 |
 | 18 | [O Pato](https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 2:29 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 29 | [Hope](https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:01 |
 | 30 | [It's All Right](https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 2:50 |
 | 31 | [I've Got You Under My Skin \- 2011 Remaster](https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Desmond Blue](https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58) | 4:39 |
-| 32 | [Straighten Up And Fly Right](https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:36 |
+| 32 | [When Lights Are Low](https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:56 |
 | 33 | [Mumbles](https://open.spotify.com/track/0sguFXNUDV7rZ9GYB9v1r2) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson's Finest Hour](https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP) | 2:01 |
-| 34 | [When Lights Are Low](https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:56 |
+| 34 | [Straighten Up And Fly Right](https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:36 |
 | 35 | [Just You, Just Me](https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 2:24 |
 | 36 | [Cheek To Cheek](https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:58 |
 | 37 | [Oh, Good Grief](https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Boy Named Charlie Brown](https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui) | 2:22 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 96 | [Hurricane Connie](https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:16 |
 | 97 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 |
 | 98 | [It's All Right With Me \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:00 |
-| 99 | [Hip Trolley](https://open.spotify.com/track/45ePywU8XC3cgimQXcmFjj) | [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Business Meetin'](https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m) | 5:25 |
-| 100 | [Thedia](https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Thedia](https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo) | 5:03 |
+| 99 | [Thedia](https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Thedia](https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo) | 5:03 |
+| 100 | [Uncle Rough](https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:33 |
 
-Snapshot ID: `MCw5MjgyNzZkYzNjZjY4N2NlMGZiNGVlZWUzNWExZjA3YTMyMmE5MmJh`
+Snapshot ID: `MCw4MDI2ZmVkOWMzYWI1N2Y3NDI3M2E1NmVkMGZmZTNkMjRkNzAzNDBi`

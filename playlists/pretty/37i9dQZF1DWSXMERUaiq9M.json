@@ -1,12 +1,12 @@
 {
   "description": "love peace techno",
-  "num_followers": 175933,
+  "num_followers": 176430,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmJkYjUwNDc3NjVjM2ExNGI2ZjgzYWJmMWQ1NjYyMDYyMTgzNDQ5",
+  "snapshot_id": "MCxkYWJlYjIwYTg0ZWU5YTliNDAwNjg2MThjZThhN2Y1YzI5OWJmYTFi",
   "tracks": [
     {
       "added_at": "2023-10-26 22:01:00",
@@ -275,18 +275,22 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
         }
       ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -311,22 +315,18 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "KETA UND KRAWALL",
-        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
       },
       "artists": [
         {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 125492,
-      "name": "KETA UND KRAWALL",
-      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "Off Wiv Ya Headz",
-        "url": "https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 206694,
-      "name": "Off Wiv Ya Headz",
-      "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
-    },
-    {
-      "added_at": "2023-10-26 22:01:00",
-      "album": {
         "name": "Pretty People (feat. INJI)",
         "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 149771,
       "name": "Pretty People (feat. INJI)",
       "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
+    },
+    {
+      "added_at": "2023-10-26 22:01:00",
+      "album": {
+        "name": "Off Wiv Ya Headz",
+        "url": "https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 206694,
+      "name": "Off Wiv Ya Headz",
+      "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -711,22 +711,22 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "My Barn My Rules",
-        "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
+        "name": "Day 'N' Night",
+        "url": "https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0"
       },
       "artists": [
         {
-          "name": "MCR-T",
-          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
         },
         {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
         }
       ],
-      "duration_ms": 126530,
-      "name": "My Barn My Rules - Edit",
-      "url": "https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW"
+      "duration_ms": 200040,
+      "name": "Day 'N' Night",
+      "url": "https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -747,22 +747,22 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
-        "name": "Day 'N' Night",
-        "url": "https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0"
+        "name": "My Barn My Rules",
+        "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+          "name": "MCR-T",
+          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
         },
         {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Day 'N' Night",
-      "url": "https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc"
+      "duration_ms": 126530,
+      "name": "My Barn My Rules - Edit",
+      "url": "https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW"
     },
     {
       "added_at": "2023-10-26 22:01:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-10-26 22:01:00",
       "album": {
+        "name": "Sar\u00e0 perch\u00e9 ti amo",
+        "url": "https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        }
+      ],
+      "duration_ms": 134607,
+      "name": "Sar\u00e0 perch\u00e9 ti amo",
+      "url": "https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS"
+    },
+    {
+      "added_at": "2023-10-26 22:01:00",
+      "album": {
         "name": "tonight belongs to you",
         "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 147075,
       "name": "tonight belongs to you",
       "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
-    },
-    {
-      "added_at": "2023-10-26 22:01:00",
-      "album": {
-        "name": "Goldener Raver (1995 Remix)",
-        "url": "https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz"
-      },
-      "artists": [
-        {
-          "name": "Joachim Witt",
-          "url": "https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV"
-        },
-        {
-          "name": "Komakino",
-          "url": "https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "Goldener Raver (1995 Remix) - Rave Mix",
-      "url": "https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw"
     }
   ],
   "unique_name": "rave",

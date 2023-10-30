@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 192458,
       "name": "Chama De Amor",
       "url": "https://open.spotify.com/track/7FENXy3cRC1nkwerVvxgCI"
@@ -5390,6 +5390,24 @@
       "duration_ms": 204631,
       "name": "Met Him Last Night (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3"
+    },
+    {
+      "album": {
+        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 3",
+        "url": "https://open.spotify.com/album/7G7KssIGmmCFxf57ry7Hi1"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Meu Quesito \u00e9 Saber Viver - Ao Vivo",
+      "url": "https://open.spotify.com/track/27UDhlspddipfQ4y5bE2j1"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Primos del Este en portada.",
-  "num_followers": 428012,
+  "num_followers": 428132,
   "original_name": "Norte\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTI2M2Q4YWU3MDEyOTI5Yjc4NTdlYzgwNWNmNGQ4MGNiNjNmYzVk",
+  "snapshot_id": "MCxmZWVlMTBjODFjNzdjZjM1NmI2OWUyNzQ3YzI2OWZkN2RhZTNmODY3",
   "tracks": [
     {
       "added_at": "2023-10-21 07:06:11",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+      "duration_ms": 200061,
+      "name": "No Es Mentira (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "No Es Mentira (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 200061,
-      "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "Si Fuera F\u00e1cil",
+        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170496,
+      "name": "Si Fuera F\u00e1cil",
+      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "M.L.P",
         "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
-        "name": "Si Fuera F\u00e1cil",
-        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Si Fuera F\u00e1cil",
-      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "De Boca En Boca",
+        "url": "https://open.spotify.com/album/01olKgKJsavApHa7QJNT29"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 187835,
+      "name": "Se Fue La Pantera",
+      "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "Loco Enamorado",
         "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
-        "name": "De Boca En Boca",
-        "url": "https://open.spotify.com/album/01olKgKJsavApHa7QJNT29"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 187835,
-      "name": "Se Fue La Pantera",
-      "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Soy Todo Tuyo",
         "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 187373,
       "name": "Soy Todo Tuyo",
       "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1600,16 +1600,8 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         },
         {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
         },
         {
           "name": "Jes\u00fas Ojeda y Sus Parientes",
@@ -1620,8 +1612,16 @@
           "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
         },
         {
-          "name": "Grupo H-100",
-          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
         }
       ],
       "duration_ms": 245915,
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Me Rehuso",
-        "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 167131,
-      "name": "Me Rehuso",
-      "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
@@ -1699,22 +1683,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "B\u00e9lica Como Ninguna",
-        "url": "https://open.spotify.com/album/2kEeiftlpYDuSfRmlwCh1K"
+        "name": "Me Rehuso",
+        "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
       },
       "artists": [
         {
-          "name": "Los Ejemplares del Rancho",
-          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 141386,
-      "name": "B\u00e9lica Como Ninguna",
-      "url": "https://open.spotify.com/track/59XObm1gFYaUOdzsg0QApT"
+      "duration_ms": 167131,
+      "name": "Me Rehuso",
+      "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1731,6 +1711,26 @@
       "duration_ms": 201706,
       "name": "Qu\u00e9date Conmigo Esta Noche",
       "url": "https://open.spotify.com/track/0eJ45rJvRVc6OBZqe4hHsc"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "B\u00e9lica Como Ninguna",
+        "url": "https://open.spotify.com/album/2kEeiftlpYDuSfRmlwCh1K"
+      },
+      "artists": [
+        {
+          "name": "Los Ejemplares del Rancho",
+          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 141386,
+      "name": "B\u00e9lica Como Ninguna",
+      "url": "https://open.spotify.com/track/59XObm1gFYaUOdzsg0QApT"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1867,22 +1867,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "La Ley del Mayo",
-        "url": "https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH"
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
         }
       ],
-      "duration_ms": 216604,
-      "name": "La Ley del Mayo",
-      "url": "https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7"
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1903,18 +1899,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+        "name": "La Ley del Mayo",
+        "url": "https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH"
       },
       "artists": [
         {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
+      "duration_ms": 216604,
+      "name": "La Ley del Mayo",
+      "url": "https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Obsesi\u00f3n",
-        "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 152448,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Termino Con Lo Nuestro",
         "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 217409,
       "name": "Termino Con Lo Nuestro",
       "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "Obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 152448,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Hierba Mala Nunca Muere (M\u00fasica Original de la Serie el Se\u00f1or de los Cielos 8)",
-        "url": "https://open.spotify.com/album/6gLvcZQeELJuG9Xsy30A6u"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 198975,
-      "name": "Hierba Mala Nunca Muere (M\u00fasica Original de la Serie el Se\u00f1or de los Cielos 8)",
-      "url": "https://open.spotify.com/track/5v6jSoZb9VVYeJaiUQ8xxF"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Los de 100pre",
         "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
       },
@@ -2183,6 +2167,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "Hierba Mala Nunca Muere (M\u00fasica Original de la Serie el Se\u00f1or de los Cielos 8)",
+        "url": "https://open.spotify.com/album/6gLvcZQeELJuG9Xsy30A6u"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198975,
+      "name": "Hierba Mala Nunca Muere (M\u00fasica Original de la Serie el Se\u00f1or de los Cielos 8)",
+      "url": "https://open.spotify.com/track/5v6jSoZb9VVYeJaiUQ8xxF"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "Tiempo Al Tiempo",
         "url": "https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U"
       },
@@ -2199,22 +2199,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "20/10",
-        "url": "https://open.spotify.com/album/55F9pHphIdcHO2FS7vq7X1"
+        "name": "Yo Siempre Lo Supe",
+        "url": "https://open.spotify.com/album/5pypGEQpjgTyqnSmfcDqqk"
       },
       "artists": [
         {
-          "name": "Grupo Alfa",
-          "url": "https://open.spotify.com/artist/078DGCbkOWtHamc21qE0Sy"
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
         },
         {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "duration_ms": 175636,
-      "name": "20/10",
-      "url": "https://open.spotify.com/track/1gN2LkgHDZgxWZOMMzHtOv"
+      "duration_ms": 210418,
+      "name": "Yo Siempre Lo Supe",
+      "url": "https://open.spotify.com/track/287iGnAlvAZoOx2vPq3wjt"
     },
     {
       "added_at": "2023-10-21 07:06:11",

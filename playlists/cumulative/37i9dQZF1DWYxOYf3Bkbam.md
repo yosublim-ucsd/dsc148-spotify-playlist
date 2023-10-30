@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-161 songs - 8 hr 26 min
+162 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Mi Última Flor](https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:26 | 2021-11-19 |  |
 | [Mis Harapos](https://open.spotify.com/track/3gjICraXtcv9m4eFhKHYVC) | [Los Tatas del Chamamé](https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw) | [No Le Mezquine la Marca](https://open.spotify.com/album/0wjDpVzsLDJhQJFxh3tDv1) | 2:33 | 2021-11-19 | 2022-07-29 |
 | [Nazareno](https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Otras Músicas](https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY) | 4:35 | 2022-07-05 | 2023-10-22 |
+| [Nazareno](https://open.spotify.com/track/6pIAha0Dd1jjrMLozs2kVv) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Otras Músicas](https://open.spotify.com/album/09sEjVuNxgmY9OxKR6P9Jn) | 4:35 | 2023-06-09 |  |
 | [Nazareno](https://open.spotify.com/track/72CLLuAm4shF2M28CmTUPe) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Otras Músicas](https://open.spotify.com/album/6iYwUTIBeOwE3NptAXPIwx) | 4:35 | 2021-11-19 | 2022-06-14 |
 | [Neique Chamigo](https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 2:26 | 2021-11-19 |  |
 | [No Cualquiera Es Correntino](https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz) | [Los de Mailin](https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB) | [20 Grandes Exitos](https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx) | 2:13 | 2021-11-19 |  |
@@ -160,7 +161,7 @@
 | [Te amare eternamente](https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo) | [Los Hermanos Barrios](https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:12 | 2021-11-19 |  |
 | [Te sigo queriendo](https://open.spotify.com/track/6K7HQklyjHMsxqjMMXXRyB) | [Avelino Flores](https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:32 | 2021-11-19 | 2022-07-18 |
 | [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 | 2023-06-09 |  |
-| [Temple guarani](https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R) | [Juancito el Peregrino](https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:28 | 2021-11-19 |  |
+| [Temple guarani](https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R) | [Juancito el Peregrino](https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:28 | 2021-11-19 | 2023-10-30 |
 | [Tiempo](https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG) | [Hernán Crespo](https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR), [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Tiempo](https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL) | 4:30 | 2021-11-19 |  |
 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/4A2Gnw92jmcEWpFba6i7x9) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto \(En Vivo en el Teatro Colón\)](https://open.spotify.com/album/502Tc6vY1fm9WQ9ceBhsZg) | 4:48 | 2022-07-05 | 2023-10-21 |
 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/54Z1VfgxdIW0n19Df9r9Sy) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto \(En Vivo\) \[En Vivo en el Teatro Colón\]](https://open.spotify.com/album/7x6C47bUm4asmVz4UIvl2l) | 4:48 | 2021-11-19 | 2022-07-29 |

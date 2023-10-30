@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Flatland Cavalry",
-  "num_followers": 418858,
+  "num_followers": 418889,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTcwMjMxZmMxNTA1ZjI2OTQxYzlhMDA5NTYzOGQzNTE4Yjg5MmZh",
+  "snapshot_id": "MCxhMDFhM2U1MzE2ZGU0Mzk4ZmI2MGQ0MzA3NzNlZjIyMzJlMTUxMGQ4",
   "tracks": [
     {
       "added_at": "2023-10-27 17:28:09",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-10-27 17:28:09",
       "album": {
-        "name": "Diamondhead",
-        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
       "artists": [
         {
-          "name": "J.R. Carroll",
-          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 187375,
-      "name": "Diamondhead",
-      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2023-10-27 17:28:09",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-10-27 17:28:09",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+        "name": "Diamondhead",
+        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "J.R. Carroll",
+          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
         }
       ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+      "duration_ms": 187375,
+      "name": "Diamondhead",
+      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
     },
     {
       "added_at": "2023-10-27 17:28:09",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-10-27 17:28:09",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2023-10-27 17:28:09",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-10-27 17:28:09",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2023-10-27 17:28:09",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-10-27 17:28:09",
       "album": {
+        "name": "Boy From Anderson County",
+        "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 244290,
+      "name": "Boy From Anderson County",
+      "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
+    },
+    {
+      "added_at": "2023-10-27 17:28:09",
+      "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 214253,
       "name": "Your Bar Now",
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
-    },
-    {
-      "added_at": "2023-10-27 17:28:09",
-      "album": {
-        "name": "Boy From Anderson County",
-        "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 244290,
-      "name": "Boy From Anderson County",
-      "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
     },
     {
       "added_at": "2023-10-27 17:28:09",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-10-27 17:28:09",
       "album": {
-        "name": "Bridges To Burn",
-        "url": "https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G"
+        "name": "Heartfelt",
+        "url": "https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge"
       },
       "artists": [
         {
-          "name": "Nick Hickman",
-          "url": "https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h"
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
         }
       ],
-      "duration_ms": 190171,
-      "name": "Bridges to Burn",
-      "url": "https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt"
+      "duration_ms": 195123,
+      "name": "Heartfelt",
+      "url": "https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl"
     },
     {
       "added_at": "2023-10-27 17:28:09",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-10-27 17:28:09",
       "album": {
-        "name": "Heartfelt",
-        "url": "https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge"
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
       "artists": [
         {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 195123,
-      "name": "Heartfelt",
-      "url": "https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl"
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2023-10-27 17:28:09",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-10-27 17:28:09",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+        "name": "Bridges To Burn",
+        "url": "https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Nick Hickman",
+          "url": "https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+      "duration_ms": 190171,
+      "name": "Bridges to Burn",
+      "url": "https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt"
     },
     {
       "added_at": "2023-10-27 17:28:09",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-10-27 17:28:09",
       "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 191777,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
+    },
+    {
+      "added_at": "2023-10-27 17:28:09",
+      "album": {
         "name": "Settle for a Beer (with Triston Marez)",
         "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
@@ -1591,34 +1607,18 @@
     {
       "added_at": "2023-10-27 17:28:09",
       "album": {
-        "name": "Happy Hour",
-        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
         }
       ],
-      "duration_ms": 191777,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
-    },
-    {
-      "added_at": "2023-10-27 17:28:09",
-      "album": {
-        "name": "Fooled Around",
-        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
-      },
-      "artists": [
-        {
-          "name": "Presley Drake",
-          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
-        }
-      ],
-      "duration_ms": 192125,
-      "name": "Fooled Around",
-      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
+      "duration_ms": 208477,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
     },
     {
       "added_at": "2023-10-27 17:28:09",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-10-27 17:28:09",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
+        "name": "Fooled Around",
+        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
       },
       "artists": [
         {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
         }
       ],
-      "duration_ms": 208477,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
+      "duration_ms": 192125,
+      "name": "Fooled Around",
+      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
     },
     {
       "added_at": "2023-10-27 17:28:09",

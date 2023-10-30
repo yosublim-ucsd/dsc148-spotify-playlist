@@ -2,7 +2,7 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese female rock icons\. Cover: 黒子首\(Hockrockb\)
+> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 黒子首\(Hockrockb\)
 
 1,195 songs - 3 day 3 hr 18 min
 

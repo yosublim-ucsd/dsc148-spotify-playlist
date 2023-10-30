@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 48324,
+  "num_followers": 48351,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDczY2FkOGJhZTUzMzYwOTcwMzBkZjJjZDBkZjIyNjBmZGZhMzNk",
+  "snapshot_id": "MCxiMWE0ZmY4OWZlYjVmYWY4MzQ2MjdkMDQ0MWYwMjhiZDhkYTFlOWNl",
   "tracks": [
     {
       "added_at": "2023-10-02 13:18:34",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Together in Static",
-        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 155375,
-      "name": "Together in Static",
-      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Wander Into",
         "url": "https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 353000,
       "name": "Wander Into",
       "url": "https://open.spotify.com/track/5xOv6ER7scPxk1LIIYFoLv"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Together in Static",
+        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 155375,
+      "name": "Together in Static",
+      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "St / Fr / Sp",
+        "url": "https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Starethrough - Transition Mix",
+      "url": "https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
       },
@@ -683,34 +699,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "St / Fr / Sp",
-        "url": "https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w"
+        "name": "Generative Ambient Vol 1: Modular Synth Instrumentals",
+        "url": "https://open.spotify.com/album/4ggW8kXcgYFxKOtiApiqry"
       },
       "artists": [
         {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+          "name": "PalKid",
+          "url": "https://open.spotify.com/artist/0q9Ts8UgxT6USu2ElZgsqW"
         }
       ],
-      "duration_ms": 304093,
-      "name": "Starethrough - Transition Mix",
-      "url": "https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Being There (Ambient)",
-        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
-      },
-      "artists": [
-        {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
-        }
-      ],
-      "duration_ms": 303157,
-      "name": "Drive West On Sunset - Ambient",
-      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
+      "duration_ms": 139847,
+      "name": "Cloudwalker",
+      "url": "https://open.spotify.com/track/2gLhikHEeRFCjvOM5Li9NR"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Generative Ambient Vol 1: Modular Synth Instrumentals",
-        "url": "https://open.spotify.com/album/4ggW8kXcgYFxKOtiApiqry"
+        "name": "Being There (Ambient)",
+        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
       },
       "artists": [
         {
-          "name": "PalKid",
-          "url": "https://open.spotify.com/artist/0q9Ts8UgxT6USu2ElZgsqW"
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
         }
       ],
-      "duration_ms": 139847,
-      "name": "Cloudwalker",
-      "url": "https://open.spotify.com/track/2gLhikHEeRFCjvOM5Li9NR"
+      "duration_ms": 303157,
+      "name": "Drive West On Sunset - Ambient",
+      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -779,6 +779,30 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Sonic Winds",
+        "url": "https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z"
+      },
+      "artists": [
+        {
+          "name": "Patrick Zelinski",
+          "url": "https://open.spotify.com/artist/3aO62ba1Nshyxrde8Xl34K"
+        },
+        {
+          "name": "Karl Edh",
+          "url": "https://open.spotify.com/artist/3u9sMHkflBCzImVRg3qz6K"
+        },
+        {
+          "name": "Ryan Dimmock",
+          "url": "https://open.spotify.com/artist/65WnZtOZVExOO0YRCPjEZY"
+        }
+      ],
+      "duration_ms": 166965,
+      "name": "Sonic Winds",
+      "url": "https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "The Last Wave",
         "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
       },
@@ -811,46 +835,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "My Birthday Suit",
-        "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
-      },
-      "artists": [
-        {
-          "name": "Hexsystem",
-          "url": "https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh"
-        }
-      ],
-      "duration_ms": 225054,
-      "name": "My Birthday Suit",
-      "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Sonic Winds",
-        "url": "https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z"
-      },
-      "artists": [
-        {
-          "name": "Patrick Zelinski",
-          "url": "https://open.spotify.com/artist/3aO62ba1Nshyxrde8Xl34K"
-        },
-        {
-          "name": "Karl Edh",
-          "url": "https://open.spotify.com/artist/3u9sMHkflBCzImVRg3qz6K"
-        },
-        {
-          "name": "Ryan Dimmock",
-          "url": "https://open.spotify.com/artist/65WnZtOZVExOO0YRCPjEZY"
-        }
-      ],
-      "duration_ms": 166965,
-      "name": "Sonic Winds",
-      "url": "https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Mirages",
         "url": "https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 460480,
       "name": "Monolake",
       "url": "https://open.spotify.com/track/4JXj8hTP3mVvCPcvloyJSE"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "My Birthday Suit",
+        "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
+      },
+      "artists": [
+        {
+          "name": "Hexsystem",
+          "url": "https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh"
+        }
+      ],
+      "duration_ms": 225054,
+      "name": "My Birthday Suit",
+      "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Moonbase Alpha",
+        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
+      },
+      "artists": [
+        {
+          "name": "Hermbot",
+          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "The Station Is Alive Again",
+      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Sounds From Phantom Islands",
         "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
       },
@@ -999,6 +1015,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "full/new",
+        "url": "https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU"
+      },
+      "artists": [
+        {
+          "name": "Lightbath",
+          "url": "https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I"
+        }
+      ],
+      "duration_ms": 452476,
+      "name": "The Hermit",
+      "url": "https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
         "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
       },
@@ -1015,22 +1047,6 @@
       "duration_ms": 192019,
       "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
       "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "full/new",
-        "url": "https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU"
-      },
-      "artists": [
-        {
-          "name": "Lightbath",
-          "url": "https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I"
-        }
-      ],
-      "duration_ms": 452476,
-      "name": "The Hermit",
-      "url": "https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1167,6 +1183,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
+        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Rambutan",
+      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Geoglyph",
         "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
       },
@@ -1179,22 +1211,6 @@
       "duration_ms": 364460,
       "name": "A1. J-Math",
       "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Moonbase Alpha",
-        "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
-      },
-      "artists": [
-        {
-          "name": "Hermbot",
-          "url": "https://open.spotify.com/artist/4uLnFbwbNSbUZxy5lrZ9pt"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "The Station Is Alive Again",
-      "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1219,22 +1235,6 @@
       "duration_ms": 462088,
       "name": "Snow Ritual (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/5t3I5yqfEAJoDbZmPiT9vJ"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
-        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
-      },
-      "artists": [
-        {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Rambutan",
-      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
     },
     {
       "added_at": "2023-10-02 13:18:34",

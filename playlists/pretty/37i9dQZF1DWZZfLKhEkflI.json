@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 65917,
+  "num_followers": 65950,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjdmOGE0MjJhNThjZDdiOTI4ODVhMzJiNjQzNTQxMmVlMjdkNThk",
+  "snapshot_id": "MCwxY2IxODU0ZGI1NWY0ZTQ2MTdiNGE4NTBkZGViMzAxNzdiZGQ0ZWM2",
   "tracks": [
     {
       "added_at": "2023-09-13 11:53:55",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-09-13 11:53:55",
       "album": {
+        "name": "Back To The Tracks",
+        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
+      },
+      "artists": [
+        {
+          "name": "Tina Brooks",
+          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+        }
+      ],
+      "duration_ms": 483293,
+      "name": "Back To The Tracks",
+      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
+    },
+    {
+      "added_at": "2023-09-13 11:53:55",
+      "album": {
         "name": "Star Bright",
         "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 465066,
       "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
       "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
-    },
-    {
-      "added_at": "2023-09-13 11:53:55",
-      "album": {
-        "name": "Six Pieces Of Silver",
-        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
     },
     {
       "added_at": "2023-09-13 11:53:55",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-09-13 11:53:55",
       "album": {
-        "name": "Back To The Tracks",
-        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
+        "name": "Six Pieces Of Silver",
+        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
       "artists": [
         {
-          "name": "Tina Brooks",
-          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
         }
       ],
-      "duration_ms": 483293,
-      "name": "Back To The Tracks",
-      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
+      "duration_ms": 265893,
+      "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
     },
     {
       "added_at": "2023-09-13 11:53:55",

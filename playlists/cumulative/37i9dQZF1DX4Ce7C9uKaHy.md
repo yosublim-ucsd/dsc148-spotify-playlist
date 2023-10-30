@@ -4,7 +4,7 @@
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-155 songs - 5 hr 31 min
+156 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Nightfall](https://open.spotify.com/track/2KdD7cVzytAFBaBYRNvRvd) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Future Feelings](https://open.spotify.com/album/5KMJsVyHhAFkNkwLoA5LkP) | 1:51 | 2020-05-06 |  |
 | [Nightfall](https://open.spotify.com/track/2bCwu6RFRzpRY0UKOnrOmg) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Future Feelings](https://open.spotify.com/album/3EaCf0e92oes8PobBFZWKt) | 1:51 | 2020-05-06 | 2023-09-16 |
 | [Nightfall](https://open.spotify.com/track/36qwbabBgfelOwKWNRquHg) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Future Feelings](https://open.spotify.com/album/7F5LeCpEp53MwfmPtZqPnp) | 1:51 | 2020-05-06 | 2022-07-29 |
-| [Oblivion](https://open.spotify.com/track/2zhPy8zbBf53XgTtkEbnbO) | [Rufi\-O](https://open.spotify.com/artist/5GKakcgOxfujEnTZOffcRn), [Lily Potter](https://open.spotify.com/artist/2ICXkeX9vhcboodu8Auv8p) | [Oblivion](https://open.spotify.com/album/0Oa8rgpPA3gskDwdjpQBHp) | 2:32 | 2020-05-06 |  |
+| [Oblivion](https://open.spotify.com/track/0qQPSnwxQeFIwOYP3oba7Q) | [Rufi\-O](https://open.spotify.com/artist/5GKakcgOxfujEnTZOffcRn), [Lily Potter](https://open.spotify.com/artist/3kcD3ZRH9oUwWSvQNVvMli) | [Oblivion](https://open.spotify.com/album/1ibiLkLIYBtT9QAqJaX456) | 2:32 | 2020-05-06 |  |
+| [Oblivion](https://open.spotify.com/track/2zhPy8zbBf53XgTtkEbnbO) | [Rufi\-O](https://open.spotify.com/artist/5GKakcgOxfujEnTZOffcRn), [Lily Potter](https://open.spotify.com/artist/2ICXkeX9vhcboodu8Auv8p) | [Oblivion](https://open.spotify.com/album/0Oa8rgpPA3gskDwdjpQBHp) | 2:32 | 2020-05-06 | 2023-10-30 |
 | [Owls of the Night](https://open.spotify.com/track/0DxFNeiT0zuSfF2IjX9vDX) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 2:21 | 2020-05-06 | 2023-09-17 |
 | [Owls of the Night](https://open.spotify.com/track/5kYN1soZw4z5FXIBIIy6rG) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [1 Am\. Study Session](https://open.spotify.com/album/6a1N8QyPPdXy1cmicmWktX) | 2:21 | 2020-05-06 |  |
 | [Owls of the Night](https://open.spotify.com/track/6y5TvwKh9BZAPBXnxGxezb) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [1 Am\. Study Session](https://open.spotify.com/album/6XyaVDkZeCWf14x0eESZdl) | 2:21 | 2020-05-06 | 2022-07-29 |

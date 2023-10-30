@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,796 likes - 174 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,806 likes - 174 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 96 | [O Little Town of Bethlehelm](https://open.spotify.com/track/5NHjU6TqwIFrunmTaHfUI4) | [Scott Mulvahill](https://open.spotify.com/artist/2wfUus9ndQRBntDugGk5bn), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [O Come Let Us Adore: A Christmas Collective](https://open.spotify.com/album/3EmPHDaZEz0VpqjWWAlDrL) | 3:18 |
 | 97 | [Silent Night](https://open.spotify.com/track/6jxN0zaAfekU1ovI2vLrna) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Silent Night](https://open.spotify.com/album/2xyRVVOu7Ra3pSRHnFGyJQ) | 3:47 |
 | 98 | [Winter Eclipse](https://open.spotify.com/track/3li9TmbwGuoNoN4TjmW2yY) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [The Songs the Season Brings, Vols\. 1\-4](https://open.spotify.com/album/6GLUn1i6c7EeyGemSgddOm) | 5:09 |
-| 99 | [O Holy Night](https://open.spotify.com/track/0NI13AjDx03bIKUG4pWW7f) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [O Holy Night](https://open.spotify.com/album/6jMJTRRrt71X3uJZ98MT9h) | 3:39 |
+| 99 | [O Holy Night](https://open.spotify.com/track/6QWvGSGhWrgEt9XicZoU73) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Christmas Together \(Wherever We Are\)](https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx) | 3:39 |
 | 100 | [This Love Won't Break Your Heart](https://open.spotify.com/track/0rKjJB90TZ62o8npz8QEn3) | [Annalise Emerick](https://open.spotify.com/artist/4Kbdxhpo7iI1mEe69zxw3V) | [Starry\-Eyed](https://open.spotify.com/album/2FrFkBqF1fGQv4Rz84DcAK) | 4:48 |
 | 101 | [This Holiday](https://open.spotify.com/track/4lnCnaLrmoTWrlIzB7Zx4B) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [This Holiday](https://open.spotify.com/album/0QkbSvfIbbmzw429CnkdrU) | 4:33 |
 | 102 | [This Christmas Is for Us](https://open.spotify.com/track/2bZFe1ofcf8XwudrXSGcaN) | [Shelby Earl](https://open.spotify.com/artist/6PIo5nhCQJbR0NfxPdGnGC) | [This Christmas Is for Us](https://open.spotify.com/album/4IgwaaTNfjvTACJedSKnZp) | 4:19 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 173 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 174 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 
-Snapshot ID: `MCw5NzNiOTRlMWM3MDFlOTY3YTcwZGRmMmVjNmYwNjhmZjE5OGY0MzU5`
+Snapshot ID: `MCwxMTIyOTg4NDllMGNiMTdiMzJjOThiN2YyMjM0YmM2MGM1MzBjMmU2`

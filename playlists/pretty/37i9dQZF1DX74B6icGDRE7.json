@@ -1,12 +1,12 @@
 {
   "description": "my intrusive thoughts \ud83e\udd1d this playlist. para esas horas nost\u00e1lgicas & melanc\u00f3licas de la noche.",
-  "num_followers": 5560,
+  "num_followers": 5587,
   "original_name": "de madrugada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWMwZWQ4ODA4MjBkYzFkOWE0NWFiNWNiNWJkYmIzYmNhMDg4YWUz",
+  "snapshot_id": "MCxjZGVkN2UxMTMyZWVkMjNmZDMzY2RlY2IxZWI4MGUwMzA3ZTZjZWYw",
   "tracks": [
     {
       "added_at": "2023-10-12 22:12:37",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2023-10-12 22:12:37",
       "album": {
-        "name": "La Cantera",
-        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
+        "name": "Franco (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj"
       },
       "artists": [
         {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        },
+        {
+          "name": "Adrian Dargelos",
+          "url": "https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg"
         }
       ],
-      "duration_ms": 151017,
-      "name": "Amanita",
-      "url": "https://open.spotify.com/track/44eetRXpHJvr6gziGWtx8J"
+      "duration_ms": 204888,
+      "name": "El Destino",
+      "url": "https://open.spotify.com/track/7deEXsuLC8Teu0MHiwr3V0"
     }
   ],
   "unique_name": "de madrugada",

@@ -10391,6 +10391,36 @@
     },
     {
       "album": {
+        "name": "ROPE (Remixes)",
+        "url": "https://open.spotify.com/album/5EGIOt8BpGtR5ll87XOuDn"
+      },
+      "artists": [
+        {
+          "name": "Campana",
+          "url": "https://open.spotify.com/artist/2364ipmlSnhR9dgygYHkqu"
+        },
+        {
+          "name": "Dave Shana\u00e9",
+          "url": "https://open.spotify.com/artist/5ppKWaWRnYsBET84EoCQ2o"
+        },
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188102,
+      "name": "ROPE - Sango Remix",
+      "url": "https://open.spotify.com/track/01z1dsm09aZE9kseq11JBz"
+    },
+    {
+      "album": {
         "name": "ROPE (Sango Remix)",
         "url": "https://open.spotify.com/album/0DusIZLejsXiT9rFVp9zBz"
       },
@@ -10414,7 +10444,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 188102,
       "name": "ROPE - Sango Remix",
       "url": "https://open.spotify.com/track/0VfrzUCHm1wqQjCTqH5EbG"

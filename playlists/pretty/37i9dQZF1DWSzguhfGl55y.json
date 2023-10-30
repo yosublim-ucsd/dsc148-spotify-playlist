@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 619817,
+  "num_followers": 619872,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjVhNzk5NWRiODIwYjA5MWU3NzI1MWZlNWQ1YmJjYzBlNDIzMjBh",
+  "snapshot_id": "MCxhMDcyNjJjOGVmMjhhMmU1ZTA3NmM3MWQ0MWI5NDc5MWEzMzI1YWM5",
   "tracks": [
     {
       "added_at": "2023-10-11 12:51:15",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "CLA$$IC",
-        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "CLA$$IC",
-      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
         "name": "New Dubby Conquerors",
         "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "CLA$$IC",
+        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "CLA$$IC",
+      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Electro Ghetto (Re-Release)",
-        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Schmetterling",
-      "url": "https://open.spotify.com/track/7zIZF5nHbZXS3Um6p9tiO2"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
         "name": "BLYAT",
         "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 153146,
       "name": "Ol\u00e9 Ol\u00e9",
       "url": "https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "Electro Ghetto (Re-Release)",
+        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Schmetterling",
+      "url": "https://open.spotify.com/track/7zIZF5nHbZXS3Um6p9tiO2"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 601000,
-      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
         "name": "Bambule",
         "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 274640,
       "name": "F\u00fcchse",
       "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 601000,
+      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -895,22 +895,18 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Esperanto",
-        "url": "https://open.spotify.com/album/7vtEIlxot9pmKtv3KmSmTT"
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
       "artists": [
         {
-          "name": "Freundeskreis",
-          "url": "https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk"
-        },
-        {
-          "name": "Joy Denalane",
-          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
         }
       ],
-      "duration_ms": 278960,
-      "name": "Mit dir (feat. Joy Denalane)",
-      "url": "https://open.spotify.com/track/5EX0HiIyvhavnpjgbwDCeL"
+      "duration_ms": 254080,
+      "name": "Liebes Lied",
+      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTY4NWU3YzRjNWVmYjMxODM4ZWRkNmJhZjNlODRjNmM1N2Q5YjMy",
+  "snapshot_id": "MCw1Y2FmOWM0ZWNmNjZkZjI2M2FjMjIzYzUzMWI1NWRiNTE3NzM3N2Fl",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Air Guitar",
-        "url": "https://open.spotify.com/album/0KZcDNYKaKv4mq93fIUDau"
-      },
-      "artists": [
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
-        }
-      ],
-      "duration_ms": 183273,
-      "name": "Air Guitar",
-      "url": "https://open.spotify.com/track/1ZL73Fic49PdXUSvL69wh8"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Sex in Afrikaans",
         "url": "https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 186500,
       "name": "Sex in Afrikaans",
       "url": "https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Air Guitar",
+        "url": "https://open.spotify.com/album/0KZcDNYKaKv4mq93fIUDau"
+      },
+      "artists": [
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
+        }
+      ],
+      "duration_ms": 183273,
+      "name": "Air Guitar",
+      "url": "https://open.spotify.com/track/1ZL73Fic49PdXUSvL69wh8"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Pata Pata Saguquka",
+        "url": "https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        }
+      ],
+      "duration_ms": 325502,
+      "name": "Pata Pata Saguquka",
+      "url": "https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "don't jump the gun",
         "url": "https://open.spotify.com/album/3GrECJ07gyegeBtv5ZMG7T"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 289987,
       "name": "Homes",
       "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Pata Pata Saguquka",
-        "url": "https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
-        }
-      ],
-      "duration_ms": 325502,
-      "name": "Pata Pata Saguquka",
-      "url": "https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Porn Magazines",
+        "url": "https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM"
+      },
+      "artists": [
+        {
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+        }
+      ],
+      "duration_ms": 176314,
+      "name": "Porn Magazines",
+      "url": "https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Nada de M\u00ed Vale Dinero",
         "url": "https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 249136,
       "name": "Is That True?",
       "url": "https://open.spotify.com/track/7ktkeXuvYXobpsOahNhJgT"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Porn Magazines",
-        "url": "https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM"
-      },
-      "artists": [
-        {
-          "name": "Prim",
-          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
-        }
-      ],
-      "duration_ms": 176314,
-      "name": "Porn Magazines",
-      "url": "https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "\u55ae\u4eba\u623f",
-        "url": "https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs"
-      },
-      "artists": [
-        {
-          "name": "Aldo Tasbur",
-          "url": "https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "\u55ae\u4eba\u623f",
-      "url": "https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Anxious Avoidant",
         "url": "https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 257437,
       "name": "I Won't Bite",
       "url": "https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "\u55ae\u4eba\u623f",
+        "url": "https://open.spotify.com/album/1QTnF0zX5zaqwbJNM87CQs"
+      },
+      "artists": [
+        {
+          "name": "Aldo Tasbur",
+          "url": "https://open.spotify.com/artist/7fuouuWQZnx4cSN19IEqHn"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "\u55ae\u4eba\u623f",
+      "url": "https://open.spotify.com/track/4DW3Orxd68VtREToPclLWf"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "The Year of February",
-        "url": "https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI"
-      },
-      "artists": [
-        {
-          "name": "Forest Claudette",
-          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
-        }
-      ],
-      "duration_ms": 193960,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/2PvIxtvyws88h6LRmS5Bcc"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Complete In Box",
         "url": "https://open.spotify.com/album/6jVRKAWfgTf7M1toxTi1VU"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 175945,
       "name": "Mott St",
       "url": "https://open.spotify.com/track/1JYFkTqtRNHYejAHPUF0ZJ"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "The Year of February",
+        "url": "https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/2PvIxtvyws88h6LRmS5Bcc"
     },
     {
       "added_at": "2022-11-30 13:45:00",

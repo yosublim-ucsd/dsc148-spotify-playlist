@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 153293,
+  "num_followers": 153400,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDk4MDg3Zjg0OWNhN2Y2OGYzODgyMmEwYWQzOTBmOGRlM2Q2ZGIw",
+  "snapshot_id": "MCwyNWM0ZTg4YmI3YWYyNTZmNjYzNmQyOTk0NWIzNTk2MDExMDllY2Q3",
   "tracks": [
     {
       "added_at": "2023-10-27 03:01:00",
@@ -603,6 +603,30 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
+        "name": "Ato 3: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
         "name": "Cartas (feat.Luccas Carlos) (feat.Paiva Prod)",
         "url": "https://open.spotify.com/album/7qCnoY2xgPiEsmbJ2auP1L"
       },
@@ -627,30 +651,6 @@
       "duration_ms": 202000,
       "name": "Cartas (feat.Luccas Carlos) (feat.Paiva Prod)",
       "url": "https://open.spotify.com/track/6ry2T9BPdjCXkGl5kHqe0O"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
-        "name": "Ato 3: TODAMANH\u00c3",
-        "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-      "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
     },
     {
       "added_at": "2023-10-27 03:01:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-10-27 03:01:00",
       "album": {
-        "name": "Vento Bom",
-        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
-      },
-      "artists": [
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        },
-        {
-          "name": "Mc Tek\u00e1da-B",
-          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
-        }
-      ],
-      "duration_ms": 169409,
-      "name": "Vento Bom",
-      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
-    },
-    {
-      "added_at": "2023-10-27 03:01:00",
-      "album": {
         "name": "Interfone",
         "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 232000,
       "name": "Interfone",
       "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
+    },
+    {
+      "added_at": "2023-10-27 03:01:00",
+      "album": {
+        "name": "Vento Bom",
+        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
+      },
+      "artists": [
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        },
+        {
+          "name": "Mc Tek\u00e1da-B",
+          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
+        }
+      ],
+      "duration_ms": 169409,
+      "name": "Vento Bom",
+      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
     },
     {
       "added_at": "2023-10-27 03:01:00",

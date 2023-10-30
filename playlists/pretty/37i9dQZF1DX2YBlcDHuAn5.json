@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 5801,
+  "num_followers": 5846,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDU0MWQ0YzkzNmMxZDRjNDRkY2NkNGJjMTkxNDRjMDc1YzlhMzFk",
+  "snapshot_id": "MCxmYTI1ZjA5NWQyNjE5YTY2Yjg1YjViZDFmNTMwOTQwMTIwOTkzZDli",
   "tracks": [
     {
       "added_at": "2023-10-05 22:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
+        "name": "Rollin' with the Punches",
+        "url": "https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
+        }
+      ],
+      "duration_ms": 253194,
+      "name": "Rollin' with the Punches",
+      "url": "https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Rollin' with the Punches",
-        "url": "https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
-        }
-      ],
-      "duration_ms": 253194,
-      "name": "Rollin' with the Punches",
-      "url": "https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Too Much Of A Woman",
         "url": "https://open.spotify.com/album/2bT1OG1ABW8NzsFfoyhu0d"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 193503,
       "name": "Too Much Of A Woman",
       "url": "https://open.spotify.com/track/1kZno76kl0lVWni9SlncvW"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "A Heightened Sense of Everything",
+        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -751,22 +767,6 @@
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -803,38 +803,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Gonna Shine",
-        "url": "https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi"
-      },
-      "artists": [
-        {
-          "name": "The Georgia Thunderbolts",
-          "url": "https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Gonna Shine",
-      "url": "https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
-      },
-      "artists": [
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Driving Like A Dream Car Should",
         "url": "https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ"
       },
@@ -847,6 +815,38 @@
       "duration_ms": 187355,
       "name": "Driving Like A Dream Car Should",
       "url": "https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Nighttime Walk",
+        "url": "https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48"
+      },
+      "artists": [
+        {
+          "name": "Mercy John",
+          "url": "https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ"
+        }
+      ],
+      "duration_ms": 336904,
+      "name": "Nighttime Walk",
+      "url": "https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Frozen In Time",
+        "url": "https://open.spotify.com/album/2Xd0nXYllq7usaXQ99UXlA"
+      },
+      "artists": [
+        {
+          "name": "Mell & Vintage Future",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 178948,
+      "name": "Frozen In Time",
+      "url": "https://open.spotify.com/track/7qoc1IZ1k6FXlF5KrPqAXe"
     }
   ],
   "unique_name": "Route Americana",

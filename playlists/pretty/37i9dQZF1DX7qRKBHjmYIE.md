@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ con Feid getting us in our feels this week 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,886 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,929 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 39 | [Selfish](https://open.spotify.com/track/71NBNju9KEg6G8qTi1Y0kA) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí](https://open.spotify.com/album/0XteKwNr7uXZXz92CIE1Xe) | 2:25 |
 | 40 | [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 |
 
-Snapshot ID: `MCw1MjQyZGY5MzcwMjY1OWE0ODM2MjAzYWVlZGIzY2Y2YzAyMmI5NTg4`
+Snapshot ID: `MCw5YzNmMTkwNjU1ZTU5MGRlNWU2Y2VkYmE5ZjZlNTQzN2Q3NmRkZDdh`

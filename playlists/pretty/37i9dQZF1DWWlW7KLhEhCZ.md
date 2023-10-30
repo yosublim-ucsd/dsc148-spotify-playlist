@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Gaab, Mc Davi, Rodriguinho, Vulgo FK
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,301 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,324 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Triptamina](https://open.spotify.com/track/0X8Hlp5uBjxnKHchFD8W6A) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [Triptamina](https://open.spotify.com/album/3vrmD0UDdhvUuwV5N3foZi) | 2:55 |
 | 75 | [Sonhos e Planos](https://open.spotify.com/track/3YVqPXziEBxLxl6te8hi1R) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [Sonhos e Planos](https://open.spotify.com/album/5osXNDNx27cDbp9qi8dV6v) | 2:33 |
 
-Snapshot ID: `MCwzM2NkNzliODg1Y2VlNzlkYTU1ODY0ZTYwOGJkMGJjOWJlYzkyMGM2`
+Snapshot ID: `MCw1MzhmYTVjNWJhNTI4YjVmZDJhYzcxM2NiZmZlNjA2NWQ3Mzc1NTQx`

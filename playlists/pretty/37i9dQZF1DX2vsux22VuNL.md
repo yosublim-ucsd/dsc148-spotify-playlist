@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Delacruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,194 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,395 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 21 | [Marcha](https://open.spotify.com/track/1qcHCY4STgSPTAPqphdYFi) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Charles do Bronxs](https://open.spotify.com/artist/19Mqlg717812ha5zPDul9q) | [Marcha](https://open.spotify.com/album/5DUyARSiVNvxIrS1MW7vGN) | 4:11 |
 | 22 | [Deixe\-me Ir](https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Deixe\-me Ir](https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw) | 3:39 |
 | 23 | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0) | 4:54 |
-| 24 | [Algum Lugar Pra Gente Viajar](https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Fabinho](https://open.spotify.com/artist/4CQPmHby32hOV9vjFHHUJS), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Algum Lugar Pra Gente Viajar](https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI) | 5:12 |
-| 25 | [To Que To A Toa](https://open.spotify.com/track/68yL6r526zRHhAn3wx3wvZ) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:28 |
+| 24 | [To Que To A Toa](https://open.spotify.com/track/68yL6r526zRHhAn3wx3wvZ) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:28 |
+| 25 | [Algum Lugar Pra Gente Viajar](https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Fabinho](https://open.spotify.com/artist/4CQPmHby32hOV9vjFHHUJS), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Algum Lugar Pra Gente Viajar](https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI) | 5:12 |
 | 26 | [Amor Bandido](https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Arcano 19](https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP) | 4:04 |
 | 27 | [Uma Linda Mulher \- Acústico](https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Irineu Barsé](https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf) | [Acústico Cancún](https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso) | 3:32 |
 | 28 | [Do Mesmo Lado](https://open.spotify.com/track/3Dt9KqpGEH30Iwo6wF9Y2S) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 74 | [Essa Daqui Você Sabe Que É pra Você](https://open.spotify.com/track/0mORJWR6L3RSefYVBke8Zs) | [EXQUEÇA TUDO PAPAI](https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Essa Daqui Você Sabe Que É pra Você](https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO) | 3:13 |
 | 75 | [Lábia](https://open.spotify.com/track/3jiSDYClzVY31izbE8lxGQ) | [RAMON](https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl), [Two Records](https://open.spotify.com/artist/4SfxAv3Xdu1gD1HBs6BYSn) | [Lábia](https://open.spotify.com/album/3wEHJr1DqFpzRNbFk4o5hC) | 2:57 |
 
-Snapshot ID: `MCxlOTZmOTI3ZWFhZmFiOWExNmFlNDMzZGM0MGVhZThlMmU5NjM1Mzgz`
+Snapshot ID: `MCw4YjkxMWVmNjczZWI1NjJhZDIzMTcwNTA3NTgxNTRkMzdhNGM5NzEy`

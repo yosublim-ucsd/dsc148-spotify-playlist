@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,184 likes - 76 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,564 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 63 | [Girl Let Me Love You](https://open.spotify.com/track/4Y9zKEV6KQPtzXR4QhK8ra) | [Hiiata](https://open.spotify.com/artist/1njbZwHly0BAjymors85Nv) | [Girl Let Me Love You](https://open.spotify.com/album/1tLbrpwrPP2etSdewPhyZ7) | 3:17 |
 | 64 | [Take It Away](https://open.spotify.com/track/5BghMRrK03bJDO3oUB96J9) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:34 |
 | 65 | [Keep On Going](https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Hussla D](https://open.spotify.com/artist/5fsptY9U01KKG6YbjrSnaf), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Keep On Going](https://open.spotify.com/album/49G044qCj857V1GK5M8jhn) | 3:09 |
-| 66 | [Here to Stay](https://open.spotify.com/track/0qxTym0LJ6HMV4g87FYIdR) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [Here to Stay](https://open.spotify.com/album/6OqOtbJGxwzrTzNtfDtQh4) | 4:17 |
+| 66 | [Here to Stay](https://open.spotify.com/track/0OJR6N4rHm6Sqww0jNMcV7) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [Here to Stay](https://open.spotify.com/album/5T2K5tufPDXhV7HtOFRQUW) | 4:17 |
 | 67 | [Lonely Days \(with J Boog\)](https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X) | 3:43 |
 | 68 | [Good Time](https://open.spotify.com/track/4RzIZS83SMXWrSGsP7XPiS) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Trouble](https://open.spotify.com/album/6Ex5buL9V8s8gEZuejwBfU) | 3:24 |
 | 69 | [Holiday](https://open.spotify.com/track/5a4eC0DnfGg0sDUbSFXOr7) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Red Album](https://open.spotify.com/album/1B8Hkj3q7xaPgbHQe1Ndse) | 3:15 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 75 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
 | 76 | [Rhythm in My Soul](https://open.spotify.com/track/3SUJqKZHP8ftlPoJ7CGgB9) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/7IycDxmkUxSa56lV6Czm9n) | 6:16 |
 
-Snapshot ID: `MCxiNTk2ZmQzNGZkODJjNTg0YWU1MGE1OGUwODNmMWQ0Zjc3YTExMDFk`
+Snapshot ID: `MCw5NDU1Y2VlYjhhZmM0ZGMxZTc3ODc3ODhhMzk3YjhjMzRhN2M3OTQ5`

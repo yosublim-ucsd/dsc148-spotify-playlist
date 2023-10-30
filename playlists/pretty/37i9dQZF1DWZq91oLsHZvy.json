@@ -1,12 +1,12 @@
 {
   "description": "Let's go!",
-  "num_followers": 330788,
+  "num_followers": 331039,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjJiYzhiMDFjNGM4NDBkMGFlMGY4ODBmMTAzNDc2MTBmYTU1NjE3",
+  "snapshot_id": "MCxhZWY2YTViNGVkYjg5NDQwMmI2ZTRhYTAwMGMzZDRlOTNkYTk1MmY5",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 241440,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -641,26 +641,6 @@
       "url": "https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk"
     },
     {
-      "added_at": "2023-05-17 13:32:35",
-      "album": {
-        "name": "After Midnight (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "After Midnight (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
       "added_at": "2023-01-20 11:00:00",
       "album": {
         "name": "Baby I'm Yours",
@@ -679,6 +659,26 @@
       "duration_ms": 215786,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe"
+    },
+    {
+      "added_at": "2023-05-17 13:32:35",
+      "album": {
+        "name": "After Midnight (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "After Midnight (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Church Of Scars",
-        "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Why Make Sense? (Definitive Version)",
         "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 285565,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Church Of Scars",
+        "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1597,36 +1597,20 @@
       "url": "https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0"
     },
     {
-      "added_at": "2023-06-09 11:33:29",
-      "album": {
-        "name": "Speedracer",
-        "url": "https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4"
-      },
-      "artists": [
-        {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "Speedracer",
-      "url": "https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm"
-    },
-    {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
       },
       "artists": [
         {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
         }
       ],
-      "duration_ms": 204226,
-      "name": "Gimme Twice",
-      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
+      "duration_ms": 184315,
+      "name": "Cutie",
+      "url": "https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG"
     },
     {
       "added_at": "2023-05-17 13:32:35",
@@ -1647,6 +1631,22 @@
       "duration_ms": 174708,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/4uTNk3wbViJoxwndrE6wqj"
+    },
+    {
+      "added_at": "2023-06-09 11:33:29",
+      "album": {
+        "name": "Speedracer",
+        "url": "https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "Speedracer",
+      "url": "https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm"
     }
   ],
   "unique_name": "Indie x Running",

@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20906,
+  "num_followers": 20905,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1NDUsYWRlYWI3YTFiNjg5YmI5Y2NkYmNmOWM1NGZkNjU3NDhiMGI2ZmQ0MA==",
+  "snapshot_id": "MTA1NDYsMGQwYTRhNjBlMTgxMzFjMjUzNDU0NGI1OTUyZmE5MTEyNmQ0NzJjZQ==",
   "tracks": [
     {
       "added_at": "2023-10-06 14:55:50",
@@ -2331,6 +2331,30 @@
       "duration_ms": 190355,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1mZTaOUyj9f1NqBuD85Gti"
+    },
+    {
+      "added_at": "2023-10-29 20:54:54",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/0uVzoO0jamR1dQqDYA3sCY"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/0PqsrSUORNOsVyVH7jSlnM"
     }
   ],
   "unique_name": "Moving Castle Monthly",

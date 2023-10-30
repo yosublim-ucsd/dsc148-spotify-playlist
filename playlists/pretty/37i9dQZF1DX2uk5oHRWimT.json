@@ -1,12 +1,12 @@
 {
   "description": "Have yourself a little cozy Christmas.",
-  "num_followers": 332003,
+  "num_followers": 332052,
   "original_name": "Acoustic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGIyYWI0M2Q5YzEwN2ZiNTU3Zjk4NWYyMjcxMmQ3Y2YwMzBlNDRk",
+  "snapshot_id": "MCwzMTYyZjZiMjhkNjkyMzg2YjU3ZjgyNTY5NWE4OWU0MGMzZTJiZDI2",
   "tracks": [
     {
       "added_at": "2023-10-16 16:19:40",
@@ -923,10 +923,14 @@
     {
       "added_at": "2023-10-16 16:19:40",
       "album": {
-        "name": "Let It Snow",
-        "url": "https://open.spotify.com/album/3Lyt25HbRusLUhqyDkD0jj"
+        "name": "Christmas Together (Wherever We Are)",
+        "url": "https://open.spotify.com/album/3dfdQhNiGcW9E4LNY4rQdx"
       },
       "artists": [
+        {
+          "name": "The Holiday Place",
+          "url": "https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4"
+        },
         {
           "name": "Canyon City",
           "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
@@ -934,7 +938,7 @@
       ],
       "duration_ms": 144613,
       "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/16huApDBMjTwp6wLRmQWRX"
+      "url": "https://open.spotify.com/track/3SAfe0z7ww0NGVxiP1sMy2"
     },
     {
       "added_at": "2023-10-16 16:19:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,906 likes - 126 songs - 7 hr 13 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,905 likes - 127 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,5 +134,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 124 | [MACH 10](https://open.spotify.com/track/1lBkr90r5ayibZw92Be7RJ) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [MACH 10](https://open.spotify.com/album/3Uj5FjcVPVhC8UHUt1wfhV) | 3:19 |
 | 125 | [Carbonceramics](https://open.spotify.com/track/7ERuaaH2MUZ6W4tPt7SfEG) | [Re:abel](https://open.spotify.com/artist/15iuCconBCNg86K2nVPNkd) | [Carbonceramics](https://open.spotify.com/album/5gHTMLQLOaWiDT1navoLut) | 4:40 |
 | 126 | [Runaway](https://open.spotify.com/track/1mZTaOUyj9f1NqBuD85Gti) | [Jantoje](https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx), [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Runaway](https://open.spotify.com/album/7tkgjZAdCf4dqqAY80V5D5) | 3:10 |
+| 127 | [Eternity](https://open.spotify.com/track/0PqsrSUORNOsVyVH7jSlnM) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Eternity](https://open.spotify.com/album/0uVzoO0jamR1dQqDYA3sCY) | 3:20 |
 
-Snapshot ID: `MTA1NDUsYWRlYWI3YTFiNjg5YmI5Y2NkYmNmOWM1NGZkNjU3NDhiMGI2ZmQ0MA==`
+Snapshot ID: `MTA1NDYsMGQwYTRhNjBlMTgxMzFjMjUzNDU0NGI1OTUyZmE5MTEyNmQ0NzJjZQ==`

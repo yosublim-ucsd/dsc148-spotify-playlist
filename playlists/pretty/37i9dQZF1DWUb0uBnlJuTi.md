@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,693 likes - 200 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,844 likes - 200 songs - 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 9 | [Mean Green](https://open.spotify.com/track/4ABDChCwUR9D600e1Me2Tt) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:54 |
 | 10 | [Mister Magic](https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Mister Magic](https://open.spotify.com/album/3DnS9jBOXBVx6oPAbsQDGZ) | 9:01 |
 | 11 | [Funky G Sus](https://open.spotify.com/track/5QFO8waIRAMQafRnnzBOyZ) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joe Marcinek Band](https://open.spotify.com/artist/5qKOChsYbv4J08L1bvNxMK) | [Funky G Sus](https://open.spotify.com/album/4DPrc61bo2mFC1KakdVZw0) | 5:57 |
-| 12 | [Closer](https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Closer](https://open.spotify.com/album/2aVYyjgHni7OpuNf53KUH0) | 4:55 |
+| 12 | [Closer](https://open.spotify.com/track/53RnNvi572PmTJkQHP8lnq) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Veronica Swift](https://open.spotify.com/album/053XeiFx1CVMD0sU3gZ8f8) | 4:55 |
 | 13 | [Have A Talk With God](https://open.spotify.com/track/5zH2yuY4i55cD4fc1COjdt) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Heart And Soul](https://open.spotify.com/album/35B0dmoLWUMpUzyFZwaEy7) | 5:41 |
 | 14 | [Fast Life](https://open.spotify.com/track/4Qlyf2WcL6uq11MNP3BjqH) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Fast Life](https://open.spotify.com/album/29SzjciN1hhMafVQcZizOV) | 3:58 |
 | 15 | [Watermelon Man](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 6:28 |
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 157 | [London Town](https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W) | [Light Of The World](https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3) | [The Best of the Light of the World](https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4) | 4:31 |
 | 158 | [The Drip \- Live Session](https://open.spotify.com/track/3xo3K91h5jdhA3Udk0wio4) | [Green Tangerines](https://open.spotify.com/artist/1et1DTeSGzRFLcjnr4xCvS) | [Green Tangerines \(Live Session\)](https://open.spotify.com/album/6lVLYuBC9pUR20y5YWHf3y) | 5:47 |
 | 159 | [On The Hook](https://open.spotify.com/track/7LaDliDRfKkzKFNVOoBJTv) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [On The Hook](https://open.spotify.com/album/1LXYzCWmyLYBEOQciJXhH3) | 3:57 |
-| 160 | [Tema de Benja](https://open.spotify.com/track/4oo9BSpAnBeEaYV74GuAaV) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7), [Patricia "Piojo" Zappia](https://open.spotify.com/artist/0BDCAebyhWwaNQLpfa1aLK) | [Melomazeando](https://open.spotify.com/album/14Xe1tjzqLJ4FFVhASWQVl) | 4:55 |
+| 160 | [Tema de Benja](https://open.spotify.com/track/3xWWQ10PFmASoMTeCBmyBW) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7), [Patricia "Piojo" Zappia](https://open.spotify.com/artist/0BDCAebyhWwaNQLpfa1aLK) | [Melomazeando](https://open.spotify.com/album/5KTKZNtFdtY8jf5bN8uO45) | 4:55 |
 | 161 | [Smelling the Fog](https://open.spotify.com/track/5S7wGZaqXqozXvBJ6MEacl) | [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx), [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK) | [Smelling the Fog](https://open.spotify.com/album/0RvYVrMUrcm2NNXNxX6fUd) | 4:51 |
 | 162 | [Fleet Streak](https://open.spotify.com/track/4NoeaUoJv9u8cuopFuVedF) | [Kerbside Collection](https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Fleet Streak](https://open.spotify.com/album/5vDEj1kU0gpIOw34y19iuj) | 3:57 |
 | 163 | [Why?](https://open.spotify.com/track/6nIueLCyNxBUM941WQ2v7l) | [Jonas Wall](https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo), [Umbaji](https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz) | [Why?](https://open.spotify.com/album/3JmS19rIU04H05i02H6YsZ) | 4:18 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCw3MWIwMmI0ZDM3ZmU2MDM1ZjVmMzkwZTdkODZiNmYzMzViMDhjZWEy`
+Snapshot ID: `MCxlMDk4ZjJkNGVlMDQ0MDBkNTk5ZmUxYWNiNWI0NjQ0MzY5MjRiYjU0`

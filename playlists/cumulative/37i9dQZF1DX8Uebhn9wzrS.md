@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,649 songs - 2 day 14 hr 36 min
+1,650 songs - 2 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Calm Nights](https://open.spotify.com/track/1wlEdNaNaYrGzyyDvTiiPm) | [Culpeo](https://open.spotify.com/artist/6e16LN2fHwaIm2v5jQ541j) | [Calm Nights](https://open.spotify.com/album/4YmYvt1g6ARwbNFMMgQ1zv) | 2:50 | 2023-01-20 |  |
 | [Camden](https://open.spotify.com/track/0lqhcmKE55QRrNhiioofSU) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [Camden](https://open.spotify.com/album/3VzmyFeQ23wtK1hSM3Fdlq) | 2:53 | 2023-03-08 |  |
 | [Cameleon](https://open.spotify.com/track/2z9CyOsKP6VkZAh32ERYSz) | [JIMI O’HARA](https://open.spotify.com/artist/4ZjTiyXDnLJmJRmaxg5sFQ) | [CAMOUFLAGE](https://open.spotify.com/album/4QGUYHCw96ZtEKTWOlDj1i) | 1:55 | 2022-04-15 | 2022-06-25 |
-| [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 | 2023-10-27 |  |
+| [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 | 2023-10-27 | 2023-10-30 |
 | [Candor](https://open.spotify.com/track/1nTCeX3GsGLyh9TQtQpbOl) | [Sileon](https://open.spotify.com/artist/0wmKKwWn8zNrBnRpOkvcSH) | [Zone](https://open.spotify.com/album/2XiYnl7gqdERJbJcMR8bl9) | 1:58 | 2022-04-15 | 2022-05-13 |
 | [Candy Clouds](https://open.spotify.com/track/0Z4O3yTtmqdLXzCxSX9XPt) | [Airship River](https://open.spotify.com/artist/6v5wK0vEKyLP05vV9dvly6) | [Lemo](https://open.spotify.com/album/0rA6rd8ashXD1xaAQkbZRI) | 3:12 | 2022-04-15 | 2022-09-23 |
 | [Candy Shop](https://open.spotify.com/track/5qq7KECX28pBbnR1h938jV) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Candy Shop](https://open.spotify.com/album/4MLe2toeIB8t3RiYcTUJ1t) | 2:19 | 2022-04-22 |  |
@@ -542,6 +542,7 @@
 | [Fresh Convo](https://open.spotify.com/track/2TQPmHzg5IOKhACgEDBzOF) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Fresh Convo](https://open.spotify.com/album/1hPZP8aDlkBKhXW8vSa4EA) | 2:00 | 2023-03-08 |  |
 | [Fresh Juice](https://open.spotify.com/track/3jSI6gN3eD79IbszeAzwrc) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Fresh Juice](https://open.spotify.com/album/4r9rHIMUDLFi57P2aGanEZ) | 3:00 | 2022-11-11 | 2023-03-25 |
 | [Fresh Tires](https://open.spotify.com/track/6LLsU0zVgPcQKb7Rnf1MeV) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Fresh Tires](https://open.spotify.com/album/7oQp36kWOf04mfm2LLnSiO) | 2:33 | 2022-12-16 |  |
+| [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2023-10-27 |  |
 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 |  |
 | [Friday Night](https://open.spotify.com/track/60xBFhU4ojvkFID0Le4XIw) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Friday Night](https://open.spotify.com/album/0KWrgf5GX7d2yd8PeVsiWY) | 1:58 | 2022-07-15 |  |
 | [Friday Night Special](https://open.spotify.com/track/175pLdVrtibfcbjVQHzT5D) | [Cheap Sneakers](https://open.spotify.com/artist/58oDekndqPDymXe2Ia9Hh5) | [Friday Night Special](https://open.spotify.com/album/6NFscmhzPsh2POcIdc6Z6A) | 2:42 | 2022-07-01 | 2023-09-29 |

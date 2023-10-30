@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 1079102,
+  "num_followers": 1080028,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yjg0YmE0MTgyYTU2MzZjNDI3YzMwMzFhNGU0ZjVhNTZjOWJjNzAw",
+  "snapshot_id": "MCxmMzRkNzA5NTJmMmI1ZDVlYjk0ZjczZTcwNzYzNzNjOTBjNmNjYmNm",
   "tracks": [
     {
       "added_at": "2023-06-09 06:35:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-09 06:35:00",
       "album": {
-        "name": "Los Caminos De La Vida",
-        "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
-      },
-      "artists": [
-        {
-          "name": "La Tropa Vallenata",
-          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
-        }
-      ],
-      "duration_ms": 291133,
-      "name": "Los Caminos De La Vida",
-      "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
-    },
-    {
-      "added_at": "2023-06-09 06:35:00",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 225720,
       "name": "Suavecito Suavecito",
       "url": "https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU"
+    },
+    {
+      "added_at": "2023-06-09 06:35:00",
+      "album": {
+        "name": "Los Caminos De La Vida",
+        "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
+      },
+      "artists": [
+        {
+          "name": "La Tropa Vallenata",
+          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
+        }
+      ],
+      "duration_ms": 291133,
+      "name": "Los Caminos De La Vida",
+      "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
     },
     {
       "added_at": "2023-06-09 06:35:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-09 06:35:00",
       "album": {
-        "name": "Sa, Za...Sabor",
-        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Porque te amo",
-      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
-    },
-    {
-      "added_at": "2023-06-09 06:35:00",
-      "album": {
         "name": "Sueno Latino",
         "url": "https://open.spotify.com/album/1hgd43q4QftJJ9RLkz6cz5"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2023-06-09 06:35:00",
       "album": {
-        "name": "No Te Voy A Perdonar, Vol. 4",
-        "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
+        "name": "Sa, Za...Sabor",
+        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
         }
       ],
-      "duration_ms": 232609,
-      "name": "No Te Voy a Perdonar",
-      "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
+      "duration_ms": 233613,
+      "name": "Porque te amo",
+      "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
     },
     {
       "added_at": "2023-06-09 06:35:00",
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-06-09 06:35:00",
       "album": {
-        "name": "Cumbias con Garra Vol. IV *",
-        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
+        "name": "No Te Voy A Perdonar, Vol. 4",
+        "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
       },
       "artists": [
         {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
+      "duration_ms": 232609,
+      "name": "No Te Voy a Perdonar",
+      "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
     },
     {
       "added_at": "2023-06-09 06:35:00",
@@ -823,18 +807,34 @@
     {
       "added_at": "2023-06-09 06:35:00",
       "album": {
-        "name": "La Chica Que So\u00f1e",
-        "url": "https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g"
+        "name": "Cumbias con Garra Vol. IV *",
+        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
       },
       "artists": [
         {
-          "name": "Tropical Panam\u00e1",
-          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
         }
       ],
-      "duration_ms": 190773,
-      "name": "La Chica Que So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/16NRutjxxtfqIDvlwLFw1A"
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
+    },
+    {
+      "added_at": "2023-06-09 06:35:00",
+      "album": {
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Encadenada A Mi - Cumbia",
+      "url": "https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH"
     }
   ],
   "unique_name": "100% Cumbia",

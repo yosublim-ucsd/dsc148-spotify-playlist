@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Ishaan Ghosh
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,377 likes - 47 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,398 likes - 47 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 17 | [Tabla Magic](https://open.spotify.com/track/2qDM7VAHTWUIiwY3ocvaz0) | [Kedar Pandit](https://open.spotify.com/artist/3vZMa9tWbeSYpQYhGRKHws) | [Magnificent Indian Drums](https://open.spotify.com/album/1cka9ySaQBsB7HDtKkUvtU) | 5:58 |
 | 18 | [Tabla and Pakavaj](https://open.spotify.com/track/3vBZGFw8f12TOP930Wh65z) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Wonderwall Music](https://open.spotify.com/album/6ujnCnLIJtjLgKGk68Q66m) | 1:04 |
 | 19 | [Tabla Music](https://open.spotify.com/track/4WVSDMP0lEEDf2dy6FTzs6) | [Music Of Tabla](https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4) | [Indian Tabla Meditations](https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE) | 3:56 |
-| 20 | [Tabla](https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj) | [Ustad Alla Rakha \- The Multifaceted Genius](https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk) | 10:40 |
-| 21 | [Tabla Solo Part 02](https://open.spotify.com/track/0R4VRpS9fwAyKP7jKVfvMk) | [Umesh Parmar](https://open.spotify.com/artist/62NeeJFOOstCoM3ssdK6WM) | [Tabla Solo Part 02](https://open.spotify.com/album/5D2wJ32N8tomjXleZ3nPf1) | 2:05 |
+| 20 | [Tabla Solo Part 02](https://open.spotify.com/track/0R4VRpS9fwAyKP7jKVfvMk) | [Umesh Parmar](https://open.spotify.com/artist/62NeeJFOOstCoM3ssdK6WM) | [Tabla Solo Part 02](https://open.spotify.com/album/5D2wJ32N8tomjXleZ3nPf1) | 2:05 |
+| 21 | [Tabla](https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj) | [Ustad Alla Rakha \- The Multifaceted Genius](https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk) | 10:40 |
 | 22 | [Peace and Meditation](https://open.spotify.com/track/2l1wiFcG92EeSuKOBlAoQm) | [Bhavani Shankar](https://open.spotify.com/artist/25fjGNyVfjtes1KDulSKME) | [Pakhawaj](https://open.spotify.com/album/3O6hXsYnDLB8BqbYHiypj4) | 6:15 |
 | 23 | [Tabla Teental Kayda \- Instrumental](https://open.spotify.com/track/7s3BAzAXgYfJ72R6HXhBhi) | [Aryan Gohariya](https://open.spotify.com/artist/6H4EMQVeJtpdTVfcNm6WbR) | [Tabla Teental Kayda \(Instrumental\)](https://open.spotify.com/album/2KK1CB9xmlZCxzIH56llYI) | 5:26 |
 | 24 | [Indian Ethnic Tabla Sitar Drums](https://open.spotify.com/track/5pqZlpmPHlQudN0WE4Gy2E) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Royalty Free Music For Films & TV \- Vol\. 2](https://open.spotify.com/album/7oKb2WESaZxsAHpH2VPMKq) | 0:51 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 27 | [Tabla Duo](https://open.spotify.com/track/39YD8JklUkAWbUo1DywryB) | [K\. Shruthi Raj](https://open.spotify.com/artist/6zr6WfjrK1ZVWryFpJ3Yog), [A\. Kiran Kumar](https://open.spotify.com/artist/2Shi7KJal6btqCgTCVC3F1), [Saravanan](https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1) | [Authentic India: Indian Percussion](https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO) | 1:02 |
 | 28 | [Sargam Crossing](https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1) | [ARAJ](https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD) | [CHAKRA](https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p) | 5:00 |
 | 29 | [Tablas for Positive Vibes](https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt) | [Tabla Pakuri](https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF) | [Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute](https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5) | 5:06 |
-| 30 | [Mumbai](https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF) | [Music Of Tabla](https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4) | [Indian Tabla Meditations](https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE) | 4:32 |
-| 31 | [Tani Avartanam](https://open.spotify.com/track/0bfmfkz53UD4H5h1fv4vKw) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Shared Moments](https://open.spotify.com/album/6XvAfY61M0XBOVAps5ysYP) | 8:46 |
+| 30 | [Tani Avartanam](https://open.spotify.com/track/0bfmfkz53UD4H5h1fv4vKw) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Shared Moments](https://open.spotify.com/album/6XvAfY61M0XBOVAps5ysYP) | 8:46 |
+| 31 | [Mumbai](https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF) | [Music Of Tabla](https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4) | [Indian Tabla Meditations](https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE) | 4:32 |
 | 32 | [Tab Tabla](https://open.spotify.com/track/5gI2h5xKSnoLHNCqu9tBsI) | [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Dum Tak Revolution, Vol\. 3](https://open.spotify.com/album/2Xo9AxbcXYeu1bOcYo9SPs) | 4:13 |
 | 33 | [Raag Bhupal Todi](https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ) | [Kamalesh Maitra](https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51) | [The World's Musical Traditions, Vol\. 10: Tabla Tarang\-\-Melody on Drums](https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ) | 9:48 |
 | 34 | [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 46 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 |
 | 47 | [Wander](https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Wander](https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG) | 3:00 |
 
-Snapshot ID: `MCwzZmYzNWMzNDliNmFmNTJiMTFjZWQwYjZiMjQ0NTE4NzQzZGZlOTVi`
+Snapshot ID: `MCw1MTMwYzE5N2QzZTg5Y2VkZjhiMDJhZDE5MmI2YTJjYmI2Y2NjOGY3`

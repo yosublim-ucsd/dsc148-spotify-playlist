@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 40836,
+  "num_followers": 40948,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yjg0Zjk2ZTY2NDU4YTAwYTAzNDlkZGMzNzliNjRhZTcyZWZhZThi",
+  "snapshot_id": "MCw1MjFiZDdhZjUwMGM0Zjg4Y2Q0NzZlYmIxZTgzMzUzYjdlOTgxODYw",
   "tracks": [
     {
       "added_at": "2023-08-23 10:31:46",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Spann's Stomp",
-      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Genuine Houserocking Music",
         "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Spann's Stomp",
+      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 161479,
       "name": "Blue Guitar",
       "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "What's The Word?",
+        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Extra Jimmies",
+      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -447,22 +463,6 @@
       "duration_ms": 133481,
       "name": "Blue Dreamer",
       "url": "https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "What's The Word?",
-        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Extra Jimmies",
-      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -539,38 +539,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Io",
-        "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
-      },
-      "artists": [
-        {
-          "name": "Daniel Arena",
-          "url": "https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "R&B from the Marquee / At the Cavern (Remastered)",
-        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
-      },
-      "artists": [
-        {
-          "name": "Alexis Korner's Blues Incorporated",
-          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
-        }
-      ],
-      "duration_ms": 150465,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "The Peacock Recordings: 1949-1959",
         "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 154506,
       "name": "Okie Dokie Stomp",
       "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Io",
+        "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
+      },
+      "artists": [
+        {
+          "name": "Daniel Arena",
+          "url": "https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -651,6 +635,22 @@
       "duration_ms": 192000,
       "name": "Cha Cha The Blues",
       "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "R&B from the Marquee / At the Cavern (Remastered)",
+        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
+      },
+      "artists": [
+        {
+          "name": "Alexis Korner's Blues Incorporated",
+          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
+        }
+      ],
+      "duration_ms": 150465,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Second Album",
+        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
+      },
+      "artists": [
+        {
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Tribute To Elmore James",
+      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Boedo's Blues",
         "url": "https://open.spotify.com/album/1fO7X07GAGsIGiRVSzp9cf"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 133088,
       "name": "Boedo's Blues",
       "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Forrest",
-          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Second Album",
-        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
       },
       "artists": [
         {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+          "name": "Jimmy Forrest",
+          "url": "https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Tribute To Elmore James",
-      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+      "duration_ms": 179440,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Put It",
-        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
+        "name": "Music For Mad Men - Robust Blues",
+        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
       },
       "artists": [
         {
-          "name": "TrackTribe",
-          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
         }
       ],
-      "duration_ms": 210260,
-      "name": "Put It",
-      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
+      "duration_ms": 139413,
+      "name": "Jukebox Shuffle",
+      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Blues On Blues",
-        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 183279,
-      "name": "Blues After Hours",
-      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "All Kinds Of Blues",
         "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
       },
@@ -955,18 +939,50 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Sulfur Blues",
-        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
+        "name": "Blues On Blues",
+        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
       },
       "artists": [
         {
-          "name": "Andrea Chiarini",
-          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
         }
       ],
-      "duration_ms": 206000,
-      "name": "The Sulfur Blues",
-      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
+      "duration_ms": 183279,
+      "name": "Blues After Hours",
+      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Put It",
+        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
+      },
+      "artists": [
+        {
+          "name": "TrackTribe",
+          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+        }
+      ],
+      "duration_ms": 210260,
+      "name": "Put It",
+      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Screamin' the Blues",
+        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Sweet Ginny",
+      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -991,18 +1007,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Screamin' the Blues",
-        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
+        "name": "The Sulfur Blues",
+        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
       },
       "artists": [
         {
-          "name": "Screamin' Jay Hawkins",
-          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Sweet Ginny",
-      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
+      "duration_ms": 206000,
+      "name": "The Sulfur Blues",
+      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1019,22 +1035,6 @@
       "duration_ms": 173000,
       "name": "Ain't That Dandy",
       "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Music For Mad Men - Robust Blues",
-        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Jukebox Shuffle",
-      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60"
+      },
+      "artists": [
+        {
+          "name": "Curtis Baker & The Bravehearts",
+          "url": "https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR"
+        }
+      ],
+      "duration_ms": 187582,
+      "name": "Midnight In Memphis",
+      "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "The Spiekeroog Sessions",
         "url": "https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 263276,
       "name": "If You're Not Mine",
       "url": "https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Midnight In Memphis",
-        "url": "https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60"
-      },
-      "artists": [
-        {
-          "name": "Curtis Baker & The Bravehearts",
-          "url": "https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR"
-        }
-      ],
-      "duration_ms": 187582,
-      "name": "Midnight In Memphis",
-      "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 340840,
-      "name": "Dockside Boogie",
-      "url": "https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Blues On The South Side",
         "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
       },
@@ -1343,18 +1327,38 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
       "artists": [
         {
-          "name": "Jimmy and Walter",
-          "url": "https://open.spotify.com/artist/3oDOPgYaBe6K1VbP3tqzqY"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 179342,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/5w3RqBNmHufIVgr2aD77QF"
+      "duration_ms": 340840,
+      "name": "Dockside Boogie",
+      "url": "https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Ode to Lynn Taitt",
+        "url": "https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h"
+      },
+      "artists": [
+        {
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Cindy Cashdollar",
+          "url": "https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4"
+        }
+      ],
+      "duration_ms": 181814,
+      "name": "Ode to Lynn Taitt",
+      "url": "https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b"
     }
   ],
   "unique_name": "Classic Instrumental Blues",

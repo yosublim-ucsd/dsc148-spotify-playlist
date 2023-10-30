@@ -1,12 +1,12 @@
 {
   "description": "hungria \u00e9 AULAS ",
-  "num_followers": 1237218,
+  "num_followers": 1237209,
   "original_name": "AULAS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWE1N2ViY2IzZGQzOTlmZDUxZmU0NWUyMDQwOWFmZWEwOTFlNWYw",
+  "snapshot_id": "MCxkYjJhOTJhOTIwOGY1NDA3Njg3ODI1MGM1MDc1ZWQ3MDI2YWVlODM4",
   "tracks": [
     {
       "added_at": "2023-10-27 23:07:37",
@@ -712,12 +712,12 @@
       },
       "artists": [
         {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
           "name": "MC Hariel",
           "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         }
       ],
       "duration_ms": 188592,

@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 372353,
+  "num_followers": 372783,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmIxMzFjN2I3YjY0YWNkMWE5ZDM1M2Q5MjBjNGNjNmRkNmFjNWE2",
+  "snapshot_id": "MCxkNDhiNGFkNzA0ZTU2MmVkYzQxNWNjODlhMmI0MGZhYTRiZWY0NmVl",
   "tracks": [
     {
       "added_at": "2023-10-16 03:08:53",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-10-16 03:08:53",
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
+    },
+    {
+      "added_at": "2023-10-16 03:08:53",
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5CDBGbuOAyXOAefzMLbXuZ"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 152990,
       "name": "One Day",
       "url": "https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA"
-    },
-    {
-      "added_at": "2023-10-16 03:08:53",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
     },
     {
       "added_at": "2023-10-16 03:08:53",
@@ -903,6 +903,26 @@
     {
       "added_at": "2023-10-16 03:08:53",
       "album": {
+        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Emelie Cyr\u00e9us",
+          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
+        }
+      ],
+      "duration_ms": 132775,
+      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
+    },
+    {
+      "added_at": "2023-10-16 03:08:53",
+      "album": {
         "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
-    },
-    {
-      "added_at": "2023-10-16 03:08:53",
-      "album": {
-        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Emelie Cyr\u00e9us",
-          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
-        }
-      ],
-      "duration_ms": 132775,
-      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
     },
     {
       "added_at": "2023-10-16 03:08:53",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-10-16 03:08:53",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+        "name": "Stop Loving You",
+        "url": "https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 145840,
-      "name": "Used to Know Me",
-      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+      "duration_ms": 169503,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk"
     }
   ],
   "unique_name": "EDM Samplings",

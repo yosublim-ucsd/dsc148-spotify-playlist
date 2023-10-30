@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,220 likes - 80 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,270 likes - 80 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 48 | [u said we were meant to be](https://open.spotify.com/track/5VXZcOrPWCSVeCAqiYSBOK) | [bearbare](https://open.spotify.com/artist/6PKlFeLEuDwKi9jOLf6qWi), [IWL](https://open.spotify.com/artist/0WCI8FhrRg1eGElGlN6vD4) | [u said we were meant to be](https://open.spotify.com/album/38RGBr2aAetZq0iw5dVvrq) | 1:35 |
 | 49 | [Nightfall](https://open.spotify.com/track/2KdD7cVzytAFBaBYRNvRvd) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Future Feelings](https://open.spotify.com/album/5KMJsVyHhAFkNkwLoA5LkP) | 1:51 |
 | 50 | [DoYouStillFeelTheSame](https://open.spotify.com/track/5R5V3mMShpfS8MGCbGxlqe) | [Tears In The Rain](https://open.spotify.com/artist/3NRWttHA4hPGrdbRPsKRpz), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [music for aliens](https://open.spotify.com/album/2oY1SGoHstbzJRx3f1ER8j) | 2:21 |
-| 51 | [Oblivion](https://open.spotify.com/track/2zhPy8zbBf53XgTtkEbnbO) | [Rufi\-O](https://open.spotify.com/artist/5GKakcgOxfujEnTZOffcRn), [Lily Potter](https://open.spotify.com/artist/2ICXkeX9vhcboodu8Auv8p) | [Oblivion](https://open.spotify.com/album/0Oa8rgpPA3gskDwdjpQBHp) | 2:32 |
+| 51 | [Oblivion](https://open.spotify.com/track/0qQPSnwxQeFIwOYP3oba7Q) | [Rufi\-O](https://open.spotify.com/artist/5GKakcgOxfujEnTZOffcRn), [Lily Potter](https://open.spotify.com/artist/3kcD3ZRH9oUwWSvQNVvMli) | [Oblivion](https://open.spotify.com/album/1ibiLkLIYBtT9QAqJaX456) | 2:32 |
 | 52 | [5:00 Pm](https://open.spotify.com/track/7iZv82iUrrRCbkFWbrtd3l) | [SeanBeats](https://open.spotify.com/artist/6gxWrSNJaCqSVq9cYqjZIQ) | [Perspectiva Del Tiempo](https://open.spotify.com/album/3QwpMVWo9v5Z0CnLNBoaPm) | 2:09 |
 | 53 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 |
 | 54 | [we're broke but we're lucky](https://open.spotify.com/track/439btZgIM3pNEHAkBB5Ncl) | [dankush](https://open.spotify.com/artist/4zxP5ygXMD6Ycjfi3M8Gkf) | [we're broke but we're lucky](https://open.spotify.com/album/1HCZ3njvm41ZBWdn4cfMeF) | 2:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 79 | [Take Five](https://open.spotify.com/track/11ppb9MvpzxbmChaakrKKK) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Take Five](https://open.spotify.com/album/1lIfPSq2TmUxaGOiUKmUP0) | 2:18 |
 | 80 | [Moonlight](https://open.spotify.com/track/0fgWMwqn3me97RFl2CTOKP) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 3](https://open.spotify.com/album/2AldFXJiuHfti8YgkUNQTG) | 3:38 |
 
-Snapshot ID: `MCxmNGMzNTQ1NWIxODgyNWQyNTVkZWI4ZGU3ZGFjY2RhYTUxZWE1YjYw`
+Snapshot ID: `MCxiNjFjYTM5YjJmYjQxMTUyZGNlZWFiMmUxODhhMTcxMWM5MzY3NmU2`

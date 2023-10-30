@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 
 > Las canciones alternativas que definieron el 2022 en Hispanoamérica\. Marilina Bertoldi y Javiera Mena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,324 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,325 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 25 | [No Me Querías Tanto](https://open.spotify.com/track/78O28x289DJcoRzZFWZN8l) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Tiene Que Ser Para Mí](https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK) | 3:07 |
 | 26 | [Un Cabrón Con Suerte](https://open.spotify.com/track/5I5bMqyGxlbiPljq6QwxPe) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Sobredosis De Amor](https://open.spotify.com/album/09VrjlJzEaaGrWNbeMHkvF) | 3:05 |
 | 27 | [Me Porto Bonito \- \(Post\-Punk\)](https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Me Porto Bonito \(Post\-Punk\)](https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy) | 3:00 |
-| 28 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 |
-| 29 | [TRASCENDER](https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 4:15 |
+| 28 | [TRASCENDER](https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 4:15 |
+| 29 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 |
 | 30 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 |
 | 31 | [Charly García](https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Charly García](https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF) | 2:37 |
 | 32 | [Bolero Triste](https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Triste](https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0) | 4:00 |
-| 33 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
-| 34 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
+| 33 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
+| 34 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 35 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
 | 36 | [Aquí](https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 2:52 |
 | 37 | [La Diferencia](https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [La Puerta Dorada](https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 49 | [Te Sigo Buscando](https://open.spotify.com/track/38EyQNxJpINGtcWleiFcbw) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Te Sigo Buscando](https://open.spotify.com/album/1Ado78HCrOHFmDNCo2F1Ao) | 4:01 |
 | 50 | [Anhedonia](https://open.spotify.com/track/3l7XgSNNdnLEZ7Ipcj4Z1X) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Anhedonia](https://open.spotify.com/album/4mFzkhis1q3DVpQ86GhJv9) | 3:44 |
 
-Snapshot ID: `MCxhODQ1Y2VmMmE5OGNiNTgxZGE2MzYxMDUwNWE2MDkwNTQ1ZmU1N2Ni`
+Snapshot ID: `MCxiNmIxNWMwOTU1OWRlNjcyZmRhY2QzYjQ0MzUyMGNhODJiMTA4ZGY4`

@@ -1926,7 +1926,7 @@
     {
       "album": {
         "name": "THALAKKANAM",
-        "url": "https://open.spotify.com/album/0jGhSnF6ThEcKvhBWhbV36"
+        "url": "https://open.spotify.com/album/1FpEMSDbXmzyl2AHpHqEYW"
       },
       "artists": [
         {
@@ -1937,6 +1937,24 @@
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 171600,
+      "name": "THALAKKANAM",
+      "url": "https://open.spotify.com/track/0rirJuOchyc5bDqDpL84YE"
+    },
+    {
+      "album": {
+        "name": "THALAKKANAM",
+        "url": "https://open.spotify.com/album/0jGhSnF6ThEcKvhBWhbV36"
+      },
+      "artists": [
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-30",
       "duration_ms": 171600,
       "name": "THALAKKANAM",
       "url": "https://open.spotify.com/track/75Jkb1Zt2KMdcPEwyQZR17"

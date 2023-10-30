@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=eXl17VJUS4GDhWyI\-5C6WQ">Zakes Bantwini</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,469 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,517 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Emathandweni \(feat\. Thalitha & Dj Jim MasterShine\)](https://open.spotify.com/track/57jG15A7YwMCpMCucIGC7A) | [SUPTA](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [Dj Jim Mastershine](https://open.spotify.com/artist/63xZCjmz39rg3enEgZ5A6u), [Thalitha](https://open.spotify.com/artist/0h1mUSkoZxVoesfpARYXXE) | [Emathandweni \(feat\. Thalitha & Dj Jim MasterShine\)](https://open.spotify.com/album/1FWgQopULsupZ1zeTdQ5dT) | 6:22 |
 | 50 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
 
-Snapshot ID: `MCxiMjkyMWNjYjQwNzM0Njg4NDE5MzFmZjhjNjQ4MzdkYjRiMjMyMjZj`
+Snapshot ID: `MCwzZWM2NWQ1MzFkZDJhNTEzNjdkOGNmOWExNmRiZjVlOWYwMDFjZGNk`

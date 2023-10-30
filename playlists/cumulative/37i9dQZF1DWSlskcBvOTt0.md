@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-524 songs - 2 day 2 hr 46 min
+525 songs - 2 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-21 | 2022-09-10 |
 | [Brave New World](https://open.spotify.com/track/2RTLo7ZBz4SSVXlxCLSVCO) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu) | [Brave New World](https://open.spotify.com/album/1CaeDHHSXPFAOSNkMehefw) | 6:04 | 2021-05-26 | 2022-07-28 |
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
+| [Calling](https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Calling](https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab) | 3:29 | 2023-10-27 |  |
 | [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 | 2023-02-08 |
 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 | 2021-06-18 | 2022-11-01 |
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-08-23 |  |
@@ -143,7 +144,7 @@
 | [El Vento](https://open.spotify.com/track/7HOpwF0tnh3jL1twtDw5JY) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [El Vento](https://open.spotify.com/album/5yfhtpnsttHCYXYNeZ4XBV) | 3:32 | 2023-06-16 |  |
 | [El Verano De Tus Ojos](https://open.spotify.com/track/0Giq48GSi0jSlAtT4p1hWN) | [Brian Cid](https://open.spotify.com/artist/2n6DGYH09XJFq4TqfeQ2G3) | [El Verano De Tus Ojos EP](https://open.spotify.com/album/0VvONaYZ1YY6vzJPt3dzSj) | 9:09 | 2021-04-21 | 2022-06-06 |
 | [Ellipse](https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Ellipse](https://open.spotify.com/album/41MYb0d8BxiQhby575mvbj) | 6:51 | 2022-06-03 | 2022-08-26 |
-| [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-07-21 |  |
+| [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-07-21 | 2023-10-30 |
 | [Embre](https://open.spotify.com/track/3wbUuzRdemeNJuqnMNBC9m) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Moho EP](https://open.spotify.com/album/5UFFlblxN3PC2hYcNT4i9t) | 8:56 | 2021-04-21 | 2022-12-17 |
 | [Endless History](https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Facundo Losardo](https://open.spotify.com/artist/4saM6vfv68Mb1xB3EEb9IQ) | [Greatness of Blooming Twig](https://open.spotify.com/album/3jQnaplLlukpbKQlUh6SCM) | 5:04 | 2022-01-21 | 2022-07-29 |
 | [Enjoy The Rain \(feat\. Nathan Daisy\)](https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nathan Daisy](https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 3:23 | 2023-06-16 | 2023-07-23 |

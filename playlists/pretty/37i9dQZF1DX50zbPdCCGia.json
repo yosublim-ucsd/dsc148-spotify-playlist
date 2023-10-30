@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 223288,
+  "num_followers": 223434,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzEyOTI3YTY5MzQ1OGY1MWMxMWEwMjJiYzZlNTdiZThmYjJiYjFk",
+  "snapshot_id": "MCwzNjc0NWQ5YTIwZGNhNGJlODVmY2ZjMmI3OGEyOGIxNjNiMzdiZmQ5",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "I Got a Name",
-        "url": "https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "I'll Have To Say I Love You In A Song",
-      "url": "https://open.spotify.com/track/4t8tx6o7oM6Ax66ZUU361y"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Deceptive Bends",
         "url": "https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 207573,
       "name": "The Things We Do For Love",
       "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "I Got a Name",
+        "url": "https://open.spotify.com/album/4ieaeNOAdq6VoYQrY0hkhq"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "I'll Have To Say I Love You In A Song",
+      "url": "https://open.spotify.com/track/4t8tx6o7oM6Ax66ZUU361y"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Operator (That's Not the Way It Feels)",
-      "url": "https://open.spotify.com/track/3NJzkMApQqAudLSgYb5Bz2"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "The Next Voice You Hear - The Best Of Jackson Browne",
         "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
       },
@@ -511,18 +495,34 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Pretzel Logic",
-        "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 272946,
-      "name": "Rikki Don't Lose That Number",
-      "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
+      "duration_ms": 230213,
+      "name": "Operator (That's Not the Way It Feels)",
+      "url": "https://open.spotify.com/track/3NJzkMApQqAudLSgYb5Bz2"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Wings At The Speed Of Sound (Archive Collection)",
+        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 354240,
+      "name": "Silly Love Songs - 2014 Remaster",
+      "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Wings At The Speed Of Sound (Archive Collection)",
-        "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
+        "name": "Pretzel Logic",
+        "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
       },
       "artists": [
         {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 354240,
-      "name": "Silly Love Songs - 2014 Remaster",
-      "url": "https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE"
+      "duration_ms": 272946,
+      "name": "Rikki Don't Lose That Number",
+      "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Luna Sea",
-        "url": "https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75"
-      },
-      "artists": [
-        {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Just Remember I Love You",
-      "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/3m4xJJDmVNzsWaJ6OlLTru"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 195160,
       "name": "Song Sung Blue - Single Version",
       "url": "https://open.spotify.com/track/4FZ8wtTaOAbYvyChBt4GEQ"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Luna Sea",
+        "url": "https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75"
+      },
+      "artists": [
+        {
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Just Remember I Love You",
+      "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
     },
     {
       "added_at": "2023-03-29 17:34:27",

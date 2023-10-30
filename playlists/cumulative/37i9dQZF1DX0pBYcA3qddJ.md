@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-575 songs - 1 day 14 hr 54 min
+576 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,8 @@
 | [Spice](https://open.spotify.com/track/7kDc29DQs132sCsIq7VDKV) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Spice](https://open.spotify.com/album/2zBMFUd4MG6buGgHXPTtsT) | 3:45 | 2023-01-31 | 2023-03-01 |
 | [Spring Breeze](https://open.spotify.com/track/3PRkIiBuWU9jBZ04OWdQor) | [Seiji Igusa](https://open.spotify.com/artist/502q2lnpYtPkzMHyIpBABO) | [Spring Breeze](https://open.spotify.com/album/3Zg2jV3fqKlwEoEQSM6Sg0) | 2:52 | 2023-04-04 | 2023-06-02 |
 | [Spring Breeze](https://open.spotify.com/track/69IJNnRRs3HsjwnpGzGS56) | [Seiji Igusa](https://open.spotify.com/artist/502q2lnpYtPkzMHyIpBABO) | [Spring Breeze](https://open.spotify.com/album/4GKGxqYBhFb6c9uxGj53Wr) | 2:52 | 2023-04-04 | 2023-04-06 |
-| [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-22 |  |
+| [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-22 | 2023-10-30 |
+| [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2023-10-26 |  |
 | [Starting Again](https://open.spotify.com/track/1WRwWWwaxm9zJKysz91T31) | [Timaeus](https://open.spotify.com/artist/5DWCBR1B1PkfYbWtGq9wLT) | [Starting Again](https://open.spotify.com/album/6f2umrRIEGBL3e5JcPoaT3) | 3:52 | 2023-03-23 | 2023-04-19 |
 | [Stay in the light \- reprise](https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [RAKEL](https://open.spotify.com/artist/5TTXO1acO5ZuuUCsZ0MXJl) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 4:24 | 2023-02-16 | 2023-06-28 |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-02-17 |

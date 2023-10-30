@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Banan Melon Kiwi & Citron",
       "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
@@ -2930,7 +2930,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 231833,
       "name": "Blank Space (Taylor's Version)",
       "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
@@ -5802,7 +5802,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 177200,
       "name": "Det \u00e4r ju dej jag g\u00e5r och v\u00e4ntar p\u00e5",
       "url": "https://open.spotify.com/track/2sbjPQE3sS9H6i8BOmtZbr"
@@ -10706,7 +10706,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 194394,
       "name": "Gr\u00e4t",
       "url": "https://open.spotify.com/track/1VJBnmHm3gUyJnPKetgC3j"
@@ -14764,7 +14764,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 156733,
       "name": "Kaxig",
       "url": "https://open.spotify.com/track/2dTBLcAGxJNoEcMyA0txeg"
@@ -15062,7 +15062,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "KOMMER DU IH\u00c5G?",
       "url": "https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ"
@@ -18916,7 +18916,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 184606,
       "name": "Natten blir till dag",
       "url": "https://open.spotify.com/track/2cqyU75B4rXPHlU2X6WLCI"
@@ -19292,7 +19292,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 146436,
       "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
@@ -20200,7 +20200,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 235800,
       "name": "Out Of The Woods (Taylor's Version)",
       "url": "https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE"
@@ -22208,7 +22208,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 144240,
       "name": "Rik N\u00e4r Jag D\u00f6r",
       "url": "https://open.spotify.com/track/2qaLGs4i8KjajslMwpA3f6"
@@ -24874,7 +24874,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 160373,
       "name": "Somna",
       "url": "https://open.spotify.com/track/6oEfLCekbv7T0ERha5IQO9"
@@ -25606,7 +25606,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 231000,
       "name": "Style (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
@@ -25678,7 +25678,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 171818,
       "name": "Suburban Legends (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP"
@@ -27014,6 +27014,24 @@
       "duration_ms": 176506,
       "name": "The Wrong Place",
       "url": "https://open.spotify.com/track/6riWD7fUly0edv1gUZaguM"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
     },
     {
       "album": {
@@ -29760,7 +29778,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 212600,
       "name": "Welcome To New York (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9"
@@ -29822,7 +29840,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

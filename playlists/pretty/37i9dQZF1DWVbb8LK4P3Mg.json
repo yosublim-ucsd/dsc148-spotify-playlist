@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: Red Velvet, aespa)",
-  "num_followers": 100353,
+  "num_followers": 100428,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjJhYWY5MjlmZjM1YWJmNGYwNTg0NDZhMjFkZThlNDYzNDA2NmVh",
+  "snapshot_id": "MCwzYmI5YzY5ODEwZDZmZmMwZDQ1ZDM5MmQ5NGNmOWVhNGJiNjM4OTY5",
   "tracks": [
     {
       "added_at": "2023-01-10 15:24:13",
@@ -375,26 +375,18 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk"
       },
       "artists": [
         {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
         }
       ],
-      "duration_ms": 234839,
-      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+      "duration_ms": 212836,
+      "name": "Confession Song",
+      "url": "https://open.spotify.com/track/60uS4DyHMAdsNwJXn89C8R"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -455,18 +447,26 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "MAD Winter Edition",
-        "url": "https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk"
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
       "artists": [
         {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         }
       ],
-      "duration_ms": 212836,
-      "name": "Confession Song",
-      "url": "https://open.spotify.com/track/60uS4DyHMAdsNwJXn89C8R"
+      "duration_ms": 234839,
+      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Gift For You",
-        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
-      },
-      "artists": [
-        {
-          "name": "WEi",
-          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
-        }
-      ],
-      "duration_ms": 213986,
-      "name": "Gift For You",
-      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "My Winter Trip",
         "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 251617,
       "name": "My Winter Trip",
       "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "Gift For You",
+        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
+      },
+      "artists": [
+        {
+          "name": "WEi",
+          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "Gift For You",
+      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Will You Be My Home",
-        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Will You Be My Home",
-      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "YAOKI Project part.1",
         "url": "https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
+        "name": "Will You Be My Home",
+        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
       },
       "artists": [
         {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
-      "duration_ms": 229386,
-      "name": "My Favorite Winter",
-      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
+      "duration_ms": 210653,
+      "name": "Will You Be My Home",
+      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1335,6 +1319,22 @@
       "duration_ms": 214680,
       "name": "Before Our Night Is Over",
       "url": "https://open.spotify.com/track/394qYjT7uu43TIdVgor8bX"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "My Favorite Winter",
+      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "MIDNIGHT CHRISTMAS",
-        "url": "https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13"
-      },
-      "artists": [
-        {
-          "name": "SBGB",
-          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
-        }
-      ],
-      "duration_ms": 142406,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "2016 United Cube Project Part 1",
         "url": "https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 228508,
       "name": "Special Christmas",
       "url": "https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "MIDNIGHT CHRISTMAS",
+        "url": "https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13"
+      },
+      "artists": [
+        {
+          "name": "SBGB",
+          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
+        }
+      ],
+      "duration_ms": 142406,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
+        "name": "FNC LAB #2 'It's Christmas'",
+        "url": "https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S"
+      },
+      "artists": [
+        {
+          "name": "FNC ARTIST",
+          "url": "https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0"
+        }
+      ],
+      "duration_ms": 230190,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
         "name": "cozy christmas",
         "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 123666,
       "name": "Today and other days (Feat. Eily)",
       "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
-        "name": "FNC LAB #2 'It's Christmas'",
-        "url": "https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S"
-      },
-      "artists": [
-        {
-          "name": "FNC ARTIST",
-          "url": "https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0"
-        }
-      ],
-      "duration_ms": 230190,
-      "name": "It's Christmas",
-      "url": "https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz"
     },
     {
       "added_at": "2023-01-10 15:24:13",

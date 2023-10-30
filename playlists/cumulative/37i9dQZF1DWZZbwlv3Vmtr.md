@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-815 songs - 1 day 7 hr 42 min
+816 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [actually](https://open.spotify.com/track/2dg8COfiazX55vr3qeoIZB) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [actually](https://open.spotify.com/album/2ypI9Zr48QaenckUpp8SgA) | 2:01 | 2023-01-06 |  |
 | [Adrift](https://open.spotify.com/track/5LtSbDktkoCBD4tO1rEwoq) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Luke Tidbury](https://open.spotify.com/artist/4g1NSdBab7fmTNzr8UKVJP), [Pevanni](https://open.spotify.com/artist/3YG6GacnNybthfkmJbsaVE) | [Eudaemonia](https://open.spotify.com/album/0PkkyOxcvloLmgvm8GmnQt) | 1:45 | 2022-11-25 | 2023-10-20 |
 | [Aesthetics](https://open.spotify.com/track/2msdkpUBE5J9k4zbGeng6n) | [elephvnt](https://open.spotify.com/artist/5q1SBpeVA2vh8h9gfxjY36) | [Aesthetics](https://open.spotify.com/album/2xD6hfBIn6muHL7MwNuXQ4) | 1:49 | 2022-04-15 | 2022-04-22 |
-| [Affirmations](https://open.spotify.com/track/0k8Z6E4Jbx11Y9pwPo7BEA) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Affirmations](https://open.spotify.com/album/4rPQSr2OlsePkDkfNKesm9) | 1:52 | 2022-05-20 | 2023-10-20 |
+| [Affirmations](https://open.spotify.com/track/0k8Z6E4Jbx11Y9pwPo7BEA) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Affirmations](https://open.spotify.com/album/4rPQSr2OlsePkDkfNKesm9) | 1:52 | 2022-05-20 |  |
 | [After Hours](https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [After Hours](https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI) | 2:03 | 2023-10-13 |  |
 | [After meal](https://open.spotify.com/track/2YM708xoJMb7ZV3cGl9dMx) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [Coffee Stand](https://open.spotify.com/album/4T8kEchzLMpyPlHzrqMRbZ) | 1:54 | 2022-04-15 | 2022-05-14 |
 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 | 2022-04-15 |  |
@@ -97,6 +97,7 @@
 | [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 | 2022-09-02 |  |
 | [Carpo](https://open.spotify.com/track/7HTAqdN7u1e1KbFM9KdWK4) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Carpo](https://open.spotify.com/album/0PjCTfG71aDSibVzzseWmo) | 3:01 | 2022-05-20 | 2022-06-03 |
 | [Castle](https://open.spotify.com/track/0WUs4bOtcRF52R9BaXsZn1) | [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j), [JFlove](https://open.spotify.com/artist/3TC2tAGycjFEmG8BMloKHP) | [Castle](https://open.spotify.com/album/3NJCQUd4ZTepboWnrpVdTj) | 1:36 | 2022-11-11 |  |
+| [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 | 2023-10-27 |  |
 | [Cathartic](https://open.spotify.com/track/0yk0UX9d2qa9eCqsvQobei) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 2:12 | 2022-04-15 | 2022-07-08 |
 | [Cavern](https://open.spotify.com/track/3m4iAUrVsW0BFkyOmdeNrr) | [Lil Joke](https://open.spotify.com/artist/5OjXKVQtwCAwQ3EGw3ZzBQ) | [Cavern](https://open.spotify.com/album/2KQOOidJ1pYuui2rnhBio1) | 1:57 | 2022-04-22 | 2023-10-13 |
 | [Caves](https://open.spotify.com/track/5v4Mbrr1OSdpILZnLoIib1) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Modokat](https://open.spotify.com/artist/0MOkCubG8ucV1oT8sRynNd) | [Caves](https://open.spotify.com/album/58hOksHan9dD6Jbn54ROVc) | 2:26 | 2022-09-30 | 2023-10-20 |
@@ -355,7 +356,7 @@
 | [Lesters Adventure](https://open.spotify.com/track/0WOGzTW5TEp1p1J3WCiSzM) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Paws For A Second](https://open.spotify.com/album/4GBIGs6taHticCXjvePE5U) | 2:05 | 2022-04-15 | 2022-07-08 |
 | [Let It Love](https://open.spotify.com/track/4PThACYdVkpvTevBsLQh4X) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG), [Japanolofi Records](https://open.spotify.com/artist/3hpBOomrnPaXG3xfma7CUM) | [Let It Love](https://open.spotify.com/album/7uFQKLLBDOj3C4SzaDZJMt) | 2:24 | 2022-11-25 |  |
 | [Lets meet soon](https://open.spotify.com/track/29rrd6Sg1lAmLzflVCrejq) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Lets meet soon](https://open.spotify.com/album/0NTIuafaplcYS4BsuTXSFs) | 2:12 | 2022-05-13 | 2023-10-20 |
-| [Let’s Talk](https://open.spotify.com/track/3PDYzBV9MDoceVJT05doMe) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Jackson Heights](https://open.spotify.com/album/0jwgd46SErxE9SXsRWzpf6) | 3:25 | 2023-09-22 |  |
+| [Let’s Talk](https://open.spotify.com/track/3PDYzBV9MDoceVJT05doMe) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Jackson Heights](https://open.spotify.com/album/0jwgd46SErxE9SXsRWzpf6) | 3:25 | 2023-09-22 | 2023-10-30 |
 | [Lights](https://open.spotify.com/track/2Ybz4zJuj5pBKmWeLjbGdE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Lights](https://open.spotify.com/album/7jVcGM3AMu2z9yRs6TEO0R) | 2:34 | 2023-07-19 |  |
 | [Lightzone](https://open.spotify.com/track/6RWd8uKY4Fp7IfVpJjjOgp) | [Ble0](https://open.spotify.com/artist/6WmPnJPGUdHOZAmDIY9GIo) | [Lightzone](https://open.spotify.com/album/4NKxtQjQiUir9MJMIkdPJi) | 2:21 | 2022-04-15 | 2022-05-20 |
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2022-04-15 | 2022-08-12 |
@@ -721,7 +722,7 @@
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |
 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 | 2022-04-15 | 2022-05-20 |
 | [this feels so right](https://open.spotify.com/track/4or5RFuku3G0P1ZOLGBTLt) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [this feels so right](https://open.spotify.com/album/2VyvMQUHPp3KIcIyiWbVjv) | 1:30 | 2022-04-15 | 2022-07-29 |
-| [Throwing Tomatoes](https://open.spotify.com/track/5YHwUWpLm8Ju2rYvSRV3Ir) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Not sure about this](https://open.spotify.com/album/1PsRH84FYg5KSvFupOsvCT) | 1:39 | 2022-11-11 |  |
+| [Throwing Tomatoes](https://open.spotify.com/track/5YHwUWpLm8Ju2rYvSRV3Ir) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Not sure about this](https://open.spotify.com/album/1PsRH84FYg5KSvFupOsvCT) | 1:39 | 2022-11-11 | 2023-10-30 |
 | [Tidelows](https://open.spotify.com/track/3gR2wcPvXK6nYMAFIwqWNV) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ) | [Tidelows](https://open.spotify.com/album/2qOdD3EsnVwFmvjrus5J7h) | 2:27 | 2022-04-22 | 2022-07-29 |
 | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/track/2Jtxx7JTFeEq7vGG5mxgMV) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/album/6FfMLwzNxswjsR5tlM0YGV) | 3:10 | 2023-09-22 |  |
 | [Tiles](https://open.spotify.com/track/1TZ1wSmpYdSLajpBhlSGx3) | [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Tiles](https://open.spotify.com/album/2uMxZwF0beMKwgS4M90Dev) | 2:31 | 2023-04-28 | 2023-09-29 |

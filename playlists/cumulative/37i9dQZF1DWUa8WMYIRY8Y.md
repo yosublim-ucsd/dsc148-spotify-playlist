@@ -4,7 +4,7 @@
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : The Kills
 
-67 songs - 4 hr 10 min
+68 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Hello](https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello](https://open.spotify.com/album/2dVvbYd3dfLWqDhFDLRK5S) | 3:16 | 2023-10-19 |  |
 | [I COULDN'T CARE](https://open.spotify.com/track/0ikSWphMqweqLxsGa0cLjs) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [I Couldn't Care](https://open.spotify.com/album/416pePvAcGPEqundwgHGtG) | 4:19 | 2023-09-28 |  |
 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 | 2023-09-28 | 2023-10-13 |
-| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-26 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-26 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-26 | 2023-10-30 |
 | [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-09-28 | 2023-10-20 |
 | [Killing My Borrowed Time](https://open.spotify.com/track/53JhpHJVdE0TxXiZ6p387I) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [4D Country](https://open.spotify.com/album/4K2SDO8BFmI5oJsAHJieHp) | 3:17 | 2023-10-12 |  |
 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 | 2023-09-28 |  |

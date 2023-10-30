@@ -5169,6 +5169,24 @@
     },
     {
       "album": {
+        "name": "Do",
+        "url": "https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "Do",
+      "url": "https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF"
+    },
+    {
+      "album": {
         "name": "D.O.P.E.",
         "url": "https://open.spotify.com/album/3Wx5L6QlWOzdW4Rg1OetdU"
       },

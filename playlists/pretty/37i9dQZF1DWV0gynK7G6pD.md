@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alice Sara Ott
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,345 likes - 86 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,416 likes - 86 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 85 | [Piano Concerto No\. 23 in A Major, K\. 488: II\. Adagio](https://open.spotify.com/track/1BNkzvH66bVDKQ3wjOk3ce) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Neal Peres Da Costa](https://open.spotify.com/artist/3m1TWfpoTeC1IL8todMjuo), [Australian Romantic & Classical Orchestra](https://open.spotify.com/artist/33rknDGjGvwYoKqe02xMI0), [Rachael Beesley](https://open.spotify.com/artist/3auXO44EY4GyfnZZzLk0RX) | [Piano Concerto No\. 23 in A Major, K\. 488: II\. Adagio](https://open.spotify.com/album/23pylMrk7sLsyme1Npkai8) | 7:11 |
 | 86 | [Out of the Depths in B Minor, Op\. 130](https://open.spotify.com/track/1aEymUXcVP9sr4cORnrOPX) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Martina Frezzotti](https://open.spotify.com/artist/4MctBJmxgQX9iXtsjeMT7L) | [Amy Beach: Piano Music](https://open.spotify.com/album/6gweE71NbwMalQvVMd3Ver) | 2:44 |
 
-Snapshot ID: `MCw1ZDU4ZDliNWM1ODhhYzc0NmY3MjNkMTdhZGE5YTlmNmM5NzJhMzM2`
+Snapshot ID: `MCxhYmI0YWY0NWZlNzYyZTE5MDdjOWVkOTcwNTQyMzZlM2UxNDVhZDI5`

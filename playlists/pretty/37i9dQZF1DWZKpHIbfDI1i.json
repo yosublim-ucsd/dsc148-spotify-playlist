@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Natanael Cano en portada.",
-  "num_followers": 608541,
+  "num_followers": 608610,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjI5NGMyOWU2MWJlN2FlYTkwNTY1NTAzNzM4MzQ0ZTZkNDQ1MjE1",
+  "snapshot_id": "MCw0MzRhYjdjMTIzNDMxMDNkZDVhYWRmNGRkMmFkN2UxMGQ1M2RhYTIy",
   "tracks": [
     {
       "added_at": "2023-10-26 00:02:01",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-10-26 00:02:01",
       "album": {
+        "name": "La Fresa",
+        "url": "https://open.spotify.com/album/1TW0GzpdhiBK6dZxI4yGV4"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174923,
+      "name": "La Fresa",
+      "url": "https://open.spotify.com/track/1PexKCGqX41T01rtTH08YN"
+    },
+    {
+      "added_at": "2023-10-26 00:02:01",
+      "album": {
         "name": "Y Yo Me Le Pego",
         "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 172806,
       "name": "Y Yo Me Le Pego",
       "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
-    },
-    {
-      "added_at": "2023-10-26 00:02:01",
-      "album": {
-        "name": "La Fresa",
-        "url": "https://open.spotify.com/album/1TW0GzpdhiBK6dZxI4yGV4"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174923,
-      "name": "La Fresa",
-      "url": "https://open.spotify.com/track/1PexKCGqX41T01rtTH08YN"
     },
     {
       "added_at": "2023-10-26 00:02:01",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-10-26 00:02:01",
       "album": {
-        "name": "El Patrocinador",
-        "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "El Patrocinador",
-      "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
-    },
-    {
-      "added_at": "2023-10-26 00:02:01",
-      "album": {
         "name": "La Pelinegra",
         "url": "https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 155560,
       "name": "La Pelinegra",
       "url": "https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0"
+    },
+    {
+      "added_at": "2023-10-26 00:02:01",
+      "album": {
+        "name": "El Patrocinador",
+        "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "El Patrocinador",
+      "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
     },
     {
       "added_at": "2023-10-26 00:02:01",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-10-26 00:02:01",
       "album": {
-        "name": "Guerreros Aztecas",
-        "url": "https://open.spotify.com/album/2C8J91k1UfZpeONBHE6UTi"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 233898,
-      "name": "Guerreros Aztecas",
-      "url": "https://open.spotify.com/track/2BKTRdo32SFyNrDjcHgVFW"
-    },
-    {
-      "added_at": "2023-10-26 00:02:01",
-      "album": {
         "name": "Ant\u00eddoto",
         "url": "https://open.spotify.com/album/6mSBEqGKBR1xw8OHVnrhvB"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 282565,
       "name": "Fuego de Noche, Nieve de D\u00eda",
       "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
+    },
+    {
+      "added_at": "2023-10-26 00:02:01",
+      "album": {
+        "name": "Guerreros Aztecas",
+        "url": "https://open.spotify.com/album/2C8J91k1UfZpeONBHE6UTi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 233898,
+      "name": "Guerreros Aztecas",
+      "url": "https://open.spotify.com/track/2BKTRdo32SFyNrDjcHgVFW"
     },
     {
       "added_at": "2023-10-26 00:02:01",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2023-10-26 00:02:01",
       "album": {
-        "name": "LALA",
-        "url": "https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc"
-    },
-    {
-      "added_at": "2023-10-26 00:02:01",
-      "album": {
         "name": "Tiki",
         "url": "https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 189613,
       "name": "Tiki",
       "url": "https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy"
+    },
+    {
+      "added_at": "2023-10-26 00:02:01",
+      "album": {
+        "name": "LALA",
+        "url": "https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc"
     },
     {
       "added_at": "2023-10-26 00:02:01",

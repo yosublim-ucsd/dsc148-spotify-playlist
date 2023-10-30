@@ -950,7 +950,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 225806,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 334840,
       "name": "Nomayoyo (Ingoma ka Mkhulu)",
       "url": "https://open.spotify.com/track/37FQ84wNKmipnbUxstpTbG"
@@ -2160,6 +2160,28 @@
       "duration_ms": 375986,
       "name": "Space Ship",
       "url": "https://open.spotify.com/track/5ZQiY5rlJaBvhyVMZJV8AS"
+    },
+    {
+      "album": {
+        "name": "Sunset (in California)",
+        "url": "https://open.spotify.com/album/1rAdOOiYLU1OX01OsPnmpy"
+      },
+      "artists": [
+        {
+          "name": "Thandi Ntuli",
+          "url": "https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy"
+        },
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351773,
+      "name": "Sunset (in California)",
+      "url": "https://open.spotify.com/track/0y95rXE4TENI9ib8tSpCG3"
     },
     {
       "album": {

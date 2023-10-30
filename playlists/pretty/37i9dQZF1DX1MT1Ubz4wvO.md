@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Bruses en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,000 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,021 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [La Llamada](https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [La Llamada](https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt) | 4:09 |
 | 50 | [Luna](https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Relatos Falsos De Historias Verdaderas](https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS) | 3:56 |
 
-Snapshot ID: `MCxlMzE3YTc1NmM1NzY4NWYxZGZlZmE0MDBjNmVlNmY0ODBiODcwMTI0`
+Snapshot ID: `MCw5NzliNWMxZmE1ZGE1OTU3ZDUyMTQwZDczM2Q5N2Y0NGViYWU1MTcy`

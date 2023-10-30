@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,141 songs - 9 day 16 hr 44 min
+6,142 songs - 9 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1572,7 +1572,7 @@
 | [Echos](https://open.spotify.com/track/7ruubQWd9pge9BwU2kPWpT) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Echos](https://open.spotify.com/album/5K1VkXxDRwgLZY5ocWbxlB) | 2:15 | 2023-06-07 | 2023-09-30 |
 | [Eclipse](https://open.spotify.com/track/4QGHNcdcndYCxQNYvJhww4) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Eclipse](https://open.spotify.com/album/6v3cJc3QSWB2Fs9lGF2TlU) | 1:41 | 2022-07-22 | 2022-11-11 |
 | [Eden](https://open.spotify.com/track/6CrOi0YsjuIbVMvtEomcyD) | [Lullaby](https://open.spotify.com/artist/5PaPuLho34bZ8pxuI12ynz), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Eden](https://open.spotify.com/album/057Zc7igxGpyJ0BRk0bxq5) | 2:06 | 2022-09-02 | 2022-12-09 |
-| [Edgy Stripes](https://open.spotify.com/track/1HfvXRyfR8DPm9KK0PCOue) | [sunnee](https://open.spotify.com/artist/6lT0N3TbFSVDDPMAVXk32X) | [Edgy Stripes](https://open.spotify.com/album/18EGmKo4d938htKFBJOZyB) | 2:10 | 2023-10-27 |  |
+| [Edgy Stripes](https://open.spotify.com/track/1HfvXRyfR8DPm9KK0PCOue) | [sunnee](https://open.spotify.com/artist/6lT0N3TbFSVDDPMAVXk32X) | [Edgy Stripes](https://open.spotify.com/album/18EGmKo4d938htKFBJOZyB) | 2:10 | 2023-10-27 | 2023-10-30 |
 | [Effervescent](https://open.spotify.com/track/4pPL6ISxDI4k40xj2vN9Zh) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Effervescent](https://open.spotify.com/album/0CsShqHvizLnWq7Y0OoocG) | 2:17 | 2019-11-20 | 2021-07-01 |
 | [Effervescent](https://open.spotify.com/track/6IR6lNKONhV6tPn1dbq5lD) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Ambedo](https://open.spotify.com/album/0ZMuOWAgInjSRfHKfbntet) | 2:17 | 2021-10-26 | 2022-05-05 |
 | [Effortless](https://open.spotify.com/track/2uECuFneO3YfJjEv3kz68w) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Effortless](https://open.spotify.com/album/1ZK2ZibOj6CggnPP2arjLx) | 2:35 | 2022-05-27 | 2022-09-16 |
@@ -1964,7 +1964,7 @@
 | [Forest Floor](https://open.spotify.com/track/5spSbXAUh9a5rUVu4eeoxH) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Mother Nature](https://open.spotify.com/album/16qesuETqCGY06jzkNJZZb) | 1:45 | 2023-08-25 | 2023-10-27 |
 | [Forest Fruits](https://open.spotify.com/track/44gzwgBn5zkTduaYghWmvb) | [Cantsleep](https://open.spotify.com/artist/3NnWw90HvNCWgNi7vtKg4C), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Forest Fruits](https://open.spotify.com/album/34jXmvVTewjwFOdlm7FFoK) | 1:33 | 2020-01-14 | 2021-06-18 |
 | [forest gump](https://open.spotify.com/track/3NdMLcymlIY1uKT4Tg8y5o) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Paul Midihill](https://open.spotify.com/artist/0I4uYz3ULu6Q3CHMWEgdhc) | [forest gump](https://open.spotify.com/album/097d7jFGrZ1utQPEefQXsF) | 2:42 | 2022-10-28 | 2023-10-06 |
-| [Forest View](https://open.spotify.com/track/48K3SegIgoGIKdw72IuMAu) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Forest View](https://open.spotify.com/album/4895Lljpc2F7q4FMLJilAd) | 2:15 | 2023-10-27 | 2023-10-29 |
+| [Forest View](https://open.spotify.com/track/48K3SegIgoGIKdw72IuMAu) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Forest View](https://open.spotify.com/album/4895Lljpc2F7q4FMLJilAd) | 2:15 | 2023-10-27 |  |
 | [Forget about larry](https://open.spotify.com/track/71Yl25X2ZJn6tzxePNlPz6) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Forget about larry](https://open.spotify.com/album/3KNw32zj36IJEI02ahuxhl) | 2:32 | 2023-04-27 | 2023-07-07 |
 | [Forgiveness](https://open.spotify.com/track/72MhlqX4Eb1IyMJq486XRN) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [Forgiveness](https://open.spotify.com/album/41pBXLIfbweKQn6S9KSywT) | 3:43 | 2022-06-03 | 2022-09-23 |
 | [Forgiveness](https://open.spotify.com/track/3WmznVJAHrzBHZvpAz1ix5) | [pucca](https://open.spotify.com/artist/6kLGnSLqv3I3NPOTdmm5lA) | [Forgiveness](https://open.spotify.com/album/2q9DCmx4VatcJLEpmZ8umy) | 1:42 | 2022-05-27 | 2022-09-16 |
@@ -4058,7 +4058,8 @@
 | [Peach](https://open.spotify.com/track/7b8xagpGYFf4VhppmjvaVa) | [Slowflower](https://open.spotify.com/artist/1SibkDl8dPhz7S5G6lJPpX) | [Peach](https://open.spotify.com/album/5Zq8X3hMz90VG8rwBodrG5) | 1:31 | 2020-05-04 | 2021-01-11 |
 | [Peach Honey](https://open.spotify.com/track/6y6qlOMn1oQM5rItJXgG7G) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Peach Honey](https://open.spotify.com/album/5xV0kPOBPKpGDFNqnUnH9l) | 2:56 | 2021-07-17 | 2022-03-12 |
 | [Peaks](https://open.spotify.com/track/0PwKjuG8Tf5NhbeT7BKzY0) | [Lunchmoney](https://open.spotify.com/artist/7JD72qpbmGSp9M0uCLOa3D), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Peaks](https://open.spotify.com/album/39TGtgmZcT4ji6uFYYTT57) | 2:32 | 2020-01-22 | 2021-06-18 |
-| [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 | 2023-10-27 |  |
+| [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 | 2023-10-27 | 2023-10-30 |
+| [peanut dream shake](https://open.spotify.com/track/32R8uRLa9uf1ffKWhVrdFR) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/7aqITKpq0WfAmXYwNCwj9u) | 2:45 | 2023-10-27 |  |
 | [Pearl Dust](https://open.spotify.com/track/4HhZZZAtRufBXnJyPtf7uB) | [florentine](https://open.spotify.com/artist/7FLMLV8T9qJOkzGZArUAns) | [Pearl Dust](https://open.spotify.com/album/6CEev0dBhWl5ed27yrBEOL) | 2:28 | 2021-10-20 | 2022-04-15 |
 | [Pearls](https://open.spotify.com/track/2Vjg5rtBcuzx99SyAOHJsD) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Pearls](https://open.spotify.com/album/0GPOmi6oHXZKIMxTLllznv) | 2:10 | 2020-01-12 | 2021-08-22 |
 | [peas out](https://open.spotify.com/track/0RDj9JVOc6MfNIeAgC8TJ7) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [peas out](https://open.spotify.com/album/1yjp45nlPkwdOlZaZb6AQI) | 2:04 | 2022-10-28 |  |

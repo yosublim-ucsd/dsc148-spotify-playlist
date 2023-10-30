@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 158480,
       "name": "And Now I'm Just Nothing",
       "url": "https://open.spotify.com/track/1nOK8A0xzDIifD5M5b72ip"
@@ -3579,6 +3579,24 @@
     },
     {
       "album": {
+        "name": "Campanuela",
+        "url": "https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB"
+      },
+      "artists": [
+        {
+          "name": "Nacho Dat\u00far",
+          "url": "https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "Campanuela",
+      "url": "https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY"
+    },
+    {
+      "album": {
         "name": "Camping",
         "url": "https://open.spotify.com/album/1GjAfuFpQgKk3IcbUbjEPN"
       },
@@ -3818,7 +3836,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 120203,
       "name": "Chasing Sunsets",
       "url": "https://open.spotify.com/track/60aVSWvHQyVRhXYCUHj3DK"
@@ -9183,6 +9201,24 @@
     },
     {
       "album": {
+        "name": "horizon",
+        "url": "https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lullaby & yorukaze",
+          "url": "https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "horizon",
+      "url": "https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu"
+    },
+    {
+      "album": {
         "name": "Modal Soul",
         "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
       },
@@ -9908,7 +9944,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 112941,
       "name": "introspection",
       "url": "https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi"
@@ -14025,6 +14061,24 @@
     },
     {
       "album": {
+        "name": "One Flame",
+        "url": "https://open.spotify.com/album/2P1KFMTCzA09BPBrqtmJID"
+      },
+      "artists": [
+        {
+          "name": "T.O.M",
+          "url": "https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164819,
+      "name": "One Flame",
+      "url": "https://open.spotify.com/track/4Ff9CW1dMdIqupiUG3yn3q"
+    },
+    {
+      "album": {
         "name": "OTHERLiiNE",
         "url": "https://open.spotify.com/album/0XsqhKLzKCGw2q0VAT58Xj"
       },
@@ -15925,6 +15979,24 @@
     },
     {
       "album": {
+        "name": "Remote View",
+        "url": "https://open.spotify.com/album/4qSrf2jwAUPsqeecgyEAza"
+      },
+      "artists": [
+        {
+          "name": "Uneven Cream",
+          "url": "https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76000,
+      "name": "Remote View",
+      "url": "https://open.spotify.com/track/0gXy1WrnnvaOxaxa8uEiKC"
+    },
+    {
+      "album": {
         "name": "resonance",
         "url": "https://open.spotify.com/album/3TYhhtSd0cqyCSPRlty5hQ"
       },
@@ -16304,7 +16376,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 155340,
       "name": "Roaming",
       "url": "https://open.spotify.com/track/1IbSH4FYgPPjpF765lmJpw"
@@ -18409,6 +18481,24 @@
     },
     {
       "album": {
+        "name": "Starfew Alley",
+        "url": "https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V"
+      },
+      "artists": [
+        {
+          "name": "JoJo Mojo",
+          "url": "https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129423,
+      "name": "Starfew Alley",
+      "url": "https://open.spotify.com/track/4j647icCpXJcRES7szthoM"
+    },
+    {
+      "album": {
         "name": "Starlust",
         "url": "https://open.spotify.com/album/3yO7pZzyGo8vuanWHaYCp4"
       },
@@ -19094,7 +19184,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 138367,
       "name": "Sunset lointain",
       "url": "https://open.spotify.com/track/52h5FSpV5OysOWoLk7qsYV"

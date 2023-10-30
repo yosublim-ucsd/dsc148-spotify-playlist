@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-225 songs - 14 hr 11 min
+226 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Dancing into the Stars \- Dave Lee Super Soulful Mix](https://open.spotify.com/track/4YStSwhggDOLlvU81OWW6c) | [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Angela Johnson](https://open.spotify.com/artist/6OCcrLBIO5JCdDMUU6h35w) | [Dancing into the Stars](https://open.spotify.com/album/0mazR8hdLu7cyFfg7tjatb) | 5:56 | 2021-08-20 | 2022-08-27 |
 | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/track/2tlCCAR07k2G9ba67McxQc) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [Manifesto](https://open.spotify.com/album/4SBBGeRaboOnypEhVFRw38) | 3:21 | 2023-09-15 |  |
 | [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/track/0oOqx0hphAQLKu2Xa5C0G2) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Amber Martin](https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ) | [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/album/7xTI7cBnfrV97YIfZ7ExZb) | 3:44 | 2023-03-24 | 2023-06-05 |
-| [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/track/4ALsOjwCdniiryLJVMWVGo) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Amber Martin](https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ) | [Last Man Dancing](https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2) | 3:44 | 2023-03-24 |  |
+| [Devil Came Down the Dance Floor \(feat\. Amber Martin\)](https://open.spotify.com/track/4ALsOjwCdniiryLJVMWVGo) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Amber Martin](https://open.spotify.com/artist/5QdD7Sc0FH9yTIMrMgTTIQ) | [Last Man Dancing](https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2) | 3:44 | 2023-03-24 | 2023-10-30 |
 | [Different Directions](https://open.spotify.com/track/30QM80woaoPtONO99xRyyw) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Different Directions](https://open.spotify.com/album/4VOq3YC6cWd1kULS0oKEKL) | 3:51 | 2022-07-15 | 2022-08-13 |
 | [Disco](https://open.spotify.com/track/4Wi7j71MROAcJPSTT11HQy) | [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Disco](https://open.spotify.com/album/2yXcDJCkVy5aEgkEzI1cxO) | 3:50 | 2023-04-07 | 2023-06-03 |
 | [Disco Save My Life](https://open.spotify.com/track/0Rh5XomjOtIYabPhtZ1TyV) | [Babert](https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe) | [Disco Save My Life](https://open.spotify.com/album/6uuicoy9ap6PS9vR8qpHBF) | 5:26 | 2023-07-07 |  |
@@ -122,6 +122,7 @@
 | [Juiceboy](https://open.spotify.com/track/4voImA5OPckTXJz5m8ZQy4) | [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB), [Mondgomery](https://open.spotify.com/artist/05eMmbSBU5u0L6XIAU0esH) | [Girls](https://open.spotify.com/album/2qAHhBd41CXvguVJc0UJ5u) | 2:51 | 2022-07-01 | 2022-11-13 |
 | [JuiceBoy](https://open.spotify.com/track/6IKtPHIDG6a26oRcNxJq8f) | [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB), [Mondgomery](https://open.spotify.com/artist/05eMmbSBU5u0L6XIAU0esH) | [Girls](https://open.spotify.com/album/33FgsjVBCwStpk8cnzooPr) | 2:51 | 2022-07-01 | 2023-03-11 |
 | [Jump Into The Light \- Wash House Dub](https://open.spotify.com/track/6Jd8t7HR1g8LBS53mhOwXM) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Kathy Sledge](https://open.spotify.com/artist/1uSgUZ6BhPQycUUc6Wo30K) | [Jump Into The Light \(Wash House Dub\)](https://open.spotify.com/album/2ME0JUq8lspfSwMUcHrINz) | 4:13 | 2022-05-06 | 2023-07-08 |
+| [Just Think](https://open.spotify.com/track/2QQ8rtFCnIlQgO4gIS3ZIc) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/2QbX68So8TZjAmUzpvmt6R) | 3:34 | 2023-10-27 |  |
 | [JUST US TWO](https://open.spotify.com/track/3ipRosZucAVvarAmxKWH1A) | [Scotty Sire](https://open.spotify.com/artist/24vm5FBjvLpwUiVNcYc8qy) | [JUST US TWO](https://open.spotify.com/album/6NMaqBL0rfysZBo4mcyWTY) | 2:10 | 2022-02-11 | 2022-12-17 |
 | [Keep Moving \- Dave Lee Remix](https://open.spotify.com/track/0h2Z6MjprW1IVfIyqpZcrg) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Keep Moving \(Dave Lee Remix\)](https://open.spotify.com/album/58EPf9YRS5Xvdc0fMFElkl) | 6:03 | 2021-12-03 | 2022-11-05 |
 | [Keep Moving \- Dave Lee Remix](https://open.spotify.com/track/1xnlffPIq3yKph87VmCiqc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Keep Moving \(Dave Lee Remix\)](https://open.spotify.com/album/6n3JSbR3ONbiGvh9Rb9DiP) | 6:03 | 2021-12-03 | 2022-10-13 |

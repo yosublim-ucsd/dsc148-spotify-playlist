@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 229597,
       "name": "Bi\u1ebft \u0110\u00e2u M\u00e0 L\u1ea7n",
       "url": "https://open.spotify.com/track/4OrnZo2V8A7uaaXHPdLyIm"
@@ -331,6 +331,28 @@
     },
     {
       "album": {
+        "name": "Futape",
+        "url": "https://open.spotify.com/album/42fjJEU9ubT0H9KuxUHhNy"
+      },
+      "artists": [
+        {
+          "name": "tofutns",
+          "url": "https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH"
+        },
+        {
+          "name": "PC",
+          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230263,
+      "name": "Ch\u1ec9 l\u00e0 ng\u01b0\u1eddi quan s\u00e1t",
+      "url": "https://open.spotify.com/track/6QG190ZbY2HLw3zgqA0Av4"
+    },
+    {
+      "album": {
         "name": "99%",
         "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
       },
@@ -390,7 +412,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 210531,
       "name": "C\u00f3 \u0111au th\u00ec \u0111au m\u1ed9t m\u00ecnh",
       "url": "https://open.spotify.com/track/37od1g713ZvI32VA2diR9L"
@@ -464,7 +486,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 201589,
       "name": "Exit Sign",
       "url": "https://open.spotify.com/track/3UX7FjJDl6RodnWekzFwEB"
@@ -626,7 +648,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 212327,
       "name": "Ki\u1ec3u Nh\u01b0 T\u00e2m T\u00ecnh",
       "url": "https://open.spotify.com/track/2vpG2yT8rrKLFzl9ONoebu"
@@ -678,6 +700,28 @@
       "duration_ms": 252953,
       "name": "L\u1ed1i Nh\u1ecf",
       "url": "https://open.spotify.com/track/25edeHHueINMguqu9emCyV"
+    },
+    {
+      "album": {
+        "name": "magick (feat. T\u00e1o)",
+        "url": "https://open.spotify.com/album/38ZKbjXwT4eOYd7KU87akr"
+      },
+      "artists": [
+        {
+          "name": "RHYME SO",
+          "url": "https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm"
+        },
+        {
+          "name": "T\u00e1o",
+          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "magick - feat. T\u00e1o",
+      "url": "https://open.spotify.com/track/1RqTiIkl4dTitoanZYEx9u"
     },
     {
       "album": {

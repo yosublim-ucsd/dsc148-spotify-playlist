@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world. Cover: Taylor Swift",
-  "num_followers": 384393,
+  "num_followers": 384435,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDc2OWQxYmQwOTU1ODVlNzlhYmFhMjczZWVhOTUyMDAxODIxMjBh",
+  "snapshot_id": "MCxhY2JjZTlhMzUxNTI0NDM4ZjU1Mjk0ZjJmNDdjNjU1ZDI5NDgwMjE4",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -975,7 +975,7 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Snake at The Altar",
+        "name": "Snake at the Altar",
         "url": "https://open.spotify.com/album/5HquJB12UiWeUK0f4T5meF"
       },
       "artists": [
@@ -993,7 +993,7 @@
         }
       ],
       "duration_ms": 178274,
-      "name": "Snake at The Altar",
+      "name": "Snake at the Altar",
       "url": "https://open.spotify.com/track/09g9dZqULC8yNN8FrlK9QP"
     },
     {

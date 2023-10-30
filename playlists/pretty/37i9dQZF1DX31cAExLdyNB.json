@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 64416,
+  "num_followers": 64426,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODRkNzc4M2JkYzIxNWMwNWM3NWM3MGIwN2RhZDY3MTc5N2MzMWIz",
+  "snapshot_id": "MCw5MDFjZTc1MTQ5MTRjZWIwZDI1MTE2NGFjMjM1Y2Q2OGViNWYyNmU4",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Yesteryear",
         "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 269540,
       "name": "A Hero's Death - Soulwax Remix",
       "url": "https://open.spotify.com/track/2SHfsvx6kgQnbWD1us8RGp"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Uncanny Valley",
-        "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 193299,
-      "name": "Chapstick",
-      "url": "https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt"
-      },
-      "artists": [
-        {
-          "name": "Viratempo",
-          "url": "https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL"
-        }
-      ],
-      "duration_ms": 217151,
-      "name": "Se Eu Soubesse",
-      "url": "https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 255217,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt"
+      },
+      "artists": [
+        {
+          "name": "Viratempo",
+          "url": "https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL"
+        }
+      ],
+      "duration_ms": 217151,
+      "name": "Se Eu Soubesse",
+      "url": "https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Bah\u00eda Margarita",
+        "url": "https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 237652,
+      "name": "Daikiri",
+      "url": "https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Pala",
         "url": "https://open.spotify.com/album/1Xt7yUmfmRqBfYNfHzq4tI"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 218171,
       "name": "LLUVIA",
       "url": "https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Bah\u00eda Margarita",
-        "url": "https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 237652,
-      "name": "Daikiri",
-      "url": "https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Vine Hasta Marte",
+        "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
+      },
+      "artists": [
+        {
+          "name": "Cohetes",
+          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
+        }
+      ],
+      "duration_ms": 224353,
+      "name": "Vine Hasta Marte",
+      "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "M\u00e1quina Yin Yang",
         "url": "https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 274576,
       "name": "Los Buenos Tiempos",
       "url": "https://open.spotify.com/track/6mSzSTjVWDsXEsUuCEqKWF"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Vine Hasta Marte",
-        "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
-      },
-      "artists": [
-        {
-          "name": "Cohetes",
-          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
-        }
-      ],
-      "duration_ms": 224353,
-      "name": "Vine Hasta Marte",
-      "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
     },
     {
       "added_at": "2023-03-10 05:01:00",

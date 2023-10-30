@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Taylor Swift, Majid Jordan, Rema, Tenille Arts and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,282 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,316 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 20 | [Wasterpiece](https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Wasterpiece](https://open.spotify.com/album/1OgkglNXgSMZsMzSlDjOAg) | 3:11 |
 | 21 | [Out of Luck](https://open.spotify.com/track/4GztgCDwEDr7H0C7Fs0Luv) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:55 |
 | 22 | [My Home Is You](https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [My Home Is You](https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb) | 3:23 |
-| 23 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 |
+| 23 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 |
 | 24 | [TALK!](https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 2:37 |
 | 25 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
 | 26 | [Flip a Coin](https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:38 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 69 | [Separate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/1tPZvWPG2WyOP69lD1wE4w) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [GHS Pt\. 2](https://open.spotify.com/album/6O6sUvzt2rp0ZyKPpiOZtp) | 3:17 |
 | 70 | [Evil People](https://open.spotify.com/track/12mgWzCmMk1WsQyEctDj2e) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Evil People](https://open.spotify.com/album/4U8HZ4Cw7fyZ2AbLAchzuP) | 3:24 |
 | 71 | [Temptation](https://open.spotify.com/track/4LuIEWBrI7NWMsPrQvEQOa) | [LUM](https://open.spotify.com/artist/1bY66d1Rv5q5KMJYP1lIQd), [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG), [KILJ](https://open.spotify.com/artist/2pIP61k0TIAFjna6vnALMp) | [Temptation](https://open.spotify.com/album/4pp7ibk62HNFOgeYIWRIoN) | 3:50 |
-| 72 | [Keep Going](https://open.spotify.com/track/04qK0kwBvFKL4WjJsbZxNG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Keep Going](https://open.spotify.com/album/1vU0XmjxayISrk0t4PeHDd) | 3:12 |
+| 72 | [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 |
 | 73 | [Les étoiles m'écoutent](https://open.spotify.com/track/0L8hTYPRAEe7s9K5zvuwP2) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Gros\-bec](https://open.spotify.com/album/34jExCWwVN47ywWmpcgrdH) | 4:18 |
 | 74 | [Ghost](https://open.spotify.com/track/0z4BHcC6dCovVW9kqOt6D5) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ) | [Ghost](https://open.spotify.com/album/1cKwQOrG9K7tQSzfUMCe7u) | 2:16 |
 | 75 | [Love FM](https://open.spotify.com/track/6VR6SkGdVVi4X4318bNglb) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Love FM](https://open.spotify.com/album/7qCXsgY1CEPgnkV2FxEOyL) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Bloodsucker](https://open.spotify.com/track/3Vjz4qxSB8k2UGjJPR6JGd) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Bloodsucker](https://open.spotify.com/album/59boJCTqevkvToAoVm9c9y) | 2:37 |
 | 100 | [Theme From Trans\-Canada Highwaymen](https://open.spotify.com/track/25IwzanyJrr5guSjYWSGdT) | [Trans\-Canada Highwaymen](https://open.spotify.com/artist/5Aq588mj6kj9ua5OaYQrOT), [Steven Page](https://open.spotify.com/artist/160fRY4TZO7VQmKFQWNBV4), [Craig Northey](https://open.spotify.com/artist/32leSbSq6jJw5lBugt7m0m) | [Explosive Hits Vol\. 1](https://open.spotify.com/album/1wmyef6qrMMuve7um1dIer) | 3:33 |
 
-Snapshot ID: `MCw1MTUxYTAwODk5ZWMwNmM3MTE1ZWNmNzA0MGJjYzI1YTUxOTQ0MWNi`
+Snapshot ID: `MCwzZDYyZDk4OWNmY2IyZWY4YzEwOTU1YTlmN2JkYWFmMGY5YzIyN2U5`

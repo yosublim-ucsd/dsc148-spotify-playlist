@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 231833,
       "name": "Blank Space (Taylor's Version)",
       "url": "https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS"
@@ -5476,7 +5476,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
@@ -7992,10 +7992,28 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
+        "name": "Super Tuna",
+        "url": "https://open.spotify.com/album/7vreT3Vciy3cTiidhsw9Y2"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68363,
+      "name": "Super Tuna",
+      "url": "https://open.spotify.com/track/5EaVikAxSRponyifRP6Fhp"
     },
     {
       "album": {
@@ -8238,7 +8256,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -10086,7 +10104,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-30",
       "duration_ms": 288024,
       "name": "\u0e09\u0e31\u0e19\u0e04\u0e37\u0e2d\u0e19\u0e31\u0e01\u0e2a\u0e30\u0e2a\u0e21\u0e04\u0e27\u0e32\u0e21\u0e40\u0e28\u0e23\u0e49\u0e32",
       "url": "https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP"

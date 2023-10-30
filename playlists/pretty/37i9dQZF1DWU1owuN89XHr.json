@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 268350,
+  "num_followers": 268404,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTVmNTdlNmRmM2NiZDk5NDIzOTY1ZDUxNTA2MzI4MzQyYzAxZTJk",
+  "snapshot_id": "MCxjMWNlYTc0OGYxOWUxMDVkNTkyMjUxM2JiMTJiNGU3MGNhY2FlMmU5",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -399,18 +399,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "De Carne y Hueso",
-        "url": "https://open.spotify.com/album/5vhobYClzYYgOR8FCd9Uj8"
+        "name": "Nos Sobran Los Motivos",
+        "url": "https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv"
       },
       "artists": [
         {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
         }
       ],
-      "duration_ms": 261493,
-      "name": "Kil\u00f3metros de Cielo",
-      "url": "https://open.spotify.com/track/6UrLQTasnzlYYKo0U5IICp"
+      "duration_ms": 362906,
+      "name": "Y Sin Embargo - En Directo",
+      "url": "https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR"
     },
     {
       "added_at": "2022-01-11 03:05:13",
@@ -455,18 +455,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Nos Sobran Los Motivos",
-        "url": "https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv"
+        "name": "De Carne y Hueso",
+        "url": "https://open.spotify.com/album/5vhobYClzYYgOR8FCd9Uj8"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         }
       ],
-      "duration_ms": 362906,
-      "name": "Y Sin Embargo - En Directo",
-      "url": "https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR"
+      "duration_ms": 261493,
+      "name": "Kil\u00f3metros de Cielo",
+      "url": "https://open.spotify.com/track/6UrLQTasnzlYYKo0U5IICp"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
-        "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 268964,
-      "name": "El Breve Espacio en Que No Est\u00e1s - Live",
-      "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Silvio Rodriguez y Pablo Milanes",
         "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 190066,
       "name": "Te Doy Una Cancion",
       "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
+        "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 268964,
+      "name": "El Breve Espacio en Que No Est\u00e1s - Live",
+      "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
     },
     {
       "added_at": "2021-07-29 16:46:05",

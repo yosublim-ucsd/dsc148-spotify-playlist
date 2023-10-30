@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: BADBADNOTGOOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,566 likes - 99 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,585 likes - 99 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 71 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 |
 | 72 | [Walk Your Heart Home](https://open.spotify.com/track/1nbquISEGb21tsBdVlaP6V) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Temptation](https://open.spotify.com/album/6AvHqghzOREIkOOOJoLhWw) | 3:41 |
 | 73 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
-| 74 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 |
+| 74 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 |
 | 75 | [More & More](https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:28 |
 | 76 | [Safe House](https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Safe House](https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL) | 3:37 |
 | 77 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 98 | [A Noisy Train](https://open.spotify.com/track/3KJHGwOSRZmoM9WD7DaVVd) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [A Noisy Train](https://open.spotify.com/album/1HlFmZZUjGmNgppfCP7yz3) | 4:20 |
 | 99 | [Sojourn](https://open.spotify.com/track/1tN9qCwdEYsYmu3e4IypgE) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Sojourn](https://open.spotify.com/album/3F8zTUdqovD6TNHlNsOPMg) | 3:33 |
 
-Snapshot ID: `MCxhYWM3NTA1MzQzNTBiN2Q1YjVjNDA1NDhkY2MwNzUwYThjZDM1YzA3`
+Snapshot ID: `MCxhNTM1YzFhOWZjZDIxZGEwMjc2MzQ2YjZlNjJiOGM4OTBkZjRiZjE5`

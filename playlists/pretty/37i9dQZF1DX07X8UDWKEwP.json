@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Lenny Tav\u00e1rez",
-  "num_followers": 255354,
+  "num_followers": 255376,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTYxMDk0OTQ3NmI3ZWJlZmVlODI3N2FjZTM1N2M1ZWYzOTUwMDdh",
+  "snapshot_id": "MCw2NWFiZjViNmE5MzkxMjAzYjM2YzdlODFhOGY0ZDI0YWU4NTI5MTgw",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -507,18 +507,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB"
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         }
       ],
-      "duration_ms": 202268,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C"
+      "duration_ms": 225640,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -539,22 +543,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB"
       },
       "artists": [
         {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 225640,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
+      "duration_ms": 202268,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "SEROTONINA",
-        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 137967,
-      "name": "SIN CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Amigos (con Maria Becerra) [Bachata]",
         "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+        "name": "SEROTONINA",
+        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+      "duration_ms": 137967,
+      "name": "SIN CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -683,22 +667,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "AVENTURA",
-        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
       },
       "artists": [
         {
-          "name": "ZABDIEL",
-          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 193059,
-      "name": "AVENTURA",
-      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -723,22 +723,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
+        "name": "AVENTURA",
+        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
       },
       "artists": [
         {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+          "name": "ZABDIEL",
+          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
         },
         {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 203273,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+      "duration_ms": 193059,
+      "name": "AVENTURA",
+      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "el paso",
-        "url": "https://open.spotify.com/album/5QBjcz2tdsRVsmPtmg8h5Z"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 185570,
-      "name": "el paso",
-      "url": "https://open.spotify.com/track/6nu7Fpg5sarNYs8ElOozRQ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
       },
@@ -871,34 +851,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J"
+        "name": "el paso",
+        "url": "https://open.spotify.com/album/5QBjcz2tdsRVsmPtmg8h5Z"
       },
       "artists": [
         {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 238205,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        },
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+      "duration_ms": 185570,
+      "name": "el paso",
+      "url": "https://open.spotify.com/track/6nu7Fpg5sarNYs8ElOozRQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -919,22 +887,50 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Esta Vida (Salsa Version)",
-        "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 223439,
-      "name": "Esta Vida (Salsa Version)",
-      "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/7lEjVKtnPigIjjCVNrGd3J"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 238205,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/7EBDeDKSY5QS185IpakRNe"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
     }
   ],
   "unique_name": "el nuevo tropical",

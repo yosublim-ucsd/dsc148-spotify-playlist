@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmQ0ZGI4NGE2MWVmYmJlNDk2YWMyOGQ1N2JiNmQxNWE2ODAwMmFk",
+  "snapshot_id": "MCw5MTgzOGFiODdmMDBiYTQ2ZTI3NzI1NzBmMDNlOTBmYjRkNDg4ZGZh",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -987,30 +987,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Back For More",
-        "url": "https://open.spotify.com/album/11kp1IYIHPxZhBKHNaeKgb"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        },
-        {
-          "name": "Olivia Sebastianelli",
-          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Back For More",
-      "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Skull Machine",
         "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
       },
@@ -1035,6 +1011,30 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Back For More",
+        "url": "https://open.spotify.com/album/11kp1IYIHPxZhBKHNaeKgb"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Back For More",
+      "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "EAT SLEEP RAGE",
         "url": "https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF"
       },
@@ -1047,6 +1047,26 @@
       "duration_ms": 216000,
       "name": "EAT SLEEP RAGE",
       "url": "https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "RAVEN",
+        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
+      },
+      "artists": [
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "RAVEN",
+      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1071,26 +1091,6 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "RAVEN",
-        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
-      },
-      "artists": [
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        },
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "RAVEN",
-      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Muscaria / Everglade March (VIP)",
+        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 169462,
+      "name": "Muscaria",
+      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "NO FEAR",
         "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Muscaria / Everglade March (VIP)",
-        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
       },
       "artists": [
         {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         }
       ],
-      "duration_ms": 169462,
-      "name": "Muscaria",
-      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
+      "duration_ms": 221142,
+      "name": "dontstopme!",
+      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 199147,
       "name": "Find It In Your Mind",
       "url": "https://open.spotify.com/track/29ytM04QyJTJWVzod8J75t"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "dontstopme!",
-      "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Pump",
         "url": "https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d"
       },
@@ -1537,24 +1557,20 @@
       "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
+        "name": "InHer World",
+        "url": "https://open.spotify.com/album/0COY2S4CiGsR1dgwKKRqmc"
       },
       "artists": [
         {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
         }
       ],
-      "duration_ms": 208941,
-      "name": "SHYPOP",
-      "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
+      "duration_ms": 192344,
+      "name": "Redline",
+      "url": "https://open.spotify.com/track/4n7npue0fQKKmgC1CcHmao"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1595,6 +1611,26 @@
       "duration_ms": 225600,
       "name": "Paper Moon",
       "url": "https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Feels Like You",
+        "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Feels Like You",
+      "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1715,26 +1751,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Play With You",
-        "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
-      },
-      "artists": [
-        {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        }
-      ],
-      "duration_ms": 214005,
-      "name": "Take Your Throne",
-      "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "LEFT TO RIGHT (Subsonic Remix)",
         "url": "https://open.spotify.com/album/0bfCjB90W0daFxgDBt8mTm"
       },
@@ -1751,6 +1767,26 @@
       "duration_ms": 179310,
       "name": "LEFT TO RIGHT - Subsonic Remix",
       "url": "https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Play With You",
+        "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "duration_ms": 214005,
+      "name": "Take Your Throne",
+      "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1775,6 +1811,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v"
+      },
+      "artists": [
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Of Two Minds",
         "url": "https://open.spotify.com/album/3WfUE3XbaPkBOkRF3wTYMy"
       },
@@ -1791,22 +1843,6 @@
       "duration_ms": 279069,
       "name": "Of Two Minds",
       "url": "https://open.spotify.com/track/7Btth4NK0ICZC9DjYZPxgg"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "GENESIS",
-        "url": "https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v"
-      },
-      "artists": [
-        {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1901,6 +1937,30 @@
       "url": "https://open.spotify.com/track/169ksK750ctId2IBzlwVef"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/4os1LiFckLA5tv0RuD4Mjj"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 182665,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/43girkLVD5WYKCBMOphHhd"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "At All",
@@ -1919,22 +1979,6 @@
       "duration_ms": 224000,
       "name": "At All",
       "url": "https://open.spotify.com/track/6rJHOYjFFn0zSr5woZwQka"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "InHer World",
-        "url": "https://open.spotify.com/album/0COY2S4CiGsR1dgwKKRqmc"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 192344,
-      "name": "Redline",
-      "url": "https://open.spotify.com/track/4n7npue0fQKKmgC1CcHmao"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1997,26 +2041,6 @@
       "url": "https://open.spotify.com/track/6KxUvWRs2kDp1apoVADBXq"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Feels Like You",
-        "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Feels Like You",
-      "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "BORN TO DIE",
@@ -2031,22 +2055,6 @@
       "duration_ms": 112128,
       "name": "BORN TO DIE",
       "url": "https://open.spotify.com/track/34pS1KVbdWpcckfWOIhdtI"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "24 HRS",
-        "url": "https://open.spotify.com/album/433wutKP8SbmE2SxU5N8cc"
-      },
-      "artists": [
-        {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
-        }
-      ],
-      "duration_ms": 181056,
-      "name": "24 HRS",
-      "url": "https://open.spotify.com/track/17QLFEbGJMGA9iyrkx4jbd"
     }
   ],
   "unique_name": "Bass Arcade",
