@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6936\)
+## Playlists \(6937\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2075,6 +2075,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Front Page Indie](/playlists/pretty/37i9dQZF1DX2Nc3B70tvx0.md)
 - [Front Porch](/playlists/pretty/37i9dQZF1DXa2PsvJSPnPf.md)
 - [Frontline \-ヒップホップ最前線\-](/playlists/pretty/37i9dQZF1DXbzqS7BvZFvj.md)
+- [Frutiger Aero 🌿🌐](/playlists/pretty/2PX0djbBozANnN4mHxh6Wx.md)
 - [Fuck Valentine!](/playlists/pretty/5Dn14a8hNIhT3NLLjUUBGL.md)
 - [Fuego \#015](/playlists/pretty/37i9dQZF1DWXkmoonDoP53.md)
 - [Fuego \#016](/playlists/pretty/37i9dQZF1DX4RfGE6qSTMY.md)
