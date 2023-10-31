@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Year of the Knife
 
-4,929 songs - 13 day 22 hr 21 min
+4,930 songs - 13 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2536,7 +2536,8 @@
 | [Likvoke](https://open.spotify.com/track/01IsINFqfGFcG6Gx47yMKu) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Endling](https://open.spotify.com/album/5LlLDIoYFzmH7CLK8jI2YA) | 5:19 | 2023-09-08 | 2023-09-16 |
 | [Lilac](https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [Lilac](https://open.spotify.com/album/2cpSxn3vfj4aRwbI7XaLdC) | 4:03 | 2022-04-22 | 2022-04-29 |
 | [Lilian](https://open.spotify.com/track/7FD6K4FF2FqgC7paeNwFxu) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Lilian](https://open.spotify.com/album/3ijzN0jzHjofOgEpVEp7YL) | 4:29 | 2022-11-04 | 2022-11-12 |
-| [Lilith](https://open.spotify.com/track/2YMdlaPZTxuJ7KSK3HsBPU) | [Tortuga](https://open.spotify.com/artist/4GkQyssaGtb5WE7UG87n1B) | [Lilith](https://open.spotify.com/album/2F8JCCRWGyEHACb2VqRfZa) | 6:00 | 2023-09-15 |  |
+| [Lilith](https://open.spotify.com/track/2YMdlaPZTxuJ7KSK3HsBPU) | [Tortuga](https://open.spotify.com/artist/4GkQyssaGtb5WE7UG87n1B) | [Lilith](https://open.spotify.com/album/2F8JCCRWGyEHACb2VqRfZa) | 6:00 | 2023-09-15 | 2023-10-31 |
+| [Lilith](https://open.spotify.com/track/7meNkNlJvnuOqZ2qKZ7Lxb) | [Tortuga](https://open.spotify.com/artist/4GkQyssaGtb5WE7UG87n1B) | [Iterations](https://open.spotify.com/album/0hhCo8E1T8XtcPeDWlmzRs) | 6:00 | 2023-10-27 |  |
 | [Litany Of The Fallen](https://open.spotify.com/track/1gYjWTKs09WJzaZrPLRFDS) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Litany Of The Fallen](https://open.spotify.com/album/11cRcdDcrV6eTJKuvrZdNu) | 4:10 | 2022-05-06 | 2022-05-13 |
 | [Live by the Gun](https://open.spotify.com/track/4qOp8ymDf9u2T1uvUPL0Cq) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Live by the Gun](https://open.spotify.com/album/4W8CCom5htHk8yUrHJeB02) | 3:33 | 2022-10-07 | 2022-10-15 |
 | [Living After Midnight](https://open.spotify.com/track/52FnYWTtgITDItk6rR9e3w) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Living After Midnight](https://open.spotify.com/album/6MsPPaYQSQg6jHWgZSnGqj) | 3:52 | 2023-08-04 | 2023-08-12 |

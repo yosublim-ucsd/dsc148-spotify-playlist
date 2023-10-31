@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-289 songs - 18 hr 42 min
+290 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 | 2021-11-19 |  |
 | [Finally](https://open.spotify.com/track/0PYLjTrb7ChZTfWG9TFAPe) | [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Finally](https://open.spotify.com/album/0JPsZ8SJLB3tfVJTFjdCo8) | 3:39 | 2021-11-19 |  |
 | [Fly Again](https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT) | [Tom Petrone](https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb) | [Fly Again](https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk) | 3:21 | 2021-11-19 |  |
-| [Follow](https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD) | 3:52 | 2022-07-14 |  |
+| [Follow](https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD) | 3:52 | 2022-07-14 | 2023-10-31 |
 | [Follow](https://open.spotify.com/track/54klJfQfIJY2CrU1VOJHxk) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/2wPswblTpxjufCoGGyilYs) | 3:52 | 2021-11-19 | 2022-07-29 |
 | [Forever Now](https://open.spotify.com/track/46zJ3FTTeK48LESza15wbQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:40 | 2021-11-19 |  |
 | [Fragile](https://open.spotify.com/track/4QyG5ATNtJcpTUNkmsyggh) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Dear Soulmate](https://open.spotify.com/album/5VFaoS9iAQKQruM5V3VEYH) | 4:01 | 2022-08-11 | 2022-10-14 |
@@ -270,6 +270,7 @@
 | [This Life](https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7) | [The Magic Lantern](https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V) | [A Reckoning Bell](https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO) | 4:21 | 2022-11-24 | 2023-05-06 |
 | [This Too Shall Pass](https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW) | [Dennis van Aarssen](https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi) | [This Too Shall Pass](https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV) | 3:21 | 2021-11-19 |  |
 | [Those Sweet Words](https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:22 | 2022-11-24 | 2023-05-06 |
+| [Tis Autumn](https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK) | [Belle\-Skinner](https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA) | [Tis Autumn](https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS) | 2:10 | 2023-10-27 |  |
 | [Try Your Wings](https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [Try Your Wings](https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT) | 2:54 | 2023-05-03 | 2023-05-06 |
 | [Try Your Wings](https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/29vC4zQ1mb9V3YylUigQGA) | 2:54 | 2023-02-23 | 2023-04-19 |
 | [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-11-24 | 2023-02-19 |

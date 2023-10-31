@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 47823,
+  "num_followers": 47865,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0",
+  "snapshot_id": "MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl",
   "tracks": [
     {
       "added_at": "2023-10-02 12:57:01",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "My Dearest Darling",
-      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "True To Yourself",
         "url": "https://open.spotify.com/album/6djxMkLPDJdk3N1bIExPNV"
       },
@@ -199,6 +183,22 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "My Dearest Darling",
+      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
         "name": "Big Walter Horton w/ Carey Bell",
         "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
@@ -211,22 +211,6 @@
       "duration_ms": 194573,
       "name": "Little Boy Blue",
       "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "A Savage Life",
-        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 167330,
-      "name": "Blues On The Bay",
-      "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -247,18 +231,18 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "The Blues",
-        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
+        "name": "A Savage Life",
+        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
       "artists": [
         {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
         }
       ],
-      "duration_ms": 502973,
-      "name": "Lonely World",
-      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
+      "duration_ms": 167330,
+      "name": "Blues On The Bay",
+      "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -315,22 +299,18 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
+        "name": "The Blues",
+        "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
       },
       "artists": [
         {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
         }
       ],
-      "duration_ms": 262869,
-      "name": "Broken & Blue (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
+      "duration_ms": 502973,
+      "name": "Lonely World",
+      "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -347,6 +327,26 @@
       "duration_ms": 257440,
       "name": "Loneliest Road That I Know",
       "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 262869,
+      "name": "Broken & Blue (feat. Joe Bonamassa)",
+      "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 255226,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
       "artists": [
         {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 255226,
-      "name": "You Shook Me",
-      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
+      "duration_ms": 213866,
+      "name": "Long Distance",
+      "url": "https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -543,22 +559,6 @@
       "duration_ms": 304160,
       "name": "Love That Burns",
       "url": "https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Long Distance",
-      "url": "https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        }
-      ],
-      "duration_ms": 219690,
-      "name": "Blues is My Best Friend",
-      "url": "https://open.spotify.com/track/1lEJz2TvlpeACrffMW33K0"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Waiting For Perfection",
         "url": "https://open.spotify.com/album/3l6RCXBpentPUrP9AcrL5O"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 375946,
       "name": "I Walk Alone",
       "url": "https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        }
+      ],
+      "duration_ms": 219690,
+      "name": "Blues is My Best Friend",
+      "url": "https://open.spotify.com/track/1lEJz2TvlpeACrffMW33K0"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
+        "name": "So Far so Good",
+        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
+      },
+      "artists": [
+        {
+          "name": "Peter Veteska & Blues Train",
+          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "Low Down Dirty Blues",
+      "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
         "name": "I'm Good As Gone",
         "url": "https://open.spotify.com/album/2tg6p79Dcayon8TLOJYvH5"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 294906,
       "name": "I'm Good As Gone",
       "url": "https://open.spotify.com/track/1Y2gyd8vAjakD5mKEIW7Wi"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
-        "name": "So Far so Good",
-        "url": "https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp"
-      },
-      "artists": [
-        {
-          "name": "Peter Veteska & Blues Train",
-          "url": "https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "Low Down Dirty Blues",
-      "url": "https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Pass It On Down",
-        "url": "https://open.spotify.com/album/6VLp6e4Bxv03KOfrDQ7IsM"
-      },
-      "artists": [
-        {
-          "name": "Chris Beard",
-          "url": "https://open.spotify.com/artist/6pDY9BEQMQQrLdfY6zvrSR"
-        }
-      ],
-      "duration_ms": 313447,
-      "name": "Son I Never Knew",
-      "url": "https://open.spotify.com/track/3Wjk0hGlJVw2lnEL3ZC0x8"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Roll and Tumble",
         "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 205182,
       "name": "Sometimes I Worry",
       "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Pass It On Down",
+        "url": "https://open.spotify.com/album/6VLp6e4Bxv03KOfrDQ7IsM"
+      },
+      "artists": [
+        {
+          "name": "Chris Beard",
+          "url": "https://open.spotify.com/artist/6pDY9BEQMQQrLdfY6zvrSR"
+        }
+      ],
+      "duration_ms": 313447,
+      "name": "Son I Never Knew",
+      "url": "https://open.spotify.com/track/3Wjk0hGlJVw2lnEL3ZC0x8"
     },
     {
       "added_at": "2023-10-02 12:57:01",

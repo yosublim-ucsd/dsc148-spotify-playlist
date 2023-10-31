@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTA2NzM0Yjk2NzE4MmY5OTlkMzIwMzNkNzc1OGYxNGFlOWY0MWM0",
+  "snapshot_id": "MCw2OGRkODY1YTc2OGU2ZjZiODE4ZWQ2YmM1MjQwZGM4NjY2MWY5YjEy",
   "tracks": [
     {
       "added_at": "2023-10-26 20:59:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
+        "name": "One Bite",
+        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "One Bite",
+      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
+    },
+    {
+      "added_at": "2023-10-26 20:59:00",
+      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2"
       },
@@ -303,18 +319,18 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
-        "name": "One Bite",
-        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
       },
       "artists": [
         {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
         }
       ],
-      "duration_ms": 174315,
-      "name": "One Bite",
-      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
+      "duration_ms": 129600,
+      "name": "Lucky Day",
+      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
     },
     {
       "added_at": "2023-10-26 20:59:00",
@@ -347,22 +363,6 @@
       "duration_ms": 208988,
       "name": "Sembera",
       "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
-    },
-    {
-      "added_at": "2023-10-26 20:59:00",
-      "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Lucky Day",
-      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
     },
     {
       "added_at": "2023-10-26 20:59:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-10-26 20:59:00",
       "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+    },
+    {
+      "added_at": "2023-10-26 20:59:00",
+      "album": {
         "name": "Nkwata Bulungi (Bailamos)",
         "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 193776,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
-    },
-    {
-      "added_at": "2023-10-26 20:59:00",
-      "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
     },
     {
       "added_at": "2023-10-26 20:59:00",

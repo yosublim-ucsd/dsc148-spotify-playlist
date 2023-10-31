@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,357 likes - 99 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,375 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 44 | [These Days](https://open.spotify.com/track/2kJYJikUAu0l8DwGMMzS8t) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Laugh Cry Laugh](https://open.spotify.com/artist/5uTkXOALKTyIBOffC3tJIi) | [These Days / Velocity! What About The Inertia!?](https://open.spotify.com/album/4rAM0kgT7oNRzFfnJWd8nE) | 3:33 |
 | 45 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 46 | [Adore You \- Acoustic](https://open.spotify.com/track/0JTjvbwGOoo7YIWlaAs03u) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Adore You \(Acoustic\)](https://open.spotify.com/album/2QvW21dkK5Wp3Od7DiHOZo) | 3:01 |
-| 47 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
+| 47 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
 | 48 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 |
-| 49 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
+| 49 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 50 | [LA On A Saturday Night \- Acoustic](https://open.spotify.com/track/4DUsBOTsiqZkiF4ePwUPWx) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [LA On A Saturday Night \(Acoustic\)](https://open.spotify.com/album/4VbPKiMuTR1xwYxdHO4myV) | 3:10 |
 | 51 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 |
 | 52 | [Mr\. Tambourine Man \- Live at the Royal Albert Hall](https://open.spotify.com/track/1a4EjPsElUgNXx3io1DbIo) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Mr\. Tambourine Man / Like A Rolling Stone](https://open.spotify.com/album/33gN6TGmTa8lRyWmEFGXpl) | 6:29 |
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 96 | [I Take It Back \- Acoustic](https://open.spotify.com/track/7gkvwUyiqYPznNMwdhdZdd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Day from Night](https://open.spotify.com/album/0YCHR86iTQUOkPVdYwgfDW) | 2:39 |
 | 97 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
 | 98 | [i wish you cheated \(acoustic\)](https://open.spotify.com/track/2PWe35jhtzmXp2y1862ApF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated \(acoustic\)](https://open.spotify.com/album/5hsssklJGTWScnUf4kSHM2) | 3:13 |
-| 99 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
+| 99 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 |
 
-Snapshot ID: `MCw3MDAyMDIzZmY2NzM0N2Q1NGQ2MjllZTFlNTViOTIxYjFjZDM0ZTdi`
+Snapshot ID: `MCwyZDY0MTU5OWM3ZDYxZGRmMWZiNjliZWYwNDAyZWRmNDYyMjBlNGZk`

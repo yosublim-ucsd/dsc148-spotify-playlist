@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 28579,
+  "num_followers": 28626,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODVhYzEyOTExNGQzYjFlYzc4NjM5ZDkwODYxMjExOTc4NTZmZmY0",
+  "snapshot_id": "MCxmZDQwNDY1ZDQzYTUyYTBlZGQyOTE0YzU1ZDg3N2Y1OWRmNzlkYjgy",
   "tracks": [
     {
       "added_at": "2023-10-16 07:48:52",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "For Us",
-      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
         "name": "HORIZON : THE MIXTAPE",
         "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
       },
@@ -199,22 +183,18 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
       },
       "artists": [
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 211972,
-      "name": "\ud480\uc5b4",
-      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
+      "duration_ms": 171160,
+      "name": "For Us",
+      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -263,6 +243,26 @@
       "duration_ms": 221834,
       "name": "woo ah",
       "url": "https://open.spotify.com/track/2wRxlESh8Y8rzhbnX0i3Lc"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 211972,
+      "name": "\ud480\uc5b4",
+      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 216559,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 206053,
       "name": "Chase",
       "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 216559,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "More",
-      "url": "https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -623,26 +607,6 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Okasian",
-          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
-        }
-      ],
-      "duration_ms": 244153,
-      "name": "YOU KNOW",
-      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -675,6 +639,22 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "More",
+      "url": "https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
         "name": "FRAME",
         "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 184280,
       "name": "Dive Into",
       "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
+        }
+      ],
+      "duration_ms": 244153,
+      "name": "YOU KNOW",
+      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "mojo",
-        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
-      },
-      "artists": [
-        {
-          "name": "vangdale",
-          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
-        },
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "LSD (Feat. JUNNY)",
-      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
         "name": "That's Why I Can't Talk About Love",
         "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
       },
@@ -807,22 +787,22 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+        "name": "mojo",
+        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
         },
         {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 243492,
-      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
-      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+      "duration_ms": 151880,
+      "name": "LSD (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
     },
     {
       "added_at": "2023-10-16 07:48:52",
@@ -863,6 +843,42 @@
     {
       "added_at": "2023-10-16 07:48:52",
       "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
+        }
+      ],
+      "duration_ms": 243492,
+      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
+      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+    },
+    {
+      "added_at": "2023-10-16 07:48:52",
+      "album": {
         "name": "K.I.S.S",
         "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 194645,
       "name": "Te Quiero(feat.BIBI)",
       "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
-    },
-    {
-      "added_at": "2023-10-16 07:48:52",
-      "album": {
-        "name": "Honestly",
-        "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
     },
     {
       "added_at": "2023-10-16 07:48:52",

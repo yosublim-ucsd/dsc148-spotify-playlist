@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 78800,
       "name": "Jag vill bli som far",
       "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
@@ -1944,6 +1944,24 @@
       "duration_ms": 154226,
       "name": "Johanna",
       "url": "https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF"
+    },
+    {
+      "album": {
+        "name": "Bakom ljuset",
+        "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
+      },
+      "artists": [
+        {
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136944,
+      "name": "Kaos",
+      "url": "https://open.spotify.com/track/1JgMOH0eqEeFZLTdOrNUd9"
     },
     {
       "album": {

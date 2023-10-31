@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
-  "num_followers": 146725,
+  "num_followers": 146753,
   "original_name": "Top 50 - Finland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUxOTQ0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUyMDMwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Taulut (feat. Costi)",
         "url": "https://open.spotify.com/album/7iOPxPm0nJsc5lHX3fBg6F"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/150cifhtXjdhDdr07scSVG"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Aino",
         "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/2URHZHXAM122hwjNhBx1e1"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Ghetto Love",
         "url": "https://open.spotify.com/album/6h6gvLvzUFaap0qVojsrox"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/4zClLaFTN76B9qHuXpJ2hH"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Aino",
         "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
@@ -85,7 +85,39 @@
       "url": "https://open.spotify.com/track/6wWujNva0sQxL5CKfZGVaN"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 188153,
+      "name": "Rakkauteen",
+      "url": "https://open.spotify.com/track/4wqqfH4CBaQURaClv7dsID"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "Vahinko",
+      "url": "https://open.spotify.com/track/3EvLCrqp7tdbaNkEe68RoT"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Kiireinen nainen (feat. ibe)",
         "url": "https://open.spotify.com/album/1rCAQxlXHja56iaCpyBLkb"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/4haz2w5fIZagLEIOig3FGK"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Aino",
         "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
@@ -116,28 +148,12 @@
           "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
         }
       ],
-      "duration_ms": 214733,
-      "name": "Vahinko",
-      "url": "https://open.spotify.com/track/3EvLCrqp7tdbaNkEe68RoT"
+      "duration_ms": 203709,
+      "name": "Hukas",
+      "url": "https://open.spotify.com/track/40SGFYkwJVWDfLD8tay2OI"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Aino",
-        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 188153,
-      "name": "Rakkauteen",
-      "url": "https://open.spotify.com/track/4wqqfH4CBaQURaClv7dsID"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Hupsis",
         "url": "https://open.spotify.com/album/0IwhR2jwfVmUX7kUJnK8S2"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/1e8DVYKeCZBGyHd3SqwQXL"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Merkitt\u00e4v\u00e4t erot",
         "url": "https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/558Lsb6twiXsgxhaHxyEoh"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
@@ -189,39 +205,7 @@
       "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Aino",
-        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 203709,
-      "name": "Hukas",
-      "url": "https://open.spotify.com/track/40SGFYkwJVWDfLD8tay2OI"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Kertoimia Vastaan",
-        "url": "https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4"
-      },
-      "artists": [
-        {
-          "name": "Jami Faltin",
-          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
-        }
-      ],
-      "duration_ms": 197649,
-      "name": "Kertoimia Vastaan",
-      "url": "https://open.spotify.com/track/4QfhwWVpaIaXihhpweCuRi"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "euro musik",
         "url": "https://open.spotify.com/album/5RAmd82hWPvFBmUs73B5gO"
@@ -241,7 +225,55 @@
       "url": "https://open.spotify.com/track/3QUpgNvOU1AQsxVrdUby1H"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 184515,
+      "name": "Mua ei voi pelastaa",
+      "url": "https://open.spotify.com/track/08mPohxtKuoyl97OQEq38I"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Kertoimia Vastaan",
+        "url": "https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "duration_ms": 197649,
+      "name": "Kertoimia Vastaan",
+      "url": "https://open.spotify.com/track/4QfhwWVpaIaXihhpweCuRi"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Sin\u00e4 4ever (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/7yovvwfChdq1VC4GZKomLH"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 201372,
+      "name": "Sin\u00e4 4ever - Vain el\u00e4m\u00e4\u00e4 kausi 14",
+      "url": "https://open.spotify.com/track/6wRn01AkSyG40RIGUtKbWk"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "BLONDINA",
         "url": "https://open.spotify.com/album/24IjEbb9JyuBNHDYdjJ8KM"
@@ -257,7 +289,23 @@
       "url": "https://open.spotify.com/track/5V6MFVxOCtnBgw4JV4Yk59"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Matkalla (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/3kmc1mFwMHNqD2fTVmi0lg"
+      },
+      "artists": [
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        }
+      ],
+      "duration_ms": 210481,
+      "name": "Matkalla (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+      "url": "https://open.spotify.com/track/7y02QzrZEpEgvSngRB6Xhy"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -273,7 +321,91 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Aji Aji",
+        "url": "https://open.spotify.com/album/1KsNClWF91RCnkBnqIVMam"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        }
+      ],
+      "duration_ms": 166062,
+      "name": "Aji Aji",
+      "url": "https://open.spotify.com/track/2lo7W7vYvMN3BOfKDxdxfB"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 206858,
+      "name": "Haavcation",
+      "url": "https://open.spotify.com/track/1YIPoktkEBmQhwdeEWZTEJ"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 178619,
+      "name": "Aino",
+      "url": "https://open.spotify.com/track/4ahgBdpusrRaPyoH1Skh1h"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "euro musik",
+        "url": "https://open.spotify.com/album/5RAmd82hWPvFBmUs73B5gO"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 156671,
+      "name": "Kuka se on (feat. Isac Elliot)",
+      "url": "https://open.spotify.com/track/7ag60dkTuD8xoMOxh6f4xS"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -297,155 +429,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Sin\u00e4 4ever (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
-        "url": "https://open.spotify.com/album/7yovvwfChdq1VC4GZKomLH"
-      },
-      "artists": [
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 201372,
-      "name": "Sin\u00e4 4ever - Vain el\u00e4m\u00e4\u00e4 kausi 14",
-      "url": "https://open.spotify.com/track/6wRn01AkSyG40RIGUtKbWk"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Matkalla (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
-        "url": "https://open.spotify.com/album/3kmc1mFwMHNqD2fTVmi0lg"
-      },
-      "artists": [
-        {
-          "name": "Ellinoora",
-          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
-        }
-      ],
-      "duration_ms": 210481,
-      "name": "Matkalla (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
-      "url": "https://open.spotify.com/track/7y02QzrZEpEgvSngRB6Xhy"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Aji Aji",
-        "url": "https://open.spotify.com/album/1KsNClWF91RCnkBnqIVMam"
-      },
-      "artists": [
-        {
-          "name": "Karim B",
-          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
-        }
-      ],
-      "duration_ms": 166062,
-      "name": "Aji Aji",
-      "url": "https://open.spotify.com/track/2lo7W7vYvMN3BOfKDxdxfB"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "euro musik",
-        "url": "https://open.spotify.com/album/5RAmd82hWPvFBmUs73B5gO"
-      },
-      "artists": [
-        {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
-        },
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        }
-      ],
-      "duration_ms": 156671,
-      "name": "Kuka se on (feat. Isac Elliot)",
-      "url": "https://open.spotify.com/track/7ag60dkTuD8xoMOxh6f4xS"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Huhhahhei",
-        "url": "https://open.spotify.com/album/1VTKgQzzYIsOM7qDZSwnpx"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        }
-      ],
-      "duration_ms": 188449,
-      "name": "Huhhahhei",
-      "url": "https://open.spotify.com/track/6FlgcrEoaGurTfbcSeqHVm"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Aino",
-        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 184515,
-      "name": "Mua ei voi pelastaa",
-      "url": "https://open.spotify.com/track/08mPohxtKuoyl97OQEq38I"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "k\u00e4py",
-        "url": "https://open.spotify.com/album/4dfL55wygzB20eJrboY838"
-      },
-      "artists": [
-        {
-          "name": "koira",
-          "url": "https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo"
-        }
-      ],
-      "duration_ms": 177839,
-      "name": "k\u00e4py",
-      "url": "https://open.spotify.com/track/62ta8BEEecanvSxeS3FldL"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Aino",
-        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 206858,
-      "name": "Haavcation",
-      "url": "https://open.spotify.com/track/1YIPoktkEBmQhwdeEWZTEJ"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Merkitt\u00e4v\u00e4t erot",
         "url": "https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK"
@@ -465,7 +449,7 @@
       "url": "https://open.spotify.com/track/643oAKTJRrWg6sd7Npc0Qk"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Tuonelan koivut (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
         "url": "https://open.spotify.com/album/0PCe9NqllZEM0wGPUli1nA"
@@ -481,7 +465,23 @@
       "url": "https://open.spotify.com/track/1kVdiCJmRG8NCLMi5Wk1Ga"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "k\u00e4py",
+        "url": "https://open.spotify.com/album/4dfL55wygzB20eJrboY838"
+      },
+      "artists": [
+        {
+          "name": "koira",
+          "url": "https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo"
+        }
+      ],
+      "duration_ms": 177839,
+      "name": "k\u00e4py",
+      "url": "https://open.spotify.com/track/62ta8BEEecanvSxeS3FldL"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Aino",
         "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
@@ -492,12 +492,28 @@
           "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
         }
       ],
-      "duration_ms": 178619,
-      "name": "Aino",
-      "url": "https://open.spotify.com/track/4ahgBdpusrRaPyoH1Skh1h"
+      "duration_ms": 179910,
+      "name": "Syd\u00e4mii",
+      "url": "https://open.spotify.com/track/2sa9m8OLLjWGBS96w8kR2d"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Huhhahhei",
+        "url": "https://open.spotify.com/album/1VTKgQzzYIsOM7qDZSwnpx"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "duration_ms": 188449,
+      "name": "Huhhahhei",
+      "url": "https://open.spotify.com/track/6FlgcrEoaGurTfbcSeqHVm"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Tunnettu Plugi",
         "url": "https://open.spotify.com/album/5G3aPrmMwRdieq2KKVFVIF"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/3K265QDIKTbM1MitKJdgOZ"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Sua sattuu",
         "url": "https://open.spotify.com/album/601hM6FNzVx3Snye4EJFdZ"
@@ -529,7 +545,23 @@
       "url": "https://open.spotify.com/track/3UJLagt67XWKaEZbePUS88"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 147717,
+      "name": "Fotogeeninen - Bonus Track",
+      "url": "https://open.spotify.com/track/2WwAsPZ5eBwihvFv2uXGl4"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Cha Cha Cha",
         "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Ennen vanhaan",
         "url": "https://open.spotify.com/album/3wseukvboJAQk3Nh3TaW1p"
@@ -561,7 +593,39 @@
       "url": "https://open.spotify.com/track/5HDPVknk7KqPWfxSilhC8h"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 179456,
+      "name": "Yks pullo",
+      "url": "https://open.spotify.com/track/0RHOUjIUEVsbLsYP2VLKVZ"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Aino",
+        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 189071,
+      "name": "Stara",
+      "url": "https://open.spotify.com/track/04TcSXoEPD9fNkEQaKEzdj"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Oikee mies",
         "url": "https://open.spotify.com/album/4KZoMrIueuR2gyZrejUlN1"
@@ -581,87 +645,7 @@
       "url": "https://open.spotify.com/track/1D7EPvrBZpKfa8ff0nOVtn"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Aino",
-        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 179910,
-      "name": "Syd\u00e4mii",
-      "url": "https://open.spotify.com/track/2sa9m8OLLjWGBS96w8kR2d"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1fNVh4Q9l4k7WKEWsH7hnS"
-      },
-      "artists": [
-        {
-          "name": "Purplape",
-          "url": "https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V"
-        }
-      ],
-      "duration_ms": 164846,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5om9e07j4TldvFZ5QeMRxX"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "J\u00e4lkeek\u00e4\u00e4n",
-        "url": "https://open.spotify.com/album/25OOeOTmMYldufcaw5vnLY"
-      },
-      "artists": [
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        }
-      ],
-      "duration_ms": 156919,
-      "name": "J\u00e4lkeek\u00e4\u00e4n",
-      "url": "https://open.spotify.com/track/39RqJCSBMKkNGiNAnuUMH6"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Aino",
-        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 147717,
-      "name": "Fotogeeninen - Bonus Track",
-      "url": "https://open.spotify.com/track/2WwAsPZ5eBwihvFv2uXGl4"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Helvetist\u00e4 it\u00e4\u00e4n (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
-        "url": "https://open.spotify.com/album/35kNEf1fpq9oc0ca1i6jr2"
-      },
-      "artists": [
-        {
-          "name": "Anna Puu",
-          "url": "https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Helvetist\u00e4 it\u00e4\u00e4n - Vain el\u00e4m\u00e4\u00e4 kausi 14",
-      "url": "https://open.spotify.com/track/374qWICeo4ff4xAWo20N2F"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "3 Toivomusta",
         "url": "https://open.spotify.com/album/6h2PFdf9ziIyh9SHRnbgjb"
@@ -681,23 +665,39 @@
       "url": "https://open.spotify.com/track/35RegtSScKod4jXc4XtQXz"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
-        "name": "Aino",
-        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
+        "name": "J\u00e4lkeek\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/25OOeOTmMYldufcaw5vnLY"
       },
       "artists": [
         {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
         }
       ],
-      "duration_ms": 179456,
-      "name": "Yks pullo",
-      "url": "https://open.spotify.com/track/0RHOUjIUEVsbLsYP2VLKVZ"
+      "duration_ms": 156919,
+      "name": "J\u00e4lkeek\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/39RqJCSBMKkNGiNAnuUMH6"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1fNVh4Q9l4k7WKEWsH7hnS"
+      },
+      "artists": [
+        {
+          "name": "Purplape",
+          "url": "https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V"
+        }
+      ],
+      "duration_ms": 164846,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5om9e07j4TldvFZ5QeMRxX"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Hyvikset ja pahikset",
         "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
@@ -713,59 +713,23 @@
       "url": "https://open.spotify.com/track/4TXoHT9YxXfczvs2ccf5MK"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
-        "name": "S\u00e4 et ole hullu (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
-        "url": "https://open.spotify.com/album/2eSdyrjHuLr5W60BHhdX96"
+        "name": "Helvetist\u00e4 it\u00e4\u00e4n (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/35kNEf1fpq9oc0ca1i6jr2"
       },
       "artists": [
         {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        },
-        {
-          "name": "Ege Zulu",
-          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+          "name": "Anna Puu",
+          "url": "https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3"
         }
       ],
-      "duration_ms": 171872,
-      "name": "S\u00e4 et ole hullu - Vain el\u00e4m\u00e4\u00e4 kausi 14",
-      "url": "https://open.spotify.com/track/1gn4yOS6xUYMtMf4F6ApAv"
+      "duration_ms": 198120,
+      "name": "Helvetist\u00e4 it\u00e4\u00e4n - Vain el\u00e4m\u00e4\u00e4 kausi 14",
+      "url": "https://open.spotify.com/track/374qWICeo4ff4xAWo20N2F"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Aino",
-        "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 189071,
-      "name": "Stara",
-      "url": "https://open.spotify.com/track/04TcSXoEPD9fNkEQaKEzdj"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Tunnettu Plugi",
-        "url": "https://open.spotify.com/album/5G3aPrmMwRdieq2KKVFVIF"
-      },
-      "artists": [
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
-        }
-      ],
-      "duration_ms": 127338,
-      "name": "Kyl vitus (Intro)",
-      "url": "https://open.spotify.com/track/5b9ic5pD7G7VsABtoW1zGd"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Willain",
         "url": "https://open.spotify.com/album/4fIyn02l750ivFtjp3MXor"
@@ -785,23 +749,7 @@
       "url": "https://open.spotify.com/track/0Ch46DVttxlt7dNSkYcpZG"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Saattov\u00e4ki (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
-        "url": "https://open.spotify.com/album/1aEkx67dKaCGwiBnuCfRHd"
-      },
-      "artists": [
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 146037,
-      "name": "Saattov\u00e4ki - Vain el\u00e4m\u00e4\u00e4 kausi 14",
-      "url": "https://open.spotify.com/track/3ls1huXteZ0x7odooGpSMY"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Maailman ymp\u00e4ri",
         "url": "https://open.spotify.com/album/67M8Jo4mQLi5T79mDCgdOO"
@@ -817,23 +765,7 @@
       "url": "https://open.spotify.com/track/0Md23O27tBkiiuzsCTetpl"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
-      "album": {
-        "name": "Haikailla",
-        "url": "https://open.spotify.com/album/6Cf1dmW8TpCtRTF7xS4tIT"
-      },
-      "artists": [
-        {
-          "name": "Joe L",
-          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
-        }
-      ],
-      "duration_ms": 188913,
-      "name": "Haikailla",
-      "url": "https://open.spotify.com/track/0WaM1Gm2pepIsQOGtUfEKG"
-    },
-    {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "T\u00c4YDELLINEN AJOITUS",
         "url": "https://open.spotify.com/album/3v4Vgetpzn7no8entBuDEo"
@@ -853,7 +785,43 @@
       "url": "https://open.spotify.com/track/4NbcnW0v1yoeq2IAuWFriv"
     },
     {
-      "added_at": "2023-10-29 08:37:03",
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "S\u00e4 et ole hullu (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/2eSdyrjHuLr5W60BHhdX96"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        },
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "duration_ms": 171872,
+      "name": "S\u00e4 et ole hullu - Vain el\u00e4m\u00e4\u00e4 kausi 14",
+      "url": "https://open.spotify.com/track/1gn4yOS6xUYMtMf4F6ApAv"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Haikailla",
+        "url": "https://open.spotify.com/album/6Cf1dmW8TpCtRTF7xS4tIT"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        }
+      ],
+      "duration_ms": 188913,
+      "name": "Haikailla",
+      "url": "https://open.spotify.com/track/0WaM1Gm2pepIsQOGtUfEKG"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
       "album": {
         "name": "Lambo (feat. VJ)",
         "url": "https://open.spotify.com/album/0KpXeYkbN15bBnD3ITxnup"
@@ -871,6 +839,38 @@
       "duration_ms": 130059,
       "name": "Lambo (feat. VJ)",
       "url": "https://open.spotify.com/track/0IJEnvu1p4OIzkY8UiQXCt"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+    },
+    {
+      "added_at": "2023-10-30 08:26:50",
+      "album": {
+        "name": "Saattov\u00e4ki (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/1aEkx67dKaCGwiBnuCfRHd"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 146037,
+      "name": "Saattov\u00e4ki - Vain el\u00e4m\u00e4\u00e4 kausi 14",
+      "url": "https://open.spotify.com/track/3ls1huXteZ0x7odooGpSMY"
     }
   ],
   "unique_name": "Top 50 - Finland",

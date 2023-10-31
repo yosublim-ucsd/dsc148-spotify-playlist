@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 141804,
       "name": "Bad Gyal Deya",
       "url": "https://open.spotify.com/track/50gK52RLfAISsTCE3nXDa9"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
@@ -4950,7 +4950,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 175556,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/19lK2hmq4p2KN617MGbId1"
@@ -5502,7 +5502,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 124942,
       "name": "Froes",
       "url": "https://open.spotify.com/track/16vhRLbW2MMJYDOX9NDLXi"
@@ -6944,7 +6944,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 165600,
       "name": "Inna Motion",
       "url": "https://open.spotify.com/track/6iInQgSY1xbjSa7Z9uZBJ2"
@@ -7574,7 +7574,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 261578,
       "name": "Kizomba (feat. Franglish, Jonna Fraser & Unleaded)",
       "url": "https://open.spotify.com/track/2yo9dRhpHG7b5AYgTGWfh5"
@@ -9806,7 +9806,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 97846,
       "name": "Move Ya Body - Remix",
       "url": "https://open.spotify.com/track/6WJtPnYy2HHhVx6Pb9pU7v"
@@ -10088,7 +10088,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 131357,
       "name": "Naughty",
       "url": "https://open.spotify.com/track/42UehjzjbsPaN3Xq0B8F2D"
@@ -12026,7 +12026,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 156500,
       "name": "Posa na bina",
       "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
@@ -13118,6 +13118,28 @@
       "duration_ms": 140727,
       "name": "Sigegige",
       "url": "https://open.spotify.com/track/2Mo1KazJhbMLcF0CNCecCQ"
+    },
+    {
+      "album": {
+        "name": "Skeleton",
+        "url": "https://open.spotify.com/album/7hCXJlGhyOLsI96xqVXWSH"
+      },
+      "artists": [
+        {
+          "name": "Lucky Jones",
+          "url": "https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet"
+        },
+        {
+          "name": "Quincy Promes",
+          "url": "https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167100,
+      "name": "Skeleton",
+      "url": "https://open.spotify.com/track/4LGr9wgrADxIocQFrzjtbt"
     },
     {
       "album": {
@@ -16572,7 +16594,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 145168,
       "name": "You and I",
       "url": "https://open.spotify.com/track/6XXSyQ7oyblFvOrx6lLA7j"

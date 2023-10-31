@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 446937,
+  "num_followers": 447135,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDNjOGU5MDJlMzNjMjI2NmVmZTFlODA4NWY3MmIyMjY0MzY2YTA4",
+  "snapshot_id": "MCxmMjE0NTI1M2EyNGM2ZWM3YzBkN2YwMjhlOGMzZjk3ZjMxZTI1Njcx",
   "tracks": [
     {
       "added_at": "2023-10-27 03:03:00",
@@ -143,26 +143,6 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
         "name": "Table For 2",
         "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 176283,
       "name": "Table For 2",
       "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
         "name": "Vintage Culture & Friends 2",
         "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 261818,
       "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
       "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -347,30 +347,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
-        "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
+        "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
+        "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
         },
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         }
       ],
-      "duration_ms": 160961,
-      "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
-      "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
+      "duration_ms": 191612,
+      "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
+      "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -415,26 +411,30 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
-        "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
+        "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
+        "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 191612,
-      "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
-      "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
+      "duration_ms": 160961,
+      "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
+      "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -587,46 +587,6 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "T\u00f4 de F\u00e9rias",
-        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 168449,
-      "name": "T\u00f4 de F\u00e9rias",
-      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
       },
@@ -651,6 +611,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
+        "name": "T\u00f4 de F\u00e9rias",
+        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 168449,
+      "name": "T\u00f4 de F\u00e9rias",
+      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Um Dia Inteiro",
-        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
-      },
-      "artists": [
-        {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
-        },
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Um Dia Inteiro",
-      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 183370,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
+        "name": "Um Dia Inteiro",
+        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
+      },
+      "artists": [
+        {
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
+        },
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Um Dia Inteiro",
+      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
         "name": "Lovezinho",
         "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 144796,
       "name": "Oh! Chuva",
       "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 175844,
       "name": "Monalisa (KVSH Remix)",
       "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2023-10-27 03:03:00",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
         "name": "Hoje Caminhei (Remix)",
         "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
@@ -1387,26 +1407,6 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
         "name": "Paradise (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
       },
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-10-27 03:03:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
-        }
-      ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
-    },
-    {
-      "added_at": "2023-10-27 03:03:00",
-      "album": {
         "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
         "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 215806,
       "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
       "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
+    },
+    {
+      "added_at": "2023-10-27 03:03:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
     },
     {
       "added_at": "2023-10-27 03:03:00",

@@ -1,12 +1,12 @@
 {
   "description": "Son los 90 y prendes la radio.",
-  "num_followers": 28465,
+  "num_followers": 28516,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzRhNDE3ZTgxNGRkYTZjNmIyYWQ5NTUxY2FjMWQ5YzQxZjdhNmU5",
+  "snapshot_id": "MCw4NmFjYzdlOWFjNjk4YTk5NTY3ZmI3ZmM5MTAyODA4ODFlNGUxNTMy",
   "tracks": [
     {
       "added_at": "2021-12-26 17:51:11",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Ciega, Sordomuda",
-      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 279506,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
+      "duration_ms": 267826,
+      "name": "Ciega, Sordomuda",
+      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -459,6 +443,22 @@
       "duration_ms": 218360,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 264173,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "\u00d6l\u00fcr\u00fcm Sana",
         "url": "https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 235218,
       "name": "\u015e\u0131mar\u0131k",
       "url": "https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 264173,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -799,38 +799,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -843,6 +811,22 @@
       "duration_ms": 184733,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
+      },
+      "artists": [
+        {
+          "name": "Calo",
+          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "Formas De Amor",
+      "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -863,18 +847,34 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Sin Miedo",
-        "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
       },
       "artists": [
         {
-          "name": "Calo",
-          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 242053,
-      "name": "Formas De Amor",
-      "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 224283,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/3uyJrbOnK7fMunoFjRfsew"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 322000,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 224283,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/3uyJrbOnK7fMunoFjRfsew"
     },
     {
       "added_at": "2021-12-26 17:51:11",

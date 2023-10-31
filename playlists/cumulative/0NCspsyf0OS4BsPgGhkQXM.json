@@ -6335,6 +6335,28 @@
     },
     {
       "album": {
+        "name": "Ghost Under My Skin",
+        "url": "https://open.spotify.com/album/5F3ImaLKZ0BbfRGqKMvMiZ"
+      },
+      "artists": [
+        {
+          "name": "L I F E / L I N E",
+          "url": "https://open.spotify.com/artist/5oGx8PvzXwgguezHDVRakQ"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Ghost Under My Skin",
+      "url": "https://open.spotify.com/track/71Sgjy9uRx3DNpjF47iXGU"
+    },
+    {
+      "album": {
         "name": "First Steps",
         "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
       },
@@ -11388,6 +11410,24 @@
       "duration_ms": 171199,
       "name": "Next 2 Me",
       "url": "https://open.spotify.com/track/34a9Y66tCok1S8kXgmDl0y"
+    },
+    {
+      "album": {
+        "name": "Night City",
+        "url": "https://open.spotify.com/album/1f4V4c80D3hYnq72cnyJrJ"
+      },
+      "artists": [
+        {
+          "name": "The Forgotten",
+          "url": "https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Night City",
+      "url": "https://open.spotify.com/track/5b0MsPxtUnwkSTXVaBQDQ6"
     },
     {
       "album": {

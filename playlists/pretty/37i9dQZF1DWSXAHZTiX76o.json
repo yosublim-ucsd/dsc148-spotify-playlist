@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos cl\u00e1sicos para fiestear \u2728",
-  "num_followers": 341284,
+  "num_followers": 341303,
   "original_name": "Fiesta Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTdkYWRlZDBjMzBjNDgxZjgwNGU0M2EwYzIwNTQ5YjJkMGRhZmIw",
+  "snapshot_id": "MCw4MGFiNjYyODM4NjRlMzVmZjY0MzRiNDA5MmQwZjgxYTBlMDU1NmQw",
   "tracks": [
     {
       "added_at": "2023-02-15 17:16:01",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-02-15 17:16:01",
       "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Golden Skans",
+      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
+    },
+    {
+      "added_at": "2023-02-15 17:16:01",
+      "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 232333,
       "name": "She Bangs the Drums - Remastered",
       "url": "https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo"
-    },
-    {
-      "added_at": "2023-02-15 17:16:01",
-      "album": {
-        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
-      },
-      "artists": [
-        {
-          "name": "Junior Senior",
-          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
     }
   ],
   "unique_name": "Fiesta Indie",

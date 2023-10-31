@@ -4,13 +4,13 @@
 
 > The official soundtrack of Nike's NYvsNY, curated by the players\. We Outside!
 
-113 songs - 6 hr 24 min
+114 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2023-06-27 |  |
 | [3 Headed Goat \(feat\. Lil Baby & Polo G\)](https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:49 | 2023-06-27 |  |
-| [7AM](https://open.spotify.com/track/4v1P7JCjehbg5TmLQo2mFy) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 3:39 | 2023-06-27 |  |
+| [7AM](https://open.spotify.com/track/4v1P7JCjehbg5TmLQo2mFy) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 3:39 | 2023-06-27 | 2023-10-31 |
 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 | 2023-06-27 |  |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-06-27 | 2023-07-11 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:43 | 2023-06-27 |  |
@@ -96,6 +96,7 @@
 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 | 2023-06-27 |  |
 | [Ready \(feat\. Gunna\)](https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:33 | 2023-07-10 |  |
 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 | 2023-06-27 |  |
+| [Resume](https://open.spotify.com/track/3U3gHqRwjam6CxwW68m30z) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Resume](https://open.spotify.com/album/3AkeMkUB4TxgC0BRc2KsVw) | 3:55 | 2023-06-27 |  |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2023-06-27 |  |
 | [Run This Town](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:27 | 2023-06-27 |  |
 | [Sdot Go \- WNA](https://open.spotify.com/track/2mNcQnrHoGyM7QmzA6oEqt) | [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Sdot Go \- WNA](https://open.spotify.com/album/2SCd2rfr1TaH0SO7ew9sbG) | 2:19 | 2023-06-27 | 2023-07-11 |

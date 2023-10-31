@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 66025,
+  "num_followers": 66055,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODg2ZjNiMGMyNmRhNTM3ZDBlOWY5N2EyMDljMWVmOWUwZTI5MGJl",
+  "snapshot_id": "MCxiM2E5MzI0MzUzNGM1OWY0MjQ1OGI0OWU3MDEzODcwMjViYzg4ODky",
   "tracks": [
     {
       "added_at": "2023-10-18 08:13:47",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Paniya",
+        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 190128,
+      "name": "Dil Mein Ab",
+      "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Goldfish (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
       },
@@ -375,18 +391,26 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Paniya",
-        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
+        "name": "Songs Of Trance 2",
+        "url": "https://open.spotify.com/album/69srnla8mtjwCtXGfIKSpA"
       },
       "artists": [
         {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        },
+        {
+          "name": "Rupali Moghe",
+          "url": "https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0"
         }
       ],
-      "duration_ms": 190128,
-      "name": "Dil Mein Ab",
-      "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
+      "duration_ms": 205000,
+      "name": "Shariyat-E-Dil",
+      "url": "https://open.spotify.com/track/4TARoWsUnQJEFkvEeHcRuW"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -447,6 +471,30 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Ajoy Chakrabarty",
+          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 158476,
+      "name": "Garaj Garaj",
+      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Maati Baani",
         "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
       },
@@ -463,30 +511,6 @@
       "duration_ms": 273394,
       "name": "Boondan Boondan (feat. Ankita Joshi)",
       "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Songs Of Trance 2",
-        "url": "https://open.spotify.com/album/69srnla8mtjwCtXGfIKSpA"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Papon",
-          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-        },
-        {
-          "name": "Rupali Moghe",
-          "url": "https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Shariyat-E-Dil",
-      "url": "https://open.spotify.com/track/4TARoWsUnQJEFkvEeHcRuW"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -511,30 +535,6 @@
       "duration_ms": 202838,
       "name": "Naina Morey - Redefined",
       "url": "https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Ajoy Chakrabarty",
-          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
-        },
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 158476,
-      "name": "Garaj Garaj",
-      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -583,6 +583,30 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Radhe (From Songs of Faith)",
+        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neeraj Arya",
+          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
+        },
+        {
+          "name": "Arunima Bhattacharya",
+          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
+        }
+      ],
+      "duration_ms": 218307,
+      "name": "Radhe (From Songs of Faith)",
+      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Grounded in Space",
         "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
       },
@@ -615,46 +639,6 @@
       "duration_ms": 368026,
       "name": "Rasiya",
       "url": "https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Radhe (From Songs of Faith)",
-        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Neeraj Arya",
-          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
-        },
-        {
-          "name": "Arunima Bhattacharya",
-          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
-        }
-      ],
-      "duration_ms": 218307,
-      "name": "Radhe (From Songs of Faith)",
-      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -727,6 +711,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Mere Makaan",
         "url": "https://open.spotify.com/album/3nMDW1FquZfMaXTYg5l2ej"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Palkan",
-        "url": "https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd"
-      },
-      "artists": [
-        {
-          "name": "Advaita",
-          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
-        }
-      ],
-      "duration_ms": 361080,
-      "name": "Palkan",
-      "url": "https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Nirbhay Nirgun (Live)",
         "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Kaa Karoon Sajni (Thumri Jazz)",
-        "url": "https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH"
+        "name": "Palkan",
+        "url": "https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd"
       },
       "artists": [
         {
-          "name": "Kshitij Tarey",
-          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
-        },
-        {
-          "name": "Ruslan Sirota",
-          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
         }
       ],
-      "duration_ms": 223409,
-      "name": "Kaa Karoon Sajni - Thumri Jazz",
-      "url": "https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY"
+      "duration_ms": 361080,
+      "name": "Palkan",
+      "url": "https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -855,6 +835,26 @@
       "duration_ms": 271058,
       "name": "Chhap Tilak",
       "url": "https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Kaa Karoon Sajni (Thumri Jazz)",
+        "url": "https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Tarey",
+          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
+        },
+        {
+          "name": "Ruslan Sirota",
+          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
+        }
+      ],
+      "duration_ms": 223409,
+      "name": "Kaa Karoon Sajni - Thumri Jazz",
+      "url": "https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Mann Bheetar",
+        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 387099,
+      "name": "Ithlati",
+      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "In Other Words",
         "url": "https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso"
       },
@@ -907,30 +923,6 @@
       "duration_ms": 294855,
       "name": "Coming Home (feat. Akanksha Grover)",
       "url": "https://open.spotify.com/track/6CQhSRMH7HYenOa3OToRyh"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Songs Of The River - Ganga",
-        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
-      },
-      "artists": [
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        },
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        },
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Natkhat Nadiya",
-      "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -959,6 +951,30 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Songs Of The River - Ganga",
+        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
+      },
+      "artists": [
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        },
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Natkhat Nadiya",
+      "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Purvayi",
         "url": "https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 310146,
       "name": "Purvayi",
       "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Mann Bheetar",
-        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 387099,
-      "name": "Ithlati",
-      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
     },
     {
       "added_at": "2023-10-18 08:13:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,229 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,245 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 10 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 |
 | 11 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 |
 | 12 | [Until You Came Along](https://open.spotify.com/track/1njMJM5mlFcgKLYUkwXicp) | [Louie Thesinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Until You Came Along](https://open.spotify.com/album/0sYwcbxbGwHlvz5rBWIKj1) | 3:11 |
-| 13 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 |
-| 14 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 |
-| 15 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
+| 13 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
+| 14 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 |
+| 15 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 |
 | 16 | [Cariño](https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:18 |
 | 17 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 |
 | 18 | [CUÍDALA](https://open.spotify.com/track/0KQ4DeYVWAoIDDGGxHEKQo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:43 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 22 | [Hasta Los Dientes](https://open.spotify.com/track/2U0jWXrxJUzWVlLsHttAXJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:08 |
 | 23 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 |
 | 24 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
-| 25 | [A letter to my younger self](https://open.spotify.com/track/1jjfOsxZ1Z1bovYbguK7bB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Dreaming Lucid](https://open.spotify.com/album/4hoEfnmAs0gjUhQOFZLk6O) | 2:18 |
-| 26 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
+| 25 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
+| 26 | [A letter to my younger self](https://open.spotify.com/track/1jjfOsxZ1Z1bovYbguK7bB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Dreaming Lucid](https://open.spotify.com/album/4hoEfnmAs0gjUhQOFZLk6O) | 2:18 |
 | 27 | [el paso](https://open.spotify.com/track/6nu7Fpg5sarNYs8ElOozRQ) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [el paso](https://open.spotify.com/album/5QBjcz2tdsRVsmPtmg8h5Z) | 3:05 |
 | 28 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 |
 | 29 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 40 | [Sigo Muerto](https://open.spotify.com/track/71S52xUjNYtBSsRcJSZJva) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Sigo Muerto](https://open.spotify.com/album/1aPO6B5MYdkyiZ4vYA1YSX) | 2:29 |
 | 41 | [Solo Tu](https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Solo Tu](https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7) | 2:46 |
 | 42 | [Hear Me Out](https://open.spotify.com/track/43u76RiZEjdtuEWar9ItUb) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 2:17 |
-| 43 | [luna de miel](https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [luna de miel](https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2) | 2:35 |
-| 44 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
-| 45 | [Mi Estilo](https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Mi Estilo](https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq) | 4:45 |
+| 43 | [Mi Estilo](https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Mi Estilo](https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq) | 4:45 |
+| 44 | [luna de miel](https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [luna de miel](https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2) | 2:35 |
+| 45 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
 | 46 | [two eyes](https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [two eyes](https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV) | 3:30 |
 | 47 | [tú y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [Ariel & The Culture](https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 |
 | 48 | [Papaya](https://open.spotify.com/track/4Az1TpAuG5E8dDqYjyVGUX) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Papaya](https://open.spotify.com/album/0FrfppDaTYpma9MXQ6qRqE) | 2:16 |
 | 49 | [GAS](https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [GAS](https://open.spotify.com/album/1E9i3K2aDCotq9DN9D3ZWB) | 2:27 |
 | 50 | [QUIERO LLORAR Y NO PUEDO](https://open.spotify.com/track/3uvj97aCrgC1bGpiV5oCNm) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [QUIERO LLORAR Y NO PUEDO](https://open.spotify.com/album/4Ua1w80i6Lz0yF1kc1ZQSP) | 3:21 |
 
-Snapshot ID: `MCxiYjljNTU2YWJmZTQ4NTc4NGQzY2JiMGIzMjhhNWUzYmM0NDQ3Yjg3`
+Snapshot ID: `MCw1NWE4MWE5MjQ2MzQ2YTUwZmViMTFmY2E1YThlODNkZmM0YzE2MmI5`

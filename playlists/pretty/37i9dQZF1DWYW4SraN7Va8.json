@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 70852,
+  "num_followers": 70984,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzYzNTA5YTFiYzVhOWMyMGVmZDk3ZDRkYjY2NjNmZmY0ZWMyNGRj",
+  "snapshot_id": "MCw5MDNlNjA2OThiZGMyMGQwNDc0YWVlYWRmMjNkYWFjNjA2NDQwNzYw",
   "tracks": [
     {
       "added_at": "2023-04-21 06:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Second Helping (Expanded Edition)",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 191946,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
         "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 265893,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
+        "name": "Piece of Mind (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Flight of Icarus - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5orSFpEyBcj8ogpOqI4yOQ"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
         "name": "Whitesnake (30th Anniversary Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/0aaGy4xNDYJ1QLllH7mSNp"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 202066,
       "name": "Generator",
       "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
-    },
-    {
-      "added_at": "2023-06-13 18:30:22",
-      "album": {
-        "name": "What's Love Got To Do With It",
-        "url": "https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 199725,
-      "name": "What's Love Got To Do With It",
-      "url": "https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92"
     },
     {
       "added_at": "2023-04-21 06:00:00",

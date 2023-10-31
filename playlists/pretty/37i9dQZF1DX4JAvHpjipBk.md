@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Brent Faiyaz, Taylor Swift, The Kid LAROI, PARTYNEXTDOOR, Alec Benjamin and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,168,957 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,169,167 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 18 | [TALK!](https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 2:37 |
 | 19 | [A Love Song](https://open.spotify.com/track/0kZe4ZChBtwSo9GwWbNOVt) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [A Love Song](https://open.spotify.com/album/21LuSaEIdqrPGRmagxDPrx) | 3:21 |
 | 20 | [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 |
-| 21 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 |
+| 21 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 |
 | 22 | [Without You \(Blxst Interlude\)](https://open.spotify.com/track/4o37I9GMKgu8bTvt4Zd4Ny) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Without You \(Blxst Interlude\)](https://open.spotify.com/album/7tYruPXBGvlRyeY6ShHX1C) | 2:44 |
 | 23 | [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 |
 | 24 | [PARANOIA](https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP) | [HEARTSTEEL](https://open.spotify.com/artist/4lY2DXvRv9RPeFcUtn6PUh), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [PARANOIA](https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
 | 100 | [backup plan](https://open.spotify.com/track/79TutI4UOZsovErs89Dzq6) | [Ezra](https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY) | [backup plan](https://open.spotify.com/album/2ZC8xPR2yyoqYunzPd89e0) | 2:06 |
 
-Snapshot ID: `MCw3Y2FkNjk5NWEzODc3YTk2MDQ4NzVhMTY4NWNlMmFkYWQ2OGIxM2Zl`
+Snapshot ID: `MCxhMmIwNWEyY2ZkYzQyMmMxMDczMmQzZDNlMzRkOTY4OTU0ZTNjZDYw`

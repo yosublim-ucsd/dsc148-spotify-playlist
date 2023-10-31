@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 
 > remember when we were dark and brooding\. Cover: CHVRCHES
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,787 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,833 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 | 17 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
 | 18 | [Talking Body](https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/1teQxZPWNILIowWpQA6qfm) | 3:58 |
 | 19 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
-| 20 | [Siren](https://open.spotify.com/track/4xb8JHIN56xixSl6vkSPjm) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Siren](https://open.spotify.com/album/4VVcfdD0w5pUHN96udQQsi) | 3:20 |
-| 21 | [Crush](https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5) | 3:24 |
+| 20 | [Crush](https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5) | 3:24 |
+| 21 | [Siren](https://open.spotify.com/track/4xb8JHIN56xixSl6vkSPjm) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Siren](https://open.spotify.com/album/4VVcfdD0w5pUHN96udQQsi) | 3:20 |
 | 22 | [Killshot](https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:56 |
 | 23 | [East of Eden](https://open.spotify.com/track/2Wc2tcQl7cPetPKeXH3GD3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 3:06 |
 | 24 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 | 43 | [The Suburbs](https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Pocketknife](https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L) | 5:07 |
 | 44 | [Scream Drive Faster](https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Scream Drive Faster](https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m) | 4:00 |
 | 45 | [A Pill to Crush](https://open.spotify.com/track/7auPqljdHNJQdfGmoIJv8T) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Salvation](https://open.spotify.com/album/751bmMkkdlXg6wRtVnAKyn) | 3:41 |
-| 46 | [OctaHate](https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:24 |
-| 47 | [Hold](https://open.spotify.com/track/6vITFXjXN3i1VwWI1iv3fc) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Fingertips](https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO) | 4:06 |
+| 46 | [Hold](https://open.spotify.com/track/6vITFXjXN3i1VwWI1iv3fc) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Fingertips](https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO) | 4:06 |
+| 47 | [OctaHate](https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:24 |
 | 48 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 |
 | 49 | [Bassically](https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR) | 4:51 |
 | 50 | [Younger](https://open.spotify.com/track/1Ujt4hi9SHiMAxyCjJd1Kk) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:33 |
 
-Snapshot ID: `MCw2ZTMxZDI3MWQxYTgyNmUyYTM2ZTFlOThjNzkzYTMzOTA4NDk2NmFi`
+Snapshot ID: `MCxjMmEwY2U2NTBjZjYyMDUxZDYyNzkxNmM3NGI0OThiYTdlMWEzY2I4`

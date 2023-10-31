@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,760 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,782 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 36 | [Speak to Me](https://open.spotify.com/track/7nmrabiFsP23CoI8EXsgDc) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 3:55 |
 | 37 | [Pieces](https://open.spotify.com/track/6PZh8MRQB5Hxj2PIKG8XY5) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Bloom](https://open.spotify.com/album/36LOiWPolyaiePKZwj4A5w) | 5:29 |
 | 38 | [Down](https://open.spotify.com/track/7pm6Tx25xrVRTSjzYrdOVE) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For \- EP](https://open.spotify.com/album/3OhT211gjRkYGbkuKubrtS) | 2:38 |
-| 39 | [Sunshine](https://open.spotify.com/track/7pBx4A6oQf6Ut7Eyd6WwJr) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Sunshine](https://open.spotify.com/album/77x64lNlw8acb9Yqk03zEh) | 3:16 |
-| 40 | [Somebody](https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC) | [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p), [Kristen Hicks](https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl) | [Somebody](https://open.spotify.com/album/62VCya3aXX842Or8W3ITLZ) | 3:44 |
+| 39 | [Somebody](https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC) | [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p), [Kristen Hicks](https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl) | [Somebody](https://open.spotify.com/album/62VCya3aXX842Or8W3ITLZ) | 3:44 |
+| 40 | [Sunshine](https://open.spotify.com/track/7pBx4A6oQf6Ut7Eyd6WwJr) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Sunshine](https://open.spotify.com/album/77x64lNlw8acb9Yqk03zEh) | 3:16 |
 | 41 | [Celebrate Life](https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5) | 3:55 |
 | 42 | [It's Not Over](https://open.spotify.com/track/36iivpdcpCQRjmcDHzJJep) | [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [It's Not Over](https://open.spotify.com/album/6qPfheQDOnZDpViFsJIJ5t) | 3:31 |
 | 43 | [Incense \- Live](https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:17 |
 | 44 | [Even in the Valley](https://open.spotify.com/track/4A7euppddfPjfKyHpBvh08) | [Kingly](https://open.spotify.com/artist/3K82LFHTTHMqrp1qXyEhpZ), [John Strandell](https://open.spotify.com/artist/03IKdQ4AUOq3YUPFoYJekd) | [Even in the Valley](https://open.spotify.com/album/1sF81pzpaD3ie1vNCtnKcg) | 3:23 |
-| 45 | [Revival](https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Revival](https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt) | 3:25 |
-| 46 | [I Lift Your Name Up \- 80's Remix](https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 3:21 |
+| 45 | [I Lift Your Name Up \- 80's Remix](https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 3:21 |
+| 46 | [Revival](https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Revival](https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt) | 3:25 |
 | 47 | [MAYBE](https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [NOT BY CHANCE](https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP) | 3:50 |
-| 48 | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Chris Cron](https://open.spotify.com/artist/3KOEKMUxngxpCbKGBk8giH) | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH) | 3:33 |
-| 49 | [Butterfly](https://open.spotify.com/track/5kSWv4oxIoTE3LSh831GpU) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Butterfly](https://open.spotify.com/album/0bgRKFVFp5wiMnLfiM2WzB) | 4:12 |
+| 48 | [Butterfly](https://open.spotify.com/track/5kSWv4oxIoTE3LSh831GpU) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Butterfly](https://open.spotify.com/album/0bgRKFVFp5wiMnLfiM2WzB) | 4:12 |
+| 49 | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Chris Cron](https://open.spotify.com/artist/3KOEKMUxngxpCbKGBk8giH) | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH) | 3:33 |
 | 50 | [Like You](https://open.spotify.com/track/0iJimXkiYGGh9XuqSFPS9a) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Lyfe](https://open.spotify.com/album/6jikiA16rzQPxhWYDSNFc6) | 2:33 |
 | 51 | [Everything for Nothing](https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Fear](https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl) | 5:08 |
 | 52 | [Joyboy](https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 2:24 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 64 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
 | 65 | [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 |
 
-Snapshot ID: `MCwwOWU1MzMwMWQxZjAzYWQyZmM3ZTIwYWU3ZjRhYmE0MTdhM2NiNDRm`
+Snapshot ID: `MCw2ZTNmN2QxODA5OTA0YWY1ZTkxZjhiZGI3ZmZjMWNjMDc2YzllMmEw`

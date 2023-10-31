@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,225 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,269 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 |
+| 1 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 |
 | 2 | [Spaceships](https://open.spotify.com/track/31bc2FenRg2KVCoIeSPg7E) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Saturday Night](https://open.spotify.com/album/77RyGk8HtT1Vj05qrAaKUK) | 3:48 |
 | 3 | [Lost](https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:28 |
 | 4 | [I Miss You \- Radio Edit](https://open.spotify.com/track/3qyZk0hMioN5kEMCPDPxzo) | [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [The Black Belts](https://open.spotify.com/artist/0E2ByLJA2G0NMjQg0Dn8ct) | [Free Me](https://open.spotify.com/album/5I6bqE1FN7H0ecfdpz8lTY) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
 | 100 | [Dry](https://open.spotify.com/track/4ug40UefedjvTEXuuIZaQA) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Nine Lives](https://open.spotify.com/album/34sLLcb1XwY8KD0fIcabjH) | 4:09 |
 
-Snapshot ID: `MCwzNWIwOWI1MTE4NjE4M2M0MzgxNGNmMTA0N2YyZjM4Zjk1MzFiYjM5`
+Snapshot ID: `MCw4M2Q1ZDQ4YmI3NTAyYzI3ZDhhYTIxNDdkMzZiNjA3NTE4ZGViMWU1`

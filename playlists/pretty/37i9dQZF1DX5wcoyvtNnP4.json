@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 492842,
+  "num_followers": 492832,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGRiMzZhYjUxMjM0Zjk5ZGZmZjg5MDQ0ZTQxY2MwOWRhNDZhOWM1",
+  "snapshot_id": "MCwyNDRhNTgxYmQyMDhlMjc4NmVmZjJmYjc0OWFmY2I1MTg3M2Y0OGQ0",
   "tracks": [
     {
       "added_at": "2023-10-27 13:02:58",
@@ -23,6 +23,22 @@
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2023-10-27 13:02:58",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -51,22 +67,6 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2023-10-27 13:02:58",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -155,6 +155,26 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2023-10-27 13:02:58",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
-    },
-    {
-      "added_at": "2023-10-27 13:02:58",
-      "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -223,22 +223,22 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         },
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
         }
       ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -351,6 +351,30 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    {
+      "added_at": "2023-10-27 13:02:58",
+      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
       },
@@ -367,6 +391,26 @@
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+    },
+    {
+      "added_at": "2023-10-27 13:02:58",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -419,46 +463,6 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
-        "name": "Bittersweet Goodbye",
-        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
-      },
-      "artists": [
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        }
-      ],
-      "duration_ms": 166778,
-      "name": "Bittersweet Goodbye",
-      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
-    },
-    {
-      "added_at": "2023-10-27 13:02:58",
-      "album": {
-        "name": "BOTH",
-        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "BOTH",
-      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
-    },
-    {
-      "added_at": "2023-10-27 13:02:58",
-      "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
       },
@@ -479,22 +483,18 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+        "name": "Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
       },
       "artists": [
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
         }
       ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+      "duration_ms": 166778,
+      "name": "Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
-    },
-    {
-      "added_at": "2023-10-27 13:02:58",
-      "album": {
         "name": "Headlights (feat. KIDDO)",
         "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+    },
+    {
+      "added_at": "2023-10-27 13:02:58",
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -747,6 +747,30 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
+        "name": "Mercy (feat. Jacob Lusk)",
+        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 178242,
+      "name": "Mercy (feat. Jacob Lusk)",
+      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2023-10-27 13:02:58",
+      "album": {
         "name": "Lose It All (I Don't Wanna)",
         "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
       },
@@ -779,30 +803,6 @@
       "duration_ms": 187040,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": "2023-10-27 13:02:58",
-      "album": {
-        "name": "Mercy (feat. Jacob Lusk)",
-        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
-        },
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 178242,
-      "name": "Mercy (feat. Jacob Lusk)",
-      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
-        "name": "Tears In Ibiza (feat. AR/CO)",
-        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
-      },
-      "artists": [
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 143579,
-      "name": "Tears In Ibiza (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
-    },
-    {
-      "added_at": "2023-10-27 13:02:58",
-      "album": {
         "name": "Lifeline (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 170253,
       "name": "Lifeline (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel"
+    },
+    {
+      "added_at": "2023-10-27 13:02:58",
+      "album": {
+        "name": "Tears In Ibiza (feat. AR/CO)",
+        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 143579,
+      "name": "Tears In Ibiza (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
-        "name": "Pink",
-        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "One with the Wolves",
-      "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
-    },
-    {
-      "added_at": "2023-10-27 13:02:58",
-      "album": {
         "name": "Better Me",
         "url": "https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 166080,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB"
+    },
+    {
+      "added_at": "2023-10-27 13:02:58",
+      "album": {
+        "name": "Pink",
+        "url": "https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "One with the Wolves",
+      "url": "https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
-        "name": "Sun Will Shine",
-        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Sun Will Shine",
-      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2023-10-27 13:02:58",
-      "album": {
         "name": "Daydreamer",
         "url": "https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF"
       },
@@ -1267,6 +1247,42 @@
       "duration_ms": 182750,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
+    },
+    {
+      "added_at": "2023-10-27 13:02:58",
+      "album": {
+        "name": "Sun Will Shine",
+        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Sun Will Shine",
+      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
+    },
+    {
+      "added_at": "2023-10-27 13:02:58",
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U"
-    },
-    {
-      "added_at": "2023-10-27 13:02:58",
-      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 166856,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2"
-    },
-    {
-      "added_at": "2023-10-27 13:02:58",
-      "album": {
-        "name": "Sweet Goodbye",
-        "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "Sweet Goodbye",
-      "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
     },
     {
       "added_at": "2023-10-27 13:02:58",
@@ -1419,22 +1403,42 @@
     {
       "added_at": "2023-10-27 13:02:58",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9"
+        "name": "Coming Home (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo"
       },
       "artists": [
         {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
         },
         {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 144375,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
+      "duration_ms": 136866,
+      "name": "Coming Home (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo"
+    },
+    {
+      "added_at": "2023-10-27 13:02:58",
+      "album": {
+        "name": "Sweet Goodbye",
+        "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "Sweet Goodbye",
+      "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
     }
   ],
   "unique_name": "Wochenende",

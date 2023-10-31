@@ -4,7 +4,7 @@
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-215 songs - 15 hr 58 min
+216 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Lullaby \- Remastered](https://open.spotify.com/track/4N54VofLAv0gNeSL1rwoeq) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 4:08 | 2022-03-17 | 2022-07-29 |
 | [Luna \- 2011 Remaster](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:22 | 2022-03-17 |  |
 | [Luna \- Remastered](https://open.spotify.com/track/2SRBtj64W0Wbs7YMbmxFBw) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:22 | 2022-03-17 | 2022-07-28 |
-| [March Of The Pigs](https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 2:58 | 2022-03-17 |  |
+| [March Of The Pigs](https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 2:58 | 2022-03-17 | 2023-10-31 |
 | [Metal Heart](https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:02 | 2022-03-17 | 2022-07-22 |
 | [Midlife Crisis](https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 4:19 | 2022-03-17 |  |
 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 | 2022-03-17 |  |
@@ -219,6 +219,7 @@
 | [Where the Wild Roses Grow \- 2011 \- Remaster](https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 Remastered Version\)](https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW) | 3:57 | 2022-03-17 |  |
 | [Who Was In My Room Last Night?](https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Independent Worm Saloon](https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo) | 4:09 | 2022-03-17 |  |
 | [Wicked Game](https://open.spotify.com/track/1eVYwIlxbOgSiiD0uvEhSy) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/3jw3OeaF1peR1uhDZMwBn6) | 3:53 | 2022-03-17 | 2022-07-29 |
+| [Wicked Game](https://open.spotify.com/track/0evX82L72YwaZIEKw5fEQT) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Lovesongs Vol\. 666](https://open.spotify.com/album/6meTP5bnTECxbCBv8hzD7c) | 3:54 | 2023-02-13 |  |
 | [Wild America](https://open.spotify.com/track/5TbcfeXmNC6K0iEKYRZV68) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 5:45 | 2022-03-17 | 2022-07-26 |
 | [Wonderful](https://open.spotify.com/track/4irKdTjo8l9BuaauFHEhV6) | [Adam Ant](https://open.spotify.com/artist/3QP0XPDwbvGivqDAaJ5f5G) | [Lost Hits Of The 90's](https://open.spotify.com/album/3wfnvFWWYA8kPNXOvjkIlo) | 4:22 | 2022-03-17 | 2022-07-04 |
 | [Yagga Blues](https://open.spotify.com/track/1Padi4SUWcKceaJl7FTbqL) | [Nurse With Wound](https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I) | [Who Can I Turn To Stereo](https://open.spotify.com/album/1iBjnrefZnA72u4kzxoGsR) | 5:51 | 2022-03-17 | 2022-07-08 |

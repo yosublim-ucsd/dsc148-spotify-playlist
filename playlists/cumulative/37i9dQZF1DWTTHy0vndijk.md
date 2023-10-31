@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: ILY:1 \(아일리원\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: NiziU \(니쥬\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-375 songs - 20 hr 59 min
+376 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [CANDY](https://open.spotify.com/track/53Abp3QVXDA9z1VmJsOBXm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:15 | 2022-01-04 | 2022-07-29 |
 | [Candy Boy](https://open.spotify.com/track/0SY4Q05g5eazjmgr3Dxr5y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE STORY BEGINS](https://open.spotify.com/album/3uLLMZwXdtGAD3BAB12jUM) | 2:46 | 2022-01-04 | 2022-07-12 |
 | [CANDYFLOSS](https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:01 | 2022-07-04 | 2023-02-04 |
-| [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 | 2022-03-29 |  |
+| [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 | 2022-03-29 | 2023-10-31 |
 | [Catch the Stars](https://open.spotify.com/track/2yMIYu0O3TanoqmqpTcoEs) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Catch the Stars](https://open.spotify.com/album/1hwykI4yYe3FTcAhl1gadk) | 3:20 | 2022-01-04 | 2022-07-29 |
 | [Changed Number](https://open.spotify.com/track/1L0kL5aaG3tUwbHECFbdB4) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Changed Number](https://open.spotify.com/album/5bYChUxAMA4r6U8dGwkyFq) | 3:28 | 2022-07-05 | 2022-07-20 |
 | [CHEER UP](https://open.spotify.com/track/1D7e4LrjdB4mKaI9XYrmPY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [PAGE TWO](https://open.spotify.com/album/1AHK0VYfnND7mAiZ5VneXG) | 3:28 | 2021-11-29 | 2022-07-26 |
@@ -132,6 +132,7 @@
 | [Happily Ever After](https://open.spotify.com/track/7H1ly0lZJ9ebnci5B9t7Nh) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) | 3:21 | 2022-03-29 | 2022-04-16 |
 | [HAPPY](https://open.spotify.com/track/1KFwBOa8gDqT7Avua2yxfe) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:00 | 2021-11-29 | 2022-07-28 |
 | [Heart Shaker](https://open.spotify.com/track/6WJWTeZExNu0X42hiegRVs) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Merry & Happy](https://open.spotify.com/album/7z35ak4YnECGLJADDJ4obf) | 3:06 | 2021-11-29 | 2022-07-28 |
+| [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-10-30 |  |
 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 | 2021-11-29 |  |
 | [Hide & Seek](https://open.spotify.com/track/5raZilw3cRQPgOTD9QkEYo) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 5th Mini Album 'The Blue'](https://open.spotify.com/album/6peri17gXJDs3LQeeD66ju) | 3:20 | 2022-03-29 | 2022-04-11 |
 | [Hit That Drum](https://open.spotify.com/track/7dafpAJczCDB1Pzz7bRSCh) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:12 | 2022-01-04 | 2022-04-14 |

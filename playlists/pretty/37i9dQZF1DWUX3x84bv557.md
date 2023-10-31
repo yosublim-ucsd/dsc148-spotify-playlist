@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Hannah Mae
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,065 likes - 68 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,070 likes - 68 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 67 | [Wakker](https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Wakker](https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL) | 2:19 |
 | 68 | [Elke Avond Feest](https://open.spotify.com/track/2w1tIkkgJWKfSensaU0vXd) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Elke Avond Feest](https://open.spotify.com/album/4LjBa0yk1oYtaOlwrbSVcZ) | 2:34 |
 
-Snapshot ID: `MCxlZTJlOGQxZmQ0YTcwMmQzMmE3MjFjOWRkZjgzMDQ3YzViZDIyOWRj`
+Snapshot ID: `MCxlOTYxODgzZjhjMGU5ZjBhZTRlZmUyMjczNWEyNGI4NWQyOTU0ODBk`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 7383,
+  "num_followers": 7395,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWU1YzY4MGY4NWI2NzY2MjJjNDU4YTEzNmU2OTM0MGMzYzNhZDdh",
+  "snapshot_id": "MCw2MmQ5ODVjYTQ2M2FlNzZkMGYyNWM2NzRiNTg5YmJmNTQzZTE2OTY2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 383036,
       "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -419,46 +419,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 189496,
-      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Real As It Gets (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 192804,
-      "name": "Real As It Gets (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "City On Lock",
         "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
@@ -479,6 +439,26 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 189496,
+      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Young and Turnt",
         "url": "https://open.spotify.com/album/10QfjPmSXM0Lt82GKlajKL"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 153958,
       "name": "Dog Food",
       "url": "https://open.spotify.com/track/3AnCVSpT7j6l8T8GBDUl6n"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Real As It Gets (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 192804,
+      "name": "Real As It Gets (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Errbody",
+        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 210698,
+      "name": "Errbody",
+      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) [Remix]",
         "url": "https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 144047,
       "name": "B*tch From Da Souf",
       "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Errbody",
-        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 210698,
-      "name": "Errbody",
-      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -719,26 +719,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Muwop (feat. Gucci Mane)",
-        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Muwop (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Dum and Dummer 2",
         "url": "https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 193515,
       "name": "Twerksum",
       "url": "https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Muwop (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Muwop (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -859,26 +859,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "I Hit It First - Single",
-        "url": "https://open.spotify.com/album/3SVqHW2Hq7hOtkN0AGU4RT"
-      },
-      "artists": [
-        {
-          "name": "Ray J",
-          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
-        },
-        {
-          "name": "Bobby Brackins",
-          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "I Hit It First",
-      "url": "https://open.spotify.com/track/6nJN1GYIHIdg1HQtrmJsqU"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "RNB (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 211213,
       "name": "RNB (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "I Hit It First - Single",
+        "url": "https://open.spotify.com/album/3SVqHW2Hq7hOtkN0AGU4RT"
+      },
+      "artists": [
+        {
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
+        },
+        {
+          "name": "Bobby Brackins",
+          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "I Hit It First",
+      "url": "https://open.spotify.com/track/6nJN1GYIHIdg1HQtrmJsqU"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -935,22 +935,18 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/7D7MbEqj5SqR0aFW5j9gid"
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
       "artists": [
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 190731,
-      "name": "Flewed Out",
-      "url": "https://open.spotify.com/track/59Q3Yzb5fUH3VSQfWAuRHX"
+      "duration_ms": 149066,
+      "name": "Broke Up In Miami",
+      "url": "https://open.spotify.com/track/4L1YERExL7737mCRSCuQxq"
     }
   ],
   "unique_name": "Justin Laboy's Taste",

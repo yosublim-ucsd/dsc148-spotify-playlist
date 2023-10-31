@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2000s.",
-  "num_followers": 128201,
+  "num_followers": 128347,
   "original_name": "Latin Chillout 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDZhMTZjNzQyYTQxNTNjZTU5OGE2ZTA5ZmUzNTZhMjQ4ZTcxZGQw",
+  "snapshot_id": "MCxiNWUzYzE5OTg2MjkzODljNTJhYjUzZTQ1NmJiZmNmMGI1MzAxM2Qy",
   "tracks": [
     {
       "added_at": "2022-12-30 17:16:00",
@@ -279,38 +279,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Fantas\u00eda o realidad",
-        "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Aunque no te pueda ver",
-      "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -323,6 +291,22 @@
       "duration_ms": 203226,
       "name": "Noviembre Sin Ti",
       "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -343,18 +327,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+        "name": "Fantas\u00eda o realidad",
+        "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
         }
       ],
-      "duration_ms": 227613,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
+      "duration_ms": 266666,
+      "name": "Aunque no te pueda ver",
+      "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -371,6 +355,22 @@
       "duration_ms": 233493,
       "name": "Te amo",
       "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Te Vi Venir",
+      "url": "https://open.spotify.com/track/3WpUm0g3LnhZcdMDmaj3XM"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Confesiones",
         "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
       },
@@ -507,38 +523,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Te Vi Venir",
-      "url": "https://open.spotify.com/track/3WpUm0g3LnhZcdMDmaj3XM"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Volverte A Ver",
-      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 182520,
-      "name": "S\u00f3lo para Ti",
-      "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -603,6 +587,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "S\u00f3lo para Ti",
+      "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "A las Cinco en el Astoria",
         "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 239240,
       "name": "Jueves",
       "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Desde Que Llegaste",
-      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -651,6 +635,22 @@
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Desde Que Llegaste",
+      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Aqui O Sistema \u00c9 Bruto",
         "url": "https://open.spotify.com/album/4FTV8aipNFzqQo10minF34"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 283706,
       "name": "Sin\u00f4nimos",
       "url": "https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Galeria Caribe",
-        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "M\u00e1s De Mi Alma",
         "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Galeria Caribe",
+        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Flamingos",
-        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 262120,
-      "name": "...Y al final",
-      "url": "https://open.spotify.com/track/3LR1Ienv3nT4S8gbsie6bA"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Mi Otro Yo",
         "url": "https://open.spotify.com/album/1KqtDyZKciHgtDI0jD5sDa"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 269360,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/0HpOft5SON0qXcoicEug2m"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Flamingos",
+        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 262120,
+      "name": "...Y al final",
+      "url": "https://open.spotify.com/track/3LR1Ienv3nT4S8gbsie6bA"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Vuelo",
-        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
-      },
-      "artists": [
-        {
-          "name": "Kudai",
-          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Ya Nada Queda",
-      "url": "https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Negroklaro",
         "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 230106,
       "name": "Duele (Crazy)",
       "url": "https://open.spotify.com/track/4sSfHheJ5F9G0bHiddFC6U"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Vuelo",
+        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
+      },
+      "artists": [
+        {
+          "name": "Kudai",
+          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Ya Nada Queda",
+      "url": "https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Paso A Paso",
+        "url": "https://open.spotify.com/album/43GuWlqbeht6837v73SsMw"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 239826,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/5ToI5oXnUmX5Nsmg8enL1N"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Quiz\u00e1s",
         "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 245266,
       "name": "Para Qu\u00e9 La Vida",
       "url": "https://open.spotify.com/track/4ZwU8VMYnkigKVJgSgTBtK"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Besame",
-        "url": "https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 236080,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG"
     }
   ],
   "unique_name": "Latin Chillout 00s",

@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 54089,
+  "num_followers": 54107,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTJiYmMyMGE0MTA1NWNiYWJmNDMxYjA1MDM4ZjgyYzFhZmViNzNh",
+  "snapshot_id": "MCw2ZmVlM2Y4MWIzMDdmNDI5YTk0MWY4YmU5ODVmOGM3MzVkY2I1NjM0",
   "tracks": [
     {
       "added_at": "2023-07-21 16:32:57",
@@ -267,34 +267,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Faroles",
-        "url": "https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        },
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        }
-      ],
-      "duration_ms": 178479,
-      "name": "Faroles",
-      "url": "https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Anclas",
         "url": "https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG"
       },
@@ -323,6 +295,34 @@
       "duration_ms": 266613,
       "name": "Historika",
       "url": "https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "Faroles",
+        "url": "https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "duration_ms": 178479,
+      "name": "Faroles",
+      "url": "https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Libres",
-        "url": "https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 221278,
-      "name": "Libres",
-      "url": "https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "One Blood (Una Sangre)",
         "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 226626,
       "name": "Dignificada",
       "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "Libres",
+        "url": "https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 221278,
+      "name": "Libres",
+      "url": "https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Nos Queremos Vivas",
-        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 220576,
-      "name": "Nos Queremos Vivas",
-      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Ovarios",
         "url": "https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk"
       },
@@ -1007,6 +991,38 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
+        "name": "Nos Queremos Vivas",
+        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 220576,
+      "name": "Nos Queremos Vivas",
+      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
+      },
+      "artists": [
+        {
+          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
+          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 190169,
       "name": "D\u00e9jame de Matar",
       "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
-      },
-      "artists": [
-        {
-          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
-          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Marta",
-        "url": "https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR"
+        "name": "Nunca Amor",
+        "url": "https://open.spotify.com/album/7c6CsAKYwhoAcNDcKJcx1z"
       },
       "artists": [
         {
-          "name": "Marta",
-          "url": "https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q"
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
         }
       ],
-      "duration_ms": 207452,
-      "name": "Otra Humanidad",
-      "url": "https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws"
+      "duration_ms": 186315,
+      "name": "Nunca Amor",
+      "url": "https://open.spotify.com/track/4mZuInt5AIL6PqDF1I2zRt"
     }
   ],
   "unique_name": "Himnos de Sororidad",

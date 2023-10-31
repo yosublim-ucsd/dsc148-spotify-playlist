@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 705024,
+  "num_followers": 705074,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjVkMDQ1YWEyNmM3N2E5YWIwMWM2ZTY0MmU3ZTgzMmJjZDBmNWEy",
+  "snapshot_id": "MCwzMWUzZGY4NGRmNThkNzRlYWYwNjFkMmRmMGNiMWFjZmJmYjMzMGNl",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 211141,
-      "name": "get him back!",
-      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 282205,
       "name": "Kilby Girl",
       "url": "https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 203369,
-      "name": "ballad of a homeschooled girl",
-      "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 203369,
+      "name": "ballad of a homeschooled girl",
+      "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "WHAT LOVE?",
-        "url": "https://open.spotify.com/album/1Fpn010jS6hIajqCDlpliR"
-      },
-      "artists": [
-        {
-          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
-          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
-        }
-      ],
-      "duration_ms": 195432,
-      "name": "WHAT LOVE?",
-      "url": "https://open.spotify.com/track/2UUFmHjjo2ZiqKUN5dkxr4"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "SELF TITLED",
         "url": "https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "WHAT LOVE?",
+        "url": "https://open.spotify.com/album/1Fpn010jS6hIajqCDlpliR"
+      },
+      "artists": [
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 195432,
+      "name": "WHAT LOVE?",
+      "url": "https://open.spotify.com/track/2UUFmHjjo2ZiqKUN5dkxr4"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Life Is Yours",
         "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "What Am I Missing?",
-      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 179000,
       "name": "sail away",
       "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "What Am I Missing?",
+      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Alone in the Mountains",
         "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+        "name": "It Will Never Be The Same",
+        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
         }
       ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 215986,
       "name": "Diving (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "It Will Never Be The Same",
-        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 250362,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "The Gutter",
-        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 174641,
-      "name": "6 Pack and Cigarettes",
-      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "KEEP IT UP",
         "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 183000,
       "name": "KEEP IT UP",
       "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "The Gutter",
+        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 174641,
+      "name": "6 Pack and Cigarettes",
+      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/1TGwCuVPI0jQIOknItuTvc"
-      },
-      "artists": [
-        {
-          "name": "The Heydaze",
-          "url": "https://open.spotify.com/artist/5UWH3rIlO4qbXk6PMFZEbP"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/4DZghpw50ZnO3ckfDuNkft"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Orca",
         "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 279691,
       "name": "Post Humorous",
       "url": "https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/1TGwCuVPI0jQIOknItuTvc"
+      },
+      "artists": [
+        {
+          "name": "The Heydaze",
+          "url": "https://open.spotify.com/artist/5UWH3rIlO4qbXk6PMFZEbP"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/4DZghpw50ZnO3ckfDuNkft"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1507,6 +1507,22 @@
       "duration_ms": 169573,
       "name": "Live A Little",
       "url": "https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2023-10-13 04:00:00",

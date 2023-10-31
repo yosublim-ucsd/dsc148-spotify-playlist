@@ -1,12 +1,12 @@
 {
   "description": "pov: you're crying and dancing at the same time. ",
-  "num_followers": 236475,
+  "num_followers": 236496,
   "original_name": "llorando en el club \ud83e\udd72",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTRjZTM0OWM4NWZiMzRhZjliNmIyNzNmOWRkZjEzZWEzOTNjZjE3",
+  "snapshot_id": "MCw5Y2YyODA2NDNiYTM3N2U0NDFhYzRiZGU0YzNjYjVkNTIzZDNhODI5",
   "tracks": [
     {
       "added_at": "2023-10-06 00:29:07",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-10-06 00:29:07",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2023-10-06 00:29:07",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
+    },
+    {
+      "added_at": "2023-10-06 00:29:07",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2023-10-06 00:29:07",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-10-06 00:29:07",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 217213,
-      "name": "200 COPAS",
-      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
+      "duration_ms": 175733,
+      "name": "11 PM",
+      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
     },
     {
       "added_at": "2023-10-06 00:29:07",
@@ -391,18 +391,34 @@
     {
       "added_at": "2023-10-06 00:29:07",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 175733,
-      "name": "11 PM",
-      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
+      "duration_ms": 170971,
+      "name": "Si Veo a Tu Mam\u00e1",
+      "url": "https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F"
+    },
+    {
+      "added_at": "2023-10-06 00:29:07",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "200 COPAS",
+      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
     },
     {
       "added_at": "2023-10-06 00:29:07",
@@ -471,18 +487,18 @@
     {
       "added_at": "2023-10-06 00:29:07",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 170971,
-      "name": "Si Veo a Tu Mam\u00e1",
-      "url": "https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F"
+      "duration_ms": 201180,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
     },
     {
       "added_at": "2023-10-06 00:29:07",
@@ -499,6 +515,22 @@
       "duration_ms": 255712,
       "name": "Cosa Guapa",
       "url": "https://open.spotify.com/track/7aWiJeMyxxPEyjwvZyauAF"
+    },
+    {
+      "added_at": "2023-10-06 00:29:07",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 148143,
+      "name": "Un Verano Sin Ti",
+      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
     },
     {
       "added_at": "2023-10-06 00:29:07",
@@ -567,22 +599,6 @@
     {
       "added_at": "2023-10-06 00:29:07",
       "album": {
-        "name": "Sobrio",
-        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 201180,
-      "name": "Sobrio",
-      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
-    },
-    {
-      "added_at": "2023-10-06 00:29:07",
-      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -643,6 +659,22 @@
     {
       "added_at": "2023-10-06 00:29:07",
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 170535,
+      "name": "Desenfocao'",
+      "url": "https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA"
+    },
+    {
+      "added_at": "2023-10-06 00:29:07",
+      "album": {
         "name": "Error 93",
         "url": "https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O"
       },
@@ -680,25 +712,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 148143,
-      "name": "Un Verano Sin Ti",
-      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
-    },
-    {
-      "added_at": "2023-10-06 00:29:07",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 170535,
-      "name": "Desenfocao'",
-      "url": "https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA"
+      "duration_ms": 230704,
+      "name": "Yo No Soy Celoso",
+      "url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1"
     },
     {
       "added_at": "2023-10-06 00:29:07",
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-10-06 00:29:07",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230704,
-      "name": "Yo No Soy Celoso",
-      "url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1"
-    },
-    {
-      "added_at": "2023-10-06 00:29:07",
-      "album": {
         "name": "Felicilandia",
         "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-10-06 00:29:07",
       "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
-    },
-    {
-      "added_at": "2023-10-06 00:29:07",
-      "album": {
         "name": "Plan A",
         "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 178202,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
+    },
+    {
+      "added_at": "2023-10-06 00:29:07",
+      "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
     },
     {
       "added_at": "2023-10-06 00:29:07",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-10-06 00:29:07",
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+    },
+    {
+      "added_at": "2023-10-06 00:29:07",
+      "album": {
         "name": "Amapolas (Remix)",
         "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 267338,
       "name": "Amapolas - Remix",
       "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
-    },
-    {
-      "added_at": "2023-10-06 00:29:07",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
       "added_at": "2023-10-06 00:29:07",

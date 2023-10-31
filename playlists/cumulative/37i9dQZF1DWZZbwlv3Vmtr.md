@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-816 songs - 1 day 7 hr 44 min
+818 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [actually](https://open.spotify.com/track/2dg8COfiazX55vr3qeoIZB) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [actually](https://open.spotify.com/album/2ypI9Zr48QaenckUpp8SgA) | 2:01 | 2023-01-06 |  |
 | [Adrift](https://open.spotify.com/track/5LtSbDktkoCBD4tO1rEwoq) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Luke Tidbury](https://open.spotify.com/artist/4g1NSdBab7fmTNzr8UKVJP), [Pevanni](https://open.spotify.com/artist/3YG6GacnNybthfkmJbsaVE) | [Eudaemonia](https://open.spotify.com/album/0PkkyOxcvloLmgvm8GmnQt) | 1:45 | 2022-11-25 | 2023-10-20 |
 | [Aesthetics](https://open.spotify.com/track/2msdkpUBE5J9k4zbGeng6n) | [elephvnt](https://open.spotify.com/artist/5q1SBpeVA2vh8h9gfxjY36) | [Aesthetics](https://open.spotify.com/album/2xD6hfBIn6muHL7MwNuXQ4) | 1:49 | 2022-04-15 | 2022-04-22 |
-| [Affirmations](https://open.spotify.com/track/0k8Z6E4Jbx11Y9pwPo7BEA) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Affirmations](https://open.spotify.com/album/4rPQSr2OlsePkDkfNKesm9) | 1:52 | 2022-05-20 |  |
+| [Affirmations](https://open.spotify.com/track/0k8Z6E4Jbx11Y9pwPo7BEA) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Affirmations](https://open.spotify.com/album/4rPQSr2OlsePkDkfNKesm9) | 1:52 | 2022-05-20 | 2023-10-31 |
 | [After Hours](https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [After Hours](https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI) | 2:03 | 2023-10-13 |  |
 | [After meal](https://open.spotify.com/track/2YM708xoJMb7ZV3cGl9dMx) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [Coffee Stand](https://open.spotify.com/album/4T8kEchzLMpyPlHzrqMRbZ) | 1:54 | 2022-04-15 | 2022-05-14 |
 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 | 2022-04-15 |  |
@@ -93,6 +93,7 @@
 | [Calypso's Groove](https://open.spotify.com/track/32CSGiAJ3IJTyIWBG1K2CC) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Calypso's Groove](https://open.spotify.com/album/1yPQjGsSWcfXbrA4qazF2U) | 2:04 | 2023-07-19 |  |
 | [Cameo](https://open.spotify.com/track/30OXkzWR9otpCgUpAPrtPA) | [Jazzarama](https://open.spotify.com/artist/3yNVU8t50pOgeeaiEtGKMe) | [Vacation Plans](https://open.spotify.com/album/3ALLfEOHgPmkVrjehNyb9D) | 2:33 | 2022-04-15 | 2022-05-14 |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2022-04-15 |  |
+| [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 | 2023-10-27 |  |
 | [Candlestick Oasis](https://open.spotify.com/track/4dN47mXIJJOj4b7qRJ1zQf) | [Convoy Gold](https://open.spotify.com/artist/5ZEKAN1x3N50gFfs6VXTXC) | [Under the Leaden Sky](https://open.spotify.com/album/0f8gMNOxgUraGCPFeuWzFm) | 3:14 | 2022-04-15 |  |
 | [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 | 2022-09-02 |  |
 | [Carpo](https://open.spotify.com/track/7HTAqdN7u1e1KbFM9KdWK4) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Carpo](https://open.spotify.com/album/0PjCTfG71aDSibVzzseWmo) | 3:01 | 2022-05-20 | 2022-06-03 |
@@ -221,6 +222,7 @@
 | [Forget Me](https://open.spotify.com/track/2wcYsFNK8fcukgzHheFala) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Forget Me](https://open.spotify.com/album/6YAYbUJ6GveB0hSgXBBcFZ) | 1:40 | 2022-11-11 |  |
 | [Forgiveness](https://open.spotify.com/track/72MhlqX4Eb1IyMJq486XRN) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [Forgiveness](https://open.spotify.com/album/41pBXLIfbweKQn6S9KSywT) | 3:43 | 2022-06-03 | 2022-08-19 |
 | [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-15 |  |
+| [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2023-10-27 |  |
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-15 |  |
 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 |  |
 | [Fried Beans](https://open.spotify.com/track/2rG2JAPKFQxDZXcf6pUO5S) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Fried Beans](https://open.spotify.com/album/6whOtrxJvVArWYlyii3TnO) | 2:04 | 2022-04-15 |  |
@@ -639,7 +641,7 @@
 | [Space Whale](https://open.spotify.com/track/5EIM4pAvU17vH3hs00Q5Z2) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK), [aitlofi](https://open.spotify.com/artist/2LhvxbUfc5pT3NRKkO3UMH) | [Space Whale](https://open.spotify.com/album/0UaSTg34G9s1EaNED2VDXc) | 2:03 | 2022-07-22 | 2023-10-13 |
 | [Spanish Tea](https://open.spotify.com/track/0crQI3ryIPyMbWxcI25mYf) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Spanish Tea](https://open.spotify.com/album/5hUlagOKj7afZAb2q09ZcK) | 2:03 | 2022-04-15 | 2023-07-20 |
 | [Spare No Expense](https://open.spotify.com/track/3ImEq34pURQUCLppdFOap6) | [Snuff Audio](https://open.spotify.com/artist/7m7jvc1wS04q47pXO3MdsX) | [Spare No Expense](https://open.spotify.com/album/4etkVtVjvsEjUXL5hxgCsa) | 1:54 | 2022-10-14 | 2023-07-20 |
-| [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2022-11-11 |  |
+| [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2022-11-11 | 2023-10-31 |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-04-15 | 2022-05-14 |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |
 | [Spoiler Alert](https://open.spotify.com/track/3Yabo5fHrlueQUfOtjxTU9) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Spoiler Alert](https://open.spotify.com/album/50Ymg0VYsiVGcU8TBpukRm) | 2:23 | 2023-07-19 |  |

@@ -10181,6 +10181,24 @@
     },
     {
       "album": {
+        "name": "Szebb napok",
+        "url": "https://open.spotify.com/album/1DlFaOSzXwJTrq48Hd3urD"
+      },
+      "artists": [
+        {
+          "name": "4s Street",
+          "url": "https://open.spotify.com/artist/3W75Q3HN7adHVSjjRJX1ap"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Mes\u00e9lek a bornak",
+      "url": "https://open.spotify.com/track/7guuxhxRSe7SDCYIkxodUx"
+    },
+    {
+      "album": {
         "name": "Holdvil\u00e1g Club Hotel & Casino",
         "url": "https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS"
       },
@@ -14172,7 +14190,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 279833,
       "name": "Say Don't Go (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"

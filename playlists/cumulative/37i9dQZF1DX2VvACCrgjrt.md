@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Tchami & Malaa
 
-563 songs - 1 day 5 hr 46 min
+564 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2hcqLu8Hhu2yJd5h4T4WDf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bad Bitches \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4M6gPtD9TwGXqZLpAcUSqJ) | 2:32 | 2021-10-29 | 2022-07-30 |
 | [Bad Habits](https://open.spotify.com/track/4vHD0COWoTJaM3n7fjZxUh) | [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo) | [Bad Habits](https://open.spotify.com/album/4YBnsXCxihliyjta7YFaIO) | 3:33 | 2021-10-29 | 2022-05-28 |
 | [Bad Ideas](https://open.spotify.com/track/6JldodvJhq2bQYeY1cAktQ) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [Bad Ideas](https://open.spotify.com/album/0734OZBYsKOcfj9cod4dNq) | 3:27 | 2023-07-28 |  |
+| [BAD OMENS](https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [BAD OMENS](https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0) | 2:27 | 2023-10-27 |  |
 | [Bad Things](https://open.spotify.com/track/3DyZ2YzyCsfF5BPocC8bDv) | [Not The Father](https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0), [Fox'd](https://open.spotify.com/artist/5AyexHM8AroaTVBLFEKiKS) | [Bad Things](https://open.spotify.com/album/2S6zhG10NHbiK5F5pkoQoz) | 2:48 | 2023-03-31 | 2023-04-23 |
 | [Badder](https://open.spotify.com/track/4ZrPmCZRTkZSWYeH3KD7Uh) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Badder](https://open.spotify.com/album/6bn2OYT6wzSlegYgLW1RuB) | 3:28 | 2023-04-21 | 2023-05-21 |
 | [Badman](https://open.spotify.com/track/7xrLwvKLrZfzLvoBOdoEUf) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Badman](https://open.spotify.com/album/7sxpxDeIV46p5amup1Wrcq) | 3:18 | 2021-10-29 | 2022-01-20 |
@@ -114,7 +115,7 @@
 | [Chocolate](https://open.spotify.com/track/0WYJ11EFojH6SjUTi3xVXI) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Chocolate](https://open.spotify.com/album/2fvEeYWxMM3FHMriKdrKKZ) | 2:56 | 2021-10-29 | 2022-01-17 |
 | [Chop It Up](https://open.spotify.com/track/0KJAVizRhvcLNd2f8QxhdI) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [SPLASHWOE](https://open.spotify.com/artist/6ym17k1ZaNgqTHC5mwumsy) | [Chop It Up](https://open.spotify.com/album/0OawUd5gm7MqmwHSdyye76) | 3:35 | 2021-10-29 | 2022-04-02 |
 | [City Of Lights](https://open.spotify.com/track/0g9y5TxBEyAyGmY3O2ZKAH) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [City Of Lights](https://open.spotify.com/album/0lhKewAQzYzvNyONpUKhjE) | 3:17 | 2022-08-26 | 2023-01-22 |
-| [Closer](https://open.spotify.com/track/655qrPH2ktkBC20SGffBAj) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Closer](https://open.spotify.com/album/1lzlyna8QYmGs1QRzfe73K) | 2:34 | 2023-06-16 |  |
+| [Closer](https://open.spotify.com/track/655qrPH2ktkBC20SGffBAj) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Closer](https://open.spotify.com/album/1lzlyna8QYmGs1QRzfe73K) | 2:34 | 2023-06-16 | 2023-10-31 |
 | [Code Blue](https://open.spotify.com/track/1S7zKcXAnr3G65hGnUq4MY) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Elcamino](https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg) | [Code Blue](https://open.spotify.com/album/1hTIUorQRxlzlh1BCwc3E8) | 3:39 | 2021-10-29 | 2022-05-28 |
 | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/track/3BXkQUkKCPQzB8FitUJh4N) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/album/0imeEEICV87asg6t6YTv9z) | 4:16 | 2021-10-29 | 2022-12-21 |
 | [Come Over](https://open.spotify.com/track/1Zw0EkCEoEtHTzmZV3UlIf) | [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv) | [Come Over](https://open.spotify.com/album/2jzHwNoy3czD29KqeAvXLl) | 3:01 | 2022-01-21 | 2023-03-04 |

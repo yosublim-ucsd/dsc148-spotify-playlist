@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: TOFFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,937 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,950 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [Stay](https://open.spotify.com/track/12fWIindDPAAsaPXPSAYJK) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Stay](https://open.spotify.com/album/5MwGuY9wRplZgMtA1Bn1UV) | 3:27 |
 | 50 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 |
 
-Snapshot ID: `MCxkMDFjNzU1ZDM2ZTIwZTYzZGY3M2MzNGM2MzQyMzM4NWQ2MTY5MmQw`
+Snapshot ID: `MCw4MjZiZjAyM2EyOTQzYWZjMjM2MTE0NmNhN2Y3ZTVjMWY0NmUzYTNl`

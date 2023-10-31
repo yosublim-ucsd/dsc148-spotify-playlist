@@ -1,12 +1,12 @@
 {
   "description": "Tudo de novo que t\u00e1 rolando no pop! Atualizada toda semana \u2728 Foto: Taylor Swift",
-  "num_followers": 122031,
+  "num_followers": 122074,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGExODcxOWU0NDY0MWU5NzAxYjg4MmE1NmQwMThlNzJkNjFhNzBh",
+  "snapshot_id": "MCwxMzJlOGM3MGJjOTJlMzEzNTQ3ZGFmN2RmMjAzZTM2NGE0ZWFiYmY0",
   "tracks": [
     {
       "added_at": "2023-10-27 15:53:42",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-10-27 15:53:42",
       "album": {
-        "name": "UN PREVIEW",
-        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 165582,
-      "name": "UN PREVIEW",
-      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
-    },
-    {
-      "added_at": "2023-10-27 15:53:42",
-      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -299,6 +283,22 @@
     {
       "added_at": "2023-10-27 15:53:42",
       "album": {
+        "name": "UN PREVIEW",
+        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
+    },
+    {
+      "added_at": "2023-10-27 15:53:42",
+      "album": {
         "name": "Slime You Out",
         "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
       },
@@ -315,6 +315,30 @@
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
+    {
+      "added_at": "2023-10-27 15:53:42",
+      "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
       "added_at": "2023-10-27 15:53:42",
@@ -355,30 +379,6 @@
     {
       "added_at": "2023-10-27 15:53:42",
       "album": {
-        "name": "TOO MUCH",
-        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 203894,
-      "name": "TOO MUCH",
-      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
-    },
-    {
-      "added_at": "2023-10-27 15:53:42",
-      "album": {
         "name": "older",
         "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-10-27 15:53:42",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
-    },
-    {
-      "added_at": "2023-10-27 15:53:42",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2023-10-27 15:53:42",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
     },
     {
       "added_at": "2023-10-27 15:53:42",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-10-27 15:53:42",
       "album": {
-        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
-        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "THE GIRLS - BLACKPINK THE GAME OST",
-      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
-    },
-    {
-      "added_at": "2023-10-27 15:53:42",
-      "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2023-10-27 15:53:42",
+      "album": {
+        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
+        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "THE GIRLS - BLACKPINK THE GAME OST",
+      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
     },
     {
       "added_at": "2023-10-27 15:53:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-27 15:53:42",
       "album": {
-        "name": "JENNIE Special Single [You & Me]",
-        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 179864,
-      "name": "You & Me (Coachella ver.)",
-      "url": "https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi"
-    },
-    {
-      "added_at": "2023-10-27 15:53:42",
-      "album": {
         "name": "AMERICAN HORROR SHOW",
         "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
+    {
+      "added_at": "2023-10-27 15:53:42",
+      "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 179864,
+      "name": "You & Me (Coachella ver.)",
+      "url": "https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi"
     },
     {
       "added_at": "2023-10-27 15:53:42",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-27 15:53:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
-    },
-    {
-      "added_at": "2023-10-27 15:53:42",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 170261,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
+    },
+    {
+      "added_at": "2023-10-27 15:53:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
       "added_at": "2023-10-27 15:53:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-27 15:53:42",
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Hold On To Now",
-      "url": "https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR"
-    },
-    {
-      "added_at": "2023-10-27 15:53:42",
-      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-10-27 15:53:42",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 132213,
-      "name": "Broken is the man",
-      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
+      "duration_ms": 237866,
+      "name": "Hold On To Now",
+      "url": "https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR"
     },
     {
       "added_at": "2023-10-27 15:53:42",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2023-10-27 15:53:42",
       "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
       "artists": [
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 163392,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
+      "duration_ms": 132213,
+      "name": "Broken is the man",
+      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
     },
     {
       "added_at": "2023-10-27 15:53:42",
@@ -1199,6 +1183,22 @@
       "duration_ms": 183566,
       "name": "closure",
       "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
+    },
+    {
+      "added_at": "2023-10-27 15:53:42",
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 163392,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
     },
     {
       "added_at": "2023-10-27 15:53:42",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-10-27 15:53:42",
       "album": {
-        "name": "Doing Time",
-        "url": "https://open.spotify.com/album/1342PPedHNr7saPwjTQcIy"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 142545,
-      "name": "Doing Time",
-      "url": "https://open.spotify.com/track/46U6Q6qD71twELCau5AKMr"
-    },
-    {
-      "added_at": "2023-10-27 15:53:42",
-      "album": {
         "name": "Solta-te",
         "url": "https://open.spotify.com/album/6xPbkBh6qJsdV2T427pWzL"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 188800,
       "name": "Solta-te",
       "url": "https://open.spotify.com/track/2UI3cAPpvUIQDVxZZn9WUo"
+    },
+    {
+      "added_at": "2023-10-27 15:53:42",
+      "album": {
+        "name": "Doing Time",
+        "url": "https://open.spotify.com/album/1342PPedHNr7saPwjTQcIy"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 142545,
+      "name": "Doing Time",
+      "url": "https://open.spotify.com/track/46U6Q6qD71twELCau5AKMr"
     },
     {
       "added_at": "2023-10-27 15:53:42",

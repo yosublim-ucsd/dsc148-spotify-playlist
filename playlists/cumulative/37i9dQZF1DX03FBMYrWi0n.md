@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Bibi Club
 
-144 songs - 8 hr 24 min
+145 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Combien ça coûte](https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6) | 2:43 | 2023-08-18 |  |
 | [Comfort, Edge](https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:43 | 2023-02-10 |  |
 | [Cool et branchée](https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Cool et branchée](https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz) | 2:57 | 2023-09-08 |  |
-| [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2023-02-10 |  |
+| [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2023-02-10 | 2023-10-31 |
 | [creusercreuser](https://open.spotify.com/track/6SGNMZl1YURiOVxiYyZZuZ) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [creusercreuser](https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP) | 4:17 | 2023-02-10 | 2023-04-21 |
 | [Dans tes rêves](https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Des feux pour voir](https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd) | 4:03 | 2023-02-10 | 2023-06-30 |
 | [Demande\-moi](https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:20 | 2023-02-10 |  |
@@ -126,6 +126,7 @@
 | [Si oui ou non](https://open.spotify.com/track/0OPEi21gk2S0fg8yMRcews) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Si oui ou non](https://open.spotify.com/album/1BBSrtHVh6HuAmaOVgahGm) | 2:20 | 2023-06-02 | 2023-06-17 |
 | [Still Stained](https://open.spotify.com/track/5l6cpf17q2eIOzYQvbhtwa) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Still Stained](https://open.spotify.com/album/7yam2gXzNOxkeHDPZQOOPv) | 3:01 | 2023-06-30 | 2023-08-23 |
 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2023-02-10 | 2023-10-23 |
+| [Sweet montérégie](https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3) | 3:49 | 2023-10-27 |  |
 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 | 2023-02-10 | 2023-08-03 |
 | [Ta yeule, toute va ben](https://open.spotify.com/track/2WSaDhLKwesu1YFWdFoB5u) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Ta yeule, toute va ben](https://open.spotify.com/album/7czM4O7ElmQ8WOCrav1Vxf) | 2:24 | 2023-02-10 | 2023-03-25 |
 | [Tarantula](https://open.spotify.com/track/5Q69nHzNXnU4jpmwUsB4DK) | [Gus Englehorn](https://open.spotify.com/artist/5DL9yEXrWKddfCe8SxM08Z) | [Dungeon Master](https://open.spotify.com/album/2WA0YbN1rdESR8aRLcl5hM) | 3:26 | 2023-02-10 | 2023-03-27 |

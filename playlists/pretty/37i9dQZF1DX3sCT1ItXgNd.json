@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 987905,
+  "num_followers": 987967,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTViMWU0YTA0NDNhOTJiNGU2NzJkNDdlZDU4Yjc3ODlkMmFiZWVi",
+  "snapshot_id": "MCxhYWZhMWJmMGQ3MWJkNzlhYjlmNGQwMzY0NDNkMjY1ZjBhNjUxMDQy",
   "tracks": [
     {
       "added_at": "2023-10-27 17:45:24",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "Someone I Used To Know",
-        "url": "https://open.spotify.com/album/0jHmLiL2rX5R8KLQ5lNiBf"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "Someone I Used to Know",
-      "url": "https://open.spotify.com/track/6JZD3cr8CTNOmZg205emdw"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -431,18 +411,22 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
+        "name": "Hoy Festejo",
+        "url": "https://open.spotify.com/album/2EchHhx889NsqylPaAzboM"
       },
       "artists": [
         {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 165855,
-      "name": "La Noche Perfecta",
-      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
+      "duration_ms": 164119,
+      "name": "Hoy Festejo",
+      "url": "https://open.spotify.com/track/5VzeBUPnyf9rWSPkEFeL6X"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -467,42 +451,38 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "Olvid\u00e9 Olvidarte",
-        "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
+        "name": "Someone I Used To Know",
+        "url": "https://open.spotify.com/album/0jHmLiL2rX5R8KLQ5lNiBf"
       },
       "artists": [
         {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         },
         {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Olvid\u00e9 Olvidarte",
-      "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
+      "duration_ms": 175833,
+      "name": "Someone I Used to Know",
+      "url": "https://open.spotify.com/track/6JZD3cr8CTNOmZg205emdw"
     },
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "Hoy Festejo",
-        "url": "https://open.spotify.com/album/2EchHhx889NsqylPaAzboM"
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
       },
       "artists": [
         {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
         }
       ],
-      "duration_ms": 164119,
-      "name": "Hoy Festejo",
-      "url": "https://open.spotify.com/track/5VzeBUPnyf9rWSPkEFeL6X"
+      "duration_ms": 165855,
+      "name": "La Noche Perfecta",
+      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -523,6 +503,26 @@
       "duration_ms": 188345,
       "name": "Hablando En Plata",
       "url": "https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
+        "name": "Olvid\u00e9 Olvidarte",
+        "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Olvid\u00e9 Olvidarte",
+      "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "Poquito a Poquito",
-        "url": "https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Poquito a Poquito",
-      "url": "https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
         "name": "PORTARSE MAL",
         "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
+        "name": "Poquito a Poquito",
+        "url": "https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Poquito a Poquito",
+      "url": "https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
         "name": "bellodrama",
         "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
+        "name": "El Olor De Tu Pelo",
+        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "El Olor De Tu Pelo",
+      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
         "name": "Canci\u00f3n de pop",
         "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
       },
@@ -795,26 +811,6 @@
       "duration_ms": 139876,
       "name": "Canci\u00f3n de pop",
       "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
-        "name": "Copita Champagne",
-        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
-      },
-      "artists": [
-        {
-          "name": "Mireya Rivas",
-          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
-        },
-        {
-          "name": "Chema Rivas",
-          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Copita Champagne",
-      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -839,18 +835,22 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
-        "name": "El Olor De Tu Pelo",
-        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
+        "name": "Copita Champagne",
+        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
       },
       "artists": [
         {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+          "name": "Mireya Rivas",
+          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
+        },
+        {
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
         }
       ],
-      "duration_ms": 163448,
-      "name": "El Olor De Tu Pelo",
-      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
+      "duration_ms": 163000,
+      "name": "Copita Champagne",
+      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -891,22 +891,6 @@
       "duration_ms": 163505,
       "name": "Un Rato pa Siempre",
       "url": "https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
-        "name": "VUELA ALTO",
-        "url": "https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 201206,
-      "name": "MI BANDERA",
-      "url": "https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -955,6 +939,26 @@
     {
       "added_at": "2023-10-27 17:45:24",
       "album": {
+        "name": "Con Solo una Sonrisa",
+        "url": "https://open.spotify.com/album/5PsdC4KHAN21WOZN0sW8zP"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        }
+      ],
+      "duration_ms": 234611,
+      "name": "Con Solo una Sonrisa",
+      "url": "https://open.spotify.com/track/6mu9zsveVti5Tf4gVs0LLR"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
         "name": "En el mismo bar",
         "url": "https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF"
       },
@@ -975,26 +979,6 @@
       "duration_ms": 162500,
       "name": "En el mismo bar",
       "url": "https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9"
-    },
-    {
-      "added_at": "2023-10-27 17:45:24",
-      "album": {
-        "name": "Con Solo una Sonrisa",
-        "url": "https://open.spotify.com/album/5PsdC4KHAN21WOZN0sW8zP"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        }
-      ],
-      "duration_ms": 234611,
-      "name": "Con Solo una Sonrisa",
-      "url": "https://open.spotify.com/track/6mu9zsveVti5Tf4gVs0LLR"
     },
     {
       "added_at": "2023-10-27 17:45:24",
@@ -1035,6 +1019,22 @@
       "duration_ms": 227628,
       "name": "Que se caiga el cielo",
       "url": "https://open.spotify.com/track/5hpOWFyKa1hvE5DnCoGV2A"
+    },
+    {
+      "added_at": "2023-10-27 17:45:24",
+      "album": {
+        "name": "Lugar Para\u00edso",
+        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
     },
     {
       "added_at": "2023-10-27 17:45:24",

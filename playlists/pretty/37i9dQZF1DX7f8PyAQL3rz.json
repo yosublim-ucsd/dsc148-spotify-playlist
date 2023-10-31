@@ -1,12 +1,12 @@
 {
   "description": "o genro que toda sogra queria, simplesmente thiago veigh",
-  "num_followers": 1272913,
+  "num_followers": 1273648,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDhhZDUzODEwNjdiY2NkMThiZjU5MzgxMDRkMGRlOTNiODA4OTgx",
+  "snapshot_id": "MCw0MTRhNDRkZDQwMjM0OTU5NWNlZGY2YjEwOTFhZDBmODJkNzUwMzBh",
   "tracks": [
     {
       "added_at": "2023-10-27 14:00:09",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-10-27 14:00:09",
       "album": {
-        "name": "Faz Completo, Chefe",
-        "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ WN",
-          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        }
-      ],
-      "duration_ms": 127228,
-      "name": "Faz Completo, Chefe",
-      "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
-    },
-    {
-      "added_at": "2023-10-27 14:00:09",
-      "album": {
         "name": "Cart\u00e3o Black",
         "url": "https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 159973,
       "name": "Cart\u00e3o Black",
       "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"
+    },
+    {
+      "added_at": "2023-10-27 14:00:09",
+      "album": {
+        "name": "Faz Completo, Chefe",
+        "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        }
+      ],
+      "duration_ms": 127228,
+      "name": "Faz Completo, Chefe",
+      "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
     },
     {
       "added_at": "2023-10-27 14:00:09",
@@ -779,6 +779,34 @@
     {
       "added_at": "2023-10-27 14:00:09",
       "album": {
+        "name": "Mandona (Se eu te dissesse)",
+        "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Mandona (Se eu te dissesse)",
+      "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
+    },
+    {
+      "added_at": "2023-10-27 14:00:09",
+      "album": {
         "name": "Fernando de Noronha",
         "url": "https://open.spotify.com/album/1txWGY681VHHA99JdD7LcH"
       },
@@ -831,34 +859,6 @@
       "duration_ms": 510697,
       "name": "Fernando de Noronha",
       "url": "https://open.spotify.com/track/1jrBamLozddSX0DOjJTj31"
-    },
-    {
-      "added_at": "2023-10-27 14:00:09",
-      "album": {
-        "name": "Mandona (Se eu te dissesse)",
-        "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Mandona (Se eu te dissesse)",
-      "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
     },
     {
       "added_at": "2023-10-27 14:00:09",
@@ -1047,6 +1047,38 @@
     {
       "added_at": "2023-10-27 14:00:09",
       "album": {
+        "name": "Meca Cereja",
+        "url": "https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 234193,
+      "name": "Meca Cereja",
+      "url": "https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ"
+    },
+    {
+      "added_at": "2023-10-27 14:00:09",
+      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -1083,6 +1115,26 @@
     {
       "added_at": "2023-10-27 14:00:09",
       "album": {
+        "name": "Se Voc\u00ea For Embora",
+        "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Langris",
+          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
+        }
+      ],
+      "duration_ms": 130496,
+      "name": "Se Voc\u00ea for Embora",
+      "url": "https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS"
+    },
+    {
+      "added_at": "2023-10-27 14:00:09",
+      "album": {
         "name": "N\u00c9 SEGREDO",
         "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
       },
@@ -1107,74 +1159,6 @@
     {
       "added_at": "2023-10-27 14:00:09",
       "album": {
-        "name": "Meca Cereja",
-        "url": "https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 234193,
-      "name": "Meca Cereja",
-      "url": "https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ"
-    },
-    {
-      "added_at": "2023-10-27 14:00:09",
-      "album": {
-        "name": "Se Voc\u00ea For Embora",
-        "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Langris",
-          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
-        }
-      ],
-      "duration_ms": 130496,
-      "name": "Se Voc\u00ea for Embora",
-      "url": "https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS"
-    },
-    {
-      "added_at": "2023-10-27 14:00:09",
-      "album": {
-        "name": "Fim de Semana no Rio",
-        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Fim de Semana no Rio",
-      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
-    },
-    {
-      "added_at": "2023-10-27 14:00:09",
-      "album": {
         "name": "Manual de Como Amar Errado",
         "url": "https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I"
       },
@@ -1195,42 +1179,6 @@
       "duration_ms": 194400,
       "name": "Brinca Demais",
       "url": "https://open.spotify.com/track/1JzMOnuyabzpRuSudDD4Cq"
-    },
-    {
-      "added_at": "2023-10-27 14:00:09",
-      "album": {
-        "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
-        "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
-      "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
     },
     {
       "added_at": "2023-10-27 14:00:09",
@@ -1263,6 +1211,22 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
+    },
+    {
+      "added_at": "2023-10-27 14:00:09",
+      "album": {
+        "name": "Fim de Semana no Rio",
+        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Fim de Semana no Rio",
+      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
     },
     {
       "added_at": "2023-10-27 14:00:09",
@@ -1307,34 +1271,38 @@
     {
       "added_at": "2023-10-27 14:00:09",
       "album": {
-        "name": "Nota D\u00f3",
-        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
+        "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+        "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         },
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         },
         {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
           "name": "Vulgo FK",
           "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "DJ DuBom",
-          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         }
       ],
-      "duration_ms": 202550,
-      "name": "Nota D\u00f3",
-      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
+      "duration_ms": 228571,
+      "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+      "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
     },
     {
       "added_at": "2023-10-27 14:00:09",
@@ -1419,6 +1387,38 @@
     {
       "added_at": "2023-10-27 14:00:09",
       "album": {
+        "name": "Nota D\u00f3",
+        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DJ DuBom",
+          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
+        }
+      ],
+      "duration_ms": 202550,
+      "name": "Nota D\u00f3",
+      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
+    },
+    {
+      "added_at": "2023-10-27 14:00:09",
+      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -1447,6 +1447,34 @@
       "duration_ms": 215520,
       "name": "M\u00e1goa e Rancor (feat. Portugal No Beat)",
       "url": "https://open.spotify.com/track/6MAmqRj8wEiIULizWgEBd9"
+    },
+    {
+      "added_at": "2023-10-27 14:00:09",
+      "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 229894,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
     },
     {
       "added_at": "2023-10-27 14:00:09",
@@ -1579,30 +1607,22 @@
     {
       "added_at": "2023-10-27 14:00:09",
       "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
+        "name": "Faz Assim",
+        "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
       },
       "artists": [
         {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 229894,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
+      "duration_ms": 217263,
+      "name": "Faz Assim",
+      "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
     },
     {
       "added_at": "2023-10-27 14:00:09",
@@ -1627,26 +1647,6 @@
       "duration_ms": 133622,
       "name": "Dacoromode",
       "url": "https://open.spotify.com/track/3shEtQGZ9N4B5sRHtpG7Hs"
-    },
-    {
-      "added_at": "2023-10-27 14:00:09",
-      "album": {
-        "name": "Faz Assim",
-        "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "Faz Assim",
-      "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
     },
     {
       "added_at": "2023-10-27 14:00:09",

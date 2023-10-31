@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: King Promise & Gabzy",
-  "num_followers": 216526,
+  "num_followers": 216586,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzc5YjUzNjcwMDhjZTJkMzhhNjBkOTRkZWQxNjg5ZGQ2YjU4NmUz",
+  "snapshot_id": "MCw3YmI5NWFmOGNiZWM4ZTAyOTNlNzBhZGE5YjMzNDc2Y2M5OGM3Yjll",
   "tracks": [
     {
       "added_at": "2023-10-27 00:01:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 168510,
       "name": "Routine Lover",
       "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -347,22 +347,6 @@
       "duration_ms": 167142,
       "name": "4LYFE",
       "url": "https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 160611,
-      "name": "Jara",
-      "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -443,6 +427,22 @@
       "duration_ms": 153250,
       "name": "Sunflawa",
       "url": "https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 160611,
+      "name": "Jara",
+      "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
-      },
-      "artists": [
-        {
-          "name": "JZyNo",
-          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 182442,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
         "name": "Line Of Fire",
         "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
+      },
+      "artists": [
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 182442,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
+        "name": "Khartoum",
+        "url": "https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 142719,
+      "name": "Khartoum (with Adekunle Gold)",
+      "url": "https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5"
+    },
+    {
+      "added_at": "2023-10-27 00:01:00",
+      "album": {
         "name": "Life Is Better Now",
         "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
       },
@@ -963,22 +983,22 @@
     {
       "added_at": "2023-10-27 00:01:00",
       "album": {
-        "name": "Khartoum",
-        "url": "https://open.spotify.com/album/5flPonJ0HI6M26uzBwNWvS"
+        "name": "Kiss 'N' Tell",
+        "url": "https://open.spotify.com/album/5ymb4OcOb0HkTHVaruOQ9B"
       },
       "artists": [
         {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
         },
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Mamba Sounds",
+          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
         }
       ],
-      "duration_ms": 142719,
-      "name": "Khartoum (with Adekunle Gold)",
-      "url": "https://open.spotify.com/track/3dYbTnGgy0QoLyeNL7Rfw5"
+      "duration_ms": 141941,
+      "name": "Kiss 'N' Tell",
+      "url": "https://open.spotify.com/track/0I5l2lMLSLFUcTEKWwC1O5"
     },
     {
       "added_at": "2023-10-27 00:01:00",
@@ -1127,26 +1147,6 @@
       "duration_ms": 156961,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4nZrMIPiY3Ti2OdsQkOb8I"
-    },
-    {
-      "added_at": "2023-10-27 00:01:00",
-      "album": {
-        "name": "Kiss 'N' Tell",
-        "url": "https://open.spotify.com/album/5ymb4OcOb0HkTHVaruOQ9B"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Mamba Sounds",
-          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
-        }
-      ],
-      "duration_ms": 141941,
-      "name": "Kiss 'N' Tell",
-      "url": "https://open.spotify.com/track/0I5l2lMLSLFUcTEKWwC1O5"
     },
     {
       "added_at": "2023-10-27 00:01:00",

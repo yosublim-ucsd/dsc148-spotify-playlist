@@ -2,9 +2,9 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from  Darell, Bad Bunny, KAROL G, and more.🔥🥵
+> Reggaeton hits from Arcangel, Peso Pluma, Bad Bunny, KAROL G, and more.🔥🥵
 
-355 songs - 19 hr 59 min
+356 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-07-28 | 2023-09-16 |
 | [Ella \- Remix](https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Ella \(Remix\)](https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH) | 5:30 | 2021-12-24 | 2022-06-25 |
 | [Ella Hace Vino](https://open.spotify.com/track/6ANymFCKuM24XvNxaHksH9) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Ella Hace Vino](https://open.spotify.com/album/2TKEmeQD9nxDVxkiKQ8OFt) | 2:38 | 2023-09-15 | 2023-09-30 |
-| [Ella Perrea](https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [ALTER EGO](https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm) | 2:48 | 2023-09-29 |  |
+| [Ella Perrea](https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [ALTER EGO](https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm) | 2:48 | 2023-09-29 | 2023-10-31 |
 | [Eme](https://open.spotify.com/track/2kqsNM8s9y2tlgHGCFnfvh) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Eme](https://open.spotify.com/album/0NyszzEmfMrKgHVDlDaUVC) | 2:52 | 2022-08-26 | 2022-10-08 |
 | [Emojis de Corazones \(feat\. Los Legendarios\)](https://open.spotify.com/track/5Mw46yRtdiOdjqSG0eDItr) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Emojis de Corazones \(feat\. Los Legendarios\)](https://open.spotify.com/album/6hdSXoNAfGg4cRUzM94EBR) | 5:03 | 2021-12-24 | 2022-05-27 |
 | [En Bajita](https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Bajita](https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp) | 3:29 | 2023-03-17 | 2023-06-10 |
@@ -160,6 +160,7 @@
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-17 |  |
 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 | 2021-12-24 | 2022-07-02 |
 | [La Busqué \(with Yandel & Rauw Alejandro\)](https://open.spotify.com/track/5nNcBfbJu1RjBoKplRPw5m) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cotidiano](https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM) | 4:31 | 2021-12-24 | 2022-01-29 |
+| [LA CHAMBA](https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA CHAMBA](https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK) | 2:53 | 2023-10-31 |  |
 | [La Corriente](https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:18 | 2022-06-10 | 2023-02-11 |
 | [La Difícil](https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:43 | 2022-01-28 | 2022-09-10 |
 | [LA HORA Y EL DÍA](https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [LA HORA Y EL DÍA](https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK) | 3:37 | 2023-02-17 | 2023-05-06 |

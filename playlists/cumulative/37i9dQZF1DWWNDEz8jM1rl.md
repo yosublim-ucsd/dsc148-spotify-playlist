@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-68 songs - 4 hr 30 min
+69 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Espiritu De Dios](https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV) | [Javier Maldonado](https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76) | [No Hay Nada Imposible](https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6) | 4:55 | 2020-09-18 |  |
 | [Estoy Contento](https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Traigo Alabanza](https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c) | 4:11 | 2020-09-18 |  |
 | [Eternamente Amor](https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Fragmentos Do Céu](https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e) | 4:02 | 2020-09-18 |  |
+| [Felicidad](https://open.spotify.com/track/0CN4D8I9yuu8HHkNAjDnQP) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 4:04 | 2020-09-18 |  |
 | [Forever Endless Love](https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragments Of Heaven](https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug) | 4:02 | 2020-09-18 |  |
 | [Fue Por Ti](https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax) | [Raza For Christ](https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW) | [Nonstop](https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA) | 3:14 | 2020-09-18 |  |
 | [Ganarlos a Todos](https://open.spotify.com/track/0lbtoROQFkkyBda4nWE5vl) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Oxigeno](https://open.spotify.com/album/0tAVNYIxC7TpHEdkmZRtHE) | 5:21 | 2020-09-18 |  |
@@ -53,7 +54,7 @@
 | [Mi Fe](https://open.spotify.com/track/3ByHOVprxjQwTrUGBnc1QT) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/2Tctk4AH3KtYpgHFpB6n0A) | 3:55 | 2020-09-18 | 2022-11-19 |
 | [Mi Fe](https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat) | 3:56 | 2020-09-18 |  |
 | [Mi Maestro](https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Acceso Total Tour Edition](https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP) | 4:09 | 2020-09-18 |  |
-| [Motivo de mi cancion](https://open.spotify.com/track/2PNGkt8Xu4ex0e38LwBQVI) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:31 | 2020-09-18 |  |
+| [Motivo de mi cancion](https://open.spotify.com/track/2PNGkt8Xu4ex0e38LwBQVI) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:31 | 2020-09-18 | 2023-10-31 |
 | [No Fallará \(Remix\)](https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Fallará \(Remix\)](https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf) | 6:20 | 2020-09-18 |  |
 | [Party Love](https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw) | [Party Love](https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm) | 3:16 | 2020-09-18 | 2023-07-05 |
 | [Party Love](https://open.spotify.com/track/7adbOWjIdUJC6oBFSfVO1h) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Party Love](https://open.spotify.com/album/4L66sciwtXBjMMNgVwlqXy) | 3:16 | 2020-09-18 | 2023-10-28 |

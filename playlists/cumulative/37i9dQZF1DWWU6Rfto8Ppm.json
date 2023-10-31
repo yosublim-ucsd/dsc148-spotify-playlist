@@ -3688,7 +3688,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 196880,
       "name": "Luna",
       "url": "https://open.spotify.com/track/3ho9M5jTEsJ7ymiBN7LoRd"
@@ -4796,6 +4796,24 @@
       "duration_ms": 213185,
       "name": "No Se Si Fue",
       "url": "https://open.spotify.com/track/4kPatgCcFF7kVsdMUG21O8"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Lun\u00e1ticos",
+        "url": "https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208999,
+      "name": "No S\u00e9 Como Se Llama",
+      "url": "https://open.spotify.com/track/02S3OzC2roebiiMWLJt0uO"
     },
     {
       "album": {

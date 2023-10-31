@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,368 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,443 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 20 | [Wolf](https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq) | 3:40 |
 | 21 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
 | 22 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
-| 23 | [Signals](https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 4:01 |
-| 24 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
-| 25 | [Waiting](https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI) | 3:04 |
-| 26 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
+| 23 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
+| 24 | [Signals](https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 4:01 |
+| 25 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
+| 26 | [Waiting](https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI) | 3:04 |
 | 27 | [The Longer The Waiting \(The Sweeter The Kiss\)](https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA) | [The Night Visitor](https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ) | 3:51 |
 | 28 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
 | 29 | [Magic Stone](https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Magic Stone](https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS) | 3:33 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 32 | [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 |
 | 33 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
 | 34 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 |
-| 35 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
-| 36 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
-| 37 | [i went outside](https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25) | 4:53 |
-| 38 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
+| 35 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
+| 36 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
+| 37 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
+| 38 | [i went outside](https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25) | 4:53 |
 | 39 | [Gold Laces](https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 3:40 |
 | 40 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
 | 41 | [Away](https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg) | 2:58 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 49 | [Oh God](https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Dad Told Me](https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2) | 2:35 |
 | 50 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 |
 | 51 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 |
-| 52 | [1989](https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [1989](https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq) | 4:27 |
-| 53 | [Your Ghost](https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Your Ghost](https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU) | 3:20 |
+| 52 | [Your Ghost](https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Your Ghost](https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU) | 3:20 |
+| 53 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
 | 54 | [By the time you hear this](https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [By the time you hear this](https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9) | 3:14 |
-| 55 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
+| 55 | [1989](https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [1989](https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq) | 4:27 |
 | 56 | [Angel \- Acoustic String Version](https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:40 |
 | 57 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 |
 | 58 | [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 |
 | 59 | [The Ghost in Your Smile](https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost in Your Smile](https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc) | 3:47 |
 | 60 | [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 |
 
-Snapshot ID: `MCwxMGIxMjQ2MjFmMmQ4YzE1ZmEwMGI1YTZiMTUxY2I4OWVhM2I3Yzli`
+Snapshot ID: `MCxiNzZhN2IxMmYxYmJkNzIxZWFlZDk1OTI3M2U1NmQ0OTNmMDAyMDZm`

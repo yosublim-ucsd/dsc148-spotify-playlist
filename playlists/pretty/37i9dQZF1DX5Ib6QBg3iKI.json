@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 125401,
+  "num_followers": 125411,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDE0OTgzNDU3NGE0MDEwZTgwMmJkOGZmMmZmZTE5OWRjNjVlMjA5",
+  "snapshot_id": "MCwwMjE2YzMyNmVjM2UxZGQ3MTFkODk1N2NjMzQyYmQ1YzQ4ZjJiYTM5",
   "tracks": [
     {
       "added_at": "2023-10-27 10:27:42",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-27 10:27:42",
       "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
-    },
-    {
-      "added_at": "2023-10-27 10:27:42",
-      "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 171826,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
+    },
+    {
+      "added_at": "2023-10-27 10:27:42",
+      "album": {
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
     },
     {
       "added_at": "2023-10-27 10:27:42",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-10-27 10:27:42",
       "album": {
-        "name": "Together In Electric Dreams (From The John Lewis Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Together In Electric Dreams",
-      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
-    },
-    {
-      "added_at": "2023-10-27 10:27:42",
-      "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 227887,
       "name": "Oh Holy Night - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0"
+    },
+    {
+      "added_at": "2023-10-27 10:27:42",
+      "album": {
+        "name": "Together In Electric Dreams (From The John Lewis Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Together In Electric Dreams",
+      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
     },
     {
       "added_at": "2023-10-27 10:27:42",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-10-27 10:27:42",
       "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
+    },
+    {
+      "added_at": "2023-10-27 10:27:42",
+      "album": {
         "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
         "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 215058,
       "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
-    },
-    {
-      "added_at": "2023-10-27 10:27:42",
-      "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
     },
     {
       "added_at": "2023-10-27 10:27:42",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-27 10:27:42",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f"
-      },
-      "artists": [
-        {
-          "name": "Nell Mescal",
-          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
-        }
-      ],
-      "duration_ms": 266922,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO"
-    },
-    {
-      "added_at": "2023-10-27 10:27:42",
-      "album": {
         "name": "Tracks in the Snow",
         "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 230973,
       "name": "Tracks in the Snow",
       "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
+    },
+    {
+      "added_at": "2023-10-27 10:27:42",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "duration_ms": 266922,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO"
     },
     {
       "added_at": "2023-10-27 10:27:42",

@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 79012,
+  "num_followers": 79036,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjE1ZTYwMjUyMWVkNjE4ZTFjMDQ3M2UyYTM3Y2EyMTQxMjM5OThi",
+  "snapshot_id": "MCxkZWI1ZmFkODU4ZDgzYzBjNTJkNGYyYjUwYTNmZWE5YmY2ZDFhZDkz",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -171,38 +171,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "Freaking Out the Neighborhood",
-      "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Matangi",
         "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
       },
@@ -239,6 +207,38 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 173888,
+      "name": "Freaking Out the Neighborhood",
+      "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -251,26 +251,6 @@
       "duration_ms": 109735,
       "name": "Flowers in Your Hair",
       "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 304760,
-      "name": "Super Rich Kids",
-      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -371,6 +351,26 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 304760,
+      "name": "Super Rich Kids",
+      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Lonesome Dreams (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
       },
@@ -415,26 +415,6 @@
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 268813,
-      "name": "Pink Matter",
-      "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -519,38 +499,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Mountain Sound",
-      "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -558,11 +506,15 @@
         {
           "name": "Frank Ocean",
           "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
         }
       ],
-      "duration_ms": 194840,
-      "name": "Forrest Gump",
-      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx"
+      "duration_ms": 268813,
+      "name": "Pink Matter",
+      "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -583,6 +535,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Mountain Sound",
+      "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
       },
@@ -595,6 +563,22 @@
       "duration_ms": 258653,
       "name": "Myth",
       "url": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -627,6 +611,38 @@
       "duration_ms": 368773,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Forrest Gump",
+      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 289080,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0ZyfiFudK9Si2n2G9RkiWj"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -691,22 +707,6 @@
       "duration_ms": 190613,
       "name": "Hollywood Forever Cemetery Sings",
       "url": "https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 289080,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/0ZyfiFudK9Si2n2G9RkiWj"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 219400,
       "name": "Fitzpleasure",
       "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/3xqxETvPg43KWP0HOGiOmu"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 199453,
       "name": "Simple As This",
       "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/3xqxETvPg43KWP0HOGiOmu"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Synthetica (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "shrines",
         "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 209573,
       "name": "obedear",
       "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Synthetica (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/121DLZnltkkTOMHzoLrmqB"
-      },
-      "artists": [
-        {
-          "name": "The Walkmen",
-          "url": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
-        }
-      ],
-      "duration_ms": 262293,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3US6iSyLP2uS07gjjU2ZkG"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Colour Of The Trap",
         "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Tramp",
-        "url": "https://open.spotify.com/album/1StZHZ13mdQcQPG8QQjndF"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/121DLZnltkkTOMHzoLrmqB"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "The Walkmen",
+          "url": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
         }
       ],
-      "duration_ms": 182146,
-      "name": "Serpents",
-      "url": "https://open.spotify.com/track/2v05RhwIQx3zbN8O72Ff69"
+      "duration_ms": 262293,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3US6iSyLP2uS07gjjU2ZkG"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1635,6 +1619,22 @@
       "duration_ms": 239613,
       "name": "lofticries",
       "url": "https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Tramp",
+        "url": "https://open.spotify.com/album/1StZHZ13mdQcQPG8QQjndF"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 182146,
+      "name": "Serpents",
+      "url": "https://open.spotify.com/track/2v05RhwIQx3zbN8O72Ff69"
     }
   ],
   "unique_name": "Best of Indie 2012",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas!",
-  "num_followers": 850008,
+  "num_followers": 850104,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjlmNjU0ZGE4NWJmMDk5NDUzNTY1NDBmMGEzM2U0N2I4ZWQ2YWU5",
+  "snapshot_id": "MCw1ZjQ2ZjUxZTI3ZTQ1ZmEwY2Y1Y2RjODlhNTE2NzYxZGEyNzlhYWQ0",
   "tracks": [
     {
       "added_at": "2023-08-08 22:35:35",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 167897,
-      "name": "Le Hace Falta Un Beso",
-      "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 163223,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 167897,
+      "name": "Le Hace Falta Un Beso",
+      "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Amor Plat\u00f3nico",
-      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
+      "duration_ms": 246131,
+      "name": "Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -259,6 +259,22 @@
       "duration_ms": 210932,
       "name": "24/7",
       "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Amor Plat\u00f3nico",
+      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -291,22 +307,6 @@
       "duration_ms": 180653,
       "name": "Fendi",
       "url": "https://open.spotify.com/track/7oey14Rg8UhqMCQjOp0OST"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 246131,
-      "name": "Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 163654,
       "name": "M\u00e1s All\u00e1 Del Sol",
       "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 220586,
       "name": "Due\u00f1o de Ti",
       "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Nadie Como Tu\u0301",
-      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
         "name": "Un Lu*Jo",
         "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 186413,
       "name": "Dis\u00e9\u00f1ame",
       "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Nadie Como Tu\u0301",
+      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 203816,
-      "name": "Amorcito Mio - En Vivo",
-      "url": "https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
         "name": "Sue\u00f1o Guajiro",
         "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 183800,
       "name": "Sue\u00f1o Guajiro",
       "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 203816,
+      "name": "Amorcito Mio - En Vivo",
+      "url": "https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
+        "name": "En Las Buenas Y En Las Malas",
+        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Con Ese Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
         "name": "Un Amor Como Este",
         "url": "https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 185770,
       "name": "Un Amor Como Este",
       "url": "https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
-        "name": "En Las Buenas Y En Las Malas",
-        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Con Ese Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 138466,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
         "name": "El Amor So\u00f1ado",
         "url": "https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 182680,
       "name": "El Amor So\u00f1ado",
       "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
     },
     {
       "added_at": "2023-08-08 22:35:35",

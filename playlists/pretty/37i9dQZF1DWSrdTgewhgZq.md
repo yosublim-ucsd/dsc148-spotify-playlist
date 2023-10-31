@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Only the best Hip\-hop, only non\-stop hits\. Offset on Cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,487 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,643 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 | 98 | [Red Light Green Light](https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Red Light Green Light](https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC) | 2:39 |
 | 99 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
 
-Snapshot ID: `MCxkY2ZhNzhlMzY0MTk4MDRiZjNjYWZkOWJlYmYyOWEzYWFiOGY1Yjhi`
+Snapshot ID: `MCwyOTJmODc1NWQ2OTlhNjI4ZTQzZjA3YmM0ZGI0ZjYyNzhkYzBhNTM1`

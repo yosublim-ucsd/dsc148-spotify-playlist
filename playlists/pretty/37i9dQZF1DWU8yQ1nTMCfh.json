@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Abraham Mateo & Sebastian Yatra",
-  "num_followers": 282313,
+  "num_followers": 282319,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDlhOTM2ZjA1ZjlmMWJlMzFiYmNiY2QzYzdmMzAwMGM1M2EwNDlj",
+  "snapshot_id": "MCwyZWQwZTY4YWE0OGViMmJiMTdjY2RjNjY0ZTU4ZTE3YjllZWI5MjFm",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 211204,
+      "name": "No Te Imagin\u00e1s",
+      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "11 RAZONES",
         "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 207089,
       "name": "Llama Gemela",
       "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 211204,
-      "name": "No Te Imagin\u00e1s",
-      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Greta Garbo",
-        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
+        "name": "RAMONA FLOWERS",
+        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 215346,
-      "name": "Nuestros mundos no obedecen a tus mapas",
-      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
+      "duration_ms": 181240,
+      "name": "RAMONA FLOWERS",
+      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "RAMONA FLOWERS",
-        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
+        "name": "Greta Garbo",
+        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 181240,
-      "name": "RAMONA FLOWERS",
-      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
+      "duration_ms": 215346,
+      "name": "Nuestros mundos no obedecen a tus mapas",
+      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 180428,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/5TEmJiH317A6sLPWg27LRj"
       },
@@ -515,18 +531,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "La Tormenta",
-        "url": "https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2"
+        "name": "Me Gustas Tanto",
+        "url": "https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 180428,
-      "name": "La Tormenta",
-      "url": "https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn"
+      "duration_ms": 121674,
+      "name": "Me Gustas Tanto",
+      "url": "https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -583,26 +603,6 @@
       "duration_ms": 177826,
       "name": "Nublado (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Me Gustas Tanto",
-        "url": "https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 121674,
-      "name": "Me Gustas Tanto",
-      "url": "https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 150773,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Dos",
         "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 177348,
       "name": "Dos",
       "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 150773,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "El Puesto Es M\u00edo",
+        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 179585,
+      "name": "El Puesto Es M\u00edo",
+      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Cansado de estar triste",
         "url": "https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 228880,
       "name": "Todo Se Detiene Aqu\u00ed",
       "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "El Puesto Es M\u00edo",
-        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 179585,
-      "name": "El Puesto Es M\u00edo",
-      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "M\u00e1s Tuyo",
+        "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 179891,
+      "name": "M\u00e1s Tuyo",
+      "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Bajo Los \u00c1rboles",
         "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 199000,
       "name": "Toda Mi Fe",
       "url": "https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "M\u00e1s Tuyo",
-        "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 179891,
-      "name": "M\u00e1s Tuyo",
-      "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
     },
     {
       "added_at": "2023-10-27 04:00:00",

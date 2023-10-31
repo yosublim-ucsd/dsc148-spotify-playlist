@@ -642,10 +642,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 287000,
       "name": "More Than a Love Song",
       "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
+    },
+    {
+      "album": {
+        "name": "Chronicles of a Diamond",
+        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/38D3zXvwHjwtGMUSO4mOmv"
     },
     {
       "album": {

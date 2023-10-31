@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 71558,
+  "num_followers": 71575,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTAwZDkyYzVlODM0ZDU5NmJlYzM1OTI2OTk0M2UwMDA0ZjRmYmM3",
+  "snapshot_id": "MCxmN2M3MzYxODY1MjA2MTBiNmQzZDM1ZTkzNDhiYjdhZThjZmI0Nzk3",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Liten fuggel (Med kommentarer)",
-        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
-      },
-      "artists": [
-        {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Liten fuggel",
-      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Kamilla Og Tyven",
         "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 214186,
       "name": "Kamilla Og Tyven",
       "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Liten fuggel (Med kommentarer)",
+        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "Liten fuggel",
+      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Duell",
-        "url": "https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "Hva kj\u00e6rlighet er",
-      "url": "https://open.spotify.com/track/5V6QuMxE9efXTyUQYZWy38"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Til deg (Single Version)",
         "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Duell",
+        "url": "https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "Hva kj\u00e6rlighet er",
+      "url": "https://open.spotify.com/track/5V6QuMxE9efXTyUQYZWy38"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "P\u00e5 vei",
         "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 279240,
       "name": "P\u00e5 vei",
       "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -567,18 +583,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
       },
       "artists": [
         {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
         }
       ],
-      "duration_ms": 266328,
-      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
-      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+      "duration_ms": 168373,
+      "name": "Alle Snakker Sant",
+      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -615,38 +631,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
-      },
-      "artists": [
-        {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
-        }
-      ],
-      "duration_ms": 168373,
-      "name": "Alle Snakker Sant",
-      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "1988 EP",
-        "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kvammen",
-          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
-        }
-      ],
-      "duration_ms": 257906,
-      "name": "Du fortenar ein som meg - klineversjon",
-      "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Du ga m\u00e6 viljestyrke",
         "url": "https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "1988 EP",
+        "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kvammen",
+          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "Du fortenar ein som meg - klineversjon",
+      "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "De N\u00e6re Ting",
         "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 138412,
       "name": "De N\u00e6re Ting",
       "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Gutta P\u00e5 By`n",
-        "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
-      },
-      "artists": [
-        {
-          "name": "Terje Tysland",
-          "url": "https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7"
-        }
-      ],
-      "duration_ms": 350586,
-      "name": "Heile Livet",
-      "url": "https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -735,26 +719,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Ka e du redd for",
-        "url": "https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB"
+        "name": "Gutta P\u00e5 By`n",
+        "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Terje Tysland",
+          "url": "https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7"
         }
       ],
-      "duration_ms": 244640,
-      "name": "Ka e du redd for",
-      "url": "https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW"
+      "duration_ms": 350586,
+      "name": "Heile Livet",
+      "url": "https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -795,18 +771,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Club 7",
-        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
+        "name": "Ka e du redd for",
+        "url": "https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB"
       },
       "artists": [
         {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 260778,
-      "name": "Club 7",
-      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
+      "duration_ms": 244640,
+      "name": "Ka e du redd for",
+      "url": "https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -827,6 +811,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Club 7",
+        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 260778,
+      "name": "Club 7",
+      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Flyge Fra",
         "url": "https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9"
       },
@@ -843,22 +843,18 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "De Beste",
-        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
+        "name": "Original Nilsen",
+        "url": "https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+          "name": "Lillebj\u00f8rn Nilsen",
+          "url": "https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e"
         }
       ],
-      "duration_ms": 239586,
-      "name": "Mysteriet deg",
-      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
+      "duration_ms": 288078,
+      "name": "God Natt Oslo",
+      "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
     }
   ],
   "unique_name": "Norske viser",

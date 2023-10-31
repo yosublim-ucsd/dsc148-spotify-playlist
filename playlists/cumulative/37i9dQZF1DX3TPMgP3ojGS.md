@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,766 songs - 3 day 7 hr 7 min
+1,767 songs - 3 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1033,6 +1033,7 @@
 | [Nocturne \- Piano Version](https://open.spotify.com/track/7JLDb4wSUjIQqgHglBb2VP) | [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [Nocturne](https://open.spotify.com/album/1mhQEQ2Sz87Sqh94oR0S2V) | 2:47 | 2021-04-26 | 2021-12-18 |
 | [Nocturne in C](https://open.spotify.com/track/6oxOGjqU2fRw9USI2sddoC) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Nocturne in C](https://open.spotify.com/album/66tnYfegl9yV4STuFafEfT) | 2:13 | 2022-05-03 | 2022-07-29 |
 | [Noémie](https://open.spotify.com/track/05raSLFPEXgJTZ3PZPxXD0) | [Mikki Jenkins](https://open.spotify.com/artist/352pMjHoDyILGhOoYMMWYi) | [Noémie](https://open.spotify.com/album/6ESd1pP4cH03zETvAiNISE) | 2:00 | 2021-04-23 | 2022-06-17 |
+| [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 | 2023-10-26 |  |
 | [Nominous](https://open.spotify.com/track/2pi8vhUQXXwMpSuyVGdVfS) | [Vanessa Rigby](https://open.spotify.com/artist/0LyoDVhMC4AxoR29bYM1g1) | [Nominous](https://open.spotify.com/album/5hJSvHathEOf5KVHSlxvoC) | 2:11 | 2022-03-29 | 2022-04-28 |
 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-04-15 |  |
 | [Nordic Light](https://open.spotify.com/track/0qzsmjWYgiSIRNFrTEEsdP) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Nordic Light](https://open.spotify.com/album/6uDC98RwRaAcFQzvmnteKU) | 3:23 | 2021-04-28 | 2021-05-23 |
@@ -1304,7 +1305,7 @@
 | [Shapes of Shadows](https://open.spotify.com/track/2UxUFKb6Fo7zxrjQVNXEGz) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Shapes of Shadows](https://open.spotify.com/album/0qxvEI2Shp9ezZIzth2Jpg) | 3:26 | 2021-10-08 | 2022-04-03 |
 | [Shimbashi](https://open.spotify.com/track/3QsoPGMF4htRG0IWr6tW5z) | [Edo Vibes](https://open.spotify.com/artist/4PCTnZoFvw7ln4XJBgLH2T) | [Edo Vibes](https://open.spotify.com/album/1j7kv6yV2BlG7SpipdtXAh) | 3:02 | 2021-03-21 | 2022-04-06 |
 | [Shine](https://open.spotify.com/track/17znOPxGp4NctWeUxuDty2) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Shine](https://open.spotify.com/album/6ApAQQnUtuP6pSeNyQfUyp) | 2:40 | 2021-05-05 | 2022-04-06 |
-| [Shizukana](https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0) | [Isshi Matsuriza](https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi) | [Shizukana](https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep) | 2:11 | 2022-04-12 |  |
+| [Shizukana](https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0) | [Isshi Matsuriza](https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi) | [Shizukana](https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep) | 2:11 | 2022-04-12 | 2023-10-31 |
 | [Shoreland](https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Clandestine](https://open.spotify.com/album/5svnulUJ4RuhBt6mD8UEoF) | 2:50 | 2021-05-16 | 2022-04-16 |
 | [Short and Peaceful](https://open.spotify.com/track/3hNo5tuFvOT5O9EjUKQYdD) | [Walter Giulini](https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO) | [Note of Reflections](https://open.spotify.com/album/7yqwhrAIh7IaolxlwcMfw8) | 2:15 | 2021-03-14 | 2022-07-29 |
 | [Shut Eye](https://open.spotify.com/track/5VPLIA3nSekHVD7DdzvewF) | [Jesper Dahl](https://open.spotify.com/artist/1qhFjZ2E02LpM8FRvffZHS) | [Shut Eye](https://open.spotify.com/album/6Dq6kDkx8k6eh48jTazQ5j) | 2:29 | 2021-03-23 | 2022-07-25 |

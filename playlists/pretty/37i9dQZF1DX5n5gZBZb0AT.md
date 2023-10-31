@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,488 likes - 40 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,473 likes - 40 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 11 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
 | 12 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
 | 13 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
-| 14 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
-| 15 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 |
-| 16 | [Life in Rio](https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Life in Rio](https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5) | 1:34 |
-| 17 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
-| 18 | [Orquestra Maldita](https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Orquestra Maldita](https://open.spotify.com/album/3vrQH2IPnx36leo1TExy5E) | 1:59 |
+| 14 | [Orquestra Maldita](https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Orquestra Maldita](https://open.spotify.com/album/3vrQH2IPnx36leo1TExy5E) | 1:59 |
+| 15 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
+| 16 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 |
+| 17 | [Life in Rio](https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Life in Rio](https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5) | 1:34 |
+| 18 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
 | 19 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
 | 20 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 |
 | 21 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 39 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
 | 40 | [Mexican Phonk Eki](https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Mexican Phonk Eki](https://open.spotify.com/album/1vQpZhp0nRdlUT4m2cgV4k) | 1:38 |
 
-Snapshot ID: `MCxlYzFlYzBhMDY0ZmM4YTkzZmU2Mzk5MDliNjQ1MzFmNmQyNzBjNjdh`
+Snapshot ID: `MCw4MThiNjA2YTk5YjAyZTY2OTI3NmM1MWRlZDRmMDJkYjJjYmRiM2I0`

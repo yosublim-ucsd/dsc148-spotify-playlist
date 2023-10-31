@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 73854,
+  "num_followers": 73901,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDNlMmM4YjQ2YmIyMjZkN2FlNjliNDJhMmNjZjM1YzYzYjAxZDgz",
+  "snapshot_id": "MCxmMmUzZDU1MzFhNmFjN2E0NmM4NDQxN2Q4Yzc2ZDJkOGJiMGQ4N2Rm",
   "tracks": [
     {
       "added_at": "2023-10-20 04:59:00",
@@ -131,26 +131,6 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
-      },
-      "artists": [
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 137560,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 167221,
       "name": "Ojitos de Aceituna",
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 137560,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -371,18 +371,22 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/28wQLNnT2Vt6yrsoNAxErW"
+        "name": "Aunque Me Cueste la Vida",
+        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
       },
       "artists": [
         {
-          "name": "El Rey de la Cantina",
-          "url": "https://open.spotify.com/artist/3Z30LsykS8OWsx2Ro7MO1Y"
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 153533,
-      "name": "El Contragolpe",
-      "url": "https://open.spotify.com/track/34vslpjwLp3AiR86EwJgCz"
+      "duration_ms": 178493,
+      "name": "Aunque Me Cueste la Vida",
+      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -399,6 +403,22 @@
       "duration_ms": 169960,
       "name": "T\u00fa Me Haces Falta",
       "url": "https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/28wQLNnT2Vt6yrsoNAxErW"
+      },
+      "artists": [
+        {
+          "name": "El Rey de la Cantina",
+          "url": "https://open.spotify.com/artist/3Z30LsykS8OWsx2Ro7MO1Y"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "El Contragolpe",
+      "url": "https://open.spotify.com/track/34vslpjwLp3AiR86EwJgCz"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -435,42 +455,6 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "\u00danicamente Tu",
-      "url": "https://open.spotify.com/track/4DTfQauneAY5cjuTMTfSMQ"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
-        "name": "Aunque Me Cueste la Vida",
-        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
-      },
-      "artists": [
-        {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Aunque Me Cueste la Vida",
-      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
         "name": "Disco de Oro",
         "url": "https://open.spotify.com/album/0BReXvDDnar5dcAQIWvKLE"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 240625,
       "name": "Mozo Deme Otra Copa",
       "url": "https://open.spotify.com/track/7MjUWVbAxPN64rf5e2MorO"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "\u00danicamente Tu",
+      "url": "https://open.spotify.com/track/4DTfQauneAY5cjuTMTfSMQ"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
+        "name": "Los Triunfadores de la Rockola",
+        "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Otiniano",
+          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Que Te Vayas Bien",
+      "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
         "name": "La Tierna, Conmovedora, Bamboleadora",
         "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
-        "name": "Los Triunfadores de la Rockola",
-        "url": "https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Otiniano",
-          "url": "https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Que Te Vayas Bien",
-      "url": "https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Mucho Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
-      },
-      "artists": [
-        {
-          "name": "Tania Libertad",
-          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Esc\u00e1ndalo / Luz y Sombra",
-      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
         "name": "Un Bolero un Vals",
         "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 384253,
       "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
       "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "Mucho Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
+      },
+      "artists": [
+        {
+          "name": "Tania Libertad",
+          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Esc\u00e1ndalo / Luz y Sombra",
+      "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
+        "name": "La Dama del Bolero",
+        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zevallos",
+          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
+        }
+      ],
+      "duration_ms": 190365,
+      "name": "Coraz\u00f3n Herido",
+      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
         "name": "\u00c9xitos Eternos",
         "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 264276,
       "name": "Otra Copa",
       "url": "https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
-        "name": "\u00c9poca de Oro",
-        "url": "https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00edo Los Brillantes",
-          "url": "https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S"
-        }
-      ],
-      "duration_ms": 194351,
-      "name": "Sendas Distintas",
-      "url": "https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv"
     }
   ],
   "unique_name": "Boleros en Casa",

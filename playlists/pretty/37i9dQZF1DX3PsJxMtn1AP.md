@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,990 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,045 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Before](https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 4:28 |
 | 50 | [coma](https://open.spotify.com/track/5gpEgBBVfRQRJCC7qfC0bu) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [coma](https://open.spotify.com/album/0G0FpaE92mPvnBpEnaimyg) | 2:46 |
 
-Snapshot ID: `MCw0NzFhYmQ4ZTJiZDA0MGQ3MjlmOWNmNmZkNGUwMWZiNGVlNmJmN2Vl`
+Snapshot ID: `MCwyMzdmMzQxYWRkNzc3ZGU5MDI1NGQzN2RiOTk4NzAxNzQwZmRiZDU5`

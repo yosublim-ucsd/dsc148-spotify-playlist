@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 15453,
+  "num_followers": 15490,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjBhYWU3NTgwNDM1NWZjMTNmYjJiNzUzOTE3NjM3ZTQ1NzYyNDM2",
+  "snapshot_id": "MCw0ZjU0NzMyMGNkYWM0MDY2MTdkNDFkZTdmMGJiMmEyNDkyOTQ2NzM5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -411,6 +411,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Who Gon Stop Me",
+      "url": "https://open.spotify.com/track/2eqOjSC8dY1iFrQiJGPDOX"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 281573,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/1Z5kIJ1ZKzVFSJXG1Y5zFb"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Who Gon Stop Me",
-      "url": "https://open.spotify.com/track/2eqOjSC8dY1iFrQiJGPDOX"
     },
     {
       "added_at": "2022-10-01 16:00:00",

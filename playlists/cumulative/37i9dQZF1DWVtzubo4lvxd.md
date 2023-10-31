@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-241 songs - 9 hr 23 min
+242 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [hand of god](https://open.spotify.com/track/5BkpjyhjGiptuzxI2n5L67) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:43 | 2022-04-15 | 2022-11-26 |
 | [Here There](https://open.spotify.com/track/1lXBO9MA1ZnyQSaMPS0Ipo) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Romance](https://open.spotify.com/album/7pKuX4GEQp8hsy4Z702aKm) | 1:59 | 2022-04-15 | 2023-05-24 |
 | [Here There](https://open.spotify.com/track/2uKCULX5fviDo0PspMcxRs) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Romance](https://open.spotify.com/album/2v8fJtNbT42y6huBvyyvIT) | 1:59 | 2022-04-15 | 2022-07-29 |
-| [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 | 2022-04-15 |  |
+| [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 | 2022-04-15 | 2023-10-31 |
 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 | 2022-04-15 |  |
 | [i dream of you every night](https://open.spotify.com/track/4Z5aQZdyQ8Fc3R7PE17T0e) | [lostlife.](https://open.spotify.com/artist/40OFkxP3djvsCg7Aj3d7sk) | [i dream of you every night](https://open.spotify.com/album/1aypmsUBuVvA4gG9mb40KL) | 2:27 | 2022-04-15 | 2022-07-28 |
 | [i love being with you](https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 1:36 | 2022-04-15 | 2023-09-14 |
@@ -118,6 +118,7 @@
 | [Lost Samurai](https://open.spotify.com/track/5jfNucPo7pMJZYF7kdBbne) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/1z2EULhFIYioLEV4K6DEHp) | 2:13 | 2022-04-15 | 2022-08-12 |
 | [love](https://open.spotify.com/track/1vgH8Pxm88SZAtNDFj1pKT) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:21 | 2022-04-15 | 2023-10-28 |
 | [love](https://open.spotify.com/track/7cZlFUJO4BjedIErzdP6iq) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:21 | 2022-04-15 | 2022-11-25 |
+| [love](https://open.spotify.com/track/2UmXJ7gMnfyTolPmhnJ2ZQ) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2QbZsCrvSQeFKn1UUgJxXw) | 1:21 | 2022-04-15 |  |
 | [lovesick](https://open.spotify.com/track/3A2jJaOKYhmKEy9IyyEJF6) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/3l7m9a8tkGbZPZ44Bd1QoA) | 2:30 | 2022-04-15 | 2022-12-15 |
 | [lovesick](https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg) | 2:30 | 2022-04-15 | 2023-08-04 |
 | [lovesick](https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy) | [Strafend](https://open.spotify.com/artist/1kSOJRjwflnuMaLL7EqXNF) | [lovesick](https://open.spotify.com/album/1ZRikNtTTBJMiRQVEerTPG) | 2:30 | 2022-04-15 |  |

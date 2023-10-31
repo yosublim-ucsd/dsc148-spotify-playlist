@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2078552,
+  "num_followers": 2078679,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTY0NzAxOTQzMTA5OTY4ODgyYWUwZmY1OTNmYTc5YjY1ZGMwMTM1",
+  "snapshot_id": "MCxhMmU1OGE2ZmNkZjVlNGFjNGYyOGI0ZWM2MDE1ZGU1NDQ0N2Q2NWI2",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
+        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
         }
       ],
-      "duration_ms": 213320,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
+      "duration_ms": 306373,
+      "name": "Home - 2019 - Remaster",
+      "url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
-        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Home - 2019 - Remaster",
-      "url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 191906,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 213320,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Bon Iver (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Gossip In The Grain",
         "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+        "name": "Bon Iver (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 187306,
-      "name": "Last Train Home",
-      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -711,6 +695,22 @@
       "duration_ms": 217408,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Last Train Home",
+      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
+        "name": "Be OK",
+        "url": "https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U"
       },
       "artists": [
         {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym"
+      "duration_ms": 148400,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/7aohwSiTDju51QmC54AUba"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Be OK",
-        "url": "https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U"
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
       },
       "artists": [
         {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
         }
       ],
-      "duration_ms": 148400,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/7aohwSiTDju51QmC54AUba"
+      "duration_ms": 225666,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -891,38 +891,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
       },
@@ -935,6 +903,22 @@
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -967,6 +951,22 @@
       "duration_ms": 195252,
       "name": "I Burned LA Down",
       "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 214666,
       "name": "Heart's Content",
       "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Lord of the Flies & Birds & Bees",
+        "url": "https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/5ssnt7GzfLILpZkNQ0oU3U"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "How Do You Do",
         "url": "https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V"
       },
@@ -1503,6 +1519,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -1519,22 +1551,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "That Was Yesterday",
-        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "That Was Yesterday",
-      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1567,22 +1583,6 @@
       "duration_ms": 204280,
       "name": "Now I'm In It - Bonus Track",
       "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Lord of the Flies & Birds & Bees",
-        "url": "https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "Run Away to Mars",
-      "url": "https://open.spotify.com/track/5ssnt7GzfLILpZkNQ0oU3U"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "BRIGHTSIDE",
-      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 266756,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "BRIGHTSIDE",
+      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Circles Around This Town",
-      "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 214000,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Circles Around This Town",
+      "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
     },
     {
       "added_at": "2023-09-15 04:01:00",

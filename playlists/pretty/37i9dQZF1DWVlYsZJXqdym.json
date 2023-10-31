@@ -1,12 +1,12 @@
 {
   "description": "All your favourite mood boosting bangers...",
-  "num_followers": 595134,
+  "num_followers": 595273,
   "original_name": "Happy Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGE0NjZmNTFkYjliMzY0MmJhYmU5MzgwODhjZmNiZjhiZjRiMjdm",
+  "snapshot_id": "MCwxMzZjNDUwOGQxYzE0NTA0YjQxMjFjOTdhOGZmY2JlYTJlMzA3ZmJj",
   "tracks": [
     {
       "added_at": "2023-10-24 14:18:41",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-10-24 14:18:41",
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2023-10-24 14:18:41",
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -271,26 +287,6 @@
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
-      "added_at": "2023-10-24 14:18:41",
-      "album": {
-        "name": "adore u",
-        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "adore u",
-      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
       "added_at": "2023-10-24 14:18:41",
@@ -311,6 +307,26 @@
       "duration_ms": 149653,
       "name": "UNHEALTHY (feat. Shania Twain)",
       "url": "https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw"
+    },
+    {
+      "added_at": "2023-10-24 14:18:41",
+      "album": {
+        "name": "adore u",
+        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "adore u",
+      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
       "added_at": "2023-10-24 14:18:41",
@@ -347,6 +363,22 @@
     {
       "added_at": "2023-10-24 14:18:41",
       "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
+    },
+    {
+      "added_at": "2023-10-24 14:18:41",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -375,22 +407,6 @@
     {
       "added_at": "2023-10-24 14:18:41",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
-    },
-    {
-      "added_at": "2023-10-24 14:18:41",
-      "album": {
         "name": "Giving Me",
         "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2023-10-24 14:18:41",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
-    },
-    {
-      "added_at": "2023-10-24 14:18:41",
-      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2023-10-24 14:18:41",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2023-10-24 14:18:41",
@@ -487,6 +503,22 @@
     {
       "added_at": "2023-10-24 14:18:41",
       "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
+    },
+    {
+      "added_at": "2023-10-24 14:18:41",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -507,22 +539,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2023-10-24 14:18:41",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 200759,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
     },
     {
       "added_at": "2023-10-24 14:18:41",
@@ -583,22 +599,6 @@
     {
       "added_at": "2023-10-24 14:18:41",
       "album": {
-        "name": "Can't Tame Her",
-        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2023-10-24 14:18:41",
-      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
+    },
+    {
+      "added_at": "2023-10-24 14:18:41",
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
       "added_at": "2023-10-24 14:18:41",
@@ -667,6 +683,22 @@
     {
       "added_at": "2023-10-24 14:18:41",
       "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 153037,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
+    },
+    {
+      "added_at": "2023-10-24 14:18:41",
+      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
@@ -683,22 +715,6 @@
       "duration_ms": 176479,
       "name": "In The City",
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
-    },
-    {
-      "added_at": "2023-10-24 14:18:41",
-      "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 153037,
-      "name": "Meltdown",
-      "url": "https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5"
     },
     {
       "added_at": "2023-10-24 14:18:41",
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-10-24 14:18:41",
       "album": {
-        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
-    },
-    {
-      "added_at": "2023-10-24 14:18:41",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+    },
+    {
+      "added_at": "2023-10-24 14:18:41",
+      "album": {
+        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
     },
     {
       "added_at": "2023-10-24 14:18:41",
@@ -875,22 +891,6 @@
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
-    },
-    {
-      "added_at": "2023-10-24 14:18:41",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     }
   ],
   "unique_name": "Happy Pop Hits",

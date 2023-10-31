@@ -1,12 +1,12 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 105077,
+  "num_followers": 105276,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzg2MzQyZGJkNzMwNzYzNDIwN2M3NzBjYzlkMzI4ZmVmZTYyZWQ4",
+  "snapshot_id": "MCxmNzEyOWI4OWFmYmJjNDUyOWZiZTM2MjczNDM2M2Y5YzEyZTdkNTY5",
   "tracks": [
     {
       "added_at": "2023-08-08 23:46:08",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me la Avente",
+      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 182880,
       "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
       "url": "https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me la Avente",
-      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -243,6 +243,26 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Tony Melendez",
+          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
+        }
+      ],
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
         "name": "Partido En Dos",
         "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
@@ -291,22 +311,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
+        "name": "El Ahijado Consentido",
+        "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Tony Melendez",
-          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
+          "name": "Chay\u00edn Rubio",
+          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
         }
       ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
+      "duration_ms": 189346,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -323,38 +339,6 @@
       "duration_ms": 159172,
       "name": "Eso Y M\u00e1s",
       "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
-        "name": "El Ahijado Consentido",
-        "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
-      },
-      "artists": [
-        {
-          "name": "Chay\u00edn Rubio",
-          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -391,6 +375,22 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Algo De Mi",
-        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Algo De M\u00ed",
-      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "Soy Todo Tuyo",
         "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 187373,
       "name": "Soy Todo Tuyo",
       "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Algo De Mi",
+        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Algo De M\u00ed",
+      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 180542,
       "name": "Te V\u00ed Con El",
       "url": "https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
-        "name": "Arriba Huentitan",
-        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+      "duration_ms": 180733,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 203794,
+      "name": "La Pregunta del Mill\u00f3n",
+      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
         "name": "En Vivo EP, Vol. 1 (En vivo)",
         "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 203794,
-      "name": "La Pregunta del Mill\u00f3n",
-      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -671,22 +687,6 @@
       "duration_ms": 209613,
       "name": "Necesito Dec\u00edrtelo",
       "url": "https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
-        "name": "Pegadito Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "El Amor Que Nunca Fue",
-        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 188917,
       "name": "Yo Te Necesito - En vivo",
       "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "El Amor Que Nunca Fue",
+        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Perdoname Mi Amor",
-        "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Actos De Un Tonto",
-      "url": "https://open.spotify.com/track/7cmdmDyKZDgK92uPlTBg6m"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "Siempre Estoy Pensando En Ti",
         "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 186131,
       "name": "No Importa Tu Madre",
       "url": "https://open.spotify.com/track/2aCrEvIR8thExGbWJiwcrE"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Perdoname Mi Amor",
+        "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Actos De Un Tonto",
+      "url": "https://open.spotify.com/track/7cmdmDyKZDgK92uPlTBg6m"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "En Vivo Para Ti",
-        "url": "https://open.spotify.com/album/62WpT7OULJFmbpS9CAWD7b"
+        "name": "45 Anos De Exitos",
+        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
       },
       "artists": [
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
         }
       ],
-      "duration_ms": 155466,
-      "name": "Por Las Calles De Chihuahua - En Vivo",
-      "url": "https://open.spotify.com/track/0oH9BvTBasSw2Uqc16INwz"
+      "duration_ms": 195266,
+      "name": "Busca Otro Amor (1968)",
+      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "45 Anos De Exitos",
-        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
+        "name": "En Vivo Para Ti",
+        "url": "https://open.spotify.com/album/62WpT7OULJFmbpS9CAWD7b"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Busca Otro Amor (1968)",
-      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
+      "duration_ms": 155466,
+      "name": "Por Las Calles De Chihuahua - En Vivo",
+      "url": "https://open.spotify.com/track/0oH9BvTBasSw2Uqc16INwz"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Qu\u00e9 Bueno",
+      "url": "https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
         "name": "El Charro de M\u00e9xico",
         "url": "https://open.spotify.com/album/4O87qGykYzHA5dk9PjLJnm"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 192133,
-      "name": "Qu\u00e9 Bueno",
-      "url": "https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw"
+      "duration_ms": 165506,
+      "name": "\u00a1Qu\u00e9 Va!",
+      "url": "https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1515,22 +1531,6 @@
       "duration_ms": 228982,
       "name": "Como Tu Querer - Con Banda",
       "url": "https://open.spotify.com/track/3C1LJd8eEGuN9AzyQbueLS"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "\u00a1Qu\u00e9 Va!",
-      "url": "https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Esta Noche Tu Vendr\u00e1s",
+      "url": "https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Gerardo Reyes",
         "url": "https://open.spotify.com/album/2BFXXLvrX2PZ5WqWxAzg39"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 379306,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Esta Noche Tu Vendr\u00e1s",
-      "url": "https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1855,8 +1855,8 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+        "name": "Pegadito Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
       },
       "artists": [
         {
@@ -1864,9 +1864,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+      "duration_ms": 176320,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x"
     },
     {
       "added_at": "2023-08-08 23:46:08",

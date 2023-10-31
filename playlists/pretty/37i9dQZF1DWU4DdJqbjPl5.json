@@ -1,12 +1,12 @@
 {
-  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC?si=6rfHa2RMTmGSWhI7QZW6Lw\"> Karun </a> ",
-  "num_followers": 175412,
+  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=41dz747lS2yRF62xACeKHQ\"> Xenia Manasseh </a> ",
+  "num_followers": 176300,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjU1ODFmZDY5MjQzOWE4MDZlY2FjYzNlZmJlNmI5ZTgxZGI2NGIw",
+  "snapshot_id": "MCw1NWE3ZTIxNTMyYjM0NGQ2NTZjMTcyNThhNDFkYTZmMTk0YjNkNjFi",
   "tracks": [
     {
       "added_at": "2023-10-30 00:01:00",
@@ -43,6 +43,22 @@
       "duration_ms": 254726,
       "name": "For Keeps - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
+    },
+    {
+      "added_at": "2023-10-30 00:01:00",
+      "album": {
+        "name": "Only You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "duration_ms": 166670,
+      "name": "Only You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg"
     },
     {
       "added_at": "2023-10-30 00:01:00",
@@ -851,6 +867,26 @@
       "duration_ms": 172307,
       "name": "AMINA",
       "url": "https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x"
+    },
+    {
+      "added_at": "2023-10-30 07:55:52",
+      "album": {
+        "name": "Jioni",
+        "url": "https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD"
+      },
+      "artists": [
+        {
+          "name": "Kinoti",
+          "url": "https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm"
+        },
+        {
+          "name": "Ethan Muziki",
+          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Jioni",
+      "url": "https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w"
     },
     {
       "added_at": "2023-10-30 00:01:00",

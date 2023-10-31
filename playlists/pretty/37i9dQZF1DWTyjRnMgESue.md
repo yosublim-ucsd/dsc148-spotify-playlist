@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,145 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,234 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 39 | [ROOM FOR 2](https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [ROOM FOR 2](https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz) | 2:31 |
 | 40 | [You Might Not Like Her](https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF) | 3:22 |
 | 41 | [Living My Best Life](https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:35 |
-| 42 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
-| 43 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
+| 42 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
+| 43 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
 | 44 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 |
 | 45 | [Forget I Exist](https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Forget I Exist](https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN) | 2:52 |
 | 46 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
 | 47 | [Everything I Know About Love](https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:29 |
 | 48 | [Love Like That \(Words from Her\)](https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Love Like That \(Words from Her\)](https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy) | 2:54 |
 | 49 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
-| 50 | [I'll Be Seeing You](https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF) | 4:45 |
-| 51 | [Hello](https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Hello](https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX) | 3:14 |
+| 50 | [Hello](https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Hello](https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX) | 3:14 |
+| 51 | [I'll Be Seeing You](https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [I'll Be Seeing You](https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF) | 4:45 |
 | 52 | [Long Time](https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:16 |
 | 53 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 |
 | 54 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 78 | [All My Loving](https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [All My Loving](https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US) | 2:58 |
 | 79 | [Go Easy, Kid](https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh) | 4:08 |
 | 80 | [14](https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [14](https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe) | 2:21 |
-| 81 | [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 |
-| 82 | [Pink Razor](https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Pink Razor](https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5) | 3:09 |
+| 81 | [Pink Razor](https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Pink Razor](https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5) | 3:09 |
+| 82 | [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 |
 | 83 | [October Sky](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [October Sky](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) | 3:15 |
 | 84 | [The End](https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox) | 3:10 |
 | 85 | [Witness \- feat\. Rajiv Dhall](https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI), [Rajiv Dhall](https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo) | [Witness \(feat\. Rajiv Dhall\)](https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt) | 3:33 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 92 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
 | 93 | [Any Day Now](https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:21 |
 | 94 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 |
-| 95 | [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 |
-| 96 | [Head Start](https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:23 |
-| 97 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
-| 98 | [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 |
-| 99 | [Catch Your Eye](https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:42 |
+| 95 | [Head Start](https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:23 |
+| 96 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
+| 97 | [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 |
+| 98 | [Catch Your Eye](https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:42 |
+| 99 | [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 |
 | 100 | [False Promises and You](https://open.spotify.com/track/05GfKPhLjdk7kzDen6jhBD) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [West on I\-10](https://open.spotify.com/album/2Xz0fS1DBBIjLRVkImPFD0) | 3:11 |
 
-Snapshot ID: `MCxmNGYwYWNmMDY3ZmUzMGM0M2FjNTUxNDJiM2QzNjFkMDg0ODhlNTcz`
+Snapshot ID: `MCw5N2UyYjJjOTgwMWZlOWM1ZGNiOGZiNjA5NDE3NTJmZTI5Mzc0NjIx`

@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 65926,
+  "num_followers": 66047,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDgyYWJkZGFhMDFhODQ0NTRiZGFhMDM4MjA0NmU0MTBmNjE2YTZk",
+  "snapshot_id": "MCxiOWIyYjBjNDgzYTk5M2ExM2YyYWEzMDc1MGIyMmJmZDY0N2I1MzBm",
   "tracks": [
     {
       "added_at": "2023-10-25 13:09:21",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 424493,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
         "name": "An Introduction To Sarah Vaughan",
         "url": "https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE"
       },
@@ -199,22 +215,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 424493,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
@@ -243,6 +243,22 @@
       "duration_ms": 331666,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -315,6 +331,22 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
         "name": "Dexter Blows Hot & Cool",
         "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
       },
@@ -347,38 +379,6 @@
       "duration_ms": 385706,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "Ben And \"Sweets\"",
-        "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Harry \"Sweets\" Edison",
-          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
@@ -491,18 +471,22 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+        "name": "Ben And \"Sweets\"",
+        "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Harry \"Sweets\" Edison",
+          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Stairway To The Stars",
-      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
+      "duration_ms": 254133,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -535,6 +519,22 @@
       "duration_ms": 154106,
       "name": "Little White Lies",
       "url": "https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Stairway To The Stars",
+      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
+        "name": "We Get Requests",
+        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "D & E",
+      "url": "https://open.spotify.com/track/6IXPs28Up5f65Wg3sHzBsS"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "Crazy And Mixed Up",
-        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
       },
@@ -703,6 +703,38 @@
       "duration_ms": 207413,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "Crazy And Mixed Up",
+        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -743,38 +775,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "We Get Requests",
-        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "D & E",
-      "url": "https://open.spotify.com/track/6IXPs28Up5f65Wg3sHzBsS"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Social Call",
         "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 222666,
       "name": "I'm Through With Love",
       "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -867,6 +847,26 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
         "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 371960,
-      "name": "Where Or When",
-      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 331213,
       "name": "Prelude To A Kiss",
       "url": "https://open.spotify.com/track/2qnDE0I8n5rKOLfG9fIdqR"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 371960,
+      "name": "Where Or When",
+      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 356973,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "By Special Request",
         "url": "https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
       "artists": [
         {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 436573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
+      "duration_ms": 356973,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 436573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
         "name": "Verve Jazz Masters 43: Ben Webster",
         "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 261333,
       "name": "Come Rain Or Come Shine",
       "url": "https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 528226,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
     },
     {
       "added_at": "2023-10-25 13:09:21",
@@ -1155,38 +1171,6 @@
     {
       "added_at": "2023-10-25 13:09:21",
       "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "When Day Is Done",
-      "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
-        "name": "Angel Eyes",
-        "url": "https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 528226,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D"
-    },
-    {
-      "added_at": "2023-10-25 13:09:21",
-      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 323333,
       "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
       "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
+    },
+    {
+      "added_at": "2023-10-25 13:09:21",
+      "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "When Day Is Done",
+      "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
     },
     {
       "added_at": "2023-10-25 13:09:21",

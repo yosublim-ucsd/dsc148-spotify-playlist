@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 175744,
+  "num_followers": 175802,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0",
+  "snapshot_id": "MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -927,6 +927,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Si T\u00fa No Estas",
+      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "El Hijo del Borracho",
         "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 161479,
       "name": "Color de Alegr\u00eda",
       "url": "https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Si T\u00fa No Estas",
-      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Llegaste T\u00fa",
-        "url": "https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Townix",
-          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Apocalipsis (Remix)",
         "url": "https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY"
       },
@@ -1451,18 +1427,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Amor C\u00f3smico",
-        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
+        "name": "Llegaste T\u00fa",
+        "url": "https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi"
       },
       "artists": [
         {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
         }
       ],
-      "duration_ms": 179965,
-      "name": "Amor C\u00f3smico",
-      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
+      "duration_ms": 241640,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1491,22 +1475,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "NO ME MOVER\u00c9",
-        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
+        "name": "Amor C\u00f3smico",
+        "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
       },
       "artists": [
         {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Isaac Rojas",
-          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
         }
       ],
-      "duration_ms": 186660,
-      "name": "NO ME MOVER\u00c9",
-      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
+      "duration_ms": 179965,
+      "name": "Amor C\u00f3smico",
+      "url": "https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1551,6 +1531,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "NO ME MOVER\u00c9",
+        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Isaac Rojas",
+          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
+        }
+      ],
+      "duration_ms": 186660,
+      "name": "NO ME MOVER\u00c9",
+      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Dios, Familia & Rap",
         "url": "https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa"
       },
@@ -1563,6 +1563,46 @@
       "duration_ms": 245039,
       "name": "Hay Algo",
       "url": "https://open.spotify.com/track/7wQcynQeliPgO2HGAGZz7r"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Soy Tan Feliz",
+        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 266571,
+      "name": "Soy Tan Feliz",
+      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "No, No",
+        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 176158,
+      "name": "No, No",
+      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1615,46 +1655,6 @@
       "duration_ms": 144155,
       "name": "Veintiuno",
       "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "No, No",
-        "url": "https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 176158,
-      "name": "No, No",
-      "url": "https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Soy Tan Feliz",
-        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "DOMINICO GONZALEZ",
-          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
-        },
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 266571,
-      "name": "Soy Tan Feliz",
-      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Inmenso",
-        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Inmenso",
-      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Se Enamor\u00f3",
         "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 219500,
       "name": "Se Enamor\u00f3",
       "url": "https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Inmenso",
+        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Inmenso",
+      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "El Fuego",
-        "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
-      },
-      "artists": [
-        {
-          "name": "Sarah La Profeta",
-          "url": "https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 190095,
-      "name": "El Fuego",
-      "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
       },
@@ -1911,18 +1891,38 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "No Te Creo",
-        "url": "https://open.spotify.com/album/1EWtFaTW5ytd8X9Q8TtbQb"
+        "name": "El Fuego",
+        "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
       },
       "artists": [
         {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+          "name": "Sarah La Profeta",
+          "url": "https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
         }
       ],
-      "duration_ms": 196424,
-      "name": "No Te Creo",
-      "url": "https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB"
+      "duration_ms": 190095,
+      "name": "El Fuego",
+      "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/4aGdIqQXhaVflnLZjYDL6Z"
+      },
+      "artists": [
+        {
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        }
+      ],
+      "duration_ms": 244793,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw"
     },
     {
       "added_at": "2022-08-27 05:04:45",

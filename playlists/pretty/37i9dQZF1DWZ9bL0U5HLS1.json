@@ -1,12 +1,12 @@
 {
   "description": "Rakkautta, mit\u00e4 muuta ihminen tarvitsee.",
-  "num_followers": 33245,
+  "num_followers": 33287,
   "original_name": "Min\u00e4 sinua vaan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjdkOWEyZmExMjQ4YjU3MjE5YmQ5NGI5ZGRiZDk4YjhlZjJhMGZh",
+  "snapshot_id": "MCwwODhlYzk5YTVhNzdjNmZlYWI0OGQ1MWJiNWQ3NDc2ZGRjZDcwMjc3",
   "tracks": [
     {
       "added_at": "2023-09-15 11:48:46",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-09-15 11:48:46",
       "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 180055,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
-    },
-    {
-      "added_at": "2023-09-15 11:48:46",
-      "album": {
         "name": "The Very Best of Bonnie Tyler",
         "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 267360,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+    },
+    {
+      "added_at": "2023-09-15 11:48:46",
+      "album": {
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 180055,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
       "added_at": "2023-09-15 11:48:46",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-15 11:48:46",
       "album": {
-        "name": "Camino Palmero",
-        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
-    },
-    {
-      "added_at": "2023-09-15 11:48:46",
-      "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2023-09-15 11:48:46",
       "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
+        "name": "Camino Palmero",
+        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
         }
       ],
-      "duration_ms": 252733,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
+      "duration_ms": 208600,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
       "added_at": "2023-09-15 11:48:46",
@@ -683,6 +667,22 @@
       "duration_ms": 218013,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+    },
+    {
+      "added_at": "2023-09-15 11:48:46",
+      "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
     },
     {
       "added_at": "2023-09-15 11:48:46",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-15 11:48:46",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
-    },
-    {
-      "added_at": "2023-09-15 11:48:46",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 229400,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "added_at": "2023-09-15 11:48:46",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
       "added_at": "2023-09-15 11:48:46",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-09-15 11:48:46",
       "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
+      "duration_ms": 212224,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
     }
   ],
   "unique_name": "Min\u00e4 sinua vaan",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,945 likes - 104 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,950 likes - 104 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 6 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 |
 | 7 | [A Hundred Lives](https://open.spotify.com/track/2vAmx7XDSa8k6FMDexIkye) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [A Hundred Lives](https://open.spotify.com/album/5o9kQ5bfkI1D1aEFH9Clpq) | 3:37 |
 | 8 | [BITTER](https://open.spotify.com/track/01Bne4UX8JWEfNwEuTFcIA) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [BITTER](https://open.spotify.com/album/3wbS0JdBlTHROEWFNzwXmx) | 2:59 |
-| 9 | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/track/3OL3ZqqZYc3JkwTUWwEVCc) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/album/1LuVyW6R5qb5Wv9YNmsSzf) | 2:37 |
+| 9 | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/track/3OL3ZqqZYc3JkwTUWwEVCc) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/album/1LuVyW6R5qb5Wv9YNmsSzf) | 2:37 |
 | 10 | [procrastinating](https://open.spotify.com/track/15iHiRaaYkXvpN5b8iGqDE) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [homebody](https://open.spotify.com/album/5iUZfXOCka0QcPl5KEwdKp) | 2:20 |
 | 11 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 |
 | 12 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 103 | [Ikhlas](https://open.spotify.com/track/4l6kxQ8DF4WGinhZJEX8mo) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [buangan](https://open.spotify.com/album/5YEfYIYoE7V9nHeC9k42oA) | 2:13 |
 | 104 | [The Only Word I Know](https://open.spotify.com/track/4ywjl52RZkFVCAcgXTD4dg) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [The Only Word I Know](https://open.spotify.com/album/1LuGjHM03Id63XXJUOrW4V) | 3:03 |
 
-Snapshot ID: `MCw0ZThmMDU0Y2EyZWQxN2Y0MmU4Y2M0NDA1ZjIyNzg4OWVlMjgwNGY1`
+Snapshot ID: `MCw3NmQwYzA5MWFkYjE3OTg2NWU3NTk4MGVmMGQ2YmJjYzM3NWE3NDll`

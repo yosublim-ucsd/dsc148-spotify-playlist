@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Dave Winnel
 
-1,317 songs - 3 day 3 hr 31 min
+1,318 songs - 3 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [All Good](https://open.spotify.com/track/2FFpINTrHGQLT9W3Vhc9QI) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0) | [All Good](https://open.spotify.com/album/0EmBGefuUdwWF5wNpbpagz) | 2:36 | 2022-06-17 | 2022-08-13 |
 | [All I Do](https://open.spotify.com/track/1iKkDpq64zlW1Cv3zdrOaX) | [Ben Miller \(Aus\)](https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J) | [All I Do](https://open.spotify.com/album/33Eb0Zl7WwsHAC6sZmNt88) | 4:27 | 2022-01-05 | 2022-06-04 |
 | [All In](https://open.spotify.com/track/4xy8PsaeOhDoKyUPxtGD4w) | [JustLuke](https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh) | [All In](https://open.spotify.com/album/3dGNeMzMH6tllAiTGA2cLZ) | 2:13 | 2023-05-05 | 2023-05-27 |
-| [All My Friends](https://open.spotify.com/track/3cO31q0MpTtBIT8Esr0bsm) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [All My Friends](https://open.spotify.com/album/7I7oyqlMR8U4tvoXvVtH85) | 2:03 | 2023-09-22 |  |
+| [All My Friends](https://open.spotify.com/track/3cO31q0MpTtBIT8Esr0bsm) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [All My Friends](https://open.spotify.com/album/7I7oyqlMR8U4tvoXvVtH85) | 2:03 | 2023-09-22 | 2023-10-31 |
 | [All Over U](https://open.spotify.com/track/6hmwiviuIfeDy5MwWMVCQw) | [Mason Maynard](https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3) | [All Over U](https://open.spotify.com/album/1fORBKzArhL3rMlkJqHKor) | 3:03 | 2022-05-13 | 2022-06-11 |
 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 | 2023-03-24 | 2023-08-12 |
 | [All The Night](https://open.spotify.com/track/68DPFeawfvz8M6woXpUpF8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [All The Night](https://open.spotify.com/album/2IMOvEknlvMR8XdyvyKF19) | 2:41 | 2022-12-02 | 2023-03-11 |
@@ -436,6 +436,7 @@
 | [Get Down](https://open.spotify.com/track/325P6RTcKaZ52yjr2zUSCH) | [Healy](https://open.spotify.com/artist/1qduYDRJMSnCuIlJEoPOuF), [Gouldson](https://open.spotify.com/artist/5WyDqoLe8cPBcyax1nh6cJ) | [Get Down](https://open.spotify.com/album/091KAYPBm3LpuKnfgTIEad) | 5:37 | 2021-11-26 | 2022-01-06 |
 | [Get Down Low \(Dip\)](https://open.spotify.com/track/4ATGhu6yBy5MaAZv8lmkWG) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Mia Marvelous](https://open.spotify.com/artist/7jsXGEuoSmu9gI3zODJXjL) | [Get Down Low \(Dip\)](https://open.spotify.com/album/3pLO0JoXlBSgerMcPkm90m) | 2:29 | 2022-06-10 | 2022-09-10 |
 | [Get High](https://open.spotify.com/track/5dYXmVIyaK17kYQirpz8co) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Givin It Bifters](https://open.spotify.com/album/5tNuVA9IoMhJ01hJt4xaNN) | 4:00 | 2022-03-11 | 2022-06-04 |
+| [Get Hype](https://open.spotify.com/track/2UGV2JS4bfUy8ETLpZZoA8) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Jaquell](https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh) | [Get Hype](https://open.spotify.com/album/6hw6p6J90qLn09B43dk0DQ) | 2:51 | 2023-10-27 |  |
 | [Get It](https://open.spotify.com/track/34ExSjW2JsqM9V88quCH9Z) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB) | [Get It](https://open.spotify.com/album/1aew5ugGnswbfbubJMSfm9) | 2:19 | 2023-05-19 | 2023-07-30 |
 | [Get Mad](https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Get Mad](https://open.spotify.com/album/2wfPevhgjDq94RcShPIfL2) | 3:45 | 2023-04-07 | 2023-06-01 |
 | [Get Real High](https://open.spotify.com/track/3Ku4xcxvaRIRJAUNBZYQMy) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Get Real High](https://open.spotify.com/album/44Aa6OmcMPoRwSuMeILj6p) | 3:06 | 2023-04-28 | 2023-08-12 |

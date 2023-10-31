@@ -4554,7 +4554,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 216327,
       "name": "FINA",
       "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
@@ -7396,6 +7396,32 @@
       "duration_ms": 182075,
       "name": "Me Enter\u00e9",
       "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
+    },
+    {
+      "album": {
+        "name": "Me Escap\u00e9",
+        "url": "https://open.spotify.com/album/2ypjhfhKCKTtyvB5IW5ZcU"
+      },
+      "artists": [
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176181,
+      "name": "Me Escap\u00e9",
+      "url": "https://open.spotify.com/track/0iVcmJx7r74F7mTf7M6s0v"
     },
     {
       "album": {

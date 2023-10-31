@@ -733,6 +733,28 @@
     },
     {
       "album": {
+        "name": "It's All a Bit Fuzzy",
+        "url": "https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD"
       },
@@ -986,7 +1008,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe"
@@ -1591,6 +1613,32 @@
     },
     {
       "album": {
+        "name": "Mercy (feat. Jacob Lusk)",
+        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178242,
+      "name": "Mercy (feat. Jacob Lusk)",
+      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "album": {
         "name": "MAHAL",
         "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
       },
@@ -1860,7 +1908,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 273240,
       "name": "Off Goes The Light",
       "url": "https://open.spotify.com/track/2jXZYoIEspEBQzRQuJp0hf"

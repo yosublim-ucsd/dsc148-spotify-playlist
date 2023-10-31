@@ -1,15 +1,83 @@
 {
   "description": "Chill indie music. Cover: kenzie",
-  "num_followers": 111348,
+  "num_followers": 111346,
   "original_name": "Indie Chill",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "NzkyNyxjZTFkYTJlNzkzMmI5MjJhMDkzYWQ4MzY1ZDBhNWI2NjBlNDY0MzJk",
+  "snapshot_id": "NzkyOSw2YTI2YTQxNzBjZTZhYjFjMzU3YTE0MDE0Y2JiNTdhZjk3YTcxOWI0",
   "tracks": [
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "added_at": "2023-10-30 03:15:03",
+      "album": {
+        "name": "You Could Start A Cult (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 194869,
+      "name": "You Could Start A Cult (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
+    },
+    {
+      "added_at": "2023-10-30 03:15:03",
+      "album": {
+        "name": "No Better Time",
+        "url": "https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Flip a Coin",
+      "url": "https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5"
+    },
+    {
+      "added_at": "2023-10-30 03:15:03",
+      "album": {
+        "name": "Hey mom, don\u2019t worry I\u2019m fine",
+        "url": "https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 188961,
+      "name": "Summersalt",
+      "url": "https://open.spotify.com/track/14bsDlxa83wHLDlsvWSNVt"
+    },
+    {
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
@@ -29,7 +97,7 @@
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "the rest",
         "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
@@ -45,7 +113,39 @@
       "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
+      "album": {
+        "name": "Favorite Color",
+        "url": "https://open.spotify.com/album/034vrNtnZQYiIvnM9xcJbn"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 184848,
+      "name": "Favorite Color",
+      "url": "https://open.spotify.com/track/6YiNvXwlNsyCkGv5IDNcon"
+    },
+    {
+      "added_at": "2023-10-30 03:15:03",
+      "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 201058,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
+    },
+    {
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO"
@@ -61,7 +161,7 @@
       "url": "https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Based On A True Story...",
         "url": "https://open.spotify.com/album/1Dk3gly6NaYZkimTVCFK4s"
@@ -77,7 +177,7 @@
       "url": "https://open.spotify.com/track/1uni8la2ZuN5oGlkAFBn9R"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Mirror (Deluxe)",
         "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
@@ -93,7 +193,7 @@
       "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
@@ -109,7 +209,7 @@
       "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Autumn Leaves",
         "url": "https://open.spotify.com/album/6DGGxFMQTmxzUInGRbCiwR"
@@ -125,7 +225,7 @@
       "url": "https://open.spotify.com/track/74y856olp2UIUAs3E1EgVX"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Proof Of Life (Deluxe)",
         "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
@@ -141,39 +241,7 @@
       "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
-      "album": {
-        "name": "Marking My Time",
-        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 197086,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/3mwI332yfoyzDoWYCFKrlD"
-    },
-    {
-      "added_at": "2023-10-23 07:48:55",
-      "album": {
-        "name": "how many",
-        "url": "https://open.spotify.com/album/7qsJCY5jPI72VLTkvK2Fq5"
-      },
-      "artists": [
-        {
-          "name": "jake minch",
-          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
-        }
-      ],
-      "duration_ms": 123986,
-      "name": "moms new car",
-      "url": "https://open.spotify.com/track/007p7Xo2xVS04qj9MnMPza"
-    },
-    {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I"
@@ -189,7 +257,7 @@
       "url": "https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Trust Me Mate",
         "url": "https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp"
@@ -205,7 +273,7 @@
       "url": "https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Kissing In Swimming Pools",
         "url": "https://open.spotify.com/album/1B1PGcHPdviJ6xkOtJiLgX"
@@ -221,7 +289,7 @@
       "url": "https://open.spotify.com/track/6BIlXbxx0kRiUdnmX8L1I9"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc"
@@ -237,7 +305,7 @@
       "url": "https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
@@ -253,23 +321,7 @@
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
-      "album": {
-        "name": "before we say goodbye",
-        "url": "https://open.spotify.com/album/0TBFC1vfrdOWijUL1wNygO"
-      },
-      "artists": [
-        {
-          "name": "Camylio",
-          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "see you soon",
-      "url": "https://open.spotify.com/track/4WNgNFce9OOslDBQWKNKDa"
-    },
-    {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "NO SZNS",
         "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
@@ -289,7 +341,7 @@
       "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Never Get Over You",
         "url": "https://open.spotify.com/album/4AKu1jDVOQ7sGhCBgk83mN"
@@ -309,7 +361,7 @@
       "url": "https://open.spotify.com/track/7LM7kxM3RvpM04afbUKZsb"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Little Blue (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
@@ -329,7 +381,23 @@
       "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
+      "album": {
+        "name": "Time Capsule",
+        "url": "https://open.spotify.com/album/1vWbtZaVKqBdMnee0QX5Zi"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Venus",
+          "url": "https://open.spotify.com/artist/2gBkcjCYEKisBVDaWyWY1W"
+        }
+      ],
+      "duration_ms": 219766,
+      "name": "Time Capsule",
+      "url": "https://open.spotify.com/track/6ZGS2Yrg21HadSMmshXyzf"
+    },
+    {
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "I Just Wanna Feel Your Love Again",
         "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
@@ -345,23 +413,7 @@
       "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
-      "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
-    },
-    {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
@@ -381,7 +433,7 @@
       "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -397,7 +449,7 @@
       "url": "https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Sorry I\u2019m Late",
         "url": "https://open.spotify.com/album/3WZfVdlY9ft0aRSsbiYSsa"
@@ -413,7 +465,7 @@
       "url": "https://open.spotify.com/track/2qJnJnEGf6qTvyAaYo4W1z"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -429,7 +481,7 @@
       "url": "https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
@@ -445,7 +497,7 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Snow Angel",
         "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
@@ -461,7 +513,7 @@
       "url": "https://open.spotify.com/track/2XAkMpygJilfoQBV9dx0rH"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Call Your Mom (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
@@ -481,7 +533,7 @@
       "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Your Bones",
         "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
@@ -497,27 +549,7 @@
       "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
-      "album": {
-        "name": "Sweet Symphony (Living Proof Version)",
-        "url": "https://open.spotify.com/album/6Hn7kX63d5uEm7mn0ZSCGH"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 225660,
-      "name": "Sweet Symphony (feat. Chris Stapleton) - Living Proof Version",
-      "url": "https://open.spotify.com/track/1KNre6pPRHOLQyjiBLgGmX"
-    },
-    {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "anatomy",
         "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
@@ -533,7 +565,7 @@
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -549,7 +581,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "The Lost Petals",
         "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
@@ -565,23 +597,23 @@
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+        "name": "Get Back To This",
+        "url": "https://open.spotify.com/album/4IztYZZhdJPXIRn1Hm30oM"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Newport",
+          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
         }
       ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+      "duration_ms": 207539,
+      "name": "Get Back To This",
+      "url": "https://open.spotify.com/track/1TDXAaxW5flsMfxoMr6vI1"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/0Jvrq5ydmUgRQjTCROZ8nj"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/288CnZzBkL4kTQqj3PlTAI"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Everwood",
         "url": "https://open.spotify.com/album/4YI8iB9csSyJOEjgaNO0GL"
@@ -613,7 +645,23 @@
       "url": "https://open.spotify.com/track/79wa7WvKqnPZq8f4ssxvJt"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3odepRGqhJyXhM3epuiIEd"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 144991,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/66sYEY22jehD7EFv977y3I"
+    },
+    {
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
@@ -629,23 +677,7 @@
       "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
-      "album": {
-        "name": "Nitty Gritty",
-        "url": "https://open.spotify.com/album/5DsezeVQVXH142aHUnA7r0"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Nitty Gritty",
-      "url": "https://open.spotify.com/track/6YMzc4iQPZnfZmsKdHOFqG"
-    },
-    {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
@@ -661,7 +693,7 @@
       "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "to love in the 21st century",
         "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
@@ -677,7 +709,7 @@
       "url": "https://open.spotify.com/track/0lz9I2JmKUghqZxajCtTFJ"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
@@ -693,23 +725,7 @@
       "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
-      "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 200497,
-      "name": "You Could Start A Cult",
-      "url": "https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB"
-    },
-    {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "is nothing sacred?",
         "url": "https://open.spotify.com/album/2qCE8Y2KxUrZcGPDBm55zt"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/51wgw96YSNMKN4kY9FsooP"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1"
@@ -741,23 +757,23 @@
       "url": "https://open.spotify.com/track/4WCEBiPW3xoC0T4wYMXW9U"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
-        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
-        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
+        "name": "How Do You Make It Look So Easy?",
+        "url": "https://open.spotify.com/album/6k1DZaQtT7Gj6Fe2a7hZjC"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
         }
       ],
-      "duration_ms": 241661,
-      "name": "A day in the water",
-      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
+      "duration_ms": 145557,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/7tbC31Nhterd5PRjcG1OCv"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "life with u",
         "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Lost At Sea",
         "url": "https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9"
@@ -809,23 +825,7 @@
       "url": "https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz"
     },
     {
-      "added_at": "2023-10-23 07:48:55",
-      "album": {
-        "name": "Time Will Fly",
-        "url": "https://open.spotify.com/album/6XJvhvhwxVusNnIanbDpG6"
-      },
-      "artists": [
-        {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        }
-      ],
-      "duration_ms": 151661,
-      "name": "Time Will Fly",
-      "url": "https://open.spotify.com/track/3iLczn6rof3Fl0C0x4075J"
-    },
-    {
-      "added_at": "2023-10-23 07:48:55",
+      "added_at": "2023-10-30 03:15:03",
       "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"

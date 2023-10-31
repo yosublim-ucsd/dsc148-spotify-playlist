@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:LEEWOO\(이우\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,589 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,653 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 |
 | 100 | [Marry Me](https://open.spotify.com/track/60XDBmcTUepDSF6CvCsUJQ) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Marry Me](https://open.spotify.com/album/1UyAxLJHTTbz6JXX3kFzn1) | 3:58 |
 
-Snapshot ID: `MCwzYzM2NjhiOGIxOGRmOWM2NDQ5YWJjN2YxNDA2OWE4N2RjMjQwMjIw`
+Snapshot ID: `MCxjZGQ4ODQ0ODdkZTliZmIxYTZjNTg2Y2IxOTg0NjZhOTQ4MDRlZjc2`

@@ -1,12 +1,12 @@
 {
   "description": "Latin songs that changed the game. Cover: Celia Cruz",
-  "num_followers": 1027652,
+  "num_followers": 1027776,
   "original_name": "100 Latin Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjkwN2NmMTgyZGI2Y2IzZWFjNDMwMjJlNWU4MzNlYWFlYzg5MTY1",
+  "snapshot_id": "MCw2YWVjMTdhY2E0MzdmMDY4ODdiNGE5YTUyZDFhMGRiYmU1ZThlOTFj",
   "tracks": [
     {
       "added_at": "2023-04-11 19:14:43",
@@ -303,6 +303,26 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210367,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 210367,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
     },
     {
       "added_at": "2023-04-11 19:14:43",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 302253,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
         "name": "Entre El Agua Y El Fuego",
         "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 237120,
-      "name": "I Know You Want Me (Calle Ocho)",
-      "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
+      "duration_ms": 302253,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
     },
     {
       "added_at": "2023-04-11 19:14:43",
@@ -663,6 +647,22 @@
       "duration_ms": 267826,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
     },
     {
       "added_at": "2023-04-11 19:14:43",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
-        "name": "Franco de Vita",
-        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 240226,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
         "name": "Recuerdos II",
         "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 328320,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
+        "name": "Franco de Vita",
+        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 240226,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
     },
     {
       "added_at": "2023-04-11 19:14:43",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 409466,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
     },
     {
       "added_at": "2023-04-11 19:14:43",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
         "name": "Mambo No 5",
         "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 162213,
       "name": "Mambo No 5",
       "url": "https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
     },
     {
       "added_at": "2023-04-11 19:14:43",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
-        "name": "Hijas del Tomate",
-        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
-      },
-      "artists": [
-        {
-          "name": "Las Ketchup",
-          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "The Ketchup Song (Aserej\u00e9) - Spanish Version",
-      "url": "https://open.spotify.com/track/0aGKNekx2JAxGzza802fnC"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
         "name": "Sus Grandes Exitos",
         "url": "https://open.spotify.com/album/4fXILOMBr57rYVoZ22Z1C4"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 179666,
       "name": "Caballo Viejo",
       "url": "https://open.spotify.com/track/6VGRiUGPup3c0tZTX2lWhv"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
+        "name": "Hijas del Tomate",
+        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
+      },
+      "artists": [
+        {
+          "name": "Las Ketchup",
+          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "The Ketchup Song (Aserej\u00e9) - Spanish Version",
+      "url": "https://open.spotify.com/track/0aGKNekx2JAxGzza802fnC"
     },
     {
       "added_at": "2023-04-11 19:14:43",

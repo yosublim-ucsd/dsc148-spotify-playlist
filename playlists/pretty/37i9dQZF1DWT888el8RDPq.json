@@ -1,12 +1,12 @@
 {
   "description": "canzoni felici italiane e internazionali per un settembre preso bene \u2600\ufe0f",
-  "num_followers": 47687,
+  "num_followers": 47708,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmQzNWUwMDA3YTZkYzQ5MDAwYTVjNjMyMjFkOWFlNDQyYjBiNjE0",
+  "snapshot_id": "MCxkOWU2ODMwOTY0NjRiYmUwN2YyYTAzYWY5MDRmOTAwYjlkYjg2NWQz",
   "tracks": [
     {
       "added_at": "2023-10-26 07:58:58",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-10-26 07:58:58",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2023-10-26 07:58:58",
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2023-10-26 07:58:58",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2023-10-26 07:58:58",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-10-26 07:58:58",
       "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2023-10-26 07:58:58",
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 269186,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
-    },
-    {
-      "added_at": "2023-10-26 07:58:58",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2023-10-26 07:58:58",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-10-26 07:58:58",
       "album": {
-        "name": "Surfer Rosa",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Where Is My Mind? - Remastered",
-      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
-    },
-    {
-      "added_at": "2023-10-26 07:58:58",
-      "album": {
         "name": "Cheese",
         "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 206066,
       "name": "Alors on danse - Radio Edit",
       "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+    },
+    {
+      "added_at": "2023-10-26 07:58:58",
+      "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
       "added_at": "2023-10-26 07:58:58",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-10-26 07:58:58",
       "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
+    },
+    {
+      "added_at": "2023-10-26 07:58:58",
+      "album": {
         "name": "edamame (feat. Rich Brian)",
         "url": "https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
-    },
-    {
-      "added_at": "2023-10-26 07:58:58",
-      "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK"
     },
     {
       "added_at": "2023-10-26 07:58:58",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2023-10-26 07:58:58",
       "album": {
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 188975,
+      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
+      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
+    },
+    {
+      "added_at": "2023-10-26 07:58:58",
+      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -1663,26 +1683,6 @@
     {
       "added_at": "2023-10-26 07:58:58",
       "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 188975,
-      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
-      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
-    },
-    {
-      "added_at": "2023-10-26 07:58:58",
-      "album": {
         "name": "All 4 Nothing (I'm So In Love)",
         "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
       },
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-10-26 07:58:58",
       "album": {
-        "name": "Blu Celeste",
-        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
+        "name": "Where the Light Is",
+        "url": "https://open.spotify.com/album/5nX3zwIAgHttSudEHLTsAW"
       },
       "artists": [
         {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Finch\u00e9 Non Mi Seppelliscono",
-      "url": "https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"
+      "duration_ms": 158947,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/1qYKWcEOrh2tM8PlgIm8K1"
     },
     {
       "added_at": "2023-10-26 07:58:58",

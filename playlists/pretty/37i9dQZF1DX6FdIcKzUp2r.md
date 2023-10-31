@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,551 likes - 80 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,675 likes - 80 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 46 | [The Things You Said \- 2006 Remaster](https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 3:59 |
 | 47 | [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 |
 | 48 | [I Hear You Now](https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Best Of Jon & Vangelis](https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc) | 4:48 |
-| 49 | [I Go to Sleep \- 2018 Remaster](https://open.spotify.com/track/6nIJU23VH8pHw8xPEqFHX7) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders II \(Deluxe Edition\)](https://open.spotify.com/album/6eTHa4zNxrrykO2J3jFxpB) | 2:56 |
-| 50 | [And Dream Of Sheep](https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 2:45 |
+| 49 | [And Dream Of Sheep](https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 2:45 |
+| 50 | [I Go to Sleep \- 2018 Remaster](https://open.spotify.com/track/6nIJU23VH8pHw8xPEqFHX7) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders II \(Deluxe Edition\)](https://open.spotify.com/album/6eTHa4zNxrrykO2J3jFxpB) | 2:56 |
 | 51 | [Exile \- 2009 Remaster](https://open.spotify.com/track/7zNfdQ6CMDFTy5lpTuANdq) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Watermark \(2009 Remaster\)](https://open.spotify.com/album/0NJjvdOd3ULUTvoVFCCFJN) | 4:21 |
 | 52 | [Forbidden Colors](https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU) | 4:42 |
-| 53 | [Abraham's Theme](https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:20 |
-| 54 | [I Believe](https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 4:55 |
-| 55 | [Theme From Harry's Game](https://open.spotify.com/track/6XngTvz0XnKtLIeYcbPWMx) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Pastpresent](https://open.spotify.com/album/1hgOSHsuK7hvkcSguKSYd8) | 2:28 |
+| 53 | [Theme From Harry's Game](https://open.spotify.com/track/6XngTvz0XnKtLIeYcbPWMx) | [Clannad](https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ) | [Pastpresent](https://open.spotify.com/album/1hgOSHsuK7hvkcSguKSYd8) | 2:28 |
+| 54 | [Abraham's Theme](https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:20 |
+| 55 | [I Believe](https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 4:55 |
 | 56 | [A Different Corner](https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 3:57 |
 | 57 | [Father to Son \- 2016 Remaster](https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 3:27 |
 | 58 | [October \- Remastered 2008](https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 2:21 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 75 | [Private Investigations](https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold](https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5) | 6:46 |
 | 76 | [Otterley](https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 4:04 |
 | 77 | [I'll Find My Way Home \- Remastered](https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mister Cairo \(Remastered\)](https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB) | 4:30 |
-| 78 | [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 |
-| 79 | [Over the Hillside](https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 5:04 |
+| 78 | [Over the Hillside](https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 5:04 |
+| 79 | [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 |
 | 80 | [Requiem Again](https://open.spotify.com/track/673do07xdvVTt65SIwRtc3) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:01 |
 
-Snapshot ID: `MCwzYjk3MjQ4YjFlMzNmMjhmM2I0YmJhOTcxYTQ2NDQ5MjBhMjVkNjEw`
+Snapshot ID: `MCxiYTk2ZWFjOTFkYmY0MzVmYzdjODQzOTMwMWM1Njk1MzVmMTZlOTQ3`

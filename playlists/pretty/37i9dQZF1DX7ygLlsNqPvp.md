@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=OM3vTCGWTP\-CdTqJ2D1Ing"> Reggie</a> and  <a href="https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac?si=oWJSpy8iSBmwCO8jeie\_tw"> Kofi Mole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,358 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,368 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 29 | [Frodo Baggins](https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb) | 4:35 |
 | 30 | [Sore \- Remix](https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Sore \(Remix\)](https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc) | 4:26 |
 | 31 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 |
-| 32 | [ALA BEKE 2 \(with ODUMODUBLVCK\)](https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ALA BEKE 2 \(with ODUMODUBLVCK\)](https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG) | 2:59 |
+| 32 | [ALA BEKE 2](https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ALA BEKE 2](https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG) | 2:59 |
 | 33 | [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 |
 | 34 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 |
 | 35 | [U CAN'T SHOW ME NATTIN](https://open.spotify.com/track/0UK1y4xvWdW72NZikJTNtZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [U CAN'T SHOW ME NATTIN](https://open.spotify.com/album/52ozyyffNnSxshBttmll8o) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [ANADWO](https://open.spotify.com/track/0yJwoXiQgvWGRI0zC4fBkc) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sheriff](https://open.spotify.com/artist/1zNmTgU8HEjyvdD1UDpOi9), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/1zBWBi9V1zJ1wU6yKCMC8b) | 2:43 |
 | 50 | [Danjuma](https://open.spotify.com/track/64X4sdsIErlSmK7PtbqA9u) | [Kwesi Taadi](https://open.spotify.com/artist/5cwOSWuUV5wpdx7FmxRuVw) | [Musah Abonko Ne Nana](https://open.spotify.com/album/1XqsjZN6wEsM9WjSqB7LMt) | 2:34 |
 
-Snapshot ID: `MCw3NjlhNmM5M2UxY2Q5NmYxYmRlOTM5ZjZiY2I3YjFiNTFmMGRjYmM1`
+Snapshot ID: `MCw0OGY2MjIzYWRlZDc2ZmFmNGRmMWRlMzhmYWFhY2M4NjdhMTIyZTQx`

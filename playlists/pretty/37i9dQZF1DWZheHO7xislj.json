@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 138300,
+  "num_followers": 138309,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjlhODIzOWJhYzk1N2I4YmZlNjExYmY5ZWQxNmE5MzRkYjI3NzMw",
+  "snapshot_id": "MCxhMTE4MWI4NWU1OGJiM2UyODU1YmVkZjU4YzY1MzU0N2ExYTQ2Mjc4",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -155,34 +139,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -203,6 +171,38 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Daryl Hall & John Oates (The Silver Album)",
         "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+      "duration_ms": 193573,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 193573,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -311,6 +311,22 @@
       "duration_ms": 155413,
       "name": "Love Is A Losing Game",
       "url": "https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -363,18 +379,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -395,18 +411,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Got To Give It Up - Pt. 1",
-      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
+      "duration_ms": 226213,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -471,22 +487,6 @@
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Hey Nineteen",
-      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 174440,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -795,22 +795,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "No Time For Dreaming",
-        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
       },
       "artists": [
         {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 183440,
-      "name": "Heart of Gold",
-      "url": "https://open.spotify.com/track/36X97rcBwZSa79eNfM1kKN"
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -831,18 +827,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+      "duration_ms": 183440,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/36X97rcBwZSa79eNfM1kKN"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -915,6 +915,38 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Breezin'",
+        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 341733,
+      "name": "Breezin'",
+      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Enter The 37th Chamber",
+        "url": "https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "No Time For Dreaming",
         "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
@@ -935,22 +967,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Breezin'",
-        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 341733,
-      "name": "Breezin'",
-      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Soul Album",
         "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 240800,
       "name": "Cigarettes and Coffee",
       "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Enter The 37th Chamber",
-        "url": "https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 384666,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Dreamin' Wild",
         "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 250533,
       "name": "Baby",
       "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 384666,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Diana Ross & The Supremes Join The Temptations",
-        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        },
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "I'm Gonna Make You Love Me",
-      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Breakin' Away",
         "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 165960,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Diana Ross & The Supremes Join The Temptations",
+        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        },
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "I'm Gonna Make You Love Me",
+      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "The Very Best of Otis Redding",
+        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "It's Your Night",
         "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 254880,
       "name": "How Do You Keep The Music Playing",
       "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "The Very Best of Otis Redding",
-        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Rejuvenation",
-        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
-      },
-      "artists": [
-        {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "People Say",
-      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Liquid Spirit (Deluxe Version)",
         "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj"
       },
@@ -2547,6 +2531,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Rejuvenation",
+        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
+      },
+      "artists": [
+        {
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "People Say",
+      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Fancy",
         "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
       },
@@ -2559,22 +2559,6 @@
       "duration_ms": 258912,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 347493,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/21SHzZ1qsXzJ5Socuuyo8w"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2599,6 +2583,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 347493,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/21SHzZ1qsXzJ5Socuuyo8w"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Late Night Tales: Another Late Night - Zero 7",
         "url": "https://open.spotify.com/album/0qZikBhy0lOQGj8S9uq8l4"
       },
@@ -2611,26 +2611,6 @@
       "duration_ms": 328500,
       "name": "You Can't Turn Me Away",
       "url": "https://open.spotify.com/track/7H6lTSdK33pBFUwNbXCxX3"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Wake Up!",
-        "url": "https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 386866,
-      "name": "Compared to What",
-      "url": "https://open.spotify.com/track/6HwUwxon7QjBIf75SCz2QD"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2683,6 +2663,26 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Wake Up!",
+        "url": "https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 386866,
+      "name": "Compared to What",
+      "url": "https://open.spotify.com/track/6HwUwxon7QjBIf75SCz2QD"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "The Art Of Tea",
         "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
       },
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 141626,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/7mvKpoeI6sq6osDtSb9xcF"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Eugene Record",
         "url": "https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B"
       },
@@ -2779,22 +2763,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Loving on the Flipside",
-        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
-      },
-      "artists": [
-        {
-          "name": "Eunice Collins",
-          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "At the Hotel",
-      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Naked & Warm",
         "url": "https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY"
       },
@@ -2807,6 +2775,38 @@
       "duration_ms": 644826,
       "name": "City of the Angels",
       "url": "https://open.spotify.com/track/7yokzOJMDlz8WdZz92j33G"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 141626,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/7mvKpoeI6sq6osDtSb9xcF"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Loving on the Flipside",
+        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
+      },
+      "artists": [
+        {
+          "name": "Eunice Collins",
+          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "At the Hotel",
+      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2931,22 +2931,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Lay It On Me: The Columbia Years",
-        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 132013,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Marbles",
         "url": "https://open.spotify.com/album/618uPUChbE55hBhZwJ4YKE"
       },
@@ -2959,6 +2943,22 @@
       "duration_ms": 192226,
       "name": "Crystal Ball (In the Cupboard)",
       "url": "https://open.spotify.com/track/3um8vOZ8XxTeSvxHneXvgG"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Lay It On Me: The Columbia Years",
+        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 132013,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3027,6 +3027,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Body Heat",
+        "url": "https://open.spotify.com/album/3lvSxvMmdUz694tDBXkPmv"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "Body Heat",
+      "url": "https://open.spotify.com/track/0OLOcKHN4uXRo5ISx2TAqk"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -3055,22 +3071,6 @@
       "duration_ms": 238013,
       "name": "Lovestreet 55",
       "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Body Heat",
-        "url": "https://open.spotify.com/album/3lvSxvMmdUz694tDBXkPmv"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "Body Heat",
-      "url": "https://open.spotify.com/track/0OLOcKHN4uXRo5ISx2TAqk"
     },
     {
       "added_at": "2023-08-15 12:19:30",

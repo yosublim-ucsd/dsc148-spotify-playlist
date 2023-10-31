@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > more than just a lifestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,134 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,238 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 59 | [Summertime](https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:27 |
 | 60 | [Girls Deserve More Money](https://open.spotify.com/track/7itEqiDQTTgU8r7JGy7vie) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:43 |
 
-Snapshot ID: `MCw0ZWE0M2MxNzhiNzUyODU3NzEwY2E3ZGJkYWZkMGZmOGZhNDQ4ZDk2`
+Snapshot ID: `MCwxNjRkZTRiZTBkMTQ3NTc2NTY1YzJiMWQ1MTIwYzdmMzEyYjYzNDE2`

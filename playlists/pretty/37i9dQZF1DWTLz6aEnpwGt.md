@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 
 > Bach's most popular piano pieces, performed by the greatest pianists of the last century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,715 likes - 43 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,749 likes - 43 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 | 42 | [Partita No\. 1 in B\-Flat Major, BWV 825: IV\. Sarabande](https://open.spotify.com/track/7Ja4zr92OkUWRAHAtkhIxi) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Wolfgang Rübsam](https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj) | [Bach: Partitas, BWV 825\-826 \- Capriccio on the Departure of his Most Beloved Brother \- Prelude and Fughetta in G major, BWV 902](https://open.spotify.com/album/6rCzsHurqAHPhijo22SDSY) | 5:42 |
 | 43 | [Partita No\. 5 in G major, BWV 829 : II\. Allemande](https://open.spotify.com/track/2pDSPZte0uGQMXSUnhxNzS) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Wolfgang Rübsam](https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj) | [J.S\. Bach: Partitas Nos\. 5\-6, Bwv 829\-830](https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH) | 4:12 |
 
-Snapshot ID: `MCwyN2MzN2NiOGUxZTY3MGMyNjhmODc5OGMzZWNmNGZiNzRmMjg3OTlj`
+Snapshot ID: `MCw0N2QzODNiYjMyMjVmNjgzYjE2ZmM0NzBmZDgzNzk3M2Q2OTRmMWRk`

@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 751623,
+  "num_followers": 751734,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDJkMDY3ZTlhNWU4ZTlmN2MzOWExN2NlZDFjODM3MDI2YjU0NTgz",
+  "snapshot_id": "MCwzZDUxYTY0ZmQ4OTQ4YTYxNDQxYzlmZTcyZTRiMWE1MjI1M2U5Mzc3",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "The Unkillable Soldier",
+        "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "The Unkillable Soldier",
+      "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Secrets Of The American Gods",
         "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Unkillable Soldier",
-        "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "The Unkillable Soldier",
-      "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Omega",
         "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 320283,
       "name": "Abyss of Time - Countdown to Singularity -",
       "url": "https://open.spotify.com/track/627pEZNVSQ3iUyvOoxXVUw"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Natural Born Killer",
-        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -419,6 +403,22 @@
       "duration_ms": 300560,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Natural Born Killer",
+        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Wonders Still Awaiting",
-        "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
-      },
-      "artists": [
-        {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Wicked Rule The Night",
         "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Wonders Still Awaiting",
+        "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "My Soul's Demise",
+        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 264981,
+      "name": "My Soul's Demise",
+      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Pop Metal",
         "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "My Soul's Demise",
-        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 264981,
-      "name": "My Soul's Demise",
-      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Invaders",
         "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 314414,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Seventh Rum of a Seventh Rum",
         "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 201114,
       "name": "Seventh Rum of a Seventh Rum",
       "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Beast Has Awoken",
         "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 259068,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Here We Stand",
-        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
-      },
-      "artists": [
-        {
-          "name": "In Victory",
-          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
-        }
-      ],
-      "duration_ms": 248026,
-      "name": "Here We Stand",
-      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Now Is the Time",
         "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Black Venom",
-        "url": "https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq"
+        "name": "Here We Stand",
+        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
       },
       "artists": [
         {
-          "name": "Without Warning",
-          "url": "https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe"
+          "name": "In Victory",
+          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Black Venom",
-      "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
+      "duration_ms": 248026,
+      "name": "Here We Stand",
+      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 196636,
       "name": "Juokse Sin\u00e4 Humma",
       "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Black Venom",
+        "url": "https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq"
+      },
+      "artists": [
+        {
+          "name": "Without Warning",
+          "url": "https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Black Venom",
+      "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
     },
     {
       "added_at": "2023-05-19 04:00:00",

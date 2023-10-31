@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -12538,7 +12538,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 137941,
       "name": "Eu Tive um Amor",
       "url": "https://open.spotify.com/track/7t4ZSYEeqNFJbT6bWOf1G9"
@@ -17014,6 +17014,24 @@
       "duration_ms": 155258,
       "name": "Isso Que \u00c9 Bom",
       "url": "https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS"
+    },
+    {
+      "album": {
+        "name": "IT GIRL",
+        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "IT GIRL",
+      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
     },
     {
       "album": {
@@ -21731,6 +21749,28 @@
     },
     {
       "album": {
+        "name": "The Original Monster Mash",
+        "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        },
+        {
+          "name": "The Crypt-Kickers",
+          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+    },
+    {
+      "album": {
         "name": "MONTAGEM - ASSOMBRA MATRIX 2",
         "url": "https://open.spotify.com/album/4vawRlzVPmDTJ68vgTtwwP"
       },
@@ -22754,7 +22794,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 144549,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/0fjS6NhjQTvSr6kPrRsabQ"
@@ -25168,7 +25208,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 209139,
       "name": "Olho Encharcado - Ao Vivo",
       "url": "https://open.spotify.com/track/4GXrKLzDyWYJnD2TbgvKiN"
@@ -29486,6 +29526,24 @@
       "duration_ms": 102923,
       "name": "RITMO DE TREINO",
       "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
+    },
+    {
+      "album": {
+        "name": "robot rock (funk)",
+        "url": "https://open.spotify.com/album/4GX5gPDX5eZkPY7aDm1Cs4"
+      },
+      "artists": [
+        {
+          "name": "DJ Paulinho Mondi Da Baixa Baviera",
+          "url": "https://open.spotify.com/artist/648ZoUpTM6iIMTCgo3lLCE"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153529,
+      "name": "robot rock (funk)",
+      "url": "https://open.spotify.com/track/5CzmDYSqoancLlV8vMGdPl"
     },
     {
       "album": {
@@ -34128,6 +34186,24 @@
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
     },
     {
       "album": {

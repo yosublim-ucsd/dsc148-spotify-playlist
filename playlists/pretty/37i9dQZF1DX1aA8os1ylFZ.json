@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 238778,
+  "num_followers": 238833,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmMzOTFjZWMyYmUxNjRkYTQ2NmJjNThlMzc0ZWY4MmUxZmNlNzBj",
+  "snapshot_id": "MCw1ZGM0M2UyNDk5NzY2Njc2NzUyYTE3M2MyZGZjNDFmZWNiNDA3OGUz",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 173377,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Word For Word",
         "url": "https://open.spotify.com/album/2cEJ2GHIoUgI9nrEZGTONk"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 183022,
       "name": "Word For Word",
       "url": "https://open.spotify.com/track/6YRe3sTiUR0ACtSQTejxCt"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 173377,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 233826,
       "name": "Chances",
       "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 193789,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "who's loving you?",
         "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 92852,
       "name": "Ain't Mine",
       "url": "https://open.spotify.com/track/267UZx3gyAvNKiEVmpl915"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 193789,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Life Is Better Now",
+        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 151724,
+      "name": "Troubling",
+      "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 151569,
       "name": "Save Me, Pt. 2",
       "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Life Is Better Now",
-        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 151724,
-      "name": "Troubling",
-      "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Ride with You",
-        "url": "https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        },
-        {
-          "name": "Mike Tibbert",
-          "url": "https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75"
-        }
-      ],
-      "duration_ms": 164793,
-      "name": "Ride with You",
-      "url": "https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Just Expectationz",
         "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 160604,
       "name": "2 Am",
       "url": "https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Ride with You",
+        "url": "https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "Mike Tibbert",
+          "url": "https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75"
+        }
+      ],
+      "duration_ms": 164793,
+      "name": "Ride with You",
+      "url": "https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Private",
-        "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        },
-        {
-          "name": "Bad\u00ed",
-          "url": "https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa"
-        }
-      ],
-      "duration_ms": 158901,
-      "name": "Private",
-      "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 136971,
       "name": "Check Myself",
       "url": "https://open.spotify.com/track/4Oz1Aw9TEyuNljkUAaY8mw"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Private",
+        "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "Bad\u00ed",
+          "url": "https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa"
+        }
+      ],
+      "duration_ms": 158901,
+      "name": "Private",
+      "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2pQtPvWVGYTIOuRdtcv7iw"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 169341,
-      "name": "It Ain't Easy",
-      "url": "https://open.spotify.com/track/70NUQKxZwOxjp03dJOlRGH"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 183996,
       "name": "Home",
       "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2pQtPvWVGYTIOuRdtcv7iw"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 169341,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/70NUQKxZwOxjp03dJOlRGH"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 181422,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 179954,
       "name": "Ride",
       "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 181422,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Say That",
-        "url": "https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh"
-      },
-      "artists": [
-        {
-          "name": "Ast\u00e8r Fekre",
-          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Say That",
-      "url": "https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 152562,
       "name": "Patience",
       "url": "https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Say That",
+        "url": "https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh"
+      },
+      "artists": [
+        {
+          "name": "Ast\u00e8r Fekre",
+          "url": "https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Say That",
+      "url": "https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy"
     },
     {
       "added_at": "2023-10-12 22:00:00",

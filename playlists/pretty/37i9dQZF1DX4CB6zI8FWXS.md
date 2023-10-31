@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,649 likes - 79 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,687 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 78 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 |
 | 79 | [Wrong Hands](https://open.spotify.com/track/7lP071DicbJJgF3VU8vCkw) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Wrong Hands](https://open.spotify.com/album/4v5bS7FUVnI04SH8JIZOh5) | 3:09 |
 
-Snapshot ID: `MCw2YTRlZjJhYzQ0YjgzNzRiNmEzZDc5YWFkMmQyY2JmZmIwYjdlNWM4`
+Snapshot ID: `MCw3NDk4YjAzMTc4NzVjMjlmZmMwNjhlZTcwZGFlNDMxMWUxNjczZDY2`

@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 391029,
+  "num_followers": 391101,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjM1MGNhNzgyNGY2NTQyMGExM2Y5NGFjMTk5ODM1MjgyOTVmNWFh",
+  "snapshot_id": "MCw4NGRlYjcxZjEyNGVmNmM3MGZkZmFjNTQyNGFmNjNjMDU0MTU4Mzgw",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -163,22 +163,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Sinatra 80th: All The Best",
-        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Begin The Beguine",
         "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
       },
@@ -191,38 +175,6 @@
       "duration_ms": 196160,
       "name": "Begin the Beguine",
       "url": "https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 520293,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -263,6 +215,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -275,6 +243,22 @@
       "duration_ms": 178533,
       "name": "Four Brothers",
       "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 520293,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -415,6 +399,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/13apJo5WpOSe3qmfIYOCp2"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Golden Girl (The Columbia Recordings 1944-1966)",
         "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
@@ -495,26 +495,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Tony Bennett With Count Baise",
-        "url": "https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 163122,
-      "name": "Are You Having Any Fun",
-      "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 404880,
       "name": "Take The \"A\" Train",
       "url": "https://open.spotify.com/track/6noZKuR5pjlEIynqvpFPbD"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Tony Bennett With Count Baise",
+        "url": "https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 163122,
+      "name": "Are You Having Any Fun",
+      "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO"
     },
     {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Happy Together",
-        "url": "https://open.spotify.com/album/4RsJz7fSJgWzGhooCmzGoO"
-      },
-      "artists": [
-        {
-          "name": "Matt Forbes",
-          "url": "https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt"
-        }
-      ],
-      "duration_ms": 216738,
-      "name": "Happy Together",
-      "url": "https://open.spotify.com/track/3fwtrg0fdPvtW793T6WPwF"
-    },
-    {
       "added_at": "2020-03-06 16:28:56",
       "album": {
         "name": "Welcome to My Dream",
@@ -595,6 +579,22 @@
       "duration_ms": 195030,
       "name": "Woodchopper\u2019s Ball",
       "url": "https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/4RsJz7fSJgWzGhooCmzGoO"
+      },
+      "artists": [
+        {
+          "name": "Matt Forbes",
+          "url": "https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt"
+        }
+      ],
+      "duration_ms": 216738,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/3fwtrg0fdPvtW793T6WPwF"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Night In Tunisia: The Very Best Of Dizzy Gillespie",
-        "url": "https://open.spotify.com/album/23CDAtj0sfiYYuoDWYR6cf"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Manteca",
-      "url": "https://open.spotify.com/track/6KpMB0Wgw1NVFqwn0DCprf"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Contrasts",
         "url": "https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 185333,
       "name": "I Got Rhythm",
       "url": "https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Night In Tunisia: The Very Best Of Dizzy Gillespie",
+        "url": "https://open.spotify.com/album/23CDAtj0sfiYYuoDWYR6cf"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Manteca",
+      "url": "https://open.spotify.com/track/6KpMB0Wgw1NVFqwn0DCprf"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "More Smiles",
-        "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
-      },
-      "artists": [
-        {
-          "name": "The Kenny Clarke-Francy Boland Big Band",
-          "url": "https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO"
-        }
-      ],
-      "duration_ms": 254413,
-      "name": "Lullaby of the Leaves",
-      "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Birks Works: The Verve Big-Band Sessions",
         "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 235866,
       "name": "Doodlin'",
       "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "More Smiles",
+        "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
+      },
+      "artists": [
+        {
+          "name": "The Kenny Clarke-Francy Boland Big Band",
+          "url": "https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO"
+        }
+      ],
+      "duration_ms": 254413,
+      "name": "Lullaby of the Leaves",
+      "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
     },
     {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Luck Be a Lady",
+      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
+    },
+    {
       "added_at": "2020-03-06 16:28:56",
       "album": {
         "name": "Present Perfect",
@@ -835,22 +851,6 @@
       "duration_ms": 582509,
       "name": "The Waltz I Blew for You",
       "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
-    },
-    {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Luck Be a Lady",
-      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
     },
     {
       "added_at": "2021-10-08 04:02:00",

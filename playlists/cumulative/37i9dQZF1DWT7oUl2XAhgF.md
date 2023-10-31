@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-357 songs - 21 hr 41 min
+358 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [I'm Comin' Home To You](https://open.spotify.com/track/2RHV6ehfb8JnyXugVy7D4E) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Stella Angelico](https://open.spotify.com/artist/3qZl6vkduvtusEc6dnSwGz) | [I'm Comin' Home To You](https://open.spotify.com/album/1J5DfEBCaIxpDRBZl0Slwm) | 3:31 | 2023-08-25 |  |
 | [I'm Curious](https://open.spotify.com/track/5wl4ycUNQn2SWhW9nDh3Oe) | [Wilson Meadows](https://open.spotify.com/artist/1kJpdoVAFnAbIywNd5JVro) | [I'm Curious](https://open.spotify.com/album/6ZEX1dLRi1PfRkLmrbS44l) | 3:10 | 2022-04-15 |  |
 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 | 2023-06-16 |  |
-| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-27 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-27 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-27 | 2023-10-31 |
 | [If My Love Was Enough](https://open.spotify.com/track/5aXJA4672geISfKvJYMvP2) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Natalie Slade](https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ) | [If My Love Was Enough](https://open.spotify.com/album/5nj8FfDsjGKC3WMPIG900C) | 3:41 | 2021-07-09 | 2022-07-21 |
 | [If You Don't Want My Love](https://open.spotify.com/track/2364WrvPTUHobDNURudCbM) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N) | 2:26 | 2023-03-24 | 2023-04-30 |
 | [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 | 2023-03-24 | 2023-09-09 |

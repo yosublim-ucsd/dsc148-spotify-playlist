@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,350 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,581 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 29 | [ODDTAXI](https://open.spotify.com/track/4bMo9lJmh3jNTzfmfQ1YcL) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/3xvfQSF7SX9lk4OC1wwOTS) | 3:23 |
 | 30 | [Let There Be Light Again](https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/6uQ4JRkPUIbk757knVVIZS) | 3:47 |
 | 31 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 |
-| 32 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
-| 33 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
+| 32 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
+| 33 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 34 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 |
 | 35 | [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 4:26 |
 | 36 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
-| 37 | [春泥棒](https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春泥棒](https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz) | 4:50 |
-| 38 | [The Girl Who Fell From The Sky \(Laputa\)](https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Ghibli, Anime & Chill](https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK) | 1:31 |
-| 39 | [You're in Love](https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 1:11 |
-| 40 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 |
-| 41 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 |
-| 42 | [コイワズライ](https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 3:55 |
-| 43 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
-| 44 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 |
+| 37 | [The Girl Who Fell From The Sky \(Laputa\)](https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Ghibli, Anime & Chill](https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK) | 1:31 |
+| 38 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 |
+| 39 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 |
+| 40 | [コイワズライ](https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 3:55 |
+| 41 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
+| 42 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 |
+| 43 | [春泥棒](https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春泥棒](https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz) | 4:50 |
+| 44 | [You're in Love](https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 1:11 |
 | 45 | [イザベラの唄](https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8) | [小畑貴裕](https://open.spotify.com/artist/1ts9YsGOQHW0vzUrhG4ZpH) | [約束のネバーランド Season1 Original Soundtrack](https://open.spotify.com/album/6yN3OuEpq0YkHK21VDQJKb) | 2:29 |
 | 46 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 |
 | 47 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
-| 48 | [ROBO](https://open.spotify.com/track/0FzeGgNmk8ZQIkMynJU5Pp) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ROBO](https://open.spotify.com/album/1mlPgMKIp1OIfCRuUR8Q4q) | 3:52 |
-| 49 | [ボクノート](https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夕風ブレンド](https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL) | 5:36 |
-| 50 | [Howl's Moving Castle Theme](https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN) | [Kyle Landry](https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59) | [Howl's Moving Castle Theme](https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw) | 5:50 |
+| 48 | [ボクノート](https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夕風ブレンド](https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL) | 5:36 |
+| 49 | [Howl's Moving Castle Theme](https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN) | [Kyle Landry](https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59) | [Howl's Moving Castle Theme](https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw) | 5:50 |
+| 50 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
 
-Snapshot ID: `MCxjY2E5YWQwY2QxNWQxN2QwNjMwN2RjYTU0OTJlOWY4OGQzZTEzMGEx`
+Snapshot ID: `MCw4MTJiZGJlYTNhZjM1NDVlNzcwNDVjZGE5MjUyMGEzNjNkNjhjMDI0`

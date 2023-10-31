@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 14891,
+  "num_followers": 14916,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGE3N2Q1MzQ1ZmNhN2JhN2E2MjExZjMyYmQ0Njk2NTQ4NDA1Y2Jk",
+  "snapshot_id": "MCw3Njg3ZTRkNTdhZWQxZWU4NmNhMmM4ZTIwODcxZmMzNTBjNjI2YWQ4",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "FUNKONAUT",
+        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "FUNKONAUT",
+      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 200662,
       "name": "Bloodbath",
       "url": "https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "FUNKONAUT",
-        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "FUNKONAUT",
-      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -939,6 +939,30 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "(MORE) Unsponsored Content",
+        "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Abdul Cisse",
+          "url": "https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl"
+        }
+      ],
+      "duration_ms": 148746,
+      "name": "PS5 - Fortnite Battle Pass Gamer Remix",
+      "url": "https://open.spotify.com/track/781ETukr0feYzkNRONUZYx"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Once Upon A Time In Cyberworld",
         "url": "https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 206141,
       "name": "Losing My Mind (with Elohim)",
       "url": "https://open.spotify.com/track/4EJ32mSyaiC9r5XMKxqu1I"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "(MORE) Unsponsored Content",
-        "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Abdul Cisse",
-          "url": "https://open.spotify.com/artist/3dlRc0817G9BHzFpfFsSdl"
-        }
-      ],
-      "duration_ms": 148746,
-      "name": "PS5 - Fortnite Battle Pass Gamer Remix",
-      "url": "https://open.spotify.com/track/781ETukr0feYzkNRONUZYx"
     }
   ],
   "unique_name": "dance tracks we smashed our controllers to in 2022",

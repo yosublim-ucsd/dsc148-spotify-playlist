@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-69 songs - 3 hr 57 min
+70 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Love x3](https://open.spotify.com/track/5Lpl5YBgiY4SJmMH8y84qs) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Love x3](https://open.spotify.com/album/1jm4KQyGYifQ3DaJXlHp5s) | 3:28 | 2023-09-28 |  |
 | [Many Lives](https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Many Lives](https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX) | 3:38 | 2023-10-26 |  |
 | [Melody](https://open.spotify.com/track/5boPX5zFKequxpCqEvzy4C) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Forever Melodies](https://open.spotify.com/album/6m0x1fumKRq1gV9ssXIF8d) | 3:12 | 2023-09-28 | 2023-10-13 |
-| [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-09-28 |  |
+| [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-09-28 | 2023-10-31 |
+| [More Than a Love Song](https://open.spotify.com/track/38D3zXvwHjwtGMUSO4mOmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 4:47 | 2023-10-26 |  |
 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 | 2023-09-28 |  |
 | [My Love](https://open.spotify.com/track/0AM6sRCaSrMzyqWwlIIy56) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 3:41 | 2023-09-28 | 2023-10-06 |
 | [Never Get Old](https://open.spotify.com/track/0ylGsNE2OGiav5r67JTZRU) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 2:44 | 2023-09-28 | 2023-10-13 |

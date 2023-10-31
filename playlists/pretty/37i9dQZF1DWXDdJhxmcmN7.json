@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 26433,
+  "num_followers": 26459,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTAxMjExYjI1Mjc5YTBlMTQ4ODMzNzc2MWQwOTlmNWZhODQ5MGUy",
+  "snapshot_id": "MCwzYWRlMjMxYmQxN2Q5NTE2YWY3MDYyYmVmYjk1MDk1ZGQ1MTI2MGQ4",
   "tracks": [
     {
       "added_at": "2023-10-20 06:00:00",
@@ -239,6 +239,26 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
+        "name": "Parque de Bugambilias",
+        "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "duration_ms": 153857,
+      "name": "Parque de Bugambilias",
+      "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
         "name": "Cumbiero",
         "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
       },
@@ -275,26 +295,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Barrio",
-        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
-      },
-      "artists": [
-        {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 125861,
-      "name": "Barrio",
-      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "garra de leon",
         "url": "https://open.spotify.com/album/7CclyjtDDQtLblH4Wxadbw"
       },
@@ -315,22 +315,22 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Parque de Bugambilias",
-        "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
+        "name": "Barrio",
+        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
         },
         {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 153857,
-      "name": "Parque de Bugambilias",
-      "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
+      "duration_ms": 125861,
+      "name": "Barrio",
+      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 89044,
+      "name": "Lofi Recuerdame",
+      "url": "https://open.spotify.com/track/2xfCFNN5TfqVP5PtS2CFCz"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
         "name": "Jardines Vol. I",
         "url": "https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg"
       },
@@ -463,38 +483,18 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Copihue",
-        "url": "https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR"
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Copihue",
-      "url": "https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 89044,
-      "name": "Lofi Recuerdame",
-      "url": "https://open.spotify.com/track/2xfCFNN5TfqVP5PtS2CFCz"
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -515,34 +515,18 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+        "name": "Copihue",
+        "url": "https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "Cumbia Don Juan",
-        "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 134451,
-      "name": "Cumbia Don Juan",
-      "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
+      "duration_ms": 157500,
+      "name": "Copihue",
+      "url": "https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -567,6 +551,22 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
+        "name": "Cumbia Don Juan",
+        "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 134451,
+      "name": "Cumbia Don Juan",
+      "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
         "name": "Good things take time",
         "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
       },
@@ -579,38 +579,6 @@
       "duration_ms": 99428,
       "name": "Good things take time",
       "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "La Villa",
-        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 144363,
-      "name": "La Villa",
-      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -631,6 +599,22 @@
       "duration_ms": 116666,
       "name": "Lofi En La Mamalona",
       "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "La Villa",
+        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 144363,
+      "name": "La Villa",
+      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -667,22 +651,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
-      },
-      "artists": [
-        {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
-        }
-      ],
-      "duration_ms": 117779,
-      "name": "Mi Tierra",
-      "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "Nos Usamos",
         "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
       },
@@ -699,18 +667,34 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Lo-fi Ma\u00f1ana en CDMX",
-        "url": "https://open.spotify.com/album/1cmxAJZi1MzXbG9BeVWBTf"
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 169491,
-      "name": "Lo-fi Ma\u00f1ana en CDMX",
-      "url": "https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM"
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
+      },
+      "artists": [
+        {
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        }
+      ],
+      "duration_ms": 117779,
+      "name": "Mi Tierra",
+      "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -735,22 +719,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "Timeless Era",
         "url": "https://open.spotify.com/album/1povYT4DUpB41SrrLCCKQP"
       },
@@ -771,22 +739,6 @@
       "duration_ms": 101250,
       "name": "Timeless Era",
       "url": "https://open.spotify.com/track/29QB4Q8n1EvBEeYTTpRAjo"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "Abr\u00e1zame mucho estos d\u00edas",
-        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -819,6 +771,54 @@
       "duration_ms": 150956,
       "name": "como los ni\u00f1os",
       "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Lo-fi Ma\u00f1ana en CDMX",
+        "url": "https://open.spotify.com/album/1cmxAJZi1MzXbG9BeVWBTf"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 169491,
+      "name": "Lo-fi Ma\u00f1ana en CDMX",
+      "url": "https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Abr\u00e1zame mucho estos d\u00edas",
+        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
+        "name": "Erick",
+        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 172528,
+      "name": "Erick",
+      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
         "name": "Mexico City, Mexico",
         "url": "https://open.spotify.com/album/0Wit1dwhIc0TreRS59vlDd"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Erick",
-        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 172528,
-      "name": "Erick",
-      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -999,42 +999,6 @@
       "duration_ms": 179000,
       "name": "22 Hrs.",
       "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "Ocaso Sin Fin",
-        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
-      },
-      "artists": [
-        {
-          "name": "Raouf Beats",
-          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 111219,
-      "name": "Extra\u00f1os (Strangers)",
-      "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
-        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        }
-      ],
-      "duration_ms": 141742,
-      "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
-      "url": "https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1059,6 +1023,42 @@
       "duration_ms": 133600,
       "name": "98 pasos",
       "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
+        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        }
+      ],
+      "duration_ms": 141742,
+      "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
+      "url": "https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
+      },
+      "artists": [
+        {
+          "name": "Raouf Beats",
+          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 111219,
+      "name": "Extra\u00f1os (Strangers)",
+      "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1099,42 +1099,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "alone alone",
-        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
-      },
-      "artists": [
-        {
-          "name": "Thragg",
-          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
-        }
-      ],
-      "duration_ms": 90933,
-      "name": "alone alone",
-      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "Playa del amor",
-        "url": "https://open.spotify.com/album/4AZ4bVmrlluC4ajS7DUf2N"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 117580,
-      "name": "Playa del amor",
-      "url": "https://open.spotify.com/track/5fwxiLkBHjivfTUhiHb6gm"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "Lluvia de Oro",
         "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
       },
@@ -1155,6 +1119,22 @@
       "duration_ms": 140400,
       "name": "Lluvia de Oro",
       "url": "https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "alone alone",
+        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
+      },
+      "artists": [
+        {
+          "name": "Thragg",
+          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
+        }
+      ],
+      "duration_ms": 90933,
+      "name": "alone alone",
+      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1223,6 +1203,26 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
+        "name": "Playa del amor",
+        "url": "https://open.spotify.com/album/4AZ4bVmrlluC4ajS7DUf2N"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 117580,
+      "name": "Playa del amor",
+      "url": "https://open.spotify.com/track/5fwxiLkBHjivfTUhiHb6gm"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
         "name": "Viernes Azul",
         "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Efecto Foehn",
-        "url": "https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF"
-      },
-      "artists": [
-        {
-          "name": "Sh\u014d.gun",
-          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
-        }
-      ],
-      "duration_ms": 129350,
-      "name": "Efecto Foehn",
-      "url": "https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "crying",
         "url": "https://open.spotify.com/album/25oe50MS3LDAeoix2UdYZZ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 132083,
       "name": "crying",
       "url": "https://open.spotify.com/track/2QRnX5AclVqGgZQEjTUJxq"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Efecto Foehn",
+        "url": "https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF"
+      },
+      "artists": [
+        {
+          "name": "Sh\u014d.gun",
+          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
+        }
+      ],
+      "duration_ms": 129350,
+      "name": "Efecto Foehn",
+      "url": "https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Conchitas",
-        "url": "https://open.spotify.com/album/6uqdZDw04CVlIQVYal9tK5"
-      },
-      "artists": [
-        {
-          "name": "Camosmic",
-          "url": "https://open.spotify.com/artist/4O3l4yOYCNl3qerZFlsbae"
-        }
-      ],
-      "duration_ms": 149040,
-      "name": "Conchitas",
-      "url": "https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "Duerme",
         "url": "https://open.spotify.com/album/3lSsZLGP5WLfjoGM5n9xF6"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 126004,
       "name": "Duerme",
       "url": "https://open.spotify.com/track/1b7XK2lhy8hy9HAK4pFOpC"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Conchitas",
+        "url": "https://open.spotify.com/album/6uqdZDw04CVlIQVYal9tK5"
+      },
+      "artists": [
+        {
+          "name": "Camosmic",
+          "url": "https://open.spotify.com/artist/4O3l4yOYCNl3qerZFlsbae"
+        }
+      ],
+      "duration_ms": 149040,
+      "name": "Conchitas",
+      "url": "https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7"
     },
     {
       "added_at": "2023-10-20 06:00:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2023-10-20 06:00:00",
       "album": {
-        "name": "Oceanside",
-        "url": "https://open.spotify.com/album/6uYOyysygXuuwMtE13hftg"
-      },
-      "artists": [
-        {
-          "name": "places we go",
-          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
-        },
-        {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Construction In The Rain",
-      "url": "https://open.spotify.com/track/69wCguC1RADMeZ0wB03JKy"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/4jVTyZYM7bfjfafbpAHD3N"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 167807,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/6I6t6DkS15e6BQx41qmd9h"
+    },
+    {
+      "added_at": "2023-10-20 06:00:00",
+      "album": {
+        "name": "Oceanside",
+        "url": "https://open.spotify.com/album/6uYOyysygXuuwMtE13hftg"
+      },
+      "artists": [
+        {
+          "name": "places we go",
+          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Construction In The Rain",
+      "url": "https://open.spotify.com/track/69wCguC1RADMeZ0wB03JKy"
     },
     {
       "added_at": "2023-10-20 06:00:00",

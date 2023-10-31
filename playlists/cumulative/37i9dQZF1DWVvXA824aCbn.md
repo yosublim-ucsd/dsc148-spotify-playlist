@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-497 songs - 1 day 7 hr 54 min
+498 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2021-10-01 |  |
 | [Jazz Noir](https://open.spotify.com/track/34X5CVjvYwM4yaPY1D8bAd) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Jazz Noir](https://open.spotify.com/album/3C4NdEsW6ibEIqZbXkxNf9) | 3:47 | 2023-08-17 |  |
 | [Jazzanooga](https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Jazzanooga](https://open.spotify.com/album/61nhEXYkNaUn6wgJQzNJeO) | 2:47 | 2020-12-02 |  |
-| [je vivrai sans toi](https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 2:18 | 2020-10-20\* |  |
+| [je vivrai sans toi](https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 2:18 | 2020-10-20\* | 2023-10-31 |
 | [Johnny Come Lately](https://open.spotify.com/track/7g1qq3AN0siIENRddNSloR) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Johnny Come Lately](https://open.spotify.com/album/0zr4z6oCxAOyJ64x1iBuvi) | 2:55 | 2022-02-15 |  |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-04-20 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/2XYa5MJShUKZ8wjnrVa2z6) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:53 | 2022-10-07 | 2023-01-20 |
@@ -310,6 +310,7 @@
 | [My Ship](https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [My Ship](https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR) | 2:36 | 2023-09-22 |  |
 | [Mystic Moonlight Groove](https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Mystic Moonlight Groove](https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S) | 3:31 | 2023-10-27 |  |
 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 |  |
+| [Need to walk away](https://open.spotify.com/track/1i0cUjwJ9D9Cw236RLs2dB) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Need to walk away](https://open.spotify.com/album/2t1a03eUM5YwLjc0m09yTD) | 3:24 | 2023-10-27 |  |
 | [Never Let Me Go](https://open.spotify.com/track/3jBc8ArlFCzEKc7nATMJUO) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Setting Standards \- The New York Sessions](https://open.spotify.com/album/1C9O7ymr3OoPhu60riKr8m) | 7:49 | 2021-01-21 | 2021-06-18 |
 | [New Day](https://open.spotify.com/track/1Qiyu2GJvxBWkFF9z0Rhx5) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [New Day](https://open.spotify.com/album/2BMJLFX0u1cvluUuTGq8Zy) | 2:37 | 2023-09-29 |  |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2021-07-02 |  |

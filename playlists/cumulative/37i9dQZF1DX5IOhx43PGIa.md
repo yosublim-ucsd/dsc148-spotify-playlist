@@ -2,7 +2,7 @@
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere & celebrating Filipino Heritage Month all month long! Cover: Ez Mil.
+> Illuminating Asian artists everywhere\. Cover: Laufey & beabadoobee.
 
 639 songs - 1 day 9 hr 15 min
 
@@ -21,7 +21,7 @@
 | [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 | 2023-03-10 | 2023-08-19 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-20 |  |
 | [A Thousand Cuts \(Spotify Singles\) \- Remix](https://open.spotify.com/track/5CSJmUUVg21L8xb71UKMnI) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Ann One](https://open.spotify.com/artist/0gbdUzudCwdzxynH0YSqhI), [AJ Rafael](https://open.spotify.com/artist/4zrB9WV6Z0iKKnGb1Pj0P2) | [Spotify Singles](https://open.spotify.com/album/14V4tjh2spbCj7L4txtEY1) | 4:29 | 2022-05-27 | 2022-07-07 |
-| [ADHD](https://open.spotify.com/track/2RGyDsXQOexgD4bHC3oBVA) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [ADHD](https://open.spotify.com/album/5EPxYzh7xEjcATtggPNv0a) | 2:43 | 2023-07-07 |  |
+| [ADHD](https://open.spotify.com/track/2RGyDsXQOexgD4bHC3oBVA) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [ADHD](https://open.spotify.com/album/5EPxYzh7xEjcATtggPNv0a) | 2:43 | 2023-07-07 | 2023-10-31 |
 | [Adieu](https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 2:39 | 2022-05-27 | 2023-01-14 |
 | [Adventure with You](https://open.spotify.com/track/7eEBjmN52u18OZUATiUGFD) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5) | [Hopeless Romantic, Pt\. 1](https://open.spotify.com/album/2SbZ3ohaiBoFvCofVE18h0) | 3:30 | 2023-07-07 | 2023-09-02 |
 | [Afterglow](https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:18 | 2022-09-23 | 2022-10-08 |
@@ -549,7 +549,7 @@
 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 | 2022-05-27 | 2023-04-05 |
 | [THAT'S ON YOU!](https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [THAT'S ON YOU!](https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK) | 2:39 | 2022-05-27 | 2022-07-29 |
 | [the alternative](https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:03 | 2023-06-30 |  |
-| [the american dream](https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the american dream](https://open.spotify.com/album/1eWQEBUje4iECPF2LNqw51) | 3:47 | 2023-07-14 | 2023-10-28 |
+| [the american dream](https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the american dream](https://open.spotify.com/album/1eWQEBUje4iECPF2LNqw51) | 3:47 | 2023-07-14 |  |
 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-08-18 |  |
 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 | 2023-07-14 |  |
 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 | 2022-10-07 | 2023-08-12 |

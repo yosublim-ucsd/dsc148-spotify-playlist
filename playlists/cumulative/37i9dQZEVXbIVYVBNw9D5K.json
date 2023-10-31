@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "3.5",
+        "url": "https://open.spotify.com/album/1fE2VYsu8xK4VbumRKM0Lv"
+      },
+      "artists": [
+        {
+          "name": "Kenan Do\u011fulu",
+          "url": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "10. Y\u0131l Mar\u015f\u0131",
+      "url": "https://open.spotify.com/track/3clZuUiF7kpYwHqqPp1ODb"
+    },
+    {
+      "album": {
         "name": "10.000 Par\u00e7a",
         "url": "https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7"
       },
@@ -5384,7 +5402,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 138640,
       "name": "Geri D\u00f6nemedim",
       "url": "https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq"
@@ -7486,6 +7504,24 @@
       "duration_ms": 101116,
       "name": "\u0130ZLED\u0130 MAHALLE",
       "url": "https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi"
+    },
+    {
+      "album": {
+        "name": "\u0130zmir Mar\u015f\u0131",
+        "url": "https://open.spotify.com/album/0pzCPKj94U0bMFl4ZWTRM5"
+      },
+      "artists": [
+        {
+          "name": "Volkan Konak",
+          "url": "https://open.spotify.com/artist/48CUA59SDed3IdCctKndud"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162200,
+      "name": "\u0130zmir Mar\u015f\u0131",
+      "url": "https://open.spotify.com/track/3zvVdOWNaByAZBAPfNKb30"
     },
     {
       "album": {
@@ -13362,7 +13398,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 121884,
       "name": "Trip att\u0131m",
       "url": "https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu"

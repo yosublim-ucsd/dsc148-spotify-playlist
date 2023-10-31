@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147">Dante Bowe</a>
 
-409 songs - 1 day 0 hr 40 min
+410 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [MAN\-UH](https://open.spotify.com/track/4pzdkoQ6i0P1yApVwA8cuW) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [MAN\-UH](https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe) | 1:49 | 2023-01-20 |  |
 | [Manifest](https://open.spotify.com/track/3pbTHEZoomOPXINAp2Seht) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Purpose](https://open.spotify.com/artist/3uqT5AC2OSsfU6HZ1RqAHo), [John Mcclure](https://open.spotify.com/artist/5II5vxi6ROvaKrNefa8aUQ) | [Thank You Lord / Manifest](https://open.spotify.com/album/1eFT6N7PAMO6FjMPMyKbrs) | 6:11 | 2022-02-19 | 2022-02-28 |
 | [Mercy Shores](https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Mercy Shores](https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7) | 3:26 | 2022-02-27 | 2023-04-28 |
-| [Milk & Honey](https://open.spotify.com/track/56JGnyYpo9I2g8yOfgEt4p) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Sensibilities](https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl) | 2:26 | 2022-06-25 |  |
+| [Milk & Honey](https://open.spotify.com/track/56JGnyYpo9I2g8yOfgEt4p) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Sensibilities](https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl) | 2:26 | 2022-06-25 | 2023-10-31 |
 | [Mind Remix](https://open.spotify.com/track/08f44TILBPrfpzKF4GtMbf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Mind Remix](https://open.spotify.com/album/2Qe1HpbdXkBN7GsmDTTdig) | 2:38 | 2022-02-19 | 2022-06-25 |
 | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD) | 5:58 | 2023-01-20 |  |
 | [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 | 2022-06-25 |  |
@@ -364,6 +364,7 @@
 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 | 2022-02-19 |  |
 | [This Kind Of Love](https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [This Kind Of Love](https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI) | 3:04 | 2023-01-20 |  |
 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 | 2022-02-19 | 2022-06-26 |
+| [Thousands of Years](https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Thousands of Years](https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS) | 3:01 | 2023-07-21 |  |
 | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/track/0HOPZn0IFpZS142x0uClQ0) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg), [Matt Jones \(Re\-Collective Orchestra\)](https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC) | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/album/1pFKxPHE8wZ3UsCAAcYO1J) | 3:12 | 2022-02-19 | 2022-02-28 |
 | [trust in you](https://open.spotify.com/track/1dkehSF3jpeDXfeiJBzWcz) | [Gaetan Judd](https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc) | [trust in you](https://open.spotify.com/album/4eA2vlVZHVHBwzUVkTx6Tx) | 3:16 | 2022-02-19 | 2022-06-26 |
 | [TRUST ME](https://open.spotify.com/track/4SnAZoqOyTdkwkZtKcuIqz) | [GONZO HERNAN](https://open.spotify.com/artist/3vHvxRyq0vUmEqix9UR1TX), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [TRUST ME](https://open.spotify.com/album/16bRuiX17SwN3i5cJCXZjO) | 3:18 | 2022-06-25 | 2022-07-14 |

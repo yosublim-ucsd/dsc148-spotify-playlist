@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,354 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,417 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [音の記憶](https://open.spotify.com/track/48CztoIkzgIucZ6ynPUrmr) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C) | [甘い予感](https://open.spotify.com/album/3aCsWq38elPFkdUdVGDj5n) | 5:00 |
 | 100 | [群像劇](https://open.spotify.com/track/3dBJCeXLWb2wykVFnhYqpm) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [群像劇](https://open.spotify.com/album/0ZIJzvOuyPIjS8Z4w5rL62) | 3:52 |
 
-Snapshot ID: `MCw4ZjkxMzk3OTRjNTQ1YjFhOWIyMTFhNDAxYTM1NTdiNGE5MTJlYTky`
+Snapshot ID: `MCw3OWQxN2JhY2I2MTZkMWE5NGVmNGI3MGM1ZGI2MDg0YjZkMDE4NGZh`

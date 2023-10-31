@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1950s.
 
-292 songs - 12 hr 41 min
+293 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,8 +123,9 @@
 | [I'm Walkin'](https://open.spotify.com/track/2gZlblsff9FKnhSIwB2ZsU) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:06 | 2021-04-23 |  |
 | [I'm Walking the Dog](https://open.spotify.com/track/6vTpenq3JDMCjTVJjNMyOM) | [Carl Mann](https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT) | [The Very Best of Carl Mann: Mona Lisa](https://open.spotify.com/album/6FWJuCFKl02gyGFkIiwqX7) | 2:35 | 2022-04-29 | 2022-11-13 |
 | [I've Got a Woman](https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:51 | 2021-04-23 |  |
+| [I've Got The World On A String](https://open.spotify.com/track/13apJo5WpOSe3qmfIYOCp2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 2:08 | 2022-06-07 |  |
 | [I've Got The World On A String](https://open.spotify.com/track/4tsUpfcr6bSM4PIIFQGkQF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/0Cx7IYEdG2T70z9xFknhDT) | 2:09 | 2021-04-23 | 2022-07-27 |
-| [I've Got The World On A String](https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:11 | 2022-06-07 |  |
+| [I've Got The World On A String](https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:11 | 2022-06-07 | 2023-10-31 |
 | [If You Love Me](https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [If You Love Me / Alone and Blue](https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ) | 2:30 | 2022-04-29 |  |
 | [Is You Is or Is You Ain't My Baby \- 2002 Remaster](https://open.spotify.com/track/42gjKLOPmC7rjXZpDdTHcO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah '62](https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu) | 3:23 | 2021-04-23 | 2023-05-31 |
 | [Jailhouse Rock](https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:26 | 2021-04-23 |  |

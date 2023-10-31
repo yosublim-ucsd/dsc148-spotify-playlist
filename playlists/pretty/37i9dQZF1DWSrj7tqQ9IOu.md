@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Clio
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,954 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,977 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [SOS Love Story](https://open.spotify.com/track/023iDDLtk8OU4Jb11rfARY) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [SOS Love Story](https://open.spotify.com/album/4c45lSdFers0FLrmOeOijG) | 3:05 |
 | 50 | [Polka \(feat\. Mathieu Boogaerts\)](https://open.spotify.com/track/5bDAWKeNJbEpIMqaUx5GfR) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj), [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Polka \(feat\. Mathieu Boogaerts\)](https://open.spotify.com/album/1VuQsHuRsr1KMPjysZuDs8) | 2:56 |
 
-Snapshot ID: `MCw3MThkMzc4OTc0YmY4ZjQ0MmM3YWI2MjVmZTA2NzA4ODJlNWRlMGI4`
+Snapshot ID: `MCw4MjA3MGZjOTU2MzY0ZDZkODcxYTJkYzk2NTdiOGUxZTFkZDIzOWRi`

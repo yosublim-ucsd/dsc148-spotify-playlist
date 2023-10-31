@@ -4,7 +4,7 @@
 
 > 
 
-245 songs - 11 hr 45 min
+246 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,12 +107,13 @@
 | [Jag går upp och håller käften](https://open.spotify.com/track/6gVKoclWw9yiY1qTp26OKj) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Samlade](https://open.spotify.com/album/126LSgX6MasCdTcVcFOnFI) | 3:28 | 2021-12-14 | 2022-07-26 |
 | [Jag lämnar festen](https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:54 | 2021-12-14 |  |
 | [Jag lämnar festen](https://open.spotify.com/track/665zznOCQhnpmpoax6rRQk) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Jag lämnar festen](https://open.spotify.com/album/5MpVwCWkEYuat0Dx4erqJy) | 2:54 | 2021-12-14 | 2022-07-27 |
-| [Jag vill bli som far](https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:18 | 2021-12-14 |  |
+| [Jag vill bli som far](https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:18 | 2021-12-14 | 2023-10-31 |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 2:32 | 2023-05-04 |  |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH) | 2:32 | 2021-12-14 | 2023-04-30 |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/0P6UhoZknVBvw7jKzLuwtP) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ), [Ulke](https://open.spotify.com/artist/6KjoityQl9NkVhPZ8isDlw), [Per Granberg](https://open.spotify.com/artist/0TAfL2lQzxByP4TUCEhgVw), [Mongo](https://open.spotify.com/artist/2S2M3JoiDwZRKqD592x3oy), [Curre Sandgren](https://open.spotify.com/artist/48OCQMmwurPMuSxrS8eqBP), [Mart Hällgren](https://open.spotify.com/artist/3j9Yn1hzjWZThZ0Ohjvzjc) | [Krymplings](https://open.spotify.com/album/2l3gu0JPCyey6ztaXsdwvc) | 2:32 | 2021-12-14 | 2022-07-29 |
 | [Jane Doe, Östersund](https://open.spotify.com/track/4tzLVTf3Cw3hi2C6oINeQS) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Jane Doe, Östersund](https://open.spotify.com/album/3Se4PLem67i9Do45OPzWu0) | 3:09 | 2023-10-12 |  |
 | [Johanna](https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:34 | 2021-12-14 |  |
+| [Kaos](https://open.spotify.com/track/1JgMOH0eqEeFZLTdOrNUd9) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM) | 2:16 | 2023-10-26 |  |
 | [Kaos](https://open.spotify.com/track/3fuHnBzzEgUgNYlwt5FPuv) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/0oD3URB9nBxNSI6p79HE5m) | 2:16 | 2021-12-14 | 2022-07-25 |
 | [Kaos](https://open.spotify.com/track/7C5vwqLlWULrV4aaigbHKX) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/08RgYPSeJy5g9JBInnyLei) | 2:16 | 2021-12-14 | 2022-11-14 |
 | [Kollektivt självmord](https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT) | [Civil Olydnad](https://open.spotify.com/artist/1Ec2RuosR3mXrq6Q6egvUK) | [Kollektivt självmord](https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L) | 1:43 | 2021-12-14 | 2022-07-27 |

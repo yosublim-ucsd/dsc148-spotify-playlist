@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: John Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,670 likes - 210 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,698 likes - 210 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 209 | [Just Like Us](https://open.spotify.com/track/3al1r7yWb8KoaX7IOCmwbX) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Just Like Us](https://open.spotify.com/album/1GTIsu7qhVmm2j07hpaCnH) | 2:43 |
 | 210 | [Back to My Place](https://open.spotify.com/track/2dZPgMNCaguLPt3braiGj0) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Back to My Place](https://open.spotify.com/album/4DSt9zVyd8eLeQGLyOBz4s) | 4:22 |
 
-Snapshot ID: `MCw1YTJiM2U0Yzk2Mzc4YTEzYmI4MzE4NDRkMjQzZmI3N2VjYWZmNWY0`
+Snapshot ID: `MCw0NTRlZTA0YzIxNDQ4ZmU4MmIyY2JkNThkMDlmOTQ0YmE2NzBhYzZl`

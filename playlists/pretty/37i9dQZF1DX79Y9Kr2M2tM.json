@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 844097,
+  "num_followers": 844163,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGM1NTliYWEzZjZkZGQ3MTdlN2MzMWIwNzJjMTBhMjBhNDc2YmFk",
+  "snapshot_id": "MCxkNThhMjE1YTliMTIwNzUwOGE5YTU1NTE2ODQ2NjA4NTZmNDJjM2Ew",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Hard Believer",
-        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
       "artists": [
         {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 310693,
-      "name": "Looking Too Closely",
-      "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+        "name": "Hard Believer",
+        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
       },
       "artists": [
         {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
         }
       ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
+      "duration_ms": 310693,
+      "name": "Looking Too Closely",
+      "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -559,38 +559,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "ii",
-        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 178476,
-      "name": "Thin",
-      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 322040,
-      "name": "The Wolves (Act I and II)",
-      "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
@@ -603,6 +571,22 @@
       "duration_ms": 225153,
       "name": "C\u00f3mo Me Quieres",
       "url": "https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 178476,
+      "name": "Thin",
+      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -623,22 +607,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Nocturne EP",
         "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
       },
@@ -655,6 +623,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 322040,
+      "name": "The Wolves (Act I and II)",
+      "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Samara",
+        "url": "https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Samara",
+      "url": "https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "A Book Of Flying",
         "url": "https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 180440,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Samara",
-        "url": "https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Samara",
-      "url": "https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 212826,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Do It All Again",
         "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 199253,
       "name": "Do It All Again",
       "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 212826,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Picture of You (feat. Hayden Calnin)",
+        "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        },
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "duration_ms": 261523,
+      "name": "Picture of You",
+      "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 241785,
       "name": "Rolling Thunder",
       "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Picture of You (feat. Hayden Calnin)",
-        "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        },
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 261523,
-      "name": "Picture of You",
-      "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Fall Down - EP",
-        "url": "https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv"
+        "name": "A Book Of Flying",
+        "url": "https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde"
       },
       "artists": [
         {
-          "name": "The Native",
-          "url": "https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT"
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
         }
       ],
-      "duration_ms": 53200,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV"
+      "duration_ms": 256260,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "A Book Of Flying",
-        "url": "https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde"
+        "name": "Fall Down - EP",
+        "url": "https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv"
       },
       "artists": [
         {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+          "name": "The Native",
+          "url": "https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT"
         }
       ],
-      "duration_ms": 256260,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G"
+      "duration_ms": 53200,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV"
     },
     {
       "added_at": "2023-10-20 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 9518,
+  "num_followers": 9546,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTVmYWFiMGUzZTM4NTA3ZDZhZDViNjY2NzFlYmJmZDhhMmU4MTll",
+  "snapshot_id": "MCw3YWMyOTg1MTY0ZmY5MzEwNWU4OTc5ZjZiYzFjNTI5ZDI2OTBmZjVk",
   "tracks": [
     {
       "added_at": "2023-06-19 08:59:16",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
+        "name": "Sunday Night Waves",
+        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
+      },
+      "artists": [
+        {
+          "name": "Microdynamic Recordings",
+          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
+        }
+      ],
+      "duration_ms": 180777,
+      "name": "Calm Pouring Ocean",
+      "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
         "name": "Coastal Clifftop Waves",
         "url": "https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Sunday Night Waves",
-        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
-      },
-      "artists": [
-        {
-          "name": "Microdynamic Recordings",
-          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
-        }
-      ],
-      "duration_ms": 180777,
-      "name": "Calm Pouring Ocean",
-      "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "Nature Sleep",
         "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 122380,
       "name": "Naples Beach",
       "url": "https://open.spotify.com/track/0P3wyNDU63zoKiqJmrQI7g"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Ocean Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "Baltic Ocean Wave Sounds",
+      "url": "https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -423,22 +439,6 @@
       "duration_ms": 130061,
       "name": "Stormy Beach Waves",
       "url": "https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
-        "name": "Ocean Sounds Vol. 1",
-        "url": "https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59"
-      },
-      "artists": [
-        {
-          "name": "JBE Nature Sounds",
-          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "Baltic Ocean Wave Sounds",
-      "url": "https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Calm Sounds of Nature",
-        "url": "https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE"
-      },
-      "artists": [
-        {
-          "name": "Earthlite",
-          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "White Sand (Ocean)",
-      "url": "https://open.spotify.com/track/7Cc199uIoKo3YoCrV6dp3p"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "Thunderous Ocean",
         "url": "https://open.spotify.com/album/6CJiA8Yu7j4YbN7YwHHjKX"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 174000,
       "name": "Thunderous Ocean - Seamless",
       "url": "https://open.spotify.com/track/0IY1lXJOW9g5Lt0HiVBqiB"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Calm Sounds of Nature",
+        "url": "https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "White Sand (Ocean)",
+      "url": "https://open.spotify.com/track/7Cc199uIoKo3YoCrV6dp3p"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
+        "name": "The Vast Sea",
+        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "duration_ms": 134625,
+      "name": "Late Night Calm (Ocean)",
+      "url": "https://open.spotify.com/track/4F7mrKbhRNQq7DqB9azPPI"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
         "name": "Pieces of Paradise (Nature)",
         "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 176000,
       "name": "Rolling Waves and Rockpools",
       "url": "https://open.spotify.com/track/1db2CHgoX19tKKu2p8Zbu2"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
-        "name": "The Vast Sea",
-        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
-      },
-      "artists": [
-        {
-          "name": "Seas of Dreams",
-          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
-        }
-      ],
-      "duration_ms": 134625,
-      "name": "Late Night Calm (Ocean)",
-      "url": "https://open.spotify.com/track/4F7mrKbhRNQq7DqB9azPPI"
     },
     {
       "added_at": "2023-06-19 08:59:16",

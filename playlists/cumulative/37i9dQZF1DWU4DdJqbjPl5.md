@@ -2,9 +2,9 @@
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC?si=6rfHa2RMTmGSWhI7QZW6Lw"> Karun </a>
+> The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=41dz747lS2yRF62xACeKHQ"> Xenia Manasseh </a>
 
-298 songs - 15 hr 55 min
+300 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-16 | 2023-07-28 |
 | [Jaro](https://open.spotify.com/track/4lvGec6nR7TDvub75PtEpC) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Jaro](https://open.spotify.com/album/6i3bpjjJTQPZhB6ovD4HZi) | 2:50 | 2022-06-30 | 2022-07-23 |
 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 | 2021-02-12 | 2023-05-26 |
+| [Jioni](https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm), [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Jioni](https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD) | 3:54 | 2023-10-30 |  |
 | [Just The Start](https://open.spotify.com/track/683EhjBwGmcv23ezqCM22h) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY) | [Just The Start](https://open.spotify.com/album/6CPhshx8dpeoUO3BZXImCx) | 2:04 | 2023-07-28 | 2023-10-13 |
 | [Ke Shy](https://open.spotify.com/track/71X7xhERhWY7k4I2ST3A1F) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:19 | 2023-03-24 | 2023-06-03 |
 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 | 2023-10-27 | 2023-10-29 |
@@ -211,6 +212,7 @@
 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 | 2023-06-23 |
 | [One Last Time](https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt) | [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [One Last Time](https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6) | 3:47 | 2022-02-24 | 2022-03-18 |
 | [Only](https://open.spotify.com/track/0BWXrf3aW3ZLgComAYwCR2) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Only](https://open.spotify.com/album/0CS7QjPjgW2cJnLRv2Dc3f) | 2:39 | 2022-10-28 | 2022-11-19 |
+| [Only You \- A COLORS SHOW](https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Only You \- A COLORS SHOW](https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk) | 2:46 | 2023-10-30 |  |
 | [Ouu Ahh](https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu Ahh](https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C) | 2:45 | 2023-03-03 | 2023-04-21 |
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-23 | 2022-11-19 |
 | [Passenger 555](https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS) | 3:15 | 2022-05-19 | 2023-03-25 |

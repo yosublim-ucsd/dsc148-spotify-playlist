@@ -1,12 +1,12 @@
 {
   "description": "canzoni su cui piangere \ud83e\udd40",
-  "num_followers": 108810,
+  "num_followers": 108895,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmY4MDllMTgzYzQ3YzcwMzk2YjUyMzNiOTM5NWZlNjdhM2M0NDZm",
+  "snapshot_id": "MCxhYzU5YmM0NmFiYzg3OTkzNmNlM2M3MjY0ZTc3NWE5MzVjOWRmZmNm",
   "tracks": [
     {
       "added_at": "2023-10-18 15:42:11",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-10-18 15:42:11",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
     },
     {
       "added_at": "2023-10-18 15:42:11",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-10-18 15:42:11",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
     },
     {
       "added_at": "2023-10-18 15:42:11",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-18 15:42:11",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
-    },
-    {
-      "added_at": "2023-10-18 15:42:11",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 157373,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
+    },
+    {
+      "added_at": "2023-10-18 15:42:11",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
     },
     {
       "added_at": "2023-10-18 15:42:11",

@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 486082,
+  "num_followers": 486239,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTlmNzE2N2Q0NWQ4OGFmN2I1MmY2OTlmYTc2NzdmNGZlMzNmNTU4",
+  "snapshot_id": "MCwyNDA3ZTdiNDlhYWNlMjhmNWYwMzhiZTNhYWY4MzQ1MTllNGY0MGU0",
   "tracks": [
     {
       "added_at": "2023-10-27 19:17:49",
@@ -235,22 +235,18 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "NOTHIN LIKE U / CHANCES",
-        "url": "https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g"
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 218200,
-      "name": "CHANCES",
-      "url": "https://open.spotify.com/track/439X8jGytErRiPnaoUJHju"
+      "duration_ms": 219604,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -271,18 +267,22 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Overnight",
-        "url": "https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj"
+        "name": "NOTHIN LIKE U / CHANCES",
+        "url": "https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
         }
       ],
-      "duration_ms": 219604,
-      "name": "Overnight",
-      "url": "https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6"
+      "duration_ms": 218200,
+      "name": "CHANCES",
+      "url": "https://open.spotify.com/track/439X8jGytErRiPnaoUJHju"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "Canary Islands",
         "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 204521,
       "name": "Canary Islands",
       "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Heartquake",
-        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "Heartquake",
-      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/3yjqJkHqnGlO6wpE9GPxV3"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 198000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Heights",
-        "url": "https://open.spotify.com/album/59IswWk54vUt2dT0tvSzPJ"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 174607,
-      "name": "Heights",
-      "url": "https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "On Hold (Jamie xx Remix)",
         "url": "https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
+        "name": "Heights",
+        "url": "https://open.spotify.com/album/59IswWk54vUt2dT0tvSzPJ"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 191253,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
+      "duration_ms": 174607,
+      "name": "Heights",
+      "url": "https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -779,6 +763,22 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
         "name": "Alone in the Mountains",
         "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 196707,
       "name": "Alone in the Mountains",
       "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
-        "name": "All Becomes Okay",
-        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 228162,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -895,6 +879,22 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
+        "name": "All Becomes Okay",
+        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 228162,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
         "name": "Someone\u2019s EP II X",
         "url": "https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Jasmine - Demo",
-      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "Pizza Guy / Show Me",
         "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 349413,
       "name": "Pizza Guy",
       "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Jasmine - Demo",
+      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "We Stayed Up All Night",
-        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Ardyn",
-          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
-        }
-      ],
-      "duration_ms": 265758,
-      "name": "We Stayed Up All Night",
-      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "Rust & Gold",
         "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
@@ -1211,6 +1191,42 @@
       "duration_ms": 349962,
       "name": "Shine a Light - Flight Facilities Remix",
       "url": "https://open.spotify.com/track/2nNSYajMD4ScHbhthVPqrh"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
+        "name": "Hidden Youth",
+        "url": "https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
+        "name": "We Stayed Up All Night",
+        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Ardyn",
+          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
+        }
+      ],
+      "duration_ms": 265758,
+      "name": "We Stayed Up All Night",
+      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Hidden Youth",
-        "url": "https://open.spotify.com/album/0p6lFaFEpTcukkXu793jXB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "Loom",
         "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
+        "name": "All In All",
+        "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 468113,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
         "name": "Can\u2019t Let You Go",
         "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 173000,
       "name": "Can\u2019t Let You Go",
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
-        "name": "All In All",
-        "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 468113,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
     },
     {
       "added_at": "2023-10-27 19:17:49",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 241804,
+      "name": "Feels Just Like It",
+      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
+    },
+    {
+      "added_at": "2023-10-27 19:17:49",
+      "album": {
         "name": "Sister",
         "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
       },
@@ -1695,26 +1715,6 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Light Places",
-        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 241804,
-      "name": "Feels Just Like It",
-      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
-    },
-    {
-      "added_at": "2023-10-27 19:17:49",
-      "album": {
         "name": "Circmvnt",
         "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
       },
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2023-10-27 19:17:49",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/7crhe15k1Qn72AWzAHMVOt"
+        "name": "Peur des filles",
+        "url": "https://open.spotify.com/album/1t76mptgTSXtLPWL3Zj4xv"
       },
       "artists": [
         {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 216032,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2EEZdCeGp095urJDE3wEpS"
+      "duration_ms": 208805,
+      "name": "Peur des filles",
+      "url": "https://open.spotify.com/track/2PfPIIxUiH9Y7miXqiQdqv"
     }
   ],
   "unique_name": "golden hour",

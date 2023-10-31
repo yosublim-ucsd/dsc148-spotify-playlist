@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,282 likes - 97 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,295 likes - 97 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 96 | [Still Waters](https://open.spotify.com/track/2V7gZvxlaWRLLr8bh24KJj) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Still Waters](https://open.spotify.com/album/1kow6Yag9rCgmQyDmHXWj6) | 2:34 |
 | 97 | [Roses](https://open.spotify.com/track/3FFu0uOEWYckhG3x84G2Tw) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [Roses](https://open.spotify.com/album/2EfieuernrZzBlyGRh0Vsj) | 4:29 |
 
-Snapshot ID: `MCxlYjg4MWE3ZmI5YzM0ODFhOWMzYWJjOTIxMjI2ZWE1MTk3MTg5ODY1`
+Snapshot ID: `MCw3MTcxYWZiMmM1N2NhZGI1Y2YyMTU3YzMxZGIyYWVkN2E1MGU1ZWQ4`

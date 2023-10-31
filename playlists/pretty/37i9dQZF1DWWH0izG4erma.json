@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: The Cadillac Three",
-  "num_followers": 567259,
+  "num_followers": 567363,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjYwZDE2MDMwMzJjMjhjMzUyNTQzMWY2NmUxY2U3Yzk4NjNlZjQz",
+  "snapshot_id": "MCw4NTVkMWNlMTkwN2U0YTI1Nzk1ZjQwOGVjNTBhZTA3OTBjMDJkZjc5",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Poets & Old Souls",
-        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
-      },
-      "artists": [
-        {
-          "name": "Bryan Martin",
-          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
-        }
-      ],
-      "duration_ms": 163871,
-      "name": "Wolves Cry",
-      "url": "https://open.spotify.com/track/7yyRhjoCsdt5dDpFz2CImD"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 178440,
       "name": "Halfway To Hell",
       "url": "https://open.spotify.com/track/3EON33SUQai62FI5Sv0gPT"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Poets & Old Souls",
+        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "duration_ms": 163871,
+      "name": "Wolves Cry",
+      "url": "https://open.spotify.com/track/7yyRhjoCsdt5dDpFz2CImD"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -235,6 +235,22 @@
       "duration_ms": 236823,
       "name": "Met the Devil in Oklahoma",
       "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -287,22 +303,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
-      },
-      "artists": [
-        {
-          "name": "Hayden Coffman",
-          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
-        }
-      ],
-      "duration_ms": 198113,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Jesus and Joan Jett",
         "url": "https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl"
       },
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
         }
       ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
+      "duration_ms": 198113,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -395,6 +395,22 @@
       "duration_ms": 206931,
       "name": "Break My Bones",
       "url": "https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "TRUCK BED",
+        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "TRUCK BED",
-        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 167534,
-      "name": "TRUCK BED",
-      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "The Better Me",
         "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
       },
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+        "name": "SOLD OUT",
+        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "SOLD OUT",
-        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -683,22 +683,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Ride It Hard",
-        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 150861,
-      "name": "Ride It Hard",
-      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
+      "duration_ms": 258799,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -719,18 +715,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
+        "name": "Ride It Hard",
+        "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 258799,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
+      "duration_ms": 150861,
+      "name": "Ride It Hard",
+      "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Tattoos on This Town",
-      "url": "https://open.spotify.com/track/2SEsRxNSXidnMOZoTEzX1k"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 240265,
       "name": "Fuss and Fight",
       "url": "https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Tattoos on This Town",
+      "url": "https://open.spotify.com/track/2SEsRxNSXidnMOZoTEzX1k"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 163110,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Jackson Dean",
         "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Kill Me",
-        "url": "https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 163110,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E"
+      "duration_ms": 227226,
+      "name": "Homeboy",
+      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -851,18 +867,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 227226,
-      "name": "Homeboy",
-      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -931,18 +947,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 156610,
-      "name": "Money Spent",
-      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+      "duration_ms": 147508,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 147508,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/1uGpJd6f7VTYaDPKqoV1Cz"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Redneck Rockstar",
         "url": "https://open.spotify.com/album/4Y7web9v5SP8zapdG8UsYO"
       },
@@ -991,6 +991,38 @@
       "duration_ms": 198000,
       "name": "Redneck Rockstar",
       "url": "https://open.spotify.com/track/5GMTJruaIyRZ14xXn59mfC"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Young & Hungry",
+        "url": "https://open.spotify.com/album/4vzl6sDzw1y0D0490NvALa"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "duration_ms": 194378,
+      "name": "Young & Hungry",
+      "url": "https://open.spotify.com/track/2PQ81Xf1n16U7HUlPIUdBC"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1015,38 +1047,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Young & Hungry",
-        "url": "https://open.spotify.com/album/4vzl6sDzw1y0D0490NvALa"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 194378,
-      "name": "Young & Hungry",
-      "url": "https://open.spotify.com/track/2PQ81Xf1n16U7HUlPIUdBC"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Looking Back Now",
-        "url": "https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd"
-      },
-      "artists": [
-        {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
-        }
-      ],
-      "duration_ms": 209836,
-      "name": "Looking Back Now",
-      "url": "https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Black Motorcycle",
         "url": "https://open.spotify.com/album/3wDgQbUdgEP3CgQOullMeo"
       },
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
+        "name": "Looking Back Now",
+        "url": "https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
         }
       ],
-      "duration_ms": 165465,
-      "name": "Cottonmouth (Rock Mix)",
-      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
+      "duration_ms": 209836,
+      "name": "Looking Back Now",
+      "url": "https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1135,18 +1131,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+      "duration_ms": 165465,
+      "name": "Cottonmouth (Rock Mix)",
+      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 230344,
-      "name": "All It Cost Me Was Everything",
-      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
+      "duration_ms": 261269,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "World On Fire",
-        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 261269,
-      "name": "World On Fire",
-      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
+      "duration_ms": 230344,
+      "name": "All It Cost Me Was Everything",
+      "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
     },
     {
       "added_at": "2023-10-20 04:01:00",

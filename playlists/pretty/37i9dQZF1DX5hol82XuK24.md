@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Holly Humberstone turns Spooky into a Haunted House this Halloween 🦇
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,365 likes - 55 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,020 likes - 55 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 54 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
 | 55 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
 
-Snapshot ID: `MCxjOWVjOTYyNTgwNjYzOWJmNmQwOThiZDY0MDYzOWEzMTA0ZmQyOTA1`
+Snapshot ID: `MCw5NjAyNzQyNTYyODkxM2IzODQ0OGFhOGIzYzU3YTYzMmJiNzJkNTM5`

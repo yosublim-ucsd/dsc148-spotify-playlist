@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,818 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,850 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 17 | [Nothing Left Behind](https://open.spotify.com/track/5oesdtnfEkDdImVtwngODg) | [Sage](https://open.spotify.com/artist/5dDQASlR9FyeP4VO0jw35F) | [Paint Myself](https://open.spotify.com/album/4BhK7NpYuRvOVfbDIxpDZp) | 3:01 |
 | 18 | [Better Now](https://open.spotify.com/track/0kllTn8v9iKPe5TEJ2yBv0) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [Better Now](https://open.spotify.com/album/36rdJo7X2UWxAlp2XA0MWw) | 3:49 |
 | 19 | [Berget](https://open.spotify.com/track/7gdRvpMZATkoCadNtNDZyH) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 3:18 |
-| 20 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
+| 20 | [More Than a Love Song](https://open.spotify.com/track/38D3zXvwHjwtGMUSO4mOmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 4:47 |
 | 21 | [Still Rolling](https://open.spotify.com/track/4uHTsdgtVHUbJcLvs9jE3P) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/7GjS4SK8fvJFWfvlRw2jtU) | 3:39 |
 | 22 | [Ladies Room \- Radio Edit](https://open.spotify.com/track/4b6f60zkFKWGwh07LCniu1) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ladies Room](https://open.spotify.com/album/2VS5Fo6wObpQqkPCm25LVL) | 2:57 |
 | 23 | [The Meeting Place](https://open.spotify.com/track/0RwXCC1iiZEfoKCtuGhrHS) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 |
 | 50 | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/track/05QklCPuKAyDce74SWqf6I) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg) | 3:15 |
 
-Snapshot ID: `MCw3YjdkNTM4N2U2NGY2YzAyNzg4OGYzNzExMzYxYWYxYTQzZjY0M2Jh`
+Snapshot ID: `MCw2MTA2ZDIwOTdkZWNjMjgxYzFlMjZmODY4ODNlMDI5OTlmZTFhODgy`

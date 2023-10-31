@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023! \u2600\ufe0f\ud83c\udf79\ud83c\udfdd\ufe0f",
-  "num_followers": 102087,
+  "num_followers": 102110,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGYyZDYwYWVjMzI0ZDFkMjM1MjUxZDJlZDkyMmZhYzRjMWM0Njgy",
+  "snapshot_id": "MCwzOTVkZDJmYTE1MjRmNjA4NTlmNGQ1YTFjZTdmOTNlNGY1MjAxY2E2",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -271,6 +271,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Car Keys (Ayla)",
+        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 147211,
+      "name": "Car Keys (Ayla)",
+      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -339,22 +339,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Car Keys (Ayla)",
-        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
         }
       ],
-      "duration_ms": 147211,
-      "name": "Car Keys (Ayla)",
-      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5"
+        "name": "Easy On My Heart",
+        "url": "https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab"
       },
       "artists": [
         {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 135276,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I"
+      "duration_ms": 178593,
+      "name": "Easy On My Heart",
+      "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Easy On My Heart",
-        "url": "https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab"
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
         }
       ],
-      "duration_ms": 178593,
-      "name": "Easy On My Heart",
-      "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
+      "duration_ms": 135276,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 129817,
-      "name": "Hot In It (feat. Charli XCX)",
-      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
+      "duration_ms": 196224,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
       "artists": [
         {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 196224,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
+      "duration_ms": 129817,
+      "name": "Hot In It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
+        "name": "Everybody Wants To Party",
+        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 184838,
+      "name": "Everybody Wants To Party",
+      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 139927,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Everybody Wants To Party",
-        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 184838,
-      "name": "Everybody Wants To Party",
-      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Leave A Little Love",
-        "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 187029,
-      "name": "Leave A Little Love",
-      "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Run Into Trouble",
         "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 182564,
       "name": "Run Into Trouble",
       "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Leave A Little Love",
+        "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 187029,
+      "name": "Leave A Little Love",
+      "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
     },
     {
       "added_at": "2023-10-13 04:01:00",

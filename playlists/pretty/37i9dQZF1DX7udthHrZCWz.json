@@ -1,12 +1,12 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 286187,
+  "num_followers": 286238,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzllYjIyY2RhNzgwOWEzMGIxOTE3YTJlMTdhMjA5ZWRmYzIxY2Uw",
+  "snapshot_id": "MCw0ZTk5Nzc5MjNkZDhmNDY0YTM4NTk2Mzg0NTRmZmRhYzhmNWU2MmFj",
   "tracks": [
     {
       "added_at": "2023-10-17 15:51:21",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -295,18 +279,34 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 197436,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
+      "duration_ms": 245493,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 220492,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
@@ -423,6 +407,38 @@
       "duration_ms": 208733,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 220492,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -455,22 +471,6 @@
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
-        "name": "James Arthur (Deluxe)",
-        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 209440,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
+      "duration_ms": 261240,
+      "name": "Versace on the Floor",
+      "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 261240,
-      "name": "Versace on the Floor",
-      "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
         "name": "Girl on Fire (Remixes) - EP",
         "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 224920,
       "name": "Girl on Fire",
       "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 295502,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2023-10-17 15:51:21",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 295502,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "added_at": "2023-10-17 15:51:21",
+      "album": {
+        "name": "Made In The A.M. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "History",
+      "url": "https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso"
     },
     {
       "added_at": "2023-10-17 15:51:21",
@@ -1227,22 +1243,6 @@
       "duration_ms": 229400,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
-    },
-    {
-      "added_at": "2023-10-17 15:51:21",
-      "album": {
-        "name": "Made In The A.M. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "History",
-      "url": "https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso"
     },
     {
       "added_at": "2023-10-17 15:51:21",

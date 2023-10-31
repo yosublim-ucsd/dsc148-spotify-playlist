@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: ILY:1 (\uc544\uc77c\ub9ac\uc6d0) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: NiziU (\ub2c8\uc96c) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 193153,
       "name": "Catallena",
       "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
@@ -2238,6 +2238,24 @@
       "duration_ms": 186895,
       "name": "Heart Shaker",
       "url": "https://open.spotify.com/track/6WJWTeZExNu0X42hiegRVs"
+    },
+    {
+      "album": {
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180883,
+      "name": "HEARTRIS",
+      "url": "https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon"
     },
     {
       "album": {

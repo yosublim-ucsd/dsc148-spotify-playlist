@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Elvis Crespo & Miriam Cruz",
-  "num_followers": 385105,
+  "num_followers": 385151,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWMzYWI4MGQxYzU5Y2E5NDdkYWZlYmIzNzhhMmRjMzk0MzkyMzJk",
+  "snapshot_id": "MCxiODRmNjJkMjkxYTY5ZDQzMDk4YWVkYThkMDU2ZTQ2N2JiNDVmMjk5",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -147,22 +147,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "PB.DB. The Mixtape",
-        "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
+        "name": "Con Su Loquera",
+        "url": "https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Eli Palacios",
-          "url": "https://open.spotify.com/artist/06U8PS34QCpLW3CqwJgfj2"
+          "name": "Mala Fe",
+          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
         }
       ],
-      "duration_ms": 224786,
-      "name": "La Temperatura (feat. Eli Palacios)",
-      "url": "https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F"
+      "duration_ms": 255533,
+      "name": "La Vaca",
+      "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -187,18 +183,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Con Su Loquera",
-        "url": "https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q"
+        "name": "PB.DB. The Mixtape",
+        "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
       },
       "artists": [
         {
-          "name": "Mala Fe",
-          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Eli Palacios",
+          "url": "https://open.spotify.com/artist/06U8PS34QCpLW3CqwJgfj2"
         }
       ],
-      "duration_ms": 255533,
-      "name": "La Vaca",
-      "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
+      "duration_ms": 224786,
+      "name": "La Temperatura (feat. Eli Palacios)",
+      "url": "https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Ni Es Lo Mismo Ni Es Igual",
-        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Vale la Pena",
-      "url": "https://open.spotify.com/track/7uC9TpGGHrAssX8NUKBqed"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
         "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 257265,
       "name": "Me Enamoro de Ella",
       "url": "https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Ni Es Lo Mismo Ni Es Igual",
+        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Vale la Pena",
+      "url": "https://open.spotify.com/track/7uC9TpGGHrAssX8NUKBqed"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "El Hombre Merengue",
         "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 279266,
       "name": "Era Mentira",
       "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -471,6 +471,22 @@
       "duration_ms": 264160,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -563,22 +579,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Mujer De Fuego",
         "url": "https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Mucho Flow",
-        "url": "https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Mucho Flow",
-      "url": "https://open.spotify.com/track/1y6irl8tnTXw8pvaIfRoTp"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Mundialmente Sabrosos",
         "url": "https://open.spotify.com/album/3aGmmQS34YIRNjNPf27r39"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 261355,
       "name": "Morena Ven",
       "url": "https://open.spotify.com/track/0ejCXxg1xLNengD587zpAe"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Mucho Flow",
+        "url": "https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Mucho Flow",
+      "url": "https://open.spotify.com/track/1y6irl8tnTXw8pvaIfRoTp"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "El Comejen",
-      "url": "https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Mas Rika Que Nunca",
         "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 264800,
       "name": "Te Voy a Hacer Falta",
       "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "El Comejen",
+      "url": "https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "El Africano",
-      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Puro Mambo",
         "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 261146,
       "name": "Traigo Fuego",
       "url": "https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 163349,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "O.K. All Right",
         "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 318306,
       "name": "El Cantinero",
       "url": "https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 163349,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Que No Se Acabe",
-        "url": "https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn"
+        "name": "Merengue De Amor Vol.1",
+        "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
       },
       "artists": [
         {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Urbanda",
-          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 198295,
-      "name": "Que No Se Acabe",
-      "url": "https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i"
+      "duration_ms": 250400,
+      "name": "Que Cara M\u00e1s Bonita",
+      "url": "https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1183,34 +1179,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Merengue De Amor Vol.1",
-        "url": "https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS"
+        "name": "Que No Se Acabe",
+        "url": "https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn"
       },
       "artists": [
         {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Que Cara M\u00e1s Bonita",
-      "url": "https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "O.K. All Right",
-        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
-      },
-      "artists": [
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
         {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+          "name": "Urbanda",
+          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
         }
       ],
-      "duration_ms": 272533,
-      "name": "El Moreno Esta",
-      "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
+      "duration_ms": 198295,
+      "name": "Que No Se Acabe",
+      "url": "https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1235,6 +1219,22 @@
       "duration_ms": 155610,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/6Hy0Oa6k5asXoConmlsFx5"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "O.K. All Right",
+        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "El Moreno Esta",
+      "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Coleccion Diamante",
-        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 255080,
-      "name": "El Hombre Divertido",
-      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "15to Aniversario",
         "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Trancazos Bailables, Vol. 4",
-        "url": "https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61"
+        "name": "Coleccion Diamante",
+        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
       },
       "artists": [
         {
-          "name": "Cuco Valoy",
-          "url": "https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 378533,
-      "name": "Frutos Del Carnaval",
-      "url": "https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689"
+      "duration_ms": 255080,
+      "name": "El Hombre Divertido",
+      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Trancazos Bailables, Vol. 4",
+        "url": "https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61"
+      },
+      "artists": [
+        {
+          "name": "Cuco Valoy",
+          "url": "https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE"
+        }
+      ],
+      "duration_ms": 378533,
+      "name": "Frutos Del Carnaval",
+      "url": "https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Back In Town",
         "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
       },
@@ -1427,6 +1427,38 @@
       "duration_ms": 258746,
       "name": "Jilila Kimbolo",
       "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Tesoro Mio (Versi\u00f3n Merengue)",
+        "url": "https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Tesoro Mio - Versi\u00f3n Merengue",
+      "url": "https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1463,38 +1495,6 @@
       "duration_ms": 264160,
       "name": "Enamorame",
       "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Tesoro Mio (Versi\u00f3n Merengue)",
-        "url": "https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Tesoro Mio - Versi\u00f3n Merengue",
-      "url": "https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA"
-      },
-      "artists": [
-        {
-          "name": "Ca\u00f1a Brava",
-          "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Con El Machete En La Mano",
         "url": "https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 290613,
       "name": "No Llores Por Ella",
       "url": "https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA"
+      },
+      "artists": [
+        {
+          "name": "Ca\u00f1a Brava",
+          "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1"
     },
     {
       "added_at": "2023-10-13 04:00:00",

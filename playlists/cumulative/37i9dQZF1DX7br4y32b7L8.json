@@ -2921,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174690,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt"
+    },
+    {
+      "album": {
         "name": "Moulaga",
         "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
       },
@@ -4243,6 +4261,32 @@
     },
     {
       "album": {
+        "name": "SKEU SKEU (feat. wilsko & 7ia) [Speed Up]",
+        "url": "https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7"
+      },
+      "artists": [
+        {
+          "name": "Jogga",
+          "url": "https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav"
+        },
+        {
+          "name": "wilsko",
+          "url": "https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha"
+        },
+        {
+          "name": "7ia",
+          "url": "https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155359,
+      "name": "SKEU SKEU (feat. wilsko & 7ia) - Speed Up",
+      "url": "https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM"
+    },
+    {
+      "album": {
         "name": "Deep Factory Vol. 3",
         "url": "https://open.spotify.com/album/2Dhp4iGHZ1GqiT63CYaZ7j"
       },
@@ -5112,6 +5156,32 @@
       "duration_ms": 203688,
       "name": "What You Say?",
       "url": "https://open.spotify.com/track/22quZFeltYbo325rn3ktTe"
+    },
+    {
+      "album": {
+        "name": "Jealous Ones Still Envy (J.O.S.E)",
+        "url": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267093,
+      "name": "What's Luv? (feat. Ja-Rule & Ashanti)",
+      "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
     },
     {
       "album": {

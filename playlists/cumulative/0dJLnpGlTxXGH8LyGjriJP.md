@@ -4,7 +4,7 @@
 
 > 
 
-701 songs - 1 day 11 hr 33 min
+702 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Swervin \(feat\. 6ix9ine\)](https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:09 | 2022-10-22 |  |
 | [Switches & Dracs \(with Lil Durk feat\. EST Gee\)](https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:13 | 2022-10-06 |  |
 | [T\-Shirt](https://open.spotify.com/track/1rkfJLgTlB6XYNjgZ0sVaK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:02 | 2023-02-14 |  |
+| [T.O.P.](https://open.spotify.com/track/0C0H3ceDDykj8FQR51gMZP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 2:40 | 2023-10-31 |  |
 | [Take It to Trial \(feat\. Yak Gotti\)](https://open.spotify.com/track/2LRYaXXxkMrvSFyaSZHMPs) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:50 | 2023-03-27 |  |
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b) | 4:41 | 2022-11-02 |  |
 | [TALK DIFFERENT](https://open.spotify.com/track/66sufd2ajZ6WMtaNQcArnm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 3:40 | 2023-04-14 |  |

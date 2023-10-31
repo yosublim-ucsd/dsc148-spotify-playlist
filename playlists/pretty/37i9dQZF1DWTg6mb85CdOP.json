@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! \u00bfA qui\u00e9n no te vas a perder? ",
-  "num_followers": 11926,
+  "num_followers": 11928,
   "original_name": "Carnaval de Bahidor\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTIzZmNkMzE0ODZiZTMwNmQxMDJjOTRiYjA4YzUzZGI0YzkzMGIz",
+  "snapshot_id": "MCwwYzMyY2NkMzkwNDUyNmI4N2QxZDcyMzBhMTI2NjQ4M2I5MjQ0MDFm",
   "tracks": [
     {
       "added_at": "2023-02-03 06:30:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Nena - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 153251,
+      "name": "Nena - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Tiempo Perfecto",
         "url": "https://open.spotify.com/album/3Wy3lKA5xLbmitR75IuhkI"
       },
@@ -323,58 +339,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm"
-      },
-      "artists": [
-        {
-          "name": "John Talabot",
-          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
-        },
-        {
-          "name": "Pional",
-          "url": "https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI"
-        }
-      ],
-      "duration_ms": 293626,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5yQp0RrQ7wdMZoiQ6fnAme"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Nena - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 153251,
-      "name": "Nena - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6"
-      },
-      "artists": [
-        {
-          "name": "Mildlife",
-          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
-        }
-      ],
-      "duration_ms": 289280,
-      "name": "Zwango Zop",
-      "url": "https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
       },
@@ -395,18 +359,38 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "DROPOUT",
-        "url": "https://open.spotify.com/album/72UjDMnMsU8gD9AQDbeeYW"
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "John Talabot",
+          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
+        },
+        {
+          "name": "Pional",
+          "url": "https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI"
         }
       ],
-      "duration_ms": 222037,
-      "name": "Jeans",
-      "url": "https://open.spotify.com/track/2o5Pi9Q9mshFu6uvvgFg3c"
+      "duration_ms": 293626,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5yQp0RrQ7wdMZoiQ6fnAme"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "duration_ms": 289280,
+      "name": "Zwango Zop",
+      "url": "https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -439,6 +423,22 @@
       "duration_ms": 242445,
       "name": "Te Queria",
       "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "DROPOUT",
+        "url": "https://open.spotify.com/album/72UjDMnMsU8gD9AQDbeeYW"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 222037,
+      "name": "Jeans",
+      "url": "https://open.spotify.com/track/2o5Pi9Q9mshFu6uvvgFg3c"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Silent Spring EP",
-        "url": "https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u"
-      },
-      "artists": [
-        {
-          "name": "Stavroz",
-          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
-        }
-      ],
-      "duration_ms": 435041,
-      "name": "Should've Brought an Umbrella",
-      "url": "https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4YP2J5XSLVWWaztTV4PmW3"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 211000,
       "name": "Cu\u00e1nto M\u00e1s",
       "url": "https://open.spotify.com/track/1JtUWtyTkuqPtzOpA5A6l0"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Silent Spring EP",
+        "url": "https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u"
+      },
+      "artists": [
+        {
+          "name": "Stavroz",
+          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
+        }
+      ],
+      "duration_ms": 435041,
+      "name": "Should've Brought an Umbrella",
+      "url": "https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -663,38 +663,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "The Fall LP",
-        "url": "https://open.spotify.com/album/6LjyBYb3dxHNye7nh3RJVX"
-      },
-      "artists": [
-        {
-          "name": "Moxie",
-          "url": "https://open.spotify.com/artist/4K2IUtmY2APWh6mdxzBOZF"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Go Getter",
-      "url": "https://open.spotify.com/track/2B2xe6uFtE85JxHf6bebSq"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Deepsoul",
-        "url": "https://open.spotify.com/album/740mAq1Crswiib49Zn9JwM"
-      },
-      "artists": [
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/1JXgpyoUNXqGb6aLy3zhRK"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Ape Escape 3 - Originape Soundtracks / \u30b5\u30eb\u30b2\u30c3\u30c1\u30e53\u30fb\u30aa\u30ea\u30b8\u30b5\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe"
       },
@@ -723,6 +691,38 @@
       "duration_ms": 382439,
       "name": "Femme",
       "url": "https://open.spotify.com/track/4mNI8DJ5LS91D1bTjaqNg7"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "The Fall LP",
+        "url": "https://open.spotify.com/album/6LjyBYb3dxHNye7nh3RJVX"
+      },
+      "artists": [
+        {
+          "name": "Moxie",
+          "url": "https://open.spotify.com/artist/4K2IUtmY2APWh6mdxzBOZF"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Go Getter",
+      "url": "https://open.spotify.com/track/2B2xe6uFtE85JxHf6bebSq"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Deepsoul",
+        "url": "https://open.spotify.com/album/740mAq1Crswiib49Zn9JwM"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/1JXgpyoUNXqGb6aLy3zhRK"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "the mirror",
+        "url": "https://open.spotify.com/album/32pmXLNEJuWihhO1Vntab2"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 534342,
+      "name": "the mirror",
+      "url": "https://open.spotify.com/track/1eGrUX80yxeneDVZpVCYh1"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 300000,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "the mirror",
-        "url": "https://open.spotify.com/album/32pmXLNEJuWihhO1Vntab2"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 534342,
-      "name": "the mirror",
-      "url": "https://open.spotify.com/track/1eGrUX80yxeneDVZpVCYh1"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "The Only Way Out Is In",
-        "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
-      },
-      "artists": [
-        {
-          "name": "Suricata",
-          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
-        }
-      ],
-      "duration_ms": 506612,
-      "name": "Love Is Dancing",
-      "url": "https://open.spotify.com/track/2e2K17EZwg6ygzxYt8DCRP"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Outta Sync",
         "url": "https://open.spotify.com/album/51d12vDqs21akI7JzXTdH7"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 271026,
       "name": "Outta Sync",
       "url": "https://open.spotify.com/track/2wm9AJooKGLfR6QC8TTojp"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "The Only Way Out Is In",
+        "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
+      },
+      "artists": [
+        {
+          "name": "Suricata",
+          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
+        }
+      ],
+      "duration_ms": 506612,
+      "name": "Love Is Dancing",
+      "url": "https://open.spotify.com/track/2e2K17EZwg6ygzxYt8DCRP"
     },
     {
       "added_at": "2023-02-03 06:30:00",

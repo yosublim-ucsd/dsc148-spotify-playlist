@@ -8,7 +8,6 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A toi](https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 2:49 | 2020-04-07 |  |
 | [Ailleurs](https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Sans retour](https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq) | 7:15 | 2020-04-07 |  |
 | [Ailleurs](https://open.spotify.com/track/1UX0cAfJoC2mkPCbCxrKh3) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 7:18 | 2020-04-07 | 2022-12-11 |
 | [Aime](https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Miserere](https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi) | 4:24 | 2020-04-07 |  |
@@ -98,6 +97,7 @@
 | [Vivre Avec Celui Qu'on Aime](https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g) | [Francine Raymond](https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas) | [Francine Raymond](https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL) | 3:43 | 2020-04-07 |  |
 | [Vivre dans la nuit \- Version Microsillon](https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh) | [Nuance](https://open.spotify.com/artist/56EV8wiS6RIrYrNG8uuiDl) | [Vivre dans la nuit](https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4) | 4:45 | 2020-04-07 |  |
 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 | 2020-04-07 |  |
+| [À toi](https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 2:49 | 2020-04-07 |  |
 | [Ça m'énerve \- Radio Edit](https://open.spotify.com/track/1P37gwlsx2ghfr8tGzJsRE) | [Helmut Fritz](https://open.spotify.com/artist/5xsFbfm9lL1iTOvX3hXpoK) | [En observation](https://open.spotify.com/album/1ng0WwW3LYAHGxIYSblhYA) | 3:37 | 2020-04-07 |  |
 
 \*This playlist was first scraped on 2022-10-14. Prior content cannot be recovered.

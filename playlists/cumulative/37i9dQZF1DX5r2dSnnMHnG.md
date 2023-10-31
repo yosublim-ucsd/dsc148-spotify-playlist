@@ -4,7 +4,7 @@
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-167 songs - 9 hr 37 min
+168 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [HOLO](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [HOLO](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) | 2:58 | 2022-07-04 |  |
 | [HOLO](https://open.spotify.com/track/7Acvy2L38SCipAeMPOK8Ro) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [HOLO](https://open.spotify.com/album/6PY5EutFgpr9GLeaagGBda) | 2:58 | 2022-05-11 | 2022-07-29 |
 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 | 2022-05-11 |  |
-| [I Say Ya! You Say Yeah! \(feat\. Kyoung Seo\)](https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt), [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [I Say Ya! You Say Yeah!](https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN) | 3:50 | 2023-05-02 |  |
+| [I Say Ya! You Say Yeah! \(feat\. Kyoung Seo\)](https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt), [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [I Say Ya! You Say Yeah!](https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN) | 3:50 | 2023-05-02 | 2023-10-31 |
 | [I See You](https://open.spotify.com/track/3ykkBOfFlZrIqgxn6aoLya) | [ODD\-CAT](https://open.spotify.com/artist/61jqDpCSDJeuItEQIgBxBe), [Kim Je Hun](https://open.spotify.com/artist/2yBQzC1P5kNQBFqpgHUIg0) | [I See You](https://open.spotify.com/album/4FwZ6ZCeZVo7wQ3abMjvH4) | 3:12 | 2022-05-11 | 2023-03-27 |
 | [I wanna walk with you \(feat\. Subbit & Luhae\)](https://open.spotify.com/track/725nZxxHYGcdLZhoeG3NMG) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Subbit](https://open.spotify.com/artist/6efFSrfAtcVvlMIkrCEwR0), [Luhae](https://open.spotify.com/artist/4Fh5HG3tvMsqB3xtWGmWXp) | [I'm on my way to you](https://open.spotify.com/album/6DX3jl8nfeWduJrvXytQ13) | 3:02 | 2023-03-28 | 2023-04-09 |
 | [I'LL BE YOUR SPRING](https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn) | [Olivia Hye](https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG) | [I'LL BE YOUR SPRING](https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf) | 3:09 | 2022-05-11 |  |
@@ -167,6 +167,7 @@
 | [with you \(feat\. g0nny\)](https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [with you \(feat\. g0nny\)](https://open.spotify.com/album/38jEKpk2q846icctNoaDKk) | 2:59 | 2023-07-07 |  |
 | [You\(=I\)](https://open.spotify.com/track/6IBPrw5nYj84x8JpiOvXUp) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 2:49 | 2022-05-11 |  |
 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 | 2022-05-11 |  |
+| [개화 blooming](https://open.spotify.com/track/2qZY6Idoa7WWPb1aFC5eYC) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [개화 blooming](https://open.spotify.com/album/3gaZnNxnH6bPk0MoyaiMBo) | 3:59 | 2023-07-07 |  |
 | [두근거려 \(Beautiful\)](https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [우리 옆집에 EXO가 산다 \(EXO NEXT DOOR\) OST](https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc) | 3:44 | 2022-05-11 |  |
 | [봄이 좋냐?? What The Spring??](https://open.spotify.com/track/1fr9b1MIyas7cpt1QY3h9d) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.2 What The Spring??](https://open.spotify.com/album/44HJerzPLHbGr8G2eC1bIv) | 3:25 | 2022-09-05 |  |
 | [봄이 좋냐?? What The Spring??](https://open.spotify.com/track/5gkB40BDQE1CvtXpF6fcPm) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [봄이 좋냐?? What The Spring??](https://open.spotify.com/album/0u4WFVJDJh5dbNYgOgbABY) | 3:25 | 2022-05-11 | 2022-11-01 |

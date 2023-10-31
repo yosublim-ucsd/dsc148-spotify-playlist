@@ -4,7 +4,7 @@
 
 > Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.
 
-51 songs - 2 hr 54 min
+52 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-10-27 |  |
 | [Barbed Wire](https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 3:22 | 2023-10-27 |  |
 | [Blanco y Negro](https://open.spotify.com/track/7M8i0g4Ls8w3JCOwTChnkD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los mejores años](https://open.spotify.com/album/5sQ55TNYqcvtk4VMpx91Kl) | 3:41 | 2023-10-27 |  |
+| [Brújula](https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Brújula](https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr) | 3:10 | 2023-10-27 |  |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2023-10-27 |  |
 | [Chilango Blues](https://open.spotify.com/track/15GJ5u94ls3eciXNh6YDER) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Chilango Blues](https://open.spotify.com/album/1XqryMmgsJxFIfUHu8E2VQ) | 3:47 | 2023-10-27 |  |
 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 | 2023-10-27 |  |
@@ -54,7 +55,7 @@
 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 | 2023-10-27 |  |
 | [Un Ratito](https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Medianoche](https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL) | 3:00 | 2023-10-27 |  |
 | [Un ratito más](https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:51 | 2023-10-27 |  |
-| [Una historia que contar](https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Una historia que contar](https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk) | 3:06 | 2023-10-27 |  |
+| [Una historia que contar](https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Una historia que contar](https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk) | 3:06 | 2023-10-27 | 2023-10-31 |
 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/6mYn2tAQD0LmwqplaMbXhg) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw), [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Todos A Belen](https://open.spotify.com/album/54YLqTx1NcuQUkVARYdIBQ) | 3:41 | 2023-10-27 |  |
 | [WCID?](https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:23 | 2023-10-27 |  |
 | [We're the Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 | 2023-10-27 |  |

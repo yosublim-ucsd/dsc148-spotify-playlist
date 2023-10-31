@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Con sabor y perrenque, aqu\u00ed est\u00e1 lo mejor de \"la tierra de los mil ritmos\"! En portada: Shakira. #DiaDeShakira",
+  "description": "\u00a1Con sabor y perrenque, aqu\u00ed est\u00e1 lo mejor de \"la tierra de los mil ritmos\"! En portada: Shakira.",
   "name": "Made in Colombia",
   "tracks": [
     {
@@ -894,7 +894,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 157293,
       "name": "Como Ayer",
       "url": "https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY"
@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Demasiado Lejos",
+        "url": "https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179123,
+      "name": "Demasiado Lejos",
+      "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
+    },
+    {
+      "album": {
         "name": "\u2013EP\u00edlogo\u2013 Diciembre, Otra Vez",
         "url": "https://open.spotify.com/album/6EZOLQYsbxm6ayT7s8sX5F"
       },
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 189918,
       "name": "D\u00c9JALO EN VISTO",
       "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
@@ -1629,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
+    },
+    {
+      "album": {
         "name": "Un D\u00eda Normal (20th Anniversary Remastered)",
         "url": "https://open.spotify.com/album/1u6LVowYLLPQVSS2o67YyW"
       },
@@ -1666,7 +1702,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 203590,
       "name": "Espacio",
       "url": "https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW"
@@ -2494,7 +2530,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 208760,
       "name": "Me Voy Contigo",
       "url": "https://open.spotify.com/track/4h5vzpVOjyE6iDL87aQe4b"
@@ -2880,6 +2916,28 @@
       "duration_ms": 182253,
       "name": "Ni\u00f1o So\u00f1ador",
       "url": "https://open.spotify.com/track/2kRrmu3UpV9t9jM8yFxzGk"
+    },
+    {
+      "album": {
+        "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
+      },
+      "artists": [
+        {
+          "name": "Tostao",
+          "url": "https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT"
+        },
+        {
+          "name": "Luis Eduardo Ac\u00fastico",
+          "url": "https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171818,
+      "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
     },
     {
       "album": {
@@ -4632,6 +4690,24 @@
       "duration_ms": 186000,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
+    },
+    {
+      "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186617,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
     },
     {
       "album": {

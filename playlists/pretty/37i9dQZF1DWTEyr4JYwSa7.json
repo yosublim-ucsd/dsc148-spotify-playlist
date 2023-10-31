@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 52236,
+  "num_followers": 52262,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTI4OTBiOWUxNGE5MmVmMmY2NjQ5MjJmODRhYzI4ZTJlNDUwNTQw",
+  "snapshot_id": "MCw4NDQ3ZTc2NTA0MDg5NjZhMGZkYzcwNTQ2Zjc0YTAxZDNlMjVhMTQ5",
   "tracks": [
     {
       "added_at": "2023-10-13 22:20:24",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
-      "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
         "name": "Holiday Wishes",
         "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
         "name": "L'album de No\u00ebl (\u00c9dition anniversaire)",
         "url": "https://open.spotify.com/album/3QIAgDDcFJM1Yleb149KnA"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 199080,
       "name": "Mon premier sapin blanc",
       "url": "https://open.spotify.com/track/7lLFdYWyb3s9OHmnMhH03s"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
+      "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -675,22 +691,6 @@
       "duration_ms": 242644,
       "name": "Santa, Can\u2019t You Hear Me",
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 131733,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Christmas, With Love",
-        "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "One More Sleep",
-      "url": "https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 309386,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "Christmas, With Love",
+        "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "One More Sleep",
+      "url": "https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
         "name": "These are Special Times",
         "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 204266,
       "name": "Another Year Has Gone By",
       "url": "https://open.spotify.com/track/014An8mZt6hTR6bsN9fo2u"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Wintersong",
-        "url": "https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ"
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
       "artists": [
         {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 242013,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3yLCQ4GRSFlg3GmwlYQlzX"
+      "duration_ms": 180047,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/73Hn7c2f0IzvcxmpqswGFa"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+        "name": "Wintersong",
+        "url": "https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
         }
       ],
-      "duration_ms": 180047,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/73Hn7c2f0IzvcxmpqswGFa"
+      "duration_ms": 242013,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3yLCQ4GRSFlg3GmwlYQlzX"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "604 Records: The Second Noel",
-        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
         }
       ],
-      "duration_ms": 251800,
-      "name": "Mittens",
-      "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
+      "duration_ms": 138560,
+      "name": "Vive le vent",
+      "url": "https://open.spotify.com/track/4V9Af9RIbI5V9KjiiFtWqx"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1371,34 +1371,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Joyeux No\u00ebl",
-        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
+        "name": "604 Records: The Second Noel",
+        "url": "https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw"
       },
       "artists": [
         {
-          "name": "Ginette Reno",
-          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 138560,
-      "name": "Vive le vent",
-      "url": "https://open.spotify.com/track/4V9Af9RIbI5V9KjiiFtWqx"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
-        "name": "Chansons hivernales",
-        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 221293,
-      "name": "Maman, Papa",
-      "url": "https://open.spotify.com/track/5SfR5iR5KLfWIyRxDa99ns"
+      "duration_ms": 251800,
+      "name": "Mittens",
+      "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1415,6 +1399,22 @@
       "duration_ms": 136533,
       "name": "Fa La La",
       "url": "https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
+        "name": "Chansons hivernales",
+        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 221293,
+      "name": "Maman, Papa",
+      "url": "https://open.spotify.com/track/5SfR5iR5KLfWIyRxDa99ns"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
+      },
+      "artists": [
+        {
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Promenade en tra\u00eeneau",
+      "url": "https://open.spotify.com/track/7fwzmmganYLIMBP9rmrAAw"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
         "name": "No\u00ebl, C'est L'amour",
         "url": "https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 176106,
       "name": "Le P\u00e8re No\u00ebl C't'un Qu\u00e9b\u00e9cois",
       "url": "https://open.spotify.com/track/7adJp4379R1irkezIA3zjd"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
-        "name": "La tour de b\u00e9belles",
-        "url": "https://open.spotify.com/album/6b7M7bwX4DSOvvN0rxYKmD"
-      },
-      "artists": [
-        {
-          "name": "Shilvi",
-          "url": "https://open.spotify.com/artist/6lPtV4QMcounmL4iNB7edn"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "Les soeurs crevette",
-      "url": "https://open.spotify.com/track/1ELX43S4uTTUavCNWQ1Bgx"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Joyeux No\u00ebl",
-        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
+        "name": "La tour de b\u00e9belles",
+        "url": "https://open.spotify.com/album/6b7M7bwX4DSOvvN0rxYKmD"
       },
       "artists": [
         {
-          "name": "Ginette Reno",
-          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
+          "name": "Shilvi",
+          "url": "https://open.spotify.com/artist/6lPtV4QMcounmL4iNB7edn"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Promenade en tra\u00eeneau",
-      "url": "https://open.spotify.com/track/7fwzmmganYLIMBP9rmrAAw"
+      "duration_ms": 177586,
+      "name": "Les soeurs crevette",
+      "url": "https://open.spotify.com/track/1ELX43S4uTTUavCNWQ1Bgx"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
+        "name": "Sainte Nuit",
+        "url": "https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja"
+      },
+      "artists": [
+        {
+          "name": "Johanne Blouin",
+          "url": "https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "L'enfant au tambour",
+      "url": "https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8"
+    },
+    {
+      "added_at": "2023-10-13 22:20:24",
+      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
       },
@@ -1599,18 +1615,18 @@
     {
       "added_at": "2023-10-13 22:20:24",
       "album": {
-        "name": "Sainte Nuit",
-        "url": "https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja"
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
       },
       "artists": [
         {
-          "name": "Johanne Blouin",
-          "url": "https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd"
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
         }
       ],
-      "duration_ms": 174866,
-      "name": "L'enfant au tambour",
-      "url": "https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8"
+      "duration_ms": 193413,
+      "name": "J'ai vu maman",
+      "url": "https://open.spotify.com/track/7C2rBix360wLA61Al61APh"
     },
     {
       "added_at": "2023-10-13 22:20:24",
@@ -1627,26 +1643,6 @@
       "duration_ms": 186376,
       "name": "Le sentier de neige",
       "url": "https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji"
-    },
-    {
-      "added_at": "2023-10-13 22:20:24",
-      "album": {
-        "name": "No\u00ebl \u00e0 deux",
-        "url": "https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv"
-      },
-      "artists": [
-        {
-          "name": "Marie Eve Janvier",
-          "url": "https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch"
-        },
-        {
-          "name": "Jean-Fran\u00e7ois Breau",
-          "url": "https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu"
-        }
-      ],
-      "duration_ms": 203169,
-      "name": "No\u00ebl c'est toi",
-      "url": "https://open.spotify.com/track/4rG6whNnK2TY2OZ042G5XY"
     },
     {
       "added_at": "2023-10-13 22:20:24",

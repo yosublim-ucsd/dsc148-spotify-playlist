@@ -1,12 +1,12 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 10929,
+  "num_followers": 10930,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTI5NWM2N2YyZDI3MGUwZmEzMmJhMDFkMjk2Yjg5M2M5Y2Y3ZGZi",
+  "snapshot_id": "MCwwNDNlNjBlOGVmMTZiOTFjMjYzYjhmZTEwYTBiZjBiZWIxNDQ5ZmQ3",
   "tracks": [
     {
       "added_at": "2023-04-02 08:21:16",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Death Was Arrested",
+        "url": "https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 314242,
+      "name": "Death Was Arrested",
+      "url": "https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "He Lives",
         "url": "https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 334333,
       "name": "Mercy - Live",
       "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Death Was Arrested",
-        "url": "https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 314242,
-      "name": "Death Was Arrested",
-      "url": "https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Upon Him",
+        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 241901,
+      "name": "Upon Him",
+      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "Mercy Road",
         "url": "https://open.spotify.com/album/4NkTCWHns2QHBm6KW4ToMl"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Upon Him",
-        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 241901,
-      "name": "Upon Him",
-      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Blameless",
         "url": "https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj"
       },
@@ -1027,26 +1027,6 @@
       "duration_ms": 234348,
       "name": "Blameless",
       "url": "https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Faithfulness (feat. Steffany Gretzinger)",
-      "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1079,6 +1059,26 @@
       "duration_ms": 285853,
       "name": "It Was Finished",
       "url": "https://open.spotify.com/track/0oGI2EFKcoW9ZSu9JNoZvj"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Faithfulness (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Stars Go Dim",
         "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 326855,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4v3SzdNUZLpocZxK6oZEkW"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 315520,
-      "name": "You Were On The Cross",
-      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "See The Morning",
         "url": "https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi"
       },
@@ -1303,6 +1287,26 @@
       "duration_ms": 241573,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU"
+      },
+      "artists": [
+        {
+          "name": "Jackson Michelson",
+          "url": "https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN"
+        },
+        {
+          "name": "Point Of Grace",
+          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Three",
+      "url": "https://open.spotify.com/track/7wAR6VZvelnHbNKsrpTAs0"
     }
   ],
   "unique_name": "Holy Week: Easter",

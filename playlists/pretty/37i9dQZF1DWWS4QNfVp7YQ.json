@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 66197,
+  "num_followers": 66273,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjJkMjZiYTAyYTlkODI3MjM5MmY1OGMwYzQ3OGJmZWZiZTI0ZWVk",
+  "snapshot_id": "MCwyOGUzZDkyNmQ3ZGU4OTExNjA4NzEzYzEzZGMwYThiOWY5ZTlhMDA1",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -211,6 +211,26 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "El Ritmo Fa",
+        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
+      },
+      "artists": [
+        {
+          "name": "DJ kLazH",
+          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
+        },
+        {
+          "name": "Dj Kury",
+          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
+        }
+      ],
+      "duration_ms": 323076,
+      "name": "El Ritmo Fa",
+      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "Globall",
         "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 181040,
       "name": "La Noche Es Tuya (feat. Gerardo Orti\u0301z & Ame\u0301rica Sierra)",
       "url": "https://open.spotify.com/track/73tHpsVzELtbluqT2D2YPD"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "El Ritmo Fa",
-        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
-      },
-      "artists": [
-        {
-          "name": "DJ kLazH",
-          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
-        },
-        {
-          "name": "Dj Kury",
-          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
-        }
-      ],
-      "duration_ms": 323076,
-      "name": "El Ritmo Fa",
-      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
     },
     {
       "added_at": "2023-01-20 06:00:00",
@@ -959,22 +959,18 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Brindemos Por Ellas",
-        "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
+        "name": "Generaci\u00f3n Tribal",
+        "url": "https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh"
       },
       "artists": [
         {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        },
-        {
-          "name": "Baby Joss",
-          "url": "https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn"
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
         }
       ],
-      "duration_ms": 208146,
-      "name": "Brindemos Por Ellas",
-      "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
+      "duration_ms": 184146,
+      "name": "Sheeqo, Get Loose",
+      "url": "https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK"
     }
   ],
   "unique_name": "Fiesta Tribal",

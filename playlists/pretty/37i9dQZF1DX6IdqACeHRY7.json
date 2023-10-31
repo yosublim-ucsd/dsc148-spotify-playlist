@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 150971,
+  "num_followers": 151035,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmQ5NzJlZWY4NTg5NDA4MWIwMGU3MzI2MjI4NzJiOTE5ZWVjZmVl",
+  "snapshot_id": "MCxhNjY2OTFhYjE3YzVhNDgxMmEwZjI3OWE0YWJiMzE5YTFiNzQwN2Q2",
   "tracks": [
     {
       "added_at": "2023-10-26 19:02:58",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 189906,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
         "name": "Little Voice",
         "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
@@ -367,6 +383,26 @@
       "duration_ms": 232760,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "There's No Way (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 174860,
+      "name": "There's No Way (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -403,22 +439,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 225893,
       "name": "Sink",
       "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
-        "name": "There's No Way (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 174860,
-      "name": "There's No Way (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -703,22 +703,18 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Best Part of Me (feat. YEBBA)",
-        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 243266,
-      "name": "Best Part of Me (feat. YEBBA)",
-      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
+      "duration_ms": 178826,
+      "name": "You Sigh",
+      "url": "https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -739,18 +735,22 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
+        "name": "Best Part of Me (feat. YEBBA)",
+        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 178826,
-      "name": "You Sigh",
-      "url": "https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z"
+      "duration_ms": 243266,
+      "name": "Best Part of Me (feat. YEBBA)",
+      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "I Should Probably Go To Bed",
-        "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "I Should Probably Go To Bed",
-      "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Earthtones",
         "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 260959,
       "name": "Way With Words",
       "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "I Should Probably Go To Bed",
+        "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "I Should Probably Go To Bed",
+      "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Get Here - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 190266,
       "name": "Back in the Water",
       "url": "https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Get Here - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 183591,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 203546,
       "name": "For You",
       "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 183591,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU"
     },
     {
       "added_at": "2023-10-26 19:02:58",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
         "name": "Be Kind (with Halsey) [Stripped]",
         "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
       },
@@ -1755,38 +1771,6 @@
     {
       "added_at": "2023-10-26 19:02:58",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
-    },
-    {
-      "added_at": "2023-10-26 19:02:58",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 229783,
       "name": "Flux",
       "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
+    },
+    {
+      "added_at": "2023-10-26 19:02:58",
+      "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2023-10-26 19:02:58",

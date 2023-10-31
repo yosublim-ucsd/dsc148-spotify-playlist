@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,658 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,660 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dancing Lasha Tumbai](https://open.spotify.com/track/3ve2mVR6BkXuNWfHVoA5yu) | [Verka Serduchka](https://open.spotify.com/artist/7uH6CJjqK71HlHW4WHNAJg) | [До Ре Ми](https://open.spotify.com/album/7aaWrgvqjOo9KswnRpGMgk) | 2:59 |
 | 2 | [SloMo \- Eurovision's Dancebreak Edit](https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo \(Eurovision's Dancebreak Edit\)](https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA) | 3:00 |
 | 3 | [Euphoria \- Single Version](https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria \(The Alternative Mixes\)](https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu) | 3:01 |
-| 4 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 |
+| 4 | [Waterloo](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av) | 2:48 |
 | 5 | [Fuego](https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Fuego](https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8) | 3:03 |
 | 6 | [Llámame](https://open.spotify.com/track/3n9qn38IhqkC7DcdIRaM9q) | [wrs](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Llámame](https://open.spotify.com/album/4CR61ko9dziDieWFFPkGWs) | 3:04 |
 | 7 | [Think About Things](https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Think About Things](https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs) | 2:53 |
 | 8 | [El Diablo](https://open.spotify.com/track/0DGduxy7YSuqXm272C2LM6) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/0hddqJaLbuagDCHHSgULIm) | 3:01 |
-| 9 | [Waterloo](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av) | 2:48 |
+| 9 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 |
 | 10 | [Wild Dances](https://open.spotify.com/track/1Lav2Z3RKu71MJLIjQz4dQ) | [Ruslana](https://open.spotify.com/artist/5nkB6GEbHINTSqmi5XMSoa) | [Wild Dances](https://open.spotify.com/album/1z6OfyGs0GepuESby1DUhB) | 3:03 |
 | 11 | [Fairytale](https://open.spotify.com/track/6NgYIETQ8U72CVfkzYhK30) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytales](https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp) | 3:03 |
 | 12 | [Toy](https://open.spotify.com/track/6n2eIfLj0wOOUkUfNmYzlh) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Toy](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
 | 75 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
 
-Snapshot ID: `MCw4NjhkYmY1YzZkOGZmNWFjNjFkMjMyMjUyNGQzNzhlNDE5ZmI5YjA4`
+Snapshot ID: `MCw1ZTRlZDBhYzYwMDAyZGJhOTc1MjNmNjczNDI4ZTRkZThkNzViNmI4`

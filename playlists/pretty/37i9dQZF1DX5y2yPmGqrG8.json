@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 327135,
+  "num_followers": 327189,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzQ1OGY0MWVlNmJlZjE2NjA0ZTQ1MGI4NDhjMTM3ZjUxMmEwZDRl",
+  "snapshot_id": "MCxjZmFmMzg2ZWIzNmUwZWI5MDhiY2ZiYjlkNDE3MDUwYzVmYzRiMGVm",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -175,22 +175,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Living Room Songs",
-        "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 208589,
-      "name": "Near Light",
-      "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Syro",
         "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 321880,
       "name": "aisatsana [102]",
       "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Living Room Songs",
+        "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 208589,
+      "name": "Near Light",
+      "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -259,6 +259,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Othona",
         "url": "https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "#20",
-      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -611,6 +611,38 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Requiem for CS70 and Strings",
+      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -641,38 +673,6 @@
       "url": "https://open.spotify.com/track/1TbDfkXAw8sbd3oewgAOW4"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Los Desamores de Dewey Martino",
-        "url": "https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg"
-      },
-      "artists": [
-        {
-          "name": "Dewey Martino",
-          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Pipopapipo",
-      "url": "https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC"
-    },
-    {
       "added_at": "2022-10-14 13:00:12",
       "album": {
         "name": "Now Is",
@@ -691,18 +691,18 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+        "name": "Los Desamores de Dewey Martino",
+        "url": "https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Dewey Martino",
+          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
         }
       ],
-      "duration_ms": 143080,
-      "name": "Requiem for CS70 and Strings",
-      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
+      "duration_ms": 216000,
+      "name": "Pipopapipo",
+      "url": "https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC"
     },
     {
       "added_at": "2022-08-03 02:59:28",
@@ -737,36 +737,20 @@
       "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
     },
     {
-      "added_at": "2023-08-10 05:46:44",
-      "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+        "name": "Life Of",
+        "url": "https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC"
       },
       "artists": [
         {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+          "name": "Steve Tibbetts",
+          "url": "https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y"
         }
       ],
-      "duration_ms": 191413,
-      "name": "Kalimba Heart",
-      "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
+      "duration_ms": 99400,
+      "name": "Bloodwork",
+      "url": "https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -787,6 +771,22 @@
       "duration_ms": 286066,
       "name": "Spain",
       "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Kalimba Heart",
+      "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -821,20 +821,20 @@
       "url": "https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
+      "added_at": "2023-08-10 05:46:44",
       "album": {
-        "name": "Life Of",
-        "url": "https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC"
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
       },
       "artists": [
         {
-          "name": "Steve Tibbetts",
-          "url": "https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y"
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
         }
       ],
-      "duration_ms": 99400,
-      "name": "Bloodwork",
-      "url": "https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64"
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     }
   ],
   "unique_name": "Deep Listening",

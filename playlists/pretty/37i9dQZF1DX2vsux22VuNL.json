@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 290395,
+  "num_followers": 290675,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjkxMWVmNjczZWI1NjJhZDIzMTcwNTA3NTgxNTRkMzdhNGM5NzEy",
+  "snapshot_id": "MCxlOTZmOTI3ZWFhZmFiOWExNmFlNDMzZGM0MGVhZThlMmU5NjM1Mzgz",
   "tracks": [
     {
       "added_at": "2023-10-27 20:52:05",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 208120,
+      "name": "To Que To A Toa",
+      "url": "https://open.spotify.com/track/68yL6r526zRHhAn3wx3wvZ"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
         "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
         "url": "https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 294545,
       "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
       "url": "https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 208120,
-      "name": "To Que To A Toa",
-      "url": "https://open.spotify.com/track/68yL6r526zRHhAn3wx3wvZ"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -595,6 +595,34 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
+        "name": "Outro Patamar",
+        "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "duration_ms": 224842,
+      "name": "Outro Patamar",
+      "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
         "name": "Ac\u00fastico Canc\u00fan",
         "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
       },
@@ -639,34 +667,6 @@
       "duration_ms": 158109,
       "name": "Do Mesmo Lado",
       "url": "https://open.spotify.com/track/3Dt9KqpGEH30Iwo6wF9Y2S"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
-        "name": "Outro Patamar",
-        "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "Outro Patamar",
-      "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -899,6 +899,26 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
         "name": "Pena Que Acabou",
         "url": "https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 197083,
       "name": "Efeito Brasa",
       "url": "https://open.spotify.com/track/0NMLNyUSHexdZXeVOBnry0"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
-        "name": "Queria Te Ver",
-        "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
-      },
-      "artists": [
-        {
-          "name": "Taylan",
-          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        }
-      ],
-      "duration_ms": 189562,
-      "name": "Queria Te Ver",
-      "url": "https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1371,6 +1347,30 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
+        "name": "Queria Te Ver",
+        "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
+      },
+      "artists": [
+        {
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        }
+      ],
+      "duration_ms": 189562,
+      "name": "Queria Te Ver",
+      "url": "https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo"
     },
     {
       "added_at": "2023-10-27 20:52:05",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2023-10-27 20:52:05",
       "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
-    },
-    {
-      "added_at": "2023-10-27 20:52:05",
-      "album": {
         "name": "terminou comigo na Bahia",
         "url": "https://open.spotify.com/album/1kmS6bdjx31b9NLHIweTqD"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 182497,
       "name": "terminou comigo na Bahia",
       "url": "https://open.spotify.com/track/5LmnWlRFgfvwZPBYTs2nYZ"
+    },
+    {
+      "added_at": "2023-10-27 20:52:05",
+      "album": {
+        "name": "O Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "O Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
     },
     {
       "added_at": "2023-10-27 20:52:05",

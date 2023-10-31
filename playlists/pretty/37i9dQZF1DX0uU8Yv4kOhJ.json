@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 126252,
+  "num_followers": 126277,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDlmMjVmZDAxZjcxMzFiODk4ZjJlZjcxZTNlYzdmZWUyODQzZjg1",
+  "snapshot_id": "MCw2OTE4ZTJkNWVlMzNjMGMyOTNiNGZhZDljNzQ3Y2ZiNGEzYWYxMzA5",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 233012,
+      "name": "Sueno en Paraguay",
+      "url": "https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 254815,
       "name": "Coraz\u00f3n de Rub\u00ed",
       "url": "https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 233012,
-      "name": "Sueno en Paraguay",
-      "url": "https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Isqun",
         "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 202008,
       "name": "Francisca Pizarro",
       "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Quena de los Andes",
-        "url": "https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq"
+        "name": "Pura Flor",
+        "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
       },
       "artists": [
         {
-          "name": "U\u00f1a Ramos",
-          "url": "https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA"
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 227252,
-      "name": "Cometa de Luz",
-      "url": "https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb"
+      "duration_ms": 237613,
+      "name": "Pura Flor",
+      "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
+        "name": "Quena de los Andes",
+        "url": "https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq"
       },
       "artists": [
         {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+          "name": "U\u00f1a Ramos",
+          "url": "https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA"
         }
       ],
-      "duration_ms": 317790,
-      "name": "Gente Mariposa",
-      "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
+      "duration_ms": 227252,
+      "name": "Cometa de Luz",
+      "url": "https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
+      },
+      "artists": [
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 317790,
+      "name": "Gente Mariposa",
+      "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Mezcla",
         "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 351173,
       "name": "De Barrio",
       "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Hasta Donde Mande el Cuerpo",
-        "url": "https://open.spotify.com/album/0wxoLfkWTTIyym169xRgfE"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 212172,
-      "name": "Hasta Donde Mande el Cuerpo",
-      "url": "https://open.spotify.com/track/5gNyonYA0mMGyewJLHupu6"
     }
   ],
   "unique_name": "Entre los Andes",

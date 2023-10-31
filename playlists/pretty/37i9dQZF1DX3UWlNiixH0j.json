@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Guiba",
-  "num_followers": 53724,
+  "num_followers": 53745,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjk3ZTU0YTdiMzYyOWMwNDYzNmNmMjQ5MjBkYWIwOTBkY2FjYzNl",
+  "snapshot_id": "MCxiZjIxYjYxMmFhNDczNzU1ZjU2ZjhjMTk4OWFhYjllYjU4OGJlOTgy",
   "tracks": [
     {
       "added_at": "2023-10-26 15:01:52",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 239625,
-      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
-    },
-    {
-      "added_at": "2023-10-26 15:01:52",
-      "album": {
         "name": "Regrets",
         "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 136986,
       "name": "rose",
       "url": "https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG"
+    },
+    {
+      "added_at": "2023-10-26 15:01:52",
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 239625,
+      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -511,22 +511,18 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "BLOW",
-        "url": "https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC"
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
       },
       "artists": [
         {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
-        },
-        {
-          "name": "Safeplanet",
-          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 213536,
-      "name": "BLOW",
-      "url": "https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi"
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -615,18 +611,18 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+        "name": "F.N.A.P.",
+        "url": "https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+      "duration_ms": 171000,
+      "name": "F.N.A.P.",
+      "url": "https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -679,18 +675,22 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "F.N.A.P.",
-        "url": "https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE"
+        "name": "BLOW",
+        "url": "https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC"
       },
       "artists": [
         {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        },
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
         }
       ],
-      "duration_ms": 171000,
-      "name": "F.N.A.P.",
-      "url": "https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l"
+      "duration_ms": 213536,
+      "name": "BLOW",
+      "url": "https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -711,22 +711,18 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "Demon",
-        "url": "https://open.spotify.com/album/4m0qYtUPfTAPtCitvg1Bz1"
+        "name": "apart",
+        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
       },
       "artists": [
         {
-          "name": "Kaneee",
-          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
-        },
-        {
-          "name": "ZOT on the WAVE",
-          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 174147,
-      "name": "Demon",
-      "url": "https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh"
+      "duration_ms": 176166,
+      "name": "apart",
+      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -747,18 +743,22 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "Just an Ordinary Sunday",
-        "url": "https://open.spotify.com/album/02s2ewiUd2YgGpL5uH9WWq"
+        "name": "Demon",
+        "url": "https://open.spotify.com/album/4m0qYtUPfTAPtCitvg1Bz1"
       },
       "artists": [
         {
-          "name": "EMPTYSCENARIO",
-          "url": "https://open.spotify.com/artist/6KbPaXqXnqgcSfdK1kN9lu"
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
         }
       ],
-      "duration_ms": 182872,
-      "name": "Just an Ordinary Sunday",
-      "url": "https://open.spotify.com/track/6p6NytZ2eNa7ZWstx6Kvva"
+      "duration_ms": 174147,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "apart",
-        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
+        "name": "Trank",
+        "url": "https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "ako",
+          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
         }
       ],
-      "duration_ms": 176166,
-      "name": "apart",
-      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
+      "duration_ms": 177259,
+      "name": "Trank",
+      "url": "https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "Trank",
-        "url": "https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U"
+        "name": "Just an Ordinary Sunday",
+        "url": "https://open.spotify.com/album/02s2ewiUd2YgGpL5uH9WWq"
       },
       "artists": [
         {
-          "name": "ako",
-          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
+          "name": "EMPTYSCENARIO",
+          "url": "https://open.spotify.com/artist/6KbPaXqXnqgcSfdK1kN9lu"
         }
       ],
-      "duration_ms": 177259,
-      "name": "Trank",
-      "url": "https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA"
+      "duration_ms": 182872,
+      "name": "Just an Ordinary Sunday",
+      "url": "https://open.spotify.com/track/6p6NytZ2eNa7ZWstx6Kvva"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "\u3042\u308a\u304c\u3068\u3046",
-        "url": "https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV"
-      },
-      "artists": [
-        {
-          "name": "never young beach",
-          "url": "https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX"
-        }
-      ],
-      "duration_ms": 309348,
-      "name": "\u98a8\u3092\u5439\u304b\u305b\u3066",
-      "url": "https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg"
-    },
-    {
-      "added_at": "2023-10-26 15:01:52",
-      "album": {
         "name": "OLD ROOKIE EP.1",
         "url": "https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 149425,
       "name": "Old Rookie",
       "url": "https://open.spotify.com/track/6wo2dSc2HAsF0KUqti4UQn"
+    },
+    {
+      "added_at": "2023-10-26 15:01:52",
+      "album": {
+        "name": "\u3042\u308a\u304c\u3068\u3046",
+        "url": "https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV"
+      },
+      "artists": [
+        {
+          "name": "never young beach",
+          "url": "https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX"
+        }
+      ],
+      "duration_ms": 309348,
+      "name": "\u98a8\u3092\u5439\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "I Refuse",
-        "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
+        "name": "\u967d\u6c17\u306a\u4f11\u65e5",
+        "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
       },
       "artists": [
         {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
         }
       ],
-      "duration_ms": 227800,
-      "name": "I Refuse",
-      "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
+      "duration_ms": 268500,
+      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "\u967d\u6c17\u306a\u4f11\u65e5",
-        "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
+        "name": "I Refuse",
+        "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
       },
       "artists": [
         {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
         }
       ],
-      "duration_ms": 268500,
-      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
+      "duration_ms": 227800,
+      "name": "I Refuse",
+      "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "Aglio e olio",
-        "url": "https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT"
-      },
-      "artists": [
-        {
-          "name": "Tohji",
-          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
-        }
-      ],
-      "duration_ms": 165018,
-      "name": "Aglio e olio",
-      "url": "https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND"
-    },
-    {
-      "added_at": "2023-10-26 15:01:52",
-      "album": {
         "name": "Dreamin'",
         "url": "https://open.spotify.com/album/1KXZlPBV0JQRaHUpeC3JLA"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 216399,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/3ESbnlo4XUDRUDwrnVWoSf"
+    },
+    {
+      "added_at": "2023-10-26 15:01:52",
+      "album": {
+        "name": "Aglio e olio",
+        "url": "https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        }
+      ],
+      "duration_ms": 165018,
+      "name": "Aglio e olio",
+      "url": "https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
+        "name": "sinister",
+        "url": "https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "duration_ms": 218148,
+      "name": "sinister",
+      "url": "https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm"
+    },
+    {
+      "added_at": "2023-10-26 15:01:52",
+      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 189066,
       "name": "\u5149\u7dda",
       "url": "https://open.spotify.com/track/42DGm06re0rxSEOM0AhO6p"
-    },
-    {
-      "added_at": "2023-10-26 15:01:52",
-      "album": {
-        "name": "sinister",
-        "url": "https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq"
-      },
-      "artists": [
-        {
-          "name": "a\u5b50",
-          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
-        }
-      ],
-      "duration_ms": 218148,
-      "name": "sinister",
-      "url": "https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
+        "name": "\u6200\u611b\u5927\u5168",
+        "url": "https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky"
+      },
+      "artists": [
+        {
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "\u8056\u8005",
+      "url": "https://open.spotify.com/track/0pc65xApWsiCYFHay3uEEJ"
+    },
+    {
+      "added_at": "2023-10-26 15:01:52",
+      "album": {
         "name": "\u304a\u3059\u3057",
         "url": "https://open.spotify.com/album/5WYAvW8s9xG4ESshoqffaJ"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "\u5149\u3092\u6d74\u3073\u3066",
-        "url": "https://open.spotify.com/album/2gmerqerD6iqVX4RgzDWGt"
-      },
-      "artists": [
-        {
-          "name": "\u78a7\u6d77\u7950\u4eba",
-          "url": "https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "\u5149\u3092\u6d74\u3073\u3066",
-      "url": "https://open.spotify.com/track/6w8teS79FT2JV8XV4EgZDj"
-    },
-    {
-      "added_at": "2023-10-26 15:01:52",
-      "album": {
         "name": "Steppin' Out",
         "url": "https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN"
       },
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
+        "name": "\u5149\u3092\u6d74\u3073\u3066",
+        "url": "https://open.spotify.com/album/2gmerqerD6iqVX4RgzDWGt"
+      },
+      "artists": [
+        {
+          "name": "\u78a7\u6d77\u7950\u4eba",
+          "url": "https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "\u5149\u3092\u6d74\u3073\u3066",
+      "url": "https://open.spotify.com/track/6w8teS79FT2JV8XV4EgZDj"
+    },
+    {
+      "added_at": "2023-10-26 15:01:52",
+      "album": {
         "name": "All to Myself",
         "url": "https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 198002,
       "name": "All to Myself",
       "url": "https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g"
-    },
-    {
-      "added_at": "2023-10-26 15:01:52",
-      "album": {
-        "name": "\u6200\u611b\u5927\u5168",
-        "url": "https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky"
-      },
-      "artists": [
-        {
-          "name": "the dresscodes",
-          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "\u8056\u8005",
-      "url": "https://open.spotify.com/track/0pc65xApWsiCYFHay3uEEJ"
     },
     {
       "added_at": "2023-10-26 15:01:52",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
+        "name": "Aishiterujinsei feat.HatsuneMiku",
+        "url": "https://open.spotify.com/album/03b3KBf2Jrpa3IddlQ0uUp"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 221487,
+      "name": "Aishiterujinsei feat.HatsuneMiku",
+      "url": "https://open.spotify.com/track/2BqQk8aS2DzTyMEPJiqiaW"
+    },
+    {
+      "added_at": "2023-10-26 15:01:52",
+      "album": {
         "name": "Feet Feet",
         "url": "https://open.spotify.com/album/4Fw194NfogwEO1WNbDHEYe"
       },
@@ -1595,26 +1615,6 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "Aishiterujinsei feat.HatsuneMiku",
-        "url": "https://open.spotify.com/album/03b3KBf2Jrpa3IddlQ0uUp"
-      },
-      "artists": [
-        {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 221487,
-      "name": "Aishiterujinsei feat.HatsuneMiku",
-      "url": "https://open.spotify.com/track/2BqQk8aS2DzTyMEPJiqiaW"
-    },
-    {
-      "added_at": "2023-10-26 15:01:52",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/6dxnxwVjewZUp8K967BUaq"
       },
@@ -1639,46 +1639,6 @@
     {
       "added_at": "2023-10-26 15:01:52",
       "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/78z8tDsh0tpIQF86EIVmRT"
-      },
-      "artists": [
-        {
-          "name": "ASOUND",
-          "url": "https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk"
-        },
-        {
-          "name": "Chinza Dopeness",
-          "url": "https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho"
-        }
-      ],
-      "duration_ms": 341890,
-      "name": "Meditation",
-      "url": "https://open.spotify.com/track/2p7rstljNEQ9dwNhKsS3Wr"
-    },
-    {
-      "added_at": "2023-10-26 15:01:52",
-      "album": {
-        "name": "YOLO",
-        "url": "https://open.spotify.com/album/0KGXhKD7VkUdqhR7QfCSxq"
-      },
-      "artists": [
-        {
-          "name": "ASOBOiSM",
-          "url": "https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D"
-        },
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 154176,
-      "name": "\u3060\u308b\u304c\u3089\u307f (feat. \u95a2\u53e3\u30b7\u30f3\u30b4)",
-      "url": "https://open.spotify.com/track/7JgW7JNMfzONhTlkknDzac"
-    },
-    {
-      "added_at": "2023-10-26 15:01:52",
-      "album": {
         "name": "Sol",
         "url": "https://open.spotify.com/album/1ISfBItYYBdfHXxrr6uo4W"
       },
@@ -1691,6 +1651,38 @@
       "duration_ms": 223163,
       "name": "Sol",
       "url": "https://open.spotify.com/track/6mMliV5nFpbX2WbYEtKImK"
+    },
+    {
+      "added_at": "2023-10-26 15:01:52",
+      "album": {
+        "name": "\u3044\u3064\u304b\u6e1a\u3078",
+        "url": "https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "\u3044\u3064\u304b\u6e1a\u3078",
+      "url": "https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu"
+    },
+    {
+      "added_at": "2023-10-26 15:01:52",
+      "album": {
+        "name": "NEW BORN GHOST",
+        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 141793,
+      "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE"
     }
   ],
   "unique_name": "Edge!",

@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43095,
+  "num_followers": 43105,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjE3MzhhNzViMmE4NWIwNGJlM2VkMDhjMGE2OTNhOGVkZDViZDUy",
+  "snapshot_id": "MCw4ZTAyMzk1YjkyNzQ4M2UzYjVjYzFlOGRjNTZmN2E2YTcxMDNhYzBj",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/4KNry6US58GNebuDaiYfHD"
     },
     {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Last Day Of Summer",
@@ -215,6 +199,22 @@
       "duration_ms": 188906,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
+    },
+    {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -349,26 +349,6 @@
       "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Soulection Takeover: 2K23 Edition",
-        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Soulection",
-          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
-        }
-      ],
-      "duration_ms": 110400,
-      "name": "Step 2 Me",
-      "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
-    },
-    {
       "added_at": "2023-07-28 08:00:10",
       "album": {
         "name": "Mixed Emotions",
@@ -389,20 +369,40 @@
       "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
-      "added_at": "2023-07-14 17:29:23",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Down Bad",
-        "url": "https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY"
+        "name": "Soulection Takeover: 2K23 Edition",
+        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
       },
       "artists": [
         {
-          "name": "Erin Kaith",
-          "url": "https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG"
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Soulection",
+          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
         }
       ],
-      "duration_ms": 175348,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
+      "duration_ms": 110400,
+      "name": "Step 2 Me",
+      "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 197094,
+      "name": "Constant Bullshit",
+      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -425,20 +425,20 @@
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2023-07-14 17:29:23",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+        "name": "Down Bad",
+        "url": "https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Erin Kaith",
+          "url": "https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG"
         }
       ],
-      "duration_ms": 197094,
-      "name": "Constant Bullshit",
-      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
+      "duration_ms": 175348,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/4WKCqaRaYMKbDhw9rSdIUI"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Hardlife",
+      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Ready",
@@ -605,20 +621,24 @@
       "url": "https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+        "name": "Used To Me (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 193413,
-      "name": "Hardlife",
-      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
+      "duration_ms": 167591,
+      "name": "Used To Me (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -639,26 +659,6 @@
       "duration_ms": 206143,
       "name": "Don't Give It Away (with Chris Brown)",
       "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Used To Me (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 167591,
-      "name": "Used To Me (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -693,20 +693,20 @@
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2023-06-16 05:24:07",
       "album": {
-        "name": "BUT IF iiM HONEST",
-        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
+        "name": "Grudges",
+        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
       "artists": [
         {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 229854,
-      "name": "Spin the Block",
-      "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
+      "duration_ms": 213736,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -741,20 +741,20 @@
       "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Grudges",
-        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
+        "name": "BUT IF iiM HONEST",
+        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
       },
       "artists": [
         {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
         }
       ],
-      "duration_ms": 213736,
-      "name": "LMK",
-      "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
+      "duration_ms": 229854,
+      "name": "Spin the Block",
+      "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Nuclear Reactor",
+        "url": "https://open.spotify.com/album/0PIMYn5bA5pRN6vNfpezm6"
+      },
+      "artists": [
+        {
+          "name": "OSA",
+          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
+        }
+      ],
+      "duration_ms": 195498,
+      "name": "Nuclear Reactor",
+      "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
@@ -825,22 +841,6 @@
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Nuclear Reactor",
-        "url": "https://open.spotify.com/album/0PIMYn5bA5pRN6vNfpezm6"
-      },
-      "artists": [
-        {
-          "name": "OSA",
-          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
-        }
-      ],
-      "duration_ms": 195498,
-      "name": "Nuclear Reactor",
-      "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Sin on Purpose",
@@ -855,26 +855,6 @@
       "duration_ms": 143360,
       "name": "Sin on Purpose",
       "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
-    },
-    {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "In The Mood",
-        "url": "https://open.spotify.com/album/47k4k9xp4avDKdMkPuvLQS"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 242866,
-      "name": "In The Mood",
-      "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
     },
     {
       "added_at": "2023-07-28 08:00:10",
@@ -897,20 +877,24 @@
       "url": "https://open.spotify.com/track/4zEy7q415WjIawOFLhsMBN"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
+      "added_at": "2023-03-03 05:16:10",
       "album": {
-        "name": "it's not you, it's me",
-        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/47k4k9xp4avDKdMkPuvLQS"
       },
       "artists": [
         {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
-      "duration_ms": 120493,
-      "name": "cascade road",
-      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
+      "duration_ms": 242866,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -931,6 +915,22 @@
       "duration_ms": 144869,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "it's not you, it's me",
+        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "cascade road",
+      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1153,26 +1153,6 @@
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     },
     {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "Swerve",
-        "url": "https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "Eimaral Sol",
-          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
-        }
-      ],
-      "duration_ms": 199563,
-      "name": "Swerve",
-      "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Stay",
@@ -1191,6 +1171,26 @@
       "duration_ms": 203136,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL"
+    },
+    {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "Swerve",
+        "url": "https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Eimaral Sol",
+          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
+        }
+      ],
+      "duration_ms": 199563,
+      "name": "Swerve",
+      "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Cold Toronto",
-        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 157808,
-      "name": "Fell Asleep",
-      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "'95 Civic",
@@ -1371,6 +1355,22 @@
       "duration_ms": 154473,
       "name": "Ultimatum",
       "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Cold Toronto",
+        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 157808,
+      "name": "Fell Asleep",
+      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1469,6 +1469,22 @@
       "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I'M THE PROBLEM",
+        "url": "https://open.spotify.com/album/6Ke3MYjGU7CCv6x530tdm4"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        }
+      ],
+      "duration_ms": 228334,
+      "name": "This Man",
+      "url": "https://open.spotify.com/track/596mDgt5lAcoFLQn3FrXQ7"
+    },
+    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "who's loving you?",
@@ -1519,22 +1535,6 @@
       "duration_ms": 165428,
       "name": "five more",
       "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "I'M THE PROBLEM",
-        "url": "https://open.spotify.com/album/6Ke3MYjGU7CCv6x530tdm4"
-      },
-      "artists": [
-        {
-          "name": "K. Michelle",
-          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
-        }
-      ],
-      "duration_ms": 228334,
-      "name": "This Man",
-      "url": "https://open.spotify.com/track/596mDgt5lAcoFLQn3FrXQ7"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "The Other Side",
@@ -1619,6 +1603,22 @@
       "duration_ms": 147792,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
+      },
+      "artists": [
+        {
+          "name": "Nbdy",
+          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+        }
+      ],
+      "duration_ms": 143903,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1637,20 +1637,36 @@
       "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-06-16 05:24:07",
       "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
       },
       "artists": [
         {
-          "name": "Nbdy",
-          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
         }
       ],
-      "duration_ms": 143903,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
+      "duration_ms": 168000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "WNTRS OUTCAST",
+        "url": "https://open.spotify.com/album/1LA1WiLkc7Md9u6ABOU1Zl"
+      },
+      "artists": [
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 194400,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "WNTRS OUTCAST",
-        "url": "https://open.spotify.com/album/1LA1WiLkc7Md9u6ABOU1Zl"
-      },
-      "artists": [
-        {
-          "name": "Melii",
-          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
     },
     {
       "added_at": "2023-03-10 05:00:00",

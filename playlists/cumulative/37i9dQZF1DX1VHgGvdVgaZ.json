@@ -1204,7 +1204,7 @@
     {
       "album": {
         "name": "Kunnakudi Vaidyanathan Vol - 1",
-        "url": "https://open.spotify.com/album/5JhDdMhTAzcZChrqQu4jrk"
+        "url": "https://open.spotify.com/album/0Ecrh9MPKHqcDli7KCBMXk"
       },
       "artists": [
         {
@@ -1215,6 +1215,24 @@
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 489035,
+      "name": "Sree Mahaganapathim",
+      "url": "https://open.spotify.com/track/4teJcQYIv3OV73xNXYhNzl"
+    },
+    {
+      "album": {
+        "name": "Kunnakudi Vaidyanathan Vol - 1",
+        "url": "https://open.spotify.com/album/5JhDdMhTAzcZChrqQu4jrk"
+      },
+      "artists": [
+        {
+          "name": "Kunnakudi Vaidyanathan",
+          "url": "https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
       "duration_ms": 489035,
       "name": "Sree Mahaganapathim",
       "url": "https://open.spotify.com/track/5uITcl35S5Xl211DFwIlVt"

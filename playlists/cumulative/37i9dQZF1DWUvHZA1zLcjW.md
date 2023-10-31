@@ -2,7 +2,7 @@
 
 ### [Chilled Classical](https://open.spotify.com/playlist/37i9dQZF1DWUvHZA1zLcjW)
 
-> Piezas clásicas para relajarte y dejarte llevar.
+> Chilled classical tunes to help you relax and unwind.
 
 200 songs - 14 hr 9 min
 

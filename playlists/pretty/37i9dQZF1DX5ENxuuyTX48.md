@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!  BERCHANDYA! Cover: Alextbh
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,778 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,803 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Hundred Lives](https://open.spotify.com/track/2vAmx7XDSa8k6FMDexIkye) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [A Hundred Lives](https://open.spotify.com/album/5o9kQ5bfkI1D1aEFH9Clpq) | 3:37 |
 | 2 | [Psychic Girl](https://open.spotify.com/track/5XJxAmAfcsZCKo8SIWbCqM) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Psychic Girl](https://open.spotify.com/album/67zCcRt6bDHrXqszOOfoFa) | 4:27 |
 | 3 | [Indo ME](https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Indo ME](https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4) | 3:20 |
-| 4 | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/track/3OL3ZqqZYc3JkwTUWwEVCc) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/album/1LuVyW6R5qb5Wv9YNmsSzf) | 2:37 |
+| 4 | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/track/3OL3ZqqZYc3JkwTUWwEVCc) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Shared Trauma \(feat\. Keenan Te\)](https://open.spotify.com/album/1LuVyW6R5qb5Wv9YNmsSzf) | 2:37 |
 | 5 | [Pemilik Rindu](https://open.spotify.com/track/2pIyUkqlkIbinlSyy4pBEv) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Pemilik Rindu](https://open.spotify.com/album/2GqDteGvoqep1CH4cuc67d) | 3:27 |
 | 6 | [Hey You](https://open.spotify.com/track/0FndD6sxv6Zk1RDcrD9l6B) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Hey You](https://open.spotify.com/album/5coVlJVZLfupWP9HW0h45j) | 2:42 |
 | 7 | [Triumphant](https://open.spotify.com/track/4EOrn9cRphTDYVedZxxgyf) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [Crescent](https://open.spotify.com/album/4VLOQidgm4w6tLwrQqaaNs) | 3:40 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 34 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 |
 | 35 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 |
 | 36 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 |
-| 37 | [Loneliness](https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Loneliness](https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc) | 3:01 |
-| 38 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 |
-| 39 | [Diri](https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:00 |
-| 40 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
+| 37 | [Diri](https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:00 |
+| 38 | [Loneliness](https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Loneliness](https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc) | 3:01 |
+| 39 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
+| 40 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 |
 | 41 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
 | 42 | [Ada](https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ada](https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C) | 3:30 |
 | 43 | [Senja Teduh Pelita](https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita](https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0) | 4:30 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 45 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
 | 46 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 |
 | 47 | [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 |
-| 48 | [Flip It Up](https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Flip It Up](https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj) | 3:06 |
+| 48 | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ) | 3:54 |
 | 49 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 |
-| 50 | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ) | 3:54 |
+| 50 | [Flip It Up](https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Flip It Up](https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj) | 3:06 |
 
-Snapshot ID: `MCw5ZGY3NTVmNmE2ZjhkMmUxNDY1NGNlYzEyOTYwY2UzMTE5MTYyOGI4`
+Snapshot ID: `MCxjODkwNjcwNjNmYWVmOGMzMmRkNGIxZjRiODc4Y2FlMzliOTJkMTU2`

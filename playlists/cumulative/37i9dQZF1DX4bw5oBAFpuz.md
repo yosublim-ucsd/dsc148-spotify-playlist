@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-324 songs - 18 hr 52 min
+325 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Hurt Somebody \(With Julia Michaels\)](https://open.spotify.com/track/7vA2Y79Q4bBqdzBCfHeGEe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/1TMA2dKLdsJZ8u1iikE6Ow) | 2:48 | 2023-02-23 | 2023-04-26 |
 | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/6G28azuVVwYBOmmkGPQFa3) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 3:22 | 2023-02-23 | 2023-04-26 |
 | [I Don't Deserve It](https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [I Don't Deserve It](https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8) | 3:46 | 2023-02-23 |  |
+| [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-30 |  |
 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 | 2023-02-23 | 2023-07-19 |
 | [Icarus & The Sun](https://open.spotify.com/track/7KxupcqvShlinKyVDAwNtd) | [Neil Hollyn](https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0) | [Icarus & The Sun](https://open.spotify.com/album/7hhml09yFIN79J7iL9uPba) | 3:08 | 2023-04-25 |  |
 | [If I Don't Love Me](https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [If I Don't Love Me](https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt) | 2:57 | 2023-02-23 |  |
@@ -280,7 +281,7 @@
 | [The Hardest Part](https://open.spotify.com/track/4Tw9JYF9HOuPRyccNWMgwf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:22 | 2023-04-06 |  |
 | [The Heartbreak Bird](https://open.spotify.com/track/5KqmuUNzIBh2iJxluAiqE2) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Filled With Gold](https://open.spotify.com/album/0BQsC0ggLM5IJ4AM8KBIbq) | 3:49 | 2023-04-25 |  |
 | [The Heartbreak Bird](https://open.spotify.com/track/6TVJLKqRFUahnjlySOG1EG) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [The Heartbreak Bird](https://open.spotify.com/album/6nSOxkunntWjzWUJUDweEh) | 3:49 | 2023-02-23 | 2023-03-30 |
-| [The Light](https://open.spotify.com/track/7hz3BdldMUmj81yy2JjYaj) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [The Light](https://open.spotify.com/album/5YFH2ZhzYhWltkgmMd1mmU) | 3:37 | 2023-04-25 |  |
+| [The Light](https://open.spotify.com/track/7hz3BdldMUmj81yy2JjYaj) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [The Light](https://open.spotify.com/album/5YFH2ZhzYhWltkgmMd1mmU) | 3:37 | 2023-04-25 | 2023-10-31 |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2023-02-23 |  |
 | [The Poetry Man](https://open.spotify.com/track/0BLMTt0ufk4vqgKUU6T3MP) | [Stevie Ann](https://open.spotify.com/artist/0BLtgRpARRInhUuj2RnpBJ) | [Away From Here](https://open.spotify.com/album/2sU6VJXNO21g8i55eZY9f7) | 4:44 | 2023-02-23 |  |
 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 | 2023-04-06 |  |

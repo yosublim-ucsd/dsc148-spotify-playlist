@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1965834,
+  "num_followers": 1965873,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzgyOTJlZGUzZDA1YzQ4MDg3ODYzYWY2Mjk2Yjc4NTRkMGQ0OTBl",
+  "snapshot_id": "MCxjN2FkNGEwMTE2Njk5ZDNiOTAzOGQ4NjM1YTRkZjhlY2JmOTMyZDYx",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Men Amongst Mountains",
-        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 274093,
-      "name": "Wish I Knew You",
-      "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Beast Epic",
         "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Men Amongst Mountains",
+        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 274093,
+      "name": "Wish I Knew You",
+      "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 222813,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Time in the Sun",
         "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "The Love Still Held Me Near",
         "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 236840,
       "name": "Underground",
       "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 172446,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "To the North",
         "url": "https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 206546,
       "name": "I Will Remain",
       "url": "https://open.spotify.com/track/52VPecMGJQOxyWWWgnUvsI"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 172446,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "I'm Alone, No You're Not",
-        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "I'm Alone, No You're Not",
+        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/6KDS26ap7qW6zDI45PWEUF"
-      },
-      "artists": [
-        {
-          "name": "Tors",
-          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/5SJVX5HeliCen2YqfkzubC"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Mountain To Move",
         "url": "https://open.spotify.com/album/6Vcszn67is0yDZGxNOjvBP"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 236280,
       "name": "Mountain To Move",
       "url": "https://open.spotify.com/track/3sdpasrIhFH4gWuoi0iWym"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6KDS26ap7qW6zDI45PWEUF"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/5SJVX5HeliCen2YqfkzubC"
     },
     {
       "added_at": "2023-10-27 04:00:00",

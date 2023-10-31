@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,268 likes - 95 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,320 likes - 95 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 94 | [Hith Ochcham](https://open.spotify.com/track/792WeaFnWJIIEed9JnnWLW) | [Lashan Herath](https://open.spotify.com/artist/2GKt5532rbjOVlrGyvVHcC) | [Hith Ochcham](https://open.spotify.com/album/46s4zoRLxIbIa3UfjOKwRH) | 3:30 |
 | 95 | [Paluwe Sathuta](https://open.spotify.com/track/16f1xUbj37jdrqkqLCEEkB) | [Senanga Dissanayake](https://open.spotify.com/artist/5r68YwgGItdBtZdTWQFQsJ), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x) | [Paluwe Sathuta](https://open.spotify.com/album/37jxBySqQ3CwWfFCsbH9wi) | 4:38 |
 
-Snapshot ID: `MCw1MGQyNjNhNjFhNGEzNzk2YjU1OTIzNTBiYTBlODc4YTAxNTU0N2Q4`
+Snapshot ID: `MCwwZWYxZmIxMDRjNzU4OTZkNDk3YWM4NGM3ZDI0ODM1NjM0YjI5ODBi`

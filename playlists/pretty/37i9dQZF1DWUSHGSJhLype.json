@@ -1,12 +1,12 @@
 {
   "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: Pedro Sampaio, MC Ryan SP",
-  "num_followers": 416913,
+  "num_followers": 417053,
   "original_name": "Puro SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDQzYmJlYWZlYWYwMTQyMDMwNzdhMzEwMDRiZjFjNDYwNmQzMWMz",
+  "snapshot_id": "MCwyM2JlOGQ5ZDQ0N2FhNDZkZTY1YTE3MmY0NDdlNGM1MjJlNTUyYTY0",
   "tracks": [
     {
       "added_at": "2023-10-27 03:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Cad\u00ea o After? Pt. 1",
-        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Mc Mika",
-          "url": "https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Fode Bem",
-      "url": "https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Vem Quebrando",
         "url": "https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 148615,
       "name": "Vem Quebrando",
       "url": "https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Cad\u00ea o After? Pt. 1",
+        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Mc Mika",
+          "url": "https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Fode Bem",
+      "url": "https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Cintilante (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 173370,
+      "name": "Dois Fugitivos - Ao Vivo",
+      "url": "https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "Diferent\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 163038,
       "name": "Diferent\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3PLdcrfVesYKyTpS1EXsxO"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Coisas Que Eu Sei",
-        "url": "https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Cintilante (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7"
+        "name": "Coisas Que Eu Sei",
+        "url": "https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn"
       },
       "artists": [
         {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         }
       ],
-      "duration_ms": 173370,
-      "name": "Dois Fugitivos - Ao Vivo",
-      "url": "https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I"
+      "duration_ms": 192240,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Cama Embrasa",
-        "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Cama Embrasa",
-      "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "10 Anos (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
       },
@@ -907,22 +887,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Pivete do Arrocha Funk",
-        "url": "https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9"
+        "name": "Cama Embrasa",
+        "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
       },
       "artists": [
         {
-          "name": "Neno No beat",
-          "url": "https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
-          "name": "MC Rica",
-          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         }
       ],
-      "duration_ms": 159276,
-      "name": "Vem Morenin",
-      "url": "https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M"
+      "duration_ms": 178000,
+      "name": "Cama Embrasa",
+      "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -943,6 +923,26 @@
       "duration_ms": 175725,
       "name": "Carinha de Beb\u00ea",
       "url": "https://open.spotify.com/track/2jZrMlMuTk1N3LJS8yQM6q"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Pivete do Arrocha Funk",
+        "url": "https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9"
+      },
+      "artists": [
+        {
+          "name": "Neno No beat",
+          "url": "https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ"
+        },
+        {
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        }
+      ],
+      "duration_ms": 159276,
+      "name": "Vem Morenin",
+      "url": "https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -979,22 +979,6 @@
       "duration_ms": 141388,
       "name": "S\u00f3 um Pagode - Ao Vivo",
       "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "No Ouvidinho",
-        "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "No Ouvidinho",
-      "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1071,6 +1055,66 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
+        "name": "Ind\u00edcios",
+        "url": "https://open.spotify.com/album/3GCtOaO8rqzFGKGfaItCro"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 228301,
+      "name": "Coladin (Minha Deusa)",
+      "url": "https://open.spotify.com/track/3xCkNUiap7EBjqnRldHSSh"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "No Ouvidinho",
+        "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "No Ouvidinho",
+      "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Quer Ser Minha Atriz [Remix Funk RJ]",
+        "url": "https://open.spotify.com/album/61bnAZo53stAlV7Moq5pEM"
+      },
+      "artists": [
+        {
+          "name": "DJ Fb de Niteroi",
+          "url": "https://open.spotify.com/artist/0t4tLEUHkkktoY9vnaLW3B"
+        },
+        {
+          "name": "PL Torvic",
+          "url": "https://open.spotify.com/artist/6EsIkeJwPhFIfzJ5l8CGSm"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "DJ Lc do Martins",
+          "url": "https://open.spotify.com/artist/4F8L071IkAkc3QaNKuUReg"
+        }
+      ],
+      "duration_ms": 131722,
+      "name": "Quer Ser Minha Atriz (feat. DJ Lc do Martins)",
+      "url": "https://open.spotify.com/track/6GBwa8Kb3hGyf4Gk9Bs2qb"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
         "name": "MF No Rio, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
       },
@@ -1111,86 +1155,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Quer Ser Minha Atriz [Remix Funk RJ]",
-        "url": "https://open.spotify.com/album/61bnAZo53stAlV7Moq5pEM"
-      },
-      "artists": [
-        {
-          "name": "DJ Fb de Niteroi",
-          "url": "https://open.spotify.com/artist/0t4tLEUHkkktoY9vnaLW3B"
-        },
-        {
-          "name": "PL Torvic",
-          "url": "https://open.spotify.com/artist/6EsIkeJwPhFIfzJ5l8CGSm"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "DJ Lc do Martins",
-          "url": "https://open.spotify.com/artist/4F8L071IkAkc3QaNKuUReg"
-        }
-      ],
-      "duration_ms": 131722,
-      "name": "Quer Ser Minha Atriz (feat. DJ Lc do Martins)",
-      "url": "https://open.spotify.com/track/6GBwa8Kb3hGyf4Gk9Bs2qb"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Ind\u00edcios",
-        "url": "https://open.spotify.com/album/3GCtOaO8rqzFGKGfaItCro"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 228301,
-      "name": "Coladin (Minha Deusa)",
-      "url": "https://open.spotify.com/track/3xCkNUiap7EBjqnRldHSSh"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "LUAN CITY DELUXE (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 148548,
-      "name": "SOLTEIROU - Ao Vivo",
-      "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
-        "name": "Golzinho Vermelho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 155050,
-      "name": "Golzinho Vermelho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "MAGR\u00c3O SUPREMO",
         "url": "https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi"
       },
@@ -1219,6 +1183,42 @@
       "duration_ms": 201230,
       "name": "MAGR\u00c3O SUPREMO",
       "url": "https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Golzinho Vermelho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Golzinho Vermelho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "LUAN CITY DELUXE (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 148548,
+      "name": "SOLTEIROU - Ao Vivo",
+      "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "N\u00e3o Manda \u00c1udio",
-        "url": "https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 194090,
-      "name": "N\u00e3o Manda \u00c1udio",
-      "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
-    },
-    {
-      "added_at": "2023-10-27 03:00:00",
-      "album": {
         "name": "Caf\u00e9zin de V\u00f3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp"
       },
@@ -1383,22 +1363,22 @@
     {
       "added_at": "2023-10-27 03:00:00",
       "album": {
-        "name": "Pode Apostar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5UmfrsNwNH8e7vLuL3MHP9"
+        "name": "N\u00e3o Manda \u00c1udio",
+        "url": "https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP"
       },
       "artists": [
         {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         },
         {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         }
       ],
-      "duration_ms": 193834,
-      "name": "Pode Apostar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0IDtnboUFETT3X81lLisTk"
+      "duration_ms": 194090,
+      "name": "N\u00e3o Manda \u00c1udio",
+      "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
     },
     {
       "added_at": "2023-10-27 03:00:00",
@@ -1463,6 +1443,26 @@
       "duration_ms": 145777,
       "name": "De Cop\u00e3o Na M\u00e3o",
       "url": "https://open.spotify.com/track/5F5Ux2oVCpHM5r7amvYVwr"
+    },
+    {
+      "added_at": "2023-10-27 03:00:00",
+      "album": {
+        "name": "Pode Apostar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5UmfrsNwNH8e7vLuL3MHP9"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 193834,
+      "name": "Pode Apostar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0IDtnboUFETT3X81lLisTk"
     },
     {
       "added_at": "2023-10-27 03:00:00",

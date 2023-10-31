@@ -4,7 +4,7 @@
 
 > Afrobeats love stories have the best beginnings
 
-358 songs - 17 hr 53 min
+359 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Lokation](https://open.spotify.com/track/2WNIVszX0QnQfWWfDqqyKI) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [The More The Better](https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I) | 2:26 | 2023-09-09 | 2023-09-15 |
 | [Lonely](https://open.spotify.com/track/7CEtMPWyALbePUNSi5Ak3F) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Lonely](https://open.spotify.com/album/7venGVbmyCI4UBIgyYxW0M) | 2:56 | 2022-02-11 | 2022-09-05 |
 | [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 | 2023-07-28 | 2023-08-04 |
+| [Lose Control \(feat\. Blxckie\)](https://open.spotify.com/track/57NBD4H4CIFw5sdOuci0UB) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Love.\. For Free](https://open.spotify.com/album/67d06FDN55b7vN6vaqKpiE) | 2:58 | 2023-10-27 |  |
 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 | 2023-10-20 |  |
 | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw) | 3:08 | 2022-09-30 | 2023-04-04 |
 | [Love and Trust](https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Trust](https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ) | 2:45 | 2023-06-09 | 2023-07-21 |
@@ -262,7 +263,7 @@
 | [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-06-30 |  |
 | [Peace of Mind](https://open.spotify.com/track/3iSPa1byIatby865yq5GwD) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Peace of Mind](https://open.spotify.com/album/2W3m6rjaEfw1sQ6fR6nuYc) | 2:53 | 2023-03-18 | 2023-04-15 |
 | [Peace of Mind \- Remix](https://open.spotify.com/track/08raobDIp9txgKq6u9RbCV) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Peace of Mind \(Remix\)](https://open.spotify.com/album/2ubg4txvVWg2ExroKariVk) | 2:41 | 2023-05-26 | 2023-06-10 |
-| [Peppermint](https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Peppermint](https://open.spotify.com/album/7H6BmqqRtsDXzdntW3tY7C) | 2:22 | 2023-08-10 |  |
+| [Peppermint](https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Peppermint](https://open.spotify.com/album/7H6BmqqRtsDXzdntW3tY7C) | 2:22 | 2023-08-10 | 2023-10-31 |
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 | 2022-11-24 |
 | [Petite](https://open.spotify.com/track/24ULbF2UnOeMbkmkGriTBc) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Petite](https://open.spotify.com/album/3VviaPzhAXAIco8H3syNNq) | 3:02 | 2022-02-14 | 2023-02-24 |
 | [Pheelz Like Summer](https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:50 | 2023-02-10 |  |

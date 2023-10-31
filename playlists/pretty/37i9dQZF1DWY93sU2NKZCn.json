@@ -1,12 +1,12 @@
 {
   "description": "No quieren compromiso, solo quieren bellaquera. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 896547,
+  "num_followers": 896161,
   "original_name": "yo no me porto bonito \ud83d\ude08",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmY0NmMxNTViYjY1NTg0NDgzYWIzMWQ0NGM1OGY0ZTExYjgwM2Fj",
+  "snapshot_id": "MCw2M2M5YzRkYTgzZDg4ZmNhZTc2OGJkMGNlZDc3N2Y3MWJiZDdhYTQy",
   "tracks": [
     {
       "added_at": "2023-07-18 19:16:03",
@@ -135,46 +135,6 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
-        "name": "Diles",
-        "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        }
-      ],
-      "duration_ms": 286040,
-      "name": "Diles",
-      "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -195,22 +155,6 @@
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Mbappe",
-      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
     },
     {
       "added_at": "2023-07-18 19:16:03",
@@ -255,6 +199,62 @@
       "duration_ms": 264000,
       "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
       "url": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
+        "name": "Diles",
+        "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "Diles",
+      "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Mbappe",
+      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
     },
     {
       "added_at": "2023-07-18 19:16:03",
@@ -371,46 +371,6 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
-        "name": "La Jumpa",
-        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "La Jumpa",
-      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Si La Calle Llama - Remix",
-      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
         "name": "TRAP KITTY",
         "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
       },
@@ -447,6 +407,46 @@
       "duration_ms": 226490,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
+        "name": "La Jumpa",
+        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Si La Calle Llama - Remix",
+      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
     },
     {
       "added_at": "2023-07-18 19:16:03",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Kemba Walker",
-      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
         "name": "L3tra",
         "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
       },
@@ -643,26 +623,22 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
-        "name": "DEMBO$$",
-        "url": "https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV"
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 248589,
-      "name": "Dembow y Reggaeton",
-      "url": "https://open.spotify.com/track/3OB01aM0Nf7tWds1TLEL3j"
+      "duration_ms": 152960,
+      "name": "Kemba Walker",
+      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
     },
     {
       "added_at": "2023-07-18 19:16:03",
@@ -683,6 +659,30 @@
       "duration_ms": 196500,
       "name": "Bichiyal",
       "url": "https://open.spotify.com/track/4j4w4CXm6BSr0s25wAWrrX"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
+        "name": "DEMBO$$",
+        "url": "https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 248589,
+      "name": "Dembow y Reggaeton",
+      "url": "https://open.spotify.com/track/3OB01aM0Nf7tWds1TLEL3j"
     },
     {
       "added_at": "2023-07-18 19:16:03",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
+        "name": "Asesina",
+        "url": "https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 187312,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/5lZaM4985p0t3YfizlQWUz"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
         "name": "Me Mata",
         "url": "https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 412631,
       "name": "Me Mata",
       "url": "https://open.spotify.com/track/2wgDAPgBhFA7pnIbm0YOhP"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
-        "name": "Asesina",
-        "url": "https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 187312,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/5lZaM4985p0t3YfizlQWUz"
     },
     {
       "added_at": "2023-07-18 19:16:03",
@@ -919,8 +919,8 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
-        "name": "SAGITARIO",
-        "url": "https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb"
+        "name": "4K",
+        "url": "https://open.spotify.com/album/4C4pswO5xUzT3S2pN94LNk"
       },
       "artists": [
         {
@@ -928,17 +928,17 @@
           "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         },
         {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
         }
       ],
-      "duration_ms": 219000,
-      "name": "La Mam\u00e1 de la Mam\u00e1",
-      "url": "https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn"
+      "duration_ms": 201500,
+      "name": "4K",
+      "url": "https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN"
     },
     {
       "added_at": "2023-07-18 19:16:03",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
-        "name": "SIXDO",
-        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 165880,
-      "name": "Le Pido a DIOS",
-      "url": "https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
         "name": "Trap Capos II",
         "url": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
       },
@@ -1023,6 +1003,26 @@
     {
       "added_at": "2023-07-18 19:16:03",
       "album": {
+        "name": "SIXDO",
+        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 165880,
+      "name": "Le Pido a DIOS",
+      "url": "https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -1039,6 +1039,30 @@
       "duration_ms": 176590,
       "name": "VAMPIROS",
       "url": "https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3"
+    },
+    {
+      "added_at": "2023-07-18 19:16:03",
+      "album": {
+        "name": "SAGITARIO",
+        "url": "https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "La Mam\u00e1 de la Mam\u00e1",
+      "url": "https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn"
     },
     {
       "added_at": "2023-07-18 19:16:03",
@@ -1095,30 +1119,6 @@
       "duration_ms": 181621,
       "name": "DE CAROLINA",
       "url": "https://open.spotify.com/track/6J3kt4eAqRffh5lBuHJJSO"
-    },
-    {
-      "added_at": "2023-07-18 19:16:03",
-      "album": {
-        "name": "4K",
-        "url": "https://open.spotify.com/album/4C4pswO5xUzT3S2pN94LNk"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "4K",
-      "url": "https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN"
     }
   ],
   "unique_name": "yo no me porto bonito \ud83d\ude08",

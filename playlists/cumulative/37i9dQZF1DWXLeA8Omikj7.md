@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-870 songs - 2 day 14 hr 8 min
+871 songs - 2 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Find Our Way](https://open.spotify.com/track/0SyrQWyIGUNZIPDNn8WK3L) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8.2](https://open.spotify.com/album/6DxvIAN0KdiRmpKjtXvZQy) | 4:31 | 2023-06-22 | 2023-08-07 |
 | [Finding Pictures](https://open.spotify.com/track/0u86q78PUXUj5jJYLbG6EU) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Finding Pictures](https://open.spotify.com/album/10oI3q3pkCEHRSTfRW1ZyK) | 4:43 | 2022-07-01 | 2022-07-09 |
 | [Fire in the Jungle](https://open.spotify.com/track/2bG3V8jTu1dmzyx3cLNaOj) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Fire in the Jungle](https://open.spotify.com/album/0bClqZjLBssmo2Aw4tqgTr) | 4:07 | 2020-08-26 | 2022-05-13 |
+| [Fire Tree](https://open.spotify.com/track/5iZ8hamrBBu5MrmXp7puAi) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn) | [Futurist](https://open.spotify.com/album/4mziXwuYX66HXbJTHgGfS0) | 2:10 | 2023-10-27 |  |
 | [Fire Tree](https://open.spotify.com/track/7ypqMUWlkgeP7V8Gvw5Y1k) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn) | [Futurist](https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9) | 2:10 | 2019-06-19\* | 2022-04-20 |
 | [Firelight/Shadow Camp](https://open.spotify.com/track/4tFDzU2ZPjQbgkxGoXPtJz) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Contrast](https://open.spotify.com/album/6DF4x3OXTnKLtmdhH3gxHg) | 7:54 | 2019-06-19\* | 2022-04-20 |
 | [Fireworks](https://open.spotify.com/track/2PBhtUADoEysFoT5dBBGnz) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [18 & 18 B\-Sides](https://open.spotify.com/album/5MiL1RXRXGXETgZ2LjaG0U) | 2:13 | 2019-06-25 | 2020-08-26 |
@@ -599,7 +600,7 @@
 | [Quasar](https://open.spotify.com/track/6KrnEzLSoi4XR5u3bLMPsu) | [Gidge](https://open.spotify.com/artist/7aibxFH8hIlSUlXgshCgAP) | [New Light](https://open.spotify.com/album/7FhQf65SB8VtD404V6suX1) | 5:52 | 2020-11-13 | 2022-07-27 |
 | [Quiet Corners Of My Mind](https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Quiet Corners Of My Mind](https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM) | 4:28 | 2022-07-15 |  |
 | [Radio](https://open.spotify.com/track/29cm9i5SgSLeygfzBMQPMd) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Radio](https://open.spotify.com/album/4RWES8IWQTv4j3NoWDapfr) | 2:33 | 2021-08-13 | 2022-07-29 |
-| [rainbow song](https://open.spotify.com/track/2y7z3SBPKKfROdIy68k8nV) | [Cesourius](https://open.spotify.com/artist/27qW5yvSvPiHckSv1EaQ7v) | [psychedelic fishing](https://open.spotify.com/album/0O4sV16tjjwavRIZ5QAHqM) | 2:12 | 2023-09-29 |  |
+| [rainbow song](https://open.spotify.com/track/2y7z3SBPKKfROdIy68k8nV) | [Cesourius](https://open.spotify.com/artist/27qW5yvSvPiHckSv1EaQ7v) | [psychedelic fishing](https://open.spotify.com/album/0O4sV16tjjwavRIZ5QAHqM) | 2:12 | 2023-09-29 | 2023-10-31 |
 | [Raindrops](https://open.spotify.com/track/32KZ22X1LV3TAsroIGLbYh) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:32 | 2019-06-19\* | 2020-10-21 |
 | [Rare](https://open.spotify.com/track/3vO4yolddOhdDHWL5GB0Fn) | [Blake Skowron](https://open.spotify.com/artist/5TjySSb3LXfqe0zvyrmFgf), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Rare](https://open.spotify.com/album/3H5ua9cshyjUJof3yYFmo8) | 5:30 | 2019-06-19\* | 2022-04-21 |
 | [Reaching Out](https://open.spotify.com/track/3anyoDE1gcNsRtLmkE55bU) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Unlimited](https://open.spotify.com/album/2n9RwIM1CdRV4GZzC7sfWa) | 4:54 | 2019-05-26\* | 2020-08-26 |

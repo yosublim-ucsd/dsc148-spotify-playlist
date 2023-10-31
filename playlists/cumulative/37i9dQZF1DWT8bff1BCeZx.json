@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 293500,
       "name": "This Far by Grace",
       "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
@@ -2158,6 +2158,24 @@
       "duration_ms": 235559,
       "name": "Yesu (Jesus)",
       "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
+    },
+    {
+      "album": {
+        "name": "You Do This One",
+        "url": "https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226649,
+      "name": "You Do This One",
+      "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
     },
     {
       "album": {

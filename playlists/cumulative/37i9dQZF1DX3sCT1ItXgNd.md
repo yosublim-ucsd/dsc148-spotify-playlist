@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Ana Mena
 
-311 songs - 15 hr 34 min
+312 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [MEZCALITO](https://open.spotify.com/track/7xGSFJhTdINOPyNKO7BcJk) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 3:08 | 2023-06-01 | 2023-07-11 |
 | [MI BANDERA](https://open.spotify.com/track/0QXBtW2M7QpwNaF33oFnoL) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MI BANDERA](https://open.spotify.com/album/2JfufZUm8YJWyCB9Onb17n) | 3:21 | 2023-05-09 | 2023-06-04 |
 | [MI BANDERA](https://open.spotify.com/track/2FofLDb6Agbl5pgpjC3WSc) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 3:21 | 2023-07-24 | 2023-09-13 |
-| [MI BANDERA](https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 3:21 | 2023-09-11 |  |
+| [MI BANDERA](https://open.spotify.com/track/4lTgUY1rtzieQLFGCzfpmA) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 3:21 | 2023-09-11 | 2023-10-31 |
+| [MI BANDERA](https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:21 | 2023-10-27 |  |
 | [MI BANDERA](https://open.spotify.com/track/6xQ7rp1lFACStJDpJF5KW8) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 3:21 | 2023-06-01 | 2023-07-26 |
 | [Miami Beach](https://open.spotify.com/track/4NHHipNDZ7drpgykr6W09d) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Miami Beach](https://open.spotify.com/album/3eMcXYzlOOtbazCsrZE7b9) | 3:57 | 2023-05-19 | 2023-06-02 |
 | [miamor](https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [miamor](https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz) | 2:39 | 2023-08-24 | 2023-09-29 |

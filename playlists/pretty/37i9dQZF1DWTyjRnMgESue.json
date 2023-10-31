@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ed Sheeran",
-  "num_followers": 65145,
+  "num_followers": 65234,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGYwYWNmMDY3ZmUzMGM0M2FjNTUxNDJiM2QzNjFkMDg0ODhlNTcz",
+  "snapshot_id": "MCw5N2UyYjJjOTgwMWZlOWM1ZGNiOGZiNjA5NDE3NTJmZTI5Mzc0NjIx",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF"
-      },
-      "artists": [
-        {
-          "name": "Iam Tongi",
-          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
-        }
-      ],
-      "duration_ms": 285902,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 194000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF"
+      },
+      "artists": [
+        {
+          "name": "Iam Tongi",
+          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
+        }
+      ],
+      "duration_ms": 285902,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Boston Accent",
-        "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
-      },
-      "artists": [
-        {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "German Cars",
-      "url": "https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Pink Razor",
         "url": "https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 189254,
       "name": "Pink Razor",
       "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Boston Accent",
+        "url": "https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb"
+      },
+      "artists": [
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "German Cars",
+      "url": "https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Heard You Got Love",
         "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Colour Your World",
-        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB"
       },
       "artists": [
         {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 193367,
-      "name": "If Not My Heart",
-      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
+      "duration_ms": 228066,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 162560,
       "name": "Catch Your Eye",
       "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Colour Your World",
+        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 193367,
+      "name": "If Not My Heart",
+      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
     },
     {
       "added_at": "2023-10-27 04:00:00",

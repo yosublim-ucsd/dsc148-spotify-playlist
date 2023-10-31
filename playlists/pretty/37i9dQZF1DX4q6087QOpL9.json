@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 83087,
+  "num_followers": 83138,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDM5YTRjM2JhZWQzNTIyMTdlYzNiYTAyNjUyOGJlYTM1NDFjNzI3",
+  "snapshot_id": "MCwwOTQwNzMxNTgzMmYwYTNlNmU4ZDIxMDc3ZjNkYjdlMmJjNWQ2MDJk",
   "tracks": [
     {
       "added_at": "2023-09-14 22:00:00",
@@ -235,26 +235,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "The World As I See It",
-        "url": "https://open.spotify.com/album/1JEFJHVVR9HD6DhNPIo1Xg"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Mia Tuttavilla",
-          "url": "https://open.spotify.com/artist/37h5VxkyYkfCMqzept4XcK"
-        }
-      ],
-      "duration_ms": 456732,
-      "name": "Touched The Sky",
-      "url": "https://open.spotify.com/track/6m8sKsDYNuNEBeuDUrQhDF"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Mighty Real Poolside Pride 2018",
         "url": "https://open.spotify.com/album/49ZAc2gYoGRBvFZe4BQlk9"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 466375,
       "name": "Crazy - Quentin Harris Remix",
       "url": "https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "The World As I See It",
+        "url": "https://open.spotify.com/album/1JEFJHVVR9HD6DhNPIo1Xg"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Mia Tuttavilla",
+          "url": "https://open.spotify.com/artist/37h5VxkyYkfCMqzept4XcK"
+        }
+      ],
+      "duration_ms": 456732,
+      "name": "Touched The Sky",
+      "url": "https://open.spotify.com/track/6m8sKsDYNuNEBeuDUrQhDF"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
-        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Alana",
-          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
-        }
-      ],
-      "duration_ms": 391883,
-      "name": "Love Changes (feat. Alana) - Deep Mix",
-      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Love & Happiness (feat. India)",
         "url": "https://open.spotify.com/album/0WZBrtrJLZ5Vltdm1cvvXQ"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 259200,
       "name": "Love & Happiness (Yemaya Y Och\u00f9n) [feat. India] - Dream Sequence",
       "url": "https://open.spotify.com/track/2EeAQUFOQXqYwGWhot4B7F"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
+        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Alana",
+          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
+        }
+      ],
+      "duration_ms": 391883,
+      "name": "Love Changes (feat. Alana) - Deep Mix",
+      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Collection 1999-2011",
-        "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
-      },
-      "artists": [
-        {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
-        }
-      ],
-      "duration_ms": 515039,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Soul Fever",
         "url": "https://open.spotify.com/album/6UFogsgPTmVZNueGL4pYVe"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 426600,
       "name": "Soul Fever (remix)",
       "url": "https://open.spotify.com/track/56PrfjUISk1w1oORAxzRPZ"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Collection 1999-2011",
+        "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        }
+      ],
+      "duration_ms": 515039,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1351,26 +1351,18 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Kissing Strangers",
-        "url": "https://open.spotify.com/album/5dOouQAVL4EmZ2TYfcpZyj"
+        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
       },
       "artists": [
         {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Monique Bingham",
-          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
-        },
-        {
-          "name": "CrisP",
-          "url": "https://open.spotify.com/artist/0POeOxJJvcarctw18FLTMJ"
+          "name": "Kenny Dixon Jr.",
+          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
         }
       ],
-      "duration_ms": 466163,
-      "name": "Kissing Strangers - Ralf GUM & CrisP Club Mix",
-      "url": "https://open.spotify.com/track/1y8atHf1XO3GLyUSo8vJuq"
+      "duration_ms": 285617,
+      "name": "Soul Sounds - Mixed",
+      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1427,18 +1419,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
-        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
+        "name": "Kissing Strangers",
+        "url": "https://open.spotify.com/album/5dOouQAVL4EmZ2TYfcpZyj"
       },
       "artists": [
         {
-          "name": "Kenny Dixon Jr.",
-          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Monique Bingham",
+          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
+        },
+        {
+          "name": "CrisP",
+          "url": "https://open.spotify.com/artist/0POeOxJJvcarctw18FLTMJ"
         }
       ],
-      "duration_ms": 285617,
-      "name": "Soul Sounds - Mixed",
-      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
+      "duration_ms": 466163,
+      "name": "Kissing Strangers - Ralf GUM & CrisP Club Mix",
+      "url": "https://open.spotify.com/track/1y8atHf1XO3GLyUSo8vJuq"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1543,66 +1543,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Never Saw You Coming",
-        "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Tsepo Tshola",
-          "url": "https://open.spotify.com/artist/0EBplhirl0JcMSVLO9bF1k"
-        },
-        {
-          "name": "DJ Spinna",
-          "url": "https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc"
-        }
-      ],
-      "duration_ms": 508266,
-      "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
-      "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
-        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
-      },
-      "artists": [
-        {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
-        }
-      ],
-      "duration_ms": 642782,
-      "name": "Swimming Places",
-      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Back Together (feat. Ron Carroll)",
-        "url": "https://open.spotify.com/album/6UAsBOuRtgAy0MMlTPOS7Z"
-      },
-      "artists": [
-        {
-          "name": "Hardsoul",
-          "url": "https://open.spotify.com/artist/1pOxKVLc0EXgcOSqyWOlKi"
-        },
-        {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
-        }
-      ],
-      "duration_ms": 502286,
-      "name": "Back Together (feat. Ron Carroll) - Classic Mix",
-      "url": "https://open.spotify.com/track/1PH8at6E0jy3rFPH66aH9m"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Free Pt. I",
         "url": "https://open.spotify.com/album/5mWpWGOgxSZ1obP7ZrXi5h"
       },
@@ -1639,22 +1579,62 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Word, Sound & Power",
-        "url": "https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk"
+        "name": "Never Saw You Coming",
+        "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
       },
       "artists": [
         {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+          "name": "Tsepo Tshola",
+          "url": "https://open.spotify.com/artist/0EBplhirl0JcMSVLO9bF1k"
+        },
+        {
+          "name": "DJ Spinna",
+          "url": "https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc"
         }
       ],
-      "duration_ms": 641584,
-      "name": "Morning Factory",
-      "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
+      "duration_ms": 508266,
+      "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
+      "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Back Together (feat. Ron Carroll)",
+        "url": "https://open.spotify.com/album/6UAsBOuRtgAy0MMlTPOS7Z"
+      },
+      "artists": [
+        {
+          "name": "Hardsoul",
+          "url": "https://open.spotify.com/artist/1pOxKVLc0EXgcOSqyWOlKi"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "duration_ms": 502286,
+      "name": "Back Together (feat. Ron Carroll) - Classic Mix",
+      "url": "https://open.spotify.com/track/1PH8at6E0jy3rFPH66aH9m"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
+        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
+      },
+      "artists": [
+        {
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
+        }
+      ],
+      "duration_ms": 642782,
+      "name": "Swimming Places",
+      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1671,6 +1651,26 @@
       "duration_ms": 440854,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Word, Sound & Power",
+        "url": "https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        }
+      ],
+      "duration_ms": 641584,
+      "name": "Morning Factory",
+      "url": "https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "The Afro Club Night",
-        "url": "https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K"
-      },
-      "artists": [
-        {
-          "name": "Men From The Nile",
-          "url": "https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO"
-        }
-      ],
-      "duration_ms": 335506,
-      "name": "Watch Them Come (Men from the Nile aka Roy Davis Jr.)",
-      "url": "https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Timeless Vol. 4",
         "url": "https://open.spotify.com/album/4fl5mvQpEBICZVHFCE01OU"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Find A Friend",
-        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
+        "name": "The Afro Club Night",
+        "url": "https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K"
       },
       "artists": [
         {
-          "name": "DJ John \u201cJulius\u201d Knight",
-          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
+          "name": "Men From The Nile",
+          "url": "https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO"
         }
       ],
-      "duration_ms": 409238,
-      "name": "Find A Friend",
-      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
+      "duration_ms": 335506,
+      "name": "Watch Them Come (Men from the Nile aka Roy Davis Jr.)",
+      "url": "https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1791,6 +1775,22 @@
       "duration_ms": 401400,
       "name": "Alibi - Dennis F's Out On Bail Mix",
       "url": "https://open.spotify.com/track/057swhFYVLbnaU8elKKUin"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Find A Friend",
+        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
+      },
+      "artists": [
+        {
+          "name": "DJ John \u201cJulius\u201d Knight",
+          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
+        }
+      ],
+      "duration_ms": 409238,
+      "name": "Find A Friend",
+      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1939,6 +1939,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Mix The Vibe: Kaoz On King Street",
+        "url": "https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Wilma Beckford",
+          "url": "https://open.spotify.com/artist/0dipYURBztCNS2iEHjl4wV"
+        }
+      ],
+      "duration_ms": 409763,
+      "name": "Come Home - Kerri's Mmmh Mix",
+      "url": "https://open.spotify.com/track/6zhYeCpXsztywWOP05nwJu"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
         "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
       },
@@ -1975,26 +1995,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Mix The Vibe: Kaoz On King Street",
-        "url": "https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Wilma Beckford",
-          "url": "https://open.spotify.com/artist/0dipYURBztCNS2iEHjl4wV"
-        }
-      ],
-      "duration_ms": 409763,
-      "name": "Come Home - Kerri's Mmmh Mix",
-      "url": "https://open.spotify.com/track/6zhYeCpXsztywWOP05nwJu"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Want You In My Soul",
         "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
       },
@@ -2011,6 +2011,26 @@
       "duration_ms": 497521,
       "name": "Want You In My Soul",
       "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/6uPlPqAVtZNiYC8Qck1swM"
+      },
+      "artists": [
+        {
+          "name": "Staxx",
+          "url": "https://open.spotify.com/artist/5YCyz9Of2IErCRiM7qXwDI"
+        },
+        {
+          "name": "Dr Packer",
+          "url": "https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "Joy - Dr Packer Remix",
+      "url": "https://open.spotify.com/track/4k4wT8eYhdfhQ9M262drm1"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2047,26 +2067,6 @@
       "duration_ms": 475262,
       "name": "When The Morning Comes - Main Vocal Mix",
       "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/6uPlPqAVtZNiYC8Qck1swM"
-      },
-      "artists": [
-        {
-          "name": "Staxx",
-          "url": "https://open.spotify.com/artist/5YCyz9Of2IErCRiM7qXwDI"
-        },
-        {
-          "name": "Dr Packer",
-          "url": "https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm"
-        }
-      ],
-      "duration_ms": 210491,
-      "name": "Joy - Dr Packer Remix",
-      "url": "https://open.spotify.com/track/4k4wT8eYhdfhQ9M262drm1"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "TIME AFTER TIME",
-        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
-      },
-      "artists": [
-        {
-          "name": "Soul Central",
-          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
-        },
-        {
-          "name": "Abigail Bailey",
-          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
-        }
-      ],
-      "duration_ms": 399693,
-      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
-      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Dangerous Vibes",
         "url": "https://open.spotify.com/album/66FlxzmcI8adLafeoppLCp"
       },
@@ -2203,6 +2183,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "TIME AFTER TIME",
+        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
+      },
+      "artists": [
+        {
+          "name": "Soul Central",
+          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
+        },
+        {
+          "name": "Abigail Bailey",
+          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
+        }
+      ],
+      "duration_ms": 399693,
+      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
+      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Set Me Free - Remixes",
         "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
       },
@@ -2219,6 +2219,22 @@
       "duration_ms": 435920,
       "name": "Set Me Free - Original Mix",
       "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
+        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 494066,
+      "name": "Heaven - Marlon D. & G.A. Club Mix",
+      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2259,22 +2275,6 @@
       "duration_ms": 722920,
       "name": "Elle (Main Version)",
       "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
-        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 494066,
-      "name": "Heaven - Marlon D. & G.A. Club Mix",
-      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2323,26 +2323,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Think Twice (Remixes)",
-        "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
-      },
-      "artists": [
-        {
-          "name": "The Detroit Experiment",
-          "url": "https://open.spotify.com/artist/54g168aY2BbLhQ0g6SpoTa"
-        },
-        {
-          "name": "Mark E",
-          "url": "https://open.spotify.com/artist/4fCHedqRf3deyVeK2beyBo"
-        }
-      ],
-      "duration_ms": 578013,
-      "name": "Think Twice - Mark E Remix",
-      "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Voices & Visions",
         "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
@@ -2359,6 +2339,26 @@
       "duration_ms": 483573,
       "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
       "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Think Twice (Remixes)",
+        "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
+      },
+      "artists": [
+        {
+          "name": "The Detroit Experiment",
+          "url": "https://open.spotify.com/artist/54g168aY2BbLhQ0g6SpoTa"
+        },
+        {
+          "name": "Mark E",
+          "url": "https://open.spotify.com/artist/4fCHedqRf3deyVeK2beyBo"
+        }
+      ],
+      "duration_ms": 578013,
+      "name": "Think Twice - Mark E Remix",
+      "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Virgin Ubiquity: Remixed",
         "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
@@ -2495,18 +2511,18 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
+        "name": "Black Resurrection",
+        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
       },
       "artists": [
         {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
+      "duration_ms": 525130,
+      "name": "Spiritually Speaking",
+      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2523,22 +2539,6 @@
       "duration_ms": 504933,
       "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
       "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Black Resurrection",
-        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 525130,
-      "name": "Spiritually Speaking",
-      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "You Give Good Love",
+        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
+      },
+      "artists": [
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        }
+      ],
+      "duration_ms": 397240,
+      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
+      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Virgin Ubiquity: Remixed",
         "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
@@ -2735,22 +2751,6 @@
       "duration_ms": 488209,
       "name": "He's Gonna Make It Alright (feat. Ron Carroll) - MD'z Original Recipe Vocal Mixx",
       "url": "https://open.spotify.com/track/6RZV9eMP6MAF72urSAME56"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "You Give Good Love",
-        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
-      },
-      "artists": [
-        {
-          "name": "Kathy Brown",
-          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
-        }
-      ],
-      "duration_ms": 397240,
-      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
-      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -3007,6 +3007,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Easy Street Classics - Remixes From Across the Pond - Vol. 1",
+        "url": "https://open.spotify.com/album/6YxUTTGa3DCVqwFHeX0hxZ"
+      },
+      "artists": [
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        }
+      ],
+      "duration_ms": 440500,
+      "name": "Kathy Brown Happy People Knee Deep's to L.B. Dub - Knee Deep's to L.B. Dub",
+      "url": "https://open.spotify.com/track/6vQ92IeQktoyuy4wwalsp6"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Let's Do It Again (Kenny Dope Remixes)",
         "url": "https://open.spotify.com/album/2oJhbjPREc8OjdCWq1BLff"
       },
@@ -3023,22 +3039,6 @@
       "duration_ms": 381386,
       "name": "Let's Do It Again - Kenny Dope O'gutta Remix",
       "url": "https://open.spotify.com/track/458Ky1y8fOO2ahnH4xEYO6"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Easy Street Classics - Remixes From Across the Pond - Vol. 1",
-        "url": "https://open.spotify.com/album/6YxUTTGa3DCVqwFHeX0hxZ"
-      },
-      "artists": [
-        {
-          "name": "Kathy Brown",
-          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
-        }
-      ],
-      "duration_ms": 440500,
-      "name": "Kathy Brown Happy People Knee Deep's to L.B. Dub - Knee Deep's to L.B. Dub",
-      "url": "https://open.spotify.com/track/6vQ92IeQktoyuy4wwalsp6"
     }
   ],
   "unique_name": "Soulful House",

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 262459,
+  "num_followers": 262486,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUxOTQ0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUyMDMwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "BFF",
         "url": "https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "Fluid",
         "url": "https://open.spotify.com/album/5Pj4GxjmJvDvzhrCSJXZsT"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5E6Nv8QZblXpiFDQ8iSfE2"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "JEREMY SOCHAN",
         "url": "https://open.spotify.com/album/1joqopmcT1uPuuXoQLvzVw"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/2WBejVahXeC1gjCXVOlgbq"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/33FD8jBm5LZaQ2jJS3vXzm"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "Jolie Jolie",
         "url": "https://open.spotify.com/album/11iiBc9zHpGhPrLWCgVZ2K"
@@ -117,7 +117,23 @@
       "url": "https://open.spotify.com/track/2JJ6WnAfVglnYfxZubSukn"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "ITALODISCO",
         "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "Nim Zajdzie S\u0142o\u0144ce",
         "url": "https://open.spotify.com/album/5WnfW3ixclewUIAMAFfiDO"
@@ -161,55 +177,7 @@
       "url": "https://open.spotify.com/track/1NtvjagHJRLQogzWVhpghv"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/20Z43ZtZoSH9DWyeWoZGFi"
-      },
-      "artists": [
-        {
-          "name": "PRO8L3M",
-          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1EbpeFTSg6ZSSLhz366ova"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
-        "url": "https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
-      "url": "https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "TYLE S\u0141O\u0143CA",
         "url": "https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2"
@@ -229,7 +197,23 @@
       "url": "https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/20Z43ZtZoSH9DWyeWoZGFi"
+      },
+      "artists": [
+        {
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1EbpeFTSg6ZSSLhz366ova"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "Nicea",
         "url": "https://open.spotify.com/album/561wVB1MRTfJ0muUnsniNU"
@@ -245,7 +229,23 @@
       "url": "https://open.spotify.com/track/5OYaQw9IS8MMDFRgTPqDnR"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
+        "url": "https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
+      "url": "https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "MILLIE WALKY",
         "url": "https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse"
@@ -265,23 +265,7 @@
       "url": "https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "The Peasants (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2jpDnEecFdhiQwGoXfQyKp"
@@ -301,23 +285,23 @@
       "url": "https://open.spotify.com/track/78hH2iGVmsmdPk50AhU2F4"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
-        "name": "???",
-        "url": "https://open.spotify.com/album/6b9nJ7eZHoXbVfIA3KQ6bg"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
       "artists": [
         {
-          "name": "Zeamsone",
-          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 144335,
-      "name": "5 INFLUENCEREK",
-      "url": "https://open.spotify.com/track/4u3pVIKFDquOVeyvkc1Hjh"
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "PRELUDIUM",
         "url": "https://open.spotify.com/album/426XdCZCzEN4lA4B7dEHH6"
@@ -341,7 +325,23 @@
       "url": "https://open.spotify.com/track/1cnkQScXEGBZKqqy6EjVZo"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "???",
+        "url": "https://open.spotify.com/album/6b9nJ7eZHoXbVfIA3KQ6bg"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "duration_ms": 144335,
+      "name": "5 INFLUENCEREK",
+      "url": "https://open.spotify.com/track/4u3pVIKFDquOVeyvkc1Hjh"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "Dziewczyna Pop",
         "url": "https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB"
@@ -373,7 +373,107 @@
       "url": "https://open.spotify.com/track/61rJpXPZ4wkqmdsLYJu6LK"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "duration_ms": 184982,
+      "name": "Zawsze chcia\u0142em",
+      "url": "https://open.spotify.com/track/3SOOMT2jytm1J93CTX3Lnb"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "Explosion Ech poleczko",
+        "url": "https://open.spotify.com/album/4qjd1HZWMmSzzhXFCejQ5C"
+      },
+      "artists": [
+        {
+          "name": "Kalwi & Remi",
+          "url": "https://open.spotify.com/artist/7kzqfJaU9Ci3UaIQvWtwPm"
+        },
+        {
+          "name": "Guzowianki",
+          "url": "https://open.spotify.com/artist/1tHDTkTyImy0M6zaGCV3qY"
+        },
+        {
+          "name": "DNSQ",
+          "url": "https://open.spotify.com/artist/3sDCXzrLgcFrEDazAXIslp"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "Explosion Ech poleczko - DNSQ Remix",
+      "url": "https://open.spotify.com/track/3QHZAr43uvIGpWfJAHhFX3"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "1-800-O\u015aWIECENIE",
+        "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
+      },
+      "artists": [
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 237217,
+      "name": "Ca\u0142e Lata",
+      "url": "https://open.spotify.com/track/5A2baHJCFwwewI5z0zkXdo"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
         "url": "https://open.spotify.com/album/2YFcnjTF7TTF8hHPlYo2mQ"
@@ -401,31 +501,7 @@
       "url": "https://open.spotify.com/track/4EqPIm07a55pJQRSZw2Z4X"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Explosion Ech poleczko",
-        "url": "https://open.spotify.com/album/4qjd1HZWMmSzzhXFCejQ5C"
-      },
-      "artists": [
-        {
-          "name": "Kalwi & Remi",
-          "url": "https://open.spotify.com/artist/7kzqfJaU9Ci3UaIQvWtwPm"
-        },
-        {
-          "name": "Guzowianki",
-          "url": "https://open.spotify.com/artist/1tHDTkTyImy0M6zaGCV3qY"
-        },
-        {
-          "name": "DNSQ",
-          "url": "https://open.spotify.com/artist/3sDCXzrLgcFrEDazAXIslp"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "Explosion Ech poleczko - DNSQ Remix",
-      "url": "https://open.spotify.com/track/3QHZAr43uvIGpWfJAHhFX3"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "Patocelebryta",
         "url": "https://open.spotify.com/album/6fodRS7nHoCv3uwESZ5Y5Q"
@@ -457,119 +533,7 @@
       "url": "https://open.spotify.com/track/1g88Qpz9ZsJM1hlB3PLdgY"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "SAFE",
-        "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
-      },
-      "artists": [
-        {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
-        },
-        {
-          "name": "Jonatan",
-          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
-        }
-      ],
-      "duration_ms": 184982,
-      "name": "Zawsze chcia\u0142em",
-      "url": "https://open.spotify.com/track/3SOOMT2jytm1J93CTX3Lnb"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "1-800-O\u015aWIECENIE",
-        "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
-      },
-      "artists": [
-        {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
-        },
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        },
-        {
-          "name": "@atutowy",
-          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
-        }
-      ],
-      "duration_ms": 237217,
-      "name": "Ca\u0142e Lata",
-      "url": "https://open.spotify.com/track/5A2baHJCFwwewI5z0zkXdo"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Pokaz slajd\u00f3w",
-        "url": "https://open.spotify.com/album/2TrMmgKeamryklPOFKV8Xr"
-      },
-      "artists": [
-        {
-          "name": "Kwiat Jab\u0142oni",
-          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
-        }
-      ],
-      "duration_ms": 229370,
-      "name": "Od nowa",
-      "url": "https://open.spotify.com/track/2hoQy05lPYcCySUSipQkoU"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "ADDERALL",
-        "url": "https://open.spotify.com/album/05EmVJT84UGUaeCWaebZDd"
-      },
-      "artists": [
-        {
-          "name": "Kukon",
-          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
-        },
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "ADDERALL",
-      "url": "https://open.spotify.com/track/1Ki7FuiF2krk4lD8zjV3Nz"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
@@ -589,7 +553,99 @@
       "url": "https://open.spotify.com/track/0dDx9wLXb5CXp6csoZ3MDZ"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "Pokaz slajd\u00f3w",
+        "url": "https://open.spotify.com/album/2TrMmgKeamryklPOFKV8Xr"
+      },
+      "artists": [
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "duration_ms": 229370,
+      "name": "Od nowa",
+      "url": "https://open.spotify.com/track/2hoQy05lPYcCySUSipQkoU"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "ADDERALL",
+        "url": "https://open.spotify.com/album/05EmVJT84UGUaeCWaebZDd"
+      },
+      "artists": [
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "ADDERALL",
+      "url": "https://open.spotify.com/track/1Ki7FuiF2krk4lD8zjV3Nz"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "GiEwOnT",
+        "url": "https://open.spotify.com/album/064ETxMz9Qnq5vfa9jOxUm"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 322113,
+      "name": "GiEwOnT",
+      "url": "https://open.spotify.com/track/1fEh4NSXSaVhVGArLtxEiG"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "PLE\u015a\u0143",
+        "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "BLUEBERRY",
+      "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -613,7 +669,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "1-800-O\u015aWIECENIE",
         "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
@@ -641,83 +697,23 @@
       "url": "https://open.spotify.com/track/1Z7cVYHnRJKHxQJFE9MP4y"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
-        "name": "GiEwOnT",
-        "url": "https://open.spotify.com/album/064ETxMz9Qnq5vfa9jOxUm"
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
       "artists": [
         {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 322113,
-      "name": "GiEwOnT",
-      "url": "https://open.spotify.com/track/1fEh4NSXSaVhVGArLtxEiG"
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "PLE\u015a\u0143",
-        "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
-      },
-      "artists": [
-        {
-          "name": "Guzior",
-          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
-        },
-        {
-          "name": "Favst",
-          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "BLUEBERRY",
-      "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 260111,
-      "name": "IDGAF (feat. Yeat)",
-      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Prywatny bal",
-        "url": "https://open.spotify.com/album/2ADRJFVJslXpQQ6tjbq3UJ"
-      },
-      "artists": [
-        {
-          "name": "Cyrko",
-          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
-        },
-        {
-          "name": "D3W",
-          "url": "https://open.spotify.com/artist/4IOcH2NQRq0s00mQkkqCOw"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Prywatny bal",
-      "url": "https://open.spotify.com/track/2VYT8yaxvwXyRvAWZqM7Ws"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "Cameleo",
         "url": "https://open.spotify.com/album/7D9aUl816mU5lIFCgHMVdS"
@@ -745,23 +741,7 @@
       "url": "https://open.spotify.com/track/5OVD56aqdB0BmEzFXwvito"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Ground Zero",
-        "url": "https://open.spotify.com/album/64E5U2FDC6r3yPmOju9MuK"
-      },
-      "artists": [
-        {
-          "name": "PRO8L3M",
-          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
-        }
-      ],
-      "duration_ms": 178004,
-      "name": "Ground Zero",
-      "url": "https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
@@ -781,51 +761,43 @@
       "url": "https://open.spotify.com/track/5dtytsLNxUm51ad26pdAC8"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
-        "name": "Jestem Twoj\u0105 Bajk\u0105",
-        "url": "https://open.spotify.com/album/6mrcecj5D5Il3RaFCGJVSC"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
-          "name": "Kleks",
-          "url": "https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx"
-        },
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 174557,
-      "name": "Jestem Twoj\u0105 Bajk\u0105",
-      "url": "https://open.spotify.com/track/3YdH5OPiQQt39x7MpgOwUT"
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
-        "name": "1-800-O\u015aWIECENIE",
-        "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
+        "name": "Prywatny bal",
+        "url": "https://open.spotify.com/album/2ADRJFVJslXpQQ6tjbq3UJ"
       },
       "artists": [
         {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+          "name": "Cyrko",
+          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
         },
         {
-          "name": "Otsochodzi",
-          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
-        },
-        {
-          "name": "Zeppy Zep",
-          "url": "https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n"
+          "name": "D3W",
+          "url": "https://open.spotify.com/artist/4IOcH2NQRq0s00mQkkqCOw"
         }
       ],
-      "duration_ms": 194610,
-      "name": "Cichosza",
-      "url": "https://open.spotify.com/track/3kjMeY6ZgOZYAFRiPHMqmS"
+      "duration_ms": 156800,
+      "name": "Prywatny bal",
+      "url": "https://open.spotify.com/track/2VYT8yaxvwXyRvAWZqM7Ws"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
@@ -853,79 +825,43 @@
       "url": "https://open.spotify.com/track/6qiP2cVCzNts36YuNWKwLe"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
-        "name": "1-800-O\u015aWIECENIE",
-        "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
+        "name": "Jestem Twoj\u0105 Bajk\u0105",
+        "url": "https://open.spotify.com/album/6mrcecj5D5Il3RaFCGJVSC"
       },
       "artists": [
         {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+          "name": "Kleks",
+          "url": "https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx"
         },
         {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        },
-        {
-          "name": "Zeppy Zep",
-          "url": "https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 172678,
-      "name": "Mix Sa\u0142at",
-      "url": "https://open.spotify.com/track/5CTNmaXOY1nSnIUsxCpiyU"
+      "duration_ms": 174557,
+      "name": "Jestem Twoj\u0105 Bajk\u0105",
+      "url": "https://open.spotify.com/track/3YdH5OPiQQt39x7MpgOwUT"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "1-800-O\u015aWIECENIE",
-        "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
-      },
-      "artists": [
-        {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
-        }
-      ],
-      "duration_ms": 195526,
-      "name": "Gelato",
-      "url": "https://open.spotify.com/track/6ggmioMS1gYK0I5AAdv2NH"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "PLE\u015a\u0143",
-        "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
-      },
-      "artists": [
-        {
-          "name": "Guzior",
-          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "WTC",
-      "url": "https://open.spotify.com/track/2HTqkC3N9mf5rD1z8Vds1a"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "Sextape / MTW",
         "url": "https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2"
@@ -957,23 +893,79 @@
       "url": "https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+        "name": "PLE\u015a\u0143",
+        "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
         }
       ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+      "duration_ms": 124000,
+      "name": "WTC",
+      "url": "https://open.spotify.com/track/2HTqkC3N9mf5rD1z8Vds1a"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "KWIATKI",
+        "url": "https://open.spotify.com/album/4R2TDH8I32sShBr6mOSAK4"
+      },
+      "artists": [
+        {
+          "name": "Qry",
+          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "ZAKOCHANE PARY XD",
+      "url": "https://open.spotify.com/track/4oTzg9QwkgwUBLgqdJaXr9"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 146436,
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
+      "album": {
+        "name": "ztb",
+        "url": "https://open.spotify.com/album/6ifoBxKuNgaSlyMHI1cWMS"
+      },
+      "artists": [
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "ztb",
+      "url": "https://open.spotify.com/track/7vXWyqGHBqZi8oec17wYIl"
+    },
+    {
+      "added_at": "2023-10-30 08:26:42",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -989,36 +981,44 @@
       "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+        "name": "Ground Zero",
+        "url": "https://open.spotify.com/album/64E5U2FDC6r3yPmOju9MuK"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+      "duration_ms": 178004,
+      "name": "Ground Zero",
+      "url": "https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:42",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "1-800-O\u015aWIECENIE",
+        "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        },
+        {
+          "name": "Zeppy Zep",
+          "url": "https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n"
         }
       ],
-      "duration_ms": 229477,
-      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+      "duration_ms": 172678,
+      "name": "Mix Sa\u0142at",
+      "url": "https://open.spotify.com/track/5CTNmaXOY1nSnIUsxCpiyU"
     }
   ],
   "unique_name": "Top 50 - Poland",

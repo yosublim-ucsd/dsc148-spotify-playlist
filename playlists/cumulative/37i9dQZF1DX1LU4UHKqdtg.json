@@ -1938,7 +1938,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 212727,
       "name": "BONA BONA - JP ver.",
       "url": "https://open.spotify.com/track/6MHC1y7Gd5U1aX2hsuTPBC"
@@ -5486,7 +5486,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 199877,
       "name": "Good & Great",
       "url": "https://open.spotify.com/track/51oDOYN8AOyzvOpcvRGyI8"
@@ -5638,6 +5638,24 @@
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
+    },
+    {
+      "album": {
+        "name": "Guilty - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/1lnDLQ5nH1V3ST8MuVGmQW"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190173,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn"
     },
     {
       "album": {
@@ -5890,6 +5908,24 @@
       "duration_ms": 204333,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7"
+    },
+    {
+      "album": {
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180883,
+      "name": "HEARTRIS",
+      "url": "https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon"
     },
     {
       "album": {
@@ -14748,7 +14784,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 295760,
       "name": "\u660e\u65e5\u306b\u5411\u304b\u3063\u3066",
       "url": "https://open.spotify.com/track/2IRd4YapC0S3mVhFo09lnW"

@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW!  BERCHANDYA! Cover: Alextbh",
-  "num_followers": 16778,
+  "num_followers": 16803,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGY3NTVmNmE2ZjhkMmUxNDY1NGNlYzEyOTYwY2UzMTE5MTYyOGI4",
+  "snapshot_id": "MCxjODkwNjcwNjNmYWVmOGMzMmRkNGIxZjRiODc4Y2FlMzliOTJkMTU2",
   "tracks": [
     {
       "added_at": "2023-10-27 02:47:11",
@@ -68,12 +68,12 @@
       },
       "artists": [
         {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        },
-        {
           "name": "Benjamin Kheng",
           "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        },
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
         }
       ],
       "duration_ms": 157647,
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-10-27 02:47:11",
       "album": {
+        "name": "Manusia",
+        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Diri",
+      "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
+    },
+    {
+      "added_at": "2023-10-27 02:47:11",
+      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
       },
@@ -619,6 +635,22 @@
       "duration_ms": 181000,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
+    },
+    {
+      "added_at": "2023-10-27 02:47:11",
+      "album": {
+        "name": "Renung Resah",
+        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Itu Aku",
+      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
     },
     {
       "added_at": "2023-10-27 02:47:11",
@@ -639,38 +671,6 @@
       "duration_ms": 189158,
       "name": "Haunting",
       "url": "https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ"
-    },
-    {
-      "added_at": "2023-10-27 02:47:11",
-      "album": {
-        "name": "Manusia",
-        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Diri",
-      "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
-    },
-    {
-      "added_at": "2023-10-27 02:47:11",
-      "album": {
-        "name": "Renung Resah",
-        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
-      },
-      "artists": [
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Itu Aku",
-      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
     },
     {
       "added_at": "2023-10-27 02:47:11",
@@ -795,18 +795,22 @@
     {
       "added_at": "2023-10-27 02:47:11",
       "album": {
-        "name": "Flip It Up",
-        "url": "https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj"
+        "name": "Pujaanku (feat. Aisyah Aziz)",
+        "url": "https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ"
       },
       "artists": [
         {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+          "name": "Masdo",
+          "url": "https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO"
+        },
+        {
+          "name": "Aisyah Aziz",
+          "url": "https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4"
         }
       ],
-      "duration_ms": 186894,
-      "name": "Flip It Up",
-      "url": "https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5"
+      "duration_ms": 234154,
+      "name": "Pujaanku (feat. Aisyah Aziz)",
+      "url": "https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg"
     },
     {
       "added_at": "2023-10-27 02:47:11",
@@ -827,22 +831,18 @@
     {
       "added_at": "2023-10-27 02:47:11",
       "album": {
-        "name": "Pujaanku (feat. Aisyah Aziz)",
-        "url": "https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ"
+        "name": "Flip It Up",
+        "url": "https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj"
       },
       "artists": [
         {
-          "name": "Masdo",
-          "url": "https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO"
-        },
-        {
-          "name": "Aisyah Aziz",
-          "url": "https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4"
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
         }
       ],
-      "duration_ms": 234154,
-      "name": "Pujaanku (feat. Aisyah Aziz)",
-      "url": "https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg"
+      "duration_ms": 186894,
+      "name": "Flip It Up",
+      "url": "https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5"
     }
   ],
   "unique_name": "OTW ",

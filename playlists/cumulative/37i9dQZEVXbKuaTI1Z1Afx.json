@@ -7908,7 +7908,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 188155,
       "name": "DANCE WITH ME",
       "url": "https://open.spotify.com/track/5k2KDcpVLgyy0dr7uzdJit"
@@ -14133,6 +14133,32 @@
     },
     {
       "album": {
+        "name": "Halloween (Original 2018 Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        },
+        {
+          "name": "Cody Carpenter",
+          "url": "https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg"
+        },
+        {
+          "name": "Daniel Davies",
+          "url": "https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182375,
+      "name": "Halloween Theme",
+      "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
+    },
+    {
+      "album": {
         "name": "Halloween Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
       },
@@ -16200,7 +16226,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 144866,
       "name": "I Put a Spell On You",
       "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"
@@ -31355,6 +31381,24 @@
     },
     {
       "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5FoMKRPTtYoi072HZqy88d"
+      },
+      "artists": [
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134325,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/0jRiVMnGBnuyXQsIVwbDSK"
+    },
+    {
+      "album": {
         "name": "Cottonwood 2",
         "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
       },
@@ -37767,6 +37811,24 @@
     },
     {
       "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX"
       },
@@ -38598,7 +38660,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -40110,7 +40172,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
@@ -40342,7 +40404,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"

@@ -1,12 +1,12 @@
 {
   "description": "Revive los incre\u00edbles momentos que presenciaste en el festival mientras escuchas esta playlist.",
-  "num_followers": 150021,
+  "num_followers": 150032,
   "original_name": "Corona Capital Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZThiOGEwYjFlOTc3Zjc0M2Q3YjA1ODQ3MzYzZTMwODE0YjhmOTk2",
+  "snapshot_id": "MCw4MmI3ZmUxMDA1YWY0MGNlNTBlNDhiNGQ4YjM5Y2Y1OTg5NDI5ZjZl",
   "tracks": [
     {
       "added_at": "2021-11-17 20:37:43",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -503,6 +503,22 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -535,38 +551,6 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": "2021-11-17 20:37:43",
@@ -631,6 +631,22 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 209320,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
       "added_at": "2021-11-17 20:37:43",
@@ -731,54 +747,6 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Always Forever",
-      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Feel So Close - Radio Edit",
-      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/2u4Yp2ADTKYPwFSBFL4ffa"
       },
@@ -799,18 +767,18 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
         }
       ],
-      "duration_ms": 197200,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
+      "duration_ms": 223746,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
     },
     {
       "added_at": "2021-11-17 20:37:43",
@@ -831,6 +799,38 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Feel So Close - Radio Edit",
+      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
     },
     {
       "added_at": "2021-11-17 20:37:43",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 285653,
       "name": "Wake Me up When September Ends",
       "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
     },
     {
       "added_at": "2021-11-17 20:37:43",
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2021-11-17 20:37:43",
@@ -1247,58 +1247,6 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Stole the Show",
-      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
       },
@@ -1319,6 +1267,38 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Stole the Show",
+      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
     },
     {
       "added_at": "2021-11-17 20:37:43",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
     },
     {
       "added_at": "2021-11-17 20:37:43",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Gold on the Ceiling",
-      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
         "name": "The English Riviera",
         "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 277653,
       "name": "The Look",
       "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Gold on the Ceiling",
+      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
     },
     {
       "added_at": "2021-11-17 20:37:43",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2021-11-17 20:37:43",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
-    },
-    {
-      "added_at": "2021-11-17 20:37:43",
-      "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 449160,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
+    },
+    {
+      "added_at": "2021-11-17 20:37:43",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2021-11-17 20:37:43",

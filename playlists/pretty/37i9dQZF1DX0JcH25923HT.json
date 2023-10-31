@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 412563,
+  "num_followers": 412777,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjg1MTNiM2YzZmQxMzg5MDY3MjY0ZWVhZDVhODU1MmExMzk4M2Q2",
+  "snapshot_id": "MCw2N2M1Yjg1MGYzYTkyMzBjNDUxYjQ0NzU3ZWRiMmU0ODY3ODgwZWE0",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -407,6 +407,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 246382,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -575,6 +575,30 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "C\u00f3mo Le Digo",
+        "url": "https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        },
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        }
+      ],
+      "duration_ms": 226100,
+      "name": "C\u00f3mo Le Digo",
+      "url": "https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Trap Capos II",
         "url": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
       },
@@ -603,30 +627,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "C\u00f3mo Le Digo",
-        "url": "https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        },
-        {
-          "name": "Asan",
-          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
-        }
-      ],
-      "duration_ms": 226100,
-      "name": "C\u00f3mo Le Digo",
-      "url": "https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
         "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 276768,
       "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
       "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208079,
-      "name": "Estamos Bien",
-      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -735,74 +719,18 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Hello Cotto",
-        "url": "https://open.spotify.com/album/1QQmv8TccnAUiTYsX6Z02I"
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
       "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "Hello Cotto",
-      "url": "https://open.spotify.com/track/422Avi2VjqZKCVzstKmqog"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 221083,
-      "name": "Chica Paranormal",
-      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Sexto Sentido (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 227291,
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "Brindemos",
-      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+      "duration_ms": 208079,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -835,6 +763,110 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 221083,
+      "name": "Chica Paranormal",
+      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Hello Cotto",
+        "url": "https://open.spotify.com/album/1QQmv8TccnAUiTYsX6Z02I"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 217250,
+      "name": "Hello Cotto",
+      "url": "https://open.spotify.com/track/422Avi2VjqZKCVzstKmqog"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Sexto Sentido (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227291,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Dime Si Te Acuerdas",
+        "url": "https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Dime Si Te Acuerdas",
+      "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "Brindemos",
+      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Flakk Daniel's Lp",
+        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 194851,
+      "name": "Lejos de T\u00ed",
+      "url": "https://open.spotify.com/track/30pCOQE19RvNmHq78Svlkm"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Amigos y Enemigos (Remix)",
         "url": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
       },
@@ -859,38 +891,6 @@
       "duration_ms": 295304,
       "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
       "url": "https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Dime Si Te Acuerdas",
-        "url": "https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Dime Si Te Acuerdas",
-      "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Flakk Daniel's Lp",
-        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 194851,
-      "name": "Lejos de T\u00ed",
-      "url": "https://open.spotify.com/track/30pCOQE19RvNmHq78Svlkm"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -935,26 +935,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Ayer Me Llam\u00f3 Mi Ex",
         "url": "https://open.spotify.com/album/3ryXum3u0sEV2f6oBHXI22"
       },
@@ -975,6 +955,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "#Ysya2020 Vol. 5 - Silbando",
         "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
       },
@@ -991,50 +991,6 @@
       "duration_ms": 119438,
       "name": "#Ysya2020 Vol. 5 - Silbando",
       "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "47 (Remix)",
-        "url": "https://open.spotify.com/album/7hlRNdjFs9DEPTrHhzFwYu"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Sinfonico",
-          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
-        },
-        {
-          "name": "Lil Geniuz",
-          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 517599,
-      "name": "47 - Remix",
-      "url": "https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1087,6 +1043,50 @@
       "duration_ms": 314626,
       "name": "Percocet - Remix",
       "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "47 (Remix)",
+        "url": "https://open.spotify.com/album/7hlRNdjFs9DEPTrHhzFwYu"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Sinfonico",
+          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
+        },
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 517599,
+      "name": "47 - Remix",
+      "url": "https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 182183,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Si Tu Lo Dejas",
         "url": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 275478,
       "name": "Si Tu Lo Dejas",
       "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Na' Nuevo",
+      "url": "https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "KHEA: Bzrp Music Sessions, Vol. 34",
         "url": "https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 198703,
       "name": "KHEA: Bzrp Music Sessions, Vol. 34",
       "url": "https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Na' Nuevo",
-      "url": "https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1683,66 +1683,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Buen Viaje",
-        "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 221802,
-      "name": "Vengo De Nada",
-      "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 222376,
-      "name": "Condenado Para El Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "La Oscuridad",
         "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
       },
@@ -1771,6 +1711,34 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Buen Viaje",
+        "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 221802,
+      "name": "Vengo De Nada",
+      "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Tres Rosas",
         "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
       },
@@ -1783,6 +1751,38 @@
       "duration_ms": 163080,
       "name": "Tres Rosas",
       "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 222376,
+      "name": "Condenado Para El Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Condiciones",
+        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Condiciones",
+      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "La Ocasi\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/0bWNdvYtwewhKo0YUUgzwL"
       },
@@ -1907,22 +1923,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Condiciones",
-        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Condiciones",
-      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Kobe En LA",
         "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
       },
@@ -1955,6 +1955,42 @@
       "duration_ms": 179383,
       "name": "Flexin'",
       "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "A.D.R.O.M.I.C.F.M.S. 2",
+        "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Steve Lean",
+          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
+        }
+      ],
+      "duration_ms": 191346,
+      "name": "Ready Pa Morir",
+      "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "N\u00e3o Me Sinto Mal Mais",
+        "url": "https://open.spotify.com/album/38xxqYIupf9TLEPjhAShBP"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 265355,
+      "name": "N\u00e3o Me Sinto Mal Mais",
+      "url": "https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2019,38 +2055,18 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "N\u00e3o Me Sinto Mal Mais",
-        "url": "https://open.spotify.com/album/38xxqYIupf9TLEPjhAShBP"
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
       },
       "artists": [
         {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 265355,
-      "name": "N\u00e3o Me Sinto Mal Mais",
-      "url": "https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "A.D.R.O.M.I.C.F.M.S. 2",
-        "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
-      },
-      "artists": [
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        },
-        {
-          "name": "Steve Lean",
-          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
-        }
-      ],
-      "duration_ms": 191346,
-      "name": "Ready Pa Morir",
-      "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2091,18 +2107,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+        "name": "DUDADE",
+        "url": "https://open.spotify.com/album/4iAnukID7GT1dclIsrnyxx"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+      "duration_ms": 123093,
+      "name": "DUDADE",
+      "url": "https://open.spotify.com/track/1K6Zq0N56asviW5jdUehg0"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2135,30 +2159,6 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "DUDADE",
-        "url": "https://open.spotify.com/album/4iAnukID7GT1dclIsrnyxx"
-      },
-      "artists": [
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        },
-        {
-          "name": "Evar",
-          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 123093,
-      "name": "DUDADE",
-      "url": "https://open.spotify.com/track/1K6Zq0N56asviW5jdUehg0"
     },
     {
       "added_at": "2022-06-08 18:27:09",

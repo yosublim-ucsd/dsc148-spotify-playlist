@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Jillian Mercado",
-  "num_followers": 912835,
+  "num_followers": 912805,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDZjOTlmZjQwNTQ5MWNkZmEwMGJiNGMwODBiNzVjYjhkNjA4NWI3",
+  "snapshot_id": "MCxjNmFhZmU3ZjY4NTRhZWI0YmZlYzc4YmVhNDA2N2I1ZGNiN2I0OWI3",
   "tracks": [
     {
       "added_at": "2023-10-18 04:18:09",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-18 04:18:09",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Independent Women, Pt. 1",
-      "url": "https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI"
-    },
-    {
-      "added_at": "2023-10-18 04:18:09",
-      "album": {
         "name": "Ma muse / Je t'haine",
         "url": "https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 178115,
       "name": "Ma muse",
       "url": "https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p"
+    },
+    {
+      "added_at": "2023-10-18 04:18:09",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Independent Women, Pt. 1",
+      "url": "https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI"
     },
     {
       "added_at": "2023-10-18 04:18:09",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-10-18 04:18:09",
       "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 218663,
+      "name": "Maquillada en la Cama",
+      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
+    },
+    {
+      "added_at": "2023-10-18 04:18:09",
+      "album": {
         "name": "MARIA PRZED O\u0141TARZEM",
         "url": "https://open.spotify.com/album/0UyyV7i0FJmHgD06VwtYAR"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 178600,
       "name": "Nieba nie ma",
       "url": "https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU"
-    },
-    {
-      "added_at": "2023-10-18 04:18:09",
-      "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 218663,
-      "name": "Maquillada en la Cama",
-      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
     },
     {
       "added_at": "2023-10-18 04:18:09",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-10-18 04:18:09",
       "album": {
-        "name": "I Like Boys",
-        "url": "https://open.spotify.com/album/5VUDQzV5sQED97pVSlGDdi"
-      },
-      "artists": [
-        {
-          "name": "4EVE",
-          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
-        }
-      ],
-      "duration_ms": 189248,
-      "name": "I Like Boys",
-      "url": "https://open.spotify.com/track/51M1VWU6EMuNBGPfce03sZ"
-    },
-    {
-      "added_at": "2023-10-18 04:18:09",
-      "album": {
         "name": "Life Is Better Now",
         "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2023-10-18 04:18:09",
       "album": {
-        "name": "Mojigata",
-        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
+        "name": "I Like Boys",
+        "url": "https://open.spotify.com/album/5VUDQzV5sQED97pVSlGDdi"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
         }
       ],
-      "duration_ms": 127723,
-      "name": "Sushi en Lata",
-      "url": "https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn"
+      "duration_ms": 189248,
+      "name": "I Like Boys",
+      "url": "https://open.spotify.com/track/51M1VWU6EMuNBGPfce03sZ"
     },
     {
       "added_at": "2023-10-18 04:18:09",
@@ -1055,6 +1039,22 @@
       "duration_ms": 346267,
       "name": "Di Arsy-Mu",
       "url": "https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk"
+    },
+    {
+      "added_at": "2023-10-18 04:18:09",
+      "album": {
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 127723,
+      "name": "Sushi en Lata",
+      "url": "https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn"
     },
     {
       "added_at": "2023-10-18 04:18:09",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-10-18 04:18:09",
       "album": {
+        "name": "Atat\u00fcrk'\u00fcn Sevdi\u011fi \u015eark\u0131lar",
+        "url": "https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04"
+      },
+      "artists": [
+        {
+          "name": "M\u00fczeyyen Senar",
+          "url": "https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd"
+        }
+      ],
+      "duration_ms": 196164,
+      "name": "Kimseye Etmem \u015eikayet",
+      "url": "https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb"
+    },
+    {
+      "added_at": "2023-10-18 04:18:09",
+      "album": {
         "name": "Home With Me",
         "url": "https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 195130,
       "name": "imposter syndrome",
       "url": "https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM"
-    },
-    {
-      "added_at": "2023-10-18 04:18:09",
-      "album": {
-        "name": "Atat\u00fcrk'\u00fcn Sevdi\u011fi \u015eark\u0131lar",
-        "url": "https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04"
-      },
-      "artists": [
-        {
-          "name": "M\u00fczeyyen Senar",
-          "url": "https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd"
-        }
-      ],
-      "duration_ms": 196164,
-      "name": "Kimseye Etmem \u015eikayet",
-      "url": "https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb"
     },
     {
       "added_at": "2023-10-18 04:18:09",

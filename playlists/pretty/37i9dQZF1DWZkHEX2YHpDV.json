@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Magnolia Park",
-  "num_followers": 455222,
+  "num_followers": 455252,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2IyMTAzYWFmZjBmMTE0YjU3MjAyOTEyNjRiYzVhYWFjZWVjNmIx",
+  "snapshot_id": "MCw0ODFmZDlmYjg5MjdhYTkwNDkwMTBhMDdmMGFhOTBlOTljYWE0YmY4",
   "tracks": [
     {
       "added_at": "2023-10-27 05:31:15",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "EDGING",
-        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 151533,
-      "name": "EDGING",
-      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
+      "duration_ms": 215601,
+      "name": "Hold Me Like a Grudge",
+      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -343,18 +343,50 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+        "name": "EDGING",
+        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 215601,
-      "name": "Hold Me Like a Grudge",
-      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
+      "duration_ms": 151533,
+      "name": "EDGING",
+      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "Dangerous State of Mind",
+        "url": "https://open.spotify.com/album/5dDbh3KtUuXAGq77CeFYGD"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 115620,
+      "name": "Dangerous State of Mind",
+      "url": "https://open.spotify.com/track/4iwjEJYExvmBM5w75RTuLv"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "The Storm (Emo Orchestra Version)",
+        "url": "https://open.spotify.com/album/7Huuaq6eUX0YsEC5xyFC84"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 174151,
+      "name": "The Storm - Emo Orchestra Version",
+      "url": "https://open.spotify.com/track/5tbk4DXC56uutytBpO64iY"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -379,38 +411,6 @@
       "duration_ms": 152331,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
-        "name": "The Storm (Emo Orchestra Version)",
-        "url": "https://open.spotify.com/album/7Huuaq6eUX0YsEC5xyFC84"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 174151,
-      "name": "The Storm - Emo Orchestra Version",
-      "url": "https://open.spotify.com/track/5tbk4DXC56uutytBpO64iY"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
-        "name": "Dangerous State of Mind",
-        "url": "https://open.spotify.com/album/5dDbh3KtUuXAGq77CeFYGD"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 115620,
-      "name": "Dangerous State of Mind",
-      "url": "https://open.spotify.com/track/4iwjEJYExvmBM5w75RTuLv"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "RUCKUS!",
-        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/4mLuzYF9sqsZ6AmZMu9tkx"
       },
       "artists": [
         {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 199196,
-      "name": "I Hope You Choke!",
-      "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
+      "duration_ms": 150191,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/5wocXoEq2TsNw3ZYdEBalW"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -951,22 +951,6 @@
       "duration_ms": 216474,
       "name": "Wake Me Up (When This Nightmare\u2019s Over)",
       "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/4mLuzYF9sqsZ6AmZMu9tkx"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 150191,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/5wocXoEq2TsNw3ZYdEBalW"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 199196,
+      "name": "I Hope You Choke!",
+      "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
         "name": "Friends With Benefits",
         "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 187322,
       "name": "Friends With Benefits",
       "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 153642,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -1035,22 +1051,6 @@
       "duration_ms": 227393,
       "name": "Everybody but You",
       "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
-        "name": "You Are Who You Hang Out With",
-        "url": "https://open.spotify.com/album/5ti35p8028PSksErKRW415"
-      },
-      "artists": [
-        {
-          "name": "The Front Bottoms",
-          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Not Joking",
-      "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n"
+        "name": "You Are Who You Hang Out With",
+        "url": "https://open.spotify.com/album/5ti35p8028PSksErKRW415"
       },
       "artists": [
         {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
         }
       ],
-      "duration_ms": 153642,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT"
+      "duration_ms": 198226,
+      "name": "Not Joking",
+      "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
         "name": "Lessons That We Swear to Keep",
         "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
       },
@@ -1271,22 +1255,6 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 160380,
-      "name": "hair out",
-      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
         "name": "Certified Depressant",
         "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
       },
@@ -1299,6 +1267,38 @@
       "duration_ms": 200981,
       "name": "Everything Sucks",
       "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 160380,
+      "name": "hair out",
+      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "The Tower",
-        "url": "https://open.spotify.com/album/3HSeYM1oYsWAh5274IB4VG"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "The Tower",
-      "url": "https://open.spotify.com/track/6kPnfNvwdhdmMSeQn3JGim"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
         "name": "Holy Smokes",
         "url": "https://open.spotify.com/album/59n0gSGETWB3cvjHxVHPNu"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 194039,
       "name": "Holy Smokes",
       "url": "https://open.spotify.com/track/0SACHSO3zWyljwcPkLOWOd"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/3HSeYM1oYsWAh5274IB4VG"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/6kPnfNvwdhdmMSeQn3JGim"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "blame / how to exit a room",
-        "url": "https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "blame",
-      "url": "https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
         "name": "SSX Trickmont",
         "url": "https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 198566,
       "name": "SSX Trickmont",
       "url": "https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "blame / how to exit a room",
+        "url": "https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "HORROR SHOW",
-        "url": "https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 195646,
-      "name": "HORROR SHOW",
-      "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
         "name": "I Hope Hell Isn't Real",
         "url": "https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 134271,
       "name": "This Time Last Week",
       "url": "https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "HORROR SHOW",
+        "url": "https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 195646,
+      "name": "HORROR SHOW",
+      "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -1687,6 +1687,22 @@
       "duration_ms": 222617,
       "name": "I MISS 2003",
       "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "SCUMBAG",
+        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 186910,
+      "name": "SCUMBAG",
+      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -1803,22 +1819,6 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "SCUMBAG",
-        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 186910,
-      "name": "SCUMBAG",
-      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
         "name": "Plastic Heart",
         "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
       },
@@ -1847,6 +1847,42 @@
       "duration_ms": 207272,
       "name": "Face Down - Symphonic Edition",
       "url": "https://open.spotify.com/track/3rzwBdOX741P5N394o5faL"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 163493,
+      "name": "S\u2019old",
+      "url": "https://open.spotify.com/track/3CnO992SN5Pg4teEUJ8z2X"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "EAT YOUR FRIENDS",
+        "url": "https://open.spotify.com/album/0csxLFq6XZnkMOYBIpjhu6"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        },
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 196010,
+      "name": "EAT YOUR FRIENDS",
+      "url": "https://open.spotify.com/track/226TwjZFNgEVqx68jLF9Et"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -1915,26 +1951,6 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "EAT YOUR FRIENDS",
-        "url": "https://open.spotify.com/album/0csxLFq6XZnkMOYBIpjhu6"
-      },
-      "artists": [
-        {
-          "name": "Jhariah",
-          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
-        },
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 196010,
-      "name": "EAT YOUR FRIENDS",
-      "url": "https://open.spotify.com/track/226TwjZFNgEVqx68jLF9Et"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
@@ -1971,22 +1987,6 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "Up In Smoke",
-        "url": "https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o"
-      },
-      "artists": [
-        {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Up In Smoke",
-      "url": "https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
         "name": "hover like a GODDESS",
         "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
       },
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
+        "name": "Up In Smoke",
+        "url": "https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Up In Smoke",
+      "url": "https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
         "name": "SUBSTANCE",
         "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 160441,
       "name": "SUBSTANCE",
       "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
-        "name": "152",
-        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 163493,
-      "name": "S\u2019old",
-      "url": "https://open.spotify.com/track/3CnO992SN5Pg4teEUJ8z2X"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "The Hum Goes on Forever",
-        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 225838,
-      "name": "Wyatt\u2019s Song (Your Name)",
-      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
         "name": "Gaunt",
         "url": "https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 209097,
       "name": "Gaunt",
       "url": "https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "The Hum Goes on Forever",
+        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 225838,
+      "name": "Wyatt\u2019s Song (Your Name)",
+      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "Hand Signals",
-        "url": "https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX"
-      },
-      "artists": [
-        {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
-        }
-      ],
-      "duration_ms": 161416,
-      "name": "Would You Tell Picasso To Sell His Guitars?",
-      "url": "https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
         "name": "Untitled Vol. 1",
         "url": "https://open.spotify.com/album/2ssQ0Rw8fqgQEDsVVNb0Sm"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 162559,
       "name": "Play Pretend",
       "url": "https://open.spotify.com/track/4qMhXJjk8PUl9fRAozHoAs"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "Hand Signals",
+        "url": "https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX"
+      },
+      "artists": [
+        {
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "duration_ms": 161416,
+      "name": "Would You Tell Picasso To Sell His Guitars?",
+      "url": "https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -2495,6 +2495,46 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
+        "name": "she's a vampire",
+        "url": "https://open.spotify.com/album/5DKISuJT879vrCsbUcKAt4"
+      },
+      "artists": [
+        {
+          "name": "LiL Lotus",
+          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "she's a vampire",
+      "url": "https://open.spotify.com/track/0TijcPb77nixLGQQzVECLJ"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/1RKGfcA6p650pXnS8iirDU"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        },
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        },
+        {
+          "name": "Jason Tyler",
+          "url": "https://open.spotify.com/artist/2Lam5EqMYip1CHiDBO4uT3"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/5yuVgliuMEcgFcEwNCTfiz"
+    },
+    {
+      "added_at": "2023-10-27 05:31:15",
+      "album": {
         "name": "Got It Bad",
         "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
       },
@@ -2527,26 +2567,18 @@
     {
       "added_at": "2023-10-27 05:31:15",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/1RKGfcA6p650pXnS8iirDU"
+        "name": "Permanent Rebellion",
+        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
       },
       "artists": [
         {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        },
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        },
-        {
-          "name": "Jason Tyler",
-          "url": "https://open.spotify.com/artist/2Lam5EqMYip1CHiDBO4uT3"
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Heart To Heart",
-      "url": "https://open.spotify.com/track/5yuVgliuMEcgFcEwNCTfiz"
+      "duration_ms": 193976,
+      "name": "Permanent Rebellion",
+      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
     },
     {
       "added_at": "2023-10-27 05:31:15",
@@ -2563,42 +2595,6 @@
       "duration_ms": 223238,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
-        "name": "catastrophe",
-        "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
-      },
-      "artists": [
-        {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        },
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 156430,
-      "name": "catastrophe",
-      "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
-    },
-    {
-      "added_at": "2023-10-27 05:31:15",
-      "album": {
-        "name": "Lacerate",
-        "url": "https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 210022,
-      "name": "Lacerate",
-      "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
     }
   ],
   "unique_name": "The Scene",

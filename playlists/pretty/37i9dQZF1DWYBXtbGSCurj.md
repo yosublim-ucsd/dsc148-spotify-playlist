@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: MD Chefe, DomLaike, Rare G , Cax Camp, Lotta, Fp
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,971 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,039 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Matéria](https://open.spotify.com/track/5eO8Nzn1T7RaL7LMOMYMtZ) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [Mindu](https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB) | [Matéria](https://open.spotify.com/album/3ofoZkNSVL0LmMj68VVR6g) | 3:44 |
 | 75 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
 
-Snapshot ID: `MCwwMWUwOGUyZDdkNDBhNzUyMTE4MWY3Y2M3MmI4NmQ4Zjk2OGVhMTZl`
+Snapshot ID: `MCxlOGZhYTllOTc0NzM5YjljMjQwZWI5MzdhYzg0MTZiYTlhOGJmMTAw`

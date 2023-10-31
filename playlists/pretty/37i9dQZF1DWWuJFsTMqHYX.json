@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 283230,
+  "num_followers": 283324,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWU3MWM5OTAwYjQ4NjZlNzk1NjdhMTg3NTgyYTJhOGI3MjlhYzQ4",
+  "snapshot_id": "MCxiYTg1NDQ0MmNkNGJhMWQ5MDdhZTJhYWMyMjJmNzk5MWU5MjJmMTMw",
   "tracks": [
     {
       "added_at": "2023-08-16 06:37:57",
@@ -343,6 +343,26 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 324920,
+      "name": "Bonde (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
         "name": "Kel Tamasheq (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH"
       },
@@ -395,6 +415,22 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
+        "name": "Natt",
+        "url": "https://open.spotify.com/album/4mIsprnNBBsFjR8xPu60TT"
+      },
+      "artists": [
+        {
+          "name": "Isma\u00ebl L\u00f4",
+          "url": "https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Tadieu Bone",
+      "url": "https://open.spotify.com/track/2a5WbaVANXN8Dj4aNmBosD"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
         "name": "Segu Blue",
         "url": "https://open.spotify.com/album/4QTlRKU34j7RvBuflzAOSP"
       },
@@ -411,42 +447,6 @@
       "duration_ms": 106680,
       "name": "Tabali te",
       "url": "https://open.spotify.com/track/6F28CLAzz6JwhfkBjyEgKx"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
-        "name": "Talking Timbuktu (with Ry Cooder)",
-        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 324920,
-      "name": "Bonde (with Ry Cooder)",
-      "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
-        "name": "Natt",
-        "url": "https://open.spotify.com/album/4mIsprnNBBsFjR8xPu60TT"
-      },
-      "artists": [
-        {
-          "name": "Isma\u00ebl L\u00f4",
-          "url": "https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Tadieu Bone",
-      "url": "https://open.spotify.com/track/2a5WbaVANXN8Dj4aNmBosD"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Shouka",
-        "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
-      },
-      "artists": [
-        {
-          "name": "Mariem Hassan",
-          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Haiyu",
-      "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 298969,
       "name": "Chismiten",
       "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
+        "name": "Shouka",
+        "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
+      },
+      "artists": [
+        {
+          "name": "Mariem Hassan",
+          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Haiyu",
+      "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Chatma",
-        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
-      },
-      "artists": [
-        {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
-        }
-      ],
-      "duration_ms": 290800,
-      "name": "Tisnant an Chatma",
-      "url": "https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
         "name": "Soutak",
         "url": "https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
+        "name": "Chatma",
+        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "duration_ms": 290800,
+      "name": "Tisnant an Chatma",
+      "url": "https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
         "name": "Achinkad",
         "url": "https://open.spotify.com/album/18mh747W9C4QbHRDhSZUjr"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Zerzura (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
-      },
-      "artists": [
-        {
-          "name": "Ahmoudou Madassane",
-          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
-        }
-      ],
-      "duration_ms": 187345,
-      "name": "Akaline Akaline",
-      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
         "name": "Sequana",
         "url": "https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Chatma",
-        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
+        "name": "Zerzura (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
       },
       "artists": [
         {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+          "name": "Ahmoudou Madassane",
+          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
         }
       ],
-      "duration_ms": 313480,
-      "name": "Toumast anlet",
-      "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
+      "duration_ms": 187345,
+      "name": "Akaline Akaline",
+      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -887,22 +871,6 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Azel",
-        "url": "https://open.spotify.com/album/6OUmsPAH0w42g1NCQYe5Qv"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 367185,
-      "name": "Iyat Ninhay / Jaguar (A Great Desert I Saw)",
-      "url": "https://open.spotify.com/track/7JhZnctUOHoRVXZnKP9cSB"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
         "name": "Emmaar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH"
       },
@@ -915,6 +883,42 @@
       "duration_ms": 259919,
       "name": "Toumast Tincha",
       "url": "https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
+        "name": "Marhaba",
+        "url": "https://open.spotify.com/album/7g5cShRnbgXW9xwQjKNFow"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Guinia",
+          "url": "https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 498971,
+      "name": "Mimoun Marhaba",
+      "url": "https://open.spotify.com/track/68tS8zt1kpPHxunJ7Xq4PI"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
+        "name": "Abbar el Hamada",
+        "url": "https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3"
+      },
+      "artists": [
+        {
+          "name": "Aziza Brahim",
+          "url": "https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup"
     }
   ],
   "unique_name": "Sahara",

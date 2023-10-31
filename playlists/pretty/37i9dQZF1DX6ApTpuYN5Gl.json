@@ -1,12 +1,12 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 56082,
+  "num_followers": 56203,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2MzZTllNjQyYzI1N2JjOTNmOWM1YjM5OGY0YmVmN2Q4MGMxNDYz",
+  "snapshot_id": "MCxjNWViYzljNDkwOGQyNDAxNWE2MGUwZmE3NTIyZjY2NGI4MDU3NDMx",
   "tracks": [
     {
       "added_at": "2023-10-27 13:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-10-27 13:00:00",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
-    },
-    {
-      "added_at": "2023-10-27 13:00:00",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 194107,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K"
+    },
+    {
+      "added_at": "2023-10-27 13:00:00",
+      "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2023-10-27 13:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-10-27 13:00:00",
       "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
-    },
-    {
-      "added_at": "2023-10-27 13:00:00",
-      "album": {
         "name": "Summer Someday",
         "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 229253,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "added_at": "2023-10-27 13:00:00",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2023-10-27 13:00:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-10-27 13:00:00",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
+    },
+    {
+      "added_at": "2023-10-27 13:00:00",
+      "album": {
         "name": "Love Will Tear Us Apart (Tensnake Remix)",
         "url": "https://open.spotify.com/album/1rp9zBathyKcYfnh34hunq"
       },
@@ -755,26 +775,6 @@
     {
       "added_at": "2023-10-27 13:00:00",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
-    },
-    {
-      "added_at": "2023-10-27 13:00:00",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU"
       },
@@ -791,46 +791,6 @@
       "duration_ms": 197000,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf"
-    },
-    {
-      "added_at": "2023-10-27 13:00:00",
-      "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "SHELLS",
-          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
-        }
-      ],
-      "duration_ms": 192896,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
-    },
-    {
-      "added_at": "2023-10-27 13:00:00",
-      "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2023-10-27 13:00:00",
@@ -855,6 +815,46 @@
       "duration_ms": 192122,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd"
+    },
+    {
+      "added_at": "2023-10-27 13:00:00",
+      "album": {
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+    },
+    {
+      "added_at": "2023-10-27 13:00:00",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 192896,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
     },
     {
       "added_at": "2023-10-27 13:00:00",

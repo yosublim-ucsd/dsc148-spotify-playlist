@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AX8gioxrnN.md) - [plain]
 
 > for a first class pre, press play
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,585 likes - 90 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,589 likes - 90 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AX8gioxrnN.md) - [plain]
 | 89 | [Livin' It Up](https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC) | 4:17 |
 | 90 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
 
-Snapshot ID: `MCw2MzNjMTM2OTgxOTg2M2JlN2VlN2JlOTQzODc3OTRkYWMzMTIxNzNj`
+Snapshot ID: `MCwwNmE1OTIzNGY0MDY0ZjU2NTMxYzQ4ZmYyMmJhZmM5YTk5MGM3YjVm`

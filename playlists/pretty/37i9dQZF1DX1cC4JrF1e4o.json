@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 375158,
+  "num_followers": 375367,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmM0ZTk5Y2EyODgxMTZmYWEwOWI1YzIxZDRmOTExNTQyOTdjZWU1",
+  "snapshot_id": "MCwxOTY2ZDdjYWY0ZmUxNWEzMGMzYjg5MzljNWQyYTBhMTliNzQwMGUy",
   "tracks": [
     {
       "added_at": "2023-10-24 04:44:54",
@@ -91,22 +91,18 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
-        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Fly Me To The Moon (In Other Words)",
-      "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -127,6 +123,26 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Fly Me To The Moon (In Other Words)",
+      "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
         "name": "Little Girl Blue (2013 Remastered Version)",
         "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "Sings For Two In Love",
         "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 160666,
       "name": "Autumn Leaves - Remastered 1987",
       "url": "https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -203,22 +219,6 @@
       "duration_ms": 150000,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
-        "name": "My Way (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -271,38 +271,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -319,18 +287,18 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 155306,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -347,6 +315,22 @@
       "duration_ms": 151866,
       "name": "What A Diff'rence A Day Made",
       "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -391,22 +375,18 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
-        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Dick Stabile And His Orchestra",
-          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 190400,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
+      "duration_ms": 190773,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -443,8 +423,8 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
       },
       "artists": [
         {
@@ -452,25 +432,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB"
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -507,18 +471,22 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "I Left My Heart In San Francisco",
-        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
+        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
         }
       ],
-      "duration_ms": 170960,
-      "name": "(I Left My Heart) In San Francisco",
-      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+      "duration_ms": 190400,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -535,6 +503,70 @@
       "duration_ms": 194573,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 165973,
+      "name": "Let There Be Love",
+      "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "I Left My Heart In San Francisco",
+        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 170960,
+      "name": "(I Left My Heart) In San Francisco",
+      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -567,38 +599,6 @@
       "duration_ms": 165360,
       "name": "Comin' Home Baby",
       "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 165973,
-      "name": "Let There Be Love",
-      "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
     },
     {
       "added_at": "2023-10-24 04:44:54",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
-        "name": "The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 164666,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
         "name": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
         "url": "https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 196666,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/5RcvlmVx2xtFcp2Ta5pw7X"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
+        "name": "The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
     },
     {
       "added_at": "2023-10-24 04:44:54",

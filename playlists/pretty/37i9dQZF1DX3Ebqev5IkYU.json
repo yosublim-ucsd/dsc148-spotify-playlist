@@ -1,12 +1,12 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1976717,
+  "num_followers": 1976838,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGJkOTY3ODM2ZjVmNzY5ZDZhYTcwOGIyYTUyYTM4NTdkYzIwNzYw",
+  "snapshot_id": "MCwxZWQ1ZTc1NjFlMTZiZTAyOWFiNmRiYzM0NmM1MTUzZGYzOTRhZjA0",
   "tracks": [
     {
       "added_at": "2023-10-20 08:59:34",
@@ -247,6 +247,38 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -287,38 +319,6 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
       },
@@ -503,6 +483,26 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -515,26 +515,6 @@
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
-        "name": "Car Keys (Ayla)",
-        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 147211,
-      "name": "Car Keys (Ayla)",
-      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -619,6 +599,26 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
+        "name": "Car Keys (Ayla)",
+        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 147211,
+      "name": "Car Keys (Ayla)",
+      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
         "name": "Can't Tame Her",
         "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
       },
@@ -675,6 +675,26 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -779,26 +799,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "Other Boys",
         "url": "https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "Sonder (2023)",
-        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 229436,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/1ELMCVbADOtZj8tYdS01nI"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "Is It Love",
         "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 143669,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "Sonder (2023)",
+        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 229436,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/1ELMCVbADOtZj8tYdS01nI"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "Won't Forget You",
         "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 230945,
       "name": "Won't Forget You (Edit)",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
+        "name": "Mercy (feat. Jacob Lusk)",
+        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 178242,
+      "name": "Mercy (feat. Jacob Lusk)",
+      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP"
       },
@@ -1183,30 +1207,6 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "Mercy (feat. Jacob Lusk)",
-        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
-        },
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 178242,
-      "name": "Mercy (feat. Jacob Lusk)",
-      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 175671,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
+        "name": "HERZINFUCKED",
+        "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 165476,
+      "name": "Auf & Ab",
+      "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "HERZINFUCKED",
-        "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
+        "name": "Wildberry Lillet",
+        "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
       },
       "artists": [
         {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 165476,
-      "name": "Auf & Ab",
-      "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
+      "duration_ms": 132000,
+      "name": "Wildberry Lillet",
+      "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
-        "name": "Wildberry Lillet",
-        "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv"
       },
       "artists": [
         {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Wildberry Lillet",
-      "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"
+      "duration_ms": 147007,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -1303,22 +1319,6 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 147007,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV"
     },
     {
       "added_at": "2023-10-20 08:59:34",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-10-20 08:59:34",
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 169949,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
+    },
+    {
+      "added_at": "2023-10-20 08:59:34",
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
-    },
-    {
-      "added_at": "2023-10-20 08:59:34",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 169949,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
     }
   ],
   "unique_name": "Stimmungsmacher",

@@ -1,12 +1,12 @@
 {
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
-  "num_followers": 629959,
+  "num_followers": 630160,
   "original_name": "Iconos del Rock Latinoamericano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzllOWYyZmQ1OWY1NjIzNTMxZmYyZjY3ZjNlNmU3YWJmZGFkNjg0",
+  "snapshot_id": "MCxkOGU4ZTExMTdlYjk1NmVjMDBlMDA2ZGVkY2MzNGM0NGU4MGE5ZGY2",
   "tracks": [
     {
       "added_at": "2022-05-20 13:11:18",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "La Cagaste... Burt Lancaster",
-        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 184360,
-      "name": "El ataque de las chicas cocodrilo",
-      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "La Vida Gacha",
         "url": "https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM"
       },
@@ -375,22 +359,6 @@
       "duration_ms": 245826,
       "name": "La Planta",
       "url": "https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "No Dejes Que...",
-      "url": "https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -411,6 +379,38 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "La Cagaste... Burt Lancaster",
+        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "El ataque de las chicas cocodrilo",
+      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "No Dejes Que...",
+      "url": "https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "El Que Busca Encuentra",
         "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 310146,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -457,22 +473,6 @@
       "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
       "added_at": "2022-08-25 00:54:16",
       "album": {
         "name": "Esquizofrenia",
@@ -487,22 +487,6 @@
       "duration_ms": 250706,
       "name": "Tres Lunares",
       "url": "https://open.spotify.com/track/0THa3Vl0Ad1ksflpK10AJw"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 156197,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -523,50 +507,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+      "duration_ms": 156197,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -587,6 +539,38 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "A la Izquierda de la Tierra",
         "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Bailando Solo",
+      "url": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "Dance And Dense Denso",
         "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 288066,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "La Velocidad de la Luz",
-        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Bailando Solo",
-      "url": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Una rola para los minusv\u00e1lidos",
-        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Las piedras rodantes",
-      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "Una rola para los minusv\u00e1lidos",
+        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+      "duration_ms": 198040,
+      "name": "Las piedras rodantes",
+      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 135133,
       "name": "Las flores",
       "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "Mucho Barato",
         "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 212560,
       "name": "Aunque no sea conmigo",
       "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Las Consecuencias",
         "url": "https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 233960,
       "name": "Frente a frente (feat. Tulsa)",
       "url": "https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "El Le\u00f3n",
         "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 327426,
       "name": "La chispa adecuada (Bendecida 3)",
       "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
     },
     {
       "added_at": "2022-05-20 13:11:18",

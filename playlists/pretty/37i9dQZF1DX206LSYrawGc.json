@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 257258,
+  "num_followers": 257455,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjJhYTdjZmU0YWIxNzQ3OWZmNzYxOGM5MDliYzc4YWYyYWFjNzVk",
+  "snapshot_id": "MCxmYjQzMGU4OTgyNDg4YjYzZGFiZDlhZTAwYzBiNjE2ZDAyYjY2M2Q0",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 219666,
       "name": "We're Not Gonna Take It",
       "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Girls, Girls, Girls (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 270426,
-      "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -219,18 +203,18 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+        "name": "Girls, Girls, Girls (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+      "duration_ms": 270426,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
     },
     {
       "added_at": "2022-07-05 15:28:41",
@@ -247,22 +231,6 @@
       "duration_ms": 515386,
       "name": "Master of Puppets (Remastered)",
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2022-07-05 15:28:41",
@@ -311,6 +279,38 @@
       "duration_ms": 259800,
       "name": "Juke Box Hero",
       "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a"
     },
     {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Vivid (Expanded Edition)",
-        "url": "https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs"
-      },
-      "artists": [
-        {
-          "name": "Living Colour",
-          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
-        }
-      ],
-      "duration_ms": 294826,
-      "name": "Cult of Personality",
-      "url": "https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH"
-    },
-    {
       "added_at": "2022-06-29 17:56:03",
       "album": {
         "name": "Girls, Girls, Girls (Deluxe Version)",
@@ -487,6 +471,22 @@
       "duration_ms": 281960,
       "name": "Wild Side",
       "url": "https://open.spotify.com/track/669npuMwVlYFReOpYFYxwH"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Vivid (Expanded Edition)",
+        "url": "https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs"
+      },
+      "artists": [
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "duration_ms": 294826,
+      "name": "Cult of Personality",
+      "url": "https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me",
-      "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Holy Diver",
         "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
       },
@@ -587,22 +571,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Best of Volume 1",
-        "url": "https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Night Songs",
         "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
       },
@@ -619,18 +587,18 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Introduce Yourself",
-        "url": "https://open.spotify.com/album/0kBy2KA6BuCWveFo88VmMX"
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
       "artists": [
         {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 243600,
-      "name": "We Care a Lot",
-      "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k"
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me",
+      "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -651,6 +619,22 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
+        "name": "Introduce Yourself",
+        "url": "https://open.spotify.com/album/0kBy2KA6BuCWveFo88VmMX"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "We Care a Lot",
+      "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
         "name": "W.A.S.P.",
         "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 223533,
       "name": "I Wanna Be Somebody",
       "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Best of Volume 1",
+        "url": "https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Difficult To Cure",
-        "url": "https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex"
-      },
-      "artists": [
-        {
-          "name": "Rainbow",
-          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
-        }
-      ],
-      "duration_ms": 241893,
-      "name": "I Surrender",
-      "url": "https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Open Up And Say . . . Ahh!",
         "url": "https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 260224,
       "name": "Every Rose Has Its Thorn",
       "url": "https://open.spotify.com/track/5qaSekPPKHIEA1Yn0qkCaC"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Night Songs",
+        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Shake Me",
+      "url": "https://open.spotify.com/track/1Qjpl8Kav6rrO92ZuG0OK8"
     }
   ],
   "unique_name": "80s Rock Drive",

@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 456214,
+  "num_followers": 456497,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmI3YTZkNzM4NjU4NDc2YzBiNzE0YzI2YmNiY2IzYmY0ZDFlODcz",
+  "snapshot_id": "MCwxNjU3OGJmYmRlMmMxYTcyOGE4MDFhMWEwYzFhOGY4ZWRkMmJmNDc3",
   "tracks": [
     {
       "added_at": "2023-10-11 04:28:43",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "Labirin",
-        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 182656,
-      "name": "Labirin",
-      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
         "name": "Walk The Talk",
         "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 207937,
       "name": "Kenangan Manis",
       "url": "https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "Labirin",
+        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 182656,
+      "name": "Labirin",
+      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -555,6 +555,22 @@
       "duration_ms": 300512,
       "name": "Kangen",
       "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Remaja",
+      "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -603,38 +619,6 @@
       "duration_ms": 284988,
       "name": "Satu-Satu",
       "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
-        "name": "Tulus",
-        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "Sewindu",
-      "url": "https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Remaja",
-      "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
+        "name": "Tulus",
+        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Sewindu",
+      "url": "https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
         "name": "Ego & Fungsi Otak",
         "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
       },
@@ -727,38 +727,6 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "Renung Resah",
-        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
-      },
-      "artists": [
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Itu Aku",
-      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
-        "name": "Gajah",
-        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 219284,
-      "name": "Sepatu",
-      "url": "https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
         "name": "Kereta Kencan",
         "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 204293,
       "name": "Mata Ke Hati (Acoustic Version)",
       "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "Renung Resah",
+        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Itu Aku",
+      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -791,6 +775,38 @@
       "duration_ms": 325946,
       "name": "Waktu Yang Salah",
       "url": "https://open.spotify.com/track/4qgIQcskrvj6nlypTvBm5k"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "RAN For Your Life",
+        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Pandangan Pertama",
+      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "Gajah",
+        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 219284,
+      "name": "Sepatu",
+      "url": "https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "RAN For Your Life",
-        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Pandangan Pertama",
-      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
         "name": "Film Favorit",
         "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
       },
@@ -859,50 +859,18 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "Lebih Indah",
-        "url": "https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x"
+        "name": "Tempat Aku Pulang",
+        "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
       },
       "artists": [
         {
-          "name": "Adera",
-          "url": "https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC"
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
         }
       ],
-      "duration_ms": 258426,
-      "name": "Lebih Indah",
-      "url": "https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
-        "name": "The Special One",
-        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
-      },
-      "artists": [
-        {
-          "name": "Yovie & Nuno",
-          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Dia Milikku",
-      "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
-        "name": "Tulus",
-        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Teman Hidup",
-      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
+      "duration_ms": 263746,
+      "name": "April",
+      "url": "https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -923,8 +891,72 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "Tempat Aku Pulang",
-        "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
+        "name": "Tulus",
+        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Teman Hidup",
+      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "Lebih Indah",
+        "url": "https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x"
+      },
+      "artists": [
+        {
+          "name": "Adera",
+          "url": "https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Lebih Indah",
+      "url": "https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "Hari Baru",
+        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Dekat Di Hati",
+      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "The Special One",
+        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Dia Milikku",
+      "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
+        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
       "artists": [
         {
@@ -932,9 +964,9 @@
           "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
         }
       ],
-      "duration_ms": 263746,
-      "name": "April",
-      "url": "https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q"
+      "duration_ms": 249503,
+      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
+      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -967,22 +999,6 @@
       "duration_ms": 279031,
       "name": "Seperti Kisah",
       "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
-        "name": "Hari Baru",
-        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Dekat Di Hati",
-      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -1067,22 +1083,6 @@
       "duration_ms": 393072,
       "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
       "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
-        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
-        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 249503,
-      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
-      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
     },
     {
       "added_at": "2023-10-11 04:28:43",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-10-11 04:28:43",
       "album": {
-        "name": "Musim Yang Baik",
-        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 216295,
-      "name": "Lapang Dada",
-      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
-    },
-    {
-      "added_at": "2023-10-11 04:28:43",
-      "album": {
         "name": "Seamin Tak Seiman",
         "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 216448,
       "name": "Seamin Tak Seiman",
       "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
+    },
+    {
+      "added_at": "2023-10-11 04:28:43",
+      "album": {
+        "name": "Musim Yang Baik",
+        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 216295,
+      "name": "Lapang Dada",
+      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
     },
     {
       "added_at": "2023-10-11 04:28:43",

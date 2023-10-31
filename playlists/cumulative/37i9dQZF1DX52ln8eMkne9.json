@@ -4820,7 +4820,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 341040,
       "name": "Sweet Kentucky Ham",
       "url": "https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz"
@@ -5470,6 +5470,24 @@
       "duration_ms": 176973,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW"
+    },
+    {
+      "album": {
+        "name": "Tis Autumn",
+        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
+      },
+      "artists": [
+        {
+          "name": "Belle-Skinner",
+          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130162,
+      "name": "Tis Autumn",
+      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: hemlocke springs ",
-  "num_followers": 1697988,
+  "num_followers": 1697934,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjQwYTliYjU3YWMwODgyYzRmMWJkMGZhMjZjMTJkOTA3ODNmMTc4",
+  "snapshot_id": "MCw1ZWU0MjU5MGU5MjBjOGY0NTQzMzU2Y2Q4ZmM5ODM3ZjlhYTAzZmY0",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Into Your Room",
-        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Into Your Room",
-      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Desire, I Want To Turn Into You",
@@ -543,6 +527,22 @@
       "duration_ms": 232625,
       "name": "Welcome To My Island",
       "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "HATELOVE",
+        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "HATELOVE",
+      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
+    },
+    {
       "added_at": "2023-06-30 04:21:00",
       "album": {
         "name": "19",
@@ -879,22 +895,6 @@
       "duration_ms": 176474,
       "name": "Boy Toy",
       "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "HATELOVE",
-        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "HATELOVE",
-      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Boy Scout",
-        "url": "https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 200261,
-      "name": "Boy Scout",
-      "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Next Best Exit",
         "url": "https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 166500,
       "name": "Next Best Exit",
       "url": "https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Boy Scout",
+        "url": "https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 200261,
+      "name": "Boy Scout",
+      "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 186643,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "My Big Day",
@@ -1215,6 +1199,22 @@
       "duration_ms": 215986,
       "name": "Diving - feat. Holly Humberstone",
       "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 186643,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
     },
     {
       "added_at": "2023-06-30 04:21:00",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Coping on Unemployment",
-        "url": "https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Coping on Unemployment",
-      "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "2009 TOYOTA",
@@ -1283,6 +1267,22 @@
       "duration_ms": 141991,
       "name": "2009 TOYOTA",
       "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Coping on Unemployment",
+        "url": "https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Coping on Unemployment",
+      "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1333,6 +1333,22 @@
       "url": "https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I Met God",
+        "url": "https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "duration_ms": 262454,
+      "name": "I Met God",
+      "url": "https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk"
+    },
+    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "All Night",
@@ -1347,22 +1363,6 @@
       "duration_ms": 195598,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Everything Is Boring",
-        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Everything Is Boring",
-      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1381,36 +1381,20 @@
       "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "I Met God",
-        "url": "https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6"
+        "name": "Everything Is Boring",
+        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
       },
       "artists": [
         {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 262454,
-      "name": "I Met God",
-      "url": "https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk"
-    },
-    {
-      "added_at": "2023-07-07 18:51:45",
-      "album": {
-        "name": "Hello Hi / Un Deux Trois",
-        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
+      "duration_ms": 176005,
+      "name": "Everything Is Boring",
+      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1431,6 +1415,22 @@
       "duration_ms": 211782,
       "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
+    },
+    {
+      "added_at": "2023-07-07 18:51:45",
+      "album": {
+        "name": "Hello Hi / Un Deux Trois",
+        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -1497,38 +1497,6 @@
       "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
     },
     {
-      "added_at": "2023-07-14 01:28:17",
-      "album": {
-        "name": "Screw Time",
-        "url": "https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 185724,
-      "name": "Screw Time",
-      "url": "https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Satan Loves You",
-        "url": "https://open.spotify.com/album/6xrANcAOKHnc8SMRRh3FBn"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00eb Doucet",
-          "url": "https://open.spotify.com/artist/4wKCXloIwBDiO9eUGe1QpW"
-        }
-      ],
-      "duration_ms": 195936,
-      "name": "Satan Loves You",
-      "url": "https://open.spotify.com/track/3LdXoKD1oTAsRxHLJGEEOE"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Stones",
@@ -1545,6 +1513,22 @@
       "url": "https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq"
     },
     {
+      "added_at": "2023-07-14 01:28:17",
+      "album": {
+        "name": "Screw Time",
+        "url": "https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 185724,
+      "name": "Screw Time",
+      "url": "https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Water Pistol",
@@ -1559,6 +1543,22 @@
       "duration_ms": 219582,
       "name": "Water Pistol",
       "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Satan Loves You",
+        "url": "https://open.spotify.com/album/6xrANcAOKHnc8SMRRh3FBn"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00eb Doucet",
+          "url": "https://open.spotify.com/artist/4wKCXloIwBDiO9eUGe1QpW"
+        }
+      ],
+      "duration_ms": 195936,
+      "name": "Satan Loves You",
+      "url": "https://open.spotify.com/track/3LdXoKD1oTAsRxHLJGEEOE"
     },
     {
       "added_at": "2023-03-31 04:00:00",

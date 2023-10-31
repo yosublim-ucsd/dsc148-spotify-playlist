@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Sofía Macchi
 
-274 songs - 14 hr 59 min
+275 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Corazón](https://open.spotify.com/track/57druALZuNFipo15C2uiHQ) | [Imaina](https://open.spotify.com/artist/2LCUXnW5e5TubrF6OJJwCu) | [Corazón](https://open.spotify.com/album/4TmwigR6q4r2S26W1McDed) | 3:18 | 2022-05-20 | 2023-05-20 |
 | [Coronita](https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV) | [Ignacio Arocena](https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9) | [Coronita](https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms) | 3:43 | 2022-05-20 | 2023-05-20 |
 | [Cosas raras \(feat\. Pimp Flaco\)](https://open.spotify.com/track/6b7U0cQstqjoRLA2Xpd3Dg) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Pinta y Colorea](https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI) | 4:17 | 2022-05-20 | 2023-04-15 |
-| [Cruzandonos](https://open.spotify.com/track/4zhcfWikicy2IwCj2dWr6n) | [Rosario Serafin](https://open.spotify.com/artist/68xFPvHGNPEL9g4LsdxTaM) | [Cruzandonos](https://open.spotify.com/album/5zxq4FdqVgfSXWWYVxnTTY) | 3:35 | 2023-05-12 |  |
+| [Cruzandonos](https://open.spotify.com/track/4zhcfWikicy2IwCj2dWr6n) | [Rosario Serafin](https://open.spotify.com/artist/68xFPvHGNPEL9g4LsdxTaM) | [Cruzandonos](https://open.spotify.com/album/5zxq4FdqVgfSXWWYVxnTTY) | 3:35 | 2023-05-12 | 2023-10-31 |
 | [CTM](https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [CTM](https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC) | 3:21 | 2022-05-20 | 2023-05-10 |
 | [Cualquiera](https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Cualquiera](https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD) | 3:31 | 2022-11-11 | 2023-06-24 |
 | [Cuando Empecé a Quererte](https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a) | [Gamuza](https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D) | [Cuando Empecé a Quererte](https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw) | 3:05 | 2023-05-26 |  |
@@ -85,6 +85,7 @@
 | [Días En Casa](https://open.spotify.com/track/2psoGV7y4CIpqdqjTCL6jK) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Días En Casa](https://open.spotify.com/album/6v6HHXpXjmwo2gA1S1gPuk) | 3:05 | 2023-05-12 | 2023-10-27 |
 | [El Alma](https://open.spotify.com/track/6rr5SobYOQHv1fvGf6CJNS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [El Alma](https://open.spotify.com/album/1xuqb5fCz6MQydTGNsEyCU) | 2:55 | 2022-05-20 | 2023-04-15 |
 | [El Film](https://open.spotify.com/track/4Ikzz30en6rryWBSbmEhEp) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [El Film](https://open.spotify.com/album/19vRdobmb1a70CE4YuFPbT) | 3:01 | 2023-07-14 | 2023-10-07 |
+| [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 | 2023-10-26 |  |
 | [El Golpe](https://open.spotify.com/track/0xaFoCtIDOGIYZbv0Ptfli) | [Avepez](https://open.spotify.com/artist/5rErs8ODO5tJwXT53QeMMV), [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [El Golpe](https://open.spotify.com/album/2mM9AGAvBdr7AuS6Rmluv6) | 3:13 | 2023-05-12 | 2023-06-24 |
 | [El Momento Perfecto](https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Momento Perfecto](https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS) | 3:21 | 2022-05-20 | 2023-04-15 |
 | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh) | 2:05 | 2023-04-21 |  |

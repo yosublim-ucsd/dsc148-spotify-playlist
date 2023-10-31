@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 259758,
+  "num_followers": 259852,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTk0YTc3OTJkMTg5ZDI1MTkwMThhMTNlM2VhNGU5YThhMjQ4OTg2",
+  "snapshot_id": "MCw4NmJhNDUzYjMyMTliMDg1NzAzN2U4MjAwZWUxYWU1YWY2Y2IzOTZi",
   "tracks": [
     {
       "added_at": "2021-02-10 17:52:46",
@@ -439,38 +439,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -483,6 +451,22 @@
       "duration_ms": 245826,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -503,18 +487,18 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+      "duration_ms": 231666,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -583,6 +567,22 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -599,38 +599,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "This I Promise You",
-      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Confessions Part II",
-      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Heavier Things",
         "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
       },
@@ -643,6 +611,22 @@
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "This I Promise You",
+      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -679,22 +663,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Feels Like Today",
         "url": "https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy"
       },
@@ -711,6 +679,38 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Confessions Part II",
+      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "Never Gone",
         "url": "https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 239586,
       "name": "Incomplete",
       "url": "https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "The Heart of Life",
+      "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -775,18 +791,18 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 198200,
-      "name": "The Heart of Life",
-      "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
+      "duration_ms": 249146,
+      "name": "If I Were a Boy",
+      "url": "https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -803,6 +819,22 @@
       "duration_ms": 249120,
       "name": "Collide",
       "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 285053,
+      "name": "Stop This Train",
+      "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -835,22 +867,6 @@
       "duration_ms": 240492,
       "name": "Never Had A Dream Come True",
       "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 249146,
-      "name": "If I Were a Boy",
-      "url": "https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i"
     },
     {
       "added_at": "2022-04-19 14:07:15",
@@ -935,22 +951,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 285053,
-      "name": "Stop This Train",
-      "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Take It All Away (U.S. Version)",
         "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
       },
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/3PJivN5BZ2ckFa22igIu4a"
     },
     {
-      "added_at": "2022-04-19 14:07:15",
-      "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
-    },
-    {
       "added_at": "2021-02-10 17:52:46",
       "album": {
         "name": "Celebrity",
@@ -1043,6 +1027,22 @@
       "duration_ms": 292000,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI"
+    },
+    {
+      "added_at": "2022-04-19 14:07:15",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "A Moment Like This",
-      "url": "https://open.spotify.com/track/4kvdX9zzsix7jYHsRVkVUH"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Oops!... I Did It Again",
         "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 230933,
       "name": "Don't Let Me Be the Last to Know",
       "url": "https://open.spotify.com/track/3OitWDgR4SzAUOm3TBmvhw"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "A Moment Like This",
+      "url": "https://open.spotify.com/track/4kvdX9zzsix7jYHsRVkVUH"
     }
   ],
   "unique_name": "00s Ballads",

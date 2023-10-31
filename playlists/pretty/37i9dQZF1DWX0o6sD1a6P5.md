@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,510 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,812 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
 | 50 | [Faut pas flipper \(feat\. Vegedream\)](https://open.spotify.com/track/2gInYqDUknSlU5CBgPKEiv) | [Junior Bvndo](https://open.spotify.com/artist/58lWi9l7zeTHdUz6Glzm9p), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Faut pas flipper \(feat\. Vegedream\)](https://open.spotify.com/album/5TvUdciYK3xUuJHmrscFbg) | 2:56 |
 
-Snapshot ID: `MCw0OWRlZjZmOTVlZTA4YmRlODM1ZGRmM2YzOWNhMjg3YjVjNmZiMzFm`
+Snapshot ID: `MCw2M2IwYjI1Yjk1YTAxZDE0OWMxOWJkNzUwNGYxYmYyZmZhNGI4Y2E5`

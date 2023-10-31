@@ -1,12 +1,12 @@
 {
   "description": "A sizzling hot soundtrack for your sunshine social.",
-  "num_followers": 634982,
+  "num_followers": 634958,
   "original_name": "Summer BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWFjZWVjMDk2YTljZGFjNTk0OGYyMGFhZjc5MjE5OGYyMzI5ZTA1",
+  "snapshot_id": "MCxiYjY1NGVmMDBhYjBhN2VkZjRhMjZhMjlhMTE2NDJkYThhYmNmNzMy",
   "tracks": [
     {
       "added_at": "2023-05-23 14:59:14",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
         "name": "Black Sunday",
         "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 208266,
       "name": "Insane in the Brain",
       "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 230000,
       "name": "Hypnotize - 2007 Remaster",
       "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
-        "name": "Green Onions",
-        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -655,34 +655,18 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
         }
       ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+      "duration_ms": 176333,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -703,18 +687,18 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 249866,
-      "name": "Big Poppa - 2007 Remaster",
-      "url": "https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO"
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -795,6 +779,22 @@
       "duration_ms": 215800,
       "name": "In the Summertime",
       "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "Big Poppa - 2007 Remaster",
+      "url": "https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
         "name": "Everybody Loves The Sunshine (Reissue)",
         "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "Bloody Tourists",
-        "url": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Dreadlock Holiday",
-      "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
         "name": "Elvis 30 #1 Hits (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 213240,
       "name": "A Little Less Conversation - JXL Radio Edit Remix",
       "url": "https://open.spotify.com/track/3j4viUIDSuB4xfYYlp3Lpa"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
+        "name": "Bloody Tourists",
+        "url": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Dreadlock Holiday",
+      "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
     },
     {
       "added_at": "2023-05-23 14:59:14",

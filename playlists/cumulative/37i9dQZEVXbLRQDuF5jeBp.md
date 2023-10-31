@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- USA.
 
-3,029 songs - 6 day 23 hr 55 min
+3,030 songs - 7 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2632,7 +2632,7 @@
 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 | 2023-04-29 | 2023-05-02 |
 | [Things Change](https://open.spotify.com/track/0LLsvPLHxlUk1x8r77H2b6) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 3:34 | 2020-10-04 | 2020-10-05 |
 | [Thinking with My Dick \(feat\. Juicy J\)](https://open.spotify.com/track/1ojBtNRMzjL7ptLPZCzfRz) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Stranger Than Fiction](https://open.spotify.com/album/21mA8C6F0OS2MVUaDEMnia) | 2:45 | 2022-03-10 | 2022-04-05 |
-| [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-03-04 |  |
+| [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-03-04 | 2023-10-31 |
 | [THIQUE](https://open.spotify.com/track/1LCm0lFnEsxR2oPqyHLGX9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:04 | 2022-07-30 | 2022-08-05 |
 | [This Ain't That](https://open.spotify.com/track/07NMFSwppnky8JyIQIxAQZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 3:27 | 2019-11-24 | 2019-11-25 |
 | [This Bar](https://open.spotify.com/track/075qcpR3BnxD5CWUIx1HTr) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:05 | 2021-01-10 | 2021-01-12 |
@@ -2655,6 +2655,7 @@
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-23 | 2022-05-12 |
 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:51 | 2023-03-11 | 2023-03-13 |
 | [Thriller](https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 5:57 | 2019-11-02 | 2022-11-03 |
+| [Thriller](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:57 | 2023-10-30 |  |
 | [Thriller \- 2003 Edit](https://open.spotify.com/track/0wQy2OO7jKjm0OOmA7gv3f) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 5:11 | 2021-11-02 | 2022-11-03 |
 | [Throw It Away](https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:31 | 2021-11-07 | 2021-11-09 |
 | [Thug Love](https://open.spotify.com/track/4MzhmCOgPB7xb87f1CXjlA) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:01 | 2020-02-16 | 2020-02-17 |

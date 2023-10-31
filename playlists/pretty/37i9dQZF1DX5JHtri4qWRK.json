@@ -1,12 +1,12 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 7866,
+  "num_followers": 7869,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmVlNDYwYTkwNmRlYmQyMDU0NmIxNmU2MTIwNWZkODEwNWYzZjAy",
+  "snapshot_id": "MCxiZTcyYWQ3ZjI3OWFlNTQ2ZjM2ZjQ5NmU5Yjg1MzM5MGNkOWEyYjBm",
   "tracks": [
     {
       "added_at": "2021-12-14 12:56:56",
@@ -247,26 +247,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "No Love (with SZA)",
-      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 264373,
       "name": "No Air (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Session 32",
-        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 98026,
-      "name": "Session 32",
-      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "B'Day Deluxe Edition",
         "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 270333,
       "name": "Un-Break My Heart",
       "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
         }
       ],
-      "duration_ms": 249013,
-      "name": "Try Sleeping with a Broken Heart",
-      "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
+      "duration_ms": 327693,
+      "name": "I Should Have Cheated",
+      "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
       "artists": [
         {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 327693,
-      "name": "I Should Have Cheated",
-      "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
+      "duration_ms": 249013,
+      "name": "Try Sleeping with a Broken Heart",
+      "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Don't Hurt Yourself (feat. Jack White)",
-      "url": "https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Comin' From Where I'm From",
         "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
@@ -1227,18 +1207,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Brian McKnight",
-        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
       "artists": [
         {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 295357,
-      "name": "One Last Cry",
-      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
+      "duration_ms": 233666,
+      "name": "Don't Hurt Yourself (feat. Jack White)",
+      "url": "https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Brian McKnight",
+        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "One Last Cry",
+      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE"
       },
@@ -1323,22 +1323,6 @@
       "duration_ms": 256426,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 224146,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1387,6 +1371,22 @@
       "duration_ms": 246293,
       "name": "Hallucinations",
       "url": "https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 224146,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Fear Of Flying",
-        "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
-      },
-      "artists": [
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 236826,
-      "name": "Case Of The Ex (Whatcha Gonna Do)",
-      "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Hard",
         "url": "https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 270880,
       "name": "Walked Outta Heaven",
       "url": "https://open.spotify.com/track/06ZDLodo1UDVavc3MXREZ3"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Fear Of Flying",
+        "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "duration_ms": 236826,
+      "name": "Case Of The Ex (Whatcha Gonna Do)",
+      "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
     },
     {
       "added_at": "2021-12-14 12:56:56",

@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: AK4:20.",
-  "num_followers": 150570,
+  "num_followers": 150595,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzMwYWZiZGRjYzc3MTlmN2FkZjUzMmI0ZWJlODYzMTdkMjgwOGVh",
+  "snapshot_id": "MCwwMDAyYmI0Y2ZjZWE3ZGI4MmEzMzYwYzBjN2ViOGYxYzk3YzlmNDkw",
   "tracks": [
     {
       "added_at": "2023-06-09 14:06:06",
@@ -207,30 +207,6 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 295176,
-      "name": "Safaera",
-      "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
         "name": "Gargolas 3",
         "url": "https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob"
       },
@@ -255,22 +231,46 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+      "duration_ms": 221103,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 295176,
+      "name": "Safaera",
+      "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -331,6 +331,42 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "Dime a Ver",
+        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 164078,
+      "name": "Dime a Ver",
+      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
         "name": "Los Legendarios 001",
         "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
       },
@@ -355,18 +391,18 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "Dime a Ver",
-        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
+        "name": "Dale Mecha",
+        "url": "https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F"
       },
       "artists": [
         {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
         }
       ],
-      "duration_ms": 164078,
-      "name": "Dime a Ver",
-      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
+      "duration_ms": 150829,
+      "name": "Dale Mecha",
+      "url": "https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -387,58 +423,6 @@
       "duration_ms": 243226,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "Dale Mecha",
-        "url": "https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 150829,
-      "name": "Dale Mecha",
-      "url": "https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "Historias de un Capricornio",
-        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 221103,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -471,22 +455,6 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
         "name": "Temporada de Reggaet\u00f3n",
         "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
@@ -499,6 +467,22 @@
       "duration_ms": 146815,
       "name": "TOP 5",
       "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -523,22 +507,18 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 194200,
-      "name": "PA' ROMPERLA",
-      "url": "https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i"
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -575,6 +555,26 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "PA' ROMPERLA",
+      "url": "https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
         "name": "Reggaeton",
         "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
       },
@@ -603,6 +603,26 @@
       "duration_ms": 195199,
       "name": "Hookah & Sheridan's",
       "url": "https://open.spotify.com/track/4xkDB35EeIYut4jRVpRp3Y"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "Sin Culpa (feat. DrefQuila)",
+        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 244771,
+      "name": "Sin Culpa (feat.DrefQuila)",
+      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -675,26 +695,6 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "Sin Culpa (feat. DrefQuila)",
-        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 244771,
-      "name": "Sin Culpa (feat.DrefQuila)",
-      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
         "name": "3G (Remix)",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 366613,
       "name": "3G - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "Morado",
-        "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Morado",
-      "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -827,6 +811,22 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
+        "name": "Morado",
+        "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Morado",
+      "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
         "name": "La Mentira (Remix)",
         "url": "https://open.spotify.com/album/1wFqv2q07zfETMmB1NMDyC"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
         "name": "Don Don",
         "url": "https://open.spotify.com/album/5xBO97P4jYEn69VzV06503"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "Armao 100pre Andamos",
-        "url": "https://open.spotify.com/album/2yfbawGIIVrP491lqNQG1y"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 188580,
-      "name": "Armao 100pre Andamos",
-      "url": "https://open.spotify.com/track/127Q567KlWtlo1pLsiXr3h"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
         "name": "Sola & Vac\u00eda",
         "url": "https://open.spotify.com/album/4J8ZqzL9bOmjkcmxVqqouk"
       },
@@ -955,6 +939,38 @@
       "duration_ms": 182675,
       "name": "Sola & Vac\u00eda",
       "url": "https://open.spotify.com/track/46V4kseB66GjFGklCgynGX"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "No Vuelvas M\u00e1s",
+        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "No Vuelvas M\u00e1s",
+      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "Armao 100pre Andamos",
+        "url": "https://open.spotify.com/album/2yfbawGIIVrP491lqNQG1y"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 188580,
+      "name": "Armao 100pre Andamos",
+      "url": "https://open.spotify.com/track/127Q567KlWtlo1pLsiXr3h"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1019,22 +1035,6 @@
       "duration_ms": 222301,
       "name": "Guayo",
       "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "No Vuelvas M\u00e1s",
-        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "No Vuelvas M\u00e1s",
-      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
+        "name": "Rata Tan Tan",
+        "url": "https://open.spotify.com/album/0i7LxLqsHbR0lz6MJQyZt1"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 152731,
+      "name": "Rata Tan Tan",
+      "url": "https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
         "name": "Las Naik",
         "url": "https://open.spotify.com/album/2ey20BXoeTVyPXLJXIIn8b"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 239586,
       "name": "Perreo Intenso",
       "url": "https://open.spotify.com/track/4B2kFp1ulVz1FgwVYSShoj"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "Rata Tan Tan",
-        "url": "https://open.spotify.com/album/0i7LxLqsHbR0lz6MJQyZt1"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 152731,
-      "name": "Rata Tan Tan",
-      "url": "https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD"
     },
     {
       "added_at": "2023-06-09 14:06:06",

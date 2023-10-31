@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 42112,
+  "num_followers": 42136,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGM1YTUwN2IwNjQyOWZlN2ZhMWE3MGZmOGY5ODk2ZjA5ZDkxYTAy",
+  "snapshot_id": "MCwxZjQ3MDFmNzMzYTQ5OGI5ODE3OGEzOWE5MjNkMzM5NjQyYjNkN2U2",
   "tracks": [
     {
       "added_at": "2023-10-27 08:09:47",
@@ -119,22 +119,18 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Habitat Cielo",
-        "url": "https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc"
+        "name": "c@ra++ere s?ec!@le",
+        "url": "https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah"
       },
       "artists": [
         {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
-        },
-        {
-          "name": "Sick Budd",
-          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
         }
       ],
-      "duration_ms": 156144,
-      "name": "Grazie, Addio",
-      "url": "https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik"
+      "duration_ms": 125089,
+      "name": "molecole (interlude)",
+      "url": "https://open.spotify.com/track/0tmPvw4tjjtUEKZ9GOKjHH"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -155,18 +151,18 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "c@ra++ere s?ec!@le",
-        "url": "https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah"
+        "name": "Spazio",
+        "url": "https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p"
       },
       "artists": [
         {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
         }
       ],
-      "duration_ms": 125089,
-      "name": "molecole (interlude)",
-      "url": "https://open.spotify.com/track/0tmPvw4tjjtUEKZ9GOKjHH"
+      "duration_ms": 179541,
+      "name": "Amianto",
+      "url": "https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -187,38 +183,42 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Spazio",
-        "url": "https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p"
+        "name": "14",
+        "url": "https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk"
       },
       "artists": [
         {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+          "name": "Jayred",
+          "url": "https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08"
+        },
+        {
+          "name": "yuks",
+          "url": "https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd"
         }
       ],
-      "duration_ms": 179541,
-      "name": "Amianto",
-      "url": "https://open.spotify.com/track/5FeDmOkJlmFcb8arUhMi87"
+      "duration_ms": 110750,
+      "name": "14",
+      "url": "https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ"
     },
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Un bacio (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6yrXXxGeHilQRiiNPXuPYh"
+        "name": "Habitat Cielo",
+        "url": "https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc"
       },
       "artists": [
         {
-          "name": "Nayt",
-          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
         },
         {
-          "name": "3D",
-          "url": "https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN"
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Lulu - Acoustic Version",
-      "url": "https://open.spotify.com/track/4qfhJANVbltHdayStVa2lg"
+      "duration_ms": 156144,
+      "name": "Grazie, Addio",
+      "url": "https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -243,22 +243,22 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk"
+        "name": "Un bacio (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6yrXXxGeHilQRiiNPXuPYh"
       },
       "artists": [
         {
-          "name": "Jayred",
-          "url": "https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08"
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
         },
         {
-          "name": "yuks",
-          "url": "https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd"
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN"
         }
       ],
-      "duration_ms": 110750,
-      "name": "14",
-      "url": "https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ"
+      "duration_ms": 206250,
+      "name": "Lulu - Acoustic Version",
+      "url": "https://open.spotify.com/track/4qfhJANVbltHdayStVa2lg"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
+        "name": "Per starci in due",
+        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Per starci in due",
+      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
         "name": "Favole",
         "url": "https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi"
       },
@@ -411,38 +427,6 @@
       "duration_ms": 232800,
       "name": "\u00c8 Andata Cos\u00ec",
       "url": "https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
-        "name": "FIORI MORTI",
-        "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
-      },
-      "artists": [
-        {
-          "name": "PSICOLOGI",
-          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
-        }
-      ],
-      "duration_ms": 136313,
-      "name": "FIORI MORTI",
-      "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
-        "name": "Per starci in due",
-        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Per starci in due",
-      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -499,6 +483,38 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
+        "name": "Tu mi fai bene",
+        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 117190,
+      "name": "Tu mi fai bene",
+      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
+        "name": "FIORI MORTI",
+        "url": "https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O"
+      },
+      "artists": [
+        {
+          "name": "PSICOLOGI",
+          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
+        }
+      ],
+      "duration_ms": 136313,
+      "name": "FIORI MORTI",
+      "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
         "name": "Sedato e Deluso",
         "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Tu mi fai bene",
-        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 117190,
-      "name": "Tu mi fai bene",
-      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
         "name": "Volevo dirti",
         "url": "https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM"
       },
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
+        "name": "Scusa ma",
+        "url": "https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 101818,
+      "name": "Scusa ma",
+      "url": "https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
         "name": "Tutto o niente 2",
         "url": "https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 143157,
       "name": "Tutto o niente 2",
       "url": "https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
-        "name": "Testa e cuore",
-        "url": "https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ"
-      },
-      "artists": [
-        {
-          "name": "Incubo",
-          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
-        }
-      ],
-      "duration_ms": 184087,
-      "name": "Sei stata la canzone pi\u00f9 bella del mondo",
-      "url": "https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Amelie",
-        "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
+        "name": "Testa e cuore",
+        "url": "https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ"
       },
       "artists": [
         {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+          "name": "Incubo",
+          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
         }
       ],
-      "duration_ms": 198857,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
+      "duration_ms": 184087,
+      "name": "Sei stata la canzone pi\u00f9 bella del mondo",
+      "url": "https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Scusa ma",
-        "url": "https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY"
+        "name": "Amelie",
+        "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
       },
       "artists": [
         {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
         }
       ],
-      "duration_ms": 101818,
-      "name": "Scusa ma",
-      "url": "https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm"
+      "duration_ms": 198857,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Non Mi Passa",
-        "url": "https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh"
-      },
-      "artists": [
-        {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
-        }
-      ],
-      "duration_ms": 136265,
-      "name": "Non Mi Passa",
-      "url": "https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
       },
@@ -995,22 +979,18 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Ceramica",
-        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
+        "name": "Non Mi Passa",
+        "url": "https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh"
       },
       "artists": [
         {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        },
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Ceramica",
-      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+      "duration_ms": 136265,
+      "name": "Non Mi Passa",
+      "url": "https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1063,6 +1043,26 @@
       "duration_ms": 200571,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
+        "name": "Ceramica",
+        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        },
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Ceramica",
+      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "FARSI MALE A NOI VA BENE",
-        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
+        "name": "Amor proprio",
+        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
       },
       "artists": [
         {
-          "name": "bnkr44",
-          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 116933,
-      "name": "(SEMBRA BELLO)",
-      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
+      "duration_ms": 109357,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "Amor proprio",
-        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+        "name": "FARSI MALE A NOI VA BENE",
+        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
         }
       ],
-      "duration_ms": 109357,
-      "name": "Ricordi",
-      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
+      "duration_ms": 116933,
+      "name": "(SEMBRA BELLO)",
+      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1363,6 +1363,42 @@
       "duration_ms": 216000,
       "name": "Lettera (interlude)",
       "url": "https://open.spotify.com/track/6NtwXat2WQtAgRsmYpVysr"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
+        "name": "ME & YOU",
+        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
+      },
+      "artists": [
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
+        {
+          "name": "Friman",
+          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
+        }
+      ],
+      "duration_ms": 137008,
+      "name": "ME & YOU",
+      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1407,58 +1443,18 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "ME & YOU",
-        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
-      },
-      "artists": [
-        {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
-        },
-        {
-          "name": "Friman",
-          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
-        }
-      ],
-      "duration_ms": 137008,
-      "name": "ME & YOU",
-      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
-        "name": "Non piover\u00e0 per sempre",
-        "url": "https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm"
+        "name": "setiva",
+        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
       },
       "artists": [
         {
           "name": "Elteep",
           "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        },
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Non piover\u00e0 per sempre",
-      "url": "https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA"
+      "duration_ms": 137137,
+      "name": "setiva",
+      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1615,18 +1611,22 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
-        "name": "setiva",
-        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
+        "name": "Non piover\u00e0 per sempre",
+        "url": "https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm"
       },
       "artists": [
         {
           "name": "Elteep",
           "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
         }
       ],
-      "duration_ms": 137137,
-      "name": "setiva",
-      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
+      "duration_ms": 189000,
+      "name": "Non piover\u00e0 per sempre",
+      "url": "https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-10-27 08:09:47",
       "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/6MK8Grvo1obeWQThpRZ77E"
+      },
+      "artists": [
+        {
+          "name": "TB",
+          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
+        }
+      ],
+      "duration_ms": 195638,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/0msorSiyF2W6XKAllxBYhX"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
         "name": "Fragili",
         "url": "https://open.spotify.com/album/6ixktzZ4cFQkeewHAY8fjY"
       },
@@ -1687,42 +1703,6 @@
       "duration_ms": 167000,
       "name": "Fragili",
       "url": "https://open.spotify.com/track/6Y1wgVdi0sJ6JVM9rnL26K"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
-        "name": "NON SO CHI SIAMO",
-        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
-      },
-      "artists": [
-        {
-          "name": "Poet",
-          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
-        },
-        {
-          "name": "Pi Greco",
-          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
-        }
-      ],
-      "duration_ms": 171700,
-      "name": "NON SO CHI SIAMO",
-      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
-    },
-    {
-      "added_at": "2023-10-27 08:09:47",
-      "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/6MK8Grvo1obeWQThpRZ77E"
-      },
-      "artists": [
-        {
-          "name": "TB",
-          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
-        }
-      ],
-      "duration_ms": 195638,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/0msorSiyF2W6XKAllxBYhX"
     },
     {
       "added_at": "2023-10-27 08:09:47",
@@ -1755,6 +1735,26 @@
       "duration_ms": 127753,
       "name": "GOODBYE",
       "url": "https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X"
+    },
+    {
+      "added_at": "2023-10-27 08:09:47",
+      "album": {
+        "name": "NON SO CHI SIAMO",
+        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
+      },
+      "artists": [
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        },
+        {
+          "name": "Pi Greco",
+          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
+        }
+      ],
+      "duration_ms": 171700,
+      "name": "NON SO CHI SIAMO",
+      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
     }
   ],
   "unique_name": "ragazzo triste",

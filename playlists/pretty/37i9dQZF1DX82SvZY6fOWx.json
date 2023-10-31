@@ -1,12 +1,12 @@
 {
   "description": "Walk on sunshine or dance on the ceiling with some feel good 80s Pop!",
-  "num_followers": 237565,
+  "num_followers": 237635,
   "original_name": "80s Popped!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2ViODBkM2Q2N2NkNDQyMzFkM2I0MTU4MWRmNWRjOGVhMzU5ZDNi",
+  "snapshot_id": "MCwzNjQ3ZmM0YWUxZDM1ZjQ1Mjk0YzFjOTM0MWI5ZDk5YzAyNDE3NDI5",
   "tracks": [
     {
       "added_at": "2022-06-08 06:25:37",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2022-06-08 06:25:37",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
         "name": "Heart Shaped World",
         "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
       },
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
     },
     {
       "added_at": "2022-06-08 06:25:37",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -723,6 +739,22 @@
     {
       "added_at": "2022-06-08 06:25:37",
       "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
+    },
+    {
+      "added_at": "2022-06-08 06:25:37",
+      "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
       },
@@ -767,38 +799,6 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
-        "name": "The Singles (Expanded)",
-        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
-    },
-    {
-      "added_at": "2022-06-08 06:25:37",
-      "album": {
-        "name": "Somebody\u2019s Watching Me (Sped Up)",
-        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Somebody's Watching Me - Single Version",
-      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
     },
     {
       "added_at": "2022-06-08 06:25:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Les hits algériens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,105 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,159 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 49 | [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 |
 | 50 | [Toi & moi \(feat\. Mok Saib\) \- version acoustique](https://open.spotify.com/track/0W4h9LlrLvqE6B9u7KWdBz) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:19 |
 
-Snapshot ID: `MCw4YWZiNzExZjI1MTc5YWY5ZTA0MTQxMmVmYWIwYzIxYzI4MmIyMDg4`
+Snapshot ID: `MCwyN2RhNTM3ZGU0OGQ1OTU1NTQ4NzcwOTgzNDJjMmJkZDVjYTUxNjdi`

@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 444443,
+  "num_followers": 444651,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDg5OGVkNDJhYTAzODRjYTg1ZTVhMzE3YjhmZjE5MGZiNWI4M2I4",
+  "snapshot_id": "MCw1ODhjYzNjMDI3NWEzZWY1NDg4M2NlZTIxMjI2MDFmYzI3ZTBlOTdh",
   "tracks": [
     {
       "added_at": "2023-10-20 15:30:52",
@@ -495,26 +495,22 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
-        "name": "Out The Fire (At The Hotel)",
-        "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
+        "name": "Shades Of Love (feat. The Joy)",
+        "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
         },
         {
-          "name": "Ros T",
-          "url": "https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO"
-        },
-        {
-          "name": "Eunice Collins",
-          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
         }
       ],
-      "duration_ms": 214687,
-      "name": "Out The Fire (At The Hotel) - Radio Edit",
-      "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
+      "duration_ms": 203520,
+      "name": "Shades Of Love (feat. The Joy)",
+      "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
     },
     {
       "added_at": "2023-10-20 15:30:52",
@@ -535,22 +531,26 @@
     {
       "added_at": "2023-10-20 15:30:52",
       "album": {
-        "name": "Shades Of Love (feat. The Joy)",
-        "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
+        "name": "Out The Fire (At The Hotel)",
+        "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
       },
       "artists": [
         {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
         },
         {
-          "name": "The Joy",
-          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+          "name": "Ros T",
+          "url": "https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO"
+        },
+        {
+          "name": "Eunice Collins",
+          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Shades Of Love (feat. The Joy)",
-      "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
+      "duration_ms": 214687,
+      "name": "Out The Fire (At The Hotel) - Radio Edit",
+      "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
     },
     {
       "added_at": "2023-10-20 15:30:52",

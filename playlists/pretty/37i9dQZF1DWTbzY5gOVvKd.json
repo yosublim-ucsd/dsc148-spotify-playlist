@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1201247,
+  "num_followers": 1201405,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDI3MjdiZDU4MzI3YTczNWM1NjM3OTMyNWI2MDM2ODdhNzc5ZjFi",
+  "snapshot_id": "MCwyMDE2NGI3M2Q2N2ViM2JkMmI5ZDZhNWVmY2I0ZmVkNTY0OGY5YjVh",
   "tracks": [
     {
       "added_at": "2023-10-25 08:47:16",
@@ -127,38 +127,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Dance Of Time",
         "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
       },
@@ -195,6 +163,38 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
         "name": "Got You on My Mind",
         "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
@@ -211,22 +211,6 @@
       "duration_ms": 182508,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/4YzVZ67bjyhs1BylmBZDzx"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 319226,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -299,6 +283,22 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
         "name": "Haven't We Met?",
         "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Flirting With Twilight",
-        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 262026,
-      "name": "Moonlight Serenade",
-      "url": "https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Around The City",
         "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 240413,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Flirting With Twilight",
+        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "Moonlight Serenade",
+      "url": "https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Jim Tomlinson",
-          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
-        }
-      ],
-      "duration_ms": 208373,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/1PZAvwzzhQrK85uQhUXIR4"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "To Love Again",
         "url": "https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 240120,
       "name": "Are You Lonesome Tonight? (feat. Paul Buchanan)",
       "url": "https://open.spotify.com/track/7FWEDbQYuQtR1DhATgXxRg"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Jim Tomlinson",
+          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
+        }
+      ],
+      "duration_ms": 208373,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/1PZAvwzzhQrK85uQhUXIR4"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Ain't No Sunshine / My One and Only Love",
-        "url": "https://open.spotify.com/album/2nnI1qx6N43Hyr8TbLmblC"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 280706,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Nat \"King\" Cole & Me",
         "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 128520,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Ain't No Sunshine / My One and Only Love",
+        "url": "https://open.spotify.com/album/2nnI1qx6N43Hyr8TbLmblC"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 280706,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Language of Love",
-        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 213447,
-      "name": "There You Are (Second Chance)",
-      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "For One to Love",
         "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
       },
@@ -835,8 +819,8 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Language Of Love",
-        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
+        "name": "Language of Love",
+        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
       },
       "artists": [
         {
@@ -844,9 +828,9 @@
           "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 256174,
-      "name": "Language Of Love",
-      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
+      "duration_ms": 213447,
+      "name": "There You Are (Second Chance)",
+      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -923,22 +907,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 367453,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Date With A Dream",
         "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
       },
@@ -951,6 +919,22 @@
       "duration_ms": 252081,
       "name": "At Last",
       "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 367453,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1003,18 +987,18 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Every Star Above",
-        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
+        "name": "Language Of Love",
+        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
       },
       "artists": [
         {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 173360,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
+      "duration_ms": 256174,
+      "name": "Language Of Love",
+      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1031,6 +1015,22 @@
       "duration_ms": 207733,
       "name": "Moonlight Becomes You",
       "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Blame It On My Youth",
-        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "Come Closer",
-        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
       },
       "artists": [
         {
-          "name": "Kat Gang",
-          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 178426,
-      "name": "People Will Say We're In Love",
-      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
+      "duration_ms": 222106,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1323,6 +1307,22 @@
       "duration_ms": 423013,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
+      },
+      "artists": [
+        {
+          "name": "Kat Gang",
+          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "People Will Say We're In Love",
+      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
     },
     {
       "added_at": "2023-10-25 08:47:16",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-10-25 08:47:16",
       "album": {
-        "name": "In The Moonlight",
-        "url": "https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL"
-      },
-      "artists": [
-        {
-          "name": "Sophie Milman",
-          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Prelude To A Kiss",
-      "url": "https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87"
-    },
-    {
-      "added_at": "2023-10-25 08:47:16",
-      "album": {
         "name": "An Englishman in Love in LA",
         "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 176573,
       "name": "The Touch of Your Lips",
       "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
+    },
+    {
+      "added_at": "2023-10-25 08:47:16",
+      "album": {
+        "name": "In The Moonlight",
+        "url": "https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL"
+      },
+      "artists": [
+        {
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Prelude To A Kiss",
+      "url": "https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87"
     },
     {
       "added_at": "2023-10-25 08:47:16",

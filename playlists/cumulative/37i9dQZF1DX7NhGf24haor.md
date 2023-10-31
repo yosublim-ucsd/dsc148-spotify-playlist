@@ -4,7 +4,7 @@
 
 > Updated weekly \| Hardstyle \| Cover: Coone
 
-624 songs - 1 day 10 hr 14 min
+627 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bass Squad](https://open.spotify.com/track/7AZ3MHFkThHcwbweIFO6Ms) | [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC), [Alpha](https://open.spotify.com/artist/21OmTx39RbTeTYzeCR0O0F) | [Bass Squad](https://open.spotify.com/album/2arwGRuq47jdNeTCTLJcOv) | 3:32 | 2023-02-09 | 2023-03-31 |
 | [Bassline Rampage](https://open.spotify.com/track/75zBDtdf6l36bKNP6cCuR4) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa), [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Bassline Rampage](https://open.spotify.com/album/5XANwJKyvXOc3kAktvhyZG) | 3:02 | 2023-06-15 | 2023-08-17 |
 | [Bassride](https://open.spotify.com/track/7Hx4LfiaOZ8O89PVa1RpTl) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Dark Reality](https://open.spotify.com/album/1cOYWau4urMqLvpZGdy0CV) | 3:50 | 2023-10-12 |  |
+| [Beatbox Rocker](https://open.spotify.com/track/65QR5zWJ17jqNafWA4fuip) | [Maltorian](https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5) | [Beatbox Rocker](https://open.spotify.com/album/4a8PMWyKo7HUIEWqwQihgK) | 2:52 | 2023-10-30 |  |
 | [Beg For You](https://open.spotify.com/track/1yVvD5Cx7CIY61DbS6SBma) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA) | [Beg For You](https://open.spotify.com/album/2D28gqCRaVqTsVHiMPQ6Ro) | 2:40 | 2023-05-18 | 2023-08-17 |
 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 | 2022-12-08 | 2023-02-10 |
 | [Belong](https://open.spotify.com/track/323d3O5e15GaC8so3eN1wo) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [It's All About The Music EP PT.1](https://open.spotify.com/album/3ncyZrQal4KAcIsModGp4s) | 3:40 | 2022-12-08 | 2022-12-16 |
@@ -107,6 +108,7 @@
 | [Darkest Hour \(The Clock\)](https://open.spotify.com/track/5DWoPJxISs9VMRCJBzujB6) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Darkest Hour \(The Clock\)](https://open.spotify.com/album/4eI1N5KbjJ5j4Mfa8yZPhM) | 4:01 | 2023-06-18 | 2023-06-26 |
 | [Darkest Night](https://open.spotify.com/track/4F0hY9s0LJ6KQPhWRVFNPh) | [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU), [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Darkest Night](https://open.spotify.com/album/2cQJAXfHrBBrevTmetmOTb) | 3:24 | 2023-02-09 | 2023-05-26 |
 | [Darkside](https://open.spotify.com/track/6Fzn8WOBnpiPnNxjP9Ghew) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Ncrypta](https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6), [GLDY LX](https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl), [Alter Ego](https://open.spotify.com/artist/455mf4vICIi2dYQrH59xh8) | [Darkside](https://open.spotify.com/album/4488v5b9SKQz5NF4fxteZ6) | 3:51 | 2022-12-15 | 2023-02-24 |
+| [Das Ist Kein Techno](https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Das Ist Kein Techno](https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m) | 2:45 | 2023-10-30 |  |
 | [Day & Night](https://open.spotify.com/track/3Kv2lE050pblqyTMuxCFMe) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [Day & Night](https://open.spotify.com/album/7f9kvVgYzIrkycQ11LkZ7Z) | 2:51 | 2023-04-06 | 2023-05-09 |
 | [Dead Or Alive](https://open.spotify.com/track/5hY8EYoOnN5aLdNymjBtGA) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Dead Or Alive](https://open.spotify.com/album/5itpFQfq0ZpU2Yp3xU6411) | 3:48 | 2023-09-21 |  |
 | [Death Or Glory](https://open.spotify.com/track/4PQ0ckfbPTkcxzFiIXAzG3) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Death Or Glory](https://open.spotify.com/album/4hWYpsuKXpJ0YYRJAaAPFB) | 3:41 | 2022-12-22 | 2023-03-31 |
@@ -238,6 +240,7 @@
 | [I Like To Party](https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [I Like To Party](https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ) | 2:39 | 2022-12-08 | 2023-01-13 |
 | [I Miss Those Days](https://open.spotify.com/track/0N4kiKWiyXKgHZ7GMiaSHv) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [I Miss Those Days](https://open.spotify.com/album/6YJBBnIGsH0TdlQyVuHHkj) | 3:15 | 2022-12-08 | 2023-01-13 |
 | [I Raise My Glass](https://open.spotify.com/track/5qpd9dnhtOojDgdA29BhfO) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [I Raise My Glass](https://open.spotify.com/album/1EwZ1JlLnsa8K74n4FDI27) | 3:23 | 2023-02-02 | 2023-02-24 |
+| [I Want It All](https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [I Want It All](https://open.spotify.com/album/5VqugzmPIecQ6AD9ld0hfe) | 3:02 | 2023-10-30 |  |
 | [I'll be fine](https://open.spotify.com/track/2dqTlgUaIJgufoaRSCKbDa) | [Mirisz](https://open.spotify.com/artist/2uGfa8SP7ICbWj3hxaSnoH) | [I´ll be fine](https://open.spotify.com/album/06X5BvNmFim7e14jxJuL7r) | 3:17 | 2023-04-20 | 2023-07-28 |
 | [I'm A Fighter](https://open.spotify.com/track/5hNjuEnYs24E9OFlaxiEnj) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [I'm A Fighter](https://open.spotify.com/album/6wyPTU7HdVyxiUNa0TuYPh) | 3:29 | 2023-02-23 | 2023-03-31 |
 | [I'm Good](https://open.spotify.com/track/1fmErdHuX5yK4AUWwH6v67) | [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx), [Earsquaker](https://open.spotify.com/artist/76bxY8Zg5tjHCWkuRAbOFT), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde) | [I'm Good](https://open.spotify.com/album/6Otf86kS5TF6YbFiOBDWRV) | 2:36 | 2022-12-08 | 2023-01-27 |

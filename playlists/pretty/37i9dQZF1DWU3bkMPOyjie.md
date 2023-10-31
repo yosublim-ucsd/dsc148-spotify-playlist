@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 25 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,649 likes - 78 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,642 likes - 78 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 38 | [Jaded](https://open.spotify.com/track/6uhj7EIZZm3OwVr0gWfkQn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC) | 3:35 |
 | 39 | [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF) | 3:13 |
 | 40 | [Walking Barefoot](https://open.spotify.com/track/3fHVOcAV12GY8nOjWA8OUh) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [Free All Angels](https://open.spotify.com/album/1V9N1HV53xOfL2ebYXxkOu) | 4:14 |
-| 41 | [Cruel Summer \(Bananarama Cover\)](https://open.spotify.com/track/36CQeLoHzTh9QOc7yB0fs8) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | ["This Summer" B/W "Cruel Summer"](https://open.spotify.com/album/1Lr1MQ4BHb0gxZjC9gr8iK) | 2:50 |
+| 41 | [Cruel Summer](https://open.spotify.com/track/2KZIFxPPqWsaDQLGTJGmhC) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Misfits & Mistakes: Singles, B\-sides & Strays 2007–2023](https://open.spotify.com/album/4x9b7TLR0LGq2nSBqMITI9) | 2:50 |
 | 42 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
 | 43 | [Heaven 2.9](https://open.spotify.com/track/70ju11WAXAozZmB8WyJ09U) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Making Enemies Is Good](https://open.spotify.com/album/72iZGeLvhpedbqbdZ9uQPd) | 2:51 |
 | 44 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 77 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 |
 | 78 | [hot girls in good moods](https://open.spotify.com/track/3j9ERO1WUkVvU71sNFRDEt) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [The Rise and Fall of..\. Butch Walker and The Let's\-Go\-Out\-Tonites](https://open.spotify.com/album/3RmqVZPcYT5LUFQ6Kl5N4B) | 3:45 |
 
-Snapshot ID: `MCwzMTQ4MDk1OGFlYzQxMGEzMDgwYWI1MDAyY2U3YmU2OGJlNjhjYjBj`
+Snapshot ID: `MCwzMTM1NTRhMThiMWFiNzQzYTY1ZGM3N2NjOGQ1MjFkZjU0ZjQxZGMy`

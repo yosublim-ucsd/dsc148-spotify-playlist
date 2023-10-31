@@ -4,7 +4,7 @@
 
 > canzoni felici italiane e internazionali per un settembre preso bene ☀️
 
-330 songs - 16 hr 36 min
+331 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 | 2022-07-26 | 2022-09-24 |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 | 2022-05-06 | 2023-10-27 |
 | [Festa](https://open.spotify.com/track/5ZEFqQ8hVGdyMxddxu8Pa3) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [Mr\. Monkey](https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if) | [1002](https://open.spotify.com/album/4yAgalklvLqCmFJiYYZ58L) | 2:42 | 2022-05-06 | 2022-06-11 |
-| [Finché Non Mi Seppelliscono](https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:48 | 2022-10-21 |  |
+| [Finché Non Mi Seppelliscono](https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:48 | 2022-10-21 | 2023-10-31 |
 | [For Real](https://open.spotify.com/track/0BKzMLvouXW9khQeFiOOTz) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [For Real](https://open.spotify.com/album/0ZVVepHZetTkvVBzUqB1QT) | 3:01 | 2022-05-06 | 2022-07-27 |
 | [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:22 | 2022-10-14 | 2023-02-18 |
 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2022-11-08 |  |
@@ -295,6 +295,7 @@
 | [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 | 2022-07-15 | 2022-08-30 |
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-17 | 2023-04-23 |
 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2022-05-27 | 2023-10-25 |
+| [Sunday Best](https://open.spotify.com/track/1qYKWcEOrh2tM8PlgIm8K1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/5nX3zwIAgHttSudEHLTsAW) | 2:38 | 2023-10-26 |  |
 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 | 2022-09-23 |  |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2022-05-06 | 2022-07-29 |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-07-26 | 2023-06-24 |

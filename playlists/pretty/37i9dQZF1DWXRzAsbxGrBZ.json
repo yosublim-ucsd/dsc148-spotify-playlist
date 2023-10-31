@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 32344,
+  "num_followers": 32409,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjFmNmZmNWFlNzI3M2Y0ZWFjY2UzZTA2YTY5Zjc2Yzg0YzFhYzg4",
+  "snapshot_id": "MCxhNDBlMDQ0ZGEwNGJhMTAzMWY1Y2MxOTYyOWUzOTI4NjEzODZmMDA0",
   "tracks": [
     {
       "added_at": "2023-10-05 23:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "My Heartbeat For You",
         "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
       },
@@ -359,6 +343,22 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -431,46 +431,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "Synonymous",
-        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412813,
-      "name": "Synonymous",
-      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
-        },
-        {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
-        }
-      ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "Necessary",
         "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
       },
@@ -511,6 +471,22 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
+        "name": "Synonymous",
+        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412813,
+      "name": "Synonymous",
+      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
         "name": "OVGSREPUBLIC",
         "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
       },
@@ -543,6 +519,30 @@
       "duration_ms": 387494,
       "name": "To The World",
       "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
+        {
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
+        }
+      ],
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "I Rise Again",
-        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
-      },
-      "artists": [
-        {
-          "name": "Zico SA",
-          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
-        }
-      ],
-      "duration_ms": 556673,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "I Rise Again",
+        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
+      },
+      "artists": [
+        {
+          "name": "Zico SA",
+          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
+        }
+      ],
+      "duration_ms": 556673,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
     },
     {
       "added_at": "2023-10-05 23:00:00",

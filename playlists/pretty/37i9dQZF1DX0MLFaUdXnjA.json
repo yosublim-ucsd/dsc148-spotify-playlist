@@ -1,12 +1,12 @@
 {
   "description": "Keeping it lowkey with the best of today's chill pop. Cover: Lizzy McAlpine & Niall Horan",
-  "num_followers": 1830234,
+  "num_followers": 1830288,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDEwM2I0ZTBmODhjMTJjMGU1ZWEwNDlkMWFkYjlhYjRhYTI5Mzg5",
+  "snapshot_id": "MCw0NTgzNDljZDY0MWNlMTE5NGM2ZTgwZjUxZDJlZjE1YWU1ODdkOTg0",
   "tracks": [
     {
       "added_at": "2023-10-27 04:01:00",
@@ -27,6 +27,26 @@
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
       "added_at": "2023-10-27 04:01:00",

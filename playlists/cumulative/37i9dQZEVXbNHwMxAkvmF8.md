@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-934 songs - 2 day 0 hr 52 min
+935 songs - 2 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [Merry Christmas Everyone](https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone](https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa) | 3:40 | 2021-12-23 | 2022-12-29 |
 | [messzi világ szerkezete](https://open.spotify.com/track/4Z55llsKV24VTRpncDWVu8) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [messzi világ szerkezete](https://open.spotify.com/album/1VBilL2lA80IoK7jhmw4XJ) | 2:17 | 2021-10-31 | 2022-01-31 |
 | [Mesélek a bornak](https://open.spotify.com/track/2uD4Fw5DjWGMffAs7RWSmd) | [4s Street](https://open.spotify.com/artist/3W75Q3HN7adHVSjjRJX1ap) | [Szebb napok](https://open.spotify.com/album/72ZAk4R78fcO8rP5JCWI7m) | 3:37 | 2022-10-31 | 2022-11-20 |
+| [Mesélek a bornak](https://open.spotify.com/track/7guuxhxRSe7SDCYIkxodUx) | [4s Street](https://open.spotify.com/artist/3W75Q3HN7adHVSjjRJX1ap) | [Szebb napok](https://open.spotify.com/album/1DlFaOSzXwJTrq48Hd3urD) | 3:37 | 2023-10-30 |  |
 | [Mi a Helyzet](https://open.spotify.com/track/3wS46yqQZRyYtvXlRF37pR) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz) | [Holdvilág Club Hotel & Casino](https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS) | 3:48 | 2022-04-23 | 2022-04-25 |
 | [Mi Lesz?](https://open.spotify.com/track/7HonFfDSgvZiGe0s8i7dwo) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 3:20 | 2022-03-12 | 2022-03-21 |
 | [Miafasz](https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 3:13 | 2022-05-21 |  |
@@ -720,7 +721,7 @@
 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 | 2021-05-23 | 2021-05-24 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-07-01 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-08-14 |
-| [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-10-28 |  |
+| [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-10-28 | 2023-10-31 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-06-02 |
 | [seholse](https://open.spotify.com/track/3NSBh6qLvHPHMVoj4ET5Rc) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [Apu](https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN) | [seholse](https://open.spotify.com/album/4Tn7GiPLNrlrbadZRiZiKI) | 2:19 | 2023-07-11 | 2023-07-16 |
 | [seholse](https://open.spotify.com/track/520pvY0G0yZ9Jcwlhik7lD) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [Apu](https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN) | [Még nem](https://open.spotify.com/album/0M64Q9GZzg6qkP4gdJJiOW) | 2:19 | 2023-07-15 | 2023-10-29 |

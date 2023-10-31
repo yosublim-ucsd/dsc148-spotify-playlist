@@ -4,7 +4,7 @@
 
 > Chasing sunsets con buena música de fondo.
 
-81 songs - 4 hr 41 min
+82 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Cámara Lenta](https://open.spotify.com/track/4brctVrw130rY1DS3j0mZC) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Cámara Lenta](https://open.spotify.com/album/02Dl37emVo6TB4mO7UOU2Z) | 3:24 | 2023-10-27 |  |
 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 | 2023-03-10 |  |
 | [Daria](https://open.spotify.com/track/1N5gxXUVDRx7SIr6xN47zL) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Daria](https://open.spotify.com/album/6X6iitQfdcFj9dBmOjfGEy) | 3:43 | 2023-03-17 | 2023-04-02 |
-| [dejarse querer](https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:03 | 2023-03-10 |  |
+| [dejarse querer](https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:03 | 2023-03-10 | 2023-10-31 |
 | [Dejarte Ir](https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir También Es Amar](https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi) | 3:12 | 2023-03-10 |  |
 | [El Ding Dong](https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Ding Dong](https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp) | 2:39 | 2023-03-10 | 2023-10-30 |
 | [El Juego](https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP) | [Dante Ouviña](https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7) | [El Juego](https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH) | 2:48 | 2023-03-10 | 2023-03-26 |
@@ -43,6 +43,7 @@
 | [Hola Lola](https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Hola Lola](https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge) | 3:57 | 2023-03-10 | 2023-03-26 |
 | [Holidays](https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Holidays \- Chromocosmic Avenue](https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz) | 3:23 | 2023-03-10 |  |
 | [Insatisfecho](https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Pacific Jam At My Apartment](https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn) | 3:05 | 2023-03-10 |  |
+| [jardín de flores](https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [jardín de flores](https://open.spotify.com/album/2idEQxQV3mza8cCtCZQbW2) | 3:19 | 2023-10-27 |  |
 | [jardín de flores](https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [jardín de flores](https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi) | 3:19 | 2023-03-10 | 2023-10-27 |
 | [La Magia](https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 4:05 | 2023-03-10 |  |
 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 | 2023-03-10 |  |

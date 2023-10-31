@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#voorjou \#danceforme \#sino \#prada
 
-261 songs - 13 hr 3 min
+264 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Momenten Gekoesterd](https://open.spotify.com/track/4kO516FbjVKj67zX3Ymxhk) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Gevoelig Feestje](https://open.spotify.com/album/2It3C6VpmoUqbDxuyVyKpu) | 3:54 | 2023-10-12 |  |
 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 | 2023-05-04 | 2023-06-27 |
 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 | 2023-04-11 | 2023-05-08 |
+| [Monster](https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC) | 2:54 | 2023-10-30 |  |
 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 | 2023-04-11 |  |
 | [Move It](https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n) | 3:05 | 2023-09-07 |  |
 | [Move Ya Body](https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW) | [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Jabba](https://open.spotify.com/artist/6TL5LD7Gqmo99xssJEbQpA) | [Nina Sky](https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88) | 3:52 | 2023-02-23 | 2023-03-04 |
@@ -219,6 +220,7 @@
 | [Se Voce Nao Quer Passa a Vez](https://open.spotify.com/track/7snnTlaWaN39nfN1PhUaT8) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Se Voce Nao Quer Passa a Vez](https://open.spotify.com/album/7mSEULBduMtsKcy7w7QgWk) | 2:13 | 2023-02-23 | 2023-04-06 |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-04-18 | 2023-06-08 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-02 |  |
+| [SKEU SKEU \(feat\. wilsko & 7ia\) \- Speed Up](https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\) \[Speed Up\]](https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7) | 2:35 | 2023-10-30 |  |
 | [Smooth Operator \- Deep House Version](https://open.spotify.com/track/1JkERmjS5D99OmbjzInL1Z) | [Musique Boutique](https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC) | [Deep Factory Vol\. 3](https://open.spotify.com/album/2Dhp4iGHZ1GqiT63CYaZ7j) | 3:41 | 2023-06-12 | 2023-06-17 |
 | [Smooth Operator \- Deep House Version](https://open.spotify.com/track/6gkdWaZS8wCuv2fwB1f4v8) | [Musique Boutique](https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC) | [Smooth Operator](https://open.spotify.com/album/51pLeptQs24bS9CswmHLHp) | 3:41 | 2023-05-31 |  |
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2023-05-24 | 2023-06-01 |
@@ -263,6 +265,7 @@
 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 | 2023-03-01 | 2023-05-02 |
 | [Weg Van Hier \(feat\. Masri\)](https://open.spotify.com/track/6f0c32QKMYYI9wZsHeGG8E) | [Roxy Rosa](https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg), [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA) | [Weg Van Hier \(feat\. Masri\)](https://open.spotify.com/album/6faJaISL9OPyKU689w7A4z) | 2:28 | 2023-09-14 |  |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-02-23 | 2023-04-12 |
+| [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 | 2023-10-30 |  |
 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 | 2023-02-23 |  |
 | [Wie Ben Jij](https://open.spotify.com/track/2txPPrev1n79RlLuFh01lW) | [SBMG](https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr), [Rello](https://open.spotify.com/artist/3H6wISJt78QaXrvNSRr47V) | [Money En Gang En Mixtape](https://open.spotify.com/album/5xmTC3gfSq84ZvFQOvYk2T) | 4:46 | 2023-08-31 | 2023-09-30 |
 | [Wie Ben Jij \- Sped Up](https://open.spotify.com/track/5Wgkd6dgFvjLadervYGJHH) | [SBMG](https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr), [Rello](https://open.spotify.com/artist/3H6wISJt78QaXrvNSRr47V) | [Wie Ben Jij \(Sped Up\)](https://open.spotify.com/album/5HPvRGI723QNLimhjzXD9q) | 3:44 | 2023-09-29 |  |

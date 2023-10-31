@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
-  "num_followers": 95180,
+  "num_followers": 95370,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTgxYzYwMGI2YTE5YzM2YWI0NDhmOGY3N2FlM2IxZmFhYmQxZWU3",
+  "snapshot_id": "MCxjNmFhOTViYTM0MmQ5NDEyNmI0MjY5NDgyYTcxNmM5ZmY1MjczMTJi",
   "tracks": [
     {
       "added_at": "2023-10-05 21:35:19",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+    },
+    {
+      "added_at": "2023-10-05 21:35:19",
+      "album": {
         "name": "El Camino M\u00e1s Largo",
         "url": "https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX"
       },
@@ -223,18 +239,18 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+        "name": "Antihumano",
+        "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
         }
       ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+      "duration_ms": 259186,
+      "name": "Arrancacorazones",
+      "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
     },
     {
       "added_at": "2023-10-05 21:35:19",
@@ -255,6 +271,22 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
+    },
+    {
+      "added_at": "2023-10-05 21:35:19",
+      "album": {
         "name": "Mucho",
         "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
@@ -271,22 +303,6 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
-        "name": "Antihumano",
-        "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Arrancacorazones",
-      "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
-    },
-    {
-      "added_at": "2023-10-05 21:35:19",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 256190,
       "name": "M\u00edrenla",
       "url": "https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc"
-    },
-    {
-      "added_at": "2023-10-05 21:35:19",
-      "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Campanas en la Noche",
-      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
     },
     {
       "added_at": "2023-10-05 21:35:19",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Un Pacto - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
-    },
-    {
-      "added_at": "2023-10-05 21:35:19",
-      "album": {
         "name": "Despierta",
         "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 202360,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+    },
+    {
+      "added_at": "2023-10-05 21:35:19",
+      "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 295160,
+      "name": "Un Pacto - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
     },
     {
       "added_at": "2023-10-05 21:35:19",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
+        "name": "Naranja Persa",
+        "url": "https://open.spotify.com/album/7tUsFtOjoRAiu5uOHJfETd"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 271332,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/3nLL7rb00qmExkNTyJJqSv"
+    },
+    {
+      "added_at": "2023-10-05 21:35:19",
+      "album": {
         "name": "Karmagedon",
         "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
-        "name": "Naranja Persa",
-        "url": "https://open.spotify.com/album/7tUsFtOjoRAiu5uOHJfETd"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 271332,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/3nLL7rb00qmExkNTyJJqSv"
-    },
-    {
-      "added_at": "2023-10-05 21:35:19",
-      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 156738,
-      "name": "Nena, dime algo.",
-      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
-    },
-    {
-      "added_at": "2023-10-05 21:35:19",
-      "album": {
         "name": "Guerras (Un Viaje en el Tiempo)",
         "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+      "duration_ms": 156738,
+      "name": "Nena, dime algo.",
+      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
     },
     {
       "added_at": "2023-10-05 21:35:19",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+    },
+    {
+      "added_at": "2023-10-05 21:35:19",
+      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 228000,
       "name": "Roto",
       "url": "https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3"
-    },
-    {
-      "added_at": "2023-10-05 21:35:19",
-      "album": {
-        "name": "Esclavo",
-        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "Hay Momentos",
-      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
     },
     {
       "added_at": "2023-10-05 21:35:19",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
+        "name": "Esclavo",
+        "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Hay Momentos",
+      "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
+    },
+    {
+      "added_at": "2023-10-05 21:35:19",
+      "album": {
         "name": "Laberintos Entre Aristas Y Dialectos",
         "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
-        "name": "Coraz\u00f3n Delator",
-        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 261153,
-      "name": "Coraz\u00f3n Delator",
-      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
-    },
-    {
-      "added_at": "2023-10-05 21:35:19",
-      "album": {
         "name": "Llegando Los Monos",
         "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 341826,
       "name": "Hero\u00edna",
       "url": "https://open.spotify.com/track/7ERzS9KIggtCp9oslPzEc0"
+    },
+    {
+      "added_at": "2023-10-05 21:35:19",
+      "album": {
+        "name": "Coraz\u00f3n Delator",
+        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Coraz\u00f3n Delator",
+      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
     },
     {
       "added_at": "2023-10-05 21:35:19",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-10-05 21:35:19",
       "album": {
-        "name": "Dejo Atr\u00e1s",
-        "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
+        "name": "Mec\u00e1nica Popular",
+        "url": "https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Dejo Atr\u00e1s",
-      "url": "https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM"
+      "duration_ms": 284451,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX"
     }
   ],
   "unique_name": "Baladas Rock",

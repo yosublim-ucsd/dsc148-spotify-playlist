@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Moderatto en portada.",
-  "num_followers": 515035,
+  "num_followers": 515131,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDk4Zjg2YjlmM2QwZjE0ZTllN2Y3NmMwZjdmYWRmZGNhY2U1ZGM3",
+  "snapshot_id": "MCw4OTZiMjdjNjNlZjE2MTI2OTIzZmFkMWZmNTQzNzQ1MmZhOTdjM2Nm",
   "tracks": [
     {
       "added_at": "2023-08-04 20:21:55",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "Golpe Avisa",
         "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
       },
@@ -203,22 +187,6 @@
       "duration_ms": 219573,
       "name": "Si Te Vienen a Contar",
       "url": "https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "Nada En Com\u00fan",
-        "url": "https://open.spotify.com/album/2DwhPQke9yGGOhp0oeqEZ6"
-      },
-      "artists": [
-        {
-          "name": "Coda",
-          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
-        }
-      ],
-      "duration_ms": 257212,
-      "name": "Nada En Com\u00fan",
-      "url": "https://open.spotify.com/track/1BgaP7zt3JAg4tJkV7T9ky"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -239,18 +207,34 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+        "name": "Nada En Com\u00fan",
+        "url": "https://open.spotify.com/album/2DwhPQke9yGGOhp0oeqEZ6"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
         }
       ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+      "duration_ms": 257212,
+      "name": "Nada En Com\u00fan",
+      "url": "https://open.spotify.com/track/1BgaP7zt3JAg4tJkV7T9ky"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -267,6 +251,38 @@
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Luna - En Vivo",
+      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -319,22 +335,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "Luna - En Vivo",
-      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 243253,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Aqu\u00ed No Es As\u00ed",
-      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -383,34 +367,34 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 256933,
-      "name": "Oye Como Va",
-      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
+      "duration_ms": 157106,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
     },
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 212000,
-      "name": "La ingrata",
-      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+      "duration_ms": 294266,
+      "name": "Aqu\u00ed No Es As\u00ed",
+      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -431,54 +415,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 157106,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "M\u00e1tenme Porque Me Muero",
-      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -488,9 +424,9 @@
           "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+      "duration_ms": 212000,
+      "name": "La ingrata",
+      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -511,6 +447,22 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -523,6 +475,22 @@
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Oye Como Va",
+      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -543,18 +511,34 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 284800,
-      "name": "Samba Pa Ti",
-      "url": "https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm"
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -591,18 +575,34 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
-        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
       "artists": [
         {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 282120,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
+      "duration_ms": 284800,
+      "name": "Samba Pa Ti",
+      "url": "https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
+        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
         }
       ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
+      "duration_ms": 282120,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "96 - 05",
         "url": "https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 131039,
       "name": "Si Tu Boquita Fuera",
       "url": "https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
+        "name": "Hola Chicuelos",
+        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Peligroso Pop",
+      "url": "https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
         "name": "La Gusana Ciega",
         "url": "https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 191066,
       "name": "Sol\u00edn",
       "url": "https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "Hola Chicuelos",
-        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Peligroso Pop",
-      "url": "https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "Un Panteon Muy Vivo",
         "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 423360,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Dead - En Vivo",
+      "url": "https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 181866,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Dead - En Vivo",
-      "url": "https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
+        "name": "Restaurant",
+        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 269866,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
         "name": "Pop...\u00a1Por La Cara!",
         "url": "https://open.spotify.com/album/6NS5jRu0SnahlW9StQqoNO"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 230026,
       "name": "Payaso",
       "url": "https://open.spotify.com/track/7hzeu43gNUoHwh5CQrl3Jk"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "Restaurant",
-        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 269866,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
       "artists": [
         {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 265740,
-      "name": "La Flotadera",
-      "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
+      "duration_ms": 224200,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 265740,
+      "name": "La Flotadera",
+      "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
         "name": "Ultrasonicas",
         "url": "https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 178946,
       "name": "Que Grosero",
       "url": "https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Bueninvento",
-        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
+        "name": "Rock en Espa\u00f1ol 80's & 90's",
+        "url": "https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
         }
       ],
-      "duration_ms": 205466,
-      "name": "Ser\u00eda Feliz",
-      "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po"
     }
   ],
   "unique_name": "Iconos del Rock Mexicano",

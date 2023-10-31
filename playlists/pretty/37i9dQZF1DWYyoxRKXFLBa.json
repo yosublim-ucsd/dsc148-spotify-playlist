@@ -1,12 +1,12 @@
 {
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
-  "num_followers": 8335,
+  "num_followers": 8336,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjdiZWM3MTk2NjJiNzEwM2Q3OGY5ZDBhYzU5ZmY2MTMyZDJjOTc5",
+  "snapshot_id": "MCw0NjlhMDhhOTIzNzM4MjYwZDE4ZTFjMzBjOTMyNGJmMjVmMTA0MDAw",
   "tracks": [
     {
       "added_at": "2023-07-28 20:39:17",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "L\u00c1 L\u00c1",
         "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
       },
@@ -443,38 +443,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "lejos",
-      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Locochona",
         "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
@@ -507,6 +475,38 @@
       "duration_ms": 260976,
       "name": "Coraz\u00f3n Delator",
       "url": "https://open.spotify.com/track/39p0IFR45geHklTc6WY1t9"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "lejos",
+      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Break!",
+      "url": "https://open.spotify.com/track/2PxLq9EhlNZyw08kZiqbq9"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Voy en Auto",
         "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 178686,
       "name": "Voy en Auto",
       "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Break!",
-      "url": "https://open.spotify.com/track/2PxLq9EhlNZyw08kZiqbq9"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "No Me Impulses a Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4"
-      },
-      "artists": [
-        {
-          "name": "Vondr\u00e9",
-          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "No Me Impulses a Ser As\u00ed",
-      "url": "https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Deep Cuts",
         "url": "https://open.spotify.com/album/7eZIU8RLDwDpHTEYwlbxyb"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 190793,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/4b3ZcXUbkJu32F5xKJaXTz"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "No Me Impulses a Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "No Me Impulses a Ser As\u00ed",
+      "url": "https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "CLAR%SCURO",
+        "url": "https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Tu Color",
+      "url": "https://open.spotify.com/track/5F5iYSIvNIZTfr2xInIz99"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Lilith",
         "url": "https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "CLAR%SCURO",
-        "url": "https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL"
-      },
-      "artists": [
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Tu Color",
-      "url": "https://open.spotify.com/track/5F5iYSIvNIZTfr2xInIz99"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Frente al Mar",
         "url": "https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 367861,
       "name": "Frente al Mar",
       "url": "https://open.spotify.com/track/5FfoOol6bSXoO1FnnkhjeI"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "Contradicktion",
-        "url": "https://open.spotify.com/album/7H75c5aOTznuxDg2fEt7wt"
-      },
-      "artists": [
-        {
-          "name": "Las Decapitadas",
-          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
-        }
-      ],
-      "duration_ms": 125250,
-      "name": "Contradicktion",
-      "url": "https://open.spotify.com/track/4ZRT63eSHEA1NmeyNzTliU"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
+        "name": "Contradicktion",
+        "url": "https://open.spotify.com/album/7H75c5aOTznuxDg2fEt7wt"
       },
       "artists": [
         {
-          "name": "Norwayy",
-          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
+          "name": "Las Decapitadas",
+          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
+      "duration_ms": 125250,
+      "name": "Contradicktion",
+      "url": "https://open.spotify.com/track/4ZRT63eSHEA1NmeyNzTliU"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1199,6 +1183,22 @@
       "duration_ms": 302000,
       "name": "Flores Sobre las Piedras",
       "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
+      },
+      "artists": [
+        {
+          "name": "Norwayy",
+          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Fea",
-        "url": "https://open.spotify.com/album/1XpjWRnp8kQoB2uRV2WvZl"
-      },
-      "artists": [
-        {
-          "name": "Las Pijamas",
-          "url": "https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Fea",
-      "url": "https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/5DB06kLqIbFneddTadfbGH"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 186431,
       "name": "Baby Don't You Love Me - Bonus Track",
       "url": "https://open.spotify.com/track/59Tnq0bVlPkMtHt3m35XgL"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Fea",
+        "url": "https://open.spotify.com/album/1XpjWRnp8kQoB2uRV2WvZl"
+      },
+      "artists": [
+        {
+          "name": "Las Pijamas",
+          "url": "https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Fea",
+      "url": "https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7"
     },
     {
       "added_at": "2023-07-28 20:39:17",

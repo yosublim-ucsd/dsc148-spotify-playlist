@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 65381,
+  "num_followers": 65472,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWQ3NTUxYTBjZjQyMTlhNDY2NGU2NDEwMjEwOTQ2NTdkZmMwMzAz",
+  "snapshot_id": "MCxlMGM4NWE1ZmFmZmVhODIzZmVmNWQ2NmFlY2RmMGU2NzI3YzhlOGRi",
   "tracks": [
     {
       "added_at": "2023-08-24 12:53:30",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Les mots bleus",
-        "url": "https://open.spotify.com/album/5lDOYOhBNt7NHvDMtjcIOf"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Les mots bleus",
-      "url": "https://open.spotify.com/track/2Desf0YgquK9YrSkRhkvDN"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Samedi soir sur la terre (Remastered)",
         "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 278253,
       "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
       "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Les mots bleus",
+        "url": "https://open.spotify.com/album/5lDOYOhBNt7NHvDMtjcIOf"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Les mots bleus",
+      "url": "https://open.spotify.com/track/2Desf0YgquK9YrSkRhkvDN"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Alors regarde",
-        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "J'te l'dis quand m\u00eame",
-      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "15 Ans D'Amour",
         "url": "https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 153666,
       "name": "Quand on n'a que l'amour - Arrangements diff\u00e9rents",
       "url": "https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Alors regarde",
+        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 219226,
+      "name": "J'te l'dis quand m\u00eame",
+      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 396493,
-      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Superflu",
         "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
       },
@@ -615,22 +599,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Sentiments",
-        "url": "https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Le bateau coule",
-      "url": "https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
         "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
       },
@@ -643,6 +611,38 @@
       "duration_ms": 137160,
       "name": "Mon amie la rose",
       "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 396493,
+      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Le bateau coule",
+      "url": "https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "The Songs (Acoustic)",
-        "url": "https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "duration_ms": 231835,
-      "name": "Sensualit\u00e9",
-      "url": "https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "La tarentelle",
         "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 258826,
       "name": "Prendre un enfant",
       "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "The Songs (Acoustic)",
+        "url": "https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 231835,
+      "name": "Sensualit\u00e9",
+      "url": "https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Le coeur grenadine",
-        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Le coeur grenadine",
-      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Ami Ou Ennemi",
         "url": "https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 290226,
       "name": "Sur un pr\u00e9lude de Bach",
       "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Le coeur grenadine",
+        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Le coeur grenadine",
+      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
+        "name": "Br\u00fbler le Feu 2",
+        "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "L\u2019\u00c9pine",
+      "url": "https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
         "name": "On ne change pas",
         "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 254800,
       "name": "\u00c0 toutes les filles",
       "url": "https://open.spotify.com/track/6VR1rolPThMeYmWqFTbdLo"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
-        "name": "Br\u00fbler le Feu 2",
-        "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "L\u2019\u00c9pine",
-      "url": "https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp"
     },
     {
       "added_at": "2023-08-24 12:53:30",

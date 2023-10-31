@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,172 likes - 54 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,241 likes - 54 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 53 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 | 54 | [X SEMPRE](https://open.spotify.com/track/28aSFfpukDwTd1h4VE4dfk) | [Pablo](https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ), [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7) | [X SEMPRE](https://open.spotify.com/album/0oK2BcR7azV1YOB2aaQptX) | 4:09 |
 
-Snapshot ID: `MCwwYmE3NTUyOWExZmEyYjlhY2FkZGM2NzQyODg2NjEwMmIwYjNjN2Zm`
+Snapshot ID: `MCxlNjQ5ZGZkYjQ5Nzk4ZjI2ZGFiOWUyMDBkMzM5YWU5MjU5ZDk2MTA4`

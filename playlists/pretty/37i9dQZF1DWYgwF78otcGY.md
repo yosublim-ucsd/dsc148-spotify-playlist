@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,834 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,843 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 13 | [Kom](https://open.spotify.com/track/000uPbEAb9tlFkCJ1DIOcw) | [Timoteij](https://open.spotify.com/artist/2KToq66TzR2OM0PZJSh5bR) | [Längtan](https://open.spotify.com/album/7bmBYDzXffP3R5lECEdzkH) | 2:58 |
 | 14 | [Jag ljuger så bra](https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 3:04 |
 | 15 | [In i dimman](https://open.spotify.com/track/3zNUWltBz3xrZhXkoSMgJX) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Tropicalisera](https://open.spotify.com/album/0UQp20m1BlovpSh9zIowVB) | 2:53 |
-| 16 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 |
-| 17 | [Växeln hallå](https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy) | [Janne Lucas](https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx) | [The Best Of](https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe) | 2:54 |
+| 16 | [Växeln hallå](https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy) | [Janne Lucas](https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx) | [The Best Of](https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe) | 2:54 |
+| 17 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 |
 | 18 | [Vem e som oss](https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Vem e som oss](https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb) | 2:55 |
 | 19 | [Satellit](https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Blue Virgin Isles](https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg) | 4:17 |
 | 20 | [Alla flickor](https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 2:49 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 27 | [Bada nakna](https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Bada Nakna](https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas) | 3:11 |
 | 28 | [Håll om mig](https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz) | [Nanne](https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi) | [Alltid på väg](https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy) | 3:02 |
 | 29 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
-| 30 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
-| 31 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
+| 30 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
+| 31 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
 | 32 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
 | 33 | [La Det Swinge](https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [La Det Swinge](https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa) | 2:53 |
 | 34 | [Kom och ta mig](https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [Rök 'n Roll](https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD) | 2:57 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 37 | [Manboy](https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Masquerade](https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp) | 3:00 |
 | 38 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
 | 39 | [I Can´t Go On](https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [I Can't Go On](https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3) | 3:03 |
-| 40 | [Hon Kommer Med Solsken](https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh) | [Östen Med Resten](https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p) | [Greatest of the Best](https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo) | 2:55 |
-| 41 | [Lyssna till ditt hjärta](https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV) | [Friends](https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX) | [Lyssna till ditt hjärta](https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA) | 3:05 |
+| 40 | [Lyssna till ditt hjärta](https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV) | [Friends](https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX) | [Lyssna till ditt hjärta](https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA) | 3:05 |
+| 41 | [Hon Kommer Med Solsken](https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh) | [Östen Med Resten](https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p) | [Greatest of the Best](https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo) | 2:55 |
 | 42 | [Let Your Spirit Fly](https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf), [Pernilla Wahlgren](https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf) | [X My Heart](https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd) | 2:54 |
 | 43 | [90\-talet](https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [90\-talet](https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn) | 2:56 |
 | 44 | [Om om och om igen](https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Om om och om igen](https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd) | 2:47 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 46 | [Begging](https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1) | [Anton Ewald](https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb) | [A](https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm) | 3:02 |
 | 47 | [La Dolce Vita](https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC) | [After Dark](https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl) | [La Dolce Vita](https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi) | 3:00 |
 | 48 | [Busy Doin' Nothin'](https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7) | [Ace Wilder](https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY) | [Busy Doin' Nothin'](https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo) | 2:53 |
-| 49 | [Det gör ont](https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Det gör ont en stund på natten men inget på dan](https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr) | 3:03 |
-| 50 | [Högt över havet](https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Högt över havet](https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS) | 2:49 |
-| 51 | [E' de' det här du kallar kärlek](https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3) | [Lasse Holm](https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI), [Monica Thörnell](https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA) | [Lasse Holm](https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ) | 2:49 |
+| 49 | [E' de' det här du kallar kärlek](https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3) | [Lasse Holm](https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI), [Monica Thörnell](https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA) | [Lasse Holm](https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ) | 2:49 |
+| 50 | [Det gör ont](https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Det gör ont en stund på natten men inget på dan](https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr) | 3:03 |
+| 51 | [Högt över havet](https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Högt över havet](https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS) | 2:49 |
 | 52 | [Just nu](https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [40 år 40 hits ett samlingsalbum 1972 \- 2012](https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L) | 2:47 |
 
-Snapshot ID: `MCw2NjU0MzA3ZWZiOTFkODI5OWI4MTc3YTE1ZjY2MDA3YmI5ODhjNWMy`
+Snapshot ID: `MCxhNGQzNjBiYjFiM2E5ZGQzMDlhZTMzMjU5YjlmM2I0ODc0OTMzYjIw`

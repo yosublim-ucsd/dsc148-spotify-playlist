@@ -1,12 +1,12 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Blessd, Ryan Castro, Bryant Myers",
-  "num_followers": 443411,
+  "num_followers": 443565,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTE5Y2JjODQwZDMwODQ4MDlmY2UzYTBlZGJmZmU5MWIwMzUyZjZm",
+  "snapshot_id": "MCw1YzhhYzUyODQ0NGYyNDdhYzViNzgwYWIwOThiNmE1ZDhiYzE2N2Y3",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -831,6 +831,38 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Hola (Remix)",
+        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Hola - Remix",
+      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "911 (Remix)",
         "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
       },
@@ -923,6 +955,38 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "La Jeepeta (Remix)",
+        "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 345240,
+      "name": "La Jeepeta - Remix",
+      "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Las Bratz (Remix)",
         "url": "https://open.spotify.com/album/6c5uQ7ApweOF7C9mw7Bvge"
       },
@@ -959,70 +1023,6 @@
       "duration_ms": 444631,
       "name": "Las Bratz (Remix)",
       "url": "https://open.spotify.com/track/36W1V6ft4fX7HQVSdIYL0J"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Hola (Remix)",
-        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Hola - Remix",
-      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "La Jeepeta (Remix)",
-        "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "La Jeepeta - Remix",
-      "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1107,38 +1107,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Relaci\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 247308,
-      "name": "Relaci\u00f3n - Remix",
-      "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "No Fue (feat. Brray, Feid) [Remix]",
         "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
       },
@@ -1167,6 +1135,38 @@
       "duration_ms": 317789,
       "name": "No Fue - Remix",
       "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Relaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 247308,
+      "name": "Relaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1331,38 +1331,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Otro Trago (Remix)",
-        "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Otro Trago - Remix",
-      "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "El Farsante (Remix)",
         "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
       },
@@ -1419,6 +1387,62 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Otro Trago (Remix)",
+        "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Otro Trago - Remix",
+      "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Persia (Remix)",
+        "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Persia - Remix",
+      "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Adem\u00e1s de M\u00ed (Remix)",
         "url": "https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78"
       },
@@ -1451,30 +1475,6 @@
       "duration_ms": 330040,
       "name": "Adem\u00e1s de M\u00ed - Remix",
       "url": "https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Persia (Remix)",
-        "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        },
-        {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
-        },
-        {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
-        }
-      ],
-      "duration_ms": 250906,
-      "name": "Persia - Remix",
-      "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Haw\u00e1i (Remix)",
-        "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200481,
-      "name": "Haw\u00e1i - Remix",
-      "url": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -1611,22 +1591,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Mi Nena Remix",
-        "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
+        "name": "Haw\u00e1i (Remix)",
+        "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v"
       },
       "artists": [
         {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Mi Nena Remix",
-      "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
+      "duration_ms": 200481,
+      "name": "Haw\u00e1i - Remix",
+      "url": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1671,6 +1651,26 @@
       "duration_ms": 517599,
       "name": "47 - Remix",
       "url": "https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Mi Nena Remix",
+        "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Mi Nena Remix",
+      "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1979,6 +1979,34 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Soy Peor Remix",
+        "url": "https://open.spotify.com/album/059FBKRSxDxaHsk8xzfOUM"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 315846,
+      "name": "Soy Peor - Remix",
+      "url": "https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "FUMETEO (Remix)",
         "url": "https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD"
       },
@@ -2043,34 +2071,6 @@
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Soy Peor Remix",
-        "url": "https://open.spotify.com/album/059FBKRSxDxaHsk8xzfOUM"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 315846,
-      "name": "Soy Peor - Remix",
-      "url": "https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y"
     },
     {
       "added_at": "2023-10-13 04:59:00",

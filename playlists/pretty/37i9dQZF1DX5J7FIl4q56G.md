@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Year of the Knife
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,513 likes - 67 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,613 likes - 67 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 56 | [Speed 'Til You Bleed \- Midnight Hunters demo, 2015](https://open.spotify.com/track/1J4XfuQS8oosfAmpjmtgVI) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Speed 'Til You Bleed \(Midnight Hunters demo, 2015\)](https://open.spotify.com/album/1ybD9IRc3uhSzkD0YKIa1O) | 2:28 |
 | 57 | [Synthetic Generation](https://open.spotify.com/track/3vAdyT3pIYd99MfWkPDtY7) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE) | [Synthetic Generation](https://open.spotify.com/album/0TcXrVDAFZTXd1POOHoPwX) | 3:42 |
 | 58 | [The Thousand Tombs Of Western Promise](https://open.spotify.com/track/0cDdSTV0D2Ps4mGe9CYCtx) | [Wayfarer](https://open.spotify.com/artist/4HcBIH7pVbrRRwHnEqxpka) | [American Gothic](https://open.spotify.com/album/0MBfDOMNzzjXRNtnq3UGc1) | 7:11 |
-| 59 | [Lilith](https://open.spotify.com/track/2YMdlaPZTxuJ7KSK3HsBPU) | [Tortuga](https://open.spotify.com/artist/4GkQyssaGtb5WE7UG87n1B) | [Lilith](https://open.spotify.com/album/2F8JCCRWGyEHACb2VqRfZa) | 6:00 |
+| 59 | [Lilith](https://open.spotify.com/track/7meNkNlJvnuOqZ2qKZ7Lxb) | [Tortuga](https://open.spotify.com/artist/4GkQyssaGtb5WE7UG87n1B) | [Iterations](https://open.spotify.com/album/0hhCo8E1T8XtcPeDWlmzRs) | 6:00 |
 | 60 | [Nomadic](https://open.spotify.com/track/4TLiakoTSqQx7pB0VeQRqQ) | [Sentinels](https://open.spotify.com/artist/0JwMB5kwBvLi6uyLUnKDKv) | [In Limbo](https://open.spotify.com/album/0XC3SdcBR2SCR4u0pZ0N6y) | 4:20 |
 | 61 | [Timebomb](https://open.spotify.com/track/2K63WA4KiCvaxuziIkC25i) | [Lonewolf](https://open.spotify.com/artist/3zn6Fa4a9bUUmgXH6sH7IC) | [Timebomb](https://open.spotify.com/album/6wYE8FMX14Wn7qiPl0eBlG) | 2:56 |
 | 62 | [Jynx](https://open.spotify.com/track/0IFStmViiipyyCiBDY6np4) | [Diamond Construct](https://open.spotify.com/artist/3ZM354nvaghR5dGCXiFgGG) | [Jynx](https://open.spotify.com/album/72KeQk1uRdvN1lZG8PkXuF) | 3:22 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 66 | [Blossom](https://open.spotify.com/track/55QKgQKHffpFemjyt0B9iV) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Blossom](https://open.spotify.com/album/5gnwimgoo4S9wBkS3FK1F1) | 4:04 |
 | 67 | [Journey to Rebuild](https://open.spotify.com/track/5VA86G33omzLrsSmhaPblh) | [Lies We Sold](https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330) | [Adrift in the mist](https://open.spotify.com/album/61a5ULRYsyHuU3DBRcENhK) | 5:10 |
 
-Snapshot ID: `MCw5NWVlYjMwYmY1OGUxNDJlNGMwY2QzODMyZGFlZDI3NWE4YWI5OTVm`
+Snapshot ID: `MCxhYzQ1MDgwZDkyZjg2YmViZTI1NDg5OTc2ZDg2YjE1OWEzOWZlNmMx`

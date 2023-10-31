@@ -1,12 +1,12 @@
 {
   "description": "Get away from the maddening crowds with this peaceful pop mix.",
-  "num_followers": 1125670,
+  "num_followers": 1125662,
   "original_name": "Morning Stroll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjFiMmI5ODM0NTdmZGYyOWNlMGQ3M2FhMGUyMTJjYTM1ZTJiMDdm",
+  "snapshot_id": "MCxmNjc3ZjZhMzE3Y2JjNzc2YmVjMjhiZTc3MjFkZTZkZDkyMWZhNWJl",
   "tracks": [
     {
       "added_at": "2023-10-10 08:43:01",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-10-10 08:43:01",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "cardigan",
-      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
-    },
-    {
-      "added_at": "2023-10-10 08:43:01",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "added_at": "2023-10-10 08:43:01",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
     },
     {
       "added_at": "2023-10-10 08:43:01",
@@ -463,38 +463,6 @@
     {
       "added_at": "2023-10-10 08:43:01",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
-    },
-    {
-      "added_at": "2023-10-10 08:43:01",
-      "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 613026,
-      "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
-    },
-    {
-      "added_at": "2023-10-10 08:43:01",
-      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -511,6 +479,22 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
+    },
+    {
+      "added_at": "2023-10-10 08:43:01",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2023-10-10 08:43:01",
@@ -543,6 +527,22 @@
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2023-10-10 08:43:01",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 613026,
+      "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
     },
     {
       "added_at": "2023-10-10 08:43:01",
@@ -591,22 +591,6 @@
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
-    },
-    {
-      "added_at": "2023-10-10 08:43:01",
-      "album": {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
     },
     {
       "added_at": "2023-10-10 08:43:01",
@@ -711,6 +695,22 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2023-10-10 08:43:01",
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
     },
     {
       "added_at": "2023-10-10 08:43:01",

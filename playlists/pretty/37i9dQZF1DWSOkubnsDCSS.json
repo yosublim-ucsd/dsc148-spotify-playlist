@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTU3OGU4Yzg5MTkxMzA0OTRkMDU4NTcxZTU1MjhiZWNkMGE4MzY1",
+  "snapshot_id": "MCwyMzc3NWJlM2Y3ZDUzZTAzYzg2OGZiYTc2MzQ4ODQ1ZjhmMTBiOTMy",
   "tracks": [
     {
       "added_at": "2023-07-25 10:34:22",
@@ -159,22 +159,30 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Streets, Love & Other Stuff",
-        "url": "https://open.spotify.com/album/0IRmR8wXEPXWsqy84EbKIh"
+        "name": "Tekky",
+        "url": "https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA"
       },
       "artists": [
         {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
         },
         {
-          "name": "Whiney",
-          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        },
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Krept",
+          "url": "https://open.spotify.com/artist/59u6HvxEwrOg7jrPhqxFWF"
         }
       ],
-      "duration_ms": 214042,
-      "name": "Sorry I'm Not Sorry",
-      "url": "https://open.spotify.com/track/4Zf5mePGslKje78fPv9D9T"
+      "duration_ms": 118386,
+      "name": "Tekky",
+      "url": "https://open.spotify.com/track/56cBC4ufFxIxAWeGGoUznJ"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -291,30 +299,18 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Tekky",
-        "url": "https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA"
+        "name": "All In",
+        "url": "https://open.spotify.com/album/1JmxywVSSWS6RCBd7avdRO"
       },
       "artists": [
         {
-          "name": "Chip",
-          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        },
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        },
-        {
-          "name": "Krept",
-          "url": "https://open.spotify.com/artist/59u6HvxEwrOg7jrPhqxFWF"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 118386,
-      "name": "Tekky",
-      "url": "https://open.spotify.com/track/56cBC4ufFxIxAWeGGoUznJ"
+      "duration_ms": 187445,
+      "name": "Eyes on Me",
+      "url": "https://open.spotify.com/track/17yRlMLWjrw82aWpJItT9A"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -423,18 +419,22 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/1JmxywVSSWS6RCBd7avdRO"
+        "name": "Streets, Love & Other Stuff",
+        "url": "https://open.spotify.com/album/0IRmR8wXEPXWsqy84EbKIh"
       },
       "artists": [
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
         }
       ],
-      "duration_ms": 187445,
-      "name": "Eyes on Me",
-      "url": "https://open.spotify.com/track/17yRlMLWjrw82aWpJItT9A"
+      "duration_ms": 214042,
+      "name": "Sorry I'm Not Sorry",
+      "url": "https://open.spotify.com/track/4Zf5mePGslKje78fPv9D9T"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -631,34 +631,18 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Untraditional EP",
-        "url": "https://open.spotify.com/album/6cH71f3wPxyGXR264z7daA"
+        "name": "TYRON",
+        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
       },
       "artists": [
         {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Silencer",
-          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
-        },
-        {
-          "name": "Chip",
-          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
-        },
-        {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
         }
       ],
-      "duration_ms": 249926,
-      "name": "Stuttering",
-      "url": "https://open.spotify.com/track/0250N0i7iejMeIKvXOsT5M"
+      "duration_ms": 138613,
+      "name": "VEX",
+      "url": "https://open.spotify.com/track/0l6D20UUxbOemPoaGneKK6"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -687,18 +671,34 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "TYRON",
-        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
+        "name": "Untraditional EP",
+        "url": "https://open.spotify.com/album/6cH71f3wPxyGXR264z7daA"
       },
       "artists": [
         {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Silencer",
+          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
+        },
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
         }
       ],
-      "duration_ms": 138613,
-      "name": "VEX",
-      "url": "https://open.spotify.com/track/0l6D20UUxbOemPoaGneKK6"
+      "duration_ms": 249926,
+      "name": "Stuttering",
+      "url": "https://open.spotify.com/track/0250N0i7iejMeIKvXOsT5M"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -755,26 +755,22 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "This Year",
-        "url": "https://open.spotify.com/album/0wKRGkM4qZakqP4aIStBWW"
+        "name": "IC3 (feat. Skepta)",
+        "url": "https://open.spotify.com/album/7v6szHhIR7htrfITIGCvFB"
       },
       "artists": [
         {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
         },
         {
-          "name": "Silencer",
-          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
-        },
-        {
-          "name": "Tobi",
-          "url": "https://open.spotify.com/artist/7d1uejzLK3gh4usemwN9kS"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 178638,
-      "name": "This Year",
-      "url": "https://open.spotify.com/track/5XGGP9WDvBAXlyf7r3g3Tu"
+      "duration_ms": 231106,
+      "name": "IC3 (feat. Skepta) - Single Version",
+      "url": "https://open.spotify.com/track/0BMszcKwCrUDHZX3CEEj6L"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -795,22 +791,26 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "IC3 (feat. Skepta)",
-        "url": "https://open.spotify.com/album/7v6szHhIR7htrfITIGCvFB"
+        "name": "This Year",
+        "url": "https://open.spotify.com/album/0wKRGkM4qZakqP4aIStBWW"
       },
       "artists": [
         {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
         },
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Silencer",
+          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
+        },
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/7d1uejzLK3gh4usemwN9kS"
         }
       ],
-      "duration_ms": 231106,
-      "name": "IC3 (feat. Skepta) - Single Version",
-      "url": "https://open.spotify.com/track/0BMszcKwCrUDHZX3CEEj6L"
+      "duration_ms": 178638,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/5XGGP9WDvBAXlyf7r3g3Tu"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
+        "name": "Conflict Of Interest",
+        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Fire and Brimstone",
+      "url": "https://open.spotify.com/track/2lyDT6B5SciPljZUBrNJCu"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
         "name": "Matrix Nokia",
         "url": "https://open.spotify.com/album/2xWI3W95SoPmFmsD8wUigM"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 166285,
       "name": "Matrix Nokia",
       "url": "https://open.spotify.com/track/3uSIZTKQYmUs70EWTwkCzO"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "Conflict Of Interest",
-        "url": "https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4"
-      },
-      "artists": [
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Fire and Brimstone",
-      "url": "https://open.spotify.com/track/2lyDT6B5SciPljZUBrNJCu"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Levelz 2 Dis",
-        "url": "https://open.spotify.com/album/5Eg4HFNpLSgqzPV5tuG1YV"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "Coco",
-          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Levelz 2 Dis",
-      "url": "https://open.spotify.com/track/5oc1xuj7vUuoVX53SP6neY"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Teachers Pets",
         "url": "https://open.spotify.com/album/57ERYkISa1Xx09lksKyTyD"
       },
@@ -1039,30 +1019,6 @@
       "duration_ms": 223000,
       "name": "Teachers Pets",
       "url": "https://open.spotify.com/track/5HAluJDwIe8r1Zt6ud1tFe"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
-        "name": "Coming First",
-        "url": "https://open.spotify.com/album/0szDSt39fwUlc7klog2EYc"
-      },
-      "artists": [
-        {
-          "name": "Jay0117",
-          "url": "https://open.spotify.com/artist/2Y75LCVsGBeY6IqTC2HSKO"
-        },
-        {
-          "name": "Stuts",
-          "url": "https://open.spotify.com/artist/0Mj0cI0MUCZhkOST25kDrX"
-        },
-        {
-          "name": "OH91",
-          "url": "https://open.spotify.com/artist/3aKUd8SMyRiANRKmY4oD1O"
-        }
-      ],
-      "duration_ms": 176756,
-      "name": "Coming First",
-      "url": "https://open.spotify.com/track/4tWzS7KjMe9GHEiSBjy8qK"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1091,34 +1047,46 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Only One King",
-        "url": "https://open.spotify.com/album/05BMT5JyxcH2j6V8t0XpG3"
+        "name": "Coming First",
+        "url": "https://open.spotify.com/album/0szDSt39fwUlc7klog2EYc"
       },
       "artists": [
         {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+          "name": "Jay0117",
+          "url": "https://open.spotify.com/artist/2Y75LCVsGBeY6IqTC2HSKO"
+        },
+        {
+          "name": "Stuts",
+          "url": "https://open.spotify.com/artist/0Mj0cI0MUCZhkOST25kDrX"
+        },
+        {
+          "name": "OH91",
+          "url": "https://open.spotify.com/artist/3aKUd8SMyRiANRKmY4oD1O"
         }
       ],
-      "duration_ms": 141441,
-      "name": "Only One King",
-      "url": "https://open.spotify.com/track/4Wq7oaaCrcUVcZ7cyrKoXb"
+      "duration_ms": 176756,
+      "name": "Coming First",
+      "url": "https://open.spotify.com/track/4tWzS7KjMe9GHEiSBjy8qK"
     },
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Messy Madness, Vol. 2",
-        "url": "https://open.spotify.com/album/5E8dyzOuqpVWbOBZntRIpQ"
+        "name": "Levelz 2 Dis",
+        "url": "https://open.spotify.com/album/5Eg4HFNpLSgqzPV5tuG1YV"
       },
       "artists": [
         {
-          "name": "El Messy",
-          "url": "https://open.spotify.com/artist/7iAmI0cuFlgKk4luch6cAN"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
         }
       ],
-      "duration_ms": 187034,
-      "name": "Top G",
-      "url": "https://open.spotify.com/track/2Ktxau7EN5L82j2E9BnQKZ"
+      "duration_ms": 200000,
+      "name": "Levelz 2 Dis",
+      "url": "https://open.spotify.com/track/5oc1xuj7vUuoVX53SP6neY"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1139,6 +1107,38 @@
       "duration_ms": 301950,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Messy Madness, Vol. 2",
+        "url": "https://open.spotify.com/album/5E8dyzOuqpVWbOBZntRIpQ"
+      },
+      "artists": [
+        {
+          "name": "El Messy",
+          "url": "https://open.spotify.com/artist/7iAmI0cuFlgKk4luch6cAN"
+        }
+      ],
+      "duration_ms": 187034,
+      "name": "Top G",
+      "url": "https://open.spotify.com/track/2Ktxau7EN5L82j2E9BnQKZ"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Only One King",
+        "url": "https://open.spotify.com/album/05BMT5JyxcH2j6V8t0XpG3"
+      },
+      "artists": [
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        }
+      ],
+      "duration_ms": 141441,
+      "name": "Only One King",
+      "url": "https://open.spotify.com/track/4Wq7oaaCrcUVcZ7cyrKoXb"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/2NNpNUzYkgoDnkUcNfqCwT"
-      },
-      "artists": [
-        {
-          "name": "Genesis Elijah",
-          "url": "https://open.spotify.com/artist/7ykM9gwcxoplthUOlrih06"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/2GCCsigV4jpXwnE5mpCs5p"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Charizard Freestyle",
         "url": "https://open.spotify.com/album/4y7ktIWBKRhmHAceQqnUtT"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 142000,
       "name": "Charizard Freestyle",
       "url": "https://open.spotify.com/track/1GJ0TET9MTZgcxrmgiV2NV"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/2NNpNUzYkgoDnkUcNfqCwT"
+      },
+      "artists": [
+        {
+          "name": "Genesis Elijah",
+          "url": "https://open.spotify.com/artist/7ykM9gwcxoplthUOlrih06"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/2GCCsigV4jpXwnE5mpCs5p"
     },
     {
       "added_at": "2023-07-25 10:34:22",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-07-25 10:34:22",
       "album": {
-        "name": "Kurupt FM present The Lost Tape",
-        "url": "https://open.spotify.com/album/79DCkBypKvlXvhAIrkQdOu"
-      },
-      "artists": [
-        {
-          "name": "Jon E Cash",
-          "url": "https://open.spotify.com/artist/54vvOjazZTq4WC6U4OhFlQ"
-        }
-      ],
-      "duration_ms": 122906,
-      "name": "Cash Beat AKA : Hoods Up Dub",
-      "url": "https://open.spotify.com/track/0VWdSKQpWWYvwzu178BRpN"
-    },
-    {
-      "added_at": "2023-07-25 10:34:22",
-      "album": {
         "name": "Offline",
         "url": "https://open.spotify.com/album/6dptrfT4Gvhc4hBenL0D0J"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 207826,
       "name": "Offline",
       "url": "https://open.spotify.com/track/1Jg9pMvUl9ltxJboGol7jI"
+    },
+    {
+      "added_at": "2023-07-25 10:34:22",
+      "album": {
+        "name": "Kurupt FM present The Lost Tape",
+        "url": "https://open.spotify.com/album/79DCkBypKvlXvhAIrkQdOu"
+      },
+      "artists": [
+        {
+          "name": "Jon E Cash",
+          "url": "https://open.spotify.com/artist/54vvOjazZTq4WC6U4OhFlQ"
+        }
+      ],
+      "duration_ms": 122906,
+      "name": "Cash Beat AKA : Hoods Up Dub",
+      "url": "https://open.spotify.com/track/0VWdSKQpWWYvwzu178BRpN"
     },
     {
       "added_at": "2023-07-25 10:34:22",

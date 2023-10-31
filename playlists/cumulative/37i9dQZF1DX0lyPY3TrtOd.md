@@ -4,7 +4,7 @@
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-144 songs - 8 hr 5 min
+146 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Easy Going](https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Easy Going](https://open.spotify.com/album/6qhJuNPYamcTTVZiIsrrIi) | 2:28 | 2023-02-23 |  |
 | [Electric City](https://open.spotify.com/track/3Pvrhpbw9o6R5flxEb1juu) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:41 | 2023-04-13 |  |
 | [Electric Connect](https://open.spotify.com/track/72UFN3URrwusWbigHJd9zS) | [Milo Clare](https://open.spotify.com/artist/1m3q3h3I9cMdSEbREVwvJR) | [Electric Connect](https://open.spotify.com/album/3kenR9Bok0L3Oc53ZfIr1d) | 3:45 | 2023-02-23 | 2023-04-28 |
+| [Energy](https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 3:14 | 2023-10-30 |  |
 | [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 | 2023-02-23 | 2023-04-05 |
 | [Fire Thoughts](https://open.spotify.com/track/1DAXNPuz5nMIo9qbT2RFah) | [Malu](https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd) | [Fire Thoughts](https://open.spotify.com/album/0o8FNv5JC1wsZ4HsBbP5KB) | 3:39 | 2023-04-04 | 2023-05-30 |
 | [Fire Thoughts](https://open.spotify.com/track/7s735OIUvkNxQu2wSocuhX) | [Malu](https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd) | [Fire Thoughts](https://open.spotify.com/album/4xfz16XcHIR0HMRTci57Zs) | 3:39 | 2023-05-25 |  |
@@ -61,7 +62,7 @@
 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 | 2023-02-23 | 2023-04-05 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2023-04-04 |  |
 | [Here We Go Again](https://open.spotify.com/track/3yYZe2t3bgCxJvAA4Dg3dA) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [Here We Go Again](https://open.spotify.com/album/1hZFUyWzdmcMgD85mrPsCb) | 3:15 | 2023-02-23 | 2023-10-03 |
-| [Hi\-Fidelity](https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t) | 3:19 | 2023-02-23 |  |
+| [Hi\-Fidelity](https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t) | 3:19 | 2023-02-23 | 2023-10-31 |
 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2023-02-23 | 2023-06-10 |
 | [High Tones](https://open.spotify.com/track/3t24v3y8GxyNExl2Y4wSIP) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [High Tones](https://open.spotify.com/album/1ksEjv3uBAWXLr6WuvxCCD) | 2:42 | 2023-07-07 |  |
 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 | 2023-02-23 | 2023-04-05 |
@@ -93,6 +94,7 @@
 | [Love, Surround Me In Everything I Do](https://open.spotify.com/track/7ishyqC45Wi3Fe3fXoAYeE) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Love, Surround Me In Everything I Do](https://open.spotify.com/album/6REkZRczH1l0zCrE7GmUte) | 4:00 | 2023-03-09 | 2023-07-01 |
 | [Lucky](https://open.spotify.com/track/1xbC6A2a6ecO9wcAkB1sc3) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Lucky](https://open.spotify.com/album/3ha1LSA4HRtpmA6bLhM6tJ) | 3:15 | 2023-02-23 |  |
 | [Manifest](https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Manifest](https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb) | 2:26 | 2023-06-30 |  |
+| [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-10-30 |  |
 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2023-02-23 | 2023-04-28 |
 | [MISTAKES](https://open.spotify.com/track/2Nnm3TNxWvv1wc3yqqLVIe) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [MISTAKES](https://open.spotify.com/album/7ko8XDnmspKTTFoeGW08Nz) | 3:45 | 2023-10-02 |  |
 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 | 2023-02-23 |  |
@@ -106,7 +108,7 @@
 | [Nightshop](https://open.spotify.com/track/7xi7LUZ5ffWVIKFIhZyynw) | [FIEP](https://open.spotify.com/artist/4NicMfR6iYKLcfXs1ydcAE) | [Nightshop](https://open.spotify.com/album/4zQPPI6F5ywhNnNOgTZl9z) | 3:33 | 2023-04-04 | 2023-04-28 |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-27 |  |
 | [Nuts](https://open.spotify.com/track/0CCjJJ7H7R8NMDggyZxIZU) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Nuts](https://open.spotify.com/album/2W6d846yiktbTixQ8IdKuX) | 2:03 | 2023-03-02 | 2023-08-23 |
-| [Off Goes The Light](https://open.spotify.com/track/2jXZYoIEspEBQzRQuJp0hf) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [BIB10](https://open.spotify.com/album/0oQnzhETkhY0LgeWGeEI4S) | 4:33 | 2023-02-23 |  |
+| [Off Goes The Light](https://open.spotify.com/track/2jXZYoIEspEBQzRQuJp0hf) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [BIB10](https://open.spotify.com/album/0oQnzhETkhY0LgeWGeEI4S) | 4:33 | 2023-02-23 | 2023-10-31 |
 | [On Repeat \- Single Edit](https://open.spotify.com/track/6DYYvuS33ooMZgNXrYk1cJ) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [On Repeat](https://open.spotify.com/album/39KoavteTlQETyKudqlegD) | 3:28 | 2023-02-23 | 2023-04-05 |
 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-24 |  |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-01 | 2023-06-18 |

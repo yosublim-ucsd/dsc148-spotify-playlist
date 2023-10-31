@@ -1,12 +1,12 @@
 {
   "description": "De la cuna pa'l mundo. Celebrando la cultura y m\u00fasica de Puerto Rico con los sonidos de la Casa.",
-  "num_followers": 5929,
+  "num_followers": 5949,
   "original_name": "Casa Spotify Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDE5M2FkZmZiNzkwMWE3YTYxYmY0YzM1ZWExMGUxMWI3NmI5ZmVm",
+  "snapshot_id": "MCw4NDQ3ZGM3NDc2N2FkNjhlOGRmZTQ2ZWJkOTcwY2FiMWNjYWI1N2Nk",
   "tracks": [
     {
       "added_at": "2023-06-27 18:03:27",
@@ -243,26 +243,6 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "D\u00c1KITI",
-      "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
         "name": "ID",
         "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
       },
@@ -315,6 +295,26 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "D\u00c1KITI",
+      "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "DIVA- Platinum Edition",
         "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
@@ -327,6 +327,26 @@
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 190654,
+      "name": "PUNTO 40",
+      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -351,26 +371,6 @@
       "duration_ms": 266086,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 190654,
-      "name": "PUNTO 40",
-      "url": "https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 339611,
-      "name": "Andrea",
-      "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
         "name": "PARA\u00cdSO",
         "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 168000,
       "name": "BEACHY",
       "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 339611,
+      "name": "Andrea",
+      "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 306005,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "Glizzy Walk 2.5",
         "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 224248,
       "name": "Glizzy Walk 2.5",
       "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 306005,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86"
     },
     {
       "added_at": "2023-06-27 18:03:27",
@@ -843,6 +843,30 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "Condado",
+        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Condado",
+      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "LA HORA Y EL D\u00cdA",
         "url": "https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK"
       },
@@ -923,30 +947,6 @@
       "duration_ms": 167733,
       "name": "En Su Nota",
       "url": "https://open.spotify.com/track/7MBSL396aTUTolS3jeI6lC"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
-        "name": "Condado",
-        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Condado",
-      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
     },
     {
       "added_at": "2023-06-27 18:03:27",

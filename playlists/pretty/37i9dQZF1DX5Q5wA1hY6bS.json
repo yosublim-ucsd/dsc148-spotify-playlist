@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1490306,
+  "num_followers": 1490343,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDNiMGI2YTY3NDU2ZTNkNmM3YTc3MDk3NWVlZDAxMmRhYmMwMTU1",
+  "snapshot_id": "MCw4N2I1OGFhODk2NzU4NGFiNGNkOGU1YzdjZjllNTg4YzFlZGIwNGFl",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 229720,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
+      "duration_ms": 257533,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
       "artists": [
         {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 257533,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
+      "duration_ms": 229720,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Ghost of Chicago",
-        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
-      },
-      "artists": [
-        {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
-        }
-      ],
-      "duration_ms": 187100,
-      "name": "Ghost of Chicago",
-      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/0lBgdXhU3VUskJTGwOU2BT"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Ghost of Chicago",
+        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "duration_ms": 187100,
+      "name": "Ghost of Chicago",
+      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 297103,
       "name": "Orange Juice",
       "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "As We Ran",
         "url": "https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 244120,
       "name": "Our Remains",
       "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -663,22 +679,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Let's Be Still",
-        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Lemon Tree",
         "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
       },
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 214653,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Call Me in the Afternoon",
-      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Sermon on the Rocks",
         "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 196195,
       "name": "Getting Ready to Get Down",
       "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Call Me in the Afternoon",
+      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Twin Forks",
-        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
-      },
-      "artists": [
-        {
-          "name": "Twin Forks",
-          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "I Forget Myself (feat. Darlingside)",
         "url": "https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 212146,
       "name": "I Forget Myself (feat. Darlingside)",
       "url": "https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Twin Forks",
+        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
+      },
+      "artists": [
+        {
+          "name": "Twin Forks",
+          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Terms of Surrender",
+        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197596,
+      "name": "I Need a Teacher",
+      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1263,38 +1279,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 142840,
-      "name": "Loose Change",
-      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Time in the Sun",
         "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
       },
@@ -1307,22 +1291,6 @@
       "duration_ms": 201892,
       "name": "Good Right Now",
       "url": "https://open.spotify.com/track/7k6Ia6hsrweMKk1LiObkC9"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Terms of Surrender",
-        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197596,
-      "name": "I Need a Teacher",
-      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1355,6 +1323,38 @@
       "duration_ms": 153151,
       "name": "Lottery",
       "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 142840,
+      "name": "Loose Change",
+      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
     },
     {
       "added_at": "2023-09-29 04:00:00",

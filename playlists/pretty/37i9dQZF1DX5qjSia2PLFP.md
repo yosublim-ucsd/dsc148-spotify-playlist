@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Guest Curated by:   <a href="spotify:artist:2Y4AFMyyarPFVfz9o2CRo2">Benji.</a>, <a href="spotify:artist:6U3ybJ9UHNKEdsH7ktGBZ7">JID</a>, <a href="spotify:artist:5MbNzCW3qokGyoo9giHA3V">EARTHGANG</a>, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,138 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,153 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 49 | [dead actors](https://open.spotify.com/track/4kdUOZPsysbPTVNygGM26x) | [Good Grief](https://open.spotify.com/artist/1DZZUwlwKyZZEMPtphBUAB), [Bluflame James](https://open.spotify.com/artist/42R5iwEM4zfww2N5wFhqB7) | [dead actors](https://open.spotify.com/album/1l3qPNvYqXE7OovBGLmCuT) | 2:34 |
 | 50 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 |
 
-Snapshot ID: `MCxlZjE0YTJmZTZjYWM4NGVhYWRmMzVmOWZmNWRiZTU3OWI4NTgwNGE3`
+Snapshot ID: `MCw0ZmJmZjM3M2E5ZGIyMmU4YWI0MDNlMjdlYmNkMGU0OGZkYzMzYjMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,356 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,611 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 28 | [That's What You Get](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:40 |
 | 29 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
 | 30 | [Cute Without The 'E' \(Cut From The Team\) \- Remastered](https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:32 |
-| 31 | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 |
-| 32 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
-| 33 | [All Signs Point To Lauderdale](https://open.spotify.com/track/0T8P86fvSK8kCUJFYPZbIH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:17 |
-| 34 | [Still Waiting](https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 2:38 |
+| 31 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
+| 32 | [Still Waiting](https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 2:38 |
+| 33 | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 |
+| 34 | [All Signs Point To Lauderdale](https://open.spotify.com/track/0T8P86fvSK8kCUJFYPZbIH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:17 |
 | 35 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
 | 36 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
 | 37 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
-| 38 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
-| 39 | [We Don't Have To Dance](https://open.spotify.com/track/13b32GfUIo3BV93C8KtEdj) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC) | [The Shadow Side](https://open.spotify.com/album/4DwLXVB5zeO75k8HlTFhB6) | 3:13 |
+| 38 | [We Don't Have To Dance](https://open.spotify.com/track/13b32GfUIo3BV93C8KtEdj) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC) | [The Shadow Side](https://open.spotify.com/album/4DwLXVB5zeO75k8HlTFhB6) | 3:13 |
+| 39 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
 | 40 | [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 |
 | 41 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 |
 | 42 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 51 | [Why Worry](https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt) | 3:19 |
 | 52 | [Burnout](https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:07 |
 | 53 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
-| 54 | [Dig Up Her Bones](https://open.spotify.com/track/5gHeUcDVjnDda7TABO9RYv) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [American Psycho](https://open.spotify.com/album/636aBJi9ifGPSPacQ0fYCF) | 3:01 |
-| 55 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 |
-| 56 | [The Impression That I Get](https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let’s Face It](https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r) | 3:15 |
+| 54 | [The Impression That I Get](https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let’s Face It](https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r) | 3:15 |
+| 55 | [Dig Up Her Bones](https://open.spotify.com/track/5gHeUcDVjnDda7TABO9RYv) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [American Psycho](https://open.spotify.com/album/636aBJi9ifGPSPacQ0fYCF) | 3:01 |
+| 56 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 |
 | 57 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 58 | [My Heroine](https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ) | 3:27 |
 | 59 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 83 | [The Boy Who Destroyed The World](https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:05 |
 | 84 | [I Was a Teenage Anarchist](https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [White Crosses](https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ) | 3:15 |
 | 85 | [City Of Angels](https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Sing Sing Death House](https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi) | 3:29 |
-| 86 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
-| 87 | [Heavy Gloom](https://open.spotify.com/track/5YESYAHcr5GpjheBegwFd4) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [The Story So Far](https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5) | 2:49 |
+| 86 | [Heavy Gloom](https://open.spotify.com/track/5YESYAHcr5GpjheBegwFd4) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [The Story So Far](https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5) | 2:49 |
+| 87 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
 | 88 | ['Merican](https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 |
 | 89 | [A Detailed and Poetic Physical Threat to the Person Who Intentionally Vandalized My 1994 Dodge Intrepid Behind Kate's Apartment](https://open.spotify.com/track/7wHQdtNmqxZ5XdAg2pcgaV) | [Pet Symmetry](https://open.spotify.com/artist/25o7TtaXwjIHjQnqXH670G) | [Two Songs About Cars\. Two Songs with Long Titles.](https://open.spotify.com/album/0jLwpPQ6HufBW9KW5JPxOV) | 2:48 |
 | 90 | [Six Years on Dope](https://open.spotify.com/track/5HHR8lHtLowKzMavnA6GyW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 1:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [Chelsea](https://open.spotify.com/track/0Gc6QNeD6gkIgIgx75C8M7) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 2:42 |
 | 100 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
 
-Snapshot ID: `MCw1NmI3NjNhOGZjNzNiNTFiOTMyNDYwZDM3YjFkMGMxNTEzM2M1Y2Y3`
+Snapshot ID: `MCw0MzdiOTM4YTFiZDM5MjA4NzNkOGM4ZjgxYTc4ODFmYWM4NTY5YzU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,268 likes - 60 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,350 likes - 60 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 59 | [Achei um Bom Amigo](https://open.spotify.com/track/4TZCYmMj0wSelrac8rUC03) | [Vitor Quevedo](https://open.spotify.com/artist/4CPKaeqLullSnylxXSgv9G) | [Raízes Vol\. 1](https://open.spotify.com/album/5BzNE7xEQeDlq0XhsCv8pM) | 3:02 |
 | 60 | [Corinhos no Monte Sião \- Ao Vivo](https://open.spotify.com/track/55H713HkzFgTCT0WEJnxNJ) | [Xote Santo](https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE) | [Corinhos no Monte Sião \(Ao Vivo\)](https://open.spotify.com/album/7Gd8CYP9Dz4sVWnhd5zjW6) | 7:15 |
 
-Snapshot ID: `MCwzNzg4ZTEzZmIxMjE3ZTY4MDAxMThmZTNkYTA5N2ExZGU2ZGNiOGI5`
+Snapshot ID: `MCwwNThlYmRhY2MyMjhkYjZkMTkxODA1NTI2YWE4OWE5YWQ0NjNhMDQx`

@@ -1,12 +1,12 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1339286,
+  "num_followers": 1339336,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDg1NmM3YzBmZTdjZDdhOTgyYTdiM2IwOGNlMDI0YTU1ZDlkYWFh",
+  "snapshot_id": "MCxmODhjNzhkNjViOTY4N2VlYjY5MmQ5YjhjNDBlMDhmYzNhYjRhNDlj",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 257265,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 176658,
       "name": "The Nights",
       "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 257265,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 216773,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 209680,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA"
+      "duration_ms": 206200,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 206200,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
+      "duration_ms": 209680,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "MKTO",
-        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
-      },
-      "artists": [
-        {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 229360,
       "name": "Time of Our Lives",
       "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "California 37",
         "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 232693,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1155,22 +1155,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+        "name": "Delirium (Deluxe)",
+        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 226198,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+      "duration_ms": 252534,
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Delirium (Deluxe)",
-        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 252534,
-      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
-      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -1283,18 +1299,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+        "name": "The Midsummer Station",
+        "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 161160,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+      "duration_ms": 205933,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1323,26 +1343,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "The Midsummer Station",
-        "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+        "name": "A Little Bit of Mambo",
+        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Lou Bega",
+          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
         }
       ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+      "duration_ms": 220293,
+      "name": "Mambo No. 5 (a Little Bit of...)",
+      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "A Little Bit of Mambo",
-        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
       "artists": [
         {
-          "name": "Lou Bega",
-          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 220293,
-      "name": "Mambo No. 5 (a Little Bit of...)",
-      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 205933,
       "name": "Come and Get Your Love - Single Version",
       "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 230192,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 230192,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Everything Is 4",
         "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 207719,
       "name": "Want to Want Me",
       "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Four Tops Second Album",
-        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Four Tops Second Album",
+        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -1663,30 +1663,6 @@
       "duration_ms": 337733,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Better Days (NEIKED x Mae Muller x Polo G)",
-        "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 160656,
-      "name": "Better Days (NEIKED x Mae Muller x Polo G)",
-      "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1719,6 +1695,30 @@
       "duration_ms": 159735,
       "name": "Good as Hell",
       "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+        "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 160656,
+      "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+      "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227741,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
       },
@@ -1955,22 +1939,6 @@
       "duration_ms": 253306,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1991,22 +1959,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -2023,22 +1975,34 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS"
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 164205,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/4e4fqjx0Izh4svvTef1z7e"
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227741,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2063,18 +2027,38 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
+      "duration_ms": 164205,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/4e4fqjx0Izh4svvTef1z7e"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2143,6 +2127,22 @@
       "duration_ms": 258826,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -2367,6 +2351,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Habits",
         "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
       },
@@ -2379,6 +2379,22 @@
       "duration_ms": 212293,
       "name": "Animal",
       "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 214200,
+      "name": "Blame It on the Boogie",
+      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2403,22 +2419,6 @@
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 214200,
-      "name": "Blame It on the Boogie",
-      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2583,6 +2583,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
       },
@@ -2599,22 +2615,6 @@
       "duration_ms": 219373,
       "name": "Capital Letters",
       "url": "https://open.spotify.com/track/6l0Ky2PycJV1Bz88kFeVGL"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Born This Way",
-      "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
     }
   ],
   "unique_name": "Wake Up Happy",

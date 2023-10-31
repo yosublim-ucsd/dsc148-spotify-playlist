@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 149516,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
@@ -3048,6 +3048,28 @@
       "duration_ms": 209062,
       "name": "Heart On My Sleeve",
       "url": "https://open.spotify.com/track/32hvlKjjOhc15tnVmNk4wE"
+    },
+    {
+      "album": {
+        "name": "Heart Still Beating",
+        "url": "https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149163,
+      "name": "Heart Still Beating",
+      "url": "https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT"
     },
     {
       "album": {

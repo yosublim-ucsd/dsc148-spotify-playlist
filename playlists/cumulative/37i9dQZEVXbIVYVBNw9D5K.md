@@ -4,13 +4,14 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-779 songs - 1 day 15 hr 8 min
+781 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/4Ny0Wg8rvBJhw7scarxbgi) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7cyppkoabIL3NL2KuDK0IT) | 2:05 | 2021-09-19 | 2021-09-21 |
 | [1 gr eksik](https://open.spotify.com/track/1fKx32CjG3buI24gQWbT6u) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 2:59 | 2021-05-30 | 2021-05-31 |
 | [10 NUMARA](https://open.spotify.com/track/6GDpxEOvaXS0nbqSrFtDAQ) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [10 NUMARA](https://open.spotify.com/album/6wtGyjOP42EhS1G29OIJFN) | 1:58 | 2021-10-17 | 2022-06-23 |
+| [10\. Yıl Marşı](https://open.spotify.com/track/3clZuUiF7kpYwHqqPp1ODb) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [3.5](https://open.spotify.com/album/1fE2VYsu8xK4VbumRKM0Lv) | 3:49 | 2023-10-30 |  |
 | [10.000 Parça](https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [10.000 Parça](https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7) | 2:21 | 2023-03-11 | 2023-03-13 |
 | [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 | 2022-11-19 | 2023-06-18 |
 | [10MG](https://open.spotify.com/track/6MFepQNOqgJM35OVRP5XU7) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:21 | 2023-06-17 | 2023-06-20 |
@@ -286,7 +287,7 @@
 | [Geceyi Anlatmış](https://open.spotify.com/track/0ni7a9ONGdNoUvDvSCgLoJ) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau) | [Geceyi Anlatmış](https://open.spotify.com/album/2QXcT3QNxgJP2m5MBvzY5B) | 4:00 | 2022-03-14 | 2022-04-08 |
 | [Gelmesin](https://open.spotify.com/track/6udxaddhezdU8dwfZVapmw) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Gelmesin](https://open.spotify.com/album/6X8ndvkdGtHNcwcbKcF1Lg) | 3:30 | 2021-06-05 | 2021-07-01 |
 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2022-03-20 | 2023-06-04 |
-| [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 | 2023-05-06 |  |
+| [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 | 2023-05-06 | 2023-10-31 |
 | [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 | 2022-12-17 | 2022-12-25 |
 | [Gerçekleşebilir](https://open.spotify.com/track/1KwiqA75C5lIIdMBoiEffe) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Gerçekleşebilir](https://open.spotify.com/album/6tkwRvL9npE0otgeyibMls) | 3:49 | 2021-11-28 | 2021-12-10 |
 | [Geçme Artık Sokağımdan](https://open.spotify.com/track/2OAt5u4jbxjoOPshOSOa7g) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Geçme Artık Sokağımdan](https://open.spotify.com/album/6wAx2Xm6iVXeCkl8Iv0GEW) | 3:33 | 2022-04-16 | 2022-04-29 |
@@ -392,6 +393,7 @@
 | [İSTANBUL](https://open.spotify.com/track/2qmdgQun2BbLmIRsQsedER) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM), [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [ZENGBEJ](https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7) | 3:41 | 2021-03-27\* | 2021-04-11 |
 | [İSTEMEM](https://open.spotify.com/track/4FOVdn9oZhxH6AOEhL78BR) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [İSTEMEM](https://open.spotify.com/album/3CUU4TFr7UowburX1Au22f) | 3:18 | 2022-10-01 | 2022-10-03 |
 | [İZLEDİ MAHALLE](https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 1:41 | 2023-06-22 | 2023-10-11 |
+| [İzmir Marşı](https://open.spotify.com/track/3zvVdOWNaByAZBAPfNKb30) | [Volkan Konak](https://open.spotify.com/artist/48CUA59SDed3IdCctKndud) | [İzmir Marşı](https://open.spotify.com/album/0pzCPKj94U0bMFl4ZWTRM5) | 2:42 | 2023-10-30 |  |
 | [İçime Ata Ata](https://open.spotify.com/track/5rCYZ1IltI5gJ9LbxEiQDk) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [İçime Ata Ata](https://open.spotify.com/album/7caYzMyzWotKVnu2xmHLQj) | 2:52 | 2022-01-04 | 2022-02-20 |
 | [İçime Ata Ata](https://open.spotify.com/track/776fVqyFVMxHbZIvbRxX92) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [İçime Ata Ata](https://open.spotify.com/album/3uA7KyXVZIfZh0hYc6q2qk) | 2:52 | 2021-12-12 | 2022-01-05 |
 | [Jalebi Baby](https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Jalebi Baby](https://open.spotify.com/album/2k8nShpibT4psqEQV7Smqc) | 3:09 | 2021-04-10 | 2021-04-15 |
@@ -689,7 +691,7 @@
 | [Toprak Yağmura \(Akustik\)](https://open.spotify.com/track/4sCt5tJL9SMAODyiEiVBDd) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Dolunay](https://open.spotify.com/album/2hWWX2M4ZD4PVyaPTmkfaV) | 3:56 | 2021-11-16 | 2021-12-04 |
 | [toz duman](https://open.spotify.com/track/5rS3b5yHagEQGI7HqDusZ5) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [toz duman](https://open.spotify.com/album/1QkfSEPKAm4fbr8WZyHhZv) | 2:47 | 2021-05-30 | 2021-10-31 |
 | [Trankobuskas \- Remix](https://open.spotify.com/track/3Zy6uq4X0w6O8UMwJbzv9o) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Trankobuskas \(Remix\)](https://open.spotify.com/album/4Hss7kjHJp7L2EyovjOnEj) | 2:02 | 2022-02-12 | 2022-06-13 |
-| [Trip attım](https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Trip attım](https://open.spotify.com/album/6AjvqUlpE0M92AH3cTJIAU) | 2:01 | 2023-10-07 |  |
+| [Trip attım](https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Trip attım](https://open.spotify.com/album/6AjvqUlpE0M92AH3cTJIAU) | 2:01 | 2023-10-07 | 2023-10-31 |
 | [Tuana](https://open.spotify.com/track/3Kut1u60mgcH59QWty8uUz) | [Levent Yüksel](https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2) | [Med Cezir](https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO) | 5:19 | 2023-05-15 | 2023-05-17 |
 | [TURKISH BOY](https://open.spotify.com/track/1Lk1gfIzJF5RyhyCkHUWEG) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [LEVO](https://open.spotify.com/artist/4VkQs39IBA4Af9gaqMskcK) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:22 | 2022-09-10 | 2022-09-12 |
 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 | 2022-11-05 | 2022-11-07 |

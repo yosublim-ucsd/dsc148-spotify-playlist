@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 48351,
+  "num_followers": 48389,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWE0ZmY4OWZlYjVmYWY4MzQ2MjdkMDQ0MWYwMjhiZDhkYTFlOWNl",
+  "snapshot_id": "MCw4ZDczY2FkOGJhZTUzMzYwOTcwMzBkZjJjZDBkZjIyNjBmZGZhMzNk",
   "tracks": [
     {
       "added_at": "2023-10-02 13:18:34",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Novu Hisy",
-        "url": "https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Novu Hisy",
-      "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "@0 EP1",
         "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+        "name": "Novu Hisy",
+        "url": "https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL"
       },
       "artists": [
         {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
         }
       ],
-      "duration_ms": 309448,
-      "name": "September Remember",
-      "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
+      "duration_ms": 223200,
+      "name": "Novu Hisy",
+      "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -427,6 +411,22 @@
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 309448,
+      "name": "September Remember",
+      "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Open Space Volume 1",
-        "url": "https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 316786,
-      "name": "Deine Augen",
-      "url": "https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "CHU / \u8655",
         "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
       },
@@ -699,22 +683,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "Generative Ambient Vol 1: Modular Synth Instrumentals",
-        "url": "https://open.spotify.com/album/4ggW8kXcgYFxKOtiApiqry"
-      },
-      "artists": [
-        {
-          "name": "PalKid",
-          "url": "https://open.spotify.com/artist/0q9Ts8UgxT6USu2ElZgsqW"
-        }
-      ],
-      "duration_ms": 139847,
-      "name": "Cloudwalker",
-      "url": "https://open.spotify.com/track/2gLhikHEeRFCjvOM5Li9NR"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Becoming Ferromagnetic",
         "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
       },
@@ -727,6 +695,22 @@
       "duration_ms": 328275,
       "name": "Becoming Ferromagnetic",
       "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Open Space Volume 1",
+        "url": "https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 316786,
+      "name": "Deine Augen",
+      "url": "https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Generative Ambient Vol 1: Modular Synth Instrumentals",
+        "url": "https://open.spotify.com/album/4ggW8kXcgYFxKOtiApiqry"
+      },
+      "artists": [
+        {
+          "name": "PalKid",
+          "url": "https://open.spotify.com/artist/0q9Ts8UgxT6USu2ElZgsqW"
+        }
+      ],
+      "duration_ms": 139847,
+      "name": "Cloudwalker",
+      "url": "https://open.spotify.com/track/2gLhikHEeRFCjvOM5Li9NR"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Sollbruchstelle 1-3",
         "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 311548,
       "name": "A man with two watches",
       "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "The Last Wave",
-        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
       "artists": [
         {
-          "name": "Ibukun Sunday",
-          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
         }
       ],
-      "duration_ms": 139041,
-      "name": "Last Earth",
-      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -831,6 +815,22 @@
       "duration_ms": 343106,
       "name": "Para Guy",
       "url": "https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "The Last Wave",
+        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
+      },
+      "artists": [
+        {
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Last Earth",
+      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "Sleep to Dream",
+        "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 263142,
+      "name": "Sleep to Dream",
+      "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
         "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
-        "name": "The Sparrow",
-        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 357906,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
         "name": "Kosmic Headroom",
         "url": "https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj"
       },
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-10-02 13:18:34",
       "album": {
+        "name": "The Sparrow",
+        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 357906,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
         "name": "Mirror Ensemble",
         "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
       },
@@ -1179,38 +1195,6 @@
       "duration_ms": 235000,
       "name": "Rose Water",
       "url": "https://open.spotify.com/track/6AEXBSliph7nngKCqahlV5"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
-        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
-      },
-      "artists": [
-        {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Rambutan",
-      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Geoglyph",
-        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Isles",
-          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
-        }
-      ],
-      "duration_ms": 364460,
-      "name": "A1. J-Math",
-      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1235,6 +1219,38 @@
       "duration_ms": 462088,
       "name": "Snow Ritual (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/5t3I5yqfEAJoDbZmPiT9vJ"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Geoglyph",
+        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        }
+      ],
+      "duration_ms": 364460,
+      "name": "A1. J-Math",
+      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
+    },
+    {
+      "added_at": "2023-10-02 13:18:34",
+      "album": {
+        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
+        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Rambutan",
+      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
     },
     {
       "added_at": "2023-10-02 13:18:34",
@@ -1267,22 +1283,6 @@
       "duration_ms": 517599,
       "name": "Plant Memory",
       "url": "https://open.spotify.com/track/4hTgQoWtIWyZMPkKteRJpJ"
-    },
-    {
-      "added_at": "2023-10-02 13:18:34",
-      "album": {
-        "name": "Sleep to Dream",
-        "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
-      },
-      "artists": [
-        {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
-        }
-      ],
-      "duration_ms": 263142,
-      "name": "Sleep to Dream",
-      "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
     }
   ],
   "unique_name": "Modular Synths",

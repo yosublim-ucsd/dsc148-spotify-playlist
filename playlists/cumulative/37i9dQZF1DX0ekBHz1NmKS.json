@@ -2606,7 +2606,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 217210,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/4ilrp6PdG89jBXDJlBmfvq"
@@ -5992,6 +5992,24 @@
       "duration_ms": 190835,
       "name": "Hit and Run",
       "url": "https://open.spotify.com/track/7kf9xh5Xaa4bTE6ChoorYu"
+    },
+    {
+      "album": {
+        "name": "Hj\u00e4rtan i sanden",
+        "url": "https://open.spotify.com/album/4MT1Q26z105pJdEd82MtHC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sunday",
+          "url": "https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Hj\u00e4rtan i sanden",
+      "url": "https://open.spotify.com/track/17dy0wgbBnd0FV206w5jz3"
     },
     {
       "album": {

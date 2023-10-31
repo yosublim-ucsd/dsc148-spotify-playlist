@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Polim\u00e1 Westcoast, TAICHU & Caleb Calloway.",
-  "num_followers": 316521,
+  "num_followers": 316547,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDlhMWU2Njc1ZWJhZjhhZWY3ZWEyNzIzNGMxNTA0NzM4NDg1OTBk",
+  "snapshot_id": "MCw4ODhlZTA4N2VkNGI1ZmYwNWY0NGQ4YjY0ZjgzY2M1NmM1MjA5YjFh",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -167,18 +167,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
+      "duration_ms": 201272,
+      "name": "Penas de Anta\u00f1o",
+      "url": "https://open.spotify.com/track/4zYHsmc2V9RyR8eOA0mlx6"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -199,22 +203,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "X ESO BB",
-        "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
+        "name": "Caba\u00f1a",
+        "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
       },
       "artists": [
         {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Los Patos Feos Inc",
+          "url": "https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5"
+        },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
         }
       ],
-      "duration_ms": 193835,
-      "name": "X ESO BB",
-      "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
+      "duration_ms": 178836,
+      "name": "Caba\u00f1a",
+      "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -243,22 +251,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "en dormir sin Madrid",
-        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+        "name": "X ESO BB",
+        "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
         },
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 201272,
-      "name": "Penas de Anta\u00f1o",
-      "url": "https://open.spotify.com/track/4zYHsmc2V9RyR8eOA0mlx6"
+      "duration_ms": 193835,
+      "name": "X ESO BB",
+      "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -279,26 +287,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Caba\u00f1a",
-        "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
       },
       "artists": [
         {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Los Patos Feos Inc",
-          "url": "https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5"
-        },
-        {
-          "name": "Nes",
-          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 178836,
-      "name": "Caba\u00f1a",
-      "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -411,38 +411,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Marisola (Remix)",
-        "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        }
-      ],
-      "duration_ms": 237473,
-      "name": "Marisola - Remix",
-      "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "ALMA",
         "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
       },
@@ -495,6 +463,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Marisola (Remix)",
+        "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        }
+      ],
+      "duration_ms": 237473,
+      "name": "Marisola - Remix",
+      "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 164810,
+      "name": "Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 260000,
       "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
       "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Rinc\u00f3n",
-        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 164810,
-      "name": "Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -683,6 +683,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Mini Mini",
+        "url": "https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE"
+      },
+      "artists": [
+        {
+          "name": "Punto40",
+          "url": "https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 197663,
+      "name": "Mini Mini",
+      "url": "https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 123525,
       "name": "MORNING",
       "url": "https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Mini Mini",
-        "url": "https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE"
-      },
-      "artists": [
-        {
-          "name": "Punto40",
-          "url": "https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 197663,
-      "name": "Mini Mini",
-      "url": "https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
-        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 258540,
-      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
-      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "OJAL\u00c1",
         "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
       },
@@ -1059,6 +1039,22 @@
       "duration_ms": 160482,
       "name": "OJAL\u00c1",
       "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Locura y Maldad",
+        "url": "https://open.spotify.com/album/7b37HOxDoKxFoFzHUZrUpK"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Locura y Maldad",
+      "url": "https://open.spotify.com/track/345pDhxKVhsOcs9VEnBkLa"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1095,18 +1091,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Locura y Maldad",
-        "url": "https://open.spotify.com/album/7b37HOxDoKxFoFzHUZrUpK"
+        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Locura y Maldad",
-      "url": "https://open.spotify.com/track/345pDhxKVhsOcs9VEnBkLa"
+      "duration_ms": 258540,
+      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Querian Perreo?",
+        "url": "https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Cochinae",
+      "url": "https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -1143,6 +1163,22 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n 2",
+        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1179,42 +1215,6 @@
       "duration_ms": 341266,
       "name": "LOUD (feat. Piero 47, 3TRIPLE J, JulianoChieff)",
       "url": "https://open.spotify.com/track/4urZ3ocnvCpgU0Rv1P6Pd5"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n 2",
-        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Querian Perreo?",
-        "url": "https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Cochinae",
-      "url": "https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Temporada de Reggaet\u00f3n 2",
+        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Amor Bipolar",
+      "url": "https://open.spotify.com/track/54azU25VdlyMhiqHOOCZeL"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Toda Guapa",
         "url": "https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2"
       },
@@ -1363,26 +1383,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Temporada de Reggaet\u00f3n 2",
-        "url": "https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Amor Bipolar",
-      "url": "https://open.spotify.com/track/54azU25VdlyMhiqHOOCZeL"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
       },
@@ -1407,6 +1407,42 @@
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Mu\u00f1eca",
+        "url": "https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 182603,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1455,26 +1491,6 @@
       "duration_ms": 483683,
       "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
       "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Mu\u00f1eca",
-        "url": "https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH"
-      },
-      "artists": [
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 182603,
-      "name": "Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1531,22 +1547,6 @@
       "duration_ms": 210012,
       "name": "CRIS MJ | DJ TAO Turreo Sessions #20",
       "url": "https://open.spotify.com/track/6bAxW5fCFc4mfe8otIxWf9"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Nos Comemos (feat. Ozuna)",
-        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 191086,
-      "name": "Nos Comemos (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Felices x Siempre",
         "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
       },
@@ -1679,6 +1659,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Nos Comemos (feat. Ozuna)",
+        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 191086,
+      "name": "Nos Comemos (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
@@ -1715,8 +1715,8 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Llamame Bebe",
-        "url": "https://open.spotify.com/album/1OoaNonXii9fD0tPpxBfKy"
+        "name": "Dime T\u00fa",
+        "url": "https://open.spotify.com/album/5RdU0FElotMIDYbY8zKiHx"
       },
       "artists": [
         {
@@ -1728,13 +1728,13 @@
           "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         },
         {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
         }
       ],
-      "duration_ms": 258285,
-      "name": "Llamame Bebe",
-      "url": "https://open.spotify.com/track/66vWfpNGNT4y6nPdW5WMtj"
+      "duration_ms": 225864,
+      "name": "Dime T\u00fa",
+      "url": "https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1823,30 +1823,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Dime T\u00fa",
-        "url": "https://open.spotify.com/album/5RdU0FElotMIDYbY8zKiHx"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Big Cvyu",
-          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
-        }
-      ],
-      "duration_ms": 225864,
-      "name": "Dime T\u00fa",
-      "url": "https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/3KFx3Wq5uUF763v3y0CoFn"
       },
@@ -1863,6 +1839,30 @@
       "duration_ms": 134000,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Llamame Bebe",
+        "url": "https://open.spotify.com/album/1OoaNonXii9fD0tPpxBfKy"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 258285,
+      "name": "Llamame Bebe",
+      "url": "https://open.spotify.com/track/66vWfpNGNT4y6nPdW5WMtj"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2087,18 +2087,34 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/2pumbIwYfxXbt13whkgdXt"
+        "name": "ADICTO (feat. Best, Bayriton)",
+        "url": "https://open.spotify.com/album/2lMQji7tH4Gb2VPoi1iF55"
       },
       "artists": [
         {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
         }
       ],
-      "duration_ms": 156521,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/3pbySFbqs0u2nhhti6PhGQ"
+      "duration_ms": 292752,
+      "name": "ADICTO (feat. Best, Bayriton)",
+      "url": "https://open.spotify.com/track/0pVFw0LHdpjAWI2xwoUXQZ"
     }
   ],
   "unique_name": "Flow al Sur",

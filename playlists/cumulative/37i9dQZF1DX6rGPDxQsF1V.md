@@ -4,7 +4,7 @@
 
 > <a href="spotify:playlist:37i9dQZF1DXayDMsJG9ZBv">Hot Hits Japan</a>、もしくは<a href="spotify:playlist:37i9dQZF1DXafb0IuPwJyF">Tokyo Super Hits</a>に10週以上リスト・インしたメガヒット曲をひとつのプレイリストに。Cover: Charlie Puths
 
-141 songs - 8 hr 33 min
+142 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2023-01-29 |  |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2023-01-29 |  |
 | [Create](https://open.spotify.com/track/5FqE1Cd1rt7ijK76BlFx87) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Create](https://open.spotify.com/album/7yYs9yoqpDz0nkeNdzYpvR) | 3:54 | 2023-01-29 | 2023-04-24 |
+| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-10-30 |  |
 | [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 | 2023-01-29 |  |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-02-15 |  |
 | [Curtain Call](https://open.spotify.com/track/4uom3dNDDCN5KrI1pcQbuN) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [Curtain Call](https://open.spotify.com/album/3iBELbeLc9pRmmauovD5rI) | 4:26 | 2023-01-29 |  |
@@ -107,7 +108,7 @@
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2023-01-29 | 2023-08-14 |
 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2023-01-29 | 2023-03-08 |
 | [WITHOUT YOU](https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:41 | 2023-01-29 | 2023-07-31 |
-| [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-08-13 |  |
+| [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-08-13 | 2023-10-31 |
 | [YOKAZE](https://open.spotify.com/track/5q6xFDptliUEAtuvH3BnIV) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [HERO](https://open.spotify.com/album/0lhmQFcegvuwWqNFWY4649) | 4:30 | 2023-01-29 |  |
 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 | 2023-01-29 |  |
 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 | 2023-01-29 |  |

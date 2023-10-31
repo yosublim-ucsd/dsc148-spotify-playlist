@@ -1,12 +1,12 @@
 {
   "description": "we got you bro. Cover: Post Malone",
-  "num_followers": 38312,
+  "num_followers": 38817,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTFlZWEzMWI0NDk5NjU2YzYyZjEwYTMzNzUwOTdlNDEwNWU3ZTdi",
+  "snapshot_id": "MCwzOTBkYTRmMDQyZjZhYzU1N2QxODc2MzI3NDQ4YWMwODM5YWQwYjhi",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 195046,
       "name": "ball w/o you",
       "url": "https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 119133,
-      "name": "Jocelyn Flores",
-      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 119133,
+      "name": "Jocelyn Flores",
+      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -531,22 +531,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Get You The Moon (feat. Sn\u00f8w)",
-        "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
       "artists": [
         {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 179080,
-      "name": "Get You The Moon (feat. Sn\u00f8w)",
-      "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
+      "duration_ms": 179613,
+      "name": "Go Flex",
+      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -563,6 +559,26 @@
       "duration_ms": 175755,
       "name": "Lean Wit Me",
       "url": "https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Get You The Moon (feat. Sn\u00f8w)",
+        "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Get You The Moon (feat. Sn\u00f8w)",
+      "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -615,22 +631,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Go Flex",
-      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "True 2 Myself",
         "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 224000,
       "name": "F.N",
       "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -663,18 +679,34 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
+      "duration_ms": 156266,
+      "name": "Hollywood's Bleeding",
+      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 116240,
+      "name": "Did It Again",
+      "url": "https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -711,22 +743,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 160166,
-      "name": "Never Felt So Alone",
-      "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -743,34 +759,34 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 116240,
-      "name": "Did It Again",
-      "url": "https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj"
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     },
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 156266,
-      "name": "Hollywood's Bleeding",
-      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -819,22 +835,6 @@
       "duration_ms": 90323,
       "name": "Vas",
       "url": "https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     }
   ],
   "unique_name": "sad boy anthems",

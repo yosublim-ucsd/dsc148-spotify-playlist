@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "ODYyLDFhZjNjOWQwNGEyNjZlNzBiNjUyYjFlNmYzZTM0Mzg1NWE5MjFiZWU=",
+  "snapshot_id": "ODYzLGUzYjViOWFhNzNiOTM3NjIyNWJjMTc2NzA2M2NmZjc0NWI1NjIwY2Q=",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -13235,6 +13235,26 @@
       "duration_ms": 222360,
       "name": "Bounce Back",
       "url": "https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF"
+    },
+    {
+      "added_at": "2023-10-31 00:24:51",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160725,
+      "name": "T.O.P.",
+      "url": "https://open.spotify.com/track/0C0H3ceDDykj8FQR51gMZP"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

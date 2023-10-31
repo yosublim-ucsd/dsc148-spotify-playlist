@@ -1,12 +1,12 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 208447,
+  "num_followers": 208602,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzRmYzRlZjIyOTgyYWRmM2I3ZTQ3YzliMjAzNTJmN2NmMDFhMjll",
+  "snapshot_id": "MCwzN2FlZGVkYzY3ODM4YzBjMzVjODc1OGE0M2EzZjc5OTI2NTE1ZjEx",
   "tracks": [
     {
       "added_at": "2022-12-07 21:09:44",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
         "name": "La Champions Liga",
         "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
@@ -191,6 +207,22 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
@@ -223,38 +255,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Amor de Internet",
         "url": "https://open.spotify.com/album/4EUUeYCNRYC0eTdlPKF7Rl"
       },
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
         "name": "Sigo Por El Objetivo",
         "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
@@ -283,6 +299,22 @@
       "duration_ms": 146240,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207516,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -319,24 +351,8 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. 3",
-        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 281129,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
       "artists": [
         {
@@ -344,25 +360,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 207516,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -379,6 +379,22 @@
       "duration_ms": 225720,
       "name": "Suavecito Suavecito",
       "url": "https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. 3",
+        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 281129,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -495,8 +511,8 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+      "duration_ms": 194560,
+      "name": "20 Rosas",
+      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -659,22 +675,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "20 Rosas",
-      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Sueno Latino",
         "url": "https://open.spotify.com/album/1hgd43q4QftJJ9RLkz6cz5"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "A Donde Iras Ahora",
-      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 218680,
       "name": "Pibe Cantina",
       "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "A Donde Iras Ahora",
+      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 315680,
-      "name": "El Verde De Tus Ojos - Remix",
-      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Inimitable",
         "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "El Verde De Tus Ojos - Remix",
+      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
         "name": "Coraz\u00f3n Valiente",
         "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 264186,
       "name": "Paisaje",
       "url": "https://open.spotify.com/track/5kTBOyDZXWayo6IseCHIk8"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
-        "name": "Duelo de Sonoras",
-        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
     },
     {
       "added_at": "2022-12-30 17:21:35",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
+        "name": "Duelo de Sonoras",
+        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 252679,
-      "name": "Cumbia Del Chinito",
-      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Llorar",
         "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 201333,
       "name": "Mama Cumbia",
       "url": "https://open.spotify.com/track/1dXasj2uaiOP4B5xPzRcDc"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 252679,
+      "name": "Cumbia Del Chinito",
+      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Como un Dulce Poema, Vol. 3",
-        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
-      },
-      "artists": [
-        {
-          "name": "Rossy War y Su Banda Kaliente",
-          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Nunca Pense Llorar",
-      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Con La Cumbia En La Sangre",
         "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 171333,
       "name": "No Me Vuelvo A Enamorar",
       "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Como un Dulce Poema, Vol. 3",
+        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
+      },
+      "artists": [
+        {
+          "name": "Rossy War y Su Banda Kaliente",
+          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Nunca Pense Llorar",
+      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Locura De Amor",
-        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Karo's",
-          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Amor Carnal",
-      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Se Nos Paso La Mano En Sabor",
         "url": "https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 185306,
       "name": "Ag\u00fcita De Mel\u00f3n",
       "url": "https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Locura De Amor",
+        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Karo's",
+          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Amor Carnal",
+      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Muy Tropical y Bailable - 16 Exitos",
-        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "La Colegiala",
-      "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Nuevamente! Salsas y Cumbias",
         "url": "https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 252000,
       "name": "El Negro Jos\u00e9",
       "url": "https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Muy Tropical y Bailable - 16 Exitos",
+        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "La Colegiala",
+      "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "M\u00fasica Sin Limites - Tropical",
-        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
-      },
-      "artists": [
-        {
-          "name": "Internacional Carro Show",
-          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
-        }
-      ],
-      "duration_ms": 161520,
-      "name": "Amor De Unas Horas",
-      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Tambo Tambo",
         "url": "https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 241600,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5JihaewVTYmV1VexpMQxPp"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "M\u00fasica Sin Limites - Tropical",
+        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
+      },
+      "artists": [
+        {
+          "name": "Internacional Carro Show",
+          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "Amor De Unas Horas",
+      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Serie Diamante - 15 S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "La Suegra",
         "url": "https://open.spotify.com/album/0tIsBHGWrYG0jw699RvDFa"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 244375,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3Esfvvg5LxI9av1sUgYlDO"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Serie Diamante - 15 S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Sue\u00f1o Contigo",
-        "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
-      },
-      "artists": [
-        {
-          "name": "Andikiru",
-          "url": "https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "Mami (Angel De Paz)",
-      "url": "https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Ritmo, Sol y Arena",
         "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 147866,
       "name": "Acapulco Tropical",
       "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Sue\u00f1o Contigo",
+        "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
+      },
+      "artists": [
+        {
+          "name": "Andikiru",
+          "url": "https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Mami (Angel De Paz)",
+      "url": "https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "12 Super Exitos",
-        "url": "https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG"
-      },
-      "artists": [
-        {
-          "name": "Renacimiento 74",
-          "url": "https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU"
-        }
-      ],
-      "duration_ms": 179762,
-      "name": "El Viajecito",
-      "url": "https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 192933,
       "name": "Carta De Recuerdo",
       "url": "https://open.spotify.com/track/7gKRB1lnS911o6rfunYZsd"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "12 Super Exitos",
+        "url": "https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG"
+      },
+      "artists": [
+        {
+          "name": "Renacimiento 74",
+          "url": "https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU"
+        }
+      ],
+      "duration_ms": 179762,
+      "name": "El Viajecito",
+      "url": "https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Paloma Mensajera",
-      "url": "https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/0GmgH6t627664pQxUiEjbt"
       },
@@ -1995,6 +1979,22 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Paloma Mensajera",
+      "url": "https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
         "name": "Muy Tropical y Bailable - 16 Exitos",
         "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "21 A\u00f1os 21 \u00c9xitos",
-        "url": "https://open.spotify.com/album/29uOa1MdlrwUt3yA0vECcd"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Chilito Piqu\u00edn",
-      "url": "https://open.spotify.com/track/3I91CJg3J9pA8POpm9pv9i"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Lo Mejor De Mike Laure",
         "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 195210,
       "name": "La Banda Borracha",
       "url": "https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "21 A\u00f1os 21 \u00c9xitos",
+        "url": "https://open.spotify.com/album/29uOa1MdlrwUt3yA0vECcd"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Chilito Piqu\u00edn",
+      "url": "https://open.spotify.com/track/3I91CJg3J9pA8POpm9pv9i"
     }
   ],
   "unique_name": "Cumbias Viejitas",

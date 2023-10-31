@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-601 songs - 1 day 1 hr 51 min
+602 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Paisible](https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Paisible](https://open.spotify.com/album/2bYxwhnFN7tyW3FKu4BWWu) | 2:33 | 2021-12-07 | 2023-07-05 |
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-03 |  |
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2022-01-18 | 2023-10-26 |
+| [Passage sombre](https://open.spotify.com/track/4w4Q3SAYzhKrHgfht808pu) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:14 | 2023-10-17 |  |
 | [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-17 |  |
 | [patience and fortitude](https://open.spotify.com/track/3EVyJJ54XT7cCJOdAoO5MC) | [lady piano](https://open.spotify.com/artist/1PSFYJJ2psCIar4J01bpy0) | [big sky](https://open.spotify.com/album/4Fsxc3VBsEYAUAuig3h4fU) | 2:26 | 2021-12-07 | 2023-05-20 |
 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-03-01 |  |
@@ -527,7 +528,7 @@
 | [The River](https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 1:58 | 2021-12-07 | 2022-12-24 |
 | [The Sailor's Tale](https://open.spotify.com/track/4CJk8MsMYM1y9ve1jpG9Pz) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Storybook](https://open.spotify.com/album/4DnP1mve2HFOL0XoWYdwvZ) | 2:12 | 2021-12-07 |  |
 | [The Shortest Distance](https://open.spotify.com/track/1IvutkNuvq7URH4twRVeSD) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Shortest Distance](https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY) | 2:41 | 2023-10-17 |  |
-| [The Taste of Snow](https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [The Taste of Snow](https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j) | 2:16 | 2022-03-01 |  |
+| [The Taste of Snow](https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [The Taste of Snow](https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j) | 2:16 | 2022-03-01 | 2023-10-31 |
 | [the time has come](https://open.spotify.com/track/3c0jigaQuhR3R4c6RGX6Ao) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Freedom](https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC) | 2:26 | 2021-12-07 | 2022-07-16 |
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-01-04 |  |
 | [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 | 2023-08-07 |  |

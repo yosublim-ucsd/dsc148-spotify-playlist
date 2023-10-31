@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 85614,
+  "num_followers": 85624,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTQ2ZTIwODA4M2RhZTc0MTg1MjQ3YTA1NGJlZTJjZTUwZTBiMTk5",
+  "snapshot_id": "MCxkNDAzNzlkYmQ1N2Y0MGRkZDVjN2ZhYTVlNDAxYWFkOTAyNWQ3YTM4",
   "tracks": [
     {
       "added_at": "2023-10-26 15:00:00",
@@ -591,6 +591,42 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+    },
+    {
+      "added_at": "2023-10-26 15:00:00",
+      "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 254316,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7"
+    },
+    {
+      "added_at": "2023-10-26 15:00:00",
+      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -623,26 +659,6 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "A Night To Remember",
-        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 233388,
-      "name": "A Night To Remember",
-      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
-    },
-    {
-      "added_at": "2023-10-26 15:00:00",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2023-10-26 15:00:00",
-      "album": {
-        "name": "this is what autumn feels like",
-        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 219909,
-      "name": "this is what autumn feels like",
-      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "A Thousand Years",
-        "url": "https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi"
+        "name": "this is what autumn feels like",
+        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 254316,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7"
+      "duration_ms": 219909,
+      "name": "this is what autumn feels like",
+      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -723,22 +723,22 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Glue Song (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 135066,
-      "name": "Glue Song (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -759,22 +759,22 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Glue Song (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 159123,
-      "name": "For My Hand (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+      "duration_ms": 135066,
+      "name": "Glue Song (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
     },
     {
       "added_at": "2023-10-26 15:00:00",

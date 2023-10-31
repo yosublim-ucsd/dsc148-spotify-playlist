@@ -47204,10 +47204,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 360379,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/2YMdlaPZTxuJ7KSK3HsBPU"
+    },
+    {
+      "album": {
+        "name": "Iterations",
+        "url": "https://open.spotify.com/album/0hhCo8E1T8XtcPeDWlmzRs"
+      },
+      "artists": [
+        {
+          "name": "Tortuga",
+          "url": "https://open.spotify.com/artist/4GkQyssaGtb5WE7UG87n1B"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360379,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/7meNkNlJvnuOqZ2qKZ7Lxb"
     },
     {
       "album": {

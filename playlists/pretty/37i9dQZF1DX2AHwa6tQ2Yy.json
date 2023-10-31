@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 43164,
+  "num_followers": 43216,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjBlZTg5ZjBiOTY0ODBlMWE0M2ZhM2E4ZWUxZDExNDk3NDA3NDg0",
+  "snapshot_id": "MCxmNjNmM2VjYjUwZmY5MWE3N2E1MjgxODQzMGIxMjgxZTA2NTlkYmI1",
   "tracks": [
     {
       "added_at": "2023-10-19 07:40:10",
@@ -443,30 +443,6 @@
     {
       "added_at": "2023-10-19 07:40:10",
       "album": {
-        "name": "My Phone Can Die",
-        "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
-      },
-      "artists": [
-        {
-          "name": "Rory",
-          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 179508,
-      "name": "My Phone Can Die",
-      "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
-    },
-    {
-      "added_at": "2023-10-19 07:40:10",
-      "album": {
         "name": "You Never Visit Me",
         "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2023-10-19 07:40:10",
+      "album": {
+        "name": "My Phone Can Die",
+        "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
+      },
+      "artists": [
+        {
+          "name": "Rory",
+          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 179508,
+      "name": "My Phone Can Die",
+      "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
     },
     {
       "added_at": "2023-10-19 07:40:10",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-10-19 07:40:10",
       "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 157152,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/71KtVFmu7lY2AsKgdG1cZl"
+    },
+    {
+      "added_at": "2023-10-19 07:40:10",
+      "album": {
         "name": "Just Fine",
         "url": "https://open.spotify.com/album/3i18iObygAdcU1eRyYgK0A"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 409866,
       "name": "Transatlantic Flight",
       "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
-    },
-    {
-      "added_at": "2023-10-19 07:40:10",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 157152,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/71KtVFmu7lY2AsKgdG1cZl"
     },
     {
       "added_at": "2023-10-19 07:40:10",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-10-19 07:40:10",
       "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7"
+        "name": "Make It Happen (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT"
       },
       "artists": [
         {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+          "name": "John Splithoff",
+          "url": "https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD"
         }
       ],
-      "duration_ms": 174614,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY"
+      "duration_ms": 269626,
+      "name": "Raye",
+      "url": "https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP"
     },
     {
       "added_at": "2023-10-19 07:40:10",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-10-19 07:40:10",
       "album": {
-        "name": "Make It Happen (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT"
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
       "artists": [
         {
-          "name": "John Splithoff",
-          "url": "https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 269626,
-      "name": "Raye",
-      "url": "https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP"
+      "duration_ms": 233298,
+      "name": "Oceans Of Emotions",
+      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
     },
     {
       "added_at": "2023-10-19 07:40:10",
@@ -963,8 +963,8 @@
     {
       "added_at": "2023-10-19 07:40:10",
       "album": {
-        "name": "No Flowers",
-        "url": "https://open.spotify.com/album/6XGqMVKj10Cq6Du0NpnIGo"
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7"
       },
       "artists": [
         {
@@ -972,41 +972,9 @@
           "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
         }
       ],
-      "duration_ms": 184557,
-      "name": "No Flowers",
-      "url": "https://open.spotify.com/track/3LhW1olpSXYzzQta9OpTSl"
-    },
-    {
-      "added_at": "2023-10-19 07:40:10",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 233298,
-      "name": "Oceans Of Emotions",
-      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
-    },
-    {
-      "added_at": "2023-10-19 07:40:10",
-      "album": {
-        "name": "you already know [demo_2021].wav",
-        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
-      },
-      "artists": [
-        {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
-        }
-      ],
-      "duration_ms": 182169,
-      "name": "you already know [demo_2021].wav",
-      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
+      "duration_ms": 174614,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY"
     },
     {
       "added_at": "2023-10-19 07:40:10",
@@ -1043,6 +1011,22 @@
       "duration_ms": 213404,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
+    },
+    {
+      "added_at": "2023-10-19 07:40:10",
+      "album": {
+        "name": "you already know [demo_2021].wav",
+        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 182169,
+      "name": "you already know [demo_2021].wav",
+      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
     },
     {
       "added_at": "2023-10-19 07:40:10",
@@ -1131,6 +1115,22 @@
       "duration_ms": 207280,
       "name": "No Need 2 Be Sorry, Call Me? (ft. Maverick Sabre)",
       "url": "https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8"
+    },
+    {
+      "added_at": "2023-10-19 07:40:10",
+      "album": {
+        "name": "No Flowers",
+        "url": "https://open.spotify.com/album/6XGqMVKj10Cq6Du0NpnIGo"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 184557,
+      "name": "No Flowers",
+      "url": "https://open.spotify.com/track/3LhW1olpSXYzzQta9OpTSl"
     },
     {
       "added_at": "2023-10-19 07:40:10",

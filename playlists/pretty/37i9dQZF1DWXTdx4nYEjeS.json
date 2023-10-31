@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 724820,
+  "num_followers": 725006,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTM5YThjYmVkNTcxYzBkODc0MjYzOWIwZTU0NWI3MjViNjViNGZl",
+  "snapshot_id": "MCw3YWM4ZGNjMzA5YTI4OGJlNzgyNTAzMzMwYmRlYTYxYTUxNjhkNGZk",
   "tracks": [
     {
       "added_at": "2023-10-19 21:25:58",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-10-19 21:25:58",
       "album": {
-        "name": "Nada Personal (Remastered)",
-        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Cuando Pase El Temblor - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
-    },
-    {
-      "added_at": "2023-10-19 21:25:58",
-      "album": {
         "name": "pa quererte",
         "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 167272,
       "name": "pa quererte",
       "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
+    },
+    {
+      "added_at": "2023-10-19 21:25:58",
+      "album": {
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Cuando Pase El Temblor - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
     },
     {
       "added_at": "2023-10-19 21:25:58",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-10-19 21:25:58",
       "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2023-10-19 21:25:58",
+      "album": {
         "name": "MORFEO",
         "url": "https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 273800,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
-    },
-    {
-      "added_at": "2023-10-19 21:25:58",
-      "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2023-10-19 21:25:58",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-10-19 21:25:58",
       "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Te Para 3 - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
+    },
+    {
+      "added_at": "2023-10-19 21:25:58",
+      "album": {
         "name": "El Camino M\u00e1s Largo",
         "url": "https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 298000,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl"
-    },
-    {
-      "added_at": "2023-10-19 21:25:58",
-      "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Te Para 3 - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
     },
     {
       "added_at": "2023-10-19 21:25:58",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-10-19 21:25:58",
       "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
-    },
-    {
-      "added_at": "2023-10-19 21:25:58",
-      "album": {
         "name": "Coti",
         "url": "https://open.spotify.com/album/7wv093HeXvQuJZvOD6m2gG"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 247453,
       "name": "Un Osito de Peluche de Taiw\u00e1n",
       "url": "https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn"
+    },
+    {
+      "added_at": "2023-10-19 21:25:58",
+      "album": {
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
     },
     {
       "added_at": "2023-10-19 21:25:58",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-10-19 21:25:58",
       "album": {
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Obsesionario en La Mayor",
+      "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
+    },
+    {
+      "added_at": "2023-10-19 21:25:58",
+      "album": {
         "name": "Esperando el Milagro",
         "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 234760,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
-    },
-    {
-      "added_at": "2023-10-19 21:25:58",
-      "album": {
-        "name": "Obsesionario",
-        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Obsesionario en La Mayor",
-      "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
     },
     {
       "added_at": "2023-10-19 21:25:58",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-19 21:25:58",
       "album": {
-        "name": "Sea",
-        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Me haces bien",
-      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
-    },
-    {
-      "added_at": "2023-10-19 21:25:58",
-      "album": {
         "name": "Sue\u00f1o Dorado",
         "url": "https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 231426,
       "name": "Sin Principio Ni Final",
       "url": "https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2"
+    },
+    {
+      "added_at": "2023-10-19 21:25:58",
+      "album": {
+        "name": "Sea",
+        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Me haces bien",
+      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
     },
     {
       "added_at": "2023-10-19 21:25:58",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-10-19 21:25:58",
       "album": {
+        "name": "La Voz Del Viento",
+        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
+      },
+      "artists": [
+        {
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "La Noche Sin T\u00ed",
+      "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
+    },
+    {
+      "added_at": "2023-10-19 21:25:58",
+      "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2023-10-19 21:25:58",
       "album": {
-        "name": "La Voz Del Viento",
-        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
+        "name": "11",
+        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
       },
       "artists": [
         {
-          "name": "Los Huayra",
-          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 258826,
-      "name": "La Noche Sin T\u00ed",
-      "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
+      "duration_ms": 221080,
+      "name": "Oncemil",
+      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
     },
     {
       "added_at": "2023-10-19 21:25:58",
@@ -1467,22 +1483,6 @@
       "duration_ms": 277011,
       "name": "Los Calientes",
       "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
-    },
-    {
-      "added_at": "2023-10-19 21:25:58",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Oncemil",
-      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
     },
     {
       "added_at": "2023-10-19 21:25:58",

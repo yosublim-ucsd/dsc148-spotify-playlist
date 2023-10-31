@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 169250,
+  "num_followers": 169281,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2MyNzA1MzRkMDI0MDc5ODBkZmYxMjUzMDQ1YTlkY2FiYmYwOTZi",
+  "snapshot_id": "MCwzYTg3N2FmZmJiOGQxNTUzZDM3MWUyZTI1ZDE1YjBhNjAyYjViM2Jk",
   "tracks": [
     {
       "added_at": "2023-10-27 22:00:21",
@@ -207,6 +207,42 @@
     {
       "added_at": "2023-10-27 22:00:21",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "LA NOCHE DE ANOCHE",
+      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
+        "name": "VITAMINA D",
+        "url": "https://open.spotify.com/album/4psggAblmOxpE19d4XoDsw"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "duration_ms": 191370,
+      "name": "VITAMINA D",
+      "url": "https://open.spotify.com/track/3fyTzHQ46mylLRmHL1kphx"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -227,18 +263,38 @@
     {
       "added_at": "2023-10-27 22:00:21",
       "album": {
-        "name": "VITAMINA D",
-        "url": "https://open.spotify.com/album/4psggAblmOxpE19d4XoDsw"
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3fn1M68Gh002OTwb34c7Aq"
       },
       "artists": [
         {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 191370,
-      "name": "VITAMINA D",
-      "url": "https://open.spotify.com/track/3fyTzHQ46mylLRmHL1kphx"
+      "duration_ms": 164324,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5dZ7znkYz4R9zCz8OHj5IK"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
+        "name": "BUBALU",
+        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
     },
     {
       "added_at": "2023-10-27 22:00:21",
@@ -263,62 +319,6 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3fn1M68Gh002OTwb34c7Aq"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 164324,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/5dZ7znkYz4R9zCz8OHj5IK"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "LA NOCHE DE ANOCHE",
-      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
-        "name": "BUBALU",
-        "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
     },
     {
       "added_at": "2023-10-27 22:00:21",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-10-27 22:00:21",
       "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "CONTIGO VOY A MUERTE",
+      "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "CONTIGO VOY A MUERTE",
-      "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
     },
     {
       "added_at": "2023-10-27 22:00:21",
@@ -539,22 +539,6 @@
       "duration_ms": 160000,
       "name": "FLORES",
       "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2023-10-27 22:00:21",
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-10-27 22:00:21",
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-27 22:00:21",
       "album": {
-        "name": "VENTE CONMIGO",
-        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "VENTE CONMIGO",
-      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
         "name": "Palabras Sobran",
         "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 206760,
       "name": "Ayer Me Llam\u00f3 Mi Ex",
       "url": "https://open.spotify.com/track/3ef2QlCUWO29UvqJaU3MUi"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
+        "name": "VENTE CONMIGO",
+        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "VENTE CONMIGO",
+      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
     },
     {
       "added_at": "2023-10-27 22:00:21",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-10-27 22:00:21",
       "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 226010,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
         "name": "Nunca Tristes (Me Vale Madre)",
         "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 197960,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/1iYCHzSdZPPoyWuRAJET0l"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 226010,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
     },
     {
       "added_at": "2023-10-27 22:00:21",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2023-10-27 22:00:21",
       "album": {
-        "name": "CHAO BEBE",
-        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 206499,
-      "name": "CHAO BEBE",
-      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
         "name": "T\u00fa Me Mientes",
         "url": "https://open.spotify.com/album/4VOFDUp6KaKOe1r68ko701"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 203571,
       "name": "Fumando",
       "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
+        "name": "CHAO BEBE",
+        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 206499,
+      "name": "CHAO BEBE",
+      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
     },
     {
       "added_at": "2023-10-27 22:00:21",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-10-27 22:00:21",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
         "name": "Joder",
         "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-10-27 22:00:21",
       "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
         "name": "Se\u00f1ales",
         "url": "https://open.spotify.com/album/2aiC1DHkCfDeUClyKukRPm"
       },
@@ -1595,6 +1595,46 @@
       "duration_ms": 126958,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
+        "name": "Apaga la Luz",
+        "url": "https://open.spotify.com/album/4UfXhzN4scJjic6pl8AkAF"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 191223,
+      "name": "Apaga la Luz",
+      "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
     },
     {
       "added_at": "2023-10-27 22:00:21",
@@ -1647,46 +1687,6 @@
       "duration_ms": 239206,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
-      },
-      "artists": [
-        {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
-        "name": "Apaga la Luz",
-        "url": "https://open.spotify.com/album/4UfXhzN4scJjic6pl8AkAF"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 191223,
-      "name": "Apaga la Luz",
-      "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
     },
     {
       "added_at": "2023-10-27 22:00:21",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-10-27 22:00:21",
       "album": {
-        "name": "HOY ME PORTO MAL",
-        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
+      "duration_ms": 177272,
+      "name": "\u00bfQu\u00e9 Tiene?",
+      "url": "https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg"
     },
     {
       "added_at": "2023-10-27 22:00:21",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-10-27 22:00:21",
       "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "\u00bfQu\u00e9 Tiene?",
-      "url": "https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg"
-    },
-    {
-      "added_at": "2023-10-27 22:00:21",
-      "album": {
         "name": "Ya No Somos",
         "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 189152,
       "name": "Ya No Somos",
       "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+    },
+    {
+      "added_at": "2023-10-27 22:00:21",
+      "album": {
+        "name": "HOY ME PORTO MAL",
+        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
     },
     {
       "added_at": "2023-10-27 22:00:21",

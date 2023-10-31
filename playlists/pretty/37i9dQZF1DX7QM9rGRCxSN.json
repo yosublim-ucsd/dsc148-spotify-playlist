@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 27603,
+  "num_followers": 27633,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjlhZmVmNjIxYzUyZDI5MmJlOGI5NWRkZmJiOTgzNDg3ZWEzNjE2",
+  "snapshot_id": "MCxlZmI2YTY2MGVlZGNkMTljMmQ1ZTA4MzFiNTU1ZGE2NzMxY2ZmNTRj",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Cielos Desconocidos",
-        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 328040,
-      "name": "Hasta Que el Tiempo No Nos Separe",
-      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
         "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
       },
@@ -323,34 +307,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+        "name": "Cielos Desconocidos",
+        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
       },
       "artists": [
         {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
         }
       ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Unidad De Desplazamiento",
-        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
-      },
-      "artists": [
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 279800,
-      "name": "Santos Que Yo Te Pinte",
-      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
+      "duration_ms": 328040,
+      "name": "Hasta Que el Tiempo No Nos Separe",
+      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -367,6 +335,22 @@
       "duration_ms": 191573,
       "name": "El Primero",
       "url": "https://open.spotify.com/track/4cIDUCqPKBoFmpYhb3iKU9"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -391,18 +375,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Jungla",
-        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
+        "name": "Unidad De Desplazamiento",
+        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
       },
       "artists": [
         {
-          "name": "Rayo",
-          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
         }
       ],
-      "duration_ms": 183080,
-      "name": "Mapas",
-      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
+      "duration_ms": 279800,
+      "name": "Santos Que Yo Te Pinte",
+      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -419,6 +403,22 @@
       "duration_ms": 319058,
       "name": "Wow",
       "url": "https://open.spotify.com/track/5nO4n8RClXZg2ugsBU9hXy"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Jungla",
+        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
+      },
+      "artists": [
+        {
+          "name": "Rayo",
+          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Mapas",
+      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 386604,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -483,6 +467,38 @@
       "duration_ms": 395146,
       "name": "D'arcy",
       "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Margaritas Podridas",
+        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 174343,
+      "name": "Purpura",
+      "url": "https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 386604,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -515,38 +531,6 @@
       "duration_ms": 298122,
       "name": "What\u2019s holding you?",
       "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Amor de Furgoneta",
-        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 192865,
-      "name": "Amor de Furgoneta",
-      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Margaritas Podridas",
-        "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 174343,
-      "name": "Purpura",
-      "url": "https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -587,18 +571,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
+        "name": "Amor de Furgoneta",
+        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
       },
       "artists": [
         {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
         }
       ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
+      "duration_ms": 192865,
+      "name": "Amor de Furgoneta",
+      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Tri\u00e1ngulo de Amor Bizarro",
-        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
       },
       "artists": [
         {
-          "name": "Tri\u00e1ngulo de Amor Bizarro",
-          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
         }
       ],
-      "duration_ms": 361064,
-      "name": "Fukushima",
-      "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -663,6 +647,22 @@
       "duration_ms": 100036,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Tri\u00e1ngulo de Amor Bizarro",
+        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        }
+      ],
+      "duration_ms": 361064,
+      "name": "Fukushima",
+      "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Animita",
-        "url": "https://open.spotify.com/album/2gz1tfqRhfFjD4noTtqKUs"
-      },
-      "artists": [
-        {
-          "name": "Adelaida",
-          "url": "https://open.spotify.com/artist/5ugKDsPNjtGyV7WxD7nTYS"
-        }
-      ],
-      "duration_ms": 265606,
-      "name": "Efervecencia",
-      "url": "https://open.spotify.com/track/2YYyNYvGBlobj2UjpWGcNo"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Margaritas Podridas",
         "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 282169,
       "name": "Osa Polar",
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Animita",
+        "url": "https://open.spotify.com/album/2gz1tfqRhfFjD4noTtqKUs"
+      },
+      "artists": [
+        {
+          "name": "Adelaida",
+          "url": "https://open.spotify.com/artist/5ugKDsPNjtGyV7WxD7nTYS"
+        }
+      ],
+      "duration_ms": 265606,
+      "name": "Efervecencia",
+      "url": "https://open.spotify.com/track/2YYyNYvGBlobj2UjpWGcNo"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Aterrizar",
-      "url": "https://open.spotify.com/track/4b6k0q2chMQGuAvwCxBYNn"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "reina de primavera",
         "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 245840,
       "name": "reina de primavera",
       "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Aterrizar",
+      "url": "https://open.spotify.com/track/4b6k0q2chMQGuAvwCxBYNn"
     },
     {
       "added_at": "2023-05-05 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,183 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,339 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/track/4XXJnTdwm0MaKLP2OXajCU) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Skalpovich](https://open.spotify.com/artist/0Flx9EfBqXHltFcp3guYVt) | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/album/2LFb14evc1ArfZ8SkQUbcl) | 3:03 |
 | 40 | [Coeur De Pirate](https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Coeur De Pirate](https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY) | 3:00 |
 
-Snapshot ID: `MCxlODNlNTNkZjY3N2FmMzViYTNmMzhjMTEyZTk1MDdlNGFlZTEyNTI5`
+Snapshot ID: `MCxmYTZlMmU4YzkzZmY2MGYyODQ0ZDhmMDZmOTU0MTM5MjViNWRkMTRk`

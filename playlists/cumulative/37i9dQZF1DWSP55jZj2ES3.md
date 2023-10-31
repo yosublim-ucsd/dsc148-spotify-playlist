@@ -4,7 +4,7 @@
 
 > Indie jams that sound like lounging under the sun with friends.
 
-281 songs - 16 hr 7 min
+282 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-09-16 |  |
 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2023-01-19 |  |
 | [be cool](https://open.spotify.com/track/6AzPHXMvAtBmzISu4NhOIm) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [be cool](https://open.spotify.com/album/3aDhMq947HZuufg7tsJCPo) | 2:23 | 2021-10-26 | 2022-07-29 |
-| [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 | 2022-07-28 |  |
+| [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 | 2022-07-28 | 2023-10-31 |
 | [Beach Bummer](https://open.spotify.com/track/1EEon0WCgeb8cTUbqo6qlq) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/5pqwxGPtXIBYHBQ0r7Sydq) | 2:28 | 2023-09-16 |  |
 | [Beach Bummer](https://open.spotify.com/track/4loxhrC7MqARWyHLofmhtW) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/04Yi3MVgftQcAqIqVdy9Wu) | 2:28 | 2021-10-26 | 2023-10-07 |
 | [Beat 54 \(All Good Now\)](https://open.spotify.com/track/7CFbh9XfJ40XaYWgCbYX3H) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 4:06 | 2021-10-26 |  |
@@ -50,6 +50,7 @@
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-01-19 | 2023-03-20 |
 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 | 2023-01-19 | 2023-09-16 |
 | [Clouds](https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM) | 2:38 | 2023-01-19 | 2023-02-11 |
+| [Clueless](https://open.spotify.com/track/4pnXcQSeFwrr3GPHEmeS7m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 3:47 | 2023-09-16 |  |
 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 | 2022-03-17 | 2023-10-25 |
 | [Cocoa Butter Kisses](https://open.spotify.com/track/0aMHIW1lqrulVCx0LLlr6a) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Acid Rap](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh) | 5:07 | 2021-10-26 | 2022-07-29 |
 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 | 2023-09-16 |  |

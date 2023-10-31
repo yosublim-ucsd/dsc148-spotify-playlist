@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Cover: Zara Larsson, David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,961 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,213 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 | 69 | [Yesterday](https://open.spotify.com/track/7ar5VLrVTyXPmJpyfzzAa6) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Yesterday](https://open.spotify.com/album/7013wm9XVP8PgvytXjKRug) | 2:20 |
 | 70 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 |
 
-Snapshot ID: `MCwzN2MwYzYwNjBlYTIwZTc4NWI2M2JiZjc3ZDNlNjRmZTI1NmVkY2Qz`
+Snapshot ID: `MCw1MzM3NDlhOGIwYWNjNzUwYjU4MThhMzgwNTVkNjc1YjdjYzgzZWY3`

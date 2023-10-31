@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNbedlqmPup.md) - [plain]
 
 > <a href="spotify:artist:5B9q1NRokzWYB7nSgnlHyv">Giuseppe Ottaviani</a> delivers a superb mix of trance and progressive tracks, taken from his 'Horizons' mix series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,322 likes - 12 songs - 59 min 34 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,348 likes - 12 songs - 59 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNbedlqmPup.md) - [plain]
 | 11 | [Hell & High Water \- DRYM Remix \- Mixed](https://open.spotify.com/track/0q64WyOYcm9CLvfuIFjYha) | [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [GXD](https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8), [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq) | [Hell & High Water \- DRYM Remix \(Mixed\)](https://open.spotify.com/album/1KdsrvmS9CebengnKNDTM9) | 6:19 |
 | 12 | [Euphoria \- Extended Mix \- Mixed](https://open.spotify.com/track/2nn6SNa6L02KIL8LAzzeQG) | [Pietro Palascino](https://open.spotify.com/artist/2024OZhSLW17ayezyotwKP) | [Euphoria \- Extended Mix \(Mixed\)](https://open.spotify.com/album/2cQVQZowVdYk1gq57Pq5q3) | 3:55 |
 
-Snapshot ID: `MCxjZDhjOTY1MjRiMTA4MDVkNjYyYTMzYWJhMTllNjBmOWUyY2RhODY2`
+Snapshot ID: `MCwxNTBhNjM4ZGY5NWM5MDI2ODgwOWI3NWFmMDIxNzhmMTc0OGNjYmE1`

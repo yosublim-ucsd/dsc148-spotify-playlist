@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 699 songs - 1 day 11 hr 27 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 700 songs - 1 day 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -707,5 +707,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 697 | [Family Freestyle](https://open.spotify.com/track/5u8m1YQAVoyu5k81b5DWvr) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Family Freestyle](https://open.spotify.com/album/1QkPatRtkzJahrvBV56gJe) | 3:35 |
 | 698 | [DISABILITY CHECKS \(feat\. G Herbo\)](https://open.spotify.com/track/4fIANYod2VuxuW1bJi7JBj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 3:22 |
 | 699 | [Bounce Back](https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 3:42 |
+| 700 | [T.O.P.](https://open.spotify.com/track/0C0H3ceDDykj8FQR51gMZP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 2:40 |
 
-Snapshot ID: `ODYyLDFhZjNjOWQwNGEyNjZlNzBiNjUyYjFlNmYzZTM0Mzg1NWE5MjFiZWU=`
+Snapshot ID: `ODYzLGUzYjViOWFhNzNiOTM3NjIyNWJjMTc2NzA2M2NmZjc0NWI1NjIwY2Q=`

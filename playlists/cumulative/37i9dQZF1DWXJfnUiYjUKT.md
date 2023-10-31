@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Taylor Swift
 
-9,350 songs - 20 day 13 hr 2 min
+9,351 songs - 20 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4066,7 +4066,8 @@
 | [ICE COLD ZEL FREESTYLE \[Feat\. ICECOLDBISHOP\]](https://open.spotify.com/track/4P6ivDGUbbfXWpFJVyzV6s) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [BLOOD ON MY NIKEZ](https://open.spotify.com/album/6XJQyWSjUaPb0M30hX2QU8) | 1:39 | 2023-08-04 | 2023-08-12 |
 | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0) | 2:03 | 2022-03-31 | 2022-04-08 |
 | [Ice Cream \(feat\. YN Jay & Riff Raff\)](https://open.spotify.com/track/2aA3Xz6XKAo96jp03h4Zak) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o) | [MegaTron 2](https://open.spotify.com/album/7zezk3hbEWlOooKBLuLJKp) | 3:01 | 2023-10-27 |  |
-| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-27 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-27 |  |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-27 | 2023-10-31 |
 | [Ice Cream Dream \(feat\. French Montana\)](https://open.spotify.com/track/1BsZW3NH0aTEc7KMmglYWU) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Ice Cream Dream \(feat\. French Montana\)](https://open.spotify.com/album/3UkdUEC0ih1F7F6tXMlXbT) | 2:32 | 2022-04-21 | 2022-04-29 |
 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 | 2023-02-03 | 2023-02-11 |
 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2023-08-25 | 2023-09-02 |

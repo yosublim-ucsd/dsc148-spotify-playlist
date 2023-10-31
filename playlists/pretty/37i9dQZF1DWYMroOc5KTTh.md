@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,443 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,651 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 25 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
 | 26 | [Liquid Spirit \- Claptone Remix](https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Liquid Spirit \(Claptone Remix\)](https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2) | 6:23 |
 | 27 | [Dopamine](https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd) | 4:03 |
-| 28 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 |
+| 28 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
 | 29 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
-| 30 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
+| 30 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 |
 | 31 | [Lady Love](https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh) | 2:54 |
 | 32 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 33 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 | 50 | [Bunny](https://open.spotify.com/track/6ap5AekhAt3k6e0zAknDyV) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 3:34 |
 
-Snapshot ID: `MCw0ZDg5OGVkNDJhYTAzODRjYTg1ZTVhMzE3YjhmZjE5MGZiNWI4M2I4`
+Snapshot ID: `MCw1ODhjYzNjMDI3NWEzZWY1NDg4M2NlZTIxMjI2MDFmYzI3ZTBlOTdh`

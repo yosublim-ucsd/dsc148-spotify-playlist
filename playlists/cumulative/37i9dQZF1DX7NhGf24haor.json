@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Beatbox Rocker",
+        "url": "https://open.spotify.com/album/4a8PMWyKo7HUIEWqwQihgK"
+      },
+      "artists": [
+        {
+          "name": "Maltorian",
+          "url": "https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172597,
+      "name": "Beatbox Rocker",
+      "url": "https://open.spotify.com/track/65QR5zWJ17jqNafWA4fuip"
+    },
+    {
+      "album": {
         "name": "Beg For You",
         "url": "https://open.spotify.com/album/2D28gqCRaVqTsVHiMPQ6Ro"
       },
@@ -2096,6 +2114,24 @@
       "duration_ms": 231000,
       "name": "Darkside",
       "url": "https://open.spotify.com/track/6Fzn8WOBnpiPnNxjP9Ghew"
+    },
+    {
+      "album": {
+        "name": "Das Ist Kein Techno",
+        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165003,
+      "name": "Das Ist Kein Techno",
+      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
     },
     {
       "album": {
@@ -4898,6 +4934,24 @@
       "duration_ms": 203708,
       "name": "I Raise My Glass",
       "url": "https://open.spotify.com/track/5qpd9dnhtOojDgdA29BhfO"
+    },
+    {
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/5VqugzmPIecQ6AD9ld0hfe"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2023-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182852,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
     },
     {
       "album": {

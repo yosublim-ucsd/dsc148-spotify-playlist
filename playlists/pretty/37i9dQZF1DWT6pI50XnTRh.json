@@ -1,12 +1,12 @@
 {
   "description": "Nostalgic '70-ies and '80-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa. Get your boogie on!",
-  "num_followers": 180640,
+  "num_followers": 180672,
   "original_name": "AfroBoogie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGIyOWEwZDIyZTY5MGFmZGNjNWE2YTg0MDNlNzgzYmNiMDljMjgw",
+  "snapshot_id": "MCw2OTZhZmZmOTAwNjFjYTllYTkwZjVmYmM1NGJiMDVhNjg1ZDFkY2Fh",
   "tracks": [
     {
       "added_at": "2022-09-26 14:48:22",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "This Is Eddy Grant",
-        "url": "https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX"
-      },
-      "artists": [
-        {
-          "name": "Eddy Grant",
-          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
-        }
-      ],
-      "duration_ms": 235799,
-      "name": "Say I Love You",
-      "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
         "name": "Ojah Awake",
         "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 224706,
       "name": "The Warrior",
       "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
+        "name": "This Is Eddy Grant",
+        "url": "https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX"
+      },
+      "artists": [
+        {
+          "name": "Eddy Grant",
+          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
+        }
+      ],
+      "duration_ms": 235799,
+      "name": "Say I Love You",
+      "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
     },
     {
       "added_at": "2022-09-26 14:48:22",

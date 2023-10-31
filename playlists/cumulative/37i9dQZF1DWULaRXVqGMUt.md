@@ -4,7 +4,7 @@
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-101 songs - 5 hr 6 min
+102 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Laci's Boogie](https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR) | [Luca Sestak](https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ) | [New Way](https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8) | 5:32 | 2022-05-13 |  |
 | [Later Alligator \(See You Later, Alligator\)](https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu) | [Bobby Charles](https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1) | [See You Later, Alligator](https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s) | 3:45 | 2022-05-13 |  |
 | [Let Me Go Home Whiskey](https://open.spotify.com/track/33343QHpDEcf022acPZMw8) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Let's Have A Party! \(The Aladdin Recordings\)](https://open.spotify.com/album/7iDour2LtChLy6IyUYD6JF) | 2:47 | 2022-05-13 | 2022-07-29 |
+| [Let Me Go Home, Whiskey](https://open.spotify.com/track/25Ae3RvcXl3QXhkgtpGVDm) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Chicken Shack Boogie](https://open.spotify.com/album/4NQQLUJTNkuzX8u859MTBQ) | 2:45 | 2023-09-15 |  |
 | [Let Me Go Home, Whiskey](https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:49 | 2022-07-12 | 2023-09-15 |
 | [Long Tall Sally](https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:30 | 2022-05-13 |  |
 | [Mac's Boogie](https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Plays Mac Rebennack](https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS) | 3:58 | 2023-09-15 |  |
@@ -95,7 +96,7 @@
 | [Slider](https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:08 | 2022-05-13 |  |
 | [Spann's Stomp](https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Chicago/The Blues/Today!](https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T) | 2:21 | 2022-05-13 |  |
 | [State Street Jive](https://open.spotify.com/track/13tAODj2iJ7dvkCpuQfjnl) | [Charles "Cow Cow" Davenport](https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd), [Ivy Smith](https://open.spotify.com/artist/6MqEZRuMFYxnndSFfU1Naa) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/468gPPcEUsiaFqQgTDidDb) | 3:01 | 2022-05-13 | 2022-07-14 |
-| [State Street Jive](https://open.spotify.com/track/2SDm7Yn0uWuiimKzFpnoEW) | [Charles "Cow Cow" Davenport](https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd), [Ivy Smith](https://open.spotify.com/artist/3Cn3MlNoC7D2vHMvjJgV2Y) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 3:01 | 2023-01-10 |  |
+| [State Street Jive](https://open.spotify.com/track/2SDm7Yn0uWuiimKzFpnoEW) | [Charles "Cow Cow" Davenport](https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd), [Ivy Smith](https://open.spotify.com/artist/3Cn3MlNoC7D2vHMvjJgV2Y) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 3:01 | 2023-01-10 | 2023-10-31 |
 | [Stompin' At the 'subway'](https://open.spotify.com/track/4bGflDbniZ9ja3qveYItnZ) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 2:20 | 2022-05-13 |  |
 | [Sue's Boogie](https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP) | [Sue Palmer](https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v) | [Boogie Woogie Motel Swing](https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP) | 2:03 | 2022-05-13 |  |
 | [Swanee River Boogie](https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7) | [Jon Cleary](https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX) | [So Swell](https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO) | 2:31 | 2023-04-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3, featuring Gente de Zona.",
-  "num_followers": 56163,
+  "num_followers": 56225,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjFhYjAyOThhNDg4NjA3MjU3ZTc4OTg2ZTc5MDNlODg2ZjZlYzEx",
+  "snapshot_id": "MCw0YmNmZmExOWEyYmM0MWZlMTgwZDkxNDg2OTM4Y2NkZjI4NWRmZWU4",
   "tracks": [
     {
       "added_at": "2023-10-24 20:05:51",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-10-24 20:05:51",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
+    },
+    {
+      "added_at": "2023-10-24 20:05:51",
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -167,22 +183,6 @@
     {
       "added_at": "2023-10-24 20:05:51",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
-      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
-    },
-    {
-      "added_at": "2023-10-24 20:05:51",
-      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -199,6 +199,26 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+    },
+    {
+      "added_at": "2023-10-24 20:05:51",
+      "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 142334,
+      "name": "Seg\u00fan Qui\u00e9n",
+      "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
     },
     {
       "added_at": "2023-10-24 20:05:51",
@@ -227,26 +247,6 @@
     {
       "added_at": "2023-10-24 20:05:51",
       "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 142334,
-      "name": "Seg\u00fan Qui\u00e9n",
-      "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
-    },
-    {
-      "added_at": "2023-10-24 20:05:51",
-      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
       },
@@ -271,26 +271,6 @@
     {
       "added_at": "2023-10-24 20:05:51",
       "album": {
-        "name": "El Jefe",
-        "url": "https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 170297,
-      "name": "El Jefe",
-      "url": "https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o"
-    },
-    {
-      "added_at": "2023-10-24 20:05:51",
-      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 216327,
       "name": "FINA",
       "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
+    },
+    {
+      "added_at": "2023-10-24 20:05:51",
+      "album": {
+        "name": "El Jefe",
+        "url": "https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 170297,
+      "name": "El Jefe",
+      "url": "https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o"
     },
     {
       "added_at": "2023-10-24 20:05:51",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-24 20:05:51",
       "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 191959,
-      "name": "CYBERTRUCK",
-      "url": "https://open.spotify.com/track/4Jc7252S1P99DjQ1lNGEOc"
-    },
-    {
-      "added_at": "2023-10-24 20:05:51",
-      "album": {
         "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
         "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 346000,
       "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
       "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
+    },
+    {
+      "added_at": "2023-10-24 20:05:51",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 191959,
+      "name": "CYBERTRUCK",
+      "url": "https://open.spotify.com/track/4Jc7252S1P99DjQ1lNGEOc"
     },
     {
       "added_at": "2023-10-24 20:05:51",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-10-24 20:05:51",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 143789,
+      "name": "OKI DOKI",
+      "url": "https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf"
+    },
+    {
+      "added_at": "2023-10-24 20:05:51",
+      "album": {
         "name": "ASI ES LA VIDA",
         "url": "https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5"
       },
@@ -547,6 +563,26 @@
       "duration_ms": 173991,
       "name": "Narcotics (with Bryant Myers)",
       "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
+    },
+    {
+      "added_at": "2023-10-24 20:05:51",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 202635,
+      "name": "MERCEDES CAROTA",
+      "url": "https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU"
     },
     {
       "added_at": "2023-10-24 20:05:51",
@@ -607,38 +643,26 @@
     {
       "added_at": "2023-10-24 20:05:51",
       "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 202635,
-      "name": "MERCEDES CAROTA",
-      "url": "https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU"
-    },
-    {
-      "added_at": "2023-10-24 20:05:51",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
       "artists": [
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 143789,
-      "name": "OKI DOKI",
-      "url": "https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf"
+      "duration_ms": 205144,
+      "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
+      "url": "https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761"
     },
     {
       "added_at": "2023-10-24 20:05:51",
@@ -687,26 +711,6 @@
     {
       "added_at": "2023-10-24 20:05:51",
       "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
-    },
-    {
-      "added_at": "2023-10-24 20:05:51",
-      "album": {
         "name": "COBARDE",
         "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
@@ -743,30 +747,6 @@
     {
       "added_at": "2023-10-24 20:05:51",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 205144,
-      "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
-      "url": "https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761"
-    },
-    {
-      "added_at": "2023-10-24 20:05:51",
-      "album": {
         "name": "Brillan",
         "url": "https://open.spotify.com/album/6zMKSeKh95EJXEu711CS3W"
       },
@@ -779,6 +759,54 @@
       "duration_ms": 120000,
       "name": "Brillan",
       "url": "https://open.spotify.com/track/5fu9rbNq6GRsQcj4tWIoe2"
+    },
+    {
+      "added_at": "2023-10-24 20:05:51",
+      "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
+    },
+    {
+      "added_at": "2023-10-24 20:05:51",
+      "album": {
+        "name": "LA BABY",
+        "url": "https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "LA BABY",
+      "url": "https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi"
     },
     {
       "added_at": "2023-10-24 20:05:51",
@@ -859,34 +887,6 @@
       "duration_ms": 183616,
       "name": "Mal Necesario",
       "url": "https://open.spotify.com/track/2y7AtihhJAgkfIYMuv6Y6z"
-    },
-    {
-      "added_at": "2023-10-24 20:05:51",
-      "album": {
-        "name": "LA BABY",
-        "url": "https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "LA BABY",
-      "url": "https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi"
     },
     {
       "added_at": "2023-10-24 20:05:51",

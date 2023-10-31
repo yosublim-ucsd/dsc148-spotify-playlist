@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 418901,
+  "num_followers": 418931,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTllZjEwZGUwYTVmN2YwODZlMmM1ODc3NzE0MjBkNTVjZjNkODk5",
+  "snapshot_id": "MCw2NzM3OTM5NmVkZjQ0NGIwNTVhMDQ0MDEzZWE1YTlmNzE5YWM3MjZl",
   "tracks": [
     {
       "added_at": "2023-10-26 20:32:45",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
         "name": "Giros",
         "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 247000,
       "name": "Te Para 3 - MTV Unplugged",
       "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         }
       ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
+      "duration_ms": 122760,
+      "name": "Je ne t'aime plus",
+      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 122760,
-      "name": "Je ne t'aime plus",
-      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -319,6 +319,22 @@
       "duration_ms": 202063,
       "name": "A Las Nueve",
       "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Te Llevo para Que Me Lleves",
+      "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -379,38 +395,6 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
-        "name": "Amor Amarillo",
-        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Te Llevo para Que Me Lleves",
-      "url": "https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 168125,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
         "name": "Todo el D\u00eda As\u00ed",
         "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 162160,
       "name": "Tu Nombre y el M\u00edo",
       "url": "https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "An\u0303os Luz",
-      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
         "name": "Guerras (Un Viaje en el Tiempo)",
         "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 194343,
       "name": "Te Encontr\u00e9 (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "An\u0303os Luz",
+      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
+        "name": "Destilar",
+        "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 260523,
+      "name": "La Luna de Neuqu\u00e9n",
+      "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
         "name": "Algo Es Mejor",
         "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
-        "name": "Destilar",
-        "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 260523,
-      "name": "La Luna de Neuqu\u00e9n",
-      "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
     },
     {
       "added_at": "2023-10-26 20:32:45",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-10-26 20:32:45",
       "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
+    },
+    {
+      "added_at": "2023-10-26 20:32:45",
+      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 191475,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD"
-    },
-    {
-      "added_at": "2023-10-26 20:32:45",
-      "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "added_at": "2023-10-26 20:32:45",

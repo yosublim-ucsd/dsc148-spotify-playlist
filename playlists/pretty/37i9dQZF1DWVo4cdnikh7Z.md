@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,161 likes - 62 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,930 likes - 62 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 24 | [Past is Past \- From "Think Indie"](https://open.spotify.com/track/4Cw0Ua3wB7cwZO95ltVnKT) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Past is Past \(From "Think Indie"\)](https://open.spotify.com/album/55uZkDzLjcbUvaWGFQ8asq) | 3:19 |
 | 25 | [Machaane Unnaala \(From "Tiger Nageswara Rao"\)](https://open.spotify.com/track/7AotfV7sDwJARza5FpFE1W) | [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Uma Devi](https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo) | [Machaane Unnaala \(From "Tiger Nageswara Rao"\)](https://open.spotify.com/album/0z4PGLmxr7716E1ZhFJscK) | 4:36 |
 | 26 | [Rise of Shantala](https://open.spotify.com/track/5m16zPfkhMAUPoTAkQ19oO) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Priya](https://open.spotify.com/artist/6sseiKkl0ugvHy2WH0GCTR), [Jahnavi](https://open.spotify.com/artist/29JrKkLSdFM1aubUp9Ki0P), [A.R.P\. Jayaram](https://open.spotify.com/artist/0JLPrvp4kH2fu9dEoYdahi) | [Rise of Shantala](https://open.spotify.com/album/2EUGlmv57ur4BqDsMAGXZm) | 3:41 |
-| 27 | [Azhagai \(From "Iraivan"\)](https://open.spotify.com/track/7bHlIBOijusr7MgyAEiNPG) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Kharesma Ravichandran](https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Azhagai \(From "Iraivan"\)](https://open.spotify.com/album/3XXJu3oYdVAl8hurWoAyrf) | 3:41 |
+| 27 | [Azhagai](https://open.spotify.com/track/4i9EfnRIrDcGwgUBDbRFcn) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Kharesma Ravichandran](https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Iraivan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4PsFyaSTyYArs8KcYB1KUg) | 3:41 |
 | 28 | [Kannaadi Kannaadi \(From "Hi Nanna"\)](https://open.spotify.com/track/4U6rjLWPkdUU3ODZXZspmL) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Kannaadi Kannaadi \(From "Hi Nanna"\)](https://open.spotify.com/album/5ovYPt9KwUGWqG13d9x93O) | 4:26 |
 | 29 | [Tiger Transformation \(From "Jailer"\)](https://open.spotify.com/track/6QnaSrPceLo5ClJUHA61K2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Tiger Transformation \(From "Jailer"\)](https://open.spotify.com/album/7oPBIbwVgBYrhbf0tRzCpT) | 4:25 |
 | 30 | [Jawan Title Track](https://open.spotify.com/track/7BOMm2gouxtIB2oxfSzPi6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan \(TAMIL\)](https://open.spotify.com/album/6IPocVtoXfw3YaBwC9M5tX) | 3:08 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 61 | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/track/0H419AjRA2CY6RtjNT1q1l) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/album/4BlgOYbwSOCeJueIHUG9wp) | 4:42 |
 | 62 | [Muthuvel Pandian Theme \- Instrumental](https://open.spotify.com/track/6BLzMdz3Gw8ho9GZMr9GSG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:42 |
 
-Snapshot ID: `MCw3ZjFjYzVlZjlhMzY4ODYzNjljYjZmNzYxN2JkNTg2YWYxYWQwZmU3`
+Snapshot ID: `MCw0YjhjMjRiODBkOTA5NTUyMjZhYWZjODc0NjJmNjhiYWEzN2IwOWNj`

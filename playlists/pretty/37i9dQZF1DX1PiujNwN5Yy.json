@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 109795,
+  "num_followers": 109826,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDA3ZDVmZDk4NTk2YzhmZjBkZDYwY2QxNTA4OTMyY2VjYzNjZDMw",
+  "snapshot_id": "MCwwZDk0ZDcyYjc2ODE2ZmE5MzBjYzJhMzI4ZmNmNjJkYTMzNGJjMzJj",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -107,38 +107,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 203569,
-      "name": "idontwannabeyouanymore",
-      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Tu Canci\u00f3n",
-        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 191008,
-      "name": "Tu Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "mix pa llorar en tu cuarto",
         "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
@@ -155,18 +123,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
         }
       ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+      "duration_ms": 191008,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -207,6 +175,38 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 203569,
+      "name": "idontwannabeyouanymore",
+      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -275,22 +259,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Es Que Yo Te Quiero A Ti",
-        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 323625,
-      "name": "Es Que Yo Te Quiero A Ti",
-      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Sin Final Feliz",
         "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 144215,
       "name": "Qu\u00e9 bonito fue",
       "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Es Que Yo Te Quiero A Ti",
+        "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 323625,
+      "name": "Es Que Yo Te Quiero A Ti",
+      "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Transiciones",
+        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "siempreestoypati",
+      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 203464,
       "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Toda Esta Ciudad",
+        "url": "https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 320603,
+      "name": "Toda Esta Ciudad",
+      "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -415,38 +447,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Transiciones",
-        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "siempreestoypati",
-      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Toda Esta Ciudad",
-        "url": "https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 320603,
-      "name": "Toda Esta Ciudad",
-      "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Lo jodiste",
         "url": "https://open.spotify.com/album/2A5vxG20vPoqRvvp2gLvrz"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 271306,
       "name": "Lo jodiste",
       "url": "https://open.spotify.com/track/1Sedbo7kqP6PXnN5iKg183"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 244253,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -523,22 +539,6 @@
       "duration_ms": 143975,
       "name": "Dolerme",
       "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
-      },
-      "artists": [
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 220075,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Tal Vez",
         "url": "https://open.spotify.com/album/3kE68K2LF8KdxJr2B2IoDw"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "ESTO NO TIENE NADA QUE VER CON eduardo",
-        "url": "https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj"
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/1nTFn5FvVj4c1nuMPadWtn"
       },
       "artists": [
         {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
         }
       ],
-      "duration_ms": 172693,
-      "name": "El Fuego En El Cielo (MASTER 1)",
-      "url": "https://open.spotify.com/track/3hJgUV0AiZkjalnfq8geGo"
+      "duration_ms": 220075,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/40NZgN1uNdeZzPKjkM1QIW"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -727,6 +711,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "ESTO NO TIENE NADA QUE VER CON eduardo",
+        "url": "https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 172693,
+      "name": "El Fuego En El Cielo (MASTER 1)",
+      "url": "https://open.spotify.com/track/3hJgUV0AiZkjalnfq8geGo"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Pendant",
         "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 235832,
       "name": "Pendant",
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Nunca Estoy",
-        "url": "https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Nunca Estoy",
-      "url": "https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -807,6 +791,22 @@
       "duration_ms": 163411,
       "name": "Siempre Te Voy a Querer",
       "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Nunca Estoy",
+        "url": "https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Nunca Estoy",
+      "url": "https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "c\u00f3mo acaba",
-        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "no estabas cerca",
         "url": "https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto"
       },
@@ -975,18 +959,34 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Nada de Nada",
-        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
+        "name": "c\u00f3mo acaba",
+        "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
       },
       "artists": [
         {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Nada de Nada",
-      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "01 - EP",
+        "url": "https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 209542,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "01 - EP",
-        "url": "https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy"
+        "name": "Nada de Nada",
+        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
       },
       "artists": [
         {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
         }
       ],
-      "duration_ms": 209542,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI"
+      "duration_ms": 217500,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Eres Diamante",
         "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 164081,
       "name": "olas",
       "url": "https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "TE PERD\u00cd",
-        "url": "https://open.spotify.com/album/4s69BmjZT7AVIFve6CNyar"
+        "name": "Ausente",
+        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
       },
       "artists": [
         {
-          "name": "Fabi\u00f8 Guerra",
-          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 145418,
-      "name": "TE PERD\u00cd",
-      "url": "https://open.spotify.com/track/1Pe2xnS2FndbzQ0TNAFwXk"
+      "duration_ms": 141882,
+      "name": "No Estoy",
+      "url": "https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Ausente",
-        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
+        "name": "TE PERD\u00cd",
+        "url": "https://open.spotify.com/album/4s69BmjZT7AVIFve6CNyar"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Fabi\u00f8 Guerra",
+          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
         }
       ],
-      "duration_ms": 141882,
-      "name": "No Estoy",
-      "url": "https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO"
+      "duration_ms": 145418,
+      "name": "TE PERD\u00cd",
+      "url": "https://open.spotify.com/track/1Pe2xnS2FndbzQ0TNAFwXk"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1279,6 +1279,22 @@
       "duration_ms": 177391,
       "name": "el jardinero",
       "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Ausente",
+        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Perd\u00f3n (Acabo de ver tu llamada)",
+      "url": "https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1387,38 +1403,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Ausente",
-        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Perd\u00f3n (Acabo de ver tu llamada)",
-      "url": "https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Por Si Apareces",
         "url": "https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 273506,
       "name": "Por Si Apareces",
       "url": "https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 191041,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/3SOaZGYymRd6SdQXioeenz"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "T la Sudo (Demo)",
         "url": "https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 191041,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/3SOaZGYymRd6SdQXioeenz"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "La Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        }
-      ],
-      "duration_ms": 253910,
-      "name": "La Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "yo q se",
         "url": "https://open.spotify.com/album/6nVaPGZVNQZ9yZxSBvOa9k"
       },
@@ -1671,6 +1651,22 @@
       "duration_ms": 120000,
       "name": "yo q se",
       "url": "https://open.spotify.com/track/5PAh18eBXkV3WV5lPgW5Ww"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Amor Insustancial",
+        "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
+      },
+      "artists": [
+        {
+          "name": "Jordano",
+          "url": "https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW"
+        }
+      ],
+      "duration_ms": 205450,
+      "name": "Se que te iras",
+      "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
     }
   ],
   "unique_name": "gris",

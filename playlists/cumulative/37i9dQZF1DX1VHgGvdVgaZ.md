@@ -4,7 +4,7 @@
 
 > Instrumental selections from the South Indian school of music.
 
-92 songs - 12 hr 59 min
+93 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Seethaa Kalyaana \- Navroj](https://open.spotify.com/track/4BaGmojSStSBio4rBi8YBU) | [Tyagaraja](https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu), [K\. S\. G\. Somanathan](https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X) | [Mangala Naadaswaram \- For Marriages And Auspicious Functions](https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc) | 3:50 | 2022-12-20 | 2023-05-11 |
 | [Senthamizh](https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Bharatiyaar Songs \- Veena](https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO) | 2:47 | 2021-06-28 |  |
 | [Shriman Narayan \- Instrumental](https://open.spotify.com/track/6vUg70qtxTd3P8XRjSbtmc) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Ramachandra Murthy](https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736) | [Divine Melodies \- The Greatest Devotional Instrumentals](https://open.spotify.com/album/2U2atbhUFumw0Q1ZIJXVMb) | 7:43 | 2021-06-28 |  |
-| [Sree Mahaganapathim](https://open.spotify.com/track/5uITcl35S5Xl211DFwIlVt) | [Kunnakudi Vaidyanathan](https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr) | [Kunnakudi Vaidyanathan Vol \- 1](https://open.spotify.com/album/5JhDdMhTAzcZChrqQu4jrk) | 8:09 | 2022-07-07 |  |
+| [Sree Mahaganapathim](https://open.spotify.com/track/4teJcQYIv3OV73xNXYhNzl) | [Kunnakudi Vaidyanathan](https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr) | [Kunnakudi Vaidyanathan Vol \- 1](https://open.spotify.com/album/0Ecrh9MPKHqcDli7KCBMXk) | 8:09 | 2022-07-07 |  |
+| [Sree Mahaganapathim](https://open.spotify.com/track/5uITcl35S5Xl211DFwIlVt) | [Kunnakudi Vaidyanathan](https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr) | [Kunnakudi Vaidyanathan Vol \- 1](https://open.spotify.com/album/5JhDdMhTAzcZChrqQu4jrk) | 8:09 | 2022-07-07 | 2023-10-31 |
 | [Sree Mahaganapathim \- Atana \- Adi](https://open.spotify.com/track/5VfJfkpigSFdU6t9pHiWhm) | [Kunnakudi Vaidyanathan](https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr), [Valayapatti A\. R\. Subramaniam](https://open.spotify.com/artist/74Wx6RR7idiXa5emx0LUIa), [Kannan](https://open.spotify.com/artist/5qGDWLq39656h7QldZuTc1) | [Kunnakudi Vaidyanathan, Vol\. 1](https://open.spotify.com/album/4lLLyjxSXfHsZAoWN5y2rd) | 8:10 | 2021-06-28 | 2022-07-29 |
 | [Sri Chakra Raja](https://open.spotify.com/track/3GaK2kfpt8nNmZAQymTkL4) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Jagajanani \(Instrumental\)](https://open.spotify.com/album/2keIh30RhaEYo9IDP5kRo4) | 6:50 | 2021-06-28 | 2022-07-29 |
 | [Sri Chakra Raja](https://open.spotify.com/track/2hVXhADIRbE34DP36llqV5) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Sudhamayi 1](https://open.spotify.com/album/4BckzQM9jnSg4PknTrcHTp) | 6:53 | 2022-07-07 | 2023-05-15 |

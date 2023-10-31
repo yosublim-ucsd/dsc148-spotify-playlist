@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now – featuring LOONY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,093 likes - 74 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,161 likes - 74 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 73 | [IYKYK \(with Muni Long\)](https://open.spotify.com/track/0sWkEz8MtC4ZZri7gXLIyP) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [IYKYK \(with Muni Long\)](https://open.spotify.com/album/2qam4mrKeyqh3xTSVxWz1c) | 3:02 |
 | 74 | [calm & patient](https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [calm & patient](https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg) | 3:33 |
 
-Snapshot ID: `MCw2MDM0NWI1ZDk5MWM1NmZkN2U2ODgwMGIyZGE2YTY0ZTg2Mzc0MmEz`
+Snapshot ID: `MCxmZDY0NjEwMjM0Y2E1YjA3MTMxMDMzODlkZmM5NjVjODExODI5Mjdi`

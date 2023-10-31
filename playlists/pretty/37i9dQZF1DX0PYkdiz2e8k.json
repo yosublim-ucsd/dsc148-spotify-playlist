@@ -1,12 +1,12 @@
 {
   "description": "Hated is out! Foto: YUNGBLUD",
-  "num_followers": 64333,
+  "num_followers": 64385,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjYyMTE3Mzg0NzIzZWY4ODcxNmU5ZDhjZGI4YWUxMTYxNzljYzMz",
+  "snapshot_id": "MCw5MzQ0ZDAzNjI4YTQyYzQxMzk5MGUxZDAzZTA3Y2QyMjQxMTRiZTli",
   "tracks": [
     {
       "added_at": "2023-10-29 22:24:12",
@@ -127,22 +127,18 @@
     {
       "added_at": "2023-10-29 22:24:12",
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 268653,
-      "name": "Damage Gets Done (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
     },
     {
       "added_at": "2023-10-29 22:24:12",
@@ -171,18 +167,22 @@
     {
       "added_at": "2023-10-29 22:24:12",
       "album": {
-        "name": "HONEY (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 167276,
-      "name": "HONEY (ARE U COMING?)",
-      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+      "duration_ms": 268653,
+      "name": "Damage Gets Done (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
     },
     {
       "added_at": "2023-10-29 22:24:12",
@@ -251,6 +251,26 @@
     {
       "added_at": "2023-10-29 22:24:12",
       "album": {
+        "name": "GOSSIP (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
+    },
+    {
+      "added_at": "2023-10-29 22:24:12",
+      "album": {
         "name": "Take Me With You",
         "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
       },
@@ -263,6 +283,22 @@
       "duration_ms": 197320,
       "name": "Take Me With You",
       "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
+    },
+    {
+      "added_at": "2023-10-29 22:24:12",
+      "album": {
+        "name": "Lowlife",
+        "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 233626,
+      "name": "Lowlife",
+      "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
     },
     {
       "added_at": "2023-10-29 22:24:12",
@@ -315,42 +351,6 @@
     {
       "added_at": "2023-10-29 22:24:12",
       "album": {
-        "name": "GOSSIP (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2023-10-29 22:24:12",
-      "album": {
-        "name": "Lowlife",
-        "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "Lowlife",
-      "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
-    },
-    {
-      "added_at": "2023-10-29 22:24:12",
-      "album": {
         "name": "leave me for dead",
         "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 176399,
       "name": "leave me for dead",
       "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
+    },
+    {
+      "added_at": "2023-10-29 22:24:12",
+      "album": {
+        "name": "Hayloft II (SMASHUP)",
+        "url": "https://open.spotify.com/album/6kWbCD4fGGjk7cpN9jbJqn"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 223509,
+      "name": "Hayloft II (SMASHUP)",
+      "url": "https://open.spotify.com/track/1S20BsgYeUven3xXuIUVz2"
     },
     {
       "added_at": "2023-10-29 22:24:12",
@@ -383,18 +399,18 @@
     {
       "added_at": "2023-10-29 22:24:12",
       "album": {
-        "name": "Hayloft II (SMASHUP)",
-        "url": "https://open.spotify.com/album/6kWbCD4fGGjk7cpN9jbJqn"
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
       "artists": [
         {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 223509,
-      "name": "Hayloft II (SMASHUP)",
-      "url": "https://open.spotify.com/track/1S20BsgYeUven3xXuIUVz2"
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2023-10-29 22:24:12",
@@ -419,22 +435,6 @@
     {
       "added_at": "2023-10-29 22:24:12",
       "album": {
-        "name": "Confident (Rock Version)",
-        "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 205675,
-      "name": "Confident - Rock Version",
-      "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
-    },
-    {
-      "added_at": "2023-10-29 22:24:12",
-      "album": {
         "name": "The Funeral",
         "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 211197,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2023-10-29 22:24:12",
+      "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "I Got Heaven",
+      "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
     },
     {
       "added_at": "2023-10-29 22:24:12",
@@ -471,34 +487,18 @@
     {
       "added_at": "2023-10-29 22:24:12",
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+        "name": "Confident (Rock Version)",
+        "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2023-10-29 22:24:12",
-      "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "I Got Heaven",
-      "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
+      "duration_ms": 205675,
+      "name": "Confident - Rock Version",
+      "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
     },
     {
       "added_at": "2023-10-29 22:24:12",
@@ -551,22 +551,6 @@
       "duration_ms": 166556,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
-    },
-    {
-      "added_at": "2023-10-29 22:24:12",
-      "album": {
-        "name": "MONO",
-        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Punisher",
-      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
     },
     {
       "added_at": "2023-10-29 22:24:12",
@@ -655,6 +639,22 @@
     {
       "added_at": "2023-10-29 22:24:12",
       "album": {
+        "name": "MONO",
+        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Punisher",
+      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
+    },
+    {
+      "added_at": "2023-10-29 22:24:12",
+      "album": {
         "name": "nobody's favorite person, not even my own",
         "url": "https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b"
       },
@@ -707,6 +707,38 @@
     {
       "added_at": "2023-10-29 22:24:12",
       "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "added_at": "2023-10-29 22:24:12",
+      "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
+    },
+    {
+      "added_at": "2023-10-29 22:24:12",
+      "album": {
         "name": "SANCTUARY",
         "url": "https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl"
       },
@@ -755,22 +787,6 @@
     {
       "added_at": "2023-10-29 22:24:12",
       "album": {
-        "name": "everybody hates me",
-        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 120287,
-      "name": "everybody hates me",
-      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2023-10-29 22:24:12",
-      "album": {
         "name": "grave inside my head",
         "url": "https://open.spotify.com/album/0MLF0wdEFpJPP4pQACbvMk"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2023-10-29 22:24:12",
       "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+        "name": "fmk (with blackbear)",
+        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
+      "duration_ms": 146769,
+      "name": "indieedgycool",
+      "url": "https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe"
     },
     {
       "added_at": "2023-10-29 22:24:12",
@@ -819,22 +835,6 @@
       "duration_ms": 154960,
       "name": "cold cold cold",
       "url": "https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX"
-    },
-    {
-      "added_at": "2023-10-29 22:24:12",
-      "album": {
-        "name": "fmk (with blackbear)",
-        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 146769,
-      "name": "indieedgycool",
-      "url": "https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe"
     },
     {
       "added_at": "2023-10-29 22:24:12",

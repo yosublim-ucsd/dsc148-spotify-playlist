@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,259 songs - 2 day 22 hr 2 min
+1,260 songs - 2 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [Fast Forward](https://open.spotify.com/track/4EsqgOzLn45dCHIDIhtg6W) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7BAwtfjDEyG6l2nFlNkkLy) | 2:40 | 2023-08-08 | 2023-08-10 |
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-09 | 2023-10-25 |
 | [Faster](https://open.spotify.com/track/46hCrsB4mC1IWcYOMQqNWA) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 2:50 | 2022-09-17 | 2022-09-19 |
-| [Father](https://open.spotify.com/track/365znJ27Fb3faGsctmQYWR) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:58 | 2022-07-01 | 2023-10-28 |
+| [Father](https://open.spotify.com/track/365znJ27Fb3faGsctmQYWR) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:58 | 2022-07-01 |  |
 | [Father](https://open.spotify.com/track/6KCLKs7Annwyp8JIRQ3vzh) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 3:58 | 2022-05-31 | 2022-07-02 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-19 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 | 2021-10-27 | 2021-11-28 |
@@ -775,7 +775,7 @@
 | [Never Goodbye](https://open.spotify.com/track/5EAfUqytXYbH0yUZR3QGli) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:32 | 2022-03-29 | 2022-04-07 |
 | [Never Stop Me](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:24 | 2022-03-15 | 2022-03-23 |
 | [New Again](https://open.spotify.com/track/2GPTiPR5db727wu1tFvFt4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:03 | 2021-09-01 | 2021-09-02 |
-| [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-08 |  |
+| [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-08 | 2023-10-31 |
 | [New thing \(Prod\. ZICO\) \(Feat\. Homies\)](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:27 | 2022-09-08 | 2023-01-25 |
 | [Next episode \(with Choi Jung Hoon of JANNABI\)](https://open.spotify.com/track/4h4Ibc1LSJmpLpVm0PBaPV) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:12 | 2021-07-28 | 2021-08-05 |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-05-19 | 2022-05-11 |
@@ -1165,7 +1165,7 @@
 | [Vancouver](https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:36 | 2022-06-10 | 2023-09-23 |
 | [Vancouver 2](https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Vancouver 2](https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq) | 3:22 | 2023-09-20 | 2023-10-08 |
 | [VENOM](https://open.spotify.com/track/5VwOAFFqlLikti3l1RJnPz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:14 | 2022-03-20 | 2022-03-27 |
-| [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 | 2023-04-29 |  |
+| [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 | 2023-04-29 | 2023-10-31 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-15 | 2023-04-30 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-26 |
 | [VILLAIN DIES](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 3:04 | 2022-03-15 | 2022-03-21 |
@@ -1259,6 +1259,7 @@
 | [カナタハルカ](https://open.spotify.com/track/4Fh1CzvLHIUn26tjbZZ1mR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 5:55 | 2023-03-13 | 2023-03-30 |
 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 | 2023-02-18 | 2023-04-12 |
 | [六等星](https://open.spotify.com/track/3DcBY9PDTlUlUYdDdoJPog) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [六等星](https://open.spotify.com/album/0G8gkjY1Avg3OOh5rJPLPk) | 3:29 | 2022-04-13 | 2022-04-15 |
+| [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-10-30 |  |
 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 | 2023-01-12 | 2023-01-17 |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-02-17 | 2023-06-21 |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-10 | 2022-11-20 |

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-848 songs - 1 day 20 hr 52 min
+849 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Dancer](https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dancer](https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC) | 3:57 | 2021-12-16 | 2022-02-27 |
 | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl) | 2:49 | 2023-02-18 | 2023-10-06 |
 | [Dansar på lakan](https://open.spotify.com/track/1Nhm9iD7DycxEiLzPjvSnV) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z) | [Dansar på lakan](https://open.spotify.com/album/7fkILnGxZDkcsnRVPjCcjS) | 3:11 | 2021-12-16 | 2022-01-10 |
-| [Dawn](https://open.spotify.com/track/4ilrp6PdG89jBXDJlBmfvq) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Dawn](https://open.spotify.com/album/6NK2HrpCmzxrMUniKoFhUR) | 3:37 | 2023-10-19 |  |
+| [Dawn](https://open.spotify.com/track/4ilrp6PdG89jBXDJlBmfvq) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Dawn](https://open.spotify.com/album/6NK2HrpCmzxrMUniKoFhUR) | 3:37 | 2023-10-19 | 2023-10-31 |
 | [De hade vart slut](https://open.spotify.com/track/5DpRttmHx6XejVWeGjO7D5) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [De hade vart slut](https://open.spotify.com/album/4oQfgrS3iJgbxDMbuPoqOJ) | 2:53 | 2023-10-19 | 2023-10-22 |
 | [Dead Man Walking](https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Dead Man Walking](https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb) | 2:57 | 2023-09-21 |  |
 | [Dead To Me](https://open.spotify.com/track/46NwQ3pZcIJdBL3Oh7R6D3) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Valentino](https://open.spotify.com/album/2HAQenAv2djFjcu5Qpv1GD) | 3:19 | 2023-10-19 |  |
@@ -329,6 +329,7 @@
 | [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 | 2022-04-22 | 2022-04-28 |
 | [Himlen kan vänta](https://open.spotify.com/track/49YQrm6c4eOrYfzmbYS3jG) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Himlen kan vänta](https://open.spotify.com/album/2kS8HnTbJCr6AtCYUCJZyO) | 3:16 | 2022-04-07 | 2022-07-23 |
 | [Hit and Run](https://open.spotify.com/track/7kf9xh5Xaa4bTE6ChoorYu) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Hit and Run](https://open.spotify.com/album/7xtEVZCtImCqZOFKxwkShR) | 3:10 | 2022-03-10 | 2022-06-08 |
+| [Hjärtan i sanden](https://open.spotify.com/track/17dy0wgbBnd0FV206w5jz3) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr) | [Hjärtan i sanden](https://open.spotify.com/album/4MT1Q26z105pJdEd82MtHC) | 3:12 | 2023-10-26 |  |
 | [Hold Me Close](https://open.spotify.com/track/1u9Pa9SFHXZ8C3XAs58a0X) | [Jean Root](https://open.spotify.com/artist/552ZwELQyZPtQtikl5e1tn) | [Hold Me Close](https://open.spotify.com/album/5M1PlvFGwsOg0DH4ntV8n6) | 3:33 | 2022-05-05 | 2022-05-07 |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-02-26 | 2022-09-16 |
 | [Hold Out](https://open.spotify.com/track/23CuzFQM5TFmWBcMFVVKOd) | [Kristofer Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Hold Out](https://open.spotify.com/album/1AjiPJEfUG1MMI28cxqics) | 3:11 | 2022-10-06 | 2023-02-06 |

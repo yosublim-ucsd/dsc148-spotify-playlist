@@ -1,12 +1,12 @@
 {
   "description": "Trap de la isla, con Yeruza en portada.",
-  "num_followers": 9941,
+  "num_followers": 9980,
   "original_name": "Trap Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDI3NDQzZDA1MjRmZDE0MGQ2NmVjZmFiYzkyN2ZjOTRmZmZmMDI2",
+  "snapshot_id": "MCxkM2QyMTQwYWNkOTQxNDBiOWY3MjdmYzRhMjRiZDdlYWMzZjA2ZGQz",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -83,18 +83,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Mbappe",
-      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Mbappe",
+      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Lisa",
         "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
       },
@@ -127,34 +143,6 @@
       "duration_ms": 159306,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
-        "url": "https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
-      "url": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -191,22 +179,30 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+        "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
+        "url": "https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Si La Calle Llama - Remix",
-      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+      "duration_ms": 264000,
+      "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
+      "url": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -247,22 +243,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "0 Sentimientos (Remix) [feat. Noriel, Darkiel, Lyan, Messiah & Baby Rasta]",
         "url": "https://open.spotify.com/album/4dd7tLtioKjtq7v9byyPV6"
       },
@@ -299,8 +279,8 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
       "artists": [
         {
@@ -308,13 +288,13 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 152960,
-      "name": "Kemba Walker",
-      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
+      "duration_ms": 240000,
+      "name": "Si La Calle Llama - Remix",
+      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -539,8 +519,8 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Triste Verano",
-        "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
       "artists": [
         {
@@ -548,29 +528,13 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 212375,
-      "name": "Triste Verano",
-      "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+      "duration_ms": 152960,
+      "name": "Kemba Walker",
+      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -595,26 +559,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "Brindemos",
-      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Super Jon-Z (Residente Challenge)",
         "url": "https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs"
       },
@@ -627,6 +571,22 @@
       "duration_ms": 487011,
       "name": "Super Jon-Z (Residente Challenge)",
       "url": "https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -647,18 +607,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+        "name": "Triste Verano",
+        "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 208079,
-      "name": "Estamos Bien",
-      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
+      "duration_ms": 212375,
+      "name": "Triste Verano",
+      "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -687,6 +651,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "Brindemos",
+      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -703,22 +687,6 @@
       "duration_ms": 184145,
       "name": "La Ruta",
       "url": "https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 125124,
-      "name": "El Hokage",
-      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -743,50 +711,6 @@
       "duration_ms": 191052,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "47 (Remix)",
-        "url": "https://open.spotify.com/album/7hlRNdjFs9DEPTrHhzFwYu"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Sinfonico",
-          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
-        },
-        {
-          "name": "Lil Geniuz",
-          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 517599,
-      "name": "47 - Remix",
-      "url": "https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -839,6 +763,110 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Carbon Fiber Hits",
+        "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
+      },
+      "artists": [
+        {
+          "name": "Carbon Fiber Music",
+          "url": "https://open.spotify.com/artist/7akJAsqIpakhpXpWEUSEGX"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 331413,
+      "name": "Diabla (Official Remix)",
+      "url": "https://open.spotify.com/track/1OPVFxzEgHEdfvCTiB7nh2"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208079,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 125124,
+      "name": "El Hokage",
+      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "47 (Remix)",
+        "url": "https://open.spotify.com/album/7hlRNdjFs9DEPTrHhzFwYu"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Sinfonico",
+          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
+        },
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 517599,
+      "name": "47 - Remix",
+      "url": "https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Baby Father 2.0 (feat. Myke Towers, Arc\u00e1ngel, \u00d1engo Flow and Yeruza)",
         "url": "https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8"
       },
@@ -871,34 +899,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Carbon Fiber Hits",
-        "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
-      },
-      "artists": [
-        {
-          "name": "Carbon Fiber Music",
-          "url": "https://open.spotify.com/artist/7akJAsqIpakhpXpWEUSEGX"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 331413,
-      "name": "Diabla (Official Remix)",
-      "url": "https://open.spotify.com/track/1OPVFxzEgHEdfvCTiB7nh2"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Living Life",
         "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 180751,
       "name": "La MVP",
       "url": "https://open.spotify.com/track/74WOZ17ERaFrHXYtSid13p"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "LLNM2",
-        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 243957,
-      "name": "Las Jordan",
-      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 315440,
       "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
       "url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 243957,
+      "name": "Las Jordan",
+      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
     },
     {
       "added_at": "2023-09-01 04:00:00",

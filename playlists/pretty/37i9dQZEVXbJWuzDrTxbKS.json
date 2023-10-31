@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Latvia.",
-  "num_followers": 14795,
+  "num_followers": 14796,
   "original_name": "Top 50 - Latvia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUxOTQ0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUyMDMwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "AA LANGUAGE 2",
         "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
@@ -81,7 +81,27 @@
       "url": "https://open.spotify.com/track/6pgZZ8xfIBewpXeeVvIjyl"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -105,27 +125,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 260111,
-      "name": "IDGAF (feat. Yeat)",
-      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -141,7 +141,23 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
@@ -157,7 +173,39 @@
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "ecstacy (slowed)",
+        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
+      },
+      "artists": [
+        {
+          "name": "SUICIDAL-IDOL",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
+        }
+      ],
+      "duration_ms": 119120,
+      "name": "ecstacy (slowed)",
+      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "AA LANGUAGE 2",
         "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
@@ -185,7 +233,7 @@
       "url": "https://open.spotify.com/track/7wttW3gnMHuS0eXHs5RwUZ"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -196,44 +244,12 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 229477,
-      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz"
+      "duration_ms": 146436,
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "ecstacy (slowed)",
-        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
-      },
-      "artists": [
-        {
-          "name": "SUICIDAL-IDOL",
-          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
-        }
-      ],
-      "duration_ms": 119120,
-      "name": "ecstacy (slowed)",
-      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
-      },
-      "artists": [
-        {
-          "name": "Singap\u016bras Sat\u012bns",
-          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "DEGVIELA",
-      "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -249,23 +265,75 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
+      },
+      "artists": [
+        {
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "DEGVIELA",
+      "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -281,27 +349,91 @@
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
-        "name": "LUKSUS STONKS",
-        "url": "https://open.spotify.com/album/3whiYXcPJw7mjnTM9mR9NV"
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
       "artists": [
         {
-          "name": "Singap\u016bras Sat\u012bns",
-          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
-        },
-        {
-          "name": "A-Europa",
-          "url": "https://open.spotify.com/artist/4Oa84NTjAiJwpRMRMnMqlY"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 204255,
-      "name": "Uz Seen",
-      "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "AA LANGUAGE 2",
+        "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "LIL KRYSTALLL",
+          "url": "https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "\u041c\u043e\u043b\u0447\u0430\u0442\u044c",
+      "url": "https://open.spotify.com/track/3OnLwnWtWjrispMxkz4xnN"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 279833,
+      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "AA LANGUAGE 2",
         "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
@@ -325,183 +457,7 @@
       "url": "https://open.spotify.com/track/7qx0R3fTXITFGaMqhEwVgH"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "AA LANGUAGE 2",
-        "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
-      },
-      "artists": [
-        {
-          "name": "Aarne",
-          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
-        },
-        {
-          "name": "LIL KRYSTALLL",
-          "url": "https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "\u041c\u043e\u043b\u0447\u0430\u0442\u044c",
-      "url": "https://open.spotify.com/track/3OnLwnWtWjrispMxkz4xnN"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 180381,
-      "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 146436,
-      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "AA LANGUAGE 2",
-        "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
-      },
-      "artists": [
-        {
-          "name": "Aarne",
-          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
-        },
-        {
-          "name": "FEDUK",
-          "url": "https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z"
-        },
-        {
-          "name": "Scally Milano",
-          "url": "https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg"
-        }
-      ],
-      "duration_ms": 110322,
-      "name": "\u041c\u0435\u0447\u0442\u044b",
-      "url": "https://open.spotify.com/track/48Mtf0Vuc3H7yI56Iz1OhU"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "The Documentary",
-        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Hate It Or Love It",
-      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 279833,
-      "name": "Say Don't Go (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
@@ -521,27 +477,7 @@
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -565,7 +501,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "AA LANGUAGE 2",
         "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
@@ -576,96 +512,40 @@
           "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
         },
         {
-          "name": "\u0414\u043e\u0440\u0430",
-          "url": "https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL"
+          "name": "FEDUK",
+          "url": "https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z"
+        },
+        {
+          "name": "Scally Milano",
+          "url": "https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg"
         }
       ],
-      "duration_ms": 146206,
-      "name": "\u0422\u0440\u0435\u0437\u0432\u043e",
-      "url": "https://open.spotify.com/track/2trqztH7oPUwOKMf8FqfvV"
+      "duration_ms": 110322,
+      "name": "\u041c\u0435\u0447\u0442\u044b",
+      "url": "https://open.spotify.com/track/48Mtf0Vuc3H7yI56Iz1OhU"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+        "name": "LUKSUS STONKS",
+        "url": "https://open.spotify.com/album/3whiYXcPJw7mjnTM9mR9NV"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "AA LANGUAGE 2",
-        "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
-      },
-      "artists": [
-        {
-          "name": "Aarne",
-          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
         },
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/7F2p2hCim4bS28GkIpUDxn"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "A-Europa",
+          "url": "https://open.spotify.com/artist/4Oa84NTjAiJwpRMRMnMqlY"
         }
       ],
-      "duration_ms": 127142,
-      "name": "ice ice ice",
-      "url": "https://open.spotify.com/track/6Y5Bgoz421cN2AioH45NZv"
+      "duration_ms": 204255,
+      "name": "Uz Seen",
+      "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style (Taylor's Version)",
-      "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "AA LANGUAGE 2",
-        "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
-      },
-      "artists": [
-        {
-          "name": "Aarne",
-          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
-        },
-        {
-          "name": "Big Baby Tape",
-          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
-        },
-        {
-          "name": "BUSHIDO ZHO",
-          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "City Boy Life",
-      "url": "https://open.spotify.com/track/3U7iXmjXJLsgn0EM23q4ag"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -681,39 +561,27 @@
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "IT GIRL",
-        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
-      },
-      "artists": [
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
         {
-          "name": "Aliyah's Interlude",
-          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 161760,
-      "name": "IT GIRL",
-      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
+      "duration_ms": 206400,
+      "name": "Hate It Or Love It",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
@@ -729,27 +597,7 @@
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "AA LANGUAGE 2",
-        "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
-      },
-      "artists": [
-        {
-          "name": "Aarne",
-          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
-        },
-        {
-          "name": "Yanix",
-          "url": "https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c"
-        }
-      ],
-      "duration_ms": 133170,
-      "name": "Full House",
-      "url": "https://open.spotify.com/track/3wkvbFrwiecuUPFWPsPvft"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
@@ -769,7 +617,59 @@
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "BRITNEY",
+        "url": "https://open.spotify.com/album/34qKz6QxJaiEt4E6BN3ccd"
+      },
+      "artists": [
+        {
+          "name": "OBLADAET",
+          "url": "https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw"
+        }
+      ],
+      "duration_ms": 173461,
+      "name": "BRITNEY",
+      "url": "https://open.spotify.com/track/0FKFSFEZTxZSgBPz1y9sCI"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "AA LANGUAGE 2",
+        "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "\u0414\u043e\u0440\u0430",
+          "url": "https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL"
+        }
+      ],
+      "duration_ms": 146206,
+      "name": "\u0422\u0440\u0435\u0437\u0432\u043e",
+      "url": "https://open.spotify.com/track/2trqztH7oPUwOKMf8FqfvV"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -789,23 +689,107 @@
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
-        "name": "Ciclone",
-        "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
+        "name": "\u0418\u0437 \u0446\u0432\u0435\u0442\u043e\u0432 \u0438 \u0442\u0435\u043c\u043d\u043e\u0442\u044b",
+        "url": "https://open.spotify.com/album/5Psqb8umHXgLiEXpkAsYl4"
       },
       "artists": [
         {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+          "name": "Moya Mishel",
+          "url": "https://open.spotify.com/artist/28oFVU5sNejm6p76RkSwtQ"
         }
       ],
-      "duration_ms": 129692,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/5WV6br0BPUzhJwyBty80s0"
+      "duration_ms": 245187,
+      "name": "\u0417\u0438\u043c\u0430 \u0432 \u0441\u0435\u0440\u0434\u0446\u0435",
+      "url": "https://open.spotify.com/track/6awpF8KkBWuZr1ElN2xkaW"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 211582,
+      "name": "I KNOW ?",
+      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Nun id change",
+      "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "denk mal dr\u00fcber nach...",
         "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
@@ -829,51 +813,23 @@
       "url": "https://open.spotify.com/track/7b8Z1GU2plJy3aASZTiolF"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "Star Shopping",
+        "url": "https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
         }
       ],
-      "duration_ms": 211582,
-      "name": "I KNOW ?",
-      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
+      "duration_ms": 142000,
+      "name": "Star Shopping",
+      "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
-      "album": {
-        "name": "The Heist",
-        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
-      },
-      "artists": [
-        {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
-        },
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 258431,
-      "name": "Can't Hold Us (feat. Ray Dalton)",
-      "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
-    },
-    {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
         "name": "AA LANGUAGE 2",
         "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
@@ -884,61 +840,89 @@
           "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
         },
         {
-          "name": "BUSHIDO ZHO",
-          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+          "name": "Yanix",
+          "url": "https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c"
         }
       ],
-      "duration_ms": 133541,
-      "name": "\u0412\u041c\u0415\u0421\u0422\u0415",
-      "url": "https://open.spotify.com/track/4QKz3TJ3ZGtwBt2pBjOSaO"
+      "duration_ms": 133170,
+      "name": "Full House",
+      "url": "https://open.spotify.com/track/3wkvbFrwiecuUPFWPsPvft"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
-        "name": "808s & Heartbreak",
-        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 171818,
-      "name": "Suburban Legends (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP"
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
     },
     {
-      "added_at": "2023-10-29 08:36:55",
+      "added_at": "2023-10-30 08:26:44",
       "album": {
-        "name": "A Bit High",
-        "url": "https://open.spotify.com/album/6M5DIlgWbuWTGKK3luf2ZP"
+        "name": "AA LANGUAGE 2",
+        "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
       },
       "artists": [
         {
-          "name": "NOT BAD BOY",
-          "url": "https://open.spotify.com/artist/5FQ2t3fQMz2VU681aAZBHH"
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/7F2p2hCim4bS28GkIpUDxn"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 170482,
-      "name": "A Bit High",
-      "url": "https://open.spotify.com/track/3CmeWai5fvSIvgOy8Nw6sc"
+      "duration_ms": 127142,
+      "name": "ice ice ice",
+      "url": "https://open.spotify.com/track/6Y5Bgoz421cN2AioH45NZv"
+    },
+    {
+      "added_at": "2023-10-30 08:26:44",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
     }
   ],
   "unique_name": "Top 50 - Latvia",

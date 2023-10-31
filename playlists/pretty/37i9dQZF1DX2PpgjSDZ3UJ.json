@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21609,
+  "num_followers": 21614,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWM1YWM0YTdkNThiNzhhZmUzZWUxOGE1MmVhYjc4ODgzM2NkY2Fk",
+  "snapshot_id": "MCw1MzEwMTNmMzgzOWZmNTkyNWZhYWMxMTcyMGRhY2NjM2FhOGU1NDEx",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
-      },
-      "artists": [
-        {
-          "name": "Paola Navarrete",
-          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Margaritas Podridas",
         "url": "https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 319058,
       "name": "Wow",
       "url": "https://open.spotify.com/track/5nO4n8RClXZg2ugsBU9hXy"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "The Prettiest Curse",
-        "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Good Bad Times",
-      "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Lo Que Vales (Para M\u00ed)",
         "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 211022,
       "name": "Lo Que Vales (Para M\u00ed)",
       "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "The Prettiest Curse",
+        "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Good Bad Times",
+      "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Azulmagenta",
+        "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
+      },
+      "artists": [
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "duration_ms": 218354,
+      "name": "Azulmagenta",
+      "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Pong",
         "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Azulmagenta",
-        "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
+        "name": "Fantas\u00eda Moral",
+        "url": "https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg"
       },
       "artists": [
         {
-          "name": "Ev",
-          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+          "name": "Uniforms",
+          "url": "https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL"
         }
       ],
-      "duration_ms": 218354,
-      "name": "Azulmagenta",
-      "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
+      "duration_ms": 305940,
+      "name": "Semana Sata\u0301n",
+      "url": "https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1379,6 +1395,26 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb"
+      },
+      "artists": [
+        {
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        }
+      ],
+      "duration_ms": 287701,
+      "name": "N\u00f3mada",
+      "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Corte Superior",
         "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
       },
@@ -1407,22 +1443,6 @@
       "duration_ms": 254834,
       "name": "Puede Ser Mortal",
       "url": "https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Fantas\u00eda Moral",
-        "url": "https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg"
-      },
-      "artists": [
-        {
-          "name": "Uniforms",
-          "url": "https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL"
-        }
-      ],
-      "duration_ms": 305940,
-      "name": "Semana Sata\u0301n",
-      "url": "https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1475,26 +1495,6 @@
       "duration_ms": 225240,
       "name": "Honestidad",
       "url": "https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "N\u00f3mada",
-        "url": "https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb"
-      },
-      "artists": [
-        {
-          "name": "La Banda del Bisonte",
-          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
-        },
-        {
-          "name": "La Muchacha",
-          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
-        }
-      ],
-      "duration_ms": 287701,
-      "name": "N\u00f3mada",
-      "url": "https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8"
     }
   ],
   "unique_name": "Lo Mejor del Indie/Alternativo 2020",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 157799,
+  "num_followers": 157944,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2E4ZjVkODg5NGEwOTQ1ZjRiNmZhYzM2ODQ2ODA2OTA0ODNlODA4",
+  "snapshot_id": "MCwyMzM4OWRiOWI5YzQ4ZjAzMDUwNGU5NjdmNzU1YjYzZDQ3MjkwZDI5",
   "tracks": [
     {
       "added_at": "2023-06-19 22:32:13",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -231,6 +247,22 @@
       "duration_ms": 273480,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -276,9 +308,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -299,22 +331,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Scar Tissue",
-      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
@@ -331,38 +347,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 405600,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Like a Stone",
-      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
         "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Like a Stone",
+      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Sam's Town",
-        "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "When You Were Young",
-      "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "Sam's Town",
+        "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "When You Were Young",
+      "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 228426,
-      "name": "Amargo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 184360,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 228426,
+      "name": "Amargo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
       },
@@ -1035,22 +1019,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -1067,6 +1035,38 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "A la Izquierda de la Tierra",
         "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -1179,22 +1195,6 @@
       "duration_ms": 122066,
       "name": "We Will Rock You - Remastered 2011",
       "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "La Pachanga",
-      "url": "https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 213360,
       "name": "M\u00e1tenme Porque Me Muero",
       "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "La Pachanga",
+      "url": "https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 157106,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 218493,
       "name": "La Guitarra",
       "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
+      },
+      "artists": [
+        {
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+        }
+      ],
+      "duration_ms": 157106,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 238747,
+      "name": "Ch\u00fantaros Style",
+      "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
         "name": "Yours Truly, Angry Mob",
         "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
       },
@@ -2067,18 +2083,18 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
       },
       "artists": [
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 238747,
-      "name": "Ch\u00fantaros Style",
-      "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -2099,22 +2115,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -2127,22 +2127,6 @@
       "duration_ms": 271400,
       "name": "Perd\u00ed Mi Ojo de Venado",
       "url": "https://open.spotify.com/track/4YKBYzHTtBZA2P12N5VomO"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Mal Bicho",
-      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -2195,6 +2179,22 @@
       "duration_ms": 287013,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Mal Bicho",
+      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
     },
     {
       "added_at": "2023-06-19 22:32:13",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-06-19 22:32:13",
       "album": {
-        "name": "Amor Chiquito",
-        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 297533,
-      "name": "Veneno Vil",
-      "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
-    },
-    {
-      "added_at": "2023-06-19 22:32:13",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 180826,
       "name": "Ac\u00e1bame de Matar",
       "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+    },
+    {
+      "added_at": "2023-06-19 22:32:13",
+      "album": {
+        "name": "Amor Chiquito",
+        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
+      },
+      "artists": [
+        {
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+        }
+      ],
+      "duration_ms": 297533,
+      "name": "Veneno Vil",
+      "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
     },
     {
       "added_at": "2023-06-19 22:32:13",

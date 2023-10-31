@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: ericdoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,501 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,530 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 98 | [Driver](https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Driver](https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4) | 2:45 |
 | 99 | [love that 4 u](https://open.spotify.com/track/7ulWHAI8brxFTmunoAqRCz) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE), [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [frenemy](https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU) | 4:19 |
 
-Snapshot ID: `MCw4NGEyOWU0ZGFkNWY4MDJlNDhlOTk2YTNhODUwOGM1ZWZiNTgwZTQ5`
+Snapshot ID: `MCwzMzc1NWY1YTVhN2Q1MzFkNDJmOWNiYTFiMGFmMTA0MjM4ZGIyNmY4`

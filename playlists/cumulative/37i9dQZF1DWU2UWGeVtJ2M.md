@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-295 songs - 16 hr 18 min
+296 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 | 2022-07-25 | 2022-11-13 |
 | [iFeel](https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [iFeel](https://open.spotify.com/album/3pgkyPj3vSQ0TYCoGQJKaF) | 4:29 | 2022-07-25 | 2022-10-13 |
 | [iFeel](https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 4:29 | 2022-10-10 |  |
+| [Ikhlas](https://open.spotify.com/track/4l6kxQ8DF4WGinhZJEX8mo) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [buangan](https://open.spotify.com/album/5YEfYIYoE7V9nHeC9k42oA) | 2:13 | 2023-10-30 |  |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2022-06-13 |  |
 | [Inconclusive](https://open.spotify.com/track/36eL5WspHbKllchxJNyA6B) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps), [Kara Etta](https://open.spotify.com/artist/7tsHFYI6VCAQx7OOQN6TsN) | [Inconclusive](https://open.spotify.com/album/4AOF4unCnC2kmvel7UTHd5) | 3:34 | 2022-06-13 | 2022-07-26 |
 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 | 2022-07-25 |  |
@@ -160,7 +161,7 @@
 | [Left Me Here](https://open.spotify.com/track/0GYS6aXliGiTT199fCwDPA) | [Pathetic Son](https://open.spotify.com/artist/2tNhMsqGA7GhBe9dbf8fYm) | [Left Me Here](https://open.spotify.com/album/5kHkh2rrj6R4LRWrwZ4o8o) | 3:17 | 2022-06-06 | 2022-07-29 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-13 |  |
 | [letsnotcallitlove](https://open.spotify.com/track/0XwKXTgwaoh9Tr41AAm4kh) | [theodora](https://open.spotify.com/artist/0rvCOUI3i3QNNYiAQaWvql), [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa) | [letsnotcallitlove](https://open.spotify.com/album/7oT3DRy4oHUsU9pAn1Yajh) | 2:52 | 2022-06-06 | 2022-07-29 |
-| [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 | 2022-08-15 |  |
+| [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 | 2022-08-15 | 2023-10-31 |
 | [Like Day](https://open.spotify.com/track/46Big8S0OY9mlJBI4DfLox) | [Cheri Indigo](https://open.spotify.com/artist/7xfSpg2jjE8rY2nFCWrM8S) | [Like Day](https://open.spotify.com/album/6d9ChilohiP3UyqMY6ev6a) | 3:34 | 2022-06-06 | 2022-07-29 |
 | [Live or Die](https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [Live or Die](https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72) | 3:14 | 2022-07-25 |  |
 | [Lonely](https://open.spotify.com/track/7vyLtxhvxrmqQ0rhUDkzDs) | [daze](https://open.spotify.com/artist/3mNnPqsHVbJSTxQtD74z4Z) | [Lonely](https://open.spotify.com/album/3AMdze7Q4rRbiinwPA47mY) | 3:36 | 2022-07-04 | 2022-07-09 |

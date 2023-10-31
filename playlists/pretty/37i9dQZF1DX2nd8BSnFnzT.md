@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Meu Funeral
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,192 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,195 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Berrini](https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV) | [Molho Negro](https://open.spotify.com/artist/51aX6xmdT0iMI1FNCONTzR) | [Berrini](https://open.spotify.com/album/3Y8jVYw1s5O5bHSdzMrr7N) | 3:09 |
 | 75 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 |
 
-Snapshot ID: `MCw5OTNlOGFiZDBmZmFjMTJiMDQ2ODkxZDE1MjJmYjI2ZDRkMDgzYjBm`
+Snapshot ID: `MCwxYzA1YzMyM2I0ODEwZTgzZDZjZDZiY2Y5YzU4ZGRmMTEzZWU3OWJl`

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,785 songs - 6 day 1 hr 3 min
+3,786 songs - 6 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1165,7 +1165,7 @@
 | [Frosty](https://open.spotify.com/track/6cF7WT6HaE92m3dN1hlZhJ) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Frosty](https://open.spotify.com/album/7Dpc9loTsDjsI1jzWaxVST) | 1:40 | 2022-12-22 | 2023-04-28 |
 | [Frozen Roses](https://open.spotify.com/track/58UnJoC8b7jfxACkSAfYYs) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Frozen Roses](https://open.spotify.com/album/6eDr6EHR4fWoJipwuc0az4) | 1:41 | 2020-05-14 | 2020-07-24 |
 | [Fruity Pebbles](https://open.spotify.com/track/55poo9SW77pHx9YNYSFbuo) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Fruity Pebbles](https://open.spotify.com/album/74epgl4lGEj6wVhp1kA9oa) | 2:01 | 2019-06-08 | 2019-10-18 |
-| [Full Charge](https://open.spotify.com/track/57kyWTfWldMM6nV7A4IG8a) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Full Charge](https://open.spotify.com/album/6FVIs5eZuldpuEgBObQNuI) | 2:24 | 2023-10-26 |  |
+| [Full Charge](https://open.spotify.com/track/57kyWTfWldMM6nV7A4IG8a) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Full Charge](https://open.spotify.com/album/6FVIs5eZuldpuEgBObQNuI) | 2:24 | 2023-10-26 | 2023-10-31 |
 | [Fullhouse](https://open.spotify.com/track/3qDrLyUOfwaIzFCOSXaAmF) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Fullhouse](https://open.spotify.com/album/3YzrYSPGG0RqQ2tYzpKhGm) | 1:42 | 2020-10-16 | 2021-05-13 |
 | [Fun In Fall \(Birdz & Beez\)](https://open.spotify.com/track/58V4TppUxsVdBR09zOrgvD) | [sumishii](https://open.spotify.com/artist/7eXNSXnJu1Az7K9PxADwwq) | [Fun In Fall \(Birdz & Beez\)](https://open.spotify.com/album/7z8uHwqXNFmuImNXVQJpR4) | 2:07 | 2020-10-30 | 2020-12-04 |
 | [Funky Sunset at Crete](https://open.spotify.com/track/5d17ZX3EehVD8nFpTRySHM) | [JK Soul](https://open.spotify.com/artist/0OINA1IEY4yNLRFD5n10uS), [Teo Collori](https://open.spotify.com/artist/6NCmo1s0hwUAFNDAh1E9y4) | [Funky Sunset at Crete](https://open.spotify.com/album/29D0w7YVcLusMzVjwIMR7d) | 2:16 | 2021-07-23 | 2021-08-20 |
@@ -1244,6 +1244,7 @@
 | [Golden Hour](https://open.spotify.com/track/7bl9z8RmrJFVpMnvBSa5oe) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Neele Harder](https://open.spotify.com/artist/4KxuKYAXcdSrZGi1s19G5c), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Golden Hour](https://open.spotify.com/album/1LyuetThLzjmGZUklqFUVM) | 2:38 | 2022-05-26 | 2022-11-20 |
 | [Golden Hour Jazz](https://open.spotify.com/track/384y9pHZhzhRW5umBn2Fnb) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Golden Hour Jazz](https://open.spotify.com/album/7gxgcev6GGNrootSg7GWcQ) | 1:50 | 2021-11-19 | 2022-07-01 |
 | [Golden Hours](https://open.spotify.com/track/5erclU5xvRpWIJVAGV1Mj2) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [Golden Hours](https://open.spotify.com/album/0bIXU9KRbrJNfetSM0bGqT) | 2:29 | 2021-07-09 | 2021-08-20 |
+| [Golden Leaves](https://open.spotify.com/track/1Evo7pko1p8MazcfRkfQeJ) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Golden Leaves](https://open.spotify.com/album/1CIsN1B7DUlsfyjwldKe9V) | 1:50 | 2023-10-26 |  |
 | [Golden Milk](https://open.spotify.com/track/45YuK4uUIJxlrOUjYL9IyJ) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Golden Milk](https://open.spotify.com/album/1NY4dtqFmerWnLiaS8OWxK) | 2:01 | 2022-09-08 | 2023-10-20 |
 | [Golden Route](https://open.spotify.com/track/5sdRMVfel2Bc5pTpkhjsbv) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Golden Route](https://open.spotify.com/album/2rRVx1Ujfr2HwYipoJwO5a) | 1:58 | 2022-04-21 | 2023-05-12 |
 | [Goldener Oktober](https://open.spotify.com/track/3uk4fMI4hBwne8KRj2GsjQ) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7), [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Goldener Oktober](https://open.spotify.com/album/0rlRqJMWVVHE1tb53m5pUj) | 2:00 | 2023-10-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: bar italia",
-  "num_followers": 113769,
+  "num_followers": 113786,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2VmYTM2MTNmZmM4NmFiNjQ2MzhkOWU5ZGZiMzZkZDI3OTBkMWU0",
+  "snapshot_id": "MCw4NmFkMTU3ZWIxNzNiZDdmNWMxMzE4NDBjYjM1YTE3MGQ5N2FjODJh",
   "tracks": [
     {
       "added_at": "2023-10-26 23:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "Laugh Track",
         "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
       },
@@ -255,6 +239,22 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
         "name": "misery",
         "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
       },
@@ -267,6 +267,22 @@
       "duration_ms": 139146,
       "name": "im so happy",
       "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -295,38 +311,6 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
-        "name": "Call Me What You Like",
-        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Call Me What You Like",
-      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -411,6 +395,22 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
+        "name": "Call Me What You Like",
+        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Theatre",
-        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 179037,
-      "name": "Theatre",
-      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "Heartbreak Kid",
         "url": "https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 180978,
       "name": "Heartbreak Kid",
       "url": "https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
+        "name": "Theatre",
+        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 179037,
+      "name": "Theatre",
+      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 152993,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 152993,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Sometimes, I Swear",
-        "url": "https://open.spotify.com/album/64PIFHc0VXzd9sbkbSJfeU"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 218027,
-      "name": "Sometimes, I Swear",
-      "url": "https://open.spotify.com/track/0koN5ovIrxSXrO7QJXQB4Y"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
+        "name": "Sometimes, I Swear",
+        "url": "https://open.spotify.com/album/64PIFHc0VXzd9sbkbSJfeU"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 218027,
+      "name": "Sometimes, I Swear",
+      "url": "https://open.spotify.com/track/0koN5ovIrxSXrO7QJXQB4Y"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Turn The World On",
+      "url": "https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 211152,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Turn The World On",
-      "url": "https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Me & Me",
-        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 147596,
-      "name": "Me & Me",
-      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "Yard",
         "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 155733,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "I Used To Be Fun",
-        "url": "https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        }
-      ],
-      "duration_ms": 161445,
-      "name": "I Used To Be Fun",
-      "url": "https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "Struggle",
         "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
+        "name": "I Used To Be Fun",
+        "url": "https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "duration_ms": 161445,
+      "name": "I Used To Be Fun",
+      "url": "https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 361840,
+      "name": "Onward",
+      "url": "https://open.spotify.com/track/6LxqraiUfqeViP5BsTVCP6"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
         "name": "Borderline Insane",
         "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
       },
@@ -1087,38 +1103,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 361840,
-      "name": "Onward",
-      "url": "https://open.spotify.com/track/6LxqraiUfqeViP5BsTVCP6"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "rats in my walls",
         "url": "https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 312459,
       "name": "rats in my walls",
       "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK"
     },
     {
       "added_at": "2023-10-26 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-10-26 23:00:00",
       "album": {
-        "name": "angel in realtime.",
-        "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 238653,
-      "name": "the angel of 8th ave.",
-      "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
-    },
-    {
-      "added_at": "2023-10-26 23:00:00",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/4ymSlc0IgdFvc61mLUKDbl"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 199220,
       "name": "Angel",
       "url": "https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v"
+    },
+    {
+      "added_at": "2023-10-26 23:00:00",
+      "album": {
+        "name": "angel in realtime.",
+        "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "duration_ms": 238653,
+      "name": "the angel of 8th ave.",
+      "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
     },
     {
       "added_at": "2023-10-26 23:00:00",

@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-308 songs - 23 hr 7 min
+309 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Surrey With The Fringe On Top](https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:20 | 2021-12-17 | 2023-02-16 |
 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 | 2022-09-22 |  |
 | [Sway](https://open.spotify.com/track/4ubyfFKXBVBFZD145I6XPX) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 6:12 | 2021-12-17 | 2023-08-11 |
-| [Sweet Kentucky Ham](https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Listen Here](https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD) | 5:41 | 2022-09-13 |  |
+| [Sweet Kentucky Ham](https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Listen Here](https://open.spotify.com/album/6HxEtUKHed375P0sYGEHBD) | 5:41 | 2022-09-13 | 2023-10-31 |
 | [Sweet Lorraine](https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:22 | 2021-12-17 |  |
 | [Take My Breath Away](https://open.spotify.com/track/3B0gvjxlqRgY7stPPl3qoQ) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Take My Breath Away](https://open.spotify.com/album/6nBmfhB1ioNyyUlpb9AmMQ) | 3:30 | 2021-12-17 | 2022-02-19 |
 | [Tenderly](https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL) | [The Uptown Shuffle](https://open.spotify.com/album/4vC9hAFFswlA2MeIq7DF7A) | 10:18 | 2021-12-17 |  |
@@ -278,6 +278,7 @@
 | [Till I Waltz Again With You](https://open.spotify.com/track/5JSa7B1wgW5x5aNIziHjfM) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Till I Waltz Again With You](https://open.spotify.com/album/16YSrvXWcfeqUcHBGhCRmT) | 3:00 | 2021-12-17 | 2022-10-08 |
 | [Till There Was You](https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 2:06 | 2022-01-13 | 2022-11-30 |
 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 | 2021-12-17 | 2022-03-18 |
+| [Tis Autumn](https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK) | [Belle\-Skinner](https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA) | [Tis Autumn](https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS) | 2:10 | 2023-10-27 |  |
 | [Too Late](https://open.spotify.com/track/7cHyHmDiDTHkc88BdKHd9Y) | [Kristin Berardi](https://open.spotify.com/artist/1EqUnXUwgLiIB4yeITSHLs), [Miro Sprague](https://open.spotify.com/artist/4jyJaO0v3uJ6xPwj6wLpv1), [Marty Jaffe](https://open.spotify.com/artist/77PTPIIjkVSfDVlhaTozgY), [Jerome Jennings](https://open.spotify.com/artist/5VylmyXlKSkixZchRWjx7j) | [Too Late](https://open.spotify.com/album/4PQmBwEbCbg2eq4RJU1lf5) | 6:06 | 2023-05-30 |  |
 | [Triste](https://open.spotify.com/track/1N9e1myOWV26evyObwnkoM) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:09 | 2021-12-17 |  |
 | [Try Your Wings](https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [Try Your Wings](https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT) | 2:54 | 2023-04-20 |  |

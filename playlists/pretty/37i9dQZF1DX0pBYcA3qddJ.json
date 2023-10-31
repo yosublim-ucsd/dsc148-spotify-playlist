@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 50381,
+  "num_followers": 50397,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjdlNDA0NjVmMDY1MTIwMmYzNmRiM2IwMDM5MTJhNzExNjYxMzhj",
+  "snapshot_id": "MCw1NzFlNGJmZmFjOTVkNjY1ZGMzYjRhYWNjZWEzNDI1ZjlkYWJmYjNj",
   "tracks": [
     {
       "added_at": "2023-10-26 15:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 179346,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+      "duration_ms": 179346,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -903,22 +903,22 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Le Temple Volant",
-        "url": "https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5"
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
       },
       "artists": [
         {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         },
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         }
       ],
-      "duration_ms": 125893,
-      "name": "Le Temple Volant",
-      "url": "https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb"
+      "duration_ms": 245574,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -939,22 +939,22 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
+        "name": "Le Temple Volant",
+        "url": "https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
         },
         {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 245574,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
+      "duration_ms": 125893,
+      "name": "Le Temple Volant",
+      "url": "https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Gershwin: Piano Works",
-        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },
       "artists": [
         {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Song Book: The Man I Love. Slow and in singing style",
-      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
         }
       ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+      "duration_ms": 145200,
+      "name": "Song Book: The Man I Love. Slow and in singing style",
+      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "So Many Plans",
-        "url": "https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R"
+        "name": "Blue Stone of Atlas (Piano Solo Version)",
+        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
       },
       "artists": [
         {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+          "name": "Hikaru Shirosu",
+          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
         }
       ],
-      "duration_ms": 227685,
-      "name": "So Many Plans",
-      "url": "https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc"
+      "duration_ms": 158000,
+      "name": "Blue Stone of Atlas - Piano Solo Version",
+      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
     },
     {
       "added_at": "2023-10-26 15:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-10-26 15:00:00",
       "album": {
-        "name": "Blue Stone of Atlas (Piano Solo Version)",
-        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
+        "name": "So Many Plans",
+        "url": "https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R"
       },
       "artists": [
         {
-          "name": "Hikaru Shirosu",
-          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Blue Stone of Atlas - Piano Solo Version",
-      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
+      "duration_ms": 227685,
+      "name": "So Many Plans",
+      "url": "https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc"
     },
     {
       "added_at": "2023-10-26 15:00:00",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-800 songs - 1 day 21 hr 18 min
+801 songs - 1 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2021-12-04 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-05-07 | 2023-03-04 |
 | [EL ABUSADOR DEL ABUSADOR](https://open.spotify.com/track/6rEpJ5uF56xgL2r61xABqc) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:41 | 2022-03-26 | 2022-03-31 |
+| [EL AMOR DE SU VIDA](https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:45 | 2023-10-30 |  |
 | [EL AMOR DE TU VIDA](https://open.spotify.com/track/3MBzcfMRsUvA97JDiB7zN0) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [EL AMOR DE TU VIDA](https://open.spotify.com/album/4xar1X3zTK8oN2eq5yfQKE) | 2:57 | 2023-06-17 |  |
 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2022-05-07 | 2022-05-22 |
 | [EL CHACAL](https://open.spotify.com/track/4CQW7jSDYk3kRfv7708NGF) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:17 | 2023-08-30 | 2023-09-01 |
@@ -569,7 +570,7 @@
 | [Porque No Te Decides](https://open.spotify.com/track/0sEs2f0FJY3pm5zjRdvfJ6) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Soñando Despierto](https://open.spotify.com/album/6FZehd1V0iHCaTYpFU8owD) | 3:31 | 2022-12-27 | 2022-12-30 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-05-02 | 2023-05-21 |
 | [Prende el Party](https://open.spotify.com/track/23IfleMgXhIkqdcelFaFZm) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Prende el Party](https://open.spotify.com/album/0nZ7g8tTNbNUkgh0Z8QDjc) | 3:04 | 2022-03-12 | 2022-04-23 |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-08-24 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-08-24 | 2023-10-31 |
 | [Privado](https://open.spotify.com/track/68fkJE1oYWKIrMcMy8O0sO) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [El De La Nueva Baby](https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj) | 1:58 | 2023-09-26 |  |
 | [PROBLEMA](https://open.spotify.com/track/2dl5K2ScW7jYhAhuem06cm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PROBLEMA](https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ) | 3:04 | 2021-03-27\* | 2021-06-23 |
 | [Problemón](https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:12 | 2022-01-14 | 2022-04-10 |

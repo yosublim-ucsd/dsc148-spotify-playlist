@@ -1,12 +1,12 @@
 {
   "description": "what's the move?",
-  "num_followers": 79478,
+  "num_followers": 80089,
   "original_name": "Pregame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjg5OTJkNzQ3YjNjYjU2ZDkyOWM0ZjFiNjRiYTQ3YWUzNGJmMmZj",
+  "snapshot_id": "MCw2ZmQ3ZjFkYzhmMGU1MmE2NDJjNDRkZDdlNDk4YjAwYmVjZGJhM2Qw",
   "tracks": [
     {
       "added_at": "2023-09-29 21:20:54",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -311,26 +311,6 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
         "name": "Jungle Rules",
         "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 233901,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -535,26 +535,18 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
-        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "ARIZONATEARS",
-          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 163139,
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
+      "duration_ms": 258893,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -579,18 +571,18 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+        "name": "Finally Rich",
+        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
       },
       "artists": [
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         }
       ],
-      "duration_ms": 258893,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
+      "duration_ms": 246213,
+      "name": "Love Sosa",
+      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -615,18 +607,22 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "Finally Rich",
-        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
       "artists": [
         {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 246213,
-      "name": "Love Sosa",
-      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
+      "duration_ms": 220293,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -687,26 +683,6 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
@@ -763,6 +739,22 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Big Poppa - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -779,22 +771,6 @@
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 252746,
-      "name": "Big Poppa - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -879,22 +855,6 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Hypnotize - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -927,6 +887,38 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
         "name": "Levon James",
         "url": "https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP"
       },
@@ -955,22 +947,6 @@
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Disturbia",
-      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -1119,22 +1095,6 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
         "name": "Picture Show",
         "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
       },
@@ -1147,6 +1107,22 @@
       "duration_ms": 177280,
       "name": "Everybody Talks",
       "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -1167,26 +1143,6 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
         "name": "Planet Pit (Deluxe Version)",
         "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
       },
@@ -1203,6 +1159,26 @@
       "duration_ms": 227280,
       "name": "International Love (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -1239,26 +1215,6 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
-      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
         "name": "iSouljaBoyTellem",
         "url": "https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu"
       },
@@ -1275,6 +1231,26 @@
       "duration_ms": 193386,
       "name": "Kiss Me Thru The Phone",
       "url": "https://open.spotify.com/track/2q4rjDy9WhaN3o9MvDbO21"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -1375,6 +1351,22 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -1399,38 +1391,6 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Poker Face",
-      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 278573,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
         "name": "Flockaveli",
         "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
       },
@@ -1451,6 +1411,22 @@
       "duration_ms": 263773,
       "name": "No Hands (feat. Roscoe Dash & Wale)",
       "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 278573,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -1491,22 +1467,6 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 139741,
-      "name": "WHATS POPPIN",
-      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
         "name": "Too Rye Ay",
         "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
       },
@@ -1519,6 +1479,22 @@
       "duration_ms": 287306,
       "name": "Come On Eileen",
       "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 139741,
+      "name": "WHATS POPPIN",
+      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -1683,22 +1659,6 @@
     {
       "added_at": "2023-09-29 21:20:54",
       "album": {
-        "name": "Red Ruby Da Sleeze",
-        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 214445,
-      "name": "Red Ruby Da Sleeze",
-      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
-    },
-    {
-      "added_at": "2023-09-29 21:20:54",
-      "album": {
         "name": "SremmLife",
         "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
       },
@@ -1711,6 +1671,22 @@
       "duration_ms": 212946,
       "name": "Come Get Her",
       "url": "https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
       "added_at": "2023-09-29 21:20:54",
@@ -1843,6 +1819,22 @@
       "duration_ms": 343150,
       "name": "Bad and Boujee (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
+    },
+    {
+      "added_at": "2023-09-29 21:20:54",
+      "album": {
+        "name": "Still Striving",
+        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Plain Jane",
+      "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
     }
   ],
   "unique_name": "Pregame",

@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 668502,
+  "num_followers": 668543,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWYyYzBjMTJjZDI0ZmUyMzg5NGVjMzYxNGM3NGEwMmZjYmIxMWIz",
+  "snapshot_id": "MCxiYjJmNzQ5NDNjMTBlOGYxYWYzYmMyMDA0MTMzODEwYWUxZTY2MWRh",
   "tracks": [
     {
       "added_at": "2023-10-12 22:12:50",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
+        "name": "Dieciseis",
+        "url": "https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG"
+      },
+      "artists": [
+        {
+          "name": "Tiare",
+          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Cardenalito",
+      "url": "https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
         "name": "UNA LUZ",
         "url": "https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 144300,
       "name": "Pajaritos",
       "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
-        "name": "Dieciseis",
-        "url": "https://open.spotify.com/album/4zLZDzFqhK8fY9V5PpfPPG"
-      },
-      "artists": [
-        {
-          "name": "Tiare",
-          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Cardenalito",
-      "url": "https://open.spotify.com/track/6ZfPILRSg3V9jM8yH1V8xc"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "dosextra\u00f1os",
         "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 227244,
       "name": "dosextra\u00f1os",
       "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
       },
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Nadie Nos Entiende",
-        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "beat relajado para estudiar",
         "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
       },
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+        "name": "Pastelitos De Guayaba",
+        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
         }
       ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+      "duration_ms": 191671,
+      "name": "Pastelitos De Guayaba",
+      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Pastelitos De Guayaba",
-        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
       "artists": [
         {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
         }
       ],
-      "duration_ms": 191671,
-      "name": "Pastelitos De Guayaba",
-      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 321019,
-      "name": "Camarones y Viniles",
-      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "Conf\u00eden En M\u00ed",
         "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 256255,
       "name": "Qu\u00e9 Bonito Es Lo Bonito",
       "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 321019,
+      "name": "Camarones y Viniles",
+      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
     },
     {
       "added_at": "2023-10-12 22:12:50",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-10-12 22:12:50",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
-    },
-    {
-      "added_at": "2023-10-12 22:12:50",
-      "album": {
         "name": "Dos y Veintid\u00f3s",
         "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 237272,
       "name": "Electricidad (2:21am)",
       "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
+    },
+    {
+      "added_at": "2023-10-12 22:12:50",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2023-10-12 22:12:50",

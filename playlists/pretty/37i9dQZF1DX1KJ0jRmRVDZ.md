@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,257 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,369 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 45 | [飛天](https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [飛天](https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD) | 3:03 |
 | 46 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 |
 | 47 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
-| 48 | [都落ち](https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:10 |
-| 49 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 |
-| 50 | [Double](https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk) | [MILGRAM ミコト \(CV: 花江夏樹\)](https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo) | [Double](https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd) | 2:33 |
+| 48 | [Double](https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk) | [MILGRAM ミコト \(CV: 花江夏樹\)](https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo) | [Double](https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd) | 2:33 |
+| 49 | [都落ち](https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:10 |
+| 50 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 |
 
-Snapshot ID: `MCwxZDZmMDUzYjFhZTU1NDE5NGJjM2ZkY2ZjYmI5YmJlYzRjMmI2NmQ0`
+Snapshot ID: `MCwzYzRjZmNkYzFmZmI4ZjNmMGExYTdiOWE0YmNmOTcyNDQ1M2E2ZjU0`

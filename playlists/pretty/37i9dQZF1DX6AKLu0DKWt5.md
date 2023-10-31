@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from TV shows and films nominated for the 80th Golden Globe Awards\. Watch Jan 10, 2023 on NBC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,741 likes - 32 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,743 likes - 32 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 11 | [Voodoo Mama](https://open.spotify.com/track/5pmlMjmOvUi5RCe64e9Tyu) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Babylon \(Music from the Motion Picture\)](https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe) | 3:59 |
 | 12 | [Reverie](https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Fabelmans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC) | 1:44 |
 | 13 | [End Credits \(from the Netflix Series "DAHMER \- Monster: The Jeffrey Dahmer Story"\)](https://open.spotify.com/track/1zmRTJEYYYamHKy8Bsi8ne) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [DAHMER \- Monster: The Jeffrey Dahmer Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0iWf4fEHwkLXSHoHunjwtt) | 2:30 |
-| 14 | [Ciao Papa](https://open.spotify.com/track/2R96PRe2nQz5nRSLyBDDDG) | [Gregory Mann](https://open.spotify.com/artist/75HkCZEX8TSyFqh0PkXaa7) | [Guillermo del Toro's Pinocchio \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/7GQqZap38LT44AcbZriYqt) | 2:48 |
-| 15 | [Actually Her](https://open.spotify.com/track/7DYB52sRKxgh8N1wU3NFMp) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:12 |
+| 14 | [Actually Her](https://open.spotify.com/track/7DYB52sRKxgh8N1wU3NFMp) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:12 |
+| 15 | [Ciao Papa](https://open.spotify.com/track/2R96PRe2nQz5nRSLyBDDDG) | [Gregory Mann](https://open.spotify.com/artist/75HkCZEX8TSyFqh0PkXaa7) | [Guillermo del Toro's Pinocchio \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/7GQqZap38LT44AcbZriYqt) | 2:48 |
 | 16 | [Mrs\. Harris](https://open.spotify.com/track/4Chlib7xjLWRsCU4A2uGCo) | [Rael Jones](https://open.spotify.com/artist/6gmWKEK7HKvYBas0CWXdlW) | [Mrs\. Harris Goes to Paris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vjxJ2lyiNrKuV00JL5HRx) | 1:59 |
 | 17 | [Vivian Connects The Dots](https://open.spotify.com/track/2RtkEH2NxXMBkRWG5yjhZ0) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Pierre Charles](https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5) | [Inventing Anna \(Music From The Netflix Series\)](https://open.spotify.com/album/1xBVcdm8o7j8sjMTk2sAgM) | 1:38 |
 | 18 | [Walking Home Alone](https://open.spotify.com/track/1WhfX0T3ItwIHMqoGaLArQ) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [The Banshees of Inisherin \(Original Score\)](https://open.spotify.com/album/0aIEKTzRH1fuEyCWCAri1n) | 1:17 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 31 | [Get Outta My Face \(feat\. Sebastian Stan\)](https://open.spotify.com/track/6o9NhaBfBJS4pCd2RjGb66) | [Isaac Carpenter](https://open.spotify.com/artist/4xbXNEpKqu2JcnjxaHAWpj), [Sebastian Stan](https://open.spotify.com/artist/0JX0HkJxazV5WddFlKp9JV) | [Pam & Tommy \(Original Series Soundtrack\)](https://open.spotify.com/album/3DLTFjUNq8cigCAqaU1ZOc) | 1:02 |
 | 32 | [Main Title \(The Flight Attendant\)](https://open.spotify.com/track/2RyCnbRAwgxNi8D4MexzkF) | [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Flight Attendant: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4eGTAHIWB70mIf3gwknjow) | 1:29 |
 
-Snapshot ID: `MCw2N2I1YzU5OTkxM2FiMGQxZWQ4Njg1OWNkYzVlODQzOWExODVhNTI2`
+Snapshot ID: `MCxkNTYwMjlkNDNmZGQ1OWQ3MGUyNzViM2Y1MTRjZGU4ZTlhM2M0NzA4`

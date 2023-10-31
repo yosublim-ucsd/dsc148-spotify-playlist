@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Pink Pablo",
-  "num_followers": 508136,
+  "num_followers": 508133,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDEzM2Q4OWJjMjYwOWEzNTlkNWZlY2M2YjRiMjNmMzQwYmNlMDg4",
+  "snapshot_id": "MCxhNGMwOTg0OTI1NDY2NzgwODQ3NTdmNjUwZWJjZWQ0NTRlY2FhMmQ2",
   "tracks": [
     {
       "added_at": "2023-10-27 18:07:21",
@@ -243,6 +243,26 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM"
       },
@@ -275,22 +295,18 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
+        "name": "Perder",
+        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
         }
       ],
-      "duration_ms": 178026,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
+      "duration_ms": 219272,
+      "name": "Perder",
+      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -335,26 +351,6 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 175175,
-      "name": "DIAMANTE",
-      "url": "https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -379,18 +375,22 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "Perder",
-        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy"
       },
       "artists": [
         {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 219272,
-      "name": "Perder",
-      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
+      "duration_ms": 175175,
+      "name": "DIAMANTE",
+      "url": "https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -499,38 +499,6 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "Jugo de Guayaba",
-        "url": "https://open.spotify.com/album/5wGmJjNKp3kuxlGwKN10Iw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 176913,
-      "name": "Jugo de Guayaba",
-      "url": "https://open.spotify.com/track/3CNfhlYS0BPlbSUULODzb6"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
-        "name": "Descifrar",
-        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 256885,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
         "name": "Naufragar",
         "url": "https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc"
       },
@@ -547,6 +515,22 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
+        "name": "Jugo de Guayaba",
+        "url": "https://open.spotify.com/album/5wGmJjNKp3kuxlGwKN10Iw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 176913,
+      "name": "Jugo de Guayaba",
+      "url": "https://open.spotify.com/track/3CNfhlYS0BPlbSUULODzb6"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
         "name": "Quien Tengo Que Ser",
         "url": "https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 267640,
       "name": "Quien Tengo Que Ser",
       "url": "https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "Descifrar",
+        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 256885,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -607,22 +607,6 @@
       "duration_ms": 137114,
       "name": "VOYCONTODO",
       "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
-        "name": "Saico",
-        "url": "https://open.spotify.com/album/112KC0njtpo0OmNXsqnpUu"
-      },
-      "artists": [
-        {
-          "name": "A.CHAL",
-          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
-        }
-      ],
-      "duration_ms": 220285,
-      "name": "Saico",
-      "url": "https://open.spotify.com/track/1O6C6BFlZQ9QLzn8yY8uHG"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -679,6 +663,22 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
+        "name": "Saico",
+        "url": "https://open.spotify.com/album/112KC0njtpo0OmNXsqnpUu"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "duration_ms": 220285,
+      "name": "Saico",
+      "url": "https://open.spotify.com/track/1O6C6BFlZQ9QLzn8yY8uHG"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "En Tus Aguas",
-        "url": "https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP"
-      },
-      "artists": [
-        {
-          "name": "Dariann Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Volando",
-      "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
         "name": "Salvaje oeste",
         "url": "https://open.spotify.com/album/5p9ly1x9t3JPuzQlvMXJmT"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 168571,
       "name": "Salvaje oeste",
       "url": "https://open.spotify.com/track/3Svnj02fGFGjIDACeUFuiI"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "En Tus Aguas",
+        "url": "https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP"
+      },
+      "artists": [
+        {
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "En qu\u00e9 pienso cuando lloro",
-        "url": "https://open.spotify.com/album/2IkrQhvVdddjOMbwiW77nI"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 201903,
-      "name": "22:22",
-      "url": "https://open.spotify.com/track/6sgvEizEWx78hraou2YH1t"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
         "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
         "url": "https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 197760,
       "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
       "url": "https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "En qu\u00e9 pienso cuando lloro",
+        "url": "https://open.spotify.com/album/2IkrQhvVdddjOMbwiW77nI"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 201903,
+      "name": "22:22",
+      "url": "https://open.spotify.com/track/6sgvEizEWx78hraou2YH1t"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -975,38 +975,6 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "LALALAND",
-      "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
-        "name": "Holidays - Chromocosmic Avenue",
-        "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Holidays",
-      "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
@@ -1023,6 +991,22 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "LALALAND",
+      "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
         "name": "Solo Tu",
         "url": "https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 166000,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "Holidays - Chromocosmic Avenue",
+        "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "Todo lo que es Bueno",
-        "url": "https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Todo lo que es Bueno",
-      "url": "https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
         "name": "Qu\u00e9 tal? Yo igual",
         "url": "https://open.spotify.com/album/3bmRq543so0ogJaFvSlIT6"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 185421,
       "name": "Qu\u00e9 tal? Yo igual",
       "url": "https://open.spotify.com/track/2dgy7SSevw96MA0wDmdXp3"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "Todo lo que es Bueno",
+        "url": "https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "Todo lo que es Bueno",
+      "url": "https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "Tu Nombre",
-        "url": "https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB"
-      },
-      "artists": [
-        {
-          "name": "Rayos L\u00e1ser",
-          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
-        }
-      ],
-      "duration_ms": 175669,
-      "name": "Tu Nombre",
-      "url": "https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
         "name": "Mi Droga Favorita",
         "url": "https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 175813,
       "name": "Mi Droga Favorita",
       "url": "https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB"
+      },
+      "artists": [
+        {
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+        }
+      ],
+      "duration_ms": 175669,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 213088,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
         "name": "odiarte",
         "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 190000,
       "name": "odiarte",
       "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 213088,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
+        "name": "No Hu\u00ed",
+        "url": "https://open.spotify.com/album/4x8mc2CIbdYmCBdq4hzMTm"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "El Individuo",
+          "url": "https://open.spotify.com/artist/6g5g4O5mwD2z9AZJLNgz8O"
+        }
+      ],
+      "duration_ms": 213829,
+      "name": "No Hu\u00ed",
+      "url": "https://open.spotify.com/track/313jYZDkgH8CSnnhu849cD"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
         "name": "Agua Caliente",
         "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
       },
@@ -1331,22 +1351,6 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
         "name": "Gran Turismo",
         "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
@@ -1359,6 +1363,22 @@
       "duration_ms": 133693,
       "name": "Insurgentes",
       "url": "https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -1399,26 +1419,6 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "No Hu\u00ed",
-        "url": "https://open.spotify.com/album/4x8mc2CIbdYmCBdq4hzMTm"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "El Individuo",
-          "url": "https://open.spotify.com/artist/6g5g4O5mwD2z9AZJLNgz8O"
-        }
-      ],
-      "duration_ms": 213829,
-      "name": "No Hu\u00ed",
-      "url": "https://open.spotify.com/track/313jYZDkgH8CSnnhu849cD"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
         "name": "Caf\u00e9 con Miel",
         "url": "https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 195437,
       "name": "Caf\u00e9 con Miel",
       "url": "https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "no es culpa m\u00eda",
+        "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 185667,
+      "name": "no es culpa m\u00eda",
+      "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -1455,22 +1471,6 @@
       "duration_ms": 161147,
       "name": "Migajas",
       "url": "https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
-        "name": "no es culpa m\u00eda",
-        "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 185667,
-      "name": "no es culpa m\u00eda",
-      "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
-        "name": "MAKIA",
-        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 195411,
-      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
-      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
         "name": "en la ciudad",
         "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
+        "name": "MAKIA",
+        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 195411,
+      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
+      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
         "name": "Inhabitable",
         "url": "https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG"
       },
@@ -1639,86 +1639,6 @@
       "duration_ms": 167240,
       "name": "Inhabitable",
       "url": "https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
-        "name": "Querernos De Nuevo",
-        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 231994,
-      "name": "Querernos De Nuevo",
-      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
-        "name": "CARDIO",
-        "url": "https://open.spotify.com/album/4KI149spTqotwFjNUbrAl8"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "CARDIO",
-      "url": "https://open.spotify.com/track/1YLyCvXW50Jd7W4F3ZcAAY"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
-        "name": "Ac\u00e1",
-        "url": "https://open.spotify.com/album/3qUG8qKETKEmmZqhcRbGcX"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Ac\u00e1",
-      "url": "https://open.spotify.com/track/1Y1ZjDVV24xDdnK2WiVsjc"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/6m3XECdFtdnTqy1mplUb5R"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/696c9iYCZloDcTmB3lStdC"
-    },
-    {
-      "added_at": "2023-10-27 18:07:21",
-      "album": {
-        "name": "Donde Se Fue el Sol",
-        "url": "https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 219636,
-      "name": "Donde Se Fue el Sol",
-      "url": "https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8"
     },
     {
       "added_at": "2023-10-27 18:07:21",
@@ -1739,6 +1659,70 @@
     {
       "added_at": "2023-10-27 18:07:21",
       "album": {
+        "name": "Ac\u00e1",
+        "url": "https://open.spotify.com/album/3qUG8qKETKEmmZqhcRbGcX"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Ac\u00e1",
+      "url": "https://open.spotify.com/track/1Y1ZjDVV24xDdnK2WiVsjc"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "CARDIO",
+        "url": "https://open.spotify.com/album/4KI149spTqotwFjNUbrAl8"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "CARDIO",
+      "url": "https://open.spotify.com/track/1YLyCvXW50Jd7W4F3ZcAAY"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "Querernos De Nuevo",
+        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 231994,
+      "name": "Querernos De Nuevo",
+      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/6m3XECdFtdnTqy1mplUb5R"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/696c9iYCZloDcTmB3lStdC"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
         "name": "Ya no sigo esperando por ti",
         "url": "https://open.spotify.com/album/08bCpzyhrda2rK5T9LeIyN"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 182296,
       "name": "Ya no sigo esperando por ti",
       "url": "https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg"
+    },
+    {
+      "added_at": "2023-10-27 18:07:21",
+      "album": {
+        "name": "Donde Se Fue el Sol",
+        "url": "https://open.spotify.com/album/2v2kVJmiTZAej6IcQT19oQ"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 219636,
+      "name": "Donde Se Fue el Sol",
+      "url": "https://open.spotify.com/track/2V5SOpJyIyJudUPJzB5HI8"
     },
     {
       "added_at": "2023-10-27 18:07:21",

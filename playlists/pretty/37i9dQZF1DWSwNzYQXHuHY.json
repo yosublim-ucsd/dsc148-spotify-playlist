@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9073,
+  "num_followers": 9096,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWQ0MDdkMjUyNmM1YjU2Y2FiNWM4ZjA3ODNlOTM1OTk1M2I2NmRj",
+  "snapshot_id": "MCw1OWE3OGQ5NDgyOTc1NzE4OTNhNDc1MTcxOTdhZjAxOWIzN2I1ODUx",
   "tracks": [
     {
       "added_at": "2023-10-16 07:48:41",
@@ -135,6 +135,26 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
+        "name": "The Hyena on the Keyboard, Pt. 4",
+        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 231654,
+      "name": "Don\u2019t",
+      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
+    },
+    {
+      "added_at": "2023-10-16 07:48:41",
+      "album": {
         "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
         "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
-    },
-    {
-      "added_at": "2023-10-16 07:48:41",
-      "album": {
-        "name": "The Hyena on the Keyboard, Pt. 4",
-        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 231654,
-      "name": "Don\u2019t",
-      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
     },
     {
       "added_at": "2023-10-16 07:48:41",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
+    },
+    {
+      "added_at": "2023-10-16 07:48:41",
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1"
-    },
-    {
-      "added_at": "2023-10-16 07:48:41",
-      "album": {
         "name": "You, Who?",
         "url": "https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 219330,
       "name": "You, Who?",
       "url": "https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1"
-    },
-    {
-      "added_at": "2023-10-16 07:48:41",
-      "album": {
-        "name": "Brand New - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
-      },
-      "artists": [
-        {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
     },
     {
       "added_at": "2023-10-16 07:48:41",
@@ -447,6 +431,22 @@
       "duration_ms": 194999,
       "name": "Feel Like Falling In Love",
       "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
+    },
+    {
+      "added_at": "2023-10-16 07:48:41",
+      "album": {
+        "name": "Brand New - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
     },
     {
       "added_at": "2023-10-16 07:48:41",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
-        "name": "Before the Petals Fall",
-        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Before the Petals Fall",
-      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
-    },
-    {
-      "added_at": "2023-10-16 07:48:41",
-      "album": {
         "name": "Q",
         "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 205693,
       "name": "How Do You Think",
       "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
+    },
+    {
+      "added_at": "2023-10-16 07:48:41",
+      "album": {
+        "name": "Before the Petals Fall",
+        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Before the Petals Fall",
+      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
     },
     {
       "added_at": "2023-10-16 07:48:41",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-16 07:48:41",
       "album": {
-        "name": "I Study You",
-        "url": "https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT"
-      },
-      "artists": [
-        {
-          "name": "SORAN",
-          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
-        }
-      ],
-      "duration_ms": 217728,
-      "name": "I Study You",
-      "url": "https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9"
-    },
-    {
-      "added_at": "2023-10-16 07:48:41",
-      "album": {
         "name": "flutter",
         "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 196920,
       "name": "flutter",
       "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
+    },
+    {
+      "added_at": "2023-10-16 07:48:41",
+      "album": {
+        "name": "I Study You",
+        "url": "https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "duration_ms": 217728,
+      "name": "I Study You",
+      "url": "https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9"
     },
     {
       "added_at": "2023-10-16 07:48:41",

@@ -1,12 +1,12 @@
 {
   "description": "Something cute for baddies doing their hair and make-up. ",
-  "num_followers": 83172,
+  "num_followers": 83946,
   "original_name": "Getting Ready \ud83d\udc8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjRmY2IwZTdhZjU1OTA0NGYyNzEyYjdlYzUzMjM2MzZjOTIyOWQ2",
+  "snapshot_id": "MCw0NjE5MmJmNTNkODc0MWJhYWUzZDBiYTUyYmFiODQ0MjYyOTQwOWMy",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -187,6 +171,26 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -223,22 +227,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "Say It Right",
-      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "C U Girl",
         "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 129697,
       "name": "C U Girl",
       "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231253,
-      "name": "Broken Clocks",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231253,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "WAP (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 187541,
-      "name": "WAP (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 277043,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Who Told You (feat. Drake)",
         "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 277043,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Queen Of The Clouds",
         "url": "https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE"
       },
@@ -1007,6 +1023,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Te Mata",
+        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Te Mata",
+      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -1027,38 +1059,6 @@
       "duration_ms": 121572,
       "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 243227,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Te Mata",
-        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Te Mata",
-      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 319466,
-      "name": "Partition",
-      "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Shirt",
         "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 319466,
+      "name": "Partition",
+      "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
       },
@@ -1263,26 +1263,6 @@
       "duration_ms": 234024,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1315,6 +1295,26 @@
       "duration_ms": 210253,
       "name": "A BOY IS A GUN*",
       "url": "https://open.spotify.com/track/1nXZnTALNXiPlvXotqHm66"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX"
     },
     {
       "added_at": "2023-10-20 04:00:00",

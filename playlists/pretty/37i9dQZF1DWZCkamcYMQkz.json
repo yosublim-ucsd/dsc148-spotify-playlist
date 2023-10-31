@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 160666,
+  "num_followers": 160782,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDI2ZmVkOWMzYWI1N2Y3NDI3M2E1NmVkMGZmZTNkMjRkNzAzNDBi",
+  "snapshot_id": "MCw5MjgyNzZkYzNjZjY4N2NlMGZiNGVlZWUzNWExZjA3YTMyMmE5MmJh",
   "tracks": [
     {
       "added_at": "2023-10-25 07:40:39",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "Balm in Gilead",
-        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
-      },
-      "artists": [
-        {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "The Moon Is Made of Gold",
-      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
         "name": "Got You on My Mind",
         "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 152531,
       "name": "Back in Your Own Back Yard",
       "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
+        "name": "Balm in Gilead",
+        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "The Moon Is Made of Gold",
+      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "Samara Joy",
-        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "Everything Happens to Me",
-      "url": "https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
         "name": "Sun of June",
         "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
       },
@@ -275,18 +259,18 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "Oh! Look At Me Now",
-        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 138600,
-      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
-      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
+      "duration_ms": 227893,
+      "name": "Everything Happens to Me",
+      "url": "https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -311,6 +295,22 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
+        "name": "Oh! Look At Me Now",
+        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
+      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
         "name": "Cafe Society (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 150800,
       "name": "Mountain Greenery",
       "url": "https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
+        "name": "42nd Street Shuffle",
+        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "duration_ms": 259786,
+      "name": "42nd Street Shuffle",
+      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -383,18 +399,18 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "42nd Street Shuffle",
-        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
+        "name": "Cononbridge",
+        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
       },
       "artists": [
         {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
         }
       ],
-      "duration_ms": 259786,
-      "name": "42nd Street Shuffle",
-      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
+      "duration_ms": 298000,
+      "name": "Cononbridge",
+      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -435,34 +451,18 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "Cononbridge",
-        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
+        "name": "Timba a la Americana",
+        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
       },
       "artists": [
         {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
         }
       ],
-      "duration_ms": 298000,
-      "name": "Cononbridge",
-      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
-        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "John Hardy's Wife",
-      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
+      "duration_ms": 181928,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "Timba a la Americana",
-        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
       },
       "artists": [
         {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 181928,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
+      "duration_ms": 153826,
+      "name": "John Hardy's Wife",
+      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -543,26 +543,6 @@
       "duration_ms": 116280,
       "name": "When Lights Are Low",
       "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
-        "name": "Oscar Peterson's Finest Hour",
-        "url": "https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 121266,
-      "name": "Mumbles",
-      "url": "https://open.spotify.com/track/0sguFXNUDV7rZ9GYB9v1r2"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -619,22 +599,6 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "A Boy Named Charlie Brown",
-        "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 142680,
-      "name": "Oh, Good Grief",
-      "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
         "name": "Ella And Basie",
         "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
       },
@@ -651,6 +615,42 @@
       "duration_ms": 184933,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
+        "name": "Oscar Peterson's Finest Hour",
+        "url": "https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 121266,
+      "name": "Mumbles",
+      "url": "https://open.spotify.com/track/0sguFXNUDV7rZ9GYB9v1r2"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
+        "name": "A Boy Named Charlie Brown",
+        "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 142680,
+      "name": "Oh, Good Grief",
+      "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
+        "name": "My Kinda Swing",
+        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 138986,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
         "name": "It Might as Well Be Spring",
         "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 292706,
       "name": "It Might as Well Be Spring",
       "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
-        "name": "My Kinda Swing",
-        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 138986,
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 407533,
+      "name": "The More I See You - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 182493,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 407533,
-      "name": "The More I See You - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -907,34 +907,22 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
       },
       "artists": [
         {
           "name": "Cannonball Adderley",
           "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
-        "name": "Past Midnight",
-        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
-      },
-      "artists": [
+        },
         {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 172453,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
+      "duration_ms": 358760,
+      "name": "Who Cares?",
+      "url": "https://open.spotify.com/track/71igtS6V0X6v1s53CWS1nO"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -955,6 +943,22 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
+        "name": "Dippin'",
+        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 491293,
+      "name": "Recado Bossa Nova - Remastered 2005",
+      "url": "https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
         "name": "The Modern Sound Of Betty Carter",
         "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
       },
@@ -971,18 +975,18 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "Dippin'",
-        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
+        "name": "Past Midnight",
+        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 491293,
-      "name": "Recado Bossa Nova - Remastered 2005",
-      "url": "https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS"
+      "duration_ms": 172453,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -1023,22 +1027,6 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Stompin' At The Savoy - 1956 Version",
-      "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
         "name": "Paris In The Rain",
         "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
       },
@@ -1055,22 +1043,34 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
       "artists": [
         {
           "name": "Cannonball Adderley",
           "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 358760,
-      "name": "Who Cares?",
-      "url": "https://open.spotify.com/track/71igtS6V0X6v1s53CWS1nO"
+      "duration_ms": 254800,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Stompin' At The Savoy - 1956 Version",
+      "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -1191,42 +1191,6 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
-        "name": "The Feeling is Mutual",
-        "url": "https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "The Feeling is Mutual",
-      "url": "https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
         "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
       },
@@ -1243,6 +1207,22 @@
       "duration_ms": 152160,
       "name": "I Hear Music - Remastered",
       "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -1279,6 +1259,26 @@
       "duration_ms": 306133,
       "name": "It's Crazy",
       "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
+        "name": "The Feeling is Mutual",
+        "url": "https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "The Feeling is Mutual",
+      "url": "https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
         "name": "Surf Ride",
         "url": "https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 191640,
       "name": "Holiday Flight",
       "url": "https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "Blues Vaccine",
-        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6rnuft och K\u00e4nsla",
-          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
-        }
-      ],
-      "duration_ms": 360306,
-      "name": "Blues Vaccine",
-      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
-    },
-    {
-      "added_at": "2023-10-25 07:40:39",
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 141866,
       "name": "I'm Putting All My Eggs In One Basket",
       "url": "https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C"
+    },
+    {
+      "added_at": "2023-10-25 07:40:39",
+      "album": {
+        "name": "Blues Vaccine",
+        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6rnuft och K\u00e4nsla",
+          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+        }
+      ],
+      "duration_ms": 360306,
+      "name": "Blues Vaccine",
+      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
     },
     {
       "added_at": "2023-10-25 07:40:39",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-10-25 07:40:39",
       "album": {
-        "name": "Sonic Boom",
-        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 333826,
-      "name": "Uncle Rough",
-      "url": "https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS"
+      "duration_ms": 144840,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
     }
   ],
   "unique_name": "Feel Good Jazz",

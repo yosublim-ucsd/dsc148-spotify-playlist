@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be?si=6CcYgZxjRbK\_erao2CAlyA">Drakare</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,119 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,160 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 99 | [Yeshua](https://open.spotify.com/track/1a6okwcH8w76oBWro6DCTQ) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [More](https://open.spotify.com/album/7viB8mMkJLWqEZy7BQaPEJ) | 6:03 |
 | 100 | [Suo Mé](https://open.spotify.com/track/4ItJnL2F1kAyk1GFiyB8kS) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Suo Mé](https://open.spotify.com/album/3UrYNFLEvCSXX1JAJFLxcv) | 3:14 |
 
-Snapshot ID: `MCwwZjQ0MjY4MDk1MjQxYTFlOGVmMTA5NjNiMDM3Y2M2YTU2N2ZhZTNk`
+Snapshot ID: `MCxiODhkNzgzNjRmZmM5MWI5NDRjOTU4NTE1ZmQ4MWE1NzFhZjZhZmY3`

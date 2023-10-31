@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 55795,
+  "num_followers": 55862,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy",
+  "snapshot_id": "MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Always Will Be",
-        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Always Will Be",
-      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Holy, Holy, Holy",
         "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 146400,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Always Will Be",
+        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Always Will Be",
+      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "After All These Years (Instrumental)",
-        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 336853,
-      "name": "Greater Than All Other Names - Instrumental",
-      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Sun Will Rise",
         "url": "https://open.spotify.com/album/1bwaS6JvUGRErJYUCWsWXP"
       },
@@ -587,22 +571,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Matins : Vespers",
-        "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
-      },
-      "artists": [
-        {
-          "name": "Parachute Band",
-          "url": "https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk"
-        }
-      ],
-      "duration_ms": 236386,
-      "name": "* Consecrate *",
-      "url": "https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Young Oceans",
         "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
       },
@@ -615,6 +583,38 @@
       "duration_ms": 273960,
       "name": "Great Is Our God",
       "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 336853,
+      "name": "Greater Than All Other Names - Instrumental",
+      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Matins : Vespers",
+        "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
+      },
+      "artists": [
+        {
+          "name": "Parachute Band",
+          "url": "https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "* Consecrate *",
+      "url": "https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Asaph",
+        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 342453,
+      "name": "(73) the Nearness of You",
+      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Yoga Practice & Mindfulness Music",
         "url": "https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Asaph",
-        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
       },
       "artists": [
         {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 342453,
-      "name": "(73) the Nearness of You",
-      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -703,22 +719,6 @@
       "duration_ms": 246000,
       "name": "Leaving Safe Places",
       "url": "https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Spirit Of God",
         "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 290813,
       "name": "Something About The Name - Live",
       "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Eternal Jetlag",
+        "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
+      },
+      "artists": [
+        {
+          "name": "WILLO",
+          "url": "https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N"
+        }
+      ],
+      "duration_ms": 236172,
+      "name": "I Go",
+      "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Eternal Jetlag",
-        "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
       },
       "artists": [
         {
-          "name": "WILLO",
-          "url": "https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N"
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
         }
       ],
-      "duration_ms": 236172,
-      "name": "I Go",
-      "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
+      "duration_ms": 143453,
+      "name": "10,000 Reasons (Bless the Lord)",
+      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1023,22 +1023,6 @@
       "duration_ms": 196040,
       "name": "Weeping Mary",
       "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
-      },
-      "artists": [
-        {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
-        }
-      ],
-      "duration_ms": 143453,
-      "name": "10,000 Reasons (Bless the Lord)",
-      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1179,6 +1163,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
+      },
+      "artists": [
+        {
+          "name": "Radiant City Music",
+          "url": "https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk"
+        },
+        {
+          "name": "Devin Strasser",
+          "url": "https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI"
+        }
+      ],
+      "duration_ms": 338504,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -1227,26 +1231,6 @@
       "duration_ms": 245077,
       "name": "Glorious Ruins",
       "url": "https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
-      },
-      "artists": [
-        {
-          "name": "Radiant City Music",
-          "url": "https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk"
-        },
-        {
-          "name": "Devin Strasser",
-          "url": "https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI"
-        }
-      ],
-      "duration_ms": 338504,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Velveteen",
+        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
+      },
+      "artists": [
+        {
+          "name": "Christa Wells",
+          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
+        }
+      ],
+      "duration_ms": 237481,
+      "name": "Velveteen",
+      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Undress My Heart",
         "url": "https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 225961,
       "name": "Undress My Heart",
       "url": "https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Velveteen",
-        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
-      },
-      "artists": [
-        {
-          "name": "Christa Wells",
-          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
-        }
-      ],
-      "duration_ms": 237481,
-      "name": "Velveteen",
-      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "There is a King (Live Rehearsal Demo)",
+        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 222421,
+      "name": "There is a King - Live Rehearsal Demo",
+      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Even Here Love Comes",
         "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "There is a King (Live Rehearsal Demo)",
-        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 222421,
-      "name": "There is a King - Live Rehearsal Demo",
-      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Psalm 108",
         "url": "https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 277000,
       "name": "Psalm 108",
       "url": "https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "I Won't Let Go",
+        "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "I Won't Let Go",
+      "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I Won't Let Go",
-        "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "I Won't Let Go",
-      "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Caves (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ"
       },
@@ -1675,18 +1659,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "SEVEN",
-        "url": "https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n"
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG"
       },
       "artists": [
         {
-          "name": "Gamie",
-          "url": "https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G"
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        },
+        {
+          "name": "Madison Nightingale",
+          "url": "https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq"
         }
       ],
-      "duration_ms": 187058,
-      "name": "God Keep Us",
-      "url": "https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr"
+      "duration_ms": 301909,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1703,6 +1691,22 @@
       "duration_ms": 258292,
       "name": "Faith Fall - pensive piano",
       "url": "https://open.spotify.com/track/2WbFoLk3VvAPhh0WZcXYMr"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "SEVEN",
+        "url": "https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n"
+      },
+      "artists": [
+        {
+          "name": "Gamie",
+          "url": "https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "God Keep Us",
+      "url": "https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr"
     }
   ],
   "unique_name": "The Good Cup",

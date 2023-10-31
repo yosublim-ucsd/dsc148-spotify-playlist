@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 237136,
+  "num_followers": 237519,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDdmMjMxZGE4OGEwZjBlNjg4YTI5MWVmOWMxYWEyNWNmYWVmNDQz",
+  "snapshot_id": "MCxiYzM5OWViYzcxM2I5MGI1YzVjYTI2NDA4MjY3NTQ1YjgxYWM2OTFj",
   "tracks": [
     {
       "added_at": "2023-10-13 08:11:02",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
         "name": "Elysium",
         "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
       },
@@ -467,62 +451,18 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Asura EP",
-        "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 469612,
-      "name": "Asura",
-      "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
-        "name": "The Seduction EP",
-        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Olly James",
-          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Seduction",
-      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
-        "name": "WANNA GO BANG",
-        "url": "https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "DJ Deeon",
-          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
-        }
-      ],
-      "duration_ms": 237157,
-      "name": "WANNA GO BANG",
-      "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -539,6 +479,22 @@
       "duration_ms": 408669,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "Asura EP",
+        "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 469612,
+      "name": "Asura",
+      "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -563,6 +519,30 @@
       "duration_ms": 211617,
       "name": "Flying Octopus",
       "url": "https://open.spotify.com/track/0n2jPpNThUiLaf39k1Jfz7"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "WANNA GO BANG",
+        "url": "https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "DJ Deeon",
+          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
+        }
+      ],
+      "duration_ms": 237157,
+      "name": "WANNA GO BANG",
+      "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -595,6 +575,26 @@
       "duration_ms": 251026,
       "name": "Bells of Notre Dame",
       "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "The Seduction EP",
+        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
         "name": "Alle meine Raver",
         "url": "https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4"
       },
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-10-13 08:11:02",
       "album": {
-        "name": "Roll the Dice",
-        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0C24gM4unxLDwJNa0ax8LP"
       },
       "artists": [
         {
-          "name": "Bart Skils",
-          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 276357,
-      "name": "Roll the Dice",
-      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
+      "duration_ms": 365568,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2EHdG8AvxtuZGLk74YQUXt"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -767,6 +767,22 @@
       "duration_ms": 271729,
       "name": "Affection - Radio Edit",
       "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
+    },
+    {
+      "added_at": "2023-10-13 08:11:02",
+      "album": {
+        "name": "Roll the Dice",
+        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        }
+      ],
+      "duration_ms": 276357,
+      "name": "Roll the Dice",
+      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
     },
     {
       "added_at": "2023-10-13 08:11:02",
@@ -799,22 +815,6 @@
       "duration_ms": 320000,
       "name": "About My Dreams",
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
-    },
-    {
-      "added_at": "2023-10-13 08:11:02",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/0C24gM4unxLDwJNa0ax8LP"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 365568,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/2EHdG8AvxtuZGLk74YQUXt"
     },
     {
       "added_at": "2023-10-13 08:11:02",

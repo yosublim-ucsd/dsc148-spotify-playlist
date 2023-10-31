@@ -1,12 +1,12 @@
 {
   "description": "we hear you.",
-  "num_followers": 1168834,
+  "num_followers": 1168962,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWUwNzgxY2E2Zjg5ODI1ODU1YWY5MDY3NGM1YzQ5ZTllZDc5Y2U2",
+  "snapshot_id": "MCxmNGZkNzllMmJiYTAyZjRlNTYzMDk3NTNlMmZkY2I3Zjg5NzczOGVm",
   "tracks": [
     {
       "added_at": "2023-09-29 20:20:52",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Notes From A Wrist",
-        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Notes From A Wrist",
-      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Trauma",
         "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 163992,
       "name": "Goodnight Dad I Love You",
       "url": "https://open.spotify.com/track/013L1ZodWo9Ax2g9LejC9O"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "The Lost Petals",
         "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+        "name": "goodnight moon (demos)",
+        "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
       },
       "artists": [
         {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
         }
       ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+      "duration_ms": 107369,
+      "name": "i'll never fall in love with myself - demo",
+      "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -523,22 +539,6 @@
       "duration_ms": 225068,
       "name": "homies",
       "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "goodnight moon (demos)",
-        "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 107369,
-      "name": "i'll never fall in love with myself - demo",
-      "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
     },
     {
-      "added_at": "2023-10-16 20:29:38",
-      "album": {
-        "name": "Planet Express",
-        "url": "https://open.spotify.com/album/1pFOoKAoqMRWTIAdDdqTnF"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 259760,
-      "name": "Planet Express",
-      "url": "https://open.spotify.com/track/0XklTT2Yejv5bhbomw5u8r"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "You Don't Want Me Anymore",
@@ -643,6 +627,22 @@
       "duration_ms": 165000,
       "name": "You Don't Want Me Anymore",
       "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
+    },
+    {
+      "added_at": "2023-10-16 20:29:38",
+      "album": {
+        "name": "Planet Express",
+        "url": "https://open.spotify.com/album/1pFOoKAoqMRWTIAdDdqTnF"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "Planet Express",
+      "url": "https://open.spotify.com/track/0XklTT2Yejv5bhbomw5u8r"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Grey Lines",
-        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
-      },
-      "artists": [
-        {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Grey Lines",
-      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 168960,
       "name": "Idea of Her",
       "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Grey Lines",
+        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Grey Lines",
+      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Sick of Losing Soulmates",
-        "url": "https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 267377,
-      "name": "Sick of Losing Soulmates",
-      "url": "https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Safe.",
         "url": "https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 119089,
       "name": "I Know You so Well",
       "url": "https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Sick of Losing Soulmates",
+        "url": "https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 267377,
+      "name": "Sick of Losing Soulmates",
+      "url": "https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M"
     },
     {
       "added_at": "2023-10-16 20:29:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "When the City Sleeps",
         "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 216514,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "If I Really Love You",
-        "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "If I Really Love You",
-      "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Second Place",
         "url": "https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 128729,
       "name": "Second Place",
       "url": "https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "If I Really Love You",
+        "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "If I Really Love You",
+      "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 238881,
+      "name": "Pyjama Pants",
+      "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 161201,
       "name": "Rage",
       "url": "https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 238881,
-      "name": "Pyjama Pants",
-      "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
     },
     {
       "added_at": "2023-09-29 20:20:52",

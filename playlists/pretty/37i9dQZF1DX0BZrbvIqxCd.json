@@ -1,29 +1,13 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 541483,
+  "num_followers": 541530,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTc2ZTJiN2NhM2ExZDdlZWUzNjU2OTJjN2RjNWU5NDlmM2I0NGQw",
+  "snapshot_id": "MCxjMTU2NzMxNzQ1MzU1NWVlMzEwMmZjNGZlOGQ4Mjc1YjE0YTY3ODNl",
   "tracks": [
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
-    },
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -191,22 +175,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -239,18 +207,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -271,6 +239,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "The Sufferer & The Witness",
         "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "We The Kings",
-        "url": "https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB"
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
       "artists": [
         {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 220146,
-      "name": "Check Yes, Juliet",
-      "url": "https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR"
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -319,6 +303,22 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "We The Kings",
+        "url": "https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Check Yes, Juliet",
+      "url": "https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 144585,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 196120,
       "name": "Fuck Authority",
       "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -595,6 +595,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Bro Hymn - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Ghost in My Home",
         "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 163240,
       "name": "I Fought the Law",
       "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Bro Hymn - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213010,
-      "name": "Happy Judgement Day",
-      "url": "https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "estella//",
         "url": "https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 118733,
       "name": "estella//",
       "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 213010,
+      "name": "Happy Judgement Day",
+      "url": "https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1311,18 +1311,34 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
         }
       ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
+      "duration_ms": 221241,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 185419,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
       "artists": [
         {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 221241,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1371,22 +1387,6 @@
       "duration_ms": 193280,
       "name": "Me First",
       "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 185419,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1419,22 +1419,6 @@
       "duration_ms": 195866,
       "name": "Moving Boxes",
       "url": "https://open.spotify.com/track/0bP8VDZQ3eXgHofaXT88Cr"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 146436,
-      "name": "Jurassic Park",
-      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1487,22 +1471,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "From The Outside",
-      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax"
       },
@@ -1535,6 +1503,38 @@
       "duration_ms": 164485,
       "name": "My Town",
       "url": "https://open.spotify.com/track/5GgWSPOy9j3vbcfXmUTbA7"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 146436,
+      "name": "Jurassic Park",
+      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "From The Outside",
+      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
     },
     {
       "added_at": "2020-11-20 21:27:18",

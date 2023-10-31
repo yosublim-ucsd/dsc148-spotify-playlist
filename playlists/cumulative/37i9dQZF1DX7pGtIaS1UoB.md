@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-311 songs - 18 hr 29 min
+312 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [U \(三立華劇「我的青春沒在怕」片頭曲\)](https://open.spotify.com/track/5P3r3I4MdjYPYhhP7roD7n) | [劉以豪](https://open.spotify.com/artist/5S4LgCDo6Im3fADQDXyWyP) | [U \(三立華劇「我的青春沒在怕」片頭曲\)](https://open.spotify.com/album/4wnswsR5wYk2QjxGE7WrvE) | 3:08 | 2022-06-06 | 2022-07-28 |
 | [Valentine's Day](https://open.spotify.com/track/0ZSHpad1O6qybnxaEj0lyL) | [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [第9次初戀](https://open.spotify.com/album/77pNXNu9FeYHfBIJOSSFhZ) | 4:03 | 2022-07-25 | 2022-07-27 |
 | [Will You Be My Love \~ 問問 \- WBL系列影集第一季<永遠的第一名>片頭曲](https://open.spotify.com/track/0X0yv9i8T1YdeGbOI0PnwN) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [Will You Be My Love \~ 問問 \(WBL系列影集第一季<永遠的第一名>片頭曲\)](https://open.spotify.com/album/6zFcUqZETFY38EQOhZgeHL) | 3:23 | 2022-06-06 | 2022-07-27 |
+| [With U \(《男生男生配 Boys Like Boys》節目主題曲\)](https://open.spotify.com/track/4PMTllvedph40YFXskSmqV) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [With U](https://open.spotify.com/album/3kNZ0vA64unelkAEcpSiPs) | 2:36 | 2023-10-30 |  |
 | [Xiao Guai Guai](https://open.spotify.com/track/2uPnipbrzbRK6FBjpZmUNP) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [0 cm to YO](https://open.spotify.com/album/7z2oSPZDtelkc6cT4ymViw) | 3:45 | 2022-06-06 | 2022-07-17 |
 | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 | 2022-06-13 |  |
 | [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 | 2023-09-18 |  |
@@ -262,7 +263,7 @@
 | [當你孤單你會想起誰](https://open.spotify.com/track/1qBwJa1vOvIUyD3dlLU03P) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [當你孤單你會想起誰](https://open.spotify.com/album/4WyfVslftjtq0Q7aarCGgl) | 3:11 | 2022-06-06 | 2022-07-28 |
 | [直到我遇見了你](https://open.spotify.com/track/3LAgIUioZHAUaCjj4KsX9Y) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [直到我遇見了你](https://open.spotify.com/album/2ahdjX6myx2b9NJ65stXOo) | 4:06 | 2022-06-06 | 2022-07-29 |
 | [直到有天我们都变老](https://open.spotify.com/track/4Qr0teCIBWVknFZ6tGpBK0) | [白小白](https://open.spotify.com/artist/2z483yEJXdjguqCQysftmD) | [直到有天我们都变老](https://open.spotify.com/album/4DQtG5hkx5r32CoyQaj4QU) | 3:37 | 2023-01-09 | 2023-01-17 |
-| [直球浪漫](https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV), [K.A咔咔](https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL) | [直球浪漫](https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO) | 3:46 | 2022-11-08 |  |
+| [直球浪漫](https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV), [K.A咔咔](https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL) | [直球浪漫](https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO) | 3:46 | 2022-11-08 | 2023-10-31 |
 | [相見不恨晚](https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:28 | 2023-05-22 | 2023-08-15 |
 | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/track/0GEoPuKjsC0L0fgCcFPhOh) | [劉奕兒](https://open.spotify.com/artist/1NUGlzcnxDPj8nl9iCuh42), [Marcus Chang](https://open.spotify.com/artist/5GTkwiuc6ayldeGjQVAN4n) | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/album/7EFy9C9dPS2f360H56SX4J) | 3:50 | 2023-07-31 | 2023-09-03 |
 | [第一默契 \(电视剧 《你微笑时很美》 片尾曲\)](https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy) | [Kai Xu](https://open.spotify.com/artist/5aL82Rnbtx5DQp5cAcCUdI), [Xiao Cheng](https://open.spotify.com/artist/1o4C8yeeDMUpc2Hq4jRTwT) | [电视剧《你微笑时很美》影视原声带](https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs) | 3:28 | 2022-09-26 |  |

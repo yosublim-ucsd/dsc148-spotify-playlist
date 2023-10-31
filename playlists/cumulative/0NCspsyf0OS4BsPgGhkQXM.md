@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-902 songs - 2 day 0 hr 1 min
+904 songs - 2 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Ghost Town](https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Ghost Town](https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv) | 2:32 | 2022-10-31 | 2022-11-24 |
 | [Ghost Town](https://open.spotify.com/track/4PPCWezfTaXfJxvJh3scND) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Ghost Town](https://open.spotify.com/album/4NT0EDiOqeIcyoomo56LSA) | 2:35 | 2023-10-12 |  |
 | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l) | 3:32 | 2022-07-18 | 2022-08-14 |
+| [Ghost Under My Skin](https://open.spotify.com/track/71Sgjy9uRx3DNpjF47iXGU) | [L I F E / L I N E](https://open.spotify.com/artist/5oGx8PvzXwgguezHDVRakQ), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Ghost Under My Skin](https://open.spotify.com/album/5F3ImaLKZ0BbfRGqKMvMiZ) | 3:06 | 2023-10-30 |  |
 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 | 2022-11-22 |  |
 | [Go Home](https://open.spotify.com/track/0e7Ana1Q5SrYM0Va7z2V7i) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH) | [Go Home](https://open.spotify.com/album/6izq0ZIJydzdk4eTG36bWZ) | 3:12 | 2022-01-14 | 2022-03-05 |
 | [Go Off](https://open.spotify.com/track/7peXYPvAVHw77scTuY5TWL) | [Haterade](https://open.spotify.com/artist/57mNUYCvfPsEKFMrA678JH), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:05 | 2022-06-16 | 2023-02-22 |
@@ -535,6 +536,7 @@
 | [Never Letting Go \- Vince Blais Remix](https://open.spotify.com/track/68U7LDazhPIBcoZqkspRHi) | [Future Magic](https://open.spotify.com/artist/6tZN3dkaAZSrv7ErRcCymN), [Nukage](https://open.spotify.com/artist/1hRdVFNXUacXeVhnTbhTH1), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc), [Vince Blais](https://open.spotify.com/artist/10gKXDvHvRN9O9VjYbR1zu) | [Never Letting Go \(Vince Blais Remix\)](https://open.spotify.com/album/7enodGGGgRKtAKa6TqSO3H) | 3:04 | 2023-09-26 |  |
 | [New Rules \- Alison Wonderland Remix](https://open.spotify.com/track/5Fx2UrcQobzM1h2ihdhsmm) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [New Rules \(Alison Wonderland Remix\)](https://open.spotify.com/album/51pv0ZowpwnstNG77uLoEV) | 4:23 | 2023-02-21 | 2023-05-04 |
 | [Next 2 Me](https://open.spotify.com/track/34a9Y66tCok1S8kXgmDl0y) | [Oxlo](https://open.spotify.com/artist/7HwebOTQA4h0tCSTQCNKTK) | [Next 2 Me](https://open.spotify.com/album/5Yqz4CQBC2Fu3TFaLAAFsR) | 2:51 | 2023-07-28 | 2023-09-23 |
+| [Night City](https://open.spotify.com/track/5b0MsPxtUnwkSTXVaBQDQ6) | [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t) | [Night City](https://open.spotify.com/album/1f4V4c80D3hYnq72cnyJrJ) | 2:57 | 2023-10-30 |  |
 | [Night Falls](https://open.spotify.com/track/3ZNhFhshMLjGQraO4pvpDR) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Vo Williams](https://open.spotify.com/artist/18KIg6ST1nUjVUvAlEB6ak) | [Night Falls](https://open.spotify.com/album/6IATtq9O7Y7NzciAsFyIko) | 3:45 | 2022-01-20 | 2022-02-10 |
 | [NIGHT SLAYER](https://open.spotify.com/track/2HWV8yOl3XfukPQzKAytBF) | [HORRIFYING](https://open.spotify.com/artist/2WZCJEuzU768HLp06FgDzu) | [NIGHT SLAYER](https://open.spotify.com/album/7Ae8QjsuLloQNVsGCxFUPW) | 2:38 | 2023-09-01 | 2023-09-23 |
 | [Nightfall](https://open.spotify.com/track/0O9pNfHfljiS8xURNZLy6H) | [D4RRYL](https://open.spotify.com/artist/7x3qvRA3StSkQIQlZidQma) | [Nightfall](https://open.spotify.com/album/41qoRqe1XSeXBKrGnF4ptj) | 3:05 | 2022-08-19 | 2022-10-08 |

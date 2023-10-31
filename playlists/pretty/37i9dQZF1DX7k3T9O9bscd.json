@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 391588,
+  "num_followers": 391704,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjhjYjRjYTZmZDQxOTIxMTllZjM5MDVjODgwYzBkN2QzNWQ2MWY2",
+  "snapshot_id": "MCxlYTVmMzgxMWQyNGY0YzgyNDM0ODNiYTBiMDNlOGNhOGY4NTRlYjI2",
   "tracks": [
     {
       "added_at": "2023-08-02 16:20:29",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Butterfly 3000",
         "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 315133,
       "name": "Interior People",
       "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Desert Island",
+        "url": "https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB"
+      },
+      "artists": [
+        {
+          "name": "Mystic Braves",
+          "url": "https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "Bright Blue Day Haze",
+      "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Desert Island",
-        "url": "https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB"
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
       "artists": [
         {
-          "name": "Mystic Braves",
-          "url": "https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 252160,
-      "name": "Bright Blue Day Haze",
-      "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
+      "duration_ms": 211226,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
-        "url": "https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s"
+        "name": "Forest of Lost Children",
+        "url": "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
         }
       ],
-      "duration_ms": 615939,
-      "name": "Ice V",
-      "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
+      "duration_ms": 436171,
+      "name": "Smoke and Mirrors",
+      "url": "https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -415,38 +415,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Forest of Lost Children",
-        "url": "https://open.spotify.com/album/2dwNxD6zrwPkRJlr08WOKA"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 436171,
-      "name": "Smoke and Mirrors",
-      "url": "https://open.spotify.com/track/5skAQdEOEjdRVBcNtMtExs"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "Man It Feels Like Space Again",
-        "url": "https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 501840,
-      "name": "Man It Feels Like Space Again",
-      "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -463,8 +431,8 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "L.W.",
-        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+        "name": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
+        "url": "https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s"
       },
       "artists": [
         {
@@ -472,9 +440,25 @@
           "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 220216,
-      "name": "O.N.E.",
-      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
+      "duration_ms": 615939,
+      "name": "Ice V",
+      "url": "https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Man It Feels Like Space Again",
+        "url": "https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 501840,
+      "name": "Man It Feels Like Space Again",
+      "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -543,22 +527,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "A Song For Paul",
-        "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
-      },
-      "artists": [
-        {
-          "name": "Ghost Funk Orchestra",
-          "url": "https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Seven Eight",
-      "url": "https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 214533,
       "name": "Who dreams of cats?",
       "url": "https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "A Song For Paul",
+        "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
+      },
+      "artists": [
+        {
+          "name": "Ghost Funk Orchestra",
+          "url": "https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Seven Eight",
+      "url": "https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -591,22 +575,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
       },
@@ -623,8 +591,8 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+        "name": "L.W.",
+        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
       },
       "artists": [
         {
@@ -632,9 +600,25 @@
           "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 273854,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
+      "duration_ms": 220216,
+      "name": "O.N.E.",
+      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Golden Dawn",
+      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -671,22 +655,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 261556,
-      "name": "Imaginary Girl",
-      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Ananda Shankar (US Internet Release)",
         "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
       },
@@ -699,6 +667,22 @@
       "duration_ms": 215866,
       "name": "Jumpin' Jack Flash",
       "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 261556,
+      "name": "Imaginary Girl",
+      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -751,6 +735,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 273854,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "Fase Luna",
         "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 278826,
       "name": "Panic In Babylon",
       "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "Planet Caravan",
-        "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 551138,
-      "name": "Planet Caravan",
-      "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -843,6 +827,22 @@
       "duration_ms": 400853,
       "name": "Bulls",
       "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Planet Caravan",
+        "url": "https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 551138,
+      "name": "Planet Caravan",
+      "url": "https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Death Hawks",
         "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Aquarium Drunkard's Lagniappe Session",
-        "url": "https://open.spotify.com/album/4IM6Ut2jf9cHvgnLSgJWzV"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        }
-      ],
-      "duration_ms": 310144,
-      "name": "Lady Rachel",
-      "url": "https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "A New Day Dawning",
         "url": "https://open.spotify.com/album/3efSeqmN9bPRMnGWbyYySh"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 540684,
       "name": "Rasayana",
       "url": "https://open.spotify.com/track/2WTKsltOhi7DtLPPvfSC8J"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Aquarium Drunkard's Lagniappe Session",
+        "url": "https://open.spotify.com/album/4IM6Ut2jf9cHvgnLSgJWzV"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 310144,
+      "name": "Lady Rachel",
+      "url": "https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Fudge Sandwich",
-        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Hit It and Quit It",
-      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
         "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "The Real Work",
-        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+        "name": "Fudge Sandwich",
+        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
       },
       "artists": [
         {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
         }
       ],
-      "duration_ms": 266737,
-      "name": "Risky Behaviour",
-      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
+      "duration_ms": 240320,
+      "name": "Hit It and Quit It",
+      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1579,6 +1563,22 @@
       "duration_ms": 208994,
       "name": "Sword In the Stone",
       "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "The Real Work",
+        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "Risky Behaviour",
+      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
     },
     {
       "added_at": "2023-08-02 16:20:29",

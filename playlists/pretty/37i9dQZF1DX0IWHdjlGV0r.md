@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Certi amori bruciano di più\. Cover: Tedua
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,090 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,216 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 74 | [Rose Nere](https://open.spotify.com/track/1PhB6n0TlYLSHn29v2vDXC) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Bravo Ragazzo \(Royal Edition\)](https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW) | 4:32 |
 | 75 | [Habibi](https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Album](https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B) | 3:04 |
 
-Snapshot ID: `MCw1NWMzMjdkMzM5N2Y0M2I2ZGI3ZjQ5MzljY2I0ZTI4YmI0M2ZjOTcz`
+Snapshot ID: `MCwzYjM0NzdhNjM1MThjMmE1NTE1ZmNkNzY1MTYyYTlhZmM1M2E3NmFj`

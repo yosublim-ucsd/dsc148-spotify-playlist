@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Hey Smith",
-  "num_followers": 41303,
+  "num_followers": 41315,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDMyNjI4ODMzNGY1MmIwMmJkMmRmZWVlYWU3N2JmZTY5ZTdjODEx",
+  "snapshot_id": "MCwxMDVjMGI1MDkyZTQzNzI5YTljYjI4ZmU2NzcyMTgwMmY0Yjg3ZTI2",
   "tracks": [
     {
       "added_at": "2023-10-24 15:14:08",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "The Autumn Song",
-      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
         "name": "Niche Syndrome",
         "url": "https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK"
       },
@@ -727,38 +711,6 @@
       "duration_ms": 207000,
       "name": "swim",
       "url": "https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
-        "name": "ANTITHESE",
-        "url": "https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo"
     },
     {
       "added_at": "2023-10-24 15:14:08",
@@ -795,8 +747,8 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
-        "name": "ELLEGARDEN BEST 1999-2008",
-        "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
       },
       "artists": [
         {
@@ -804,9 +756,25 @@
           "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 252453,
-      "name": "\u98a8\u306e\u65e5",
-      "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
+      "duration_ms": 181773,
+      "name": "The Autumn Song",
+      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2023-10-24 15:14:08",
@@ -827,6 +795,22 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
+        "name": "ANTITHESE",
+        "url": "https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
         "name": "\u604b\u306e\u30e1\u30ac\u30e9\u30d0 / G'old\u301cen\u301cGuy (D\u00d7D remix) [feat. Misaki]",
         "url": "https://open.spotify.com/album/3zf6cTsrsFWo0YyBdc7IsU"
       },
@@ -839,22 +823,6 @@
       "duration_ms": 324599,
       "name": "\u604b\u306e\u30e1\u30ac\u30e9\u30d0",
       "url": "https://open.spotify.com/track/7cML1VOtaxsPH1EkktvVq6"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
-        "name": "DYSTOPIA",
-        "url": "https://open.spotify.com/album/1Nqm7ntku7DKw37MVkqMGP"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
-        }
-      ],
-      "duration_ms": 253898,
-      "name": "DYSTOPIA",
-      "url": "https://open.spotify.com/track/4Qg1BZPTvFLegnFPdURGBf"
     },
     {
       "added_at": "2023-10-24 15:14:08",
@@ -875,18 +843,18 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
-        "name": "ELEVEN FIRE CRACKERS",
-        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
+        "name": "DYSTOPIA",
+        "url": "https://open.spotify.com/album/1Nqm7ntku7DKw37MVkqMGP"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
         }
       ],
-      "duration_ms": 226920,
-      "name": "Salamander",
-      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
+      "duration_ms": 253898,
+      "name": "DYSTOPIA",
+      "url": "https://open.spotify.com/track/4Qg1BZPTvFLegnFPdURGBf"
     },
     {
       "added_at": "2023-10-24 15:14:08",
@@ -907,6 +875,22 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
+        "name": "SEEDS OF HOPE",
+        "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "KiLLiNG ME",
+      "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
         "name": "CRAZY BEAUTIFUL NIGHT",
         "url": "https://open.spotify.com/album/67xKEMSjfmnUn628A2FvYQ"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
+        "name": "ELLEGARDEN BEST 1999-2008",
+        "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "\u98a8\u306e\u65e5",
+      "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
         "name": "89.7 Growl FM",
         "url": "https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 162546,
       "name": "Let It Go As If You Wander",
       "url": "https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
-        "name": "SEEDS OF HOPE",
-        "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "KiLLiNG ME",
-      "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
     },
     {
       "added_at": "2023-10-24 15:14:08",
@@ -1019,22 +1003,6 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
-        "name": "yoake",
-        "url": "https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "yoake",
-      "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -1047,6 +1015,38 @@
       "duration_ms": 244258,
       "name": "Light and Darkness",
       "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
+        "name": "ELEVEN FIRE CRACKERS",
+        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 226920,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
+        "name": "yoake",
+        "url": "https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 289600,
+      "name": "yoake",
+      "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
     },
     {
       "added_at": "2023-10-24 15:14:08",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
-        "name": "\u30b3\u30ea\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "SLAM",
-      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/0m1gOpBNelReGcRVwEn31d"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "SLAM",
+      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
         "name": "I'M A RAT",
         "url": "https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 124719,
       "name": "I'M A RAT",
       "url": "https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
+        "name": "My One Wish",
+        "url": "https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "duration_ms": 172092,
+      "name": "My One Wish",
+      "url": "https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i"
     },
     {
       "added_at": "2023-10-24 15:14:08",
@@ -1295,22 +1311,6 @@
       "duration_ms": 120985,
       "name": "PLAYDEAD",
       "url": "https://open.spotify.com/track/1c4hhwfHiqpjYXDO9tLXOf"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
-        "name": "My One Wish",
-        "url": "https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk"
-      },
-      "artists": [
-        {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "My One Wish",
-      "url": "https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i"
     },
     {
       "added_at": "2023-10-24 15:14:08",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
-        "name": "PARADISE (Kill The Silence)",
-        "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 223118,
-      "name": "PARADISE (Kill The Silence)",
-      "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
         "name": "Mountain Top",
         "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 246518,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
+        "name": "PARADISE (Kill The Silence)",
+        "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "duration_ms": 223118,
+      "name": "PARADISE (Kill The Silence)",
+      "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
     },
     {
       "added_at": "2023-10-24 15:14:08",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ"
+      },
+      "artists": [
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        }
+      ],
+      "duration_ms": 160642,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
         "name": "GROUNDSWELL ep.",
         "url": "https://open.spotify.com/album/0N44vXI4msINfTkRBt38qH"
       },
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
-        "name": "BLOOMING",
-        "url": "https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN"
-      },
-      "artists": [
-        {
-          "name": "The Winking Owl",
-          "url": "https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/360qOFQEAvNatJD65tMehi"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
         "name": "HEDONIST",
         "url": "https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 175959,
       "name": "hedonist.",
       "url": "https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
+        "name": "BLOOMING",
+        "url": "https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN"
+      },
+      "artists": [
+        {
+          "name": "The Winking Owl",
+          "url": "https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/360qOFQEAvNatJD65tMehi"
     },
     {
       "added_at": "2023-10-24 15:14:08",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
-        "name": "Falling Down",
-        "url": "https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ"
-      },
-      "artists": [
-        {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
-        }
-      ],
-      "duration_ms": 160642,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
         "name": "RARA",
         "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-10-24 15:14:08",
       "album": {
-        "name": "Hateful Failures",
-        "url": "https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP"
-      },
-      "artists": [
-        {
-          "name": "Survive Said The Prophet",
-          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "Drive Far",
-      "url": "https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X"
-    },
-    {
-      "added_at": "2023-10-24 15:14:08",
-      "album": {
         "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 (2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.)",
         "url": "https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 229642,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 - 2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.",
       "url": "https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq"
+    },
+    {
+      "added_at": "2023-10-24 15:14:08",
+      "album": {
+        "name": "Hateful Failures",
+        "url": "https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "Drive Far",
+      "url": "https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X"
     },
     {
       "added_at": "2023-10-24 15:14:08",

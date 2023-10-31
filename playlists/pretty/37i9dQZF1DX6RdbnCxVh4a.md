@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 
 > Mode lecture aléatoire obligatoire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,303 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,311 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 16 | [Tropic Morning News](https://open.spotify.com/track/6oYXnC1pi6S8GJF32jvdmx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 5:09 |
 | 17 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
 | 18 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
-| 19 | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 |
-| 20 | [In This Dark Time](https://open.spotify.com/track/2tVJpUamLfNdUI7SiyPIFF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:27 |
+| 19 | [In This Dark Time](https://open.spotify.com/track/2tVJpUamLfNdUI7SiyPIFF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:27 |
+| 20 | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 |
 | 21 | [Despair, Hangover & Ecstasy](https://open.spotify.com/track/0LuShx5q0CPiZZjSWHK7tN) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake Shook Shaken](https://open.spotify.com/album/0q44mFwXE2oJiDGf7YXAcn) | 2:53 |
 | 22 | [Le perv](https://open.spotify.com/track/1coJ1H1FiEZG93naXkOsNF) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN) | 4:16 |
 | 23 | [BLIZZARD](https://open.spotify.com/track/1r9o3HnWB2mm7WyC6wQWNA) | [Fauve](https://open.spotify.com/artist/3Qei3mnDY6LrmJK6sYJdxo) | [BLIZZARD](https://open.spotify.com/album/28J2XfrzYlC2QIp63KA2d3) | 4:52 |
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 30 | [Alpha Zulu](https://open.spotify.com/track/3cczdpndCyT8IpH5cm1IbJ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 2:52 |
 | 31 | [Cool Colorado](https://open.spotify.com/track/6lbkdQ51nx1XPMGoiG3BZ6) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:52 |
 | 32 | [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 |
-| 33 | [Dream](https://open.spotify.com/track/1gg7VrHQD09dTZd8MzCsRA) | [Husbands](https://open.spotify.com/artist/006Mv4bnAJGVnasH1pbDEO) | [DREAM / OVERSEAS](https://open.spotify.com/album/5TSqxB0rEAWFXXApmFtwXf) | 3:37 |
-| 34 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 |
-| 35 | [Broken](https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:45 |
-| 36 | [The Hardest Cut](https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
+| 33 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 |
+| 34 | [Dream](https://open.spotify.com/track/1gg7VrHQD09dTZd8MzCsRA) | [Husbands](https://open.spotify.com/artist/006Mv4bnAJGVnasH1pbDEO) | [DREAM / OVERSEAS](https://open.spotify.com/album/5TSqxB0rEAWFXXApmFtwXf) | 3:37 |
+| 35 | [The Hardest Cut](https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
+| 36 | [Broken](https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:45 |
 | 37 | [Hero](https://open.spotify.com/track/5uS4Gy2ECwIzqfDVBEWlBs) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Hero](https://open.spotify.com/album/7F2S7LvZiS9TO9pQa4PYp7) | 2:55 |
 | 38 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 |
 | 39 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 41 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 |
 | 42 | [Kleenex](https://open.spotify.com/track/2UToegl7AOOC0qflCqGcBH) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 3:03 |
 | 43 | [Soleil Mort](https://open.spotify.com/track/7ziSNSAMNDvWBHuSqbGy08) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Pyrale](https://open.spotify.com/album/3fiBUejWxczE7f8ITf4ad1) | 3:15 |
-| 44 | [All I Need](https://open.spotify.com/track/66stDprhtsjuhwS5oxg7ft) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Saturday Night, Sunday Morning](https://open.spotify.com/album/7KrrgdgGjU4TqTCEdBilA0) | 3:36 |
-| 45 | [Power \(feat\. Carpenter Brut\)](https://open.spotify.com/track/1chn0UfLmTjpW6GHVeluqp) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4), [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Power \(feat.Carpenter Brut\)](https://open.spotify.com/album/4tH4QwEtWoiCYZBYV3O2qE) | 4:10 |
+| 44 | [Power \(feat\. Carpenter Brut\)](https://open.spotify.com/track/1chn0UfLmTjpW6GHVeluqp) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4), [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Power \(feat.Carpenter Brut\)](https://open.spotify.com/album/4tH4QwEtWoiCYZBYV3O2qE) | 4:10 |
+| 45 | [All I Need](https://open.spotify.com/track/66stDprhtsjuhwS5oxg7ft) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Saturday Night, Sunday Morning](https://open.spotify.com/album/7KrrgdgGjU4TqTCEdBilA0) | 3:36 |
 | 46 | [Let's Get To Work](https://open.spotify.com/track/456sTgUGjvqvmYr7GqMFnG) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Let's Get To Work](https://open.spotify.com/album/7cnBwqsBiHUPFQZtCJE0uN) | 3:00 |
 | 47 | [Hallucinate](https://open.spotify.com/track/1YzVJzx4WkFNqFtx1vLpwI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Toward a Never Ending New Beginning](https://open.spotify.com/album/4N7crJO2i5qyJ3s3fmtbCS) | 2:59 |
 | 48 | [N.E.M.](https://open.spotify.com/track/1evi0s1rOH5ZFJkrCWbStm) | [Las Aves](https://open.spotify.com/artist/0bbL6moYLUu792U2ZdWgXU) | [Die In Shanghai](https://open.spotify.com/album/3X0fVmPjhrn1tjsz8ALmdC) | 3:20 |
 | 49 | [Normal](https://open.spotify.com/track/6vEBjNnWYadgKeihTMs2Nb) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Normal](https://open.spotify.com/album/4DAcNelO7672wOl6OdA23u) | 2:59 |
 | 50 | [Drag](https://open.spotify.com/track/5LsHB7a3E9wtoKac1FVMmi) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Le cœur qui cogne](https://open.spotify.com/album/4yQrejKybw0gsJ7W6k0Vmw) | 2:41 |
 
-Snapshot ID: `MCwwOWFmODEwMWZiMDRlMjM4YWZlMGY1YTVkMDNiZjczZTllMTdjZjNj`
+Snapshot ID: `MCwzODY1NDNiOTliMGRlZDMzYmVlYzRjOTg0NTdmNGVkMWZiYTBhMzNk`

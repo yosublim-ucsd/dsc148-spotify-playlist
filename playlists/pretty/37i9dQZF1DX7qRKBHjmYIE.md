@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ con Feid getting us in our feels this week 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,929 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,935 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 14 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 |
 | 15 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
 | 16 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
-| 17 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 |
-| 18 | [911](https://open.spotify.com/track/3DYu9FBLrwAxmqiZjhzV4M) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:17 |
+| 17 | [911](https://open.spotify.com/track/3DYu9FBLrwAxmqiZjhzV4M) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:17 |
+| 18 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 |
 | 19 | [Muy lejos \(feat\. Ivana, Hard GZ\)](https://open.spotify.com/track/3T8nI2IJ3rbvDBunS7Br5h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB) | [Papel de Burbujas](https://open.spotify.com/album/24Xhdsa3kUc1BRa2iA9rO5) | 3:11 |
 | 20 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
 | 21 | [Te Hice Mal \(Remix\)](https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI) | [Lui5](https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Hice Mal \(Remix\)](https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk) | 4:29 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 39 | [Selfish](https://open.spotify.com/track/71NBNju9KEg6G8qTi1Y0kA) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí](https://open.spotify.com/album/0XteKwNr7uXZXz92CIE1Xe) | 2:25 |
 | 40 | [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 |
 
-Snapshot ID: `MCw5YzNmMTkwNjU1ZTU5MGRlNWU2Y2VkYmE5ZjZlNTQzN2Q3NmRkZDdh`
+Snapshot ID: `MCw1MjQyZGY5MzcwMjY1OWE0ODM2MjAzYWVlZGIzY2Y2YzAyMmI5NTg4`

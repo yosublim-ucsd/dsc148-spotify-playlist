@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from  Darell, Bad Bunny, KAROL G, and more.\ud83d\udd25\ud83e\udd75",
+  "description": "Reggaeton hits from Arcangel, Peso Pluma, Bad Bunny, KAROL G, and more.\ud83d\udd25\ud83e\udd75",
   "name": "Baila Reggaeton",
   "tracks": [
     {
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 168125,
       "name": "Ella Perrea",
       "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
@@ -3298,6 +3298,28 @@
       "duration_ms": 271466,
       "name": "La Busqu\u00e9 (with Yandel & Rauw Alejandro)",
       "url": "https://open.spotify.com/track/5nNcBfbJu1RjBoKplRPw5m"
+    },
+    {
+      "album": {
+        "name": "LA CHAMBA",
+        "url": "https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "LA CHAMBA",
+      "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
     },
     {
       "album": {

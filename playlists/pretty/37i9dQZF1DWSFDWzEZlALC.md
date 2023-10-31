@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: MilleniumKid, JBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,681 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,749 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Rosarot](https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rosarot](https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1) | 2:39 |
 | 75 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
 
-Snapshot ID: `MCwzYjhkMzE0MTQwNzEwZmE5NDI0ZGE2YzIzNWEwOTMwZTAzOTNhMjk2`
+Snapshot ID: `MCwyYThlMWE3MTllNWJiNDljNDFlYjg4NjIwNzQ3MTc0NmQ1NTdhZDMx`

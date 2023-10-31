@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Chayanne
 
-638 songs - 1 day 9 hr 38 min
+639 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Corazón Roto](https://open.spotify.com/track/7p6kZqTJHRSW7cjeoTtNuo) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 3:36 | 2023-04-28 | 2023-07-29 |
 | [Coronado](https://open.spotify.com/track/4owOmlWXJRPBNBTpGZyrMG) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 4:21 | 2023-07-07 |  |
 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 | 2023-01-27 | 2023-05-20 |
-| [COSTA RICA](https://open.spotify.com/track/0RdzTYVtews6ssYQK782Jf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 3:46 | 2023-09-08 |  |
+| [COSTA RICA](https://open.spotify.com/track/0RdzTYVtews6ssYQK782Jf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [VUELA ALTO](https://open.spotify.com/album/06ilsWUEGlgydbCaYbniC7) | 3:46 | 2023-09-08 | 2023-10-31 |
+| [COSTA RICA](https://open.spotify.com/track/1TxBzEUYqUXoCWgOn0mUUx) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:46 | 2023-10-27 |  |
 | [COSTA RICA](https://open.spotify.com/track/5tc3E3jKcw419qe3HH9gaB) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 3:46 | 2023-07-14 | 2023-09-13 |
 | [Cowboy in New York](https://open.spotify.com/track/3T62MRnZLnde7g15O06uAA) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:25 | 2023-07-28 |  |
 | [Crema](https://open.spotify.com/track/2ipROOnYcXFPMcSuGZnrRk) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Haciéndolo Fino](https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl) | 3:13 | 2023-08-18 |  |

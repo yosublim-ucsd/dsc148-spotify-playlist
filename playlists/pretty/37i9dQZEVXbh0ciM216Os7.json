@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMDYzMjAsMDAwMDAwMDA4NGRlNzM4ZGJkMmEwOGY2ZTJmNDk2ZTU2YmEwMDMzYQ==",
+  "snapshot_id": "MjgzMDYzMjAsMDAwMDAwMDA4MDkzMmYzMDkzNDJkMzg4MTJlZjExZjUzNGY3OWY0ZA==",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -23,6 +23,66 @@
       "duration_ms": 186270,
       "name": "The American Dream Is Killing Me",
       "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Dreamteam",
+        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "Dreamteam",
+      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "LARP (Feat. Gorillaz)",
+        "url": "https://open.spotify.com/album/4dbx5Fdu1N2QocTr6eHzHs"
+      },
+      "artists": [
+        {
+          "name": "Uriel Bromberg",
+          "url": "https://open.spotify.com/artist/4nVMdaAC2qe0LLrTvBgaKb"
+        },
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 251865,
+      "name": "LARP (Feat. Gorillaz)",
+      "url": "https://open.spotify.com/track/4Z1PGaoHtN4eHS5zyWPrEP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Only the Young (Steve Perry & Bryce Miller Remix)",
+        "url": "https://open.spotify.com/album/1xG7RX2NZgW7jQWkJ7VfH0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        },
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        }
+      ],
+      "duration_ms": 215682,
+      "name": "Only the Young - Steve Perry & Bryce Miller Remix",
+      "url": "https://open.spotify.com/track/4qwEhHH34RHH1B16vXj93L"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -71,42 +131,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Dreamteam",
-        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
+        "name": "Starla",
+        "url": "https://open.spotify.com/album/2bIjr9wL104aZf6RlcbwT9"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "COCO PUFF",
+          "url": "https://open.spotify.com/artist/5UvQZRSHZjE4Vj5JR4MRxA"
         },
         {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "Dreamteam",
-      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "LARP (Feat. Gorillaz)",
-        "url": "https://open.spotify.com/album/4dbx5Fdu1N2QocTr6eHzHs"
-      },
-      "artists": [
-        {
-          "name": "Uriel Bromberg",
-          "url": "https://open.spotify.com/artist/4nVMdaAC2qe0LLrTvBgaKb"
+          "name": "U-God",
+          "url": "https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx"
         },
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
         }
       ],
-      "duration_ms": 251865,
-      "name": "LARP (Feat. Gorillaz)",
-      "url": "https://open.spotify.com/track/4Z1PGaoHtN4eHS5zyWPrEP"
+      "duration_ms": 196022,
+      "name": "Starla",
+      "url": "https://open.spotify.com/track/2nyf95vcNywPnHYxRBX1YV"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -155,46 +199,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Starla",
-        "url": "https://open.spotify.com/album/2bIjr9wL104aZf6RlcbwT9"
+        "name": "Firework in the Falling Snow (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lcJdQR9siiIlAiLPmgHk5"
       },
       "artists": [
         {
-          "name": "COCO PUFF",
-          "url": "https://open.spotify.com/artist/5UvQZRSHZjE4Vj5JR4MRxA"
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
         },
         {
-          "name": "U-God",
-          "url": "https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx"
-        },
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
         }
       ],
-      "duration_ms": 196022,
-      "name": "Starla",
-      "url": "https://open.spotify.com/track/2nyf95vcNywPnHYxRBX1YV"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Only the Young (Steve Perry & Bryce Miller Remix)",
-        "url": "https://open.spotify.com/album/1xG7RX2NZgW7jQWkJ7VfH0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        },
-        {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
-        }
-      ],
-      "duration_ms": 215682,
-      "name": "Only the Young - Steve Perry & Bryce Miller Remix",
-      "url": "https://open.spotify.com/track/4qwEhHH34RHH1B16vXj93L"
+      "duration_ms": 174160,
+      "name": "Firework in the Falling Snow - Acoustic Version",
+      "url": "https://open.spotify.com/track/3x1Oa8gNgiVvvAEXQb7kSl"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -219,26 +239,6 @@
       "duration_ms": 245106,
       "name": "Simpe Ruhepo",
       "url": "https://open.spotify.com/track/5zasT45VJQwjz5QKAjBYVo"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Firework in the Falling Snow (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4lcJdQR9siiIlAiLPmgHk5"
-      },
-      "artists": [
-        {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
-        },
-        {
-          "name": "Aimee Mann",
-          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "Firework in the Falling Snow - Acoustic Version",
-      "url": "https://open.spotify.com/track/3x1Oa8gNgiVvvAEXQb7kSl"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "\u010cohkka/Cort\u00e8ge (Live In Helsinki St. John's Church)",
-        "url": "https://open.spotify.com/album/7wZR2dWNOpsRpEZ2GPhWMJ"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 370293,
-      "name": "\u010cohkka/Cort\u00e8ge - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/0086lDreUts8H4OQRxlxEu"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "I Left My Heart In Ladera",
         "url": "https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Chet on Poetry",
-        "url": "https://open.spotify.com/album/6ixxTaomYhDBVdm6A4qmKo"
+        "name": "\u010cohkka/Cort\u00e8ge (Live In Helsinki St. John's Church)",
+        "url": "https://open.spotify.com/album/7wZR2dWNOpsRpEZ2GPhWMJ"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 204277,
-      "name": "Almost blue",
-      "url": "https://open.spotify.com/track/2TvvypFABr65clA6O68qfn"
+      "duration_ms": 370293,
+      "name": "\u010cohkka/Cort\u00e8ge - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/0086lDreUts8H4OQRxlxEu"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -515,6 +499,22 @@
       "duration_ms": 133792,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/6G1pMFiINOJgyGjmIgXXQ9"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Chet on Poetry",
+        "url": "https://open.spotify.com/album/6ixxTaomYhDBVdm6A4qmKo"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 204277,
+      "name": "Almost blue",
+      "url": "https://open.spotify.com/track/2TvvypFABr65clA6O68qfn"
     },
     {
       "added_at": "2023-10-27 04:00:00",

@@ -4,7 +4,7 @@
 
 > Big bands, big sounds.
 
-76 songs - 4 hr 44 min
+77 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [I Could Write a Book](https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:27 | 2020-03-06 |  |
 | [I Didn´t Tell Them Why](https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq) | [Andrea Motis](https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Didn´t Tell Them Why](https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7) | 4:57 | 2021-10-08 |  |
 | [I Got Rhythm](https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA) | [Jimmy Dorsey & His Orchestra](https://open.spotify.com/artist/3z5VqEvu6RJ4Abtah3lTsg) | [Contrasts](https://open.spotify.com/album/6Td0cXeGPSZ6urzMTKbPEf) | 3:05 | 2020-03-06 |  |
-| [I've Got The World On A String](https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:11 | 2020-03-06 |  |
+| [I've Got The World On A String](https://open.spotify.com/track/13apJo5WpOSe3qmfIYOCp2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 2:08 | 2020-03-06 |  |
+| [I've Got The World On A String](https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:11 | 2020-03-06 | 2023-10-31 |
 | [I've Got The World On A String](https://open.spotify.com/track/1XrqYPszJzH7nEk4I2D6da) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [I've Got The World On A String](https://open.spotify.com/album/6Rjz2NpZC4VA1uZ7mMTzC5) | 2:09 | 2020-03-06 | 2022-07-29 |
 | [I've Got the World on a String](https://open.spotify.com/track/5BrQJbdMehCy2LgquMUORw) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [I've Got the World on a String](https://open.spotify.com/album/31EY2wSxi66hdhORK3NLog) | 6:51 | 2021-06-04 | 2022-07-29 |
 | [In the Mood](https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Ultimate Big Band Collection: Glenn Miller](https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR) | 3:36 | 2020-03-06 |  |

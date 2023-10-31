@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 45626,
+  "num_followers": 45646,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDQyMzEwMTgzODFkNDMwZmJiZTI3ZmYyNzJjMjk0YmU3ZTk3N2Vh",
+  "snapshot_id": "MCxhOGQyNmJlZjZiMWJiYzMyNjY4ODRhZWJmYjgxOTQyZTQ3MDFjMGEz",
   "tracks": [
     {
       "added_at": "2022-06-27 09:16:34",
@@ -271,30 +271,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 6",
-        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 1784293,
-      "name": "Symphony No. 6 in A Minor: IV. Finale. Allegro moderato - Live at Philharmonie, Berlin, 2004",
-      "url": "https://open.spotify.com/track/1gN6KMDACiBI08J31DSQmZ"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 8, \"Symphony of a Thousand\"",
         "url": "https://open.spotify.com/album/27tv3ht9zh1vEimrzmN3FF"
       },
@@ -363,6 +339,30 @@
       "duration_ms": 230666,
       "name": "Symphony No. 8 in E-Flat Major, \"Symphony of a Thousand\": Dir, der Unberuhrbaren - Du schwebst zu Hohen der ewigen Reiche -",
       "url": "https://open.spotify.com/track/6VU155VZpBpveXfAuSYeuj"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 6",
+        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 1784293,
+      "name": "Symphony No. 6 in A Minor: IV. Finale. Allegro moderato - Live at Philharmonie, Berlin, 2004",
+      "url": "https://open.spotify.com/track/1gN6KMDACiBI08J31DSQmZ"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -711,30 +711,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 9",
-        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        }
-      ],
-      "duration_ms": 757713,
-      "name": "Mahler: Symphony No. 9 in D Major: III. Rondo-Burleske. Allegro assai. Sehr trotzig",
-      "url": "https://open.spotify.com/track/6qxqaKrowLHeeeYMsWd83i"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Totenfeier, Lieder eines fahrenden Gesellen",
         "url": "https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 1352400,
       "name": "Totenfeier",
       "url": "https://open.spotify.com/track/20qzS0mm8lSIFdq4y3gSHi"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 9",
+        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "duration_ms": 757713,
+      "name": "Mahler: Symphony No. 9 in D Major: III. Rondo-Burleske. Allegro assai. Sehr trotzig",
+      "url": "https://open.spotify.com/track/6qxqaKrowLHeeeYMsWd83i"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -844,34 +844,6 @@
       "added_at": "2022-06-27 09:16:34",
       "album": {
         "name": "Mahler: Das Lied von der Erde",
-        "url": "https://open.spotify.com/album/7yu4NWQJVCcsOryunJ8MBp"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Jonathan Nott",
-          "url": "https://open.spotify.com/artist/0GOAxav4uCDWG9g2lTgteS"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        }
-      ],
-      "duration_ms": 486120,
-      "name": "Das Lied von der Erde: I. Das Trinklied vom Jammer der Erde",
-      "url": "https://open.spotify.com/track/0nxbzSRf2JH6wPzIeW6Jg1"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/1k4ahNyUuhTwoIwUU9lmSt"
       },
       "artists": [
@@ -899,6 +871,34 @@
       "duration_ms": 570586,
       "name": "Das Lied von der Erde (Song of the Earth): II. Der Einsame im Herbst (The Lonely One in Autumn)",
       "url": "https://open.spotify.com/track/0M8f4M5NRFuLkOm6RnPrtG"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/7yu4NWQJVCcsOryunJ8MBp"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Jonathan Nott",
+          "url": "https://open.spotify.com/artist/0GOAxav4uCDWG9g2lTgteS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "duration_ms": 486120,
+      "name": "Das Lied von der Erde: I. Das Trinklied vom Jammer der Erde",
+      "url": "https://open.spotify.com/track/0nxbzSRf2JH6wPzIeW6Jg1"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler Symphony No. 5",
-        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Gyeonggi Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
-        },
-        {
-          "name": "Shi-Yeon Sung",
-          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
-        }
-      ],
-      "duration_ms": 940372,
-      "name": "Symphony No. 5 In C Sharp Minor: 5. Rondo-Finale (Allegro)",
-      "url": "https://open.spotify.com/track/6CkYMdE7d2b2WAuKIzaXLk"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 7",
         "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 579986,
       "name": "Symphony No. 7 in E Minor: III. Scherzo: Schattenhaft",
       "url": "https://open.spotify.com/track/6donFiaElbTnuklM7XkPdp"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler Symphony No. 5",
+        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gyeonggi Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
+        },
+        {
+          "name": "Shi-Yeon Sung",
+          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
+        }
+      ],
+      "duration_ms": 940372,
+      "name": "Symphony No. 5 In C Sharp Minor: 5. Rondo-Finale (Allegro)",
+      "url": "https://open.spotify.com/track/6CkYMdE7d2b2WAuKIzaXLk"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 10",
-        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 1297293,
-      "name": "Symphony No.10 in F-sharp Major: V. Finale. Langsam - Allegro moderato - Andante comodo, aber nicht schleppend",
-      "url": "https://open.spotify.com/track/3HJ9Aq3y9nNaSkljrw4QTV"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Liszt & Mahler: Das Himmlische Leben",
         "url": "https://open.spotify.com/album/4MImFleZOeukwxIEolqXrQ"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 225720,
       "name": "Lieder eines fahrenden Gesellen: Gieng heut' Morgen \u00fcber's Feld",
       "url": "https://open.spotify.com/track/14IEaSAVPyMd1l2CNSw4At"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 10",
+        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 1297293,
+      "name": "Symphony No.10 in F-sharp Major: V. Finale. Langsam - Allegro moderato - Andante comodo, aber nicht schleppend",
+      "url": "https://open.spotify.com/track/3HJ9Aq3y9nNaSkljrw4QTV"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler, G.: Symphony No. 7",
-        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 835280,
-      "name": "Symphony No. 7 in E Minor: IV. Nachtmusik II: Andante amoroso",
-      "url": "https://open.spotify.com/track/2DkYKQPhxXOidcyUbL0IAM"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
         "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 2164733,
       "name": "Symphony No. 2 in C Minor \"Resurrection\": V. Im Tempo des Scherzos. Wild herausfahrend",
       "url": "https://open.spotify.com/track/2ogyvIh53LR2KdkDhRYGJx"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 835280,
+      "name": "Symphony No. 7 in E Minor: IV. Nachtmusik II: Andante amoroso",
+      "url": "https://open.spotify.com/track/2DkYKQPhxXOidcyUbL0IAM"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
-        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 2009653,
-      "name": "Mahler: Symphony No. 3 in D Minor: I. Kr\u00e4ftig. Entschieden",
-      "url": "https://open.spotify.com/track/5xw32PKkA42ObOxNntOMPF"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\"",
         "url": "https://open.spotify.com/album/3VHp7AHPIHyGpvMxTzJKGF"
       },
@@ -1399,8 +1375,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 4 in G Major",
-        "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
+        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
+        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
       },
       "artists": [
         {
@@ -1408,17 +1384,17 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
         },
         {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
         }
       ],
-      "duration_ms": 994466,
-      "name": "Symphony No. 4 in G Major: I. Bed\u00e4chtig, nicht eilen",
-      "url": "https://open.spotify.com/track/6pDRSOe1X4qreChmYZXd3q"
+      "duration_ms": 2009653,
+      "name": "Mahler: Symphony No. 3 in D Minor: I. Kr\u00e4ftig. Entschieden",
+      "url": "https://open.spotify.com/track/5xw32PKkA42ObOxNntOMPF"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1443,6 +1419,30 @@
       "duration_ms": 1009173,
       "name": "Mahler: Symphony No. 3 in D Minor: III. Comodo, Scherzando. Ohne Hast",
       "url": "https://open.spotify.com/track/2orh65w2YtrAgTZHVtBEf9"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 4 in G Major",
+        "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 994466,
+      "name": "Symphony No. 4 in G Major: I. Bed\u00e4chtig, nicht eilen",
+      "url": "https://open.spotify.com/track/6pDRSOe1X4qreChmYZXd3q"
     },
     {
       "added_at": "2022-06-27 09:16:34",

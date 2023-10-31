@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Yung Snapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,030 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,357 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Mocro Mafia \(feat\. Maes\)](https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:14 |
 | 50 | [GRAMMELOT](https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 1:36 |
 
-Snapshot ID: `MCxiNWY3Y2JiZmFlYTFiNzcyZTU5OWFjOWZhZDNmOWU4ZTdjNmFmNTBm`
+Snapshot ID: `MCxiYjhjMGNkNDIzMDVlZDg0OWFhNTk0MzA4ODI0YmNjYmVkZTU2YzA2`

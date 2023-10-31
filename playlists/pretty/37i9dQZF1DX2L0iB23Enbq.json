@@ -1,12 +1,12 @@
 {
   "description": "Viral, trending and taking off.",
-  "num_followers": 3228646,
+  "num_followers": 3230439,
   "original_name": "Viral Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmU2OGQzNDIxMjZkMzM2MjYwNDk2NGQwZmYzZWVhNjMyNDM1NTA3",
+  "snapshot_id": "MCw2YTE3MjFkYmY5ZWQzZTRmYjM1ZjliMmY5ZmRhZjE2MDMyZmNmNThl",
   "tracks": [
     {
       "added_at": "2023-10-27 16:47:53",
@@ -431,26 +431,6 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
-    },
-    {
-      "added_at": "2023-10-27 16:47:53",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 260111,
-      "name": "IDGAF (feat. Yeat)",
-      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
       "added_at": "2023-10-27 16:47:53",

@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 702118,
+  "num_followers": 702206,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzZmN2FkYTA0YzdlNDhmYTY3NzY5N2M1MjY3YWMyZWMxNDk2Nzcx",
+  "snapshot_id": "MCxjNGZlNzViZTg4YTFhYzgxOGUwYzYxMDlhYWY0NzgyYTcxZWMyM2Ri",
   "tracks": [
     {
       "added_at": "2023-04-04 17:18:55",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
+        "name": "Black Leaves",
+        "url": "https://open.spotify.com/album/1TNajOxU7C8rl6ciy5r1Im"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 104280,
+      "name": "Black Leaves",
+      "url": "https://open.spotify.com/track/7wTXoVGiDC9jS0oxdfwLKv"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
         "name": "Queen Alone",
         "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 227906,
       "name": "It's Our Love",
       "url": "https://open.spotify.com/track/4A6zEXlSk7xIIqDh92iZ26"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
-        "name": "Black Leaves",
-        "url": "https://open.spotify.com/album/1TNajOxU7C8rl6ciy5r1Im"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 104280,
-      "name": "Black Leaves",
-      "url": "https://open.spotify.com/track/7wTXoVGiDC9jS0oxdfwLKv"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
-      },
-      "artists": [
-        {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "There Is Something on Your Mind",
-      "url": "https://open.spotify.com/track/2zBY88nji53AVJ2kczRvBO"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "Dreamin' Wild",
         "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 250533,
       "name": "Baby",
       "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
+      },
+      "artists": [
+        {
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "There Is Something on Your Mind",
+      "url": "https://open.spotify.com/track/2zBY88nji53AVJ2kczRvBO"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "Don't Let Me Down (Demo)",
         "url": "https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 195535,
       "name": "Don't Let Me Down - Demo",
       "url": "https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Addicted To You",
-        "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
       "artists": [
         {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Two Trees",
-      "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
+      "duration_ms": 223240,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
     }
   ],
   "unique_name": "Stay in Bed",

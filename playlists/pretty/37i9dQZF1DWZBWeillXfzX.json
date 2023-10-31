@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 20798,
+  "num_followers": 20814,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzRiMDhjMTYyZGMwYzUyMGJmYTJmMGY3MjFlY2JiZWNmOTkwMmM4",
+  "snapshot_id": "MCxjYWJjYjg1M2Q1ZjRhN2U4NDI4YTllYWYwYjE4NGJkNzM1MDJjNDAz",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -191,22 +191,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Songlines",
-        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
-      },
-      "artists": [
-        {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
-        }
-      ],
-      "duration_ms": 233773,
-      "name": "Crow Jane",
-      "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Earth Music for Aliens",
         "url": "https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3"
       },
@@ -259,6 +243,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Songlines",
+        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 233773,
+      "name": "Crow Jane",
+      "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Spirit Rising",
         "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
       },
@@ -307,22 +307,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 325638,
-      "name": "Love Ain't My Favorite Word",
-      "url": "https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "This Land",
         "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 157413,
       "name": "Got to Get Up",
       "url": "https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 325638,
+      "name": "Love Ain't My Favorite Word",
+      "url": "https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/2HYvSsxyLiCMUMtM7ux8rd"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 387706,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
-    },
-    {
       "added_at": "2021-04-27 23:04:41",
       "album": {
         "name": "Raisin' Cain",
@@ -399,6 +383,22 @@
       "duration_ms": 200973,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 387706,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 221430,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "The Bookends",
         "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 259906,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 221430,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -655,38 +655,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Anytime You Need Me",
-        "url": "https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL"
-      },
-      "artists": [
-        {
-          "name": "Ben Poole",
-          "url": "https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3"
-        }
-      ],
-      "duration_ms": 352853,
-      "name": "Found out the Hard Way",
-      "url": "https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Reckless Blues",
-        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 315178,
-      "name": "Here Comes the Flood",
-      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Middle of the Road",
         "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
       },
@@ -699,6 +667,22 @@
       "duration_ms": 277160,
       "name": "Change In Me (The Rebirth)",
       "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Anytime You Need Me",
+        "url": "https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL"
+      },
+      "artists": [
+        {
+          "name": "Ben Poole",
+          "url": "https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3"
+        }
+      ],
+      "duration_ms": 352853,
+      "name": "Found out the Hard Way",
+      "url": "https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -719,6 +703,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Reckless Blues",
+        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 315178,
+      "name": "Here Comes the Flood",
+      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Over Your Head",
         "url": "https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 388893,
       "name": "Pusher",
       "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -751,18 +767,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Headway",
-        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+        "name": "Defenestrator",
+        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
       },
       "artists": [
         {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
         }
       ],
-      "duration_ms": 178037,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
+      "duration_ms": 428577,
+      "name": "Chief's Blues",
+      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -843,26 +859,6 @@
       "duration_ms": 262536,
       "name": "Shufflin' West Coast",
       "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Bottleneck Stomp",
-        "url": "https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC"
-      },
-      "artists": [
-        {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "Johnny Stachela",
-          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
-        }
-      ],
-      "duration_ms": 201859,
-      "name": "Bottleneck Stomp",
-      "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
     }
   ],
   "unique_name": "Modern Blues Guitar",

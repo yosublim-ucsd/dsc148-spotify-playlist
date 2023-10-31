@@ -4,7 +4,7 @@
 
 > Get in the zone with these current jams!
 
-579 songs - 1 day 5 hr 47 min
+580 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,7 +414,7 @@
 | [pov](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:21 | 2021-12-17 | 2022-04-21 |
 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 | 2022-09-09 | 2022-09-17 |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-08 | 2022-09-06 |
-| [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-04-28 |  |
+| [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-04-28 | 2023-10-31 |
 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/5JqZ3oqF00jkT81foAFvqg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/album/3hUh17FzYZwwZyNjU9B3vL) | 2:49 | 2021-12-17 | 2022-06-14 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-25 | 2022-09-17 |
 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2022-09-23 | 2023-01-07 |
@@ -557,6 +557,7 @@
 | [Weatherman](https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq) | 2:25 | 2022-02-18 | 2022-10-28 |
 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2021-12-24 | 2022-10-15 |
 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 | 2023-06-23 |  |
+| [WHAT JUST HAPPENED](https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHAT JUST HAPPENED](https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj) | 2:42 | 2023-10-27 |  |
 | [What's Been On Your Mind?](https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [What's Been On Your Mind?](https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs) | 2:52 | 2022-06-10 | 2022-07-09 |
 | [when you love someone](https://open.spotify.com/track/0Ffap6LkteIW5lFgFSCA7s) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [when you love someone](https://open.spotify.com/album/5ahDHlJGR7QCpjdeArIg98) | 2:53 | 2022-05-27 | 2022-06-01 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Y U QT",
-  "num_followers": 199473,
+  "num_followers": 199497,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWNmMTczNDVjOTZjNWFjZDUyMTcyMDQ4YjIxNTNmYjgzMDg3ZTE4",
+  "snapshot_id": "MCxlMGU0MTY5ZGIwN2FhZDNmMTU1NGY4NzM0MDFmMDVmNTMxMjFhMWIy",
   "tracks": [
     {
       "added_at": "2023-10-28 15:51:49",
@@ -335,82 +335,6 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
-        "name": "Get Mad",
-        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "Get Mad",
-      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
-        "name": "132.00FM",
-        "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "Cecelia",
-          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
-        "name": "Jurgen Kropper (feat. Local)",
-        "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        },
-        {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Jurgen Kropper (feat. Local)",
-      "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
-        "name": "Came Here For",
-        "url": "https://open.spotify.com/album/2hJch4KUiT6m6vLURAeDCG"
-      },
-      "artists": [
-        {
-          "name": "Cajama",
-          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
-        },
-        {
-          "name": "x.o.anne",
-          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Came Here For",
-      "url": "https://open.spotify.com/track/2V3S1RkfQlvCZQIjO62LKa"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
         "name": "Pressure Drop",
         "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
       },
@@ -435,6 +359,62 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
+        "name": "132.00FM",
+        "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Cecelia",
+          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
+        "name": "Get Mad",
+        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "Get Mad",
+      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
+        "name": "Came Here For",
+        "url": "https://open.spotify.com/album/2hJch4KUiT6m6vLURAeDCG"
+      },
+      "artists": [
+        {
+          "name": "Cajama",
+          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
+        },
+        {
+          "name": "x.o.anne",
+          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Came Here For",
+      "url": "https://open.spotify.com/track/2V3S1RkfQlvCZQIjO62LKa"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
         "name": "It's Your Time",
         "url": "https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 186659,
       "name": "It's Your Time",
       "url": "https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
+        "name": "Jurgen Kropper (feat. Local)",
+        "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Jurgen Kropper (feat. Local)",
+      "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -607,42 +607,6 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
-        "name": "Icon",
-        "url": "https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En"
-      },
-      "artists": [
-        {
-          "name": "Digital Koala",
-          "url": "https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU"
-        },
-        {
-          "name": "SK",
-          "url": "https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Icon",
-      "url": "https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
-      },
-      "artists": [
-        {
-          "name": "Samstone",
-          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
-        }
-      ],
-      "duration_ms": 223725,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
         "name": "Behind the Scenes / Reeces Pieces",
         "url": "https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY"
       },
@@ -663,6 +627,42 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
+      },
+      "artists": [
+        {
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
+        }
+      ],
+      "duration_ms": 223725,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En"
+      },
+      "artists": [
+        {
+          "name": "Digital Koala",
+          "url": "https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU"
+        },
+        {
+          "name": "SK",
+          "url": "https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
         "name": "<3<3<3",
         "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
       },
@@ -675,34 +675,6 @@
       "duration_ms": 185357,
       "name": "<3<3<3",
       "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
-        "name": "nice and close",
-        "url": "https://open.spotify.com/album/0mfvIVWcbPPlusJhjIvaq1"
-      },
-      "artists": [
-        {
-          "name": "TQD",
-          "url": "https://open.spotify.com/artist/4VUDd8QHsZm8qSVUsAhCFG"
-        },
-        {
-          "name": "Royal-T",
-          "url": "https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW"
-        },
-        {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
-        },
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "nice and close",
-      "url": "https://open.spotify.com/track/1gXbEybfs68aNJsd9gX3Uc"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -747,22 +719,30 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
-        "name": "Leng Club, Vol. 1",
-        "url": "https://open.spotify.com/album/1KHoOpJC09N123fcp0W1Ej"
+        "name": "nice and close",
+        "url": "https://open.spotify.com/album/0mfvIVWcbPPlusJhjIvaq1"
       },
       "artists": [
         {
-          "name": "My Nu Leng",
-          "url": "https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ"
+          "name": "TQD",
+          "url": "https://open.spotify.com/artist/4VUDd8QHsZm8qSVUsAhCFG"
         },
         {
-          "name": "Club Glow",
-          "url": "https://open.spotify.com/artist/5Cp4WbwocjJxNdVnDnJCaJ"
+          "name": "Royal-T",
+          "url": "https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW"
+        },
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Who Are You",
-      "url": "https://open.spotify.com/track/2kMOrYZoQRqqzmlnifAqrQ"
+      "duration_ms": 196500,
+      "name": "nice and close",
+      "url": "https://open.spotify.com/track/1gXbEybfs68aNJsd9gX3Uc"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -787,22 +767,22 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
-        "name": "Lots and Lots VIP",
-        "url": "https://open.spotify.com/album/6IVBW7FPrwPCJtYf1ODJsK"
+        "name": "Leng Club, Vol. 1",
+        "url": "https://open.spotify.com/album/1KHoOpJC09N123fcp0W1Ej"
       },
       "artists": [
         {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+          "name": "My Nu Leng",
+          "url": "https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ"
         },
         {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+          "name": "Club Glow",
+          "url": "https://open.spotify.com/artist/5Cp4WbwocjJxNdVnDnJCaJ"
         }
       ],
-      "duration_ms": 271500,
-      "name": "Lots and Lots VIP",
-      "url": "https://open.spotify.com/track/5tTAU7IeaUf9ZQv67yqyYT"
+      "duration_ms": 277000,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/2kMOrYZoQRqqzmlnifAqrQ"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -823,6 +803,42 @@
       "duration_ms": 216715,
       "name": "Party Right",
       "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
+        "name": "Lots and Lots VIP",
+        "url": "https://open.spotify.com/album/6IVBW7FPrwPCJtYf1ODJsK"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        }
+      ],
+      "duration_ms": 271500,
+      "name": "Lots and Lots VIP",
+      "url": "https://open.spotify.com/track/5tTAU7IeaUf9ZQv67yqyYT"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -863,22 +879,6 @@
       "duration_ms": 198372,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
+        "name": "Slappy Slap",
+        "url": "https://open.spotify.com/album/7hU5Bsz8CEnekGSiDsd6ZJ"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "duration_ms": 267200,
+      "name": "Slappy Slap",
+      "url": "https://open.spotify.com/track/60oyrB49x7WsTklriQ7kec"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
         "name": "Faith In Chaos",
         "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 268000,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
-        "name": "Slappy Slap",
-        "url": "https://open.spotify.com/album/7hU5Bsz8CEnekGSiDsd6ZJ"
-      },
-      "artists": [
-        {
-          "name": "Moody Good",
-          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Slappy Slap",
-      "url": "https://open.spotify.com/track/60oyrB49x7WsTklriQ7kec"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
+        "name": "Barrington / Bodies",
+        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "Barrington",
+      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
         "name": "Hard Hitters",
         "url": "https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 232602,
       "name": "Hard Hitters",
       "url": "https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
-        "name": "Barrington / Bodies",
-        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "Barrington",
-      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
-      },
-      "artists": [
-        {
-          "name": "KDYN",
-          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
         "name": "Wanna Freak",
         "url": "https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 188307,
       "name": "Wanna Freak",
       "url": "https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
+      },
+      "artists": [
+        {
+          "name": "KDYN",
+          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1KD01E2RBcy8JDDFa0YUlU"
-      },
-      "artists": [
-        {
-          "name": "Daffy",
-          "url": "https://open.spotify.com/artist/19lhg4NCjnOC2gVeHsTed6"
-        }
-      ],
-      "duration_ms": 262201,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/0ToozEOeZ9UR0y1rbSj9Kv"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 191818,
       "name": "Take Me as I Am - Holy Goof Remix",
       "url": "https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1KD01E2RBcy8JDDFa0YUlU"
+      },
+      "artists": [
+        {
+          "name": "Daffy",
+          "url": "https://open.spotify.com/artist/19lhg4NCjnOC2gVeHsTed6"
+        }
+      ],
+      "duration_ms": 262201,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0ToozEOeZ9UR0y1rbSj9Kv"
     }
   ],
   "unique_name": "Bassline Bangers",

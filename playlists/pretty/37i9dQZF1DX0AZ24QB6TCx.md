@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,526 likes - 70 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,551 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 19 | [Carry On \- EarthLife Remix](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Carry On \(EarthLife Remix\)](https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4) | 3:38 |
 | 20 | [Killing Time](https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Boy Wolf](https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM) | [Killing Time](https://open.spotify.com/album/6xNjdHhhNVSjGWciTy1BxH) | 5:32 |
 | 21 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 |
-| 22 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
-| 23 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
-| 24 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
+| 22 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
+| 23 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
+| 24 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 25 | [Envy](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Envy](https://open.spotify.com/album/60K91BZTnabLByBJejwqVS) | 4:02 |
 | 26 | [King Curtis \- Edit](https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [King Curtis](https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J) | 3:46 |
 | 27 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 42 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
 | 43 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
 | 44 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
-| 45 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 |
-| 46 | [Neunivai \- Original Mix](https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS) | 7:18 |
+| 45 | [Neunivai \- Original Mix](https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS) | 7:18 |
+| 46 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 |
 | 47 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 |
 | 48 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
 | 49 | [In The Morning \- Edit](https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [In The Morning](https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3) | 3:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Just Breathe](https://open.spotify.com/track/4bg2cMVdrlI4y4ZXjnReSm) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET) | [Just Breathe](https://open.spotify.com/album/5jLJSvxYN0MF0T7ObeMtjs) | 3:56 |
 | 70 | [Sunset](https://open.spotify.com/track/4fkmywQO1lT7X6V3yOngaw) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 6:22 |
 
-Snapshot ID: `MCw3MWE4MzdkM2NkZWVkMDFkNWUwMDE3YmJhMTJjMjRmYzI1ZTViZGU5`
+Snapshot ID: `MCwwNTE1MjUzZTY4YTc0NDkwMzY3OTJkZWRkMmRjYTBiODFhMTNiYjQ1`

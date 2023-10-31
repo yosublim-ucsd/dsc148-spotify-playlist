@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,166 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,314 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 37 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
 | 38 | [Watch Over You](https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG) | 4:19 |
 | 39 | [Hurricane](https://open.spotify.com/track/7FLVnDMOZXKRFgRM3C4aUG) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 6:12 |
-| 40 | [All I Need](https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 4:50 |
-| 41 | [Run Away to Mars](https://open.spotify.com/track/5ssnt7GzfLILpZkNQ0oU3U) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:33 |
+| 40 | [Run Away to Mars](https://open.spotify.com/track/5ssnt7GzfLILpZkNQ0oU3U) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:33 |
+| 41 | [All I Need](https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 4:50 |
 | 42 | [Hearts / Wires](https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 5:20 |
 | 43 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
 | 44 | [Daylight](https://open.spotify.com/track/6LleMnUceskUsmszoOlODl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Daylight](https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m) | 4:00 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 71 | [Stars \- The Shack Film Version](https://open.spotify.com/track/2KPjz1SM7AWC9GxXHmRucG) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Stars \(The Shack Film Version\)](https://open.spotify.com/album/65VDJ8KgsyQ4NnBc6d1K2d) | 3:44 |
 | 72 | [The Unknown](https://open.spotify.com/track/7Eg9qnJK7hI7LLoRsbvH2X) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 2:59 |
 | 73 | [Fare Thee Well](https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Perdida](https://open.spotify.com/album/27evZfDFySSv4dcje8afMI) | 4:21 |
-| 74 | [How Did You Love \- Piano Version](https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [How Did You Love](https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP) | 3:05 |
-| 75 | [Emotionless](https://open.spotify.com/track/7jNf4cQOXGYqpsvm1iGsqP) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw) | 4:22 |
+| 74 | [Emotionless](https://open.spotify.com/track/7jNf4cQOXGYqpsvm1iGsqP) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw) | 4:22 |
+| 75 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
 
-Snapshot ID: `MCxlYzU4YjdjZjkyOGY0YTBlMmU4OGIxMmNjMWRkNzQyMWViZjc4MWRh`
+Snapshot ID: `MCxhOTBlMGNkNmY0ZTljMTQ3ZjQ2MTEwYTY3YzE2MzBlOWNmMzJjZDAw`

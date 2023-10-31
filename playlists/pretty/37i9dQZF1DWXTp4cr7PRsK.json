@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 5021,
+  "num_followers": 5042,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjA0ZGU5NzNkYzk3MWFkNjk4NjA2MmU2MGUyY2E3YmEwNWE4NTAz",
+  "snapshot_id": "MCxkNzUxZjliY2NhYTk1MGM5ZTYxYzMwYjZkOWFiMzNkYzA3NTI1MDIz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -327,26 +327,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Trapped On Cleveland 3",
-        "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
-      },
-      "artists": [
-        {
-          "name": "Lil Keed",
-          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Wavy (Remix) [feat. Travis Scott]",
-      "url": "https://open.spotify.com/track/7kRVWQ1G4o8w3ubfNW2ZHB"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "B4 The Storm",
         "url": "https://open.spotify.com/album/7bPIbMw7lgncHBoFfzjQRj"
       },
@@ -371,46 +351,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
-        "url": "https://open.spotify.com/album/3dPUHr57sBFTHiVtpeO7rv"
+        "name": "Trapped On Cleveland 3",
+        "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
       },
       "artists": [
         {
-          "name": "CHASE B",
-          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
         },
         {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 179533,
-      "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
-      "url": "https://open.spotify.com/track/7J2DtwsxdoyrhgNV3Vzmos"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Pluto x Baby Pluto (Deluxe)",
-        "url": "https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 186842,
-      "name": "Over Your Head",
-      "url": "https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ"
+      "duration_ms": 240640,
+      "name": "Wavy (Remix) [feat. Travis Scott]",
+      "url": "https://open.spotify.com/track/7kRVWQ1G4o8w3ubfNW2ZHB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -459,6 +415,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Pluto x Baby Pluto (Deluxe)",
+        "url": "https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 186842,
+      "name": "Over Your Head",
+      "url": "https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Dance Like No One's Watching",
         "url": "https://open.spotify.com/album/1FfR1LHCNsM7DScxws7L0N"
       },
@@ -491,6 +467,30 @@
       "duration_ms": 185036,
       "name": "Slidin",
       "url": "https://open.spotify.com/track/1ztkjvyidhhYNg1QSG3KjA"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
+        "url": "https://open.spotify.com/album/3dPUHr57sBFTHiVtpeO7rv"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
+      "url": "https://open.spotify.com/track/7J2DtwsxdoyrhgNV3Vzmos"
     },
     {
       "added_at": "2022-10-01 16:00:00",

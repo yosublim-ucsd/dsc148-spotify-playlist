@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 157500,
       "name": "Always There",
       "url": "https://open.spotify.com/track/7lRBKccjb79wjRJy6ilFks"
@@ -4080,7 +4080,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 142555,
       "name": "chrome",
       "url": "https://open.spotify.com/track/409mSIlqx7ZKfWhPzFzRhL"
@@ -5016,7 +5016,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 135621,
       "name": "Creme De La Creme",
       "url": "https://open.spotify.com/track/5q3ixgSPx7VC5pC2O1CnQe"
@@ -5232,7 +5232,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-31",
       "duration_ms": 135529,
       "name": "Dear Friends",
       "url": "https://open.spotify.com/track/1ZaTA2e51aBZoAL8CuaePU"
@@ -6023,6 +6023,24 @@
     },
     {
       "album": {
+        "name": "Edgy Stripes",
+        "url": "https://open.spotify.com/album/18EGmKo4d938htKFBJOZyB"
+      },
+      "artists": [
+        {
+          "name": "sunnee",
+          "url": "https://open.spotify.com/artist/6lT0N3TbFSVDDPMAVXk32X"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "Edgy Stripes",
+      "url": "https://open.spotify.com/track/1HfvXRyfR8DPm9KK0PCOue"
+    },
+    {
+      "album": {
         "name": "Egg Rollz",
         "url": "https://open.spotify.com/album/0g2qx277TrWnpNgQcXjvBp"
       },
@@ -6472,6 +6490,24 @@
       "duration_ms": 144213,
       "name": "Everything Is Calm",
       "url": "https://open.spotify.com/track/06Ij7RjzQTAOyKIkenfAoA"
+    },
+    {
+      "album": {
+        "name": "Everything you need",
+        "url": "https://open.spotify.com/album/1WCLmsAFHVG2UaKQlYMu8N"
+      },
+      "artists": [
+        {
+          "name": "Cmd q",
+          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Everything you need",
+      "url": "https://open.spotify.com/track/77DrQhfJtki3fUcMd7oQgB"
     },
     {
       "album": {
@@ -7224,6 +7260,28 @@
       "duration_ms": 128225,
       "name": "Flower Kingdom",
       "url": "https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz"
+    },
+    {
+      "album": {
+        "name": "Fluffity",
+        "url": "https://open.spotify.com/album/7syd7u5StZKwBgcaFw7JUB"
+      },
+      "artists": [
+        {
+          "name": "Choftus Leek",
+          "url": "https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl"
+        },
+        {
+          "name": "Ge\u00f3rgia Neve",
+          "url": "https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Fluffity",
+      "url": "https://open.spotify.com/track/22iHU9AESPMxf6aaI2OKd3"
     },
     {
       "album": {
@@ -14922,6 +14980,24 @@
       "duration_ms": 140757,
       "name": "Peaches And Cream",
       "url": "https://open.spotify.com/track/14oGzCDd0Vc8zAmy4XZo9s"
+    },
+    {
+      "album": {
+        "name": "longing for",
+        "url": "https://open.spotify.com/album/7aqITKpq0WfAmXYwNCwj9u"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "peanut dream shake",
+      "url": "https://open.spotify.com/track/32R8uRLa9uf1ffKWhVrdFR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 30275,
+  "num_followers": 30278,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGY4ZmFmOGE0NDNmZTM3ZTgwMzhmOTA3MDNhMTExNWEyYzNjZmQz",
+  "snapshot_id": "MCw1MmMxZjdkMGI5ODdiNzFiOGUyNjAzMDMyMDg3NDkzMTg3NDAxZTdi",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -191,22 +191,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Vanice",
-        "url": "https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        },
-        {
-          "name": "Dear Silas",
-          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 109714,
-      "name": "Violin",
-      "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
+      "duration_ms": 157390,
+      "name": "Currents",
+      "url": "https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -227,6 +223,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Vanice",
+        "url": "https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        },
+        {
+          "name": "Dear Silas",
+          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "Violin",
+      "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "eyes",
         "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 142639,
       "name": "eyes",
       "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 157390,
-      "name": "Currents",
-      "url": "https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Club Soda, Vol. 2",
+        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "BaDinga (Reloaded)",
         "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 168000,
       "name": "BaDinga - Reloaded",
       "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Club Soda, Vol. 2",
-        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Lei do Baile",
+        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 212015,
+      "name": "Lei do Baile",
+      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Vibe (If I Back It Up)",
         "url": "https://open.spotify.com/album/1YAwpQCn7QlomW7PFBOA6B"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 144065,
       "name": "Vibe (If I Back It Up)",
       "url": "https://open.spotify.com/track/5bS6VIBCYdi9QL9T1upn3G"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Lei do Baile",
-        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        }
-      ],
-      "duration_ms": 212015,
-      "name": "Lei do Baile",
-      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "(Respectfully)",
+        "url": "https://open.spotify.com/album/0DvxMb8aQvBZJWfQ5ndkmG"
+      },
+      "artists": [
+        {
+          "name": "DJ Swisha",
+          "url": "https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H"
+        },
+        {
+          "name": "Kush Jones",
+          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "(Respectfully)",
+      "url": "https://open.spotify.com/track/7tdGheXhPIHEvolLpfBHzq"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Give It 2 Em (Remix)",
         "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 120333,
       "name": "Give It 2 Em - Remix",
       "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "(Respectfully)",
-        "url": "https://open.spotify.com/album/0DvxMb8aQvBZJWfQ5ndkmG"
-      },
-      "artists": [
-        {
-          "name": "DJ Swisha",
-          "url": "https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H"
-        },
-        {
-          "name": "Kush Jones",
-          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "(Respectfully)",
-      "url": "https://open.spotify.com/track/7tdGheXhPIHEvolLpfBHzq"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Nah Follow Dem",
+        "url": "https://open.spotify.com/album/1XXV1sE3cJ2eshrGhwu2zg"
+      },
+      "artists": [
+        {
+          "name": "Dom 877",
+          "url": "https://open.spotify.com/artist/0roH52rW4h4PIhdsRK277v"
+        },
+        {
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "Nah Follow Dem",
+      "url": "https://open.spotify.com/track/4ye2rIlt5fw0S7Creva7VX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 162919,
       "name": "Roll Call (feat. TT The Artist & Mighty Mark)",
       "url": "https://open.spotify.com/track/0CqO3pjpupPRniIQIqfDDC"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 143399,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1219,42 +1219,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "We from Baltimore",
-        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
       },
       "artists": [
         {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
-          "name": "Charles",
-          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
         }
       ],
-      "duration_ms": 131391,
-      "name": "Bitch We from Baltimore",
-      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Nah Follow Dem",
-        "url": "https://open.spotify.com/album/1XXV1sE3cJ2eshrGhwu2zg"
-      },
-      "artists": [
-        {
-          "name": "Dom 877",
-          "url": "https://open.spotify.com/artist/0roH52rW4h4PIhdsRK277v"
-        },
-        {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "Nah Follow Dem",
-      "url": "https://open.spotify.com/track/4ye2rIlt5fw0S7Creva7VX"
+      "duration_ms": 143399,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1275,6 +1255,26 @@
       "duration_ms": 176640,
       "name": "I Miss The Club",
       "url": "https://open.spotify.com/track/1kGXL1YKRNgmTM1niMUsyO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "We from Baltimore",
+        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
+        }
+      ],
+      "duration_ms": 131391,
+      "name": "Bitch We from Baltimore",
+      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Get Freaky",
+        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
+      },
+      "artists": [
+        {
+          "name": "TateKo",
+          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
+        },
+        {
+          "name": "Da Yo Boyz",
+          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
+        }
+      ],
+      "duration_ms": 178872,
+      "name": "Get Freaky",
+      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Impossible (Roska Remix)",
         "url": "https://open.spotify.com/album/11yIOT6Gaqn2T4c1Lusgi4"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 239000,
       "name": "Impossible - Roska Remix",
       "url": "https://open.spotify.com/track/5y8vPSQJqelX46gjX0KYmi"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Get Freaky",
-        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
-      },
-      "artists": [
-        {
-          "name": "TateKo",
-          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
-        },
-        {
-          "name": "Da Yo Boyz",
-          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
-        }
-      ],
-      "duration_ms": 178872,
-      "name": "Get Freaky",
-      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Bedroom DJ Remixes",
-        "url": "https://open.spotify.com/album/4dlycoHbcrvJS5nLvUf2fS"
-      },
-      "artists": [
-        {
-          "name": "Tomu DJ",
-          "url": "https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh"
-        },
-        {
-          "name": "So Drove",
-          "url": "https://open.spotify.com/artist/1wnkxdBk9u11unJmShBLFe"
-        }
-      ],
-      "duration_ms": 168827,
-      "name": "Bedroom DJ - So Drove's Reefer Mix",
-      "url": "https://open.spotify.com/track/6RqVgeyPhiV42dtTYSGzQT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "De Todo Se Aprende (Remix)",
         "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 361500,
       "name": "De Todo Se Aprende - Yamil Remix",
       "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Bedroom DJ Remixes",
+        "url": "https://open.spotify.com/album/4dlycoHbcrvJS5nLvUf2fS"
+      },
+      "artists": [
+        {
+          "name": "Tomu DJ",
+          "url": "https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh"
+        },
+        {
+          "name": "So Drove",
+          "url": "https://open.spotify.com/artist/1wnkxdBk9u11unJmShBLFe"
+        }
+      ],
+      "duration_ms": 168827,
+      "name": "Bedroom DJ - So Drove's Reefer Mix",
+      "url": "https://open.spotify.com/track/6RqVgeyPhiV42dtTYSGzQT"
     },
     {
       "added_at": "2023-10-06 04:00:00",

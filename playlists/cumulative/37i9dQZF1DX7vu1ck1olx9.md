@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-236 songs - 9 hr 33 min
+237 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [fluffy](https://open.spotify.com/track/0DQlBPWiOqVc4vevZPSbsT) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [fluffy](https://open.spotify.com/album/1QfEMseJ9uQmuA8ZFSgR50) | 2:05 | 2023-10-27 |  |
 | [Forever Dream](https://open.spotify.com/track/4QGm25bHKjIKYNgzTgoqRw) | [shapes](https://open.spotify.com/artist/4BTgiaeE6KnrTaHsfEOPDC) | [Forever Dream](https://open.spotify.com/album/3QCs3UZfTnPiDSvINQ90U7) | 2:31 | 2023-10-27 |  |
 | [Fractals](https://open.spotify.com/track/4ijwRNrJHhEPt1CNIzNG5E) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET) | [Jazz Cat](https://open.spotify.com/album/4VWW7BeHlH0jlMPQFtNSsu) | 2:59 | 2020-11-12 | 2023-10-29 |
-| [Fresh Breeze](https://open.spotify.com/track/3o1DqWwSOUp4GRvsYiB22N) | [Ky akasha](https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk) | [Fresh Breeze](https://open.spotify.com/album/4Uha6OYZNqoZJ9gvMHoXzW) | 2:14 | 2021-10-29 |  |
+| [Fresh Breeze](https://open.spotify.com/track/3o1DqWwSOUp4GRvsYiB22N) | [Ky akasha](https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk) | [Fresh Breeze](https://open.spotify.com/album/4Uha6OYZNqoZJ9gvMHoXzW) | 2:14 | 2021-10-29 | 2023-10-31 |
 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 | 2020-11-12 | 2023-10-29 |
 | [Goiaba](https://open.spotify.com/track/4KCGYOHGExcKUlFkNajeVO) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7HKTZkhWHbRZmWgCifVwfv) | 2:19 | 2022-09-16 | 2022-11-21 |
 | [Goiaba](https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7AeffHlBxwhazA5z5WikxD) | 2:19 | 2022-09-16 |  |
@@ -238,6 +238,7 @@
 | [Utah](https://open.spotify.com/track/15ak5UN9CgFQzYCVEeigY9) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Utah](https://open.spotify.com/album/0ULUBycp5jD1x6PyAMqEG2) | 2:06 | 2020-11-12 | 2023-10-29 |
 | [Vietnamese Coffee](https://open.spotify.com/track/4l5u4V4zMqJD18qO4CLnkR) | [HLY WUD](https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S) | [Vietnamese Coffee](https://open.spotify.com/album/3j6TYh3hRpxgHP0l9kKwL6) | 2:26 | 2023-10-27 |  |
 | [walk in the park](https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [walk in the park](https://open.spotify.com/album/2j5OCXoMRAomxm7idD0LzJ) | 3:00 | 2021-02-05 |  |
+| [Warm Weather](https://open.spotify.com/track/5WyejtsDpXpq2CGz2hzMju) | [ATONED](https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM) | [Warm Weather](https://open.spotify.com/album/47PV2WKeOwohlF0OzZ9lrt) | 2:29 | 2023-10-27 |  |
 | [weak](https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [weak](https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA) | 1:11 | 2020-11-12 |  |
 | [Will\-O\-Wisp](https://open.spotify.com/track/5lxlQXt8CadUQR4ARnSLep) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Will\-O\-Wisp](https://open.spotify.com/album/55AtXtIgnt45wGa2122dbA) | 2:34 | 2023-10-27 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/1BvSkVrXtnjTuyTR4Qa8be) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 2:01 | 2020-11-12 | 2023-09-16 |

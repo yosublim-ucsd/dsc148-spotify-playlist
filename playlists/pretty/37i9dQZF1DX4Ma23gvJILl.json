@@ -1,12 +1,12 @@
 {
   "description": "Los temas que nunca paras de escuchar. En portada: Andy Rivera",
-  "num_followers": 147097,
+  "num_followers": 147157,
   "original_name": "\u00c9xitos del Ayer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWU4OGVhMzIwMDdlOGQ4NGE4YzQ5MWRhY2E3MGY0MjU0NmMyZjcw",
+  "snapshot_id": "MCwwN2ZmMGExZTdhZDYwNGY0YjM2MzhhOWQ0YWQ5NWUxOTM1YmZjNGYx",
   "tracks": [
     {
       "added_at": "2023-01-02 17:06:22",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-01-02 17:06:22",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "QUE PRETENDES",
-      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
-    },
-    {
-      "added_at": "2023-01-02 17:06:22",
-      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 231532,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
+    },
+    {
+      "added_at": "2023-01-02 17:06:22",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "QUE PRETENDES",
+      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
     },
     {
       "added_at": "2023-01-02 17:06:22",

@@ -1,29 +1,13 @@
 {
   "description": "Canciones para sacarle brillo a la pista de baile.",
-  "num_followers": 95128,
+  "num_followers": 95155,
   "original_name": "Sal\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjkxMmRkNzYyMzFlYWUwNDk3NTY0ZWQ4NWU2Y2E1MzBlMjY3YjA1",
+  "snapshot_id": "MCxjYjQ5NDRjODEyZGJlOWI5MzA1MzQ0MzJmZmY3ZmYyZmZkMmQxYTkw",
   "tracks": [
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 235133,
       "name": "Propuesta Indecente",
       "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Eres M\u00eda",
-      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
@@ -175,18 +159,34 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 263346,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
+      "duration_ms": 250640,
+      "name": "Eres M\u00eda",
+      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -211,18 +211,34 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
+      "duration_ms": 292920,
+      "name": "Te Va A Doler",
+      "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 263346,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -243,22 +259,6 @@
       "duration_ms": 200346,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 292920,
-      "name": "Te Va A Doler",
-      "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 289840,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/2jQeX1fMZo5z82w3BviN5x"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 293106,
       "name": "Tu Eres Ajena",
       "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 289840,
-      "name": "La Boda",
-      "url": "https://open.spotify.com/track/2jQeX1fMZo5z82w3BviN5x"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Versatilidad & Vivencias (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0cYaWyKgFJQRM8LV6RdNeB"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 217586,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 316093,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. 3",
         "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 291133,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Coraz\u00f3n Duro",
-        "url": "https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 287960,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Los Due\u00f1os del Swing",
         "url": "https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 260600,
       "name": "La Due\u00f1a del Swing",
       "url": "https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Coraz\u00f3n Duro",
+        "url": "https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 287960,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/6yfkiTPQnP5t0iBxWPKZDw"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 221359,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "El Poder de New York",
         "url": "https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 279893,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/6yfkiTPQnP5t0iBxWPKZDw"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 221359,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iB0npbmkMygzGFcksUEeb"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
         "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 227200,
       "name": "Sabes A Chocolate",
       "url": "https://open.spotify.com/track/4KCIR5WfyhPPeTy8KQzMXf"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "No Lo Compren",
         "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 311386,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
+        "name": "Cant\u00e1ndole al Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 301441,
+      "name": "T\u00fa Con El",
+      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
         "name": "Due\u00f1o de tu amor",
         "url": "https://open.spotify.com/album/0kQb2pG5TJxQNecwJMzArN"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2023-08-14 15:51:23",
       "album": {
-        "name": "Descarga Espectacular",
-        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297386,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 267613,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
+    },
+    {
+      "added_at": "2023-08-14 15:51:23",
+      "album": {
+        "name": "Descarga Espectacular",
+        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297386,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
     },
     {
       "added_at": "2023-08-14 15:51:23",
@@ -1647,22 +1663,6 @@
       "duration_ms": 300906,
       "name": "Soy Maraquero",
       "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
-    },
-    {
-      "added_at": "2023-08-14 15:51:23",
-      "album": {
-        "name": "Un Monton De Estrellas",
-        "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ju-Juy",
-          "url": "https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m"
-        }
-      ],
-      "duration_ms": 283678,
-      "name": "La Triste Despedida",
-      "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
     }
   ],
   "unique_name": "Sal\u00f3n Tropical",

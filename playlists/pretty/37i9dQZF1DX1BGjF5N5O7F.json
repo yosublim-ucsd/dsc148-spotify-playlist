@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 562279,
+  "num_followers": 562349,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWIyYTk4NmQyZjk4NmFlYzQxMzQxYTBkOWUwNGM5YzQ2ZTI0MjA4",
+  "snapshot_id": "MCxmNjMzYWQ1NTYxZTNkZmU0YmNlNGEyYjdkZmFmOWZjODdmMTZkYjdj",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "searching for freedom",
         "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
@@ -299,22 +315,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Power Over Me EP",
         "url": "https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Pretend",
-        "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 209341,
-      "name": "Hard Time",
-      "url": "https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Black Pumas",
         "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 249920,
       "name": "Know You Better",
       "url": "https://open.spotify.com/track/03Yo5FRYVfTB2EuiyOmHLe"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 209341,
+      "name": "Hard Time",
+      "url": "https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "TRUE",
-        "url": "https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 186022,
-      "name": "TRUE",
-      "url": "https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Never Tear Us Apart",
         "url": "https://open.spotify.com/album/7jLRehwciXcJKo5IYeii8k"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Violence in a Quiet Mind",
-        "url": "https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D"
+        "name": "TRUE",
+        "url": "https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v"
       },
       "artists": [
         {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 163733,
-      "name": "Craving",
-      "url": "https://open.spotify.com/track/2MlzYSDQbg3K2FtfnDI4Nc"
+      "duration_ms": 186022,
+      "name": "TRUE",
+      "url": "https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -671,6 +655,22 @@
       "duration_ms": 201520,
       "name": "Tip of My Tongue (Live at Eddie's Attic)",
       "url": "https://open.spotify.com/track/3bGJ53wSgjTPCQIRalZSTd"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Violence in a Quiet Mind",
+        "url": "https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Craving",
+      "url": "https://open.spotify.com/track/2MlzYSDQbg3K2FtfnDI4Nc"
     },
     {
       "added_at": "2023-09-15 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Enrico Sangiuliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,344 likes - 90 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,447 likes - 90 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Lazer Beams](https://open.spotify.com/track/6UeKd8PjbEHf4E3pdD3fh1) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [Lazer Beams](https://open.spotify.com/album/2gN3totDrc88agXSCW6zQk) | 5:40 |
 | 90 | [Devotion](https://open.spotify.com/track/16auMK6Amhx6Uj62JzLpMA) | [Elisa Bee](https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX) | [Devotion EP](https://open.spotify.com/album/6JlxoikbK1kntRGQrTAMtP) | 5:14 |
 
-Snapshot ID: `MCw0MjFkZDFjNjA5MGZkMmZlNTEyYzg1MGJmYmViMjg5ZTgzNWQ0NTJk`
+Snapshot ID: `MCw0ZjY1YjIxNGJjZTc2MWZlOWIyN2UyYzRlYThjMjkwODdiMWRjOWJh`

@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 63759,
+  "num_followers": 63836,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGUyNWIzMjljMDQ4NWE3NDI5MDI3OTU0NWIzYTMyYjBjYjgyOGMw",
+  "snapshot_id": "MCwwNDA1M2U4ZjJjY2E0OWE5ODQ0M2E1MjQ3M2NjY2UwODVjZDQwNTQw",
   "tracks": [
     {
       "added_at": "2023-10-20 04:01:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Live 2012",
-        "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "Viva La Vida - Live",
-      "url": "https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Yours Truly (Tenth Anniversary Edition)",
         "url": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 295544,
       "name": "Honeymoon Avenue - Live from London",
       "url": "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Live 2012",
+        "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "Viva La Vida - Live",
+      "url": "https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "Rehab - Live On Jools Holland",
+      "url": "https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J"
       },
@@ -291,18 +307,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "You Need To Calm Down (Live From Paris)",
-        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 203960,
-      "name": "You Need To Calm Down - Live From Paris",
-      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
+      "duration_ms": 213068,
+      "name": "god is a woman - live",
+      "url": "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -319,38 +335,6 @@
       "duration_ms": 181093,
       "name": "You - Live",
       "url": "https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Rehab - Live On Jools Holland",
-      "url": "https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 213068,
-      "name": "god is a woman - live",
-      "url": "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -387,8 +371,8 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "ME! (Live From Paris)",
-        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
+        "name": "You Need To Calm Down (Live From Paris)",
+        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
       },
       "artists": [
         {
@@ -396,9 +380,9 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 213026,
-      "name": "ME! - Live From Paris",
-      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
+      "duration_ms": 203960,
+      "name": "You Need To Calm Down - Live From Paris",
+      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -435,22 +419,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Spotify Sessions London",
-        "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Take Me to Church - Live From Spotify London",
-      "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -467,18 +435,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+        "name": "Spotify Sessions London",
+        "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 215786,
-      "name": "You're Still The One - Live",
-      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
+      "duration_ms": 246493,
+      "name": "Take Me to Church - Live From Spotify London",
+      "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -499,18 +467,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
-        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 312138,
-      "name": "betty - Live from the 2020 Academy of Country Music Awards",
-      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
+      "duration_ms": 215786,
+      "name": "You're Still The One - Live",
+      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -543,6 +511,22 @@
       "duration_ms": 193026,
       "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
       "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "ME! (Live From Paris)",
+        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "ME! - Live From Paris",
+      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -687,6 +671,22 @@
       "duration_ms": 202833,
       "name": "Hurts So Good - Live From The Studio",
       "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
+        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 312138,
+      "name": "betty - Live from the 2020 Academy of Country Music Awards",
+      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Shakira In Concert: El Dorado World Tour",
+        "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 340880,
+      "name": "She Wolf - El Dorado World Tour Live",
+      "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Live At Wembley Arena",
         "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Shakira In Concert: El Dorado World Tour",
-        "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
+        "name": "Elton 60 - Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 340880,
-      "name": "She Wolf - El Dorado World Tour Live",
-      "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
+      "duration_ms": 249666,
+      "name": "Your Song - Live At Madison Square Garden",
+      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -947,22 +963,6 @@
       "duration_ms": 319401,
       "name": "Sing - Live and in Session",
       "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Elton 60 - Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Your Song - Live At Madison Square Garden",
-      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 304973,
-      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Spiceworld (25th Anniversary)",
         "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 204413,
       "name": "Stop - Live In Madrid, Spain / 1998",
       "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "New Rules (Live)",
+        "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 275101,
+      "name": "New Rules - Live",
+      "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Live 8 (Live, July 2005)",
         "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "New Rules (Live)",
-        "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 275101,
-      "name": "New Rules - Live",
-      "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Whitney Houston Live: Her Greatest Performances",
         "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
-        "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Waking Up In Vegas - Live At MTV Unplugged, 2009",
-      "url": "https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Live \u00e0 Paris",
         "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 285466,
       "name": "The Power Of Love - Live \u00e0 Paris",
       "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
+        "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Waking Up In Vegas - Live At MTV Unplugged, 2009",
+      "url": "https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo"
     },
     {
       "added_at": "2023-10-20 04:01:00",

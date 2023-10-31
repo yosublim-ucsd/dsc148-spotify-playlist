@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 55967,
+  "num_followers": 56003,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmMwYjJmMjRjMDRkNzk0NmNjMThkNjRhMzZkNzIyYWMxYzdlM2Q2",
+  "snapshot_id": "MCwxNDFlNjQ2NjUzOTU2ZWYzOTA3NzBlN2JhNDI4Mjc3MGRjMGY0Zjcy",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -207,6 +207,26 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 192956,
+      "name": "Wants and Needs (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 192956,
-      "name": "Wants and Needs (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -355,18 +355,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 150866,
-      "name": "Saint-Tropez",
-      "url": "https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq"
+      "duration_ms": 163902,
+      "name": "Flex (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -391,6 +395,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Saint-Tropez",
+      "url": "https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 178153,
       "name": "What\u2019s Next",
       "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Flex (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -611,6 +611,34 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "B4 The Storm",
+        "url": "https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Lemonade (feat. NAV)",
+      "url": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -655,34 +683,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "B4 The Storm",
-        "url": "https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Lemonade (feat. NAV)",
-      "url": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "My Turn",
         "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
       },
@@ -715,6 +731,30 @@
       "duration_ms": 181714,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        }
+      ],
+      "duration_ms": 153147,
+      "name": "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)",
+      "url": "https://open.spotify.com/track/6ilmDtTR9yGrZCIOnMLNQy"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -771,70 +811,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Chambea",
-        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Chambea",
-      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        }
-      ],
-      "duration_ms": 153147,
-      "name": "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)",
-      "url": "https://open.spotify.com/track/6ilmDtTR9yGrZCIOnMLNQy"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
-        "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Clever",
-          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Life's A Mess II (with Clever & Post Malone)",
-      "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/5pF05wJrbrIvqunE41vWP8"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 175028,
       "name": "No Puedo",
       "url": "https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
+        "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Clever",
+          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Life's A Mess II (with Clever & Post Malone)",
+      "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "The Bigger Picture",
+        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 252728,
+      "name": "The Bigger Picture",
+      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "High Off Life",
         "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
       },
@@ -1075,18 +1091,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "The Bigger Picture",
-        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 252728,
-      "name": "The Bigger Picture",
-      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
+      "duration_ms": 283285,
+      "name": "Excitement",
+      "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1139,26 +1159,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 283285,
-      "name": "Excitement",
-      "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "BURBERRY",
         "url": "https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx"
       },
@@ -1199,42 +1199,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "No Regrets (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/1lO9CZo6eDrOy0S7khgryG"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Real As It Gets (feat. EST Gee)",
         "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
       },
@@ -1251,6 +1215,22 @@
       "duration_ms": 192804,
       "name": "Real As It Gets (feat. EST Gee)",
       "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1299,6 +1279,26 @@
       "duration_ms": 165500,
       "name": "Tata",
       "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "No Regrets (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1lO9CZo6eDrOy0S7khgryG"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Errbody",
+        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 210698,
+      "name": "Errbody",
+      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Los Dioses",
         "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 278280,
       "name": "Los Dioses",
       "url": "https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Errbody",
-        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 210698,
-      "name": "Errbody",
-      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "TattleTales",
+        "url": "https://open.spotify.com/album/6f9LKRKpSTI5m2O0yBlWQS"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "TROLLZ",
+      "url": "https://open.spotify.com/track/3xIzkKqp7oe37NEVrcPjGS"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
         "url": "https://open.spotify.com/album/4NM6c7Q88osAJ4KoDQUvpo"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "TattleTales",
-        "url": "https://open.spotify.com/album/6f9LKRKpSTI5m2O0yBlWQS"
-      },
-      "artists": [
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "TROLLZ",
-      "url": "https://open.spotify.com/track/3xIzkKqp7oe37NEVrcPjGS"
     },
     {
       "added_at": "2023-09-01 14:43:51",

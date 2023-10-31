@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 724242,
+  "num_followers": 724296,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjA5YmI5ZTE2YjAxZGYzZGRmN2MwMjViYzQ5NGMxMzIyYjUyMzM1",
+  "snapshot_id": "MCwyNjIxN2NjODEwOWYyYzk4ZTdjYzFhZjFhMjhmMjUxYjk0MDM0N2I1",
   "tracks": [
     {
       "added_at": "2023-09-22 17:07:04",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-09-22 17:07:04",
       "album": {
-        "name": "Weed Garden",
-        "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Autumn Town Leaves",
-      "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
-    },
-    {
-      "added_at": "2023-09-22 17:07:04",
-      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 176026,
       "name": "Never in My Wildest Dreams",
       "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+    },
+    {
+      "added_at": "2023-09-22 17:07:04",
+      "album": {
+        "name": "Weed Garden",
+        "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Autumn Town Leaves",
+      "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
     },
     {
       "added_at": "2023-09-22 17:07:04",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-09-22 17:07:04",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
+        "name": "WHAT I HAVE",
+        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
       },
       "artists": [
         {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 239280,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/5mXOdtyPOL6GEuZdCyHSsb"
+      "duration_ms": 178681,
+      "name": "WHAT I HAVE",
+      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
     },
     {
       "added_at": "2023-09-22 17:07:04",
@@ -627,34 +627,18 @@
     {
       "added_at": "2023-09-22 17:07:04",
       "album": {
-        "name": "Coming Down the Mountain",
-        "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
         }
       ],
-      "duration_ms": 273958,
-      "name": "Coming Down the Mountain",
-      "url": "https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5"
-    },
-    {
-      "added_at": "2023-09-22 17:07:04",
-      "album": {
-        "name": "WHAT I HAVE",
-        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 178681,
-      "name": "WHAT I HAVE",
-      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
+      "duration_ms": 239280,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/5mXOdtyPOL6GEuZdCyHSsb"
     },
     {
       "added_at": "2023-09-22 17:07:04",
@@ -671,6 +655,22 @@
       "duration_ms": 200272,
       "name": "Eyes Fall",
       "url": "https://open.spotify.com/track/1i7xvrUa72MKMhnQcYSZxx"
+    },
+    {
+      "added_at": "2023-09-22 17:07:04",
+      "album": {
+        "name": "Coming Down the Mountain",
+        "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 273958,
+      "name": "Coming Down the Mountain",
+      "url": "https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5"
     },
     {
       "added_at": "2023-09-22 17:07:04",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-22 17:07:04",
       "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "This Town Still Talks About You",
-      "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
-    },
-    {
-      "added_at": "2023-09-22 17:07:04",
-      "album": {
         "name": "Wild Honey (Acoustic)",
         "url": "https://open.spotify.com/album/5tINqKaSnJLJfQZhMWmkO9"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 247250,
       "name": "Wild Honey (Acoustic)",
       "url": "https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn"
+    },
+    {
+      "added_at": "2023-09-22 17:07:04",
+      "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "This Town Still Talks About You",
+      "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
     },
     {
       "added_at": "2023-09-22 17:07:04",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-09-22 17:07:04",
       "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
-      },
-      "artists": [
-        {
-          "name": "Nelly Joy",
-          "url": "https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ"
-        }
-      ],
-      "duration_ms": 219217,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram"
-    },
-    {
-      "added_at": "2023-09-22 17:07:04",
-      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 158960,
       "name": "Cheap Suit",
       "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
+    },
+    {
+      "added_at": "2023-09-22 17:07:04",
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
+      },
+      "artists": [
+        {
+          "name": "Nelly Joy",
+          "url": "https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ"
+        }
+      ],
+      "duration_ms": 219217,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram"
     },
     {
       "added_at": "2023-09-22 17:07:04",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-22 17:07:04",
       "album": {
-        "name": "The Dream: Living The Dream (Deluxe)",
-        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
-    },
-    {
-      "added_at": "2023-09-22 17:07:04",
-      "album": {
         "name": "Home To Me",
         "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 186316,
       "name": "Home To Me",
       "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
+    },
+    {
+      "added_at": "2023-09-22 17:07:04",
+      "album": {
+        "name": "The Dream: Living The Dream (Deluxe)",
+        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
     },
     {
       "added_at": "2023-09-22 17:07:04",

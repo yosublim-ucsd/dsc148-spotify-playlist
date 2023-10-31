@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,775,172 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,775,210 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 16 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 |
 | 17 | [Big Love Ahead](https://open.spotify.com/track/3RGfmaB407YxayMDaV2jlO) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Big Love Ahead](https://open.spotify.com/album/0XT6wyN9L8cv0On0rOKNIb) | 1:48 |
 | 18 | [Space And Time](https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 4:32 |
-| 19 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
+| 19 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |
 | 20 | [Naomi](https://open.spotify.com/track/2q8qMzt3s5b935nW0fn9t9) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Naomi](https://open.spotify.com/album/49QUxmBg3qgG3rK9nwFy4S) | 2:22 |
 | 21 | [You and I \- Acoustic](https://open.spotify.com/track/2YVFDAZDou5A6UeTrYWmWX) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [You and I \(Acoustic\)](https://open.spotify.com/album/1K15bUc42XXQWoBR8ZtiMi) | 3:13 |
-| 22 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |
+| 22 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 | 23 | [Will You Remember Me?](https://open.spotify.com/track/46oXi2jMwHHEIuFJxrQ4Rv) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I Only See the Moon](https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6) | 3:51 |
 | 24 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
 | 25 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 55 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
 | 56 | [Falling in Love at a Coffee Shop](https://open.spotify.com/track/1KHdq8NK9QxnGjdXb55NiG) | [Landon Pigg](https://open.spotify.com/artist/1whjlG0NSaQytgDIWz10GS) | [The Boy Who Never](https://open.spotify.com/album/1fFFfcxhKi0kSPhm8kdOuf) | 4:04 |
 | 57 | [Olivia](https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Feathers & Fishhooks](https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud) | 3:53 |
-| 58 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 |
-| 59 | [Sophie](https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv) | 5:04 |
+| 58 | [Sophie](https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv) | 5:04 |
+| 59 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 |
 | 60 | [Party of One \(feat\. Sam Smith\)](https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Party of One \(feat\. Sam Smith\)](https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47) | 4:19 |
 | 61 | [Need You](https://open.spotify.com/track/7f0PCIJFVw7U5tbuFH4rb0) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/4ruy6zMB9t2sKrNyK2B8zF) | 3:09 |
 | 62 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 80 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 |
 | 81 | [Hate The Way You Love Me](https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI) | 4:03 |
 | 82 | [Don't Let Me Down](https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 |
-| 83 | [Land Of The Living](https://open.spotify.com/track/34f6sZPLPVsGwgBOrW3iLu) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Tiger Striped Sky](https://open.spotify.com/album/12AP94kXbpnXg6Zk8DmB0s) | 4:24 |
-| 84 | [Two of Us On the Run](https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez) | 4:35 |
-| 85 | [With You](https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7) | 3:36 |
-| 86 | [My Lover](https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [My Lover](https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ) | 4:29 |
+| 83 | [Two of Us On the Run](https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez) | 4:35 |
+| 84 | [With You](https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7) | 3:36 |
+| 85 | [My Lover](https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [My Lover](https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ) | 4:29 |
+| 86 | [Land Of The Living](https://open.spotify.com/track/34f6sZPLPVsGwgBOrW3iLu) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Tiger Striped Sky](https://open.spotify.com/album/12AP94kXbpnXg6Zk8DmB0s) | 4:24 |
 | 87 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
 | 88 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 |
 | 89 | [Does Anybody Know](https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 3:27 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 92 | [Dark Four Door](https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:28 |
 | 93 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 |
 | 94 | [Lovers' Eyes](https://open.spotify.com/track/60XAcN6U4FyH10movaioLz) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:21 |
-| 95 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
-| 96 | [Last Time](https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Last Time](https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn) | 3:13 |
+| 95 | [Last Time](https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Last Time](https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn) | 3:13 |
+| 96 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
 | 97 | [Great Divide](https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 4:01 |
 | 98 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
 | 99 | [So Are You To Me](https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS) | [Eastmountainsouth](https://open.spotify.com/artist/4H7QVpyCHkaUeEOpCPzZQk) | [Eastmountainsouth](https://open.spotify.com/album/5koo8CoRJwXO8sfemLf5Gp) | 1:57 |
 | 100 | [Highway Woman](https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Highway Woman](https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI) | 3:48 |
 
-Snapshot ID: `MCxmYjgwOWU5M2M1YmNiODcwNzBjZDg0MTJmYjA2NmUwMWMyZDUwMDQw`
+Snapshot ID: `MCwzMDcwNWJmNjRjYjMzMTdmMDk2NTNjZTZiNjcwMjkzMDYzZmY0MTgy`

@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ITZY
 
-793 songs - 1 day 19 hr 23 min
+795 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 | 2023-07-20 | 2023-08-17 |
 | [Bomb](https://open.spotify.com/track/14lY3e4KuLUT46WQWfKYKb) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Bomb](https://open.spotify.com/album/5irXJnIU6jn0pBqRbe4z3c) | 3:05 | 2021-12-23 | 2022-01-05 |
 | [BONA BONA](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) | 3:32 | 2023-07-28 | 2023-10-13 |
-| [BONA BONA \- JP ver.](https://open.spotify.com/track/6MHC1y7Gd5U1aX2hsuTPBC) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BONA BONA \(JP ver.\)](https://open.spotify.com/album/50GXqalTtZzcK9wjXu4gSK) | 3:32 | 2023-09-21 |  |
+| [BONA BONA \- JP ver.](https://open.spotify.com/track/6MHC1y7Gd5U1aX2hsuTPBC) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BONA BONA \(JP ver.\)](https://open.spotify.com/album/50GXqalTtZzcK9wjXu4gSK) | 3:32 | 2023-09-21 | 2023-10-31 |
 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 | 2023-05-25 | 2023-07-26 |
 | [BONVOYAGE \(Farewell Ver.\)](https://open.spotify.com/track/4xiuarCywWiw9qESd8Y7ng) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[BONVOYAGE \(Farewell Ver.\)\]](https://open.spotify.com/album/2oBHZWKC421qcUeMZLYNTO) | 3:32 | 2023-09-13 | 2023-10-28 |
 | [Boogie Woogie](https://open.spotify.com/track/354txxGRPRqIHqPcSvibQP) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Boogie Woogie](https://open.spotify.com/album/0uK36l0cCAoyopQr6vVJEs) | 3:10 | 2022-08-11 | 2022-10-19 |
@@ -295,7 +295,7 @@
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-04 |  |
 | [Goes on](https://open.spotify.com/track/2Y9KdZldoTAXBfy5P9IcdU) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Goes on](https://open.spotify.com/album/5AhqIXtThzlDFpdLlBZhgw) | 3:30 | 2022-08-16 | 2022-09-28 |
 | [Golden Age](https://open.spotify.com/track/6NVdrwoqcAD16HMPOT6FLE) | [NCT 2023](https://open.spotify.com/artist/7e0ruktNBO8etVJ5rjvhbG) | [Golden Age](https://open.spotify.com/album/2PCdWOGSx5Xt8rBE5wD8Bu) | 3:38 | 2023-08-24 | 2023-10-11 |
-| [Good & Great](https://open.spotify.com/track/51oDOYN8AOyzvOpcvRGyI8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Good & Great \- The 2nd Mini Album](https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo) | 3:19 | 2023-09-11 |  |
+| [Good & Great](https://open.spotify.com/track/51oDOYN8AOyzvOpcvRGyI8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Good & Great \- The 2nd Mini Album](https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo) | 3:19 | 2023-09-11 | 2023-10-31 |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 | 2022-09-05 |
 | [Good Boy Gone Bad \- Japanese Ver.](https://open.spotify.com/track/1n52exGqPZkKBItLYxMksJ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [GOOD BOY GONE BAD](https://open.spotify.com/album/0nTPrUjlLwEJD6Fdw2GGoU) | 3:12 | 2022-08-30 | 2022-11-30 |
 | [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-04 | 2022-06-15 |
@@ -304,6 +304,7 @@
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-03-06 | 2023-05-10 |
 | [Guardian](https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BASTIONS OST Part.4](https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k) | 2:38 | 2023-06-13 | 2023-08-04 |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-07-28 | 2022-10-26 |
+| [Guilty](https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Guilty \- The 4th Mini Album](https://open.spotify.com/album/1lnDLQ5nH1V3ST8MuVGmQW) | 3:10 | 2023-10-30 |  |
 | [Gum](https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Gum](https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T) | 2:42 | 2023-10-25 |  |
 | [GUNS](https://open.spotify.com/track/6AGVVXBzy9h5nnroeAc0hN) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:15 | 2022-02-08 | 2022-03-09 |
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-21 | 2023-07-08 |
@@ -318,6 +319,7 @@
 | [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 | 2023-07-03 | 2023-08-19 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-28 | 2022-09-21 |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-23 | 2022-02-16 |
+| [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-10-30 |  |
 | [HELLO](https://open.spotify.com/track/0xd4HZuHxk3ol5AFDxgAEK) | [Sanha](https://open.spotify.com/artist/1L7aDqsr2ACWR6h75SsL3c) | [HELLO](https://open.spotify.com/album/2BLiOaGVkavo7azxjJn4rB) | 3:32 | 2022-01-25 | 2022-02-12 |
 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-04 | 2023-01-18 |
 | [HELLO \- JP Ver.](https://open.spotify.com/track/4QiD4Qkiq1Gw2v2FkKIgqe) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:01 | 2022-11-24 | 2023-03-15 |
@@ -790,7 +792,7 @@
 | [六等星](https://open.spotify.com/track/7DUin3zPxgW9vD4NnhSlkk) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [六等星](https://open.spotify.com/album/63cB2tLiZJdgy8jN7O4Qx4) | 3:29 | 2022-04-12 | 2022-06-21 |
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-23 | 2023-01-13 |
 | [君の声 \(Your voice\)](https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [iKON JAPAN TOUR 2022 \[FLASHBACK\] \(Live\)](https://open.spotify.com/album/2vvQxmQOjAgMrlU1MT0qcC) | 3:20 | 2022-10-11 | 2023-01-10 |
-| [明日に向かって](https://open.spotify.com/track/2IRd4YapC0S3mVhFo09lnW) | [L \(キム・ミョンス\)](https://open.spotify.com/artist/7IKwZ7A0LEPpAZfIgSdjao) | [moments](https://open.spotify.com/album/641cArZ8NkDgTF4CcisYii) | 4:55 | 2023-10-23 |  |
+| [明日に向かって](https://open.spotify.com/track/2IRd4YapC0S3mVhFo09lnW) | [L \(キム・ミョンス\)](https://open.spotify.com/artist/7IKwZ7A0LEPpAZfIgSdjao) | [moments](https://open.spotify.com/album/641cArZ8NkDgTF4CcisYii) | 4:55 | 2023-10-23 | 2023-10-31 |
 | [時を駆けて](https://open.spotify.com/track/5rLb9sJEfvEMcWTVhEIZwG) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Blooming](https://open.spotify.com/album/59WPwlL2LisK1iTOEZ5rkf) | 3:30 | 2022-03-29 | 2022-05-11 |
 | [木蘭の涙](https://open.spotify.com/track/7iBecj6numquqBjVCaqjAC) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [木蘭の涙](https://open.spotify.com/album/1VU49IhAsRovcWXa8YgnKn) | 5:32 | 2023-09-21 | 2023-09-27 |
 | [束の間の恋](https://open.spotify.com/track/27WqCs6kN18Uw2PtFHxCvr) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [君という桜の花びらが僕の心に舞い降りた。](https://open.spotify.com/album/6QvUd4r5lYp7wJSS64woW6) | 3:19 | 2023-05-24 | 2023-06-21 |
